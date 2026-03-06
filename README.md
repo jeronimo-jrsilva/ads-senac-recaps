@@ -16,7 +16,7 @@ Os recaps são gerados através de um fluxo de curadoria técnica que envolve:
 
 ## 🚀 Como Acessar
 Você pode navegar por todas as semanas através do nosso portal principal:
-👉 **[Acesse o Hub de Recaps aqui](https://jeronimo-jrsilva.github.io/ads-senac-recaps/index.html)** *(Link exemplificativo para o GitHub Pages)*
+👉 **[Acesse o Hub de Recaps aqui](https://jeronimo-jrsilva.github.io/ads-senac-recaps/portal/index.html)** *(Link exemplificativo para o GitHub Pages)*
 
 ## 📅 Cronograma de Atualizações
 - **Semana 02 (02/03 - 06/03):** Consolidada (Lógica, Arquitetura, Conformidade).
