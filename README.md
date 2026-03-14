@@ -1,7 +1,8 @@
 # 🚀 ADS 2026.1 - Central de Recaps Acadêmicos
 
-> [!TIP] **ACESSO RÁPIDO AO PORTAL**
-> 👉 **[Clique aqui para acessar o Hub de Recaps](https://jeronimo-jrsilva.github.io/ads-senac-recaps/index.html)**
+> [!TIP]
+> **ACESSO RÁPIDO AO PORTAL**
+> 👉 **[Clique aqui para acessar o Hub de Recaps](https://jeronimo-jrsilva.github.io/ads-senac-recaps/)**
 
 ---
 
