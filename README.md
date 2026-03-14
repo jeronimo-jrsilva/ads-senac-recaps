@@ -1,4 +1,9 @@
-# ADS 2026.1 - Central de Recaps Acadêmicos
+# 🚀 ADS 2026.1 - Central de Recaps Acadêmicos
+
+> [!TIP] **ACESSO RÁPIDO AO PORTAL**
+> 👉 **[Clique aqui para acessar o Hub de Recaps](https://jeronimo-jrsilva.github.io/ads-senac-recaps/index.html)**
+
+---
 
 Este repositório centraliza os materiais de apoio e resumos consolidados das disciplinas do curso de **Análise e Desenvolvimento de Sistemas (2026.1)**.
 
@@ -15,7 +20,7 @@ Para detalhes sobre as funcionalidades e restrições técnicas, acesse:
 
 ## 🚀 Como Acessar
 Você pode navegar por todas as semanas através do nosso portal principal:
-👉 **[Acesse o Hub de Recaps aqui](https://jeronimo-jrsilva.github.io/ads-senac-recaps/portal/Recap_Master_S1.html)** *(Link exemplificativo para o GitHub Pages)*
+👉 **[Acesse o Hub de Recaps aqui](https://jeronimo-jrsilva.github.io/ads-senac-recaps/index.html)** *(Link exemplificativo para o GitHub Pages)*
 
 ## 📅 Cronograma de Atualizações
 - **Semana 02 (02/03 - 06/03):** Consolidada (Lógica, Arquitetura, Conformidade).

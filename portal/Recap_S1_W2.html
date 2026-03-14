@@ -76,15 +76,6 @@
             box-shadow: 0 5px 15px rgba(0,0,0,0.5);
             overflow: hidden;
         }
-        
-        /* Differentiated Code Boxes */
-        .sourceCode:has(.python) { border-left-color: #3776ab; }
-        .sourceCode:has(.bash) { border-left-color: #4ead28; }
-        .sourceCode:has(.sql) { border-left-color: #e38c00; }
-        .sourceCode:has(.javascript), .sourceCode:has(.js) { border-left-color: #f7df1e; }
-        .sourceCode:has(.html) { border-left-color: #e34c26; }
-        .sourceCode:has(.css) { border-left-color: #264de4; }
-
         .sourceCode pre, .sourceCode code, .sourceCode span, .sourceCode a { 
             background: transparent !important; 
             border: none !important; 
@@ -143,23 +134,6 @@
             white-space: nowrap;
         }
 
-        /* Concept Pills (Double Brackets Syntax) */
-        .concept-pill {
-            background: rgba(212, 175, 55, 0.15);
-            color: #fff;
-            border: 1px solid var(--accent);
-            padding: 2px 10px;
-            border-radius: 20px;
-            font-size: 0.85rem;
-            font-weight: 600;
-            white-space: nowrap;
-            display: inline-block;
-            box-shadow: 0 0 10px rgba(212,175,55,0.2);
-            margin: 2px 0;
-        }
-
-        .vertical-spacer { height: 15px; }
-
         pre, pre *, code, code * { font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace !important; font-size: 0.85rem; line-height: 1.6; }
 
         /* Glossary GRID */
@@ -203,7 +177,7 @@ transição da lógica puramente abstrata para a manipulação técnica e
 rigorosa do motor de cálculo do Python. Nesta sessão, o Professor Nator
 Junior enfatizou que o programador não é apenas um escritor de scripts,
 mas um arquiteto de instruções binárias que deve dominar a precedência e
-a tipagem para garantir a integridade do software.</p><div class="vertical-spacer"></div>
+a tipagem para garantir a integridade do software.</p>
 <hr />
 <h2
 id="o-motor-de-cálculo-operadores-aritméticos-e-a-precedência-pemdas">1.
@@ -211,7 +185,7 @@ O Motor de Cálculo: Operadores Aritméticos e a Precedência <a href="#term-pem
 <p>A precisão da máquina é absoluta, mas ela depende da ordem correta
 das instruções. O Python segue rigorosamente a hierarquia matemática, e
 qualquer desvio nesta ordem resulta em bugs lógicos silenciosos, piores
-do que erros de <a href="#term-sintaxe" class="term-link">sintaxe</a>.</p><div class="vertical-spacer"></div>
+do que erros de <a href="#term-sintaxe" class="term-link">sintaxe</a>.</p>
 <ul>
 <li><strong>Hierarquia Sagrada (<a href="#term-pemdas" class="term-link">PEMDAS</a>):</strong> Revisitamos a ordem de
 execução: Parênteses, Expoentes, Multiplicação e Divisão (da esquerda
@@ -236,7 +210,7 @@ nativa da linguagem.</li>
 Operadores Relacionais: A Capacidade de Questionar o Sistema</h2>
 <p>O software ganha “vida” e capacidade de resposta quando começa a
 confrontar valores. Os operadores relacionais são a base das perguntas
-lógicas que o sistema faz ao hardware.</p><div class="vertical-spacer"></div>
+lógicas que o sistema faz ao hardware.</p>
 <ul>
 <li><strong>A Distinção Vital (= vs ==):</strong> Um dos maiores
 obstáculos para iniciantes é confundir o sinal de atribuição
@@ -253,7 +227,7 @@ Diferença (<code>!=</code>), Maior que (<code>&gt;</code>), Menor que
 Operadores Lógicos: A Combinatória de Tomada de Decisão</h2>
 <p>A inteligência artificial e os sistemas complexos residem na
 combinação de perguntas simples. Usando analogias de mercado e regras de
-negócio, exploramos a Álgebra Booleana na prática.</p><div class="vertical-spacer"></div>
+negócio, exploramos a Álgebra Booleana na prática.</p>
 <ul>
 <li><strong>Operador AND (E):</strong> Funciona como um filtro de
 conformidade rigoroso. A sentença só é verdadeira se TODOS os requisitos
@@ -271,7 +245,7 @@ Tipagem</h2>
 <p>Aprendemos que o Python é uma linguagem de tipagem dinâmica, mas
 rigorosa. A função <code>input()</code> sempre recebe dados como String
 (Texto). Tentar somar dois inputs sem o devido tratamento resulta em
-concatenação (ex: 1 + 1 virando “11”).</p><div class="vertical-spacer"></div>
+concatenação (ex: 1 + 1 virando “11”).</p>
 <ul>
 <li><strong><a href="#term-casting" class="term-link">Casting</a> Mandatório:</strong> A prática de envolver o input
 em funções de conversão como <code>int()</code> ou <code>float()</code>
@@ -286,13 +260,13 @@ UX: <a href="#term-f-strings" class="term-link">F-Strings</a> para Saídas Profi
 <p>A interface com o usuário final deve ser limpa e clara. Evoluimos da
 concatenação arcaica para o uso de <a href="#term-f-strings" class="term-link">F-Strings</a> (Formatted String
 Literals), que permitem a injeção direta de variáveis e expressões
-dentro de textos.</p><div class="vertical-spacer"></div>
+dentro de textos.</p>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>resultado <span class="op">=</span> <span class="dv">10</span> <span class="op">/</span> <span class="dv">3</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="ss">f&quot;O valor processado com precisão é: </span><span class="sc">{</span>resultado<span class="sc">:.2f}</span><span class="ss">&quot;</span>)</span></code></pre></div>
 <p>O uso de modificadores como <code>:.2f</code> garante que dízimas
 periódicas não poluam a tela do usuário, mantendo o foco na informação
-relevante.</p><div class="vertical-spacer"></div>
+relevante.</p>
 <hr />
 </div></section><section id="logica_04" class="recap-section"><div class="lesson-card"><div class="lesson-metadata">Lógica de Programação em Python | Nator Junior | 2026-03-03</div><p>A quarta aula de Lógica de Programação foi dedicada à consolidação
 prática dos conceitos de operadores e à introdução de uma estética
@@ -300,14 +274,14 @@ profissional na manipulação de dados. O Professor Nator Junior reforçou
 a filosofia de que o aprendizado em tecnologia não ocorre na observação
 passiva, mas no enfrentamento constante do erro e na depuração ativa do
 código. A sessão foi marcada por dinâmicas intensas que conectaram a
-teoria algorítmica às necessidades reais de mercado.</p><div class="vertical-spacer"></div>
+teoria algorítmica às necessidades reais de mercado.</p>
 <hr />
 <h2 id="consolidação-prática-pemdas-em-ambientes-de-alta-intensidade">1.
 Consolidação Prática: <a href="#term-pemdas" class="term-link">PEMDAS</a> em Ambientes de Alta Intensidade</h2>
 <p>Através de uma dinâmica de sorteio e resolução coletiva utilizando
 ferramentas visuais como o Excalidraw, a turma foi desafiada a resolver
 equações complexas que testavam o limite do entendimento sobre a
-hierarquia de operações.</p><div class="vertical-spacer"></div>
+hierarquia de operações.</p>
 <ul>
 <li><strong>A Precedência como Garantia de Integridade:</strong>
 Validamos como o interpretador do Python prioriza multiplicações e
@@ -327,7 +301,7 @@ do Programador: O Poder das <a href="#term-f-strings" class="term-link">F-String
 <p>Um dos pontos altos da aula foi a transição para uma interface de
 saída profissional. Respondendo a dúvidas sobre como “limpar” a poluição
 visual de dízimas periódicas, exploramos os recursos avançados de
-formatação do Python.</p><div class="vertical-spacer"></div>
+formatação do Python.</p>
 <ul>
 <li><strong>Modificadores de Formatação:</strong> O uso da <a href="#term-sintaxe" class="term-link">sintaxe</a>
 <code>:.2f</code> dentro das chaves das <a href="#term-f-strings" class="term-link">F-Strings</a> permite um controle
@@ -348,7 +322,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a hr
 <h2 id="a-analogia-do-volante-teoria-vs.-fluência-técnica">3. A Analogia
 do Volante: Teoria vs. Fluência Técnica</h2>
 <p>O Professor utilizou uma analogia poderosa para descrever a jornada
-do estudante de ADS: programar é como dirigir no trânsito urbano.</p><div class="vertical-spacer"></div>
+do estudante de ADS: programar é como dirigir no trânsito urbano.</p>
 <ul>
 <li><strong>O Aprendizado está no Fazer:</strong> Estudar manuais de
 mecânica ou manuais de trânsito por anos não ensina ninguém a dirigir. A
@@ -365,7 +339,7 @@ Produto: Do Algoritmo ao Fluxo de Negócio</h2>
 <p>A discussão evoluiu para a aplicação prática dos algoritmos em
 cenários reais. Trabalhamos na concepção de sistemas para Pet Shops e
 conversores de temperatura, conectando a lógica de variáveis à automação
-de processos que antes eram manuais e propensos a falhas humanas.</p><div class="vertical-spacer"></div>
+de processos que antes eram manuais e propensos a falhas humanas.</p>
 <ul>
 <li><strong>Requisitos de Sistema:</strong> Analisamos como capturar a
 temperatura em Celsius e transformar em Fahrenheit, respeitando as
@@ -385,14 +359,14 @@ central da aula foi desmistificar o hardware, deixando de vê-lo como uma
 permite que o software exista. Compreendemos que a arquitetura não é
 apenas decorar nomes de componentes, mas sim perceber como o fluxo de
 dados atravessa tradutores e gerentes até se transformar na ação que
-vemos na tela.</p><div class="vertical-spacer"></div>
+vemos na tela.</p>
 <hr />
 <h2 id="quem-manda-e-quem-traduz-o-kernel-e-os-drivers">1. Quem manda e
 quem traduz: O <a href="#term-kernel" class="term-link">Kernel</a> e os Drivers</h2>
 <p>O computador funciona em um sistema complexo de camadas de abstração.
 Para que um simples comando print em Python resulte em luzes piscando em
 um monitor ou em um arquivo salvo em disco, ele precisa passar por
-“pedágios” críticos de segurança e tradução.</p><div class="vertical-spacer"></div>
+“pedágios” críticos de segurança e tradução.</p>
 <ul>
 <li><strong>O <a href="#term-kernel" class="term-link">Kernel</a> (Núcleo):</strong> Apresentado como o “prefeito” do
 sistema operacional, o <a href="#term-kernel" class="term-link">Kernel</a> é o software mestre. Ele detém o controle
@@ -417,7 +391,7 @@ componente.</li>
 Inicialização: A <a href="#term-bios" class="term-link">BIOS</a> e o <a href="#term-post" class="term-link">POST</a></h2>
 <p>Antes que o sistema operacional sequer pense em carregar, o hardware
 realiza um processo solitário de autoconhecimento e check-up de
-integridade.</p><div class="vertical-spacer"></div>
+integridade.</p>
 <ul>
 <li><strong><a href="#term-bios" class="term-link">BIOS</a> (Basic Input/Output System):</strong> É o <a href="#term-firmware" class="term-link">firmware</a> da
 placa-mãe e a primeira peça de software a “acordar” quando o botão power
@@ -435,7 +409,7 @@ gráfica.</li>
 <h2 id="onde-a-conta-acontece-a-cpu-e-suas-memórias">3. Onde a conta
 acontece: A CPU e suas Memórias</h2>
 <p>Mergulhamos “debaixo do capô” do processador para entender como os
-impulsos elétricos se tornam lógica matemática.</p><div class="vertical-spacer"></div>
+impulsos elétricos se tornam lógica matemática.</p>
 <ul>
 <li><strong>Unidade Lógica e Aritmética (<a href="#term-ula" class="term-link">ULA</a>):</strong> É a calculadora
 real situada no coração da CPU. Toda operação matemática ou decisão
@@ -457,7 +431,7 @@ Conceito de <a href="#term-computacao-ubiqua" class="term-link">Computação Ub�
 <p>O Professor Thiago utilizou analogias poderosas para explicar a
 adequação entre hardware e software. Um software pesado em um hardware
 limitado é como um carro popular tentando fazer uma trilha 4x4: o
-resultado é frustração e ineficiência.</p><div class="vertical-spacer"></div>
+resultado é frustração e ineficiência.</p>
 <ul>
 <li><strong>Memória Swap (O Seguro):</strong> Quando a memória <a href="#term-ram" class="term-link">RAM</a> lota,
 o sistema operacional utiliza um pedaço do HD ou SSD como uma reserva de
@@ -478,13 +452,13 @@ lei” para um ecossistema regulamentado. O foco foi a responsabilidade
 civil e penal do desenvolvedor, utilizando a rastreabilidade técnica
 como principal ferramenta de auditoria e conformidade. Através de
 exemplos práticos e discussões sobre legislação, compreendemos que cada
-decisão de código possui um reflexo jurídico imediato.</p><div class="vertical-spacer"></div>
+decisão de código possui um reflexo jurídico imediato.</p>
 <hr />
 <h2 id="fundamentos-e-marcos-regulatórios">1. Fundamentos e Marcos
 Regulatórios</h2>
 <p>O Direito Digital busca adaptar normas físicas ao ambiente
 tecnológico. A evolução legal brasileira foi moldada por casos que
-expuseram a vulnerabilidade do cidadão na rede:</p><div class="vertical-spacer"></div>
+expuseram a vulnerabilidade do cidadão na rede:</p>
 <ul>
 <li><strong><a href="#term-equivalencia-funcional" class="term-link">Equivalência Funcional</a>:</strong> Princípio que garante que
 atos realizados em ambiente digital (como contratos assinados
@@ -512,7 +486,7 @@ LGPD: O Titular no Centro e a Responsabilidade Corporativa</h2>
 <p>A Lei Geral de Proteção de Dados (Lei 13.709/2018) estabelece que o
 indivíduo é o real dono de seus dados. As empresas deixam de ser
 proprietárias das informações e passam a ser apenas “tomadoras de
-empréstimo” sob regras rígidas de governança.</p><div class="vertical-spacer"></div>
+empréstimo” sob regras rígidas de governança.</p>
 <ul>
 <li><strong>Finalidade e Necessidade:</strong> A conformidade baseia-se
 em coletar apenas o mínimo de dados necessário para um objetivo
@@ -530,7 +504,7 @@ tratamento em nome do controlador), ambos sob a supervisão da <a href="#term-an
 Coração da Conformidade: Dados Comuns vs. Dados Sensíveis</h2>
 <p>Esta é a distinção vital para qualquer desenvolvedor de sistemas. A
 lei classifica os dados com base no risco de dano e potencial de
-discriminação que sua exposição pode causar.</p><div class="vertical-spacer"></div>
+discriminação que sua exposição pode causar.</p>
 <ul>
 <li><strong>Dados Comuns (O “Quem é você?”):</strong> Informações de
 identificação básica que permitem localizar ou identificar um indivíduo
@@ -551,7 +525,7 @@ Desafios Emergentes</h2>
 Europeia como o “Padrão Ouro” mundial que inspirou a nossa LGPD.
 Discutimos a Extraterritorialidade (aplicação da lei fora do país de
 origem) e o conceito de <a href="#term-direito-ao-esquecimento" class="term-link">Direito ao Esquecimento</a> — o direito de não ser
-eternamente vinculado a fatos desatualizados na rede.</p><div class="vertical-spacer"></div>
+eternamente vinculado a fatos desatualizados na rede.</p>
 <hr />
 </div></section>
             <section id="glossary" class="recap-section">
@@ -559,86 +533,59 @@ eternamente vinculado a fatos desatualizados na rede.</p><div class="vertical-sp
                     <div class="lesson-metadata">Dicionário Técnico Transversal</div>
                     <h2>📚 Glossário Consolidado</h2>
                     <div class="glossary-grid"><div class="glossary-item" id="term-aninhamento"><span class="glossary-term">Aninhamento</span><div class="glossary-def"><p>Técnica de colocar uma função dentro de outra, como
-<code>float(input())</code>, para otimizar o fluxo de processamento. <a
-href="https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%A3o_aninhada">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+<code>float(input())</code>, para otimizar o fluxo de processamento.</p>
 </div><a href="#logica_04" class="backlink" onclick="showSection('logica_04')">🔙 Voltar para Lógica</a></div><div class="glossary-item" id="term-anpd"><span class="glossary-term">ANPD</span><div class="glossary-def"><p>Autoridade Nacional de Proteção de Dados, órgão responsável por
 fiscalizar a LGPD no Brasil e aplicar sanções que podem chegar a R$ 50
-milhões. <a
-href="https://pt.wikipedia.org/wiki/Autoridade_Nacional_de_Prote%C3%A7%C3%A3o_de_Dados">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+milhões.</p>
 </div><a href="#conformidade_02" class="backlink" onclick="showSection('conformidade_02')">🔙 Voltar para Conformidade</a></div><div class="glossary-item" id="term-biometria"><span class="glossary-term">Biometria</span><div class="glossary-def"><p>Dados físicos ou comportamentais únicos usados para identificação
-segura, classificados como Dados Sensíveis. <a
-href="https://pt.wikipedia.org/wiki/Biometria">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+segura, classificados como Dados Sensíveis.</p>
 </div><a href="#conformidade_02" class="backlink" onclick="showSection('conformidade_02')">🔙 Voltar para Conformidade</a></div><div class="glossary-item" id="term-bios"><span class="glossary-term">BIOS</span><div class="glossary-def"><p>Sistema básico de entrada e saída responsável por inicializar o
-hardware e preparar o ambiente para o S.O. <a
-href="https://pt.wikipedia.org/wiki/BIOS">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+hardware e preparar o ambiente para o S.O.</p>
 </div><a href="#arquitetura_01" class="backlink" onclick="showSection('arquitetura_01')">🔙 Voltar para Arquitetura</a></div><div class="glossary-item" id="term-booleano"><span class="glossary-term">Booleano</span><div class="glossary-def"><p>Tipo de dado lógico binário que assume apenas os valores Verdadeiro
-(True) ou Falso (False). <a
-href="https://pt.wikipedia.org/wiki/Tipo_de_dado_booleano">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+(True) ou Falso (False).</p>
 </div><a href="#logica_03" class="backlink" onclick="showSection('logica_03')">🔙 Voltar para Lógica</a></div><div class="glossary-item" id="term-cache"><span class="glossary-term">Cache</span><div class="glossary-def"><p>Camada de memória ultrarrápida interna ao processador usada para
-acelerar o acesso a dados frequentes. <a
-href="https://pt.wikipedia.org/wiki/Cache">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+acelerar o acesso a dados frequentes.</p>
 </div><a href="#arquitetura_01" class="backlink" onclick="showSection('arquitetura_01')">🔙 Voltar para Arquitetura</a></div><div class="glossary-item" id="term-casting"><span class="glossary-term">Casting</span><div class="glossary-def"><p>O processo de forçar a mudança de tipo de uma variável, vital para
-converter entradas de texto do teclado em números processáveis. <a
-href="https://pt.wikipedia.org/wiki/Convers%C3%A3o_de_tipo">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+converter entradas de texto do teclado em números processáveis.</p>
 </div><a href="#logica_04" class="backlink" onclick="showSection('logica_04')">🔙 Voltar para Lógica</a></div><div class="glossary-item" id="term-compliance"><span class="glossary-term">Compliance</span><div class="glossary-def"><p>Estado de conformidade com regras, leis, normas éticas e regulamentos
-internos de uma instituição. <a
-href="https://pt.wikipedia.org/wiki/Conformidade">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+internos de uma instituição.</p>
 </div><a href="#conformidade_02" class="backlink" onclick="showSection('conformidade_02')">🔙 Voltar para Conformidade</a></div><div class="glossary-item" id="term-computacao-ubiqua"><span class="glossary-term">Computação Ubíqua</span><div class="glossary-def"><p>O conceito de tecnologia integrada ao cotidiano, tornando-se
-onipresente e invisível ao usuário. <a
-href="https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_ub%C3%ADqua">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+onipresente e invisível ao usuário.</p>
 </div><a href="#arquitetura_01" class="backlink" onclick="showSection('arquitetura_01')">🔙 Voltar para Arquitetura</a></div><div class="glossary-item" id="term-debug"><span class="glossary-term">Debug</span><div class="glossary-def"><p>O ato de encontrar e corrigir erros (bugs) no código fonte de um
-programa. <a
-href="https://pt.wikipedia.org/wiki/Depura%C3%A7%C3%A3o">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+programa.</p>
 </div><a href="#logica_04" class="backlink" onclick="showSection('logica_04')">🔙 Voltar para Lógica</a></div><div class="glossary-item" id="term-direito-ao-esquecimento"><span class="glossary-term">Direito ao Esquecimento</span><div class="glossary-def"><p>Direito de impedir a perpetuação de informações irrelevantes ou
-prejudiciais do passado na internet. <a
-href="https://pt.wikipedia.org/wiki/Direito_ao_esquecimento">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+prejudiciais do passado na internet.</p>
 </div><a href="#conformidade_02" class="backlink" onclick="showSection('conformidade_02')">🔙 Voltar para Conformidade</a></div><div class="glossary-item" id="term-driver"><span class="glossary-term">Driver</span><div class="glossary-def"><p>Software especializado que atua como tradutor entre o hardware
-específico e o sistema operacional genérico. <a
-href="https://pt.wikipedia.org/wiki/Controlador_de_dispositivo">Wikipédia</a>.</p><div class="vertical-spacer"></div>
-</div><a href="#arquitetura_01" class="backlink" onclick="showSection('arquitetura_01')">🔙 Voltar para Arquitetura</a></div><div class="glossary-item" id="term-equivalencia-funcional"><span class="glossary-term">Equivalência Funcional</span><div class="glossary-def"><p>Princípio jurídico de paridade entre o meio digital e o físico. <a
-href="https://pt.wikipedia.org/wiki/Equival%C3%AAncia_funcional">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+específico e o sistema operacional genérico.</p>
+</div><a href="#arquitetura_01" class="backlink" onclick="showSection('arquitetura_01')">🔙 Voltar para Arquitetura</a></div><div class="glossary-item" id="term-equivalencia-funcional"><span class="glossary-term">Equivalência Funcional</span><div class="glossary-def"><p>Princípio jurídico de paridade entre o meio digital e o físico.</p>
 </div><a href="#conformidade_02" class="backlink" onclick="showSection('conformidade_02')">🔙 Voltar para Conformidade</a></div><div class="glossary-item" id="term-f-strings"><span class="glossary-term">F-Strings</span><div class="glossary-def"><p>Formatted String Literals, recurso do Python para interpolação de
-variáveis com alta performance e clareza visual. <a
-href="https://pt.wikipedia.org/wiki/Python_(linguagem_de_programa%C3%A7%C3%A3o)">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+variáveis com alta performance e clareza visual.</p>
 </div><a href="#logica_04" class="backlink" onclick="showSection('logica_04')">🔙 Voltar para Lógica</a></div><div class="glossary-item" id="term-firmware"><span class="glossary-term">Firmware</span><div class="glossary-def"><p>Software de baixo nível gravado diretamente no hardware para
-controlar suas funções básicas. <a
-href="https://pt.wikipedia.org/wiki/Firmware">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+controlar suas funções básicas.</p>
 </div><a href="#arquitetura_01" class="backlink" onclick="showSection('arquitetura_01')">🔙 Voltar para Arquitetura</a></div><div class="glossary-item" id="term-gdb-online"><span class="glossary-term">GDB Online</span><div class="glossary-def"><p>Ambiente de desenvolvimento web sugerido pelo professor para testes
-rápidos de sintaxe. <a
-href="https://pt.wikipedia.org/wiki/GNU_Debugger">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+rápidos de sintaxe.</p>
 </div><a href="#logica_03" class="backlink" onclick="showSection('logica_03')">🔙 Voltar para Lógica</a></div><div class="glossary-item" id="term-gdpr"><span class="glossary-term">GDPR</span><div class="glossary-def"><p>Regulamentação europeia de proteção de dados, considerada a mais
-rigorosa do mundo. <a
-href="https://pt.wikipedia.org/wiki/Regulamento_Geral_sobre_a_Prote%C3%A7%C3%A3o_de_Dados">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+rigorosa do mundo.</p>
 </div><a href="#conformidade_02" class="backlink" onclick="showSection('conformidade_02')">🔙 Voltar para Conformidade</a></div><div class="glossary-item" id="term-kernel"><span class="glossary-term">Kernel</span><div class="glossary-def"><p>O núcleo do sistema operacional que gerencia recursos de baixo nível
-como memória e processamento. <a
-href="https://pt.wikipedia.org/wiki/N%C3%BAcleo_(processamento_de_dados)">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+como memória e processamento.</p>
 </div><a href="#arquitetura_01" class="backlink" onclick="showSection('arquitetura_01')">🔙 Voltar para Arquitetura</a></div><div class="glossary-item" id="term-latex"><span class="glossary-term">LaTeX</span><div class="glossary-def"><p>Motor de formatação de documentos de alta qualidade utilizado na
-produção dos materiais didáticos do professor. <a
-href="https://pt.wikipedia.org/wiki/LaTeX">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+produção dos materiais didáticos do professor.</p>
 </div><a href="#logica_04" class="backlink" onclick="showSection('logica_04')">🔙 Voltar para Lógica</a></div><div class="glossary-item" id="term-lei-de-moore"><span class="glossary-term">Lei de Moore</span><div class="glossary-def"><p>Observação de que a capacidade de processamento dos computadores
-dobra aproximadamente a cada dois anos. <a
-href="https://pt.wikipedia.org/wiki/Lei_de_Moore">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+dobra aproximadamente a cada dois anos.</p>
 </div><a href="#arquitetura_01" class="backlink" onclick="showSection('arquitetura_01')">🔙 Voltar para Arquitetura</a></div><div class="glossary-item" id="term-pemdas"><span class="glossary-term">PEMDAS</span><div class="glossary-def"><p>Hierarquia universal de operações matemáticas (Parênteses, Expoentes,
-Multiplicação, Divisão, Adição, Subtração). <a
-href="https://pt.wikipedia.org/wiki/Ordem_de_opera%C3%A7%C3%B5es">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+Multiplicação, Divisão, Adição, Subtração).</p>
 </div><a href="#logica_04" class="backlink" onclick="showSection('logica_04')">🔙 Voltar para Lógica</a></div><div class="glossary-item" id="term-post"><span class="glossary-term">POST</span><div class="glossary-def"><p>Power-On Self-Test, o ritual de autodiagnóstico executado pela BIOS
-no momento do boot. <a
-href="https://pt.wikipedia.org/wiki/Autoteste_de_inicializa%C3%A7%C3%A3o">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+no momento do boot.</p>
 </div><a href="#arquitetura_01" class="backlink" onclick="showSection('arquitetura_01')">🔙 Voltar para Arquitetura</a></div><div class="glossary-item" id="term-ram"><span class="glossary-term">RAM</span><div class="glossary-def"><p>Random Access Memory, a memória de trabalho volátil onde o
-processador armazena dados em execução. <a
-href="https://pt.wikipedia.org/wiki/Mem%C3%B3ria_de_acesso_aleat%C3%B3rio">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+processador armazena dados em execução.</p>
 </div><a href="#arquitetura_01" class="backlink" onclick="showSection('arquitetura_01')">🔙 Voltar para Arquitetura</a></div><div class="glossary-item" id="term-rom"><span class="glossary-term">ROM</span><div class="glossary-def"><p>Read-Only Memory, memória não volátil usada para armazenar instruções
-fixas, como a BIOS. <a
-href="https://pt.wikipedia.org/wiki/Mem%C3%B3ria_somente_de_leitura">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+fixas, como a BIOS.</p>
 </div><a href="#arquitetura_01" class="backlink" onclick="showSection('arquitetura_01')">🔙 Voltar para Arquitetura</a></div><div class="glossary-item" id="term-sintaxe"><span class="glossary-term">Sintaxe</span><div class="glossary-def"><p>O conjunto de regras que define a estrutura de escrita correta em uma
-linguagem de programação. <a
-href="https://pt.wikipedia.org/wiki/Sintaxe_(programa%C3%A7%C3%A3o)">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+linguagem de programação.</p>
 </div><a href="#logica_03" class="backlink" onclick="showSection('logica_03')">🔙 Voltar para Lógica</a></div><div class="glossary-item" id="term-ula"><span class="glossary-term">ULA</span><div class="glossary-def"><p>Unidade Lógica e Aritmética, componente da CPU onde os cálculos reais
-são executados. <a
-href="https://pt.wikipedia.org/wiki/Unidade_l%C3%B3gica_e_aritm%C3%A9tica">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+são executados.</p>
 </div><a href="#arquitetura_01" class="backlink" onclick="showSection('arquitetura_01')">🔙 Voltar para Arquitetura</a></div><div class="glossary-item" id="term-violencia-patrimonial"><span class="glossary-term">Violência Patrimonial</span><div class="glossary-def"><p>Abuso ou controle financeiro indevido exercido sobre os bens ou renda
-de terceiros. <a
-href="https://pt.wikipedia.org/wiki/Viol%C3%AAncia_dom%C3%A9stica#Viol%C3%AAncia_patrimonial">Wikipédia</a>.</p><div class="vertical-spacer"></div>
+de terceiros.</p>
 </div><a href="#conformidade_02" class="backlink" onclick="showSection('conformidade_02')">🔙 Voltar para Conformidade</a></div></div>
                 </div>
             </section>
