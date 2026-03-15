@@ -63,7 +63,7 @@
         .calendar-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
         .calendar-title { font-size: 1.1rem; font-weight: 800; font-size: 0.6rem; line-height: 1; color: var(--accent); text-transform: uppercase; letter-spacing: 2px; }
         
-        .calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; width: 100%; }
+        .calendar-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px; width: 100%; }
         .weekday-label { text-align: center; font-size: 0.65rem; color: #444; font-weight: 800; font-size: 0.6rem; line-height: 1; text-transform: uppercase; padding-bottom: 8px; }
         
         .day-cell { 
@@ -302,7 +302,7 @@
                     <div class="month-selector"><div id="pill-02" class="month-pill" onclick="changeMonth('02')">Fevereiro</div><div id="pill-03" class="month-pill active" onclick="changeMonth('03')">Março</div><div id="pill-04" class="month-pill" onclick="changeMonth('04')">Abril</div><div id="pill-05" class="month-pill" onclick="changeMonth('05')">Maio</div><div id="pill-06" class="month-pill" onclick="changeMonth('06')">Junho</div></div>
 
                     <div class="calendar-section">
-                        <div id="month-02" class="calendar-view"><div class="calendar-header"><div class="calendar-title">Fevereiro 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Dom<br><span style="color:#888;font-size:0.55rem;font-weight:600;"></span></div><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;"></span></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell has-lesson" onclick="showSection('W01-logica_01')"><span class="day-number">23</span><span class="lesson-tag" data-num="01">Lógica</span></div><div class="day-cell has-lesson" onclick="showSection('W01-logica_02')"><span class="day-number">24</span><span class="lesson-tag" data-num="02">Lógica</span></div><div class="day-cell has-lesson" onclick="showSection('W01-arquitetura_01')"><span class="day-number">25</span><span class="lesson-tag" data-num="01">Arquitetura</span></div><div class="day-cell has-lesson" onclick="showSection('W01-conformidade_02')"><span class="day-number">26</span><span class="lesson-tag" data-num="02">Conformidade</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div></div></div><div id="month-03" class="calendar-view active"><div class="calendar-header"><div class="calendar-title">Março 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Dom<br><span style="color:#888;font-size:0.55rem;font-weight:600;"></span></div><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;"></span></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell has-lesson" onclick="showSection('W02-logica_03')"><span class="day-number">2</span><span class="lesson-tag" data-num="03">Lógica</span></div><div class="day-cell has-lesson" onclick="showSection('W02-logica_04')"><span class="day-number">3</span><span class="lesson-tag" data-num="04">Lógica</span></div><div class="day-cell has-lesson" onclick="showSection('W02-arquitetura_02')"><span class="day-number">4</span><span class="lesson-tag" data-num="02">Arquitetura</span></div><div class="day-cell has-lesson" onclick="showSection('W02-conformidade_02')"><span class="day-number">5</span><span class="lesson-tag" data-num="02">Conformidade</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell has-lesson" onclick="showSection('W03-logica_06')"><span class="day-number">10</span><span class="lesson-tag" data-num="06">Lógica</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell has-lesson" onclick="showSection('W03-conformidade_03')"><span class="day-number">12</span><span class="lesson-tag" data-num="03">Conformidade</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell today"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell"><span class="day-number">31</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div><div id="month-04" class="calendar-view"><div class="calendar-header"><div class="calendar-title">Abril 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Dom<br><span style="color:#888;font-size:0.55rem;font-weight:600;"></span></div><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;"></span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div><div id="month-05" class="calendar-view"><div class="calendar-header"><div class="calendar-title">Maio 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Dom<br><span style="color:#888;font-size:0.55rem;font-weight:600;"></span></div><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;"></span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell"><span class="day-number">31</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div><div id="month-06" class="calendar-view"><div class="calendar-header"><div class="calendar-title">Junho 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Dom<br><span style="color:#888;font-size:0.55rem;font-weight:600;"></span></div><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;"></span></div><div class="day-cell empty"></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div>
+                        <div id="month-02" class="calendar-view"><div class="calendar-header"><div class="calendar-title">Fevereiro 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Exer</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Recup</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell has-lesson" onclick="showSection('W01-logica_01')"><span class="day-number">23</span><span class="lesson-tag">Lógica 01</span></div><div class="day-cell has-lesson" onclick="showSection('W01-logica_02')"><span class="day-number">24</span><span class="lesson-tag">Lógica 02</span></div><div class="day-cell has-lesson" onclick="showSection('W01-arquitetura_01')"><span class="day-number">25</span><span class="lesson-tag">Arquitetura 01</span></div><div class="day-cell has-lesson" onclick="showSection('W01-conformidade_02')"><span class="day-number">26</span><span class="lesson-tag">Conformidade 02</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div></div></div><div id="month-03" class="calendar-view active"><div class="calendar-header"><div class="calendar-title">Março 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Exer</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Recup</span></div><div class="day-cell has-lesson" onclick="showSection('W02-logica_03')"><span class="day-number">2</span><span class="lesson-tag">Lógica 03</span></div><div class="day-cell has-lesson" onclick="showSection('W02-logica_04')"><span class="day-number">3</span><span class="lesson-tag">Lógica 04</span></div><div class="day-cell has-lesson" onclick="showSection('W02-arquitetura_02')"><span class="day-number">4</span><span class="lesson-tag">Arquitetura 02</span></div><div class="day-cell has-lesson" onclick="showSection('W02-conformidade_02')"><span class="day-number">5</span><span class="lesson-tag">Conformidade 02</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell has-lesson" onclick="showSection('W03-logica_06')"><span class="day-number">10</span><span class="lesson-tag">Lógica 06</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell has-lesson" onclick="showSection('W03-conformidade_03')"><span class="day-number">12</span><span class="lesson-tag">Conformidade 03</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell"><span class="day-number">31</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div><div id="month-04" class="calendar-view"><div class="calendar-header"><div class="calendar-title">Abril 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Exer</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Recup</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div><div id="month-05" class="calendar-view"><div class="calendar-header"><div class="calendar-title">Maio 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Exer</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Recup</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div></div></div><div id="month-06" class="calendar-view"><div class="calendar-header"><div class="calendar-title">Junho 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Exer</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Recup</span></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div>
                     </div>
 
                     <h2 style="margin-top:0">🚀 Panorama do Semestre</h2>
@@ -591,75 +591,63 @@ O Motor de Cálculo: Operadores Aritméticos e a Precedência <a href="#term-pem
 <p>A precisão da máquina é absoluta, mas ela depende da ordem correta
 das instruções. O Python segue rigorosamente a hierarquia matemática, e
 qualquer desvio nesta ordem resulta em bugs lógicos silenciosos, piores
-do que erros de <a href="#term-sintaxe" class="term-link">sintaxe</a>.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong>Hierarquia Sagrada (<a href="#term-pemdas" class="term-link">PEMDAS</a>):</strong> Revisitamos a ordem de
-execução: Parênteses, Expoentes, Multiplicação e Divisão (da esquerda
-para a direita), e Soma e Subtração. O domínio desta regra é o que
-separa o amador do profissional.</li>
-<li><strong>Divisão Real vs. Inteira:</strong> Exploramos a diferença
-fundamental entre o operador <code>/</code> (que retorna um float) e o
-<code>//</code> (que descarta a parte decimal). Esta distinção é vital
-para algoritmos que gerenciam unidades discretas, como estoques ou
-contagem de pessoas.</li>
-<li><strong>O Operador de Módulo (%):</strong> Apresentado como o
-“Sentinela do Resto”, o operador <code>%</code> é a ferramenta
-definitiva para verificações de paridade (par ou ímpar) e para criar
-ciclos em estruturas de repetição.</li>
-<li><strong>Potenciação Nativa:</strong> O uso de <code>**</code>
-simplifica o cálculo de magnitudes elevadas sem a necessidade de
-importar bibliotecas como a <code>math</code>, demonstrando a eficiência
-nativa da linguagem.</li>
-</ul>
+do que erros de <a href="#term-sintaxe" class="term-link">sintaxe</a>.- <strong>Hierarquia Sagrada (<a href="#term-pemdas" class="term-link">PEMDAS</a>):</strong>
+Revisitamos a ordem de execução: Parênteses, Expoentes, Multiplicação e
+Divisão (da esquerda para a direita), e Soma e Subtração. O domínio
+desta regra é o que separa o amador do profissional. - <strong>Divisão
+Real vs. Inteira:</strong> Exploramos a diferença fundamental entre o
+operador <code>/</code> (que retorna um float) e o <code>//</code> (que
+descarta a parte decimal). Esta distinção é vital para algoritmos que
+gerenciam unidades discretas, como estoques ou contagem de pessoas. -
+<strong>O Operador de Módulo (%):</strong> Apresentado como o “Sentinela
+do Resto”, o operador <code>%</code> é a ferramenta definitiva para
+verificações de paridade (par ou ímpar) e para criar ciclos em
+estruturas de repetição. - <strong>Potenciação Nativa:</strong> O uso de
+<code>**</code> simplifica o cálculo de magnitudes elevadas sem a
+necessidade de importar bibliotecas como a <code>math</code>,
+demonstrando a eficiência nativa da linguagem.</p><div class="vertical-spacer"></div>
 <hr />
 <h2 id="operadores-relacionais-a-capacidade-de-questionar-o-sistema">2.
 Operadores Relacionais: A Capacidade de Questionar o Sistema</h2>
 <p>O software ganha “vida” e capacidade de resposta quando começa a
 confrontar valores. Os operadores relacionais são a base das perguntas
-lógicas que o sistema faz ao hardware.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong>A Distinção Vital (= vs ==):</strong> Um dos maiores
-obstáculos para iniciantes é confundir o sinal de atribuição
-(<code>=</code>) com o de comparação (<code>==</code>). A aula focou na
-mecânica interna: enquanto um armazena um valor na memória, o outro
-interroga o sistema e retorna um valor <a href="#term-booleano" class="term-link">booleano</a>.</li>
-<li><strong>Comparações Robustas:</strong> Revisamos os operadores de
-Diferença (<code>!=</code>), Maior que (<code>&gt;</code>), Menor que
-(<code>&lt;</code>), e as variantes inclusivas (<code>&gt;=</code> e
-<code>&lt;=</code>), essenciais para filtros de requisitos.</li>
-</ul>
+lógicas que o sistema faz ao hardware.- <strong>A Distinção Vital (= vs
+==):</strong> Um dos maiores obstáculos para iniciantes é confundir o
+sinal de atribuição (<code>=</code>) com o de comparação
+(<code>==</code>). A aula focou na mecânica interna: enquanto um
+armazena um valor na memória, o outro interroga o sistema e retorna um
+valor <a href="#term-booleano" class="term-link">booleano</a>. - <strong>Comparações Robustas:</strong> Revisamos os
+operadores de Diferença (<code>!=</code>), Maior que
+(<code>&gt;</code>), Menor que (<code>&lt;</code>), e as variantes
+inclusivas (<code>&gt;=</code> e <code>&lt;=</code>), essenciais para
+filtros de requisitos.</p><div class="vertical-spacer"></div>
 <hr />
 <h2 id="operadores-lógicos-a-combinatória-de-tomada-de-decisão">3.
 Operadores Lógicos: A Combinatória de Tomada de Decisão</h2>
 <p>A inteligência artificial e os sistemas complexos residem na
 combinação de perguntas simples. Usando analogias de mercado e regras de
-negócio, exploramos a Álgebra Booleana na prática.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong>Operador AND (E):</strong> Funciona como um filtro de
-conformidade rigoroso. A sentença só é verdadeira se TODOS os requisitos
-forem satisfeitos. Exemplo: (Média &gt;= 6 AND Faltas &lt; 25%).</li>
-<li><strong>Operador OR (OU):</strong> Funciona como um filtro de
-oportunidade. Basta que uma condição seja atendida para o fluxo
-prosseguir. Exemplo: (Estudante OU Idoso para desconto).</li>
-<li><strong>Operador NOT (NÃO):</strong> O inversor de estado lógico,
-útil para tratar exceções e validar a inexistência de dados ou condições
-de erro.</li>
-</ul>
+negócio, exploramos a Álgebra Booleana na prática.- <strong>Operador AND
+(E):</strong> Funciona como um filtro de conformidade rigoroso. A
+sentença só é verdadeira se TODOS os requisitos forem satisfeitos.
+Exemplo: (Média &gt;= 6 AND Faltas &lt; 25%). - <strong>Operador OR
+(OU):</strong> Funciona como um filtro de oportunidade. Basta que uma
+condição seja atendida para o fluxo prosseguir. Exemplo: (Estudante OU
+Idoso para desconto). - <strong>Operador NOT (NÃO):</strong> O inversor
+de estado lógico, útil para tratar exceções e validar a inexistência de
+dados ou condições de erro.</p><div class="vertical-spacer"></div>
 <hr />
 <h2 id="casting-e-a-segurança-da-tipagem">4. <a href="#term-casting" class="term-link">Casting</a> e a Segurança da
 Tipagem</h2>
 <p>Aprendemos que o Python é uma linguagem de <a href="#term-tipagem-dinamica" class="term-link">tipagem dinâmica</a>, mas
 rigorosa. A função <code>input()</code> sempre recebe dados como String
 (Texto). Tentar somar dois inputs sem o devido tratamento resulta em
-concatenação (ex: 1 + 1 virando “11”).</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong><a href="#term-casting" class="term-link">Casting</a> Mandatório:</strong> A prática de envolver o <a href="#term-input" class="term-link">input</a>
-em funções de conversão como <code>int()</code> ou <code>float()</code>
-é a primeira linha de defesa contra erros de cálculo.</li>
-<li><strong>Validação de Entrada:</strong> Discutimos a importância de
-garantir que o tipo de dado fornecido pelo usuário seja compatível com a
-operação matemática pretendida.</li>
-</ul>
+concatenação (ex: 1 + 1 virando “11”).- <strong><a href="#term-casting" class="term-link">Casting</a>
+Mandatório:</strong> A prática de envolver o <a href="#term-input" class="term-link">input</a> em funções de
+conversão como <code>int()</code> ou <code>float()</code> é a primeira
+linha de defesa contra erros de cálculo. - <strong>Validação de
+Entrada:</strong> Discutimos a importância de garantir que o tipo de
+dado fornecido pelo usuário seja compatível com a operação matemática
+pretendida.</p><div class="vertical-spacer"></div>
 <hr />
 <h2 id="estética-e-ux-f-strings-para-saídas-profissionais">5. Estética e
 UX: <a href="#term-f-strings" class="term-link">F-Strings</a> para Saídas Profissionais</h2>
@@ -687,19 +675,16 @@ Consolidação Prática: <a href="#term-pemdas" class="term-link">PEMDAS</a> em 
 <p>Através de uma dinâmica de sorteio e resolução coletiva utilizando
 ferramentas visuais como o Excalidraw, a turma foi desafiada a resolver
 equações complexas que testavam o limite do entendimento sobre a
-hierarquia de operações.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong>A Precedência como Garantia de Integridade:</strong>
-Validamos como o interpretador do Python prioriza multiplicações e
-divisões antes de somas e subtrações. O foco foi entender que os
-parênteses não são apenas adornos, mas as ferramentas do programador
-para “forçar” a lógica desejada sobre o fluxo padrão da máquina.</li>
-<li><strong>Enfrentamento do Erro:</strong> O professor enfatizou o
-valor do erro de <a href="#term-sintaxe" class="term-link">sintaxe</a>. Cada falha reportada pelo interpretador é, na
-verdade, um sinal de ajuste fino na engrenagem de conhecimento do aluno.
-A resistência ao erro foi apontada como o maior inimigo da fluência
-técnica.</li>
-</ul>
+hierarquia de operações.- <strong>A Precedência como Garantia de
+Integridade:</strong> Validamos como o interpretador do Python prioriza
+multiplicações e divisões antes de somas e subtrações. O foco foi
+entender que os parênteses não são apenas adornos, mas as ferramentas do
+programador para “forçar” a lógica desejada sobre o fluxo padrão da
+máquina. - <strong>Enfrentamento do Erro:</strong> O professor enfatizou
+o valor do erro de <a href="#term-sintaxe" class="term-link">sintaxe</a>. Cada falha reportada pelo interpretador é,
+na verdade, um sinal de ajuste fino na engrenagem de conhecimento do
+aluno. A resistência ao erro foi apontada como o maior inimigo da
+fluência técnica.</p><div class="vertical-spacer"></div>
 <hr />
 <h2
 id="ux-do-programador-o-poder-das-f-strings-e-a-precisão-de-dados">2. UX
@@ -707,19 +692,15 @@ do Programador: O Poder das <a href="#term-f-strings" class="term-link">F-String
 <p>Um dos pontos altos da aula foi a transição para uma interface de
 saída profissional. Respondendo a dúvidas sobre como “limpar” a poluição
 visual de dízimas periódicas, exploramos os recursos avançados de
-formatação do Python.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong>Modificadores de Formatação:</strong> O uso da <a href="#term-sintaxe" class="term-link">sintaxe</a>
-<code>:.2f</code> dentro das chaves das <a href="#term-f-strings" class="term-link">F-Strings</a> permite um controle
-granular sobre as casas decimais. Esta técnica é essencial para sistemas
-que lidam com moedas, taxas de juros e médias acadêmicas, onde a clareza
-é fundamental para o usuário final.</li>
-<li><strong>Eficiência e Legibilidade:</strong> A injeção direta de
-variáveis e expressões em <code>f"{variavel}"</code> elimina o ruído
-visual e a complexidade dos antigos operadores de concatenação
-(<code>+</code>), tornando o código mais fácil de manter e auditar por
-outros desenvolvedores.</li>
-</ul>
+formatação do Python.- <strong>Modificadores de Formatação:</strong> O
+uso da <a href="#term-sintaxe" class="term-link">sintaxe</a> <code>:.2f</code> dentro das chaves das <a href="#term-f-strings" class="term-link">F-Strings</a> permite
+um controle granular sobre as casas decimais. Esta técnica é essencial
+para sistemas que lidam com moedas, taxas de juros e médias acadêmicas,
+onde a clareza é fundamental para o usuário final. - <strong>Eficiência
+e Legibilidade:</strong> A injeção direta de variáveis e expressões em
+<code>f"{variavel}"</code> elimina o ruído visual e a complexidade dos
+antigos operadores de concatenação (<code>+</code>), tornando o código
+mais fácil de manter e auditar por outros desenvolvedores.</p><div class="vertical-spacer"></div>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Padrão de formatação profissional em Python</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>media <span class="op">=</span> <span class="fl">8.7654321</span></span>
@@ -728,35 +709,30 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a hr
 <h2 id="a-analogia-do-volante-teoria-vs.-fluência-técnica">3. A Analogia
 do Volante: Teoria vs. Fluência Técnica</h2>
 <p>O Professor utilizou uma analogia poderosa para descrever a jornada
-do estudante de ADS: programar é como dirigir no trânsito urbano.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong>O Aprendizado está no Fazer:</strong> Estudar manuais de
+do estudante de ADS: programar é como dirigir no trânsito urbano.-
+<strong>O Aprendizado está no Fazer:</strong> Estudar manuais de
 mecânica ou manuais de trânsito por anos não ensina ninguém a dirigir. A
 fluência só nasce com a “mão no volante” (teclado) e no enfrentamento
-das situações reais.</li>
-<li><strong>Tempo de Código:</strong> A maestria não é fruto de
-genialidade, mas de horas acumuladas de “bater o código”, resolver bugs
-e compreender como cada linha influencia o resultado final. A aula
-incentivou a mentoria entre pares como acelerador de aprendizado.</li>
-</ul>
+das situações reais. - <strong>Tempo de Código:</strong> A maestria não
+é fruto de genialidade, mas de horas acumuladas de “bater o código”,
+resolver bugs e compreender como cada linha influencia o resultado
+final. A aula incentivou a mentoria entre pares como acelerador de
+aprendizado.</p><div class="vertical-spacer"></div>
 <hr />
 <h2 id="visão-de-produto-do-algoritmo-ao-fluxo-de-negócio">4. Visão de
 Produto: Do <a href="#term-algoritmo" class="term-link">Algoritmo</a> ao Fluxo de Negócio</h2>
 <p>A discussão evoluiu para a aplicação prática dos algoritmos em
 cenários reais. Trabalhamos na concepção de sistemas para Pet Shops e
 conversores de temperatura, conectando a lógica de variáveis à automação
-de processos que antes eram manuais e propensos a falhas humanas.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong>Requisitos de Sistema:</strong> Analisamos como capturar a
+de processos que antes eram manuais e propensos a falhas humanas.-
+<strong>Requisitos de Sistema:</strong> Analisamos como capturar a
 temperatura em Celsius e transformar em Fahrenheit, respeitando as
 fórmulas físicas e garantindo que o <a href="#term-casting" class="term-link">casting</a> de dados
 (<code>float</code>) seja realizado corretamente para evitar perdas de
-precisão.</li>
-<li><strong>Lógica de Mercado:</strong> A discussão sobre o sistema de
-Pet Shop introduziu a necessidade de gerenciar diferentes tipos de
-serviços e precificações através da combinação de operadores lógicos e
-relacionais.</li>
-</ul>
+precisão. - <strong>Lógica de Mercado:</strong> A discussão sobre o
+sistema de Pet Shop introduziu a necessidade de gerenciar diferentes
+tipos de serviços e precificações através da combinação de operadores
+lógicos e relacionais.</p><div class="vertical-spacer"></div>
 <hr />
 </div></section><section id="W02-arquitetura_02" class="spa-section"><div class="lesson-card"><div class="lesson-metadata">Arquitetura de Computadores | Thiago | 2026-03-04 | Aula 02</div><p>O encontro com o Professor Thiago foi um mergulho profundo nas
 camadas físicas e lógicas que sustentam o mundo digital moderno. A ideia
@@ -772,86 +748,74 @@ quem traduz: O <a href="#term-kernel" class="term-link">Kernel</a> e os Drivers<
 <p>O computador funciona em um sistema complexo de camadas de <a href="#term-abstracao" class="term-link">abstração</a>.
 Para que um simples comando print em Python resulte em luzes piscando em
 um monitor ou em um arquivo salvo em disco, ele precisa passar por
-“pedágios” críticos de segurança e tradução.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong>O <a href="#term-kernel" class="term-link">Kernel</a> (Núcleo):</strong> Apresentado como o “prefeito” do
-sistema operacional, o <a href="#term-kernel" class="term-link">Kernel</a> é o software mestre. Ele detém o controle
-absoluto sobre quem utiliza o processador, quanta memória cada
-aplicativo recebe e como os arquivos são organizados no hardware. É o
-responsável por garantir que um programa não interfira no espaço de
-memória de outro, mantendo a estabilidade do sistema.</li>
-<li><strong>O <a href="#term-driver" class="term-link">Driver</a> (O Tradutor):</strong> O hardware fala linguagens
-elétricas muito específicas e diversificadas. O <a href="#term-kernel" class="term-link">Kernel</a> fala uma
-linguagem padrão de alto nível. O <a href="#term-driver" class="term-link">Driver</a> reside exatamente no meio deste
-caminho, atuando como um tradutor técnico. Sem o <a href="#term-driver" class="term-link">driver</a> correto, o
-sistema operacional é incapaz de “conversar” com componentes como a
-placa de vídeo, a impressora ou a placa de rede.</li>
-<li><strong>O <a href="#term-firmware" class="term-link">Firmware</a>:</strong> Diferente do Windows ou Linux que
+“pedágios” críticos de segurança e tradução.- <strong>O <a href="#term-kernel" class="term-link">Kernel</a>
+(Núcleo):</strong> Apresentado como o “prefeito” do sistema operacional,
+o <a href="#term-kernel" class="term-link">Kernel</a> é o software mestre. Ele detém o controle absoluto sobre quem
+utiliza o processador, quanta memória cada aplicativo recebe e como os
+arquivos são organizados no hardware. É o responsável por garantir que
+um programa não interfira no espaço de memória de outro, mantendo a
+estabilidade do sistema. - <strong>O <a href="#term-driver" class="term-link">Driver</a> (O Tradutor):</strong> O
+hardware fala linguagens elétricas muito específicas e diversificadas. O
+<a href="#term-kernel" class="term-link">Kernel</a> fala uma linguagem padrão de alto nível. O <a href="#term-driver" class="term-link">Driver</a> reside
+exatamente no meio deste caminho, atuando como um tradutor técnico. Sem
+o <a href="#term-driver" class="term-link">driver</a> correto, o sistema operacional é incapaz de “conversar” com
+componentes como a placa de vídeo, a impressora ou a placa de rede. -
+<strong>O <a href="#term-firmware" class="term-link">Firmware</a>:</strong> Diferente do Windows ou Linux que
 instalamos no HD, o <a href="#term-firmware" class="term-link">firmware</a> é o software que já vem “de berço” no
 hardware. Ele nasce gravado em chips específicos na placa-mãe ou em
 roteadores para gerenciar as operações mais básicas e fundamentais do
-componente.</li>
-</ul>
+componente.</p><div class="vertical-spacer"></div>
 <hr />
 <h2 id="o-ritual-de-inicialização-a-bios-e-o-post">2. O Ritual de
 Inicialização: A <a href="#term-bios" class="term-link">BIOS</a> e o <a href="#term-post" class="term-link">POST</a></h2>
 <p>Antes que o sistema operacional sequer pense em carregar, o hardware
 realiza um processo solitário de autoconhecimento e check-up de
-integridade.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong><a href="#term-bios" class="term-link">BIOS</a> (Basic <a href="#term-input" class="term-link">Input</a>/Output System):</strong> É o <a href="#term-firmware" class="term-link">firmware</a> da
-placa-mãe e a primeira peça de software a “acordar” quando o botão power
-é pressionado. Sua função é identificar o processador, localizar a
-memória <a href="#term-ram" class="term-link">RAM</a> e apontar o caminho para que o <a href="#term-kernel" class="term-link">Kernel</a> do sistema operacional
-possa ser carregado (o famoso processo de boot).</li>
-<li><strong><a href="#term-post" class="term-link">POST</a> (Power-On Self-Test):</strong> É o autodiagnóstico
+integridade.- <strong><a href="#term-bios" class="term-link">BIOS</a> (Basic <a href="#term-input" class="term-link">Input</a>/Output System):</strong> É o
+<a href="#term-firmware" class="term-link">firmware</a> da placa-mãe e a primeira peça de software a “acordar” quando o
+botão power é pressionado. Sua função é identificar o processador,
+localizar a memória <a href="#term-ram" class="term-link">RAM</a> e apontar o caminho para que o <a href="#term-kernel" class="term-link">Kernel</a> do sistema
+operacional possa ser carregado (o famoso processo de boot). -
+<strong><a href="#term-post" class="term-link">POST</a> (Power-On Self-Test):</strong> É o autodiagnóstico
 realizado pela <a href="#term-bios" class="term-link">BIOS</a>. Se o computador emitir aquele “bip” clássico,
 significa que o <a href="#term-post" class="term-link">POST</a> passou. Caso haja uma falha crítica (como falta de
 memória ou erro no processador), o sistema avisa através de sequências
 de bips ou mensagens de erro antes de exibir qualquer imagem
-gráfica.</li>
-</ul>
+gráfica.</p><div class="vertical-spacer"></div>
 <hr />
 <h2 id="onde-a-conta-acontece-a-cpu-e-suas-memórias">3. Onde a conta
 acontece: A CPU e suas Memórias</h2>
 <p>Mergulhamos “debaixo do capô” do processador para entender como os
-impulsos elétricos se tornam lógica matemática.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong>Unidade Lógica e Aritmética (<a href="#term-ula" class="term-link">ULA</a>):</strong> É a calculadora
-real situada no coração da CPU. Toda operação matemática ou decisão
-lógica que você programa é fisicamente resolvida aqui dentro.</li>
-<li><strong>Memória <a href="#term-cache" class="term-link">Cache</a>:</strong> O processador é um esportista de
-elite, mas a memória <a href="#term-ram" class="term-link">RAM</a> é lenta em comparação a sua velocidade. O <a href="#term-cache" class="term-link">Cache</a>
-é uma memória ultrarrápida, interna à CPU, que armazena os dados usados
-com mais frequência para que o processador não precise “esperar” a busca
-lenta no estoque da <a href="#term-ram" class="term-link">RAM</a>.</li>
-<li><strong><a href="#term-ram" class="term-link">RAM</a> vs. <a href="#term-rom" class="term-link">ROM</a>:</strong> Exploramos a dualidade das memórias. A
-<a href="#term-ram" class="term-link">RAM</a> (Mesa de Trabalho) é volátil; tudo o que está aberto no momento (VS
+impulsos elétricos se tornam lógica matemática.- <strong>Unidade Lógica
+e Aritmética (<a href="#term-ula" class="term-link">ULA</a>):</strong> É a calculadora real situada no coração da
+CPU. Toda operação matemática ou decisão lógica que você programa é
+fisicamente resolvida aqui dentro. - <strong>Memória <a href="#term-cache" class="term-link">Cache</a>:</strong> O
+processador é um esportista de elite, mas a memória <a href="#term-ram" class="term-link">RAM</a> é lenta em
+comparação a sua velocidade. O <a href="#term-cache" class="term-link">Cache</a> é uma memória ultrarrápida, interna
+à CPU, que armazena os dados usados com mais frequência para que o
+processador não precise “esperar” a busca lenta no estoque da <a href="#term-ram" class="term-link">RAM</a>. -
+<strong><a href="#term-ram" class="term-link">RAM</a> vs. <a href="#term-rom" class="term-link">ROM</a>:</strong> Exploramos a dualidade das memórias. A <a href="#term-ram" class="term-link">RAM</a>
+(Mesa de Trabalho) é volátil; tudo o que está aberto no momento (VS
 Code, Browser) reside nela e desaparece ao desligar. A <a href="#term-rom" class="term-link">ROM</a> (Instruções
 Fixas) é onde residem manuais de fábrica e a <a href="#term-bios" class="term-link">BIOS</a>, mantendo as
-informações mesmo sem energia elétrica.</li>
-</ul>
+informações mesmo sem energia elétrica.</p><div class="vertical-spacer"></div>
 <hr />
 <h2 id="otimização-e-o-conceito-de-computação-ubíqua">4. Otimização e o
 Conceito de <a href="#term-computacao-ubiqua" class="term-link">Computação Ubíqua</a></h2>
 <p>O Professor Thiago utilizou analogias poderosas para explicar a
 adequação entre hardware e software. Um software pesado em um hardware
 limitado é como um carro popular tentando fazer uma trilha 4x4: o
-resultado é frustração e ineficiência.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong>Memória Swap (O Seguro):</strong> Quando a memória <a href="#term-ram" class="term-link">RAM</a> lota,
-o sistema operacional utiliza um pedaço do HD ou SSD como uma reserva de
-emergência. Embora seja muito mais lento, este recurso evita que o
-computador trave completamente em situações de sobrecarga.</li>
-<li><strong><a href="#term-lei-de-moore" class="term-link">Lei de Moore</a> e Evolução:</strong> Discutimos como a redução
-dos componentes permitiu a <a href="#term-computacao-ubiqua" class="term-link">Computação Ubíqua</a>, onde o poder de
-processamento reside hoje em nossos bolsos, relógios e eletrodomésticos,
-de forma onipresente e invisível.</li>
-<li><strong>Recomendação para ADS:</strong> Para suportar o fluxo de
+resultado é frustração e ineficiência.- <strong>Memória Swap (O
+Seguro):</strong> Quando a memória <a href="#term-ram" class="term-link">RAM</a> lota, o sistema operacional
+utiliza um pedaço do HD ou SSD como uma reserva de emergência. Embora
+seja muito mais lento, este recurso evita que o computador trave
+completamente em situações de sobrecarga. - <strong><a href="#term-lei-de-moore" class="term-link">Lei de Moore</a> e
+Evolução:</strong> Discutimos como a redução dos componentes permitiu a
+<a href="#term-computacao-ubiqua" class="term-link">Computação Ubíqua</a>, onde o poder de processamento reside hoje em nossos
+bolsos, relógios e eletrodomésticos, de forma onipresente e invisível. -
+<strong>Recomendação para ADS:</strong> Para suportar o fluxo de
 trabalho de um desenvolvedor (<a href="#term-docker" class="term-link">Docker</a>, IDEs, Bancos de Dados), o foco
 deve ser em máquinas com ao menos 16GB de <a href="#term-ram" class="term-link">RAM</a> e arquiteturas que
-permitam upgrades modulares.</li>
-</ul>
+permitam upgrades modulares.</p><div class="vertical-spacer"></div>
 <hr />
 </div></section><section id="W02-conformidade_02" class="spa-section"><div class="lesson-card"><div class="lesson-metadata">Análise de Conformidade de Software | Rayane | 2026-03-05 | Aula 02</div><p>Esta aula explorou a transição do ambiente digital de uma “terra sem
 lei” para um ecossistema regulamentado. O foco foi a responsabilidade
@@ -864,66 +828,55 @@ decisão de código possui um reflexo jurídico imediato.</p><div class="vertica
 Regulatórios</h2>
 <p>O Direito Digital busca adaptar normas físicas ao ambiente
 tecnológico. A evolução legal brasileira foi moldada por casos que
-expuseram a vulnerabilidade do cidadão na rede:</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong><a href="#term-equivalencia-funcional" class="term-link">Equivalência Funcional</a>:</strong> Princípio que garante que
-atos realizados em ambiente digital (como contratos assinados
-eletronicamente ou assinaturas digitais) possuam o mesmo valor e
-consequências jurídicas que atos realizados no mundo físico.</li>
-<li><strong>Lei Carolina Dieckmann (Lei 12.737/2012):</strong> Marco
-inicial que tipificou crimes cibernéticos no Brasil. A lei criminalizou
-a invasão de dispositivos eletrônicos para obter, adulterar ou destruir
-dados sem autorização, além da divulgação de segredos ou dados
-privados.</li>
-<li><strong>Lei Larissa Manoela (PL 4.031/2023 - Em
-tramitação):</strong> Proposta focada no combate à <a href="#term-violencia-patrimonial" class="term-link">Violência Patrimonial</a>
-e na falta de transparência em contratos de gestão. No contexto de
-Conformidade, reforça o direito ao controle absoluto sobre os próprios
-bens e imagem digital.</li>
-<li><strong>GitHub como Evidência Digital:</strong> O repositório de
-código atua como o Sentinela da Propriedade Intelectual. Commits,
-branches e o histórico de colaboração são evidências fundamentais em
-processos de auditoria para provar a autoria e o tempo de
-desenvolvimento.</li>
-</ul>
+expuseram a vulnerabilidade do cidadão na rede:- <strong>Equivalência
+Funcional:</strong> Princípio que garante que atos realizados em
+ambiente digital (como contratos assinados eletronicamente ou
+assinaturas digitais) possuam o mesmo valor e consequências jurídicas
+que atos realizados no mundo físico. - <strong>Lei Carolina Dieckmann
+(Lei 12.737/2012):</strong> Marco inicial que tipificou crimes
+cibernéticos no Brasil. A lei criminalizou a invasão de dispositivos
+eletrônicos para obter, adulterar ou destruir dados sem autorização,
+além da divulgação de segredos ou dados privados. - <strong>Lei Larissa
+Manoela (PL 4.031/2023 - Em tramitação):</strong> Proposta focada no
+combate à <a href="#term-violencia-patrimonial" class="term-link">Violência Patrimonial</a> e na falta de transparência em contratos
+de gestão. No contexto de Conformidade, reforça o direito ao controle
+absoluto sobre os próprios bens e imagem digital. - <strong>GitHub como
+Evidência Digital:</strong> O repositório de código atua como o
+Sentinela da Propriedade Intelectual. Commits, branches e o histórico de
+colaboração são evidências fundamentais em processos de auditoria para
+provar a autoria e o tempo de desenvolvimento.</p><div class="vertical-spacer"></div>
 <hr />
 <h2 id="lgpd-o-titular-no-centro-e-a-responsabilidade-corporativa">2.
 <a href="#term-lgpd" class="term-link">LGPD</a>: O Titular no Centro e a Responsabilidade Corporativa</h2>
 <p>A Lei Geral de Proteção de Dados (Lei 13.709/2018) estabelece que o
 indivíduo é o real dono de seus dados. As empresas deixam de ser
 proprietárias das informações e passam a ser apenas “tomadoras de
-empréstimo” sob regras rígidas de governança.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong>Finalidade e Necessidade:</strong> A conformidade baseia-se
-em coletar apenas o mínimo de dados necessário para um objetivo
-declarado e específico. Coletas excessivas são passíveis de
-punição.</li>
-<li><strong>Transparência:</strong> O titular tem o direito de saber
+empréstimo” sob regras rígidas de governança.- <strong>Finalidade e
+Necessidade:</strong> A conformidade baseia-se em coletar apenas o
+mínimo de dados necessário para um objetivo declarado e específico.
+Coletas excessivas são passíveis de punição. -
+<strong>Transparência:</strong> O titular tem o direito de saber
 exatamente como, onde e por quem seus dados estão sendo processados a
-qualquer momento.</li>
-<li><strong>Figuras Jurídicas:</strong> Identificamos o Controlador
-(quem toma as decisões sobre o dado) e o Operador (quem realiza o
-tratamento em nome do controlador), ambos sob a supervisão da <a href="#term-anpd" class="term-link">ANPD</a>.</li>
-</ul>
+qualquer momento. - <strong>Figuras Jurídicas:</strong> Identificamos o
+Controlador (quem toma as decisões sobre o dado) e o Operador (quem
+realiza o tratamento em nome do controlador), ambos sob a supervisão da
+<a href="#term-anpd" class="term-link">ANPD</a>.</p><div class="vertical-spacer"></div>
 <hr />
 <h2 id="o-coração-da-conformidade-dados-comuns-vs.-dados-sensíveis">3. O
 Coração da Conformidade: Dados Comuns vs. Dados Sensíveis</h2>
 <p>Esta é a distinção vital para qualquer desenvolvedor de sistemas. A
 lei classifica os dados com base no risco de dano e potencial de
-discriminação que sua exposição pode causar.</p><div class="vertical-spacer"></div>
-<ul>
-<li><strong>Dados Comuns (O “Quem é você?”):</strong> Informações de
-identificação básica que permitem localizar ou identificar um indivíduo
-digitalmente. Exemplos: Nome completo, E-mail, CPF, Endereço IP e
-Geolocalização. O vazamento gera transtornos de segurança e financeiros,
-mas geralmente não fere a dignidade moral intrínseca.</li>
-<li><strong>Dados Sensíveis (O “O que você é?”):</strong> É a “linha
-vermelha” da privacidade. São informações íntimas que podem gerar
-discriminação, exclusão social ou preconceito. Exemplos: Histórico de
-saúde, genética, religião, orientação sexual, opinião política ou
-<a href="#term-biometria" class="term-link">Biometria</a> (rosto, digital). A proteção é absoluta porque o dano moral é
-grave e muitas vezes irreversível.</li>
-</ul>
+discriminação que sua exposição pode causar.- <strong>Dados Comuns (O
+“Quem é você?”):</strong> Informações de identificação básica que
+permitem localizar ou identificar um indivíduo digitalmente. Exemplos:
+Nome completo, E-mail, CPF, Endereço IP e Geolocalização. O vazamento
+gera transtornos de segurança e financeiros, mas geralmente não fere a
+dignidade moral intrínseca. - <strong>Dados Sensíveis (O “O que você
+é?”):</strong> É a “linha vermelha” da privacidade. São informações
+íntimas que podem gerar discriminação, exclusão social ou preconceito.
+Exemplos: Histórico de saúde, genética, religião, orientação sexual,
+opinião política ou <a href="#term-biometria" class="term-link">Biometria</a> (rosto, digital). A proteção é absoluta
+porque o dano moral é grave e muitas vezes irreversível.</p><div class="vertical-spacer"></div>
 <hr />
 <h2 id="cenário-global-e-desafios-emergentes">4. Cenário Global e
 Desafios Emergentes</h2>
@@ -1042,28 +995,31 @@ infraestrutura de missão crítica e o paradigma da
 <hr />
 <h2 id="o-paradigma-da-redundância">1. O Paradigma da Redundância</h2>
 <p>Em ambientes corporativos, o hardware é projetado para não ter um
-único ponto de falha. - <strong><a href="#term-hot-swap" class="term-link">Hot-swap</a></strong>: Capacidade de
-substituir componentes físicos (como HDs e fontes) com o servidor
-ligado, sem interromper o serviço. <a
-href="https://pt.wikipedia.org/wiki/Hot_swapping">Wikipédia</a>. -
-<strong><a href="#term-raid" class="term-link">RAID</a></strong>: Técnica de agrupar vários discos para funcionarem
-como um só. Se um disco queima, a paridade nos outros reconstrói os
-dados. <a href="https://pt.wikipedia.org/wiki/RAID">Wikipédia</a>. -
-<strong>Fontes Redundantes</strong>: Duplicidade elétrica conectada a
-circuitos distintos para evitar panes por quedas de disjuntores.</p><div class="vertical-spacer"></div>
+único ponto de falha.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong><a href="#term-hot-swap" class="term-link">Hot-swap</a></strong>: Capacidade de substituir componentes
+físicos (como HDs e fontes) com o servidor ligado, sem interromper o
+serviço.</li>
+<li><strong><a href="#term-raid" class="term-link">RAID</a></strong>: Técnica de agrupar vários discos para
+funcionarem como um só. Se um disco queima, a paridade nos outros
+reconstrói os dados.</li>
+<li><strong>Fontes Redundantes</strong>: Duplicidade elétrica conectada
+a circuitos distintos para evitar panes por quedas de disjuntores.</li>
+</ul>
 <hr />
 <h2 id="virtualização-o-hardware-agóstico">2. Virtualização: O Hardware
 Agóstico</h2>
 <p>A virtualização desacopla o software do hardware via
 <strong><a href="#term-hipervisor" class="term-link">Hipervisor</a> (Hypervisor)</strong>, permitindo dividir um servidor
-físico em várias máquinas virtuais (VMs). - <strong>Tipo 1 (Bare
-Metal)</strong>: Instalado direto no hardware, focado em performance
-total (Ex: VMware ESXi). <a
-href="https://pt.wikipedia.org/wiki/Bare_metal">Wikipédia</a>. -
-<strong>Tipo 2 (Hosted)</strong>: Roda como aplicativo dentro de um SO
-(Ex: VirtualBox). A vantagem mestre é a <strong><a href="#term-portabilidade" class="term-link">Portabilidade</a></strong>:
-uma VM é um arquivo que pode ser movido entre servidores distintos com
-esforço mínimo.</p><div class="vertical-spacer"></div>
+físico em várias máquinas virtuais (VMs).</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>Tipo 1 (<a href="#term-bare-metal" class="term-link">Bare Metal</a>)</strong>: Instalado direto no hardware,
+focado em performance total (Ex: VMware ESXi).</li>
+<li><strong>Tipo 2 (Hosted)</strong>: Roda como aplicativo dentro de um
+SO (Ex: VirtualBox). A vantagem mestre é a
+<strong><a href="#term-portabilidade" class="term-link">Portabilidade</a></strong>: uma VM é um arquivo que pode ser movido
+entre servidores distintos com esforço mínimo.</li>
+</ul>
 <hr />
 <h2 id="ecossistema-corporativo-e-sla">3. Ecossistema Corporativo e
 <a href="#term-sla" class="term-link">SLA</a></h2>
