@@ -351,6 +351,49 @@
         #nav-context span { display: block; }
         #nav-context .nav-lesson-num { font-weight: 400; opacity: 0.7; font-size: 0.6rem; }
 
+        /* --- BOTTOM NAVIGATION MOBILE --- */
+        @media (max-width: 600px) {
+            .weekly-timeline { 
+                position: fixed !important;
+                bottom: 20px !important;
+                top: auto !important;
+                left: 10px !important;
+                right: 10px !important;
+                max-width: none !important;
+                width: calc(100% - 20px) !important;
+                margin: 0 !important;
+                padding: 6px !important;
+                gap: 5px !important;
+                border-radius: 20px !important;
+                z-index: 1000 !important;
+                box-shadow: 0 -10px 30px rgba(0,0,0,0.6) !important;
+                background: rgba(26, 26, 26, 0.95) !important;
+                backdrop-filter: blur(10px);
+                border: 1px solid rgba(255,255,255,0.1);
+            }
+            
+            #nav-context { 
+                min-width: 0 !important;
+                flex: 2 !important;
+                font-size: 0.65rem !important;
+                height: 40px !important;
+            }
+            
+            .info-pill, .day-btn { 
+                min-width: 0 !important;
+                flex: 1 !important;
+                padding: 8px !important;
+                font-size: 0.7rem !important;
+                height: 40px !important;
+                display: flex !important;
+                align-items: center;
+                justify-content: center;
+            }
+            
+            /* Adicionar espaçamento no final da página para a NavBar não cobrir o conteúdo */
+            body { padding-bottom: 100px !important; }
+        }
+
     </style>
 </head>
 <body>
