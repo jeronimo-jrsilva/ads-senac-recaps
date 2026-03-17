@@ -529,6 +529,18 @@ acadêmico: se a nota for maior ou igual a 6, o aluno é aprovado; caso
 contrário, ele entra no fluxo de reprovação ou recuperação. O <a href="#term-algoritmo" class="term-link">algoritmo</a>
 deixa de ser uma sequência linear e passa a ter ramificações de
 fluxo.</p><div class="vertical-spacer"></div>
+<p><strong>Exemplo prático de <code>if</code> simples:</strong></p><div class="vertical-spacer"></div>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>temperatura <span class="op">=</span> <span class="dv">32</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> temperatura <span class="op">&gt;</span> <span class="dv">30</span>:</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(<span class="st">&quot;Está calor!&quot;</span>)</span></code></pre></div>
+<p><strong>Exemplo prático de <code>if-else</code>:</strong></p><div class="vertical-spacer"></div>
+<div class="sourceCode" id="cb2"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>idade <span class="op">=</span> <span class="bu">int</span>(<span class="bu">input</span>(<span class="st">&quot;Digite sua idade: &quot;</span>))</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> idade <span class="op">&gt;=</span> <span class="dv">18</span>:</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(<span class="st">&quot;Você é maior de idade.&quot;</span>)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="cf">else</span>:</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(<span class="st">&quot;Você é menor de idade.&quot;</span>)</span></code></pre></div>
 <hr />
 <h2 id="a-rigidez-da-indentação-no-python">4. A Rigidez da <a href="#term-indentacao" class="term-link">Indentação</a> no
 <a href="#term-python" class="term-link">Python</a></h2>
@@ -569,6 +581,28 @@ forma eficiente. Em vez de testar várias condições independentes, o
 restante do bloco seja ignorado, otimizando o processamento. Um exemplo
 clássico é a classificação de faixas etárias ou categorias de notas (A,
 B, C, D), onde cada valor se encaixa em apenas uma regra específica.</p><div class="vertical-spacer"></div>
+<hr />
+<h2 id="exemplo-completo-integração-de-condicionais-e-operadores">7.
+Exemplo Completo: Integração de Condicionais e Operadores</h2>
+<p>Para consolidar o aprendizado, veja este exemplo que simula um
+sistema de validação para um desconto em um evento acadêmico. O desconto
+é concedido se o aluno for matriculado E (and) tiver menos de 25 anos,
+OU (or) se for um professor convidado.</p><div class="vertical-spacer"></div>
+<div class="sourceCode" id="cb3"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">&quot;--- Sistema de Desconto Acadêmico ---&quot;</span>)</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>status <span class="op">=</span> <span class="bu">input</span>(<span class="st">&quot;Você é aluno, professor ou visitante? &quot;</span>).lower()</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>idade <span class="op">=</span> <span class="bu">int</span>(<span class="bu">input</span>(<span class="st">&quot;Qual sua idade? &quot;</span>))</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> status <span class="op">==</span> <span class="st">&quot;aluno&quot;</span> <span class="kw">and</span> idade <span class="op">&lt;</span> <span class="dv">25</span>:</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(<span class="st">&quot;Parabéns! Você tem direito ao desconto de estudante.&quot;</span>)</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a><span class="cf">elif</span> status <span class="op">==</span> <span class="st">&quot;professor&quot;</span>:</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(<span class="st">&quot;Acesso VIP concedido ao professor convidado.&quot;</span>)</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a><span class="cf">elif</span> status <span class="op">==</span> <span class="st">&quot;aluno&quot;</span> <span class="kw">and</span> idade <span class="op">&gt;=</span> <span class="dv">25</span>:</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(<span class="st">&quot;Matrícula ativa detectada, mas idade superior ao limite do desconto.&quot;</span>)</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a><span class="cf">else</span>:</span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(<span class="st">&quot;Acesso normal. Sem descontos aplicáveis.&quot;</span>)</span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">&quot;Fim do processamento.&quot;</span>)</span></code></pre></div>
 <hr />
 </div></section><section id="W03-logica_06" class="spa-section"><div class="lesson-card"><div class="lesson-metadata">Lógica de Programação em Python | Nator Junior | 2026-03-10 | Aula 06</div><h1 id="lógica-de-programação-em-python---aula-06">Lógica de Programação
 em <a href="#term-python" class="term-link">Python</a> - Aula 06</h1>
