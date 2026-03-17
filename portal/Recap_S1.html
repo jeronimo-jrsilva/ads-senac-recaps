@@ -115,10 +115,7 @@
         .callout-important { border-left-color: #f85149; } .callout-important .callout-title { color: #f85149; }
         .callout-abstract { border-left-color: #ab7df8; } .callout-abstract .callout-title { color: #ab7df8; }
 
-        /* Tables */
-        table { width: 100%; border-collapse: collapse; margin: 35px 0; font-size: 0.9rem; background: rgba(255,255,255,0.01); border-radius: 12px; overflow: hidden; border: 1px solid var(--border); }
-        th { background: rgba(255,255,255,0.05); color: var(--accent); text-align: left; padding: 18px; border: 1px solid var(--border); font-weight: 800; font-size: 0.6rem; line-height: 1; text-transform: uppercase; letter-spacing: 1px; }
-        td { padding: 18px; border: 1px solid var(--border); color: var(--text-dim); line-height: 1.6; }
+        
         tr:nth-child(even) { background: rgba(255,255,255,0.02); }
         tr:hover { background: rgba(212, 175, 55, 0.05); }
 
@@ -396,6 +393,21 @@
             }
             
             body { padding-bottom: 120px !important; }
+        }
+
+        /* Table Scroll & Width Fix */
+        .table-wrapper { 
+            width: 100%; 
+            overflow-x: auto; 
+            margin: 25px 0; 
+            border-radius: 12px; 
+            background: rgba(255,255,255,0.015);
+            -webkit-overflow-scrolling: touch; /* Scroll suave no iOS */
+        }
+        table { 
+            min-width: 600px; /* Garante que a tabela não esmague o texto no mobile */
+            width: 100%; 
+            border-collapse: collapse; 
         }
 
     </style>
@@ -1416,6 +1428,17 @@ href="https://pt.wikipedia.org/wiki/Rede_privada_virtual"></a>.</p><div class="v
                 target.classList.add('active');
                 updateNavBar(id);
                 window.scrollTo({ top: 0, behavior: 'smooth' });
+
+            // Envolver tabelas para rolagem mobile
+            document.querySelectorAll("table").forEach(table => {
+                if (!table.parentElement.classList.contains("table-wrapper")) {
+                    const wrapper = document.createElement("div");
+                    wrapper.className = "table-wrapper";
+                    table.parentNode.insertBefore(wrapper, table);
+                    wrapper.appendChild(table);
+                }
+            });
+
             }
         }
 
