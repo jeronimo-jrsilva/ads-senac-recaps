@@ -6,7 +6,7 @@
     <title>Master Recap SPA | ADS 2026.1</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&family=JetBrains+Mono&display=swap" rel="stylesheet">
     <style>
-        :root {
+:root {
             --bg-color: #0f0f0f;
             --nav-bg: #1a1a1a;
             --accent: #d4af37;
@@ -108,7 +108,7 @@
         .callout-abstract { border-left-color: #ab7df8; } .callout-abstract .callout-title { color: #ab7df8; }
 
         /* Tables */
-        table { width: 100%; min-width: 600px; border-collapse: collapse; margin: 35px 0; font-size: 0.9rem; background: rgba(255,255,255,0.01); border-radius: 12px; overflow: hidden; border: 1px solid var(--border); }
+        table { width: 100%; border-collapse: collapse; margin: 35px 0; font-size: 0.9rem; background: rgba(255,255,255,0.01); border-radius: 12px; overflow: hidden; border: 1px solid var(--border); }
         th { background: rgba(255,255,255,0.05); color: var(--accent); text-align: left; padding: 18px; border: 1px solid var(--border); font-weight: 800; font-size: 0.6rem; line-height: 1; text-transform: uppercase; letter-spacing: 1px; }
         td { padding: 18px; border: 1px solid var(--border); color: var(--text-dim); line-height: 1.6; }
         tr:nth-child(even) { background: rgba(255,255,255,0.02); }
@@ -146,7 +146,7 @@
         .glossary-term { color: var(--accent); font-weight: 800; font-size: 0.6rem; line-height: 1; font-size: 1.1rem; display: block; margin-bottom: 12px; }
         .glossary-def { color: var(--text-dim); font-size: 0.9rem; line-height: 1.6; }
         .term-link { color: var(--glossary-link) !important; text-decoration: underline !important; cursor: pointer; font-weight: bold; }
-        .backlink { display: none; } /* Removido em favor da classe unificada */
+         /* Removido em favor da classe unificada */
         
         a[href*="wikipedia.org"]:hover { background: var(--accent) !important; color: #000 !important; box-shadow: 0 0 15px rgba(212, 175, 55, 0.4); transform: scale(1.05); }
         /* MOBILE OPTIMIZATION V3.2.2 */
@@ -155,7 +155,7 @@
                 @media (max-width: 600px) {
             body { padding: 8px !important; }
             .main-container { width: 100% !important; margin: 0 !important; }
-            .calendar-section { padding: 10px !important; display: block !important; visibility: visible !important; opacity: 1 !important; }
+            .calendar-section { padding: 10px !important; }
             .calendar-grid { gap: 4px !important; }
             .day-cell { 
                 padding: 4px !important; 
@@ -204,76 +204,81 @@
 
 
         .glossary-actions { display: flex; gap: 10px; margin-top: 15px; flex-wrap: wrap; }
-        .action-btn { 
-            display: inline-block; font-size: 0.75rem; color: #666; text-decoration: none; 
-            background: #222; padding: 6px 12px; border-radius: 8px; border: 1px solid transparent; 
-            cursor: pointer; width: fit-content; transition: 0.2s; font-weight: 600;
-        }
-        .action-btn:hover { background: #333; color: var(--accent); border-color: var(--accent); transform: translateY(-2px); }
         
-        /* BOTTOM NAVBAR MOBILE - FINAL ATTEMPT */
-        @media (max-width: 600px) {
-            .weekly-timeline {
-                position: fixed !important;
-                top: auto !important;
-                bottom: 15px !important;
-                left: 10px !important;
-                right: 10px !important;
-                margin-bottom: 0 !important;
-                background: rgba(26, 26, 26, 0.95) !important;
-                backdrop-filter: blur(10px);
-                border: 1px solid var(--accent);
-                border-radius: 20px;
-                padding: 10px !important;
-                box-shadow: 0 -5px 25px rgba(0,0,0,0.8);
-            }
-            body {
-                padding-bottom: 140px !important; /* Espaço para não cobrir o conteúdo */
-            }
-            .info-pill {
-                min-width: 140px !important; /* Pílulas menores no mobile */
-                font-size: 0.65rem !important;
-            }
-        }
         
-        /* MOBILE NAV SIMMETRY FIX */
-        @media (max-width: 600px) {
-            .info-pill, .day-btn {
-                min-width: 120px !important;
-                font-size: 0.7rem !important;
-                display: none; /* Base oculta */
-                align-items: center !important;
-                justify-content: center !important;
-                text-align: center !important;
-                flex-direction: column !important;
-                font-weight: 800 !important;
-                letter-spacing: 0px !important;
-                padding: 10px 15px !important;
-            /* TABLE SCROLL FIX */
-            table {
-                display: block !important;
-                overflow-x: auto !important;
-                -webkit-overflow-scrolling: touch;
-                width: 100% !important;
-            }
+        .glossary-item { display: flex; flex-direction: column; justify-content: space-between; min-height: 220px; }
+        .glossary-footer { display: flex; justify-content: space-between; align-items: center; margin-top: 20px; padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.05); }
+        
+        
+        
+        
 
-            }
-            .info-pill, .day-btn.visible {
-                display: flex !important; /* Mostra apenas os autorizados */
-            }
-            .info-pill { text-transform: uppercase; }
-            .day-btn span { font-size: 0.55rem !important; font-weight: 400; }
-        }
         
-        .table-wrapper {
-            width: 100%;
-            overflow-x: auto;
-            -webkit-overflow-scrolling: touch;
-            margin: 20px 0;
-            border-radius: 12px;
+        
+        
+        
+
+        .action-btn { 
+            background: #1a1a1a; 
+            color: #777; /* Cinza discreto */
+            border: 1px solid rgba(255, 255, 255, 0.08); /* Borda quase invisível */
+            padding: 10px; border-radius: 10px; font-size: 0.7rem; font-weight: 600; 
+            text-transform: uppercase; cursor: pointer; transition: 0.3s; text-decoration: none;
+            display: flex; align-items: center; justify-content: center;
+            width: 140px; height: 40px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
         }
-        table { min-width: 600px; } /* Garante que a tabela tenha o que rolar no mobile */
-        </style>
+        .action-btn:hover { 
+            background: var(--accent); 
+            color: #000; 
+            border-color: var(--accent);
+            box-shadow: 0 0 15px rgba(212, 175, 55, 0.4); 
+            transform: translateY(-2px); 
+        }
+        .wiki-btn { 
+            color: #58a6ff; 
+            border-color: rgba(88, 166, 255, 0.15);
+            opacity: 0.6; /* Levemente transparente para não competir com o título */
+        }
+        .wiki-btn:hover { 
+            opacity: 1;
+            background: #58a6ff; 
+            color: #fff; 
+            border-color: #58a6ff;
+            box-shadow: 0 0 15px rgba(88, 166, 255, 0.4); 
+        }
+
+        /* Discipline Tracks */
+        .discipline-tracks { margin-bottom: 40px; display: flex; flex-direction: column; gap: 15px; }
+        .discipline-row { display: flex; align-items: center; gap: 20px; background: rgba(255,255,255,0.02); padding: 12px 20px; border-radius: 12px; border: 1px solid var(--border); }
+        .discipline-label { font-size: 0.75rem; font-weight: 800; color: var(--accent); text-transform: uppercase; letter-spacing: 1px; min-width: 180px; }
+        .lesson-pills { display: flex; gap: 8px; flex-wrap: wrap; }
+        .lesson-pill { 
+            background: #1a1a1a; color: #777; border: 1px solid rgba(255,255,255,0.08); 
+            padding: 6px 12px; border-radius: 8px; font-size: 0.65rem; font-weight: 700; 
+            cursor: pointer; transition: 0.3s; 
+        }
+        .lesson-pill:hover { background: var(--accent); color: #000; border-color: var(--accent); box-shadow: 0 0 10px rgba(212,175,55,0.3); transform: scale(1.05); }
+        
+        /* Ajuste Stats Bar (Reduzida para nova posição) */
+        .stats-bar { display: flex; gap: 10px; margin: 40px 0; }
+        .stat-card { padding: 10px; border-radius: 10px; }
+        .stat-value { font-size: 1.2rem; }
+
+        /* Collapsible Section (Calendar) */
+        .collapsible-section { margin: 30px 0; border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom: 10px; }
+        .collapsible-section summary { 
+            list-style: none; cursor: pointer; font-size: 1.4rem; font-weight: 700; color: #fff; 
+            display: flex; align-items: center; gap: 15px; transition: 0.3s;
+        }
+        .collapsible-section summary::-webkit-details-marker { display: none; }
+        .collapsible-section summary::after { 
+            content: "→"; color: var(--accent); font-size: 1rem; transition: 0.3s; opacity: 0.5;
+        }
+        .collapsible-section[open] summary::after { transform: rotate(90deg); opacity: 1; }
+        .collapsible-section summary:hover { color: var(--accent); }
+        .collapsible-content { padding-top: 25px; animation: fadeIn 0.4s ease; }
+
+    </style>
 </head>
 <body>
     <div class="main-container">
@@ -285,13 +290,49 @@
         <main id="spa-content">
             <section id="week-summary" class="spa-section active">
                 <div class="lesson-card">
-                    <div class="lesson-metadata">Dashboard Semestral | ADS 2026.1</div>
-                    
-                    <div style="margin-bottom: 30px; display: flex; justify-content: flex-start;">
-                        <a href="https://github.com/jeronimo-jrsilva/ads-senac-recaps" target="_blank" class="timeline-btn" style="border-color: var(--accent); color: var(--accent); padding: 8px 20px; font-size: 0.75rem;">
+                    <div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 40px; border-bottom: 1px solid var(--border); padding-bottom: 20px;">
+                        <div>
+                            <h1 style="margin:0; font-size: 1.8rem;">Dashboard Semestral</h1>
+                            <div style="color: var(--accent); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 2px; margin-top: 5px;">ADS 2026.1</div>
+                        </div>
+                        <a href="https://github.com/jeronimo-jrsilva/ads-senac-recaps" target="_blank" class="timeline-btn" style="border-color: var(--accent); color: var(--accent); padding: 8px 20px; font-size: 0.75rem; width: fit-content;">
                             📂 Ver Projeto no GitHub
                         </a>
                     </div>
+
+                    <h2 style="margin-top:0">Trilhas de Aprendizado</h2>
+                    <div class='discipline-tracks'><div class='discipline-row'><span class='discipline-label'>Análise de Conformidade de Software | <span style='color:var(--text-dim);opacity:0.7;'>Rayane</span></span><div class='lesson-pills'><button class='lesson-pill' onclick="showSection('W01-conformidade_02')">Aula 02</button><button class='lesson-pill' onclick="showSection('W02-conformidade_02')">Aula 02</button><button class='lesson-pill' onclick="showSection('W03-conformidade_03')">Aula 03</button></div></div><div class='discipline-row'><span class='discipline-label'>Arquitetura de Computadores | <span style='color:var(--text-dim);opacity:0.7;'>Thiago</span></span><div class='lesson-pills'><button class='lesson-pill' onclick="showSection('W01-arquitetura_01')">Aula 01</button><button class='lesson-pill' onclick="showSection('W02-arquitetura_02')">Aula 02</button></div></div><div class='discipline-row'><span class='discipline-label'>Lógica de Programação em Python | <span style='color:var(--text-dim);opacity:0.7;'>Nator Junior</span></span><div class='lesson-pills'><button class='lesson-pill' onclick="showSection('W01-logica_01')">Aula 01</button><button class='lesson-pill' onclick="showSection('W01-logica_02')">Aula 02</button><button class='lesson-pill' onclick="showSection('W02-logica_03')">Aula 03</button><button class='lesson-pill' onclick="showSection('W02-logica_04')">Aula 04</button><button class='lesson-pill' onclick="showSection('W03-logica_06')">Aula 06</button></div></div></div>
+
+                    <!-- SEÇÃO COLAPSÁVEL: VISÃO TEMPORAL -->
+                    <details class="collapsible-section">
+                        <summary>Visão Temporal</summary>
+                        <div class="collapsible-content">
+                            <div class="month-selector"><div id="pill-02" class="month-pill " onclick="changeMonth('02')">Fevereiro</div><div id="pill-03" class="month-pill active" onclick="changeMonth('03')">Março</div><div id="pill-04" class="month-pill " onclick="changeMonth('04')">Abril</div><div id="pill-05" class="month-pill " onclick="changeMonth('05')">Maio</div><div id="pill-06" class="month-pill " onclick="changeMonth('06')">Junho</div></div>
+                            <div class="calendar-section">
+                                <div id="month-02" class="calendar-view ">
+<div class="calendar-header"><div class="calendar-title">Fevereiro 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div>
+<div class="calendar-grid" style="grid-template-columns: repeat(6, 1fr);">
+<div class="weekday-label">Seg<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Qua<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Recup</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell has-lesson" onclick="showSection('W01-logica_01')"><span class="day-number">23</span><span class="lesson-tag">Lógica 01</span></div><div class="day-cell has-lesson" onclick="showSection('W01-logica_02')"><span class="day-number">24</span><span class="lesson-tag">Lógica 02</span></div><div class="day-cell has-lesson" onclick="showSection('W01-arquitetura_01')"><span class="day-number">25</span><span class="lesson-tag">Arquitetura 01</span></div><div class="day-cell has-lesson" onclick="showSection('W01-conformidade_02')"><span class="day-number">26</span><span class="lesson-tag">Conformidade 02</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div></div></div>
+<div id="month-03" class="calendar-view active">
+<div class="calendar-header"><div class="calendar-title">Março 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div>
+<div class="calendar-grid" style="grid-template-columns: repeat(6, 1fr);">
+<div class="weekday-label">Seg<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Qua<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Recup</span></div><div class="day-cell has-lesson" onclick="showSection('W02-logica_03')"><span class="day-number">2</span><span class="lesson-tag">Lógica 03</span></div><div class="day-cell has-lesson" onclick="showSection('W02-logica_04')"><span class="day-number">3</span><span class="lesson-tag">Lógica 04</span></div><div class="day-cell has-lesson" onclick="showSection('W02-arquitetura_02')"><span class="day-number">4</span><span class="lesson-tag">Arquitetura 02</span></div><div class="day-cell has-lesson" onclick="showSection('W02-conformidade_02')"><span class="day-number">5</span><span class="lesson-tag">Conformidade 02</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell has-lesson" onclick="showSection('W03-logica_06')"><span class="day-number">10</span><span class="lesson-tag">Lógica 06</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell has-lesson" onclick="showSection('W03-conformidade_03')"><span class="day-number">12</span><span class="lesson-tag">Conformidade 03</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell today"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell"><span class="day-number">31</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div>
+<div id="month-04" class="calendar-view ">
+<div class="calendar-header"><div class="calendar-title">Abril 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div>
+<div class="calendar-grid" style="grid-template-columns: repeat(6, 1fr);">
+<div class="weekday-label">Seg<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Qua<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Recup</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div>
+<div id="month-05" class="calendar-view ">
+<div class="calendar-header"><div class="calendar-title">Maio 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div>
+<div class="calendar-grid" style="grid-template-columns: repeat(6, 1fr);">
+<div class="weekday-label">Seg<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Qua<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Recup</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div></div></div>
+<div id="month-06" class="calendar-view ">
+<div class="calendar-header"><div class="calendar-title">Junho 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div>
+<div class="calendar-grid" style="grid-template-columns: repeat(6, 1fr);">
+<div class="weekday-label">Seg<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Qua<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Recup</span></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div>
+
+                            </div>
+                        </div>
+                    </details>
 
                     <div class="stats-bar">
                         <div class="stat-card"><span class="stat-value">3</span><span class="stat-label">Semanas</span></div>
@@ -299,39 +340,9 @@
                         <div class="stat-card"><span class="stat-value">59</span><span class="stat-label">Termos</span></div>
                     </div>
 
-                    <div class="month-selector"><div id="pill-02" class="month-pill" onclick="changeMonth('02')">Fevereiro</div><div id="pill-03" class="month-pill active" onclick="changeMonth('03')">Março</div><div id="pill-04" class="month-pill" onclick="changeMonth('04')">Abril</div><div id="pill-05" class="month-pill" onclick="changeMonth('05')">Maio</div><div id="pill-06" class="month-pill" onclick="changeMonth('06')">Junho</div></div>
-
-                    <div class="calendar-section">
-                        <div id="month-02" class="calendar-view"><div class="calendar-header"><div class="calendar-title">Fevereiro 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Exer</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Recup</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell has-lesson" onclick="showSection('W01-logica_01')"><span class="day-number">23</span><span class="lesson-tag">Lógica 01</span></div><div class="day-cell has-lesson" onclick="showSection('W01-logica_02')"><span class="day-number">24</span><span class="lesson-tag">Lógica 02</span></div><div class="day-cell has-lesson" onclick="showSection('W01-arquitetura_01')"><span class="day-number">25</span><span class="lesson-tag">Arquitetura 01</span></div><div class="day-cell has-lesson" onclick="showSection('W01-conformidade_02')"><span class="day-number">26</span><span class="lesson-tag">Conformidade 02</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div></div></div><div id="month-03" class="calendar-view active"><div class="calendar-header"><div class="calendar-title">Março 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Exer</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Recup</span></div><div class="day-cell has-lesson" onclick="showSection('W02-logica_03')"><span class="day-number">2</span><span class="lesson-tag">Lógica 03</span></div><div class="day-cell has-lesson" onclick="showSection('W02-logica_04')"><span class="day-number">3</span><span class="lesson-tag">Lógica 04</span></div><div class="day-cell has-lesson" onclick="showSection('W02-arquitetura_02')"><span class="day-number">4</span><span class="lesson-tag">Arquitetura 02</span></div><div class="day-cell has-lesson" onclick="showSection('W02-conformidade_02')"><span class="day-number">5</span><span class="lesson-tag">Conformidade 02</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell has-lesson" onclick="showSection('W03-logica_06')"><span class="day-number">10</span><span class="lesson-tag">Lógica 06</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell has-lesson" onclick="showSection('W03-conformidade_03')"><span class="day-number">12</span><span class="lesson-tag">Conformidade 03</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell"><span class="day-number">31</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div><div id="month-04" class="calendar-view"><div class="calendar-header"><div class="calendar-title">Abril 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Exer</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Recup</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div><div id="month-05" class="calendar-view"><div class="calendar-header"><div class="calendar-title">Maio 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Exer</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Recup</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div></div></div><div id="month-06" class="calendar-view"><div class="calendar-header"><div class="calendar-title">Junho 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div><div class="calendar-grid"><div class="weekday-label">Seg<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Exer</span></div><div class="weekday-label">Qua<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:#888;font-size:0.55rem;font-weight:600;">Recup</span></div><div class="day-cell"><span class="day-number">1</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">8</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">15</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">22</span></div><div class="day-cell"><span class="day-number">23</span></div><div class="day-cell"><span class="day-number">24</span></div><div class="day-cell"><span class="day-number">25</span></div><div class="day-cell"><span class="day-number">26</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">29</span></div><div class="day-cell"><span class="day-number">30</span></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div><div class="day-cell empty"></div></div></div>
-                    </div>
-
-                    <h2 style="margin-top:0">🚀 Panorama do Semestre</h2>
+                    <h2 style="margin-top:0">Panorama do Semestre</h2>
                     <div class="global-timeline">
-                        
-        <div class="timeline-entry" onclick="switchWeek('W03', 'W03-logica_06')">
-            <div class="timeline-dot"></div>
-            <div class="timeline-info">
-                <span class="timeline-week">Semana 03</span>
-                <h4 class="timeline-title">Semana W03</h4>
-                <p class="timeline-text">Consolidação acadêmica.</p>
-            </div>
-        </div>
-        <div class="timeline-entry" onclick="switchWeek('W02', 'W02-logica_03')">
-            <div class="timeline-dot"></div>
-            <div class="timeline-info">
-                <span class="timeline-week">Semana 02</span>
-                <h4 class="timeline-title">Consolidação e Consciência (Semana 2)</h4>
-                <p class="timeline-text">Transição do código superficial para o domínio técnico dos operadores em Python. A semana aprofundou na 'física' da computação (Kernel e Drivers) e na proteção jurídica via LGPD. Consolidamos a lógica de precisão cirúrgica e a responsabilidade civil do desenvolvedor, amarrando técnica e legislação em um fluxo de auditoria.</p>
-            </div>
-        </div>
-        <div class="timeline-entry" onclick="switchWeek('W01', 'W01-logica_01')">
-            <div class="timeline-dot"></div>
-            <div class="timeline-info">
-                <span class="timeline-week">Semana 01</span>
-                <h4 class="timeline-title">A Fundação da Área Meio (Semana 1)</h4>
-                <p class="timeline-text">Abertura do semestre focada na quebra da barreira entre codar e compreender a infraestrutura. Exploramos a computação como área meio com Prof. Nator, a redundância crítica de hardware com Prof. Thiago e o rigor da conformidade com Prof.ª Rayane. A base para o ecossistema enterprise foi estabelecida através da resiliência.</p>
-            </div>
-        </div>
+                        <div class='timeline-entry' onclick="switchWeek('W03', 'W03-logica_06')"><div class='timeline-dot'></div><div class='timeline-info'><span class='timeline-week'>Semana 03</span><h4 class='timeline-title'>Semana W03</h4><p class='timeline-text'>Consolidação acadêmica.</p></div></div><div class='timeline-entry' onclick="switchWeek('W02', 'W02-logica_03')"><div class='timeline-dot'></div><div class='timeline-info'><span class='timeline-week'>Semana 02</span><h4 class='timeline-title'>Consolidação e Consciência (Semana 2)</h4><p class='timeline-text'>Transição do código superficial para o domínio técnico dos operadores em Python. A semana aprofundou na 'física' da computação (Kernel e Drivers) e na proteção jurídica via LGPD. Consolidamos a lógica de precisão cirúrgica e a responsabilidade civil do desenvolvedor, amarrando técnica e legislação em um fluxo de auditoria.</p></div></div><div class='timeline-entry' onclick="switchWeek('W01', 'W01-logica_01')"><div class='timeline-dot'></div><div class='timeline-info'><span class='timeline-week'>Semana 01</span><h4 class='timeline-title'>A Fundação da Área Meio (Semana 1)</h4><p class='timeline-text'>Abertura do semestre focada na quebra da barreira entre codar e compreender a infraestrutura. Exploramos a computação como área meio com Prof. Nator, a redundância crítica de hardware com Prof. Thiago e o rigor da conformidade com Prof.ª Rayane. A base para o ecossistema enterprise foi estabelecida através da resiliência.</p></div></div>
                     </div>
                 </div>
             </section>
@@ -591,36 +602,43 @@ O Motor de Cálculo: Operadores Aritméticos e a Precedência <a href="#term-pem
 <p>A precisão da máquina é absoluta, mas ela depende da ordem correta
 das instruções. O Python segue rigorosamente a hierarquia matemática, e
 qualquer desvio nesta ordem resulta em bugs lógicos silenciosos, piores
-do que erros de <a href="#term-sintaxe" class="term-link">sintaxe</a>.- <strong>Hierarquia Sagrada (<a href="#term-pemdas" class="term-link">PEMDAS</a>):</strong>
-Revisitamos a ordem de execução: Parênteses, Expoentes, Multiplicação e
-Divisão (da esquerda para a direita), e Soma e Subtração. O domínio
-desta regra é o que separa o amador do profissional. - <strong>Divisão
-Real vs. Inteira:</strong> Exploramos a diferença fundamental entre o
-operador <code>/</code> (que retorna um float) e o <code>//</code> (que
-descarta a parte decimal). Esta distinção é vital para algoritmos que
-gerenciam unidades discretas, como estoques ou contagem de pessoas. -
-<strong>O Operador de Módulo (%):</strong> Apresentado como o “Sentinela
-do Resto”, o operador <code>%</code> é a ferramenta definitiva para
-verificações de paridade (par ou ímpar) e para criar ciclos em
-estruturas de repetição. - <strong>Potenciação Nativa:</strong> O uso de
-<code>**</code> simplifica o cálculo de magnitudes elevadas sem a
-necessidade de importar bibliotecas como a <code>math</code>,
-demonstrando a eficiência nativa da linguagem.</p><div class="vertical-spacer"></div>
+do que erros de <a href="#term-sintaxe" class="term-link">sintaxe</a>.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>Hierarquia Sagrada (<a href="#term-pemdas" class="term-link">PEMDAS</a>):</strong> Revisitamos a ordem de
+execução: Parênteses, Expoentes, Multiplicação e Divisão (da esquerda
+para a direita), e Soma e Subtração. O domínio desta regra é o que
+separa o amador do profissional.</li>
+<li><strong>Divisão Real vs. Inteira:</strong> Exploramos a diferença
+fundamental entre o operador <code>/</code> (que retorna um float) e o
+<code>//</code> (que descarta a parte decimal). Esta distinção é vital
+para algoritmos que gerenciam unidades discretas, como estoques ou
+contagem de pessoas.</li>
+<li><strong>O Operador de Módulo (%):</strong> Apresentado como o
+“Sentinela do Resto”, o operador <code>%</code> é a ferramenta
+definitiva para verificações de paridade (par ou ímpar) e para criar
+ciclos em estruturas de repetição.</li>
+<li><strong>Potenciação Nativa:</strong> O uso de <code>**</code>
+simplifica o cálculo de magnitudes elevadas sem a necessidade de
+importar bibliotecas como a <code>math</code>, demonstrando a eficiência
+nativa da linguagem.</li>
+</ul>
 <hr />
 <h2 id="operadores-relacionais-a-capacidade-de-questionar-o-sistema">2.
 Operadores Relacionais: A Capacidade de Questionar o Sistema</h2>
 <p>O software ganha “vida” e capacidade de resposta quando começa a
 confrontar valores. Os operadores relacionais são a base das perguntas
-lógicas que o sistema faz ao hardware.- <strong>A Distinção Vital (= vs
-==):</strong> Um dos maiores obstáculos para iniciantes é confundir o
-sinal de atribuição (<code>=</code>) com o de comparação
-(<code>==</code>). A aula focou na mecânica interna: enquanto um
-armazena um valor na memória, o outro interroga o sistema e retorna um
-valor <a href="#term-booleano" class="term-link">booleano</a>. - <strong>Comparações Robustas:</strong> Revisamos os
-operadores de Diferença (<code>!=</code>), Maior que
-(<code>&gt;</code>), Menor que (<code>&lt;</code>), e as variantes
-inclusivas (<code>&gt;=</code> e <code>&lt;=</code>), essenciais para
-filtros de requisitos.</p><div class="vertical-spacer"></div>
+lógicas que o sistema faz ao hardware.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>A Distinção Vital (= vs ==):</strong> Um dos maiores
+obstáculos para iniciantes é confundir o sinal de atribuição
+(<code>=</code>) com o de comparação (<code>==</code>). A aula focou na
+mecânica interna: enquanto um armazena um valor na memória, o outro
+interroga o sistema e retorna um valor <a href="#term-booleano" class="term-link">booleano</a>.</li>
+<li><strong>Comparações Robustas:</strong> Revisamos os operadores de
+Diferença (<code>!=</code>), Maior que (<code>&gt;</code>), Menor que
+(<code>&lt;</code>), e as variantes inclusivas (<code>&gt;=</code> e
+<code>&lt;=</code>), essenciais para filtros de requisitos.</li>
+</ul>
 <hr />
 <h2 id="operadores-lógicos-a-combinatória-de-tomada-de-decisão">3.
 Operadores Lógicos: A Combinatória de Tomada de Decisão</h2>
@@ -629,12 +647,15 @@ combinação de perguntas simples. Usando analogias de mercado e regras de
 negócio, exploramos a Álgebra Booleana na prática.- <strong>Operador AND
 (E):</strong> Funciona como um filtro de conformidade rigoroso. A
 sentença só é verdadeira se TODOS os requisitos forem satisfeitos.
-Exemplo: (Média &gt;= 6 AND Faltas &lt; 25%). - <strong>Operador OR
-(OU):</strong> Funciona como um filtro de oportunidade. Basta que uma
-condição seja atendida para o fluxo prosseguir. Exemplo: (Estudante OU
-Idoso para desconto). - <strong>Operador NOT (NÃO):</strong> O inversor
-de estado lógico, útil para tratar exceções e validar a inexistência de
-dados ou condições de erro.</p><div class="vertical-spacer"></div>
+Exemplo: (Média &gt;= 6 AND Faltas &lt; 25%).</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>Operador OR (OU):</strong> Funciona como um filtro de
+oportunidade. Basta que uma condição seja atendida para o fluxo
+prosseguir. Exemplo: (Estudante OU Idoso para desconto).</li>
+<li><strong>Operador NOT (NÃO):</strong> O inversor de estado lógico,
+útil para tratar exceções e validar a inexistência de dados ou condições
+de erro.</li>
+</ul>
 <hr />
 <h2 id="casting-e-a-segurança-da-tipagem">4. <a href="#term-casting" class="term-link">Casting</a> e a Segurança da
 Tipagem</h2>
@@ -644,10 +665,12 @@ rigorosa. A função <code>input()</code> sempre recebe dados como String
 concatenação (ex: 1 + 1 virando “11”).- <strong><a href="#term-casting" class="term-link">Casting</a>
 Mandatório:</strong> A prática de envolver o <a href="#term-input" class="term-link">input</a> em funções de
 conversão como <code>int()</code> ou <code>float()</code> é a primeira
-linha de defesa contra erros de cálculo. - <strong>Validação de
-Entrada:</strong> Discutimos a importância de garantir que o tipo de
-dado fornecido pelo usuário seja compatível com a operação matemática
-pretendida.</p><div class="vertical-spacer"></div>
+linha de defesa contra erros de cálculo.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>Validação de Entrada:</strong> Discutimos a importância de
+garantir que o tipo de dado fornecido pelo usuário seja compatível com a
+operação matemática pretendida.</li>
+</ul>
 <hr />
 <h2 id="estética-e-ux-f-strings-para-saídas-profissionais">5. Estética e
 UX: <a href="#term-f-strings" class="term-link">F-Strings</a> para Saídas Profissionais</h2>
@@ -675,16 +698,19 @@ Consolidação Prática: <a href="#term-pemdas" class="term-link">PEMDAS</a> em 
 <p>Através de uma dinâmica de sorteio e resolução coletiva utilizando
 ferramentas visuais como o Excalidraw, a turma foi desafiada a resolver
 equações complexas que testavam o limite do entendimento sobre a
-hierarquia de operações.- <strong>A Precedência como Garantia de
-Integridade:</strong> Validamos como o interpretador do Python prioriza
-multiplicações e divisões antes de somas e subtrações. O foco foi
-entender que os parênteses não são apenas adornos, mas as ferramentas do
-programador para “forçar” a lógica desejada sobre o fluxo padrão da
-máquina. - <strong>Enfrentamento do Erro:</strong> O professor enfatizou
-o valor do erro de <a href="#term-sintaxe" class="term-link">sintaxe</a>. Cada falha reportada pelo interpretador é,
-na verdade, um sinal de ajuste fino na engrenagem de conhecimento do
-aluno. A resistência ao erro foi apontada como o maior inimigo da
-fluência técnica.</p><div class="vertical-spacer"></div>
+hierarquia de operações.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>A Precedência como Garantia de Integridade:</strong>
+Validamos como o interpretador do Python prioriza multiplicações e
+divisões antes de somas e subtrações. O foco foi entender que os
+parênteses não são apenas adornos, mas as ferramentas do programador
+para “forçar” a lógica desejada sobre o fluxo padrão da máquina.</li>
+<li><strong>Enfrentamento do Erro:</strong> O professor enfatizou o
+valor do erro de <a href="#term-sintaxe" class="term-link">sintaxe</a>. Cada falha reportada pelo interpretador é, na
+verdade, um sinal de ajuste fino na engrenagem de conhecimento do aluno.
+A resistência ao erro foi apontada como o maior inimigo da fluência
+técnica.</li>
+</ul>
 <hr />
 <h2
 id="ux-do-programador-o-poder-das-f-strings-e-a-precisão-de-dados">2. UX
@@ -692,15 +718,19 @@ do Programador: O Poder das <a href="#term-f-strings" class="term-link">F-String
 <p>Um dos pontos altos da aula foi a transição para uma interface de
 saída profissional. Respondendo a dúvidas sobre como “limpar” a poluição
 visual de dízimas periódicas, exploramos os recursos avançados de
-formatação do Python.- <strong>Modificadores de Formatação:</strong> O
-uso da <a href="#term-sintaxe" class="term-link">sintaxe</a> <code>:.2f</code> dentro das chaves das <a href="#term-f-strings" class="term-link">F-Strings</a> permite
-um controle granular sobre as casas decimais. Esta técnica é essencial
-para sistemas que lidam com moedas, taxas de juros e médias acadêmicas,
-onde a clareza é fundamental para o usuário final. - <strong>Eficiência
-e Legibilidade:</strong> A injeção direta de variáveis e expressões em
-<code>f"{variavel}"</code> elimina o ruído visual e a complexidade dos
-antigos operadores de concatenação (<code>+</code>), tornando o código
-mais fácil de manter e auditar por outros desenvolvedores.</p><div class="vertical-spacer"></div>
+formatação do Python.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>Modificadores de Formatação:</strong> O uso da <a href="#term-sintaxe" class="term-link">sintaxe</a>
+<code>:.2f</code> dentro das chaves das <a href="#term-f-strings" class="term-link">F-Strings</a> permite um controle
+granular sobre as casas decimais. Esta técnica é essencial para sistemas
+que lidam com moedas, taxas de juros e médias acadêmicas, onde a clareza
+é fundamental para o usuário final.</li>
+<li><strong>Eficiência e Legibilidade:</strong> A injeção direta de
+variáveis e expressões em <code>f"{variavel}"</code> elimina o ruído
+visual e a complexidade dos antigos operadores de concatenação
+(<code>+</code>), tornando o código mais fácil de manter e auditar por
+outros desenvolvedores.</li>
+</ul>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Padrão de formatação profissional em Python</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>media <span class="op">=</span> <span class="fl">8.7654321</span></span>
@@ -709,30 +739,35 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a hr
 <h2 id="a-analogia-do-volante-teoria-vs.-fluência-técnica">3. A Analogia
 do Volante: Teoria vs. Fluência Técnica</h2>
 <p>O Professor utilizou uma analogia poderosa para descrever a jornada
-do estudante de ADS: programar é como dirigir no trânsito urbano.-
-<strong>O Aprendizado está no Fazer:</strong> Estudar manuais de
+do estudante de ADS: programar é como dirigir no trânsito urbano.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>O Aprendizado está no Fazer:</strong> Estudar manuais de
 mecânica ou manuais de trânsito por anos não ensina ninguém a dirigir. A
 fluência só nasce com a “mão no volante” (teclado) e no enfrentamento
-das situações reais. - <strong>Tempo de Código:</strong> A maestria não
-é fruto de genialidade, mas de horas acumuladas de “bater o código”,
-resolver bugs e compreender como cada linha influencia o resultado
-final. A aula incentivou a mentoria entre pares como acelerador de
-aprendizado.</p><div class="vertical-spacer"></div>
+das situações reais.</li>
+<li><strong>Tempo de Código:</strong> A maestria não é fruto de
+genialidade, mas de horas acumuladas de “bater o código”, resolver bugs
+e compreender como cada linha influencia o resultado final. A aula
+incentivou a mentoria entre pares como acelerador de aprendizado.</li>
+</ul>
 <hr />
 <h2 id="visão-de-produto-do-algoritmo-ao-fluxo-de-negócio">4. Visão de
 Produto: Do <a href="#term-algoritmo" class="term-link">Algoritmo</a> ao Fluxo de Negócio</h2>
 <p>A discussão evoluiu para a aplicação prática dos algoritmos em
 cenários reais. Trabalhamos na concepção de sistemas para Pet Shops e
 conversores de temperatura, conectando a lógica de variáveis à automação
-de processos que antes eram manuais e propensos a falhas humanas.-
-<strong>Requisitos de Sistema:</strong> Analisamos como capturar a
+de processos que antes eram manuais e propensos a falhas humanas.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>Requisitos de Sistema:</strong> Analisamos como capturar a
 temperatura em Celsius e transformar em Fahrenheit, respeitando as
 fórmulas físicas e garantindo que o <a href="#term-casting" class="term-link">casting</a> de dados
 (<code>float</code>) seja realizado corretamente para evitar perdas de
-precisão. - <strong>Lógica de Mercado:</strong> A discussão sobre o
-sistema de Pet Shop introduziu a necessidade de gerenciar diferentes
-tipos de serviços e precificações através da combinação de operadores
-lógicos e relacionais.</p><div class="vertical-spacer"></div>
+precisão.</li>
+<li><strong>Lógica de Mercado:</strong> A discussão sobre o sistema de
+Pet Shop introduziu a necessidade de gerenciar diferentes tipos de
+serviços e precificações através da combinação de operadores lógicos e
+relacionais.</li>
+</ul>
 <hr />
 </div></section><section id="W02-arquitetura_02" class="spa-section"><div class="lesson-card"><div class="lesson-metadata">Arquitetura de Computadores | Thiago | 2026-03-04 | Aula 02</div><p>O encontro com o Professor Thiago foi um mergulho profundo nas
 camadas físicas e lógicas que sustentam o mundo digital moderno. A ideia
@@ -748,74 +783,86 @@ quem traduz: O <a href="#term-kernel" class="term-link">Kernel</a> e os Drivers<
 <p>O computador funciona em um sistema complexo de camadas de <a href="#term-abstracao" class="term-link">abstração</a>.
 Para que um simples comando print em Python resulte em luzes piscando em
 um monitor ou em um arquivo salvo em disco, ele precisa passar por
-“pedágios” críticos de segurança e tradução.- <strong>O <a href="#term-kernel" class="term-link">Kernel</a>
-(Núcleo):</strong> Apresentado como o “prefeito” do sistema operacional,
-o <a href="#term-kernel" class="term-link">Kernel</a> é o software mestre. Ele detém o controle absoluto sobre quem
-utiliza o processador, quanta memória cada aplicativo recebe e como os
-arquivos são organizados no hardware. É o responsável por garantir que
-um programa não interfira no espaço de memória de outro, mantendo a
-estabilidade do sistema. - <strong>O <a href="#term-driver" class="term-link">Driver</a> (O Tradutor):</strong> O
-hardware fala linguagens elétricas muito específicas e diversificadas. O
-<a href="#term-kernel" class="term-link">Kernel</a> fala uma linguagem padrão de alto nível. O <a href="#term-driver" class="term-link">Driver</a> reside
-exatamente no meio deste caminho, atuando como um tradutor técnico. Sem
-o <a href="#term-driver" class="term-link">driver</a> correto, o sistema operacional é incapaz de “conversar” com
-componentes como a placa de vídeo, a impressora ou a placa de rede. -
-<strong>O <a href="#term-firmware" class="term-link">Firmware</a>:</strong> Diferente do Windows ou Linux que
+“pedágios” críticos de segurança e tradução.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>O <a href="#term-kernel" class="term-link">Kernel</a> (Núcleo):</strong> Apresentado como o “prefeito” do
+sistema operacional, o <a href="#term-kernel" class="term-link">Kernel</a> é o software mestre. Ele detém o controle
+absoluto sobre quem utiliza o processador, quanta memória cada
+aplicativo recebe e como os arquivos são organizados no hardware. É o
+responsável por garantir que um programa não interfira no espaço de
+memória de outro, mantendo a estabilidade do sistema.</li>
+<li><strong>O <a href="#term-driver" class="term-link">Driver</a> (O Tradutor):</strong> O hardware fala linguagens
+elétricas muito específicas e diversificadas. O <a href="#term-kernel" class="term-link">Kernel</a> fala uma
+linguagem padrão de alto nível. O <a href="#term-driver" class="term-link">Driver</a> reside exatamente no meio deste
+caminho, atuando como um tradutor técnico. Sem o <a href="#term-driver" class="term-link">driver</a> correto, o
+sistema operacional é incapaz de “conversar” com componentes como a
+placa de vídeo, a impressora ou a placa de rede.</li>
+<li><strong>O <a href="#term-firmware" class="term-link">Firmware</a>:</strong> Diferente do Windows ou Linux que
 instalamos no HD, o <a href="#term-firmware" class="term-link">firmware</a> é o software que já vem “de berço” no
 hardware. Ele nasce gravado em chips específicos na placa-mãe ou em
 roteadores para gerenciar as operações mais básicas e fundamentais do
-componente.</p><div class="vertical-spacer"></div>
+componente.</li>
+</ul>
 <hr />
 <h2 id="o-ritual-de-inicialização-a-bios-e-o-post">2. O Ritual de
 Inicialização: A <a href="#term-bios" class="term-link">BIOS</a> e o <a href="#term-post" class="term-link">POST</a></h2>
 <p>Antes que o sistema operacional sequer pense em carregar, o hardware
 realiza um processo solitário de autoconhecimento e check-up de
-integridade.- <strong><a href="#term-bios" class="term-link">BIOS</a> (Basic <a href="#term-input" class="term-link">Input</a>/Output System):</strong> É o
-<a href="#term-firmware" class="term-link">firmware</a> da placa-mãe e a primeira peça de software a “acordar” quando o
-botão power é pressionado. Sua função é identificar o processador,
-localizar a memória <a href="#term-ram" class="term-link">RAM</a> e apontar o caminho para que o <a href="#term-kernel" class="term-link">Kernel</a> do sistema
-operacional possa ser carregado (o famoso processo de boot). -
-<strong><a href="#term-post" class="term-link">POST</a> (Power-On Self-Test):</strong> É o autodiagnóstico
+integridade.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong><a href="#term-bios" class="term-link">BIOS</a> (Basic <a href="#term-input" class="term-link">Input</a>/Output System):</strong> É o <a href="#term-firmware" class="term-link">firmware</a> da
+placa-mãe e a primeira peça de software a “acordar” quando o botão power
+é pressionado. Sua função é identificar o processador, localizar a
+memória <a href="#term-ram" class="term-link">RAM</a> e apontar o caminho para que o <a href="#term-kernel" class="term-link">Kernel</a> do sistema operacional
+possa ser carregado (o famoso processo de boot).</li>
+<li><strong><a href="#term-post" class="term-link">POST</a> (Power-On Self-Test):</strong> É o autodiagnóstico
 realizado pela <a href="#term-bios" class="term-link">BIOS</a>. Se o computador emitir aquele “bip” clássico,
 significa que o <a href="#term-post" class="term-link">POST</a> passou. Caso haja uma falha crítica (como falta de
 memória ou erro no processador), o sistema avisa através de sequências
 de bips ou mensagens de erro antes de exibir qualquer imagem
-gráfica.</p><div class="vertical-spacer"></div>
+gráfica.</li>
+</ul>
 <hr />
 <h2 id="onde-a-conta-acontece-a-cpu-e-suas-memórias">3. Onde a conta
 acontece: A CPU e suas Memórias</h2>
 <p>Mergulhamos “debaixo do capô” do processador para entender como os
-impulsos elétricos se tornam lógica matemática.- <strong>Unidade Lógica
-e Aritmética (<a href="#term-ula" class="term-link">ULA</a>):</strong> É a calculadora real situada no coração da
-CPU. Toda operação matemática ou decisão lógica que você programa é
-fisicamente resolvida aqui dentro. - <strong>Memória <a href="#term-cache" class="term-link">Cache</a>:</strong> O
-processador é um esportista de elite, mas a memória <a href="#term-ram" class="term-link">RAM</a> é lenta em
-comparação a sua velocidade. O <a href="#term-cache" class="term-link">Cache</a> é uma memória ultrarrápida, interna
-à CPU, que armazena os dados usados com mais frequência para que o
-processador não precise “esperar” a busca lenta no estoque da <a href="#term-ram" class="term-link">RAM</a>. -
-<strong><a href="#term-ram" class="term-link">RAM</a> vs. <a href="#term-rom" class="term-link">ROM</a>:</strong> Exploramos a dualidade das memórias. A <a href="#term-ram" class="term-link">RAM</a>
-(Mesa de Trabalho) é volátil; tudo o que está aberto no momento (VS
+impulsos elétricos se tornam lógica matemática.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>Unidade Lógica e Aritmética (<a href="#term-ula" class="term-link">ULA</a>):</strong> É a calculadora
+real situada no coração da CPU. Toda operação matemática ou decisão
+lógica que você programa é fisicamente resolvida aqui dentro.</li>
+<li><strong>Memória <a href="#term-cache" class="term-link">Cache</a>:</strong> O processador é um esportista de
+elite, mas a memória <a href="#term-ram" class="term-link">RAM</a> é lenta em comparação a sua velocidade. O <a href="#term-cache" class="term-link">Cache</a>
+é uma memória ultrarrápida, interna à CPU, que armazena os dados usados
+com mais frequência para que o processador não precise “esperar” a busca
+lenta no estoque da <a href="#term-ram" class="term-link">RAM</a>.</li>
+<li><strong><a href="#term-ram" class="term-link">RAM</a> vs. <a href="#term-rom" class="term-link">ROM</a>:</strong> Exploramos a dualidade das memórias. A
+<a href="#term-ram" class="term-link">RAM</a> (Mesa de Trabalho) é volátil; tudo o que está aberto no momento (VS
 Code, Browser) reside nela e desaparece ao desligar. A <a href="#term-rom" class="term-link">ROM</a> (Instruções
 Fixas) é onde residem manuais de fábrica e a <a href="#term-bios" class="term-link">BIOS</a>, mantendo as
-informações mesmo sem energia elétrica.</p><div class="vertical-spacer"></div>
+informações mesmo sem energia elétrica.</li>
+</ul>
 <hr />
 <h2 id="otimização-e-o-conceito-de-computação-ubíqua">4. Otimização e o
 Conceito de <a href="#term-computacao-ubiqua" class="term-link">Computação Ubíqua</a></h2>
 <p>O Professor Thiago utilizou analogias poderosas para explicar a
 adequação entre hardware e software. Um software pesado em um hardware
 limitado é como um carro popular tentando fazer uma trilha 4x4: o
-resultado é frustração e ineficiência.- <strong>Memória Swap (O
-Seguro):</strong> Quando a memória <a href="#term-ram" class="term-link">RAM</a> lota, o sistema operacional
-utiliza um pedaço do HD ou SSD como uma reserva de emergência. Embora
-seja muito mais lento, este recurso evita que o computador trave
-completamente em situações de sobrecarga. - <strong><a href="#term-lei-de-moore" class="term-link">Lei de Moore</a> e
-Evolução:</strong> Discutimos como a redução dos componentes permitiu a
-<a href="#term-computacao-ubiqua" class="term-link">Computação Ubíqua</a>, onde o poder de processamento reside hoje em nossos
-bolsos, relógios e eletrodomésticos, de forma onipresente e invisível. -
-<strong>Recomendação para ADS:</strong> Para suportar o fluxo de
+resultado é frustração e ineficiência.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>Memória Swap (O Seguro):</strong> Quando a memória <a href="#term-ram" class="term-link">RAM</a> lota,
+o sistema operacional utiliza um pedaço do HD ou SSD como uma reserva de
+emergência. Embora seja muito mais lento, este recurso evita que o
+computador trave completamente em situações de sobrecarga.</li>
+<li><strong><a href="#term-lei-de-moore" class="term-link">Lei de Moore</a> e Evolução:</strong> Discutimos como a redução
+dos componentes permitiu a <a href="#term-computacao-ubiqua" class="term-link">Computação Ubíqua</a>, onde o poder de
+processamento reside hoje em nossos bolsos, relógios e eletrodomésticos,
+de forma onipresente e invisível.</li>
+<li><strong>Recomendação para ADS:</strong> Para suportar o fluxo de
 trabalho de um desenvolvedor (<a href="#term-docker" class="term-link">Docker</a>, IDEs, Bancos de Dados), o foco
 deve ser em máquinas com ao menos 16GB de <a href="#term-ram" class="term-link">RAM</a> e arquiteturas que
-permitam upgrades modulares.</p><div class="vertical-spacer"></div>
+permitam upgrades modulares.</li>
+</ul>
 <hr />
 </div></section><section id="W02-conformidade_02" class="spa-section"><div class="lesson-card"><div class="lesson-metadata">Análise de Conformidade de Software | Rayane | 2026-03-05 | Aula 02</div><p>Esta aula explorou a transição do ambiente digital de uma “terra sem
 lei” para um ecossistema regulamentado. O foco foi a responsabilidade
@@ -828,55 +875,66 @@ decisão de código possui um reflexo jurídico imediato.</p><div class="vertica
 Regulatórios</h2>
 <p>O Direito Digital busca adaptar normas físicas ao ambiente
 tecnológico. A evolução legal brasileira foi moldada por casos que
-expuseram a vulnerabilidade do cidadão na rede:- <strong>Equivalência
-Funcional:</strong> Princípio que garante que atos realizados em
-ambiente digital (como contratos assinados eletronicamente ou
-assinaturas digitais) possuam o mesmo valor e consequências jurídicas
-que atos realizados no mundo físico. - <strong>Lei Carolina Dieckmann
-(Lei 12.737/2012):</strong> Marco inicial que tipificou crimes
-cibernéticos no Brasil. A lei criminalizou a invasão de dispositivos
-eletrônicos para obter, adulterar ou destruir dados sem autorização,
-além da divulgação de segredos ou dados privados. - <strong>Lei Larissa
-Manoela (PL 4.031/2023 - Em tramitação):</strong> Proposta focada no
-combate à <a href="#term-violencia-patrimonial" class="term-link">Violência Patrimonial</a> e na falta de transparência em contratos
-de gestão. No contexto de Conformidade, reforça o direito ao controle
-absoluto sobre os próprios bens e imagem digital. - <strong>GitHub como
-Evidência Digital:</strong> O repositório de código atua como o
-Sentinela da Propriedade Intelectual. Commits, branches e o histórico de
-colaboração são evidências fundamentais em processos de auditoria para
-provar a autoria e o tempo de desenvolvimento.</p><div class="vertical-spacer"></div>
+expuseram a vulnerabilidade do cidadão na rede:</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong><a href="#term-equivalencia-funcional" class="term-link">Equivalência Funcional</a>:</strong> Princípio que garante que
+atos realizados em ambiente digital (como contratos assinados
+eletronicamente ou assinaturas digitais) possuam o mesmo valor e
+consequências jurídicas que atos realizados no mundo físico.</li>
+<li><strong>Lei Carolina Dieckmann (Lei 12.737/2012):</strong> Marco
+inicial que tipificou crimes cibernéticos no Brasil. A lei criminalizou
+a invasão de dispositivos eletrônicos para obter, adulterar ou destruir
+dados sem autorização, além da divulgação de segredos ou dados
+privados.</li>
+<li><strong>Lei Larissa Manoela (PL 4.031/2023 - Em
+tramitação):</strong> Proposta focada no combate à <a href="#term-violencia-patrimonial" class="term-link">Violência Patrimonial</a>
+e na falta de transparência em contratos de gestão. No contexto de
+Conformidade, reforça o direito ao controle absoluto sobre os próprios
+bens e imagem digital.</li>
+<li><strong>GitHub como Evidência Digital:</strong> O repositório de
+código atua como o Sentinela da Propriedade Intelectual. Commits,
+branches e o histórico de colaboração são evidências fundamentais em
+processos de auditoria para provar a autoria e o tempo de
+desenvolvimento.</li>
+</ul>
 <hr />
 <h2 id="lgpd-o-titular-no-centro-e-a-responsabilidade-corporativa">2.
 <a href="#term-lgpd" class="term-link">LGPD</a>: O Titular no Centro e a Responsabilidade Corporativa</h2>
 <p>A Lei Geral de Proteção de Dados (Lei 13.709/2018) estabelece que o
 indivíduo é o real dono de seus dados. As empresas deixam de ser
 proprietárias das informações e passam a ser apenas “tomadoras de
-empréstimo” sob regras rígidas de governança.- <strong>Finalidade e
-Necessidade:</strong> A conformidade baseia-se em coletar apenas o
-mínimo de dados necessário para um objetivo declarado e específico.
-Coletas excessivas são passíveis de punição. -
-<strong>Transparência:</strong> O titular tem o direito de saber
+empréstimo” sob regras rígidas de governança.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>Finalidade e Necessidade:</strong> A conformidade baseia-se
+em coletar apenas o mínimo de dados necessário para um objetivo
+declarado e específico. Coletas excessivas são passíveis de
+punição.</li>
+<li><strong>Transparência:</strong> O titular tem o direito de saber
 exatamente como, onde e por quem seus dados estão sendo processados a
-qualquer momento. - <strong>Figuras Jurídicas:</strong> Identificamos o
-Controlador (quem toma as decisões sobre o dado) e o Operador (quem
-realiza o tratamento em nome do controlador), ambos sob a supervisão da
-<a href="#term-anpd" class="term-link">ANPD</a>.</p><div class="vertical-spacer"></div>
+qualquer momento.</li>
+<li><strong>Figuras Jurídicas:</strong> Identificamos o Controlador
+(quem toma as decisões sobre o dado) e o Operador (quem realiza o
+tratamento em nome do controlador), ambos sob a supervisão da <a href="#term-anpd" class="term-link">ANPD</a>.</li>
+</ul>
 <hr />
 <h2 id="o-coração-da-conformidade-dados-comuns-vs.-dados-sensíveis">3. O
 Coração da Conformidade: Dados Comuns vs. Dados Sensíveis</h2>
 <p>Esta é a distinção vital para qualquer desenvolvedor de sistemas. A
 lei classifica os dados com base no risco de dano e potencial de
-discriminação que sua exposição pode causar.- <strong>Dados Comuns (O
-“Quem é você?”):</strong> Informações de identificação básica que
-permitem localizar ou identificar um indivíduo digitalmente. Exemplos:
-Nome completo, E-mail, CPF, Endereço IP e Geolocalização. O vazamento
-gera transtornos de segurança e financeiros, mas geralmente não fere a
-dignidade moral intrínseca. - <strong>Dados Sensíveis (O “O que você
-é?”):</strong> É a “linha vermelha” da privacidade. São informações
-íntimas que podem gerar discriminação, exclusão social ou preconceito.
-Exemplos: Histórico de saúde, genética, religião, orientação sexual,
-opinião política ou <a href="#term-biometria" class="term-link">Biometria</a> (rosto, digital). A proteção é absoluta
-porque o dano moral é grave e muitas vezes irreversível.</p><div class="vertical-spacer"></div>
+discriminação que sua exposição pode causar.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>Dados Comuns (O “Quem é você?”):</strong> Informações de
+identificação básica que permitem localizar ou identificar um indivíduo
+digitalmente. Exemplos: Nome completo, E-mail, CPF, Endereço IP e
+Geolocalização. O vazamento gera transtornos de segurança e financeiros,
+mas geralmente não fere a dignidade moral intrínseca.</li>
+<li><strong>Dados Sensíveis (O “O que você é?”):</strong> É a “linha
+vermelha” da privacidade. São informações íntimas que podem gerar
+discriminação, exclusão social ou preconceito. Exemplos: Histórico de
+saúde, genética, religião, orientação sexual, opinião política ou
+<a href="#term-biometria" class="term-link">Biometria</a> (rosto, digital). A proteção é absoluta porque o dano moral é
+grave e muitas vezes irreversível.</li>
+</ul>
 <hr />
 <h2 id="cenário-global-e-desafios-emergentes">4. Cenário Global e
 Desafios Emergentes</h2>
@@ -909,12 +967,16 @@ enfrentamento do erro e da depuração (<a href="#term-debug" class="term-link">
 <a href="#term-pensamento-algoritmico" class="term-link">Pensamento Algorítmico</a></h2>
 <p>Um <a href="#term-algoritmo" class="term-link">algoritmo</a> é uma sequência finita de passos lógicos para resolver
 um problema. O computador é uma máquina que executa instruções literais,
-exigindo que o <a href="#term-algoritmo" class="term-link">algoritmo</a> siga quatro pilares: 1.
-<strong>Clareza</strong>: Instruções inequívocas. 2.
-<strong>Ordenação</strong>: Sequência temporal lógica (ex: ferver a água
-antes de servir o café). 3. <strong>Finitude</strong>: Todo processo
-deve prever um encerramento. 4. <strong>Eficácia</strong>: O <a href="#term-algoritmo" class="term-link">algoritmo</a>
-deve atingir exatamente o objetivo proposto.</p><div class="vertical-spacer"></div>
+exigindo que o <a href="#term-algoritmo" class="term-link">algoritmo</a> siga quatro pilares:</p><div class="vertical-spacer"></div>
+<ol type="1">
+<li><strong>Clareza</strong>: Instruções inequívocas.</li>
+<li><strong>Ordenação</strong>: Sequência temporal lógica (ex: ferver a
+água antes de servir o café).</li>
+<li><strong>Finitude</strong>: Todo processo deve prever um
+encerramento.</li>
+<li><strong>Eficácia</strong>: O <a href="#term-algoritmo" class="term-link">algoritmo</a> deve atingir exatamente o
+objetivo proposto.</li>
+</ol>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Primeiro contato com interação em Python</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>nome <span class="op">=</span> <span class="bu">input</span>(<span class="st">&quot;Digite seu nome: &quot;</span>)</span>
@@ -944,21 +1006,29 @@ tecnológica local.</p><div class="vertical-spacer"></div>
 <h2 id="variáveis-o-conceito-de-recipiente-lógico">1. Variáveis: O
 Conceito de Recipiente Lógico</h2>
 <p>O professor <strong>Nator Junior</strong> utilizou a analogia da
-<strong>caixa com etiqueta</strong> para explicar a memória. -
-<strong>Atribuição (=)</strong>: O sinal de igual significa
-<strong>recebe</strong>. Ex: <code>idade = 20</code>. - <strong>Regras
-de Nomeação</strong>: Não começar com números, não usar espaços e evitar
-palavras reservadas do Python (como <code>if</code> ou
-<code>class</code>). Nomes semânticos (ex: <code>idade_aluno</code>) são
-essenciais para a legibilidade do código em equipe.</p><div class="vertical-spacer"></div>
+<strong>caixa com etiqueta</strong> para explicar a memória.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong>Atribuição (=)</strong>: O sinal de igual significa
+<strong>recebe</strong>. Ex: <code>idade = 20</code>.</li>
+<li><strong>Regras de Nomeação</strong>: Não começar com números, não
+usar espaços e evitar palavras reservadas do Python (como
+<code>if</code> ou <code>class</code>). Nomes semânticos (ex:
+<code>idade_aluno</code>) são essenciais para a legibilidade do código
+em equipe.</li>
+</ul>
 <hr />
 <h2 id="tipagem-dinâmica-e-casting">2. <a href="#term-tipagem-dinamica" class="term-link">Tipagem Dinâmica</a> e <a href="#term-casting" class="term-link">Casting</a></h2>
 <p>O Python identifica o tipo do dado automaticamente no momento da
-atribuição. - <strong><code>str</code> (String)</strong>: Textos entre
-aspas. - <strong><code>int</code> (Inteiro)</strong>: Números sem
-decimais. - <strong><code>float</code> (Decimal)</strong>: Números com
-ponto flutuante. - <strong><code>bool</code> (<a href="#term-booleano" class="term-link">Booleano</a>)</strong>:
-<code>True</code> ou <code>False</code>.</p><div class="vertical-spacer"></div>
+atribuição.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong><code>str</code> (String)</strong>: Textos entre aspas.</li>
+<li><strong><code>int</code> (Inteiro)</strong>: Números sem
+decimais.</li>
+<li><strong><code>float</code> (Decimal)</strong>: Números com ponto
+flutuante.</li>
+<li><strong><code>bool</code> (<a href="#term-booleano" class="term-link">Booleano</a>)</strong>: <code>True</code> ou
+<code>False</code>.</li>
+</ul>
 <p>O comando <code>input()</code> recebe dados sempre como texto. Para
 realizar cálculos, é obrigatório o uso do <strong><a href="#term-casting" class="term-link">Casting</a></strong>
 (conversão):</p><div class="vertical-spacer"></div>
@@ -971,9 +1041,12 @@ Carreira e Responsabilidade Social</h2>
 <p>O Coordenador <strong>Fred</strong> destacou que a formação técnica
 deve ser acompanhada de <strong><a href="#term-soft-skills" class="term-link">Soft Skills</a></strong>. A capacidade de
 conviver em grupo e lidar com frustrações é tão vital quanto saber
-programar. - <strong><a href="#term-extensao-universitaria" class="term-link">Extensão Universitária</a> (10% MEC)</strong>: O
-conhecimento de TI deve retornar à sociedade (ex: ensinar segurança
-digital a idosos ou organizar estoques de pequenas oficinas locais).</p><div class="vertical-spacer"></div>
+programar.</p><div class="vertical-spacer"></div>
+<ul>
+<li><strong><a href="#term-extensao-universitaria" class="term-link">Extensão Universitária</a> (10% MEC)</strong>: O conhecimento de
+TI deve retornar à sociedade (ex: ensinar segurança digital a idosos ou
+organizar estoques de pequenas oficinas locais).</li>
+</ul>
 <hr />
 <h2 id="infraestrutura-o-polo-de-data-centers-no-ceará">4.
 Infraestrutura: O Polo de Data Centers no Ceará</h2>
@@ -1057,14 +1130,18 @@ resiliente e estar em conformidade legal e técnica.</p><div class="vertical-spa
 <h2 id="pilares-do-pensamento-computacional">2. Pilares do Pensamento
 Computacional</h2>
 <p>Fundamentos essenciais para análise de requisitos e resolução de
-problemas: 1. <strong>Decomposição</strong>: Particionar problemas
-complexos em partes gerenciáveis. 2. <strong>Reconhecimento de
-Padrões</strong>: Identificar semelhanças com problemas já resolvidos.
-3. <strong><a href="#term-abstracao" class="term-link">Abstração</a></strong>: Focar no essencial e ignorar detalhes
+problemas:</p><div class="vertical-spacer"></div>
+<ol type="1">
+<li><strong>Decomposição</strong>: Particionar problemas complexos em
+partes gerenciáveis.</li>
+<li><strong>Reconhecimento de Padrões</strong>: Identificar semelhanças
+com problemas já resolvidos.</li>
+<li><strong><a href="#term-abstracao" class="term-link">Abstração</a></strong>: Focar no essencial e ignorar detalhes
 irrelevantes no momento. <a
-href="https://pt.wikipedia.org/wiki/Abstra%C3%A7%C3%A3o_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)">Wikipédia</a>.
-4. <strong>Algoritmos</strong>: Criação do passo a passo lógico para a
-execução.</p><div class="vertical-spacer"></div>
+href="https://pt.wikipedia.org/wiki/Abstra%C3%A7%C3%A3o_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)">Wikipédia</a>.</li>
+<li><strong>Algoritmos</strong>: Criação do passo a passo lógico para a
+execução.</li>
+</ol>
 <hr />
 <h2 id="infraestrutura-e-geopolítica-digital">3. Infraestrutura e
 Geopolítica Digital</h2>
@@ -1092,53 +1169,109 @@ saúde mental/física (ergonomia) do arquiteto.</p><div class="vertical-spacer">
             <section id="glossary" class="spa-section">
                 <div class="lesson-card">
                     <div class="lesson-metadata">Dicionário Técnico Transversal</div>
-                    <h2>📚 Glossário (59 termos)</h2>
-                    <div class="glossary-grid"><div class="glossary-item" id="term-abstracao"><span class="glossary-term">Abstração</span><div class="glossary-def"><p>Processo de focar nos elementos essenciais de um problema, ignorando
-detalhes irrelevantes..</p></div><div class="glossary-actions"><a href="#W01-logica_01" class="action-btn" onclick="showSection('W01-logica_01')">🔙 Lógica 01</a><a href="https://pt.wikipedia.org/wiki/Abstra%C3%A7%C3%A3o_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-algoritmo"><span class="glossary-term">Algoritmo</span><div class="glossary-def"><p>Sequência finita de instruções bem definidas e não ambíguas..</p></div><div class="glossary-actions"><a href="#W01-logica_01" class="action-btn" onclick="showSection('W01-logica_01')">🔙 Lógica 01</a><a href="https://pt.wikipedia.org/wiki/Algoritmo" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-aninhamento"><span class="glossary-term">Aninhamento</span><div class="glossary-def"><p>Técnica de colocar uma função dentro de outra, como
-<code>float(input())</code>, para otimizar o fluxo de processamento.</p></div><div class="glossary-actions"><a href="#W02-logica_04" class="action-btn" onclick="showSection('W02-logica_04')">🔙 Lógica 02</a><a href="https://pt.wikipedia.org/wiki/Estrutura_de_dados" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-anpd"><span class="glossary-term">ANPD</span><div class="glossary-def"><p>Autoridade Nacional de Proteção de Dados, órgão responsável por
+                    <h2>Glossário (59 termos)</h2>
+                    <div class="glossary-grid"><div class='glossary-item' id='term-abstracao'><span class='glossary-term'>Abstração</span><div class='glossary-def'><p>Processo de focar nos elementos essenciais de um problema, ignorando
+detalhes irrelevantes. <a
+href="https://pt.wikipedia.org/wiki/Abstra%C3%A7%C3%A3o_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_01")'>Lógica 01</button></div><a href='https://pt.wikipedia.org/wiki/Abstra%C3%A7%C3%A3o_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-algoritmo'><span class='glossary-term'>Algoritmo</span><div class='glossary-def'><p>Sequência finita de instruções bem definidas e não ambíguas. <a
+href="https://pt.wikipedia.org/wiki/Algoritmo"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_01")'>Lógica 01</button></div><a href='https://pt.wikipedia.org/wiki/Algoritmo' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-aninhamento'><span class='glossary-term'>Aninhamento</span><div class='glossary-def'><p>Técnica de colocar uma função dentro de outra, como
+<code>float(input())</code>, para otimizar o fluxo de processamento <a
+href="https://pt.wikipedia.org/wiki/Estrutura_de_dados"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_04")'>Lógica 04</button></div><a href='https://pt.wikipedia.org/wiki/Estrutura_de_dados' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-anpd'><span class='glossary-term'>ANPD</span><div class='glossary-def'><p>Autoridade Nacional de Proteção de Dados, órgão responsável por
 fiscalizar a LGPD no Brasil e aplicar sanções que podem chegar a R$ 50
-milhões.</p></div><div class="glossary-actions"><a href="#W02-conformidade_02" class="action-btn" onclick="showSection('W02-conformidade_02')">🔙 Conformidade 02</a><a href="https://pt.wikipedia.org/wiki/Autoridade_Nacional_de_Proteção_de_Dados" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-area-meio"><span class="glossary-term">Área Meio</span><div class="glossary-def"><p>Tecnologia aplicada como ferramenta de suporte para outros campos de
+milhões <a
+href="https://pt.wikipedia.org/wiki/Autoridade_Nacional_de_Proteção_de_Dados"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Autoridade_Nacional_de_Proteção_de_Dados' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-area-meio'><span class='glossary-term'>Área Meio</span><div class='glossary-def'><p>Tecnologia aplicada como ferramenta de suporte para outros campos de
 conhecimento.</p><div class="vertical-spacer"></div>
-</div><div class="glossary-actions"><a href="#W01-logica_01" class="action-btn" onclick="showSection('W01-logica_01')">🔙 Lógica 01</a></div></div><div class="glossary-item" id="term-arquiteto-de-software"><span class="glossary-term">Arquiteto de Software</span><div class="glossary-def"><p>Profissional responsável pelas decisões de alto nível sobre a
-estrutura do sistema.</p></div><div class="glossary-actions"><a href="#W01-conformidade_02" class="action-btn" onclick="showSection('W01-conformidade_02')">🔙 Conformidade 01</a><a href="https://pt.wikipedia.org/wiki/Arquiteto_de_software" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-audit-log"><span class="glossary-term">Audit Log</span><div class="glossary-def"><p>Registro cronológico de atividades que fornece evidências da
-sequência de atividades que afetaram um evento ou transação..</p></div><div class="glossary-actions"><a href="#W03-conformidade_03" class="action-btn" onclick="showSection('W03-conformidade_03')">🔙 Conformidade 03</a><a href="https://en.wikipedia.org/wiki/Audit_trail" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-bare-metal"><span class="glossary-term">Bare Metal</span><div class="glossary-def"><p>Software instalado diretamente no hardware físico..</p></div><div class="glossary-actions"><a href="#W01-arquitetura_01" class="action-btn" onclick="showSection('W01-arquitetura_01')">🔙 Arquitetura 01</a><a href="https://pt.wikipedia.org/wiki/Bare_metal" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-biometria"><span class="glossary-term">Biometria</span><div class="glossary-def"><p>Dados físicos ou comportamentais únicos usados para identificação
-segura, classificados como Dados Sensíveis.</p></div><div class="glossary-actions"><a href="#W02-conformidade_02" class="action-btn" onclick="showSection('W02-conformidade_02')">🔙 Conformidade 02</a><a href="https://pt.wikipedia.org/wiki/Biometria" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-bios"><span class="glossary-term">BIOS</span><div class="glossary-def"><p>Sistema básico de entrada e saída responsável por inicializar o
-hardware e preparar o ambiente para o S.O.</p></div><div class="glossary-actions"><a href="#W02-arquitetura_02" class="action-btn" onclick="showSection('W02-arquitetura_02')">🔙 Arquitetura 02</a><a href="https://pt.wikipedia.org/wiki/BIOS" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-booleano"><span class="glossary-term">Booleano</span><div class="glossary-def"><p>Tipo de dado lógico binário que assume apenas os valores Verdadeiro
-(True) ou Falso (False).</p></div><div class="glossary-actions"><a href="#W02-logica_03" class="action-btn" onclick="showSection('W02-logica_03')">🔙 Lógica 02</a><a href="https://pt.wikipedia.org/wiki/Lógica_booleana" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-cache"><span class="glossary-term">Cache</span><div class="glossary-def"><p>Camada de memória ultrarrápida interna ao processador usada para
-acelerar o acesso a dados frequentes.</p></div><div class="glossary-actions"><a href="#W02-arquitetura_02" class="action-btn" onclick="showSection('W02-arquitetura_02')">🔙 Arquitetura 02</a><a href="https://pt.wikipedia.org/wiki/Cache" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-casting"><span class="glossary-term">Casting</span><div class="glossary-def"><p>Ato de converter explicitamente um tipo de dado em outro (ex:
-converter string para inteiro).</p></div><div class="glossary-actions"><a href="#W02-logica_03" class="action-btn" onclick="showSection('W02-logica_03')">🔙 Lógica 02</a><a href="https://pt.wikipedia.org/wiki/Coerção_de_tipos" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-compliance"><span class="glossary-term">Compliance</span><div class="glossary-def"><p>Conjunto de disciplinas para fazer cumprir as normas legais e
-regulamentares impostas às atividades de uma instituição..</p></div><div class="glossary-actions"><a href="#W03-conformidade_03" class="action-btn" onclick="showSection('W03-conformidade_03')">🔙 Conformidade 03</a><a href="https://pt.wikipedia.org/wiki/Conformidade" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-computacao-ubiqua"><span class="glossary-term">Computação Ubíqua</span><div class="glossary-def"><p>O conceito de tecnologia integrada ao cotidiano, tornando-se
-onipresente e invisível ao usuário.</p></div><div class="glossary-actions"><a href="#W02-arquitetura_02" class="action-btn" onclick="showSection('W02-arquitetura_02')">🔙 Arquitetura 02</a><a href="https://pt.wikipedia.org/wiki/Computação_ubíqua" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-dano-moral-in-re-ipsa"><span class="glossary-term">Dano Moral In Re Ipsa</span><div class="glossary-def"><p>Conceito jurídico para danos que não precisam de prova de prejuízo,
-pois são presumidos pelo próprio ato ilícito..</p></div><div class="glossary-actions"><a href="#W03-conformidade_03" class="action-btn" onclick="showSection('W03-conformidade_03')">🔙 Conformidade 03</a><a href="https://pt.wikipedia.org/wiki/Dano_moral#Dano_moral_in_re_ipsa" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-data-center"><span class="glossary-term">Data Center</span><div class="glossary-def"><p>Infraestrutura física para hospedagem de sistemas e dados massivos..</p></div><div class="glossary-actions"><a href="#W01-logica_02" class="action-btn" onclick="showSection('W01-logica_02')">🔙 Lógica 01</a><a href="https://pt.wikipedia.org/wiki/Centro_de_processamento_de_dados" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-debug"><span class="glossary-term">Debug</span><div class="glossary-def"><p>O ato de encontrar e corrigir erros (bugs) no código fonte de um
-programa.</p></div><div class="glossary-actions"><a href="#W02-logica_04" class="action-btn" onclick="showSection('W02-logica_04')">🔙 Lógica 02</a><a href="https://pt.wikipedia.org/wiki/Depuração" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-direito-ao-esquecimento"><span class="glossary-term">Direito ao Esquecimento</span><div class="glossary-def"><p>Direito de impedir a perpetuação de informações irrelevantes ou
-prejudiciais do passado na internet.</p></div><div class="glossary-actions"><a href="#W02-conformidade_02" class="action-btn" onclick="showSection('W02-conformidade_02')">🔙 Conformidade 02</a><a href="https://pt.wikipedia.org/wiki/Direito_ao_esquecimento" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-docker"><span class="glossary-term">Docker</span><div class="glossary-def"><p>Plataforma para criação e implantação de aplicações em containers..</p></div><div class="glossary-actions"><a href="#W01-conformidade_02" class="action-btn" onclick="showSection('W01-conformidade_02')">🔙 Conformidade 01</a><a href="https://pt.wikipedia.org/wiki/Docker_(software)" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-driver"><span class="glossary-term">Driver</span><div class="glossary-def"><p>Software especializado que atua como tradutor entre o hardware
-específico e o sistema operacional genérico.</p></div><div class="glossary-actions"><a href="#W02-arquitetura_02" class="action-btn" onclick="showSection('W02-arquitetura_02')">🔙 Arquitetura 02</a><a href="https://pt.wikipedia.org/wiki/Controlador_de_dispositivo" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-engenharia-social"><span class="glossary-term">Engenharia Social</span><div class="glossary-def"><p>Prática de manipular pessoas para que forneçam informações
-confidenciais ou realizem atos que permitam acesso a dados..</p></div><div class="glossary-actions"><a href="#W03-conformidade_03" class="action-btn" onclick="showSection('W03-conformidade_03')">🔙 Conformidade 03</a><a href="https://pt.wikipedia.org/wiki/Engenharia_social_(seguran%C3%A7a_da_informa%C3%A7%C3%A3o)" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-equivalencia-funcional"><span class="glossary-term">Equivalência Funcional</span><div class="glossary-def"><p>Princípio jurídico de paridade entre o meio digital e o físico.</p><div class="vertical-spacer"></div>
-</div><div class="glossary-actions"><a href="#W02-conformidade_02" class="action-btn" onclick="showSection('W02-conformidade_02')">🔙 Conformidade 02</a></div></div><div class="glossary-item" id="term-extensao-universitaria"><span class="glossary-term">Extensão Universitária</span><div class="glossary-def"><p>Atividades acadêmicas integradas à comunidade externa..</p></div><div class="glossary-actions"><a href="#W01-logica_02" class="action-btn" onclick="showSection('W01-logica_02')">🔙 Lógica 01</a><a href="https://pt.wikipedia.org/wiki/Extens%C3%A3o_universit%C3%A1ria" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-f-strings"><span class="glossary-term">F-Strings</span><div class="glossary-def"><p>Método moderno de formatação de strings no Python que oferece maior
+</div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_01")'>Lógica 01</button></div></div></div><div class='glossary-item' id='term-arquiteto-de-software'><span class='glossary-term'>Arquiteto de Software</span><div class='glossary-def'><p>Profissional responsável pelas decisões de alto nível sobre a
+estrutura do sistema <a
+href="https://pt.wikipedia.org/wiki/Arquiteto_de_software"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Arquiteto_de_software' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-audit-log'><span class='glossary-term'>Audit Log</span><div class='glossary-def'><p>Registro cronológico de atividades que fornece evidências da
+sequência de atividades que afetaram um evento ou transação. <a
+href="https://en.wikipedia.org/wiki/Audit_trail"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W03", "W03-conformidade_03")'>Conformidade 03</button></div><a href='https://en.wikipedia.org/wiki/Audit_trail' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-bare-metal'><span class='glossary-term'>Bare Metal</span><div class='glossary-def'><p>Software instalado diretamente no hardware físico. <a
+href="https://pt.wikipedia.org/wiki/Bare_metal"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-arquitetura_01")'>Arquitetura 01</button></div><a href='https://pt.wikipedia.org/wiki/Bare_metal' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-biometria'><span class='glossary-term'>Biometria</span><div class='glossary-def'><p>Dados físicos ou comportamentais únicos usados para identificação
+segura, classificados como Dados Sensíveis <a
+href="https://pt.wikipedia.org/wiki/Biometria"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Biometria' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-bios'><span class='glossary-term'>BIOS</span><div class='glossary-def'><p>Sistema básico de entrada e saída responsável por inicializar o
+hardware e preparar o ambiente para o S.O <a
+href="https://pt.wikipedia.org/wiki/BIOS"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/BIOS' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-booleano'><span class='glossary-term'>Booleano</span><div class='glossary-def'><p>Tipo de dado lógico binário que assume apenas os valores Verdadeiro
+(True) ou Falso (False) <a
+href="https://pt.wikipedia.org/wiki/Lógica_booleana"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_03")'>Lógica 03</button></div><a href='https://pt.wikipedia.org/wiki/Lógica_booleana' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-cache'><span class='glossary-term'>Cache</span><div class='glossary-def'><p>Camada de memória ultrarrápida interna ao processador usada para
+acelerar o acesso a dados frequentes <a
+href="https://pt.wikipedia.org/wiki/Cache"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Cache' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-casting'><span class='glossary-term'>Casting</span><div class='glossary-def'><p>Ato de converter explicitamente um tipo de dado em outro (ex:
+converter string para inteiro) <a
+href="https://pt.wikipedia.org/wiki/Coerção_de_tipos"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_02")'>Lógica 02</button></div><a href='https://pt.wikipedia.org/wiki/Coerção_de_tipos' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-compliance'><span class='glossary-term'>Compliance</span><div class='glossary-def'><p>Conjunto de disciplinas para fazer cumprir as normas legais e
+regulamentares impostas às atividades de uma instituição. <a
+href="https://pt.wikipedia.org/wiki/Conformidade"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Conformidade' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-computacao-ubiqua'><span class='glossary-term'>Computação Ubíqua</span><div class='glossary-def'><p>O conceito de tecnologia integrada ao cotidiano, tornando-se
+onipresente e invisível ao usuário <a
+href="https://pt.wikipedia.org/wiki/Computação_ubíqua"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Computação_ubíqua' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-dano-moral-in-re-ipsa'><span class='glossary-term'>Dano Moral In Re Ipsa</span><div class='glossary-def'><p>Conceito jurídico para danos que não precisam de prova de prejuízo,
+pois são presumidos pelo próprio ato ilícito. <a
+href="https://pt.wikipedia.org/wiki/Dano_moral#Dano_moral_in_re_ipsa"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W03", "W03-conformidade_03")'>Conformidade 03</button></div><a href='https://pt.wikipedia.org/wiki/Dano_moral#Dano_moral_in_re_ipsa' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-data-center'><span class='glossary-term'>Data Center</span><div class='glossary-def'><p>Infraestrutura física para hospedagem de sistemas e dados massivos.
+<a
+href="https://pt.wikipedia.org/wiki/Centro_de_processamento_de_dados"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_02")'>Lógica 02</button></div><a href='https://pt.wikipedia.org/wiki/Centro_de_processamento_de_dados' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-debug'><span class='glossary-term'>Debug</span><div class='glossary-def'><p>O ato de encontrar e corrigir erros (bugs) no código fonte de um
+programa <a
+href="https://pt.wikipedia.org/wiki/Depuração"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_04")'>Lógica 04</button></div><a href='https://pt.wikipedia.org/wiki/Depuração' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-direito-ao-esquecimento'><span class='glossary-term'>Direito ao Esquecimento</span><div class='glossary-def'><p>Direito de impedir a perpetuação de informações irrelevantes ou
+prejudiciais do passado na internet <a
+href="https://pt.wikipedia.org/wiki/Direito_ao_esquecimento"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Direito_ao_esquecimento' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-docker'><span class='glossary-term'>Docker</span><div class='glossary-def'><p>Plataforma para criação e implantação de aplicações em containers. <a
+href="https://pt.wikipedia.org/wiki/Docker_(software)"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Docker_(software)' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-driver'><span class='glossary-term'>Driver</span><div class='glossary-def'><p>Software especializado que atua como tradutor entre o hardware
+específico e o sistema operacional genérico <a
+href="https://pt.wikipedia.org/wiki/Controlador_de_dispositivo"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Controlador_de_dispositivo' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-engenharia-social'><span class='glossary-term'>Engenharia Social</span><div class='glossary-def'><p>Prática de manipular pessoas para que forneçam informações
+confidenciais ou realizem atos que permitam acesso a dados. <a
+href="https://pt.wikipedia.org/wiki/Engenharia_social_(seguran%C3%A7a_da_informa%C3%A7%C3%A3o)"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W03", "W03-conformidade_03")'>Conformidade 03</button></div><a href='https://pt.wikipedia.org/wiki/Engenharia_social_(seguran%C3%A7a_da_informa%C3%A7%C3%A3o)' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-equivalencia-funcional'><span class='glossary-term'>Equivalência Funcional</span><div class='glossary-def'><p>Princípio jurídico de paridade entre o meio digital e o físico.</p><div class="vertical-spacer"></div>
+</div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-conformidade_02")'>Conformidade 02</button></div></div></div><div class='glossary-item' id='term-extensao-universitaria'><span class='glossary-term'>Extensão Universitária</span><div class='glossary-def'><p>Atividades acadêmicas integradas à comunidade externa. <a
+href="https://pt.wikipedia.org/wiki/Extens%C3%A3o_universit%C3%A1ria"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_02")'>Lógica 02</button></div><a href='https://pt.wikipedia.org/wiki/Extens%C3%A3o_universit%C3%A1ria' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-f-strings'><span class='glossary-term'>F-Strings</span><div class='glossary-def'><p>Método moderno de formatação de strings no Python que oferece maior
 legibilidade e performance.</p><div class="vertical-spacer"></div>
-</div><div class="glossary-actions"><a href="#W02-logica_03" class="action-btn" onclick="showSection('W02-logica_03')">🔙 Lógica 02</a></div></div><div class="glossary-item" id="term-firmware"><span class="glossary-term">Firmware</span><div class="glossary-def"><p>Software de baixo nível gravado diretamente no hardware para
-controlar suas funções básicas.</p></div><div class="glossary-actions"><a href="#W02-arquitetura_02" class="action-btn" onclick="showSection('W02-arquitetura_02')">🔙 Arquitetura 02</a><a href="https://pt.wikipedia.org/wiki/Firmware" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-fullstack"><span class="glossary-term">Fullstack</span><div class="glossary-def"><p>Desenvolvedor capaz de atuar em todas as camadas da aplicação.</p></div><div class="glossary-actions"><a href="#W01-conformidade_02" class="action-btn" onclick="showSection('W01-conformidade_02')">🔙 Conformidade 01</a><a href="https://pt.wikipedia.org/wiki/Desenvolvimento_web#Full-stack_developer" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-gdb-online"><span class="glossary-term">GDB Online</span><div class="glossary-def"><p>Ambiente de desenvolvimento web sugerido pelo professor para testes
+</div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_03")'>Lógica 03</button></div></div></div><div class='glossary-item' id='term-firmware'><span class='glossary-term'>Firmware</span><div class='glossary-def'><p>Software de baixo nível gravado diretamente no hardware para
+controlar suas funções básicas <a
+href="https://pt.wikipedia.org/wiki/Firmware"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Firmware' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-fullstack'><span class='glossary-term'>Fullstack</span><div class='glossary-def'><p>Desenvolvedor capaz de atuar em todas as camadas da aplicação <a
+href="https://pt.wikipedia.org/wiki/Desenvolvimento_web#Full-stack_developer"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Desenvolvimento_web#Full-stack_developer' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-gdb-online'><span class='glossary-term'>GDB Online</span><div class='glossary-def'><p>Ambiente de desenvolvimento web sugerido pelo professor para testes
 rápidos de sintaxe.</p><div class="vertical-spacer"></div>
-</div><div class="glossary-actions"><a href="#W02-logica_03" class="action-btn" onclick="showSection('W02-logica_03')">🔙 Lógica 02</a></div></div><div class="glossary-item" id="term-gdpr"><span class="glossary-term">GDPR</span><div class="glossary-def"><p>Regulamentação europeia de proteção de dados, considerada a mais
-rigorosa do mundo.</p></div><div class="glossary-actions"><a href="#W02-conformidade_02" class="action-btn" onclick="showSection('W02-conformidade_02')">🔙 Conformidade 02</a><a href="https://pt.wikipedia.org/wiki/Regulamento_Geral_sobre_a_Proteção_de_Dados" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-hipervisor"><span class="glossary-term">Hipervisor</span><div class="glossary-def"><p>Plataforma que permite a execução de múltiplas máquinas virtuais..</p></div><div class="glossary-actions"><a href="#W01-arquitetura_01" class="action-btn" onclick="showSection('W01-arquitetura_01')">🔙 Arquitetura 01</a><a href="https://pt.wikipedia.org/wiki/Hipervisor" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-hot-swap"><span class="glossary-term">Hot-swap</span><div class="glossary-def"><p>Característica que permite trocar componentes sem desligar o sistema..</p></div><div class="glossary-actions"><a href="#W01-arquitetura_01" class="action-btn" onclick="showSection('W01-arquitetura_01')">🔙 Arquitetura 01</a><a href="https://pt.wikipedia.org/wiki/Hot_swapping" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-input"><span class="glossary-term">Input</span><div class="glossary-def"><p>Comando para captura de dados fornecidos pelo usuário.</p></div><div class="glossary-actions"><a href="#W01-logica_02" class="action-btn" onclick="showSection('W01-logica_02')">🔙 Lógica 01</a><a href="https://pt.wikipedia.org/wiki/Entrada/saída" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-kernel"><span class="glossary-term">Kernel</span><div class="glossary-def"><p>O núcleo do sistema operacional que gerencia recursos de baixo nível
-como memória e processamento.</p></div><div class="glossary-actions"><a href="#W02-arquitetura_02" class="action-btn" onclick="showSection('W02-arquitetura_02')">🔙 Arquitetura 02</a><a href="https://pt.wikipedia.org/wiki/Núcleo_(sistema_operacional)" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-kubernetes"><span class="glossary-term">Kubernetes</span><div class="glossary-def"><p>Sistema de orquestração para gestão automatizada de containers..</p></div><div class="glossary-actions"><a href="#W01-conformidade_02" class="action-btn" onclick="showSection('W01-conformidade_02')">🔙 Conformidade 01</a><a href="https://pt.wikipedia.org/wiki/Kubernetes" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-latex"><span class="glossary-term">LaTeX</span><div class="glossary-def"><p>Motor de formatação de documentos de alta qualidade utilizado na
-produção dos materiais didáticos do professor.</p></div><div class="glossary-actions"><a href="#W02-logica_04" class="action-btn" onclick="showSection('W02-logica_04')">🔙 Lógica 02</a><a href="https://pt.wikipedia.org/wiki/LaTeX" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-lei-de-moore"><span class="glossary-term">Lei de Moore</span><div class="glossary-def"><p>Observação de que a capacidade de processamento dos computadores
-dobra aproximadamente a cada dois anos.</p></div><div class="glossary-actions"><a href="#W02-arquitetura_02" class="action-btn" onclick="showSection('W02-arquitetura_02')">🔙 Arquitetura 02</a><a href="https://pt.wikipedia.org/wiki/Lei_de_Moore" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-lgpd"><span class="glossary-term">LGPD</span><div class="glossary-def"><p>Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018), que regula
-o tratamento de dados de pessoas físicas..</p></div><div class="glossary-actions"><a href="#W03-conformidade_03" class="action-btn" onclick="showSection('W03-conformidade_03')">🔙 Conformidade 03</a><a href="https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-linguagem-de-programacao"><span class="glossary-term">Linguagem de Programação</span><div class="glossary-def"><p>Método padronizado para comunicar instruções para um computador..</p></div><div class="glossary-actions"><a href="#W01-logica_01" class="action-btn" onclick="showSection('W01-logica_01')">🔙 Lógica 01</a><a href="https://pt.wikipedia.org/wiki/Linguagem_de_programação" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-mfa"><span class="glossary-term">MFA</span><div class="glossary-def"><p>Autenticação de dois ou mais fatores que adiciona uma camada extra de
-segurança ao acesso..</p></div><div class="glossary-actions"><a href="#W03-conformidade_03" class="action-btn" onclick="showSection('W03-conformidade_03')">🔙 Conformidade 03</a><a href="https://pt.wikipedia.org/wiki/Autentica%C3%A7%C3%A3o_multifator" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-pemdas"><span class="glossary-term">PEMDAS</span><div class="glossary-def"><p>Acrônimo para a ordem de precedência (Parênteses, Expoentes,
-Multiplicação, Divisão, Adição, Subtração).</p></div><div class="glossary-actions"><a href="#W02-logica_03" class="action-btn" onclick="showSection('W02-logica_03')">🔙 Lógica 02</a><a href="https://pt.wikipedia.org/wiki/Ordem_de_operações" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-pensamento-algoritmico"><span class="glossary-term">Pensamento Algorítmico</span><div class="glossary-def"><p>Processo de formular problemas cujas soluções podem ser executadas
-por agentes de processamento.</p></div><div class="glossary-actions"><a href="#W01-logica_01" class="action-btn" onclick="showSection('W01-logica_01')">🔙 Lógica 01</a><a href="https://pt.wikipedia.org/wiki/Algoritmo" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-phishing"><span class="glossary-term">Phishing</span><div class="glossary-def"><p>Método de engenharia social usado para enganar usuários e obter
-informações confidenciais..</p></div><div class="glossary-actions"><a href="#W03-conformidade_03" class="action-btn" onclick="showSection('W03-conformidade_03')">🔙 Conformidade 03</a><a href="https://pt.wikipedia.org/wiki/Phishing" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-portabilidade"><span class="glossary-term">Portabilidade</span><div class="glossary-def"><p>Capacidade de mover softwares ou máquinas virtuais entre ambientes
-distintos.</p></div><div class="glossary-actions"><a href="#W01-arquitetura_01" class="action-btn" onclick="showSection('W01-arquitetura_01')">🔙 Arquitetura 01</a><a href="https://pt.wikipedia.org/wiki/Portabilidade" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-post"><span class="glossary-term">POST</span><div class="glossary-def"><p>Power-On Self-Test, o ritual de autodiagnóstico executado pela BIOS
-no momento do boot.</p></div><div class="glossary-actions"><a href="#W02-arquitetura_02" class="action-btn" onclick="showSection('W02-arquitetura_02')">🔙 Arquitetura 02</a><a href="https://pt.wikipedia.org/wiki/Power-on_self-test" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-privacy-by-design"><span class="glossary-term">Privacy by Design</span><div class="glossary-def"><p>Abordagem que exige a proteção da privacidade desde o início do
-projeto de um sistema..</p></div><div class="glossary-actions"><a href="#W03-conformidade_03" class="action-btn" onclick="showSection('W03-conformidade_03')">🔙 Conformidade 03</a><a href="https://pt.wikipedia.org/wiki/Privacy_by_design" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-raid"><span class="glossary-term">RAID</span><div class="glossary-def"><p>Tecnologia de virtualização de armazenamento para redundância..</p></div><div class="glossary-actions"><a href="#W01-arquitetura_01" class="action-btn" onclick="showSection('W01-arquitetura_01')">🔙 Arquitetura 01</a><a href="https://pt.wikipedia.org/wiki/RAID" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-ram"><span class="glossary-term">RAM</span><div class="glossary-def"><p>Random Access Memory, a memória de trabalho volátil onde o
-processador armazena dados em execução.</p></div><div class="glossary-actions"><a href="#W02-arquitetura_02" class="action-btn" onclick="showSection('W02-arquitetura_02')">🔙 Arquitetura 02</a><a href="https://pt.wikipedia.org/wiki/Memória_de_acesso_aleatório" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-rom"><span class="glossary-term">ROM</span><div class="glossary-def"><p>Read-Only Memory, memória não volátil usada para armazenar instruções
-fixas, como a BIOS.</p></div><div class="glossary-actions"><a href="#W02-arquitetura_02" class="action-btn" onclick="showSection('W02-arquitetura_02')">🔙 Arquitetura 02</a><a href="https://pt.wikipedia.org/wiki/Memória_somente_de_leitura" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-sigilo-bancario"><span class="glossary-term">Sigilo Bancário</span><div class="glossary-def"><p>Dever das instituições financeiras de manter o sigilo sobre as
-operações e serviços prestados a seus clientes..</p></div><div class="glossary-actions"><a href="#W03-conformidade_03" class="action-btn" onclick="showSection('W03-conformidade_03')">🔙 Conformidade 03</a><a href="https://pt.wikipedia.org/wiki/Sigilo_banc%C3%A1rio" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-sintaxe"><span class="glossary-term">Sintaxe</span><div class="glossary-def"><p>O conjunto de regras que define a estrutura de escrita correta em uma
-linguagem de programação.</p></div><div class="glossary-actions"><a href="#W02-logica_03" class="action-btn" onclick="showSection('W02-logica_03')">🔙 Lógica 02</a><a href="https://pt.wikipedia.org/wiki/Sintaxe_(programação)" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-sla"><span class="glossary-term">SLA</span><div class="glossary-def"><p>Contrato de garantias mínimas de serviço e disponibilidade..</p></div><div class="glossary-actions"><a href="#W01-conformidade_02" class="action-btn" onclick="showSection('W01-conformidade_02')">🔙 Conformidade 01</a><a href="https://pt.wikipedia.org/wiki/Acordo_de_n%C3%ADvel_de_servi%C3%A7o" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-sod"><span class="glossary-term">SoD</span><div class="glossary-def"><p>Segregação de Funções (Segregation of Duties), princípio de controle
-interno para evitar conflitos de interesse..</p></div><div class="glossary-actions"><a href="#W03-conformidade_03" class="action-btn" onclick="showSection('W03-conformidade_03')">🔙 Conformidade 03</a><a href="https://en.wikipedia.org/wiki/Segregation_of_duties" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-soft-skills"><span class="glossary-term">Soft Skills</span><div class="glossary-def"><p>Habilidades interpessoais vitais para o trabalho em equipe..</p></div><div class="glossary-actions"><a href="#W01-logica_02" class="action-btn" onclick="showSection('W01-logica_02')">🔙 Lógica 01</a><a href="https://pt.wikipedia.org/wiki/Habilidades_interpessoais" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-sonarqube"><span class="glossary-term">SonarQube</span><div class="glossary-def"><p>Plataforma para inspeção contínua da qualidade e segurança do código..</p></div><div class="glossary-actions"><a href="#W01-conformidade_02" class="action-btn" onclick="showSection('W01-conformidade_02')">🔙 Conformidade 01</a><a href="https://pt.wikipedia.org/wiki/SonarQube" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-tipagem-dinamica"><span class="glossary-term">Tipagem Dinâmica</span><div class="glossary-def"><p>O tipo da variável é definido em tempo de execução..</p></div><div class="glossary-actions"><a href="#W01-logica_02" class="action-btn" onclick="showSection('W01-logica_02')">🔙 Lógica 01</a><a href="https://pt.wikipedia.org/wiki/Sistema_de_tipos#Tipagem_din%C3%A2mica" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-ula"><span class="glossary-term">ULA</span><div class="glossary-def"><p>Unidade Lógica e Aritmética, componente da CPU onde os cálculos reais
-são executados.</p></div><div class="glossary-actions"><a href="#W02-arquitetura_02" class="action-btn" onclick="showSection('W02-arquitetura_02')">🔙 Arquitetura 02</a><a href="https://pt.wikipedia.org/wiki/Unidade_lógica_e_aritmética" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-variavel"><span class="glossary-term">Variável</span><div class="glossary-def"><p>Espaço de memória reservado para armazenar dados mutáveis..</p></div><div class="glossary-actions"><a href="#W01-logica_02" class="action-btn" onclick="showSection('W01-logica_02')">🔙 Lógica 01</a><a href="https://pt.wikipedia.org/wiki/Vari%C3%A1vel_(programa%C3%A7%C3%A3o)" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-violencia-patrimonial"><span class="glossary-term">Violência Patrimonial</span><div class="glossary-def"><p>Abuso ou controle financeiro indevido exercido sobre os bens ou renda
-de terceiros.</p></div><div class="glossary-actions"><a href="#W02-conformidade_02" class="action-btn" onclick="showSection('W02-conformidade_02')">🔙 Conformidade 02</a><a href="https://pt.wikipedia.org/wiki/Violência_contra_a_mulher#Violência_patrimonial" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div><div class="glossary-item" id="term-vpn"><span class="glossary-term">VPN</span><div class="glossary-def"><p>Rede privada segura construída sobre infraestrutura pública..</p></div><div class="glossary-actions"><a href="#W01-conformidade_02" class="action-btn" onclick="showSection('W01-conformidade_02')">🔙 Conformidade 01</a><a href="https://pt.wikipedia.org/wiki/Rede_privada_virtual" target="_blank" class="action-btn">🌐 Wikipedia</a></div></div></div>
+</div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_03")'>Lógica 03</button></div></div></div><div class='glossary-item' id='term-gdpr'><span class='glossary-term'>GDPR</span><div class='glossary-def'><p>Regulamentação europeia de proteção de dados, considerada a mais
+rigorosa do mundo <a
+href="https://pt.wikipedia.org/wiki/Regulamento_Geral_sobre_a_Proteção_de_Dados"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Regulamento_Geral_sobre_a_Proteção_de_Dados' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-hipervisor'><span class='glossary-term'>Hipervisor</span><div class='glossary-def'><p>Plataforma que permite a execução de múltiplas máquinas virtuais. <a
+href="https://pt.wikipedia.org/wiki/Hipervisor"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-arquitetura_01")'>Arquitetura 01</button></div><a href='https://pt.wikipedia.org/wiki/Hipervisor' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-hot-swap'><span class='glossary-term'>Hot-swap</span><div class='glossary-def'><p>Característica que permite trocar componentes sem desligar o sistema.
+.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-arquitetura_01")'>Arquitetura 01</button></div><a href='https://pt.wikipedia.org/wiki/Hot_swapping' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-input'><span class='glossary-term'>Input</span><div class='glossary-def'><p>Comando para captura de dados fornecidos pelo usuário <a
+href="https://pt.wikipedia.org/wiki/Entrada/saída"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_02")'>Lógica 02</button></div><a href='https://pt.wikipedia.org/wiki/Entrada/saída' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-kernel'><span class='glossary-term'>Kernel</span><div class='glossary-def'><p>O núcleo do sistema operacional que gerencia recursos de baixo nível
+como memória e processamento <a
+href="https://pt.wikipedia.org/wiki/Núcleo_(sistema_operacional)"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Núcleo_(sistema_operacional)' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-kubernetes'><span class='glossary-term'>Kubernetes</span><div class='glossary-def'><p>Sistema de orquestração para gestão automatizada de containers. <a
+href="https://pt.wikipedia.org/wiki/Kubernetes"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Kubernetes' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-latex'><span class='glossary-term'>LaTeX</span><div class='glossary-def'><p>Motor de formatação de documentos de alta qualidade utilizado na
+produção dos materiais didáticos do professor <a
+href="https://pt.wikipedia.org/wiki/LaTeX"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_04")'>Lógica 04</button></div><a href='https://pt.wikipedia.org/wiki/LaTeX' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-lei-de-moore'><span class='glossary-term'>Lei de Moore</span><div class='glossary-def'><p>Observação de que a capacidade de processamento dos computadores
+dobra aproximadamente a cada dois anos <a
+href="https://pt.wikipedia.org/wiki/Lei_de_Moore"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Lei_de_Moore' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-lgpd'><span class='glossary-term'>LGPD</span><div class='glossary-def'><p>Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018), que regula
+o tratamento de dados de pessoas físicas. <a
+href="https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W03", "W03-conformidade_03")'>Conformidade 03</button></div><a href='https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-linguagem-de-programacao'><span class='glossary-term'>Linguagem de Programação</span><div class='glossary-def'><p>Método padronizado para comunicar instruções para um computador. <a
+href="https://pt.wikipedia.org/wiki/Linguagem_de_programação"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_01")'>Lógica 01</button></div><a href='https://pt.wikipedia.org/wiki/Linguagem_de_programação' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-mfa'><span class='glossary-term'>MFA</span><div class='glossary-def'><p>Autenticação de dois ou mais fatores que adiciona uma camada extra de
+segurança ao acesso. <a
+href="https://pt.wikipedia.org/wiki/Autentica%C3%A7%C3%A3o_multifator"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W03", "W03-conformidade_03")'>Conformidade 03</button></div><a href='https://pt.wikipedia.org/wiki/Autentica%C3%A7%C3%A3o_multifator' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-pemdas'><span class='glossary-term'>PEMDAS</span><div class='glossary-def'><p>Acrônimo para a ordem de precedência (Parênteses, Expoentes,
+Multiplicação, Divisão, Adição, Subtração) <a
+href="https://pt.wikipedia.org/wiki/Ordem_de_operações"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_03")'>Lógica 03</button></div><a href='https://pt.wikipedia.org/wiki/Ordem_de_operações' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-pensamento-algoritmico'><span class='glossary-term'>Pensamento Algorítmico</span><div class='glossary-def'><p>Processo de formular problemas cujas soluções podem ser executadas
+por agentes de processamento <a
+href="https://pt.wikipedia.org/wiki/Algoritmo"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_01")'>Lógica 01</button></div><a href='https://pt.wikipedia.org/wiki/Algoritmo' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-phishing'><span class='glossary-term'>Phishing</span><div class='glossary-def'><p>Método de engenharia social usado para enganar usuários e obter
+informações confidenciais. <a
+href="https://pt.wikipedia.org/wiki/Phishing"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W03", "W03-conformidade_03")'>Conformidade 03</button></div><a href='https://pt.wikipedia.org/wiki/Phishing' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-portabilidade'><span class='glossary-term'>Portabilidade</span><div class='glossary-def'><p>Capacidade de mover softwares ou máquinas virtuais entre ambientes
+distintos <a
+href="https://pt.wikipedia.org/wiki/Portabilidade"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-arquitetura_01")'>Arquitetura 01</button></div><a href='https://pt.wikipedia.org/wiki/Portabilidade' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-post'><span class='glossary-term'>POST</span><div class='glossary-def'><p>Power-On Self-Test, o ritual de autodiagnóstico executado pela BIOS
+no momento do boot <a
+href="https://pt.wikipedia.org/wiki/Power-on_self-test"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Power-on_self-test' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-privacy-by-design'><span class='glossary-term'>Privacy by Design</span><div class='glossary-def'><p>Abordagem que exige a proteção da privacidade desde o início do
+projeto de um sistema. <a
+href="https://pt.wikipedia.org/wiki/Privacy_by_design"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W03", "W03-conformidade_03")'>Conformidade 03</button></div><a href='https://pt.wikipedia.org/wiki/Privacy_by_design' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-raid'><span class='glossary-term'>RAID</span><div class='glossary-def'><p>Tecnologia de virtualização de armazenamento para redundância. <a
+href="https://pt.wikipedia.org/wiki/RAID"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-arquitetura_01")'>Arquitetura 01</button></div><a href='https://pt.wikipedia.org/wiki/RAID' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-ram'><span class='glossary-term'>RAM</span><div class='glossary-def'><p>Random Access Memory, a memória de trabalho volátil onde o
+processador armazena dados em execução <a
+href="https://pt.wikipedia.org/wiki/Memória_de_acesso_aleatório"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Memória_de_acesso_aleatório' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-rom'><span class='glossary-term'>ROM</span><div class='glossary-def'><p>Read-Only Memory, memória não volátil usada para armazenar instruções
+fixas, como a BIOS <a
+href="https://pt.wikipedia.org/wiki/Memória_somente_de_leitura"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Memória_somente_de_leitura' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-sigilo-bancario'><span class='glossary-term'>Sigilo Bancário</span><div class='glossary-def'><p>Dever das instituições financeiras de manter o sigilo sobre as
+operações e serviços prestados a seus clientes. <a
+href="https://pt.wikipedia.org/wiki/Sigilo_banc%C3%A1rio"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W03", "W03-conformidade_03")'>Conformidade 03</button></div><a href='https://pt.wikipedia.org/wiki/Sigilo_banc%C3%A1rio' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-sintaxe'><span class='glossary-term'>Sintaxe</span><div class='glossary-def'><p>O conjunto de regras que define a estrutura de escrita correta em uma
+linguagem de programação <a
+href="https://pt.wikipedia.org/wiki/Sintaxe_(programação)"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_03")'>Lógica 03</button></div><a href='https://pt.wikipedia.org/wiki/Sintaxe_(programação)' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-sla'><span class='glossary-term'>SLA</span><div class='glossary-def'><p>Contrato de garantias mínimas de serviço e disponibilidade. <a
+href="https://pt.wikipedia.org/wiki/Acordo_de_n%C3%ADvel_de_servi%C3%A7o"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Acordo_de_n%C3%ADvel_de_servi%C3%A7o' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-sod'><span class='glossary-term'>SoD</span><div class='glossary-def'><p>Segregação de Funções (Segregation of Duties), princípio de controle
+interno para evitar conflitos de interesse. <a
+href="https://en.wikipedia.org/wiki/Segregation_of_duties"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W03", "W03-conformidade_03")'>Conformidade 03</button></div><a href='https://en.wikipedia.org/wiki/Segregation_of_duties' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-soft-skills'><span class='glossary-term'>Soft Skills</span><div class='glossary-def'><p>Habilidades interpessoais vitais para o trabalho em equipe. <a
+href="https://pt.wikipedia.org/wiki/Habilidades_interpessoais"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_02")'>Lógica 02</button></div><a href='https://pt.wikipedia.org/wiki/Habilidades_interpessoais' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-sonarqube'><span class='glossary-term'>SonarQube</span><div class='glossary-def'><p>Plataforma para inspeção contínua da qualidade e segurança do código.
+.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/SonarQube' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-tipagem-dinamica'><span class='glossary-term'>Tipagem Dinâmica</span><div class='glossary-def'><p>O tipo da variável é definido em tempo de execução. <a
+href="https://pt.wikipedia.org/wiki/Sistema_de_tipos#Tipagem_din%C3%A2mica"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_02")'>Lógica 02</button></div><a href='https://pt.wikipedia.org/wiki/Sistema_de_tipos#Tipagem_din%C3%A2mica' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-ula'><span class='glossary-term'>ULA</span><div class='glossary-def'><p>Unidade Lógica e Aritmética, componente da CPU onde os cálculos reais
+são executados <a
+href="https://pt.wikipedia.org/wiki/Unidade_lógica_e_aritmética"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Unidade_lógica_e_aritmética' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-variavel'><span class='glossary-term'>Variável</span><div class='glossary-def'><p>Espaço de memória reservado para armazenar dados mutáveis. <a
+href="https://pt.wikipedia.org/wiki/Vari%C3%A1vel_(programa%C3%A7%C3%A3o)"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_02")'>Lógica 02</button></div><a href='https://pt.wikipedia.org/wiki/Vari%C3%A1vel_(programa%C3%A7%C3%A3o)' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-violencia-patrimonial'><span class='glossary-term'>Violência Patrimonial</span><div class='glossary-def'><p>Abuso ou controle financeiro indevido exercido sobre os bens ou renda
+de terceiros <a
+href="https://pt.wikipedia.org/wiki/Violência_contra_a_mulher#Violência_patrimonial"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Violência_contra_a_mulher#Violência_patrimonial' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-vpn'><span class='glossary-term'>VPN</span><div class='glossary-def'><p>Rede privada segura construída sobre infraestrutura pública. <a
+href="https://pt.wikipedia.org/wiki/Rede_privada_virtual"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Rede_privada_virtual' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div></div>
                 </div>
             </section>
         </main>
@@ -1213,24 +1346,11 @@ de terceiros.</p></div><div class="glossary-actions"><a href="#W02-conformidade_
                     showSection(hash);
                 }
             } else {
-                // Comportamento Padrão: Dashboard e Timeline da última semana
-                showSection('dashboard');
                 const latestWeek = document.querySelector('.timeline-entry');
                 if (latestWeek) {
                     const onclick = latestWeek.getAttribute('onclick');
                     const weekId = onclick.match(/'(.*?)'/)[1];
                     switchWeek(weekId, null);
-
-            // Envolver tabelas para rolagem mobile
-            document.querySelectorAll('table').forEach(table => {
-                if (!table.parentElement.classList.contains('table-wrapper')) {
-                    const wrapper = document.createElement('div');
-                    wrapper.className = 'table-wrapper';
-                    table.parentNode.insertBefore(wrapper, table);
-                    wrapper.appendChild(table);
-                }
-            });
-
                 }
             }
         };
