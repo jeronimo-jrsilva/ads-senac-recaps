@@ -351,47 +351,51 @@
         #nav-context span { display: block; }
         #nav-context .nav-lesson-num { font-weight: 400; opacity: 0.7; font-size: 0.6rem; }
 
-        /* --- BOTTOM NAVIGATION MOBILE --- */
+        
+
+        /* --- BOTTOM NAVIGATION MOBILE (V3.8.1) --- */
         @media (max-width: 600px) {
             .weekly-timeline { 
                 position: fixed !important;
-                bottom: 20px !important;
                 top: auto !important;
-                left: 10px !important;
-                right: 10px !important;
+                bottom: 15px !important;
+                left: 8px !important;
+                right: 8px !important;
+                width: auto !important; /* Deixar left/right controlarem a largura */
                 max-width: none !important;
-                width: calc(100% - 20px) !important;
                 margin: 0 !important;
-                padding: 6px !important;
-                gap: 5px !important;
+                padding: 8px !important;
+                gap: 6px !important;
                 border-radius: 20px !important;
                 z-index: 1000 !important;
-                box-shadow: 0 -10px 30px rgba(0,0,0,0.6) !important;
-                background: rgba(26, 26, 26, 0.95) !important;
-                backdrop-filter: blur(10px);
-                border: 1px solid rgba(255,255,255,0.1);
+                box-shadow: 0 -5px 25px rgba(0,0,0,0.8) !important;
+                background: rgba(26, 26, 26, 0.98) !important;
+                backdrop-filter: blur(15px);
+                border: 1px solid var(--accent);
+                display: flex !important;
+                align-items: center !important;
+                justify-content: space-between !important;
             }
             
             #nav-context { 
                 min-width: 0 !important;
-                flex: 2 !important;
-                font-size: 0.65rem !important;
-                height: 40px !important;
+                flex: 2.5 !important; /* Dar mais espaço para o texto central */
+                font-size: 0.6rem !important;
+                height: 42px !important;
+                padding: 4px !important;
             }
             
-            .info-pill, .day-btn { 
-                min-width: 0 !important;
-                flex: 1 !important;
-                padding: 8px !important;
-                font-size: 0.7rem !important;
-                height: 40px !important;
-                display: flex !important;
-                align-items: center;
-                justify-content: center;
+            #nav-home, #nav-prev, #nav-next, #nav-glossary { 
+                min-width: 42px !important;
+                width: 42px !important;
+                height: 42px !important;
+                flex: 0 0 42px !important; /* Botões laterais fixos e quadrados */
+                padding: 0 !important;
+                font-size: 0.9rem !important;
+                border-radius: 12px !important;
             }
             
-            /* Adicionar espaçamento no final da página para a NavBar não cobrir o conteúdo */
-            body { padding-bottom: 100px !important; }
+            body { padding-bottom: 120px !important; }
         }
 
     </style>
