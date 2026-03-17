@@ -21,7 +21,15 @@
         .main-container { max-width: 1100px; margin: 0 auto; }
         
         /* Navbar */
-        .weekly-timeline { display: flex; background: var(--nav-bg); padding: 8px; border-radius: 16px; gap: 5px; margin-bottom: 40px; position: sticky; top: 20px; z-index: 100; box-shadow: 0 10px 30px rgba(0,0,0,0.5); overflow-x: auto; flex-wrap: nowrap; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+        
+        .weekly-timeline { 
+            display: flex; background: var(--nav-bg); padding: 8px; border-radius: 16px; 
+            gap: 10px; margin-bottom: 40px; position: sticky; top: 20px; z-index: 100;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            max-width: 700px; margin-left: auto; margin-right: auto;
+            align-items: center;
+        }
+
         .weekly-timeline::-webkit-scrollbar { display: none; }
         .info-pill { background: transparent; color: var(--accent); padding: 10px 20px; border-radius: 12px; border: 1px solid var(--accent); font-weight: 800; font-size: 0.6rem; line-height: 1; font-size: 0.75rem; display: flex; align-items: center; min-width: 180px; justify-content: center; letter-spacing: 1px; cursor: pointer; transition: 0.2s; }
         .info-pill:hover { background: rgba(212, 175, 55, 0.1); transform: scale(1.02); }
@@ -308,15 +316,54 @@
         code span.in { color: #6a9955; } /* Information */
         /* ------------------------------------------- */
 
+        /* NavBar Compacta e Centralizada */
+        .weekly-timeline { 
+            max-width: 700px; 
+            margin: 0 auto 40px; 
+            justify-content: center;
+        }
+        
+        #nav-prev, #nav-next { 
+            font-size: 1.5rem !important; 
+            font-weight: 800 !important; 
+            color: #fff !important; 
+            background: rgba(255,255,255,0.05);
+            min-width: 50px !important;
+            opacity: 0.6;
+            transition: 0.3s;
+        }
+        #nav-prev:hover, #nav-next:hover { 
+            opacity: 1; 
+            background: rgba(212, 175, 55, 0.1);
+            color: var(--accent) !important;
+        }
+
+        #nav-context { 
+            line-height: 1.2 !important; 
+            padding: 5px 10px !important; 
+            height: 45px !important; 
+            display: flex !important; 
+            flex-direction: column !important; 
+            justify-content: center !important;
+            font-size: 0.7rem !important;
+            text-align: center;
+        }
+        #nav-context span { display: block; }
+        #nav-context .nav-lesson-num { font-weight: 400; opacity: 0.7; font-size: 0.6rem; }
+
     </style>
 </head>
 <body>
     <div class="main-container">
+        <!-- NOVA NAVBAR LINEAR: 5 ELEMENTOS -->
         <nav class="weekly-timeline">
-            <div id="btn-dashboard" class="info-pill active" onclick="showSection('dashboard')">Dashboard 2026.1</div>
-            <button id="btn-W03-logica_06" class="day-btn week-W03" onclick="showSection('W03-logica_06')"><strong>Lógica 06</strong><span>Ter - 10/03</span></button><button id="btn-W03-conformidade_03" class="day-btn week-W03" onclick="showSection('W03-conformidade_03')"><strong>Conformidade 03</strong><span>Qui - 12/03</span></button><button id="btn-W02-logica_03" class="day-btn week-W02" onclick="showSection('W02-logica_03')"><strong>Lógica 03</strong><span>Seg - 02/03</span></button><button id="btn-W02-logica_04" class="day-btn week-W02" onclick="showSection('W02-logica_04')"><strong>Lógica 04</strong><span>Ter - 03/03</span></button><button id="btn-W02-arquitetura_02" class="day-btn week-W02" onclick="showSection('W02-arquitetura_02')"><strong>Arquitetura 02</strong><span>Qua - 04/03</span></button><button id="btn-W02-conformidade_02" class="day-btn week-W02" onclick="showSection('W02-conformidade_02')"><strong>Conformidade 02</strong><span>Qui - 05/03</span></button><button id="btn-W01-logica_01" class="day-btn week-W01" onclick="showSection('W01-logica_01')"><strong>Lógica 01</strong><span>Seg - 23/02</span></button><button id="btn-W01-logica_02" class="day-btn week-W01" onclick="showSection('W01-logica_02')"><strong>Lógica 02</strong><span>Ter - 24/02</span></button><button id="btn-W01-arquitetura_01" class="day-btn week-W01" onclick="showSection('W01-arquitetura_01')"><strong>Arquitetura 01</strong><span>Qua - 25/02</span></button><button id="btn-W01-conformidade_02" class="day-btn week-W01" onclick="showSection('W01-conformidade_02')"><strong>Conformidade 02</strong><span>Qui - 26/02</span></button>
-            <div id="btn-glossary" class="info-pill" onclick="showSection('glossary')">Glossário</div>
+            <button id="nav-home" class="info-pill active" onclick="showSection('dashboard')" title="Início">🏠</button>
+            <button id="nav-prev" class="day-btn" onclick="goPrev()" style="display:flex;">‹</button>
+            <div id="nav-context" class="info-pill" style="min-width: 200px; cursor: default;">Dashboard</div>
+            <button id="nav-next" class="day-btn" onclick="goNext()" style="display:flex;">›</button>
+            <button id="nav-glossary" class="info-pill" onclick="showSection('glossary')" title="Glossário">📚</button>
         </nav>
+
         <main id="spa-content">
             <section id="week-summary" class="spa-section active">
                 <div class="lesson-card">
@@ -331,9 +378,8 @@
                     </div>
 
                     <h2 style="margin-top:0">Trilhas de Aprendizado</h2>
-                    <div class='discipline-tracks'><div class='discipline-row'><span class='discipline-label'>Análise de Conformidade de Software | <span style='color:var(--text-dim);opacity:0.7;'>Rayane</span></span><div class='lesson-pills'><button class='lesson-pill' onclick="showSection('W01-conformidade_02')">Aula 02</button><button class='lesson-pill' onclick="showSection('W02-conformidade_02')">Aula 02</button><button class='lesson-pill' onclick="showSection('W03-conformidade_03')">Aula 03</button></div></div><div class='discipline-row'><span class='discipline-label'>Arquitetura de Computadores | <span style='color:var(--text-dim);opacity:0.7;'>Thiago</span></span><div class='lesson-pills'><button class='lesson-pill' onclick="showSection('W01-arquitetura_01')">Aula 01</button><button class='lesson-pill' onclick="showSection('W02-arquitetura_02')">Aula 02</button></div></div><div class='discipline-row'><span class='discipline-label'>Lógica de Programação em Python | <span style='color:var(--text-dim);opacity:0.7;'>Nator Junior</span></span><div class='lesson-pills'><button class='lesson-pill' onclick="showSection('W01-logica_01')">Aula 01</button><button class='lesson-pill' onclick="showSection('W01-logica_02')">Aula 02</button><button class='lesson-pill' onclick="showSection('W02-logica_03')">Aula 03</button><button class='lesson-pill' onclick="showSection('W02-logica_04')">Aula 04</button><button class='lesson-pill' onclick="showSection('W03-logica_06')">Aula 06</button></div></div></div>
+                    <div class='discipline-tracks'><div class='discipline-row'><span class='discipline-label'>Análise de Conformidade de Software | <span style='color:var(--text-dim);opacity:0.7;'>Rayane</span></span><div class='lesson-pills'><button class='lesson-pill' onclick="showSection('W01-conformidade_01')">Aula 01</button><button class='lesson-pill' onclick="showSection('W02-conformidade_02')">Aula 02</button><button class='lesson-pill' onclick="showSection('W03-conformidade_03')">Aula 03</button></div></div><div class='discipline-row'><span class='discipline-label'>Arquitetura de Computadores | <span style='color:var(--text-dim);opacity:0.7;'>Thiago</span></span><div class='lesson-pills'><button class='lesson-pill' onclick="showSection('W01-arquitetura_01')">Aula 01</button><button class='lesson-pill' onclick="showSection('W02-arquitetura_02')">Aula 02</button></div></div><div class='discipline-row'><span class='discipline-label'>Lógica de Programação em Python | <span style='color:var(--text-dim);opacity:0.7;'>Nator Junior</span></span><div class='lesson-pills'><button class='lesson-pill' onclick="showSection('W01-logica_01')">Aula 01</button><button class='lesson-pill' onclick="showSection('W01-logica_02')">Aula 02</button><button class='lesson-pill' onclick="showSection('W02-logica_03')">Aula 03</button><button class='lesson-pill' onclick="showSection('W02-logica_04')">Aula 04</button><button class='lesson-pill' onclick="showSection('W03-logica_06')">Aula 06</button></div></div></div>
 
-                    <!-- SEÇÃO COLAPSÁVEL: VISÃO TEMPORAL -->
                     <details class="collapsible-section">
                         <summary>Visão Temporal</summary>
                         <div class="collapsible-content">
@@ -342,7 +388,7 @@
                                 <div id="month-02" class="calendar-view ">
 <div class="calendar-header"><div class="calendar-title">Fevereiro 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div>
 <div class="calendar-grid" style="grid-template-columns: repeat(6, 1fr);">
-<div class="weekday-label">Seg<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Qua<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Recup</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell has-lesson" onclick="showSection('W01-logica_01')"><span class="day-number">23</span><span class="lesson-tag">Lógica 01</span></div><div class="day-cell has-lesson" onclick="showSection('W01-logica_02')"><span class="day-number">24</span><span class="lesson-tag">Lógica 02</span></div><div class="day-cell has-lesson" onclick="showSection('W01-arquitetura_01')"><span class="day-number">25</span><span class="lesson-tag">Arquitetura 01</span></div><div class="day-cell has-lesson" onclick="showSection('W01-conformidade_02')"><span class="day-number">26</span><span class="lesson-tag">Conformidade 02</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div></div></div>
+<div class="weekday-label">Seg<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Ter<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Lóg</span></div><div class="weekday-label">Qua<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Arq</span></div><div class="weekday-label">Qui<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Conf</span></div><div class="weekday-label">Sex<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Proj</span></div><div class="weekday-label">Sáb<br><span style="color:var(--accent);font-size:0.55rem;font-weight:800;opacity:0.8;">Recup</span></div><div class="day-cell"><span class="day-number">2</span></div><div class="day-cell"><span class="day-number">3</span></div><div class="day-cell"><span class="day-number">4</span></div><div class="day-cell"><span class="day-number">5</span></div><div class="day-cell"><span class="day-number">6</span></div><div class="day-cell"><span class="day-number">7</span></div><div class="day-cell"><span class="day-number">9</span></div><div class="day-cell"><span class="day-number">10</span></div><div class="day-cell"><span class="day-number">11</span></div><div class="day-cell"><span class="day-number">12</span></div><div class="day-cell"><span class="day-number">13</span></div><div class="day-cell"><span class="day-number">14</span></div><div class="day-cell"><span class="day-number">16</span></div><div class="day-cell"><span class="day-number">17</span></div><div class="day-cell"><span class="day-number">18</span></div><div class="day-cell"><span class="day-number">19</span></div><div class="day-cell"><span class="day-number">20</span></div><div class="day-cell"><span class="day-number">21</span></div><div class="day-cell has-lesson" onclick="showSection('W01-logica_01')"><span class="day-number">23</span><span class="lesson-tag">Lógica 01</span></div><div class="day-cell has-lesson" onclick="showSection('W01-logica_02')"><span class="day-number">24</span><span class="lesson-tag">Lógica 02</span></div><div class="day-cell has-lesson" onclick="showSection('W01-arquitetura_01')"><span class="day-number">25</span><span class="lesson-tag">Arquitetura 01</span></div><div class="day-cell has-lesson" onclick="showSection('W01-conformidade_01')"><span class="day-number">26</span><span class="lesson-tag">Conformidade 01</span></div><div class="day-cell"><span class="day-number">27</span></div><div class="day-cell"><span class="day-number">28</span></div></div></div>
 <div id="month-03" class="calendar-view active">
 <div class="calendar-header"><div class="calendar-title">Março 2026</div><div style="font-size: 0.7rem; color: #555;">Semestre 2026.1</div></div>
 <div class="calendar-grid" style="grid-template-columns: repeat(6, 1fr);">
@@ -1145,7 +1191,7 @@ de alerta: falhas na climatização e redundância térmica podem destruir
 infraestruturas de milhões em minutos. A redundância deve ser elétrica,
 térmica e lógica.</p><div class="vertical-spacer"></div>
 <hr />
-</div></section><section id="W01-conformidade_02" class="spa-section"><div class="lesson-card"><div class="lesson-metadata">Análise de Conformidade de Software | Rayane | 2026-02-26 | Aula 02</div><p>A <strong>Prof. Rayane</strong> conectou a academia à realidade das
+</div></section><section id="W01-conformidade_01" class="spa-section"><div class="lesson-card"><div class="lesson-metadata">Análise de Conformidade de Software | Rayane | 2026-02-26 | Aula 01</div><p>A <strong>Prof. Rayane</strong> conectou a academia à realidade das
 grandes instituições (Bancos, MEC, Governo), definindo a
 <strong>Arquitetura de Software</strong> como o topo da senioridade
 técnica.</p><div class="vertical-spacer"></div>
@@ -1212,7 +1258,7 @@ href="https://pt.wikipedia.org/wiki/Autoridade_Nacional_de_Proteção_de_Dados">
 conhecimento.</p><div class="vertical-spacer"></div>
 </div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_01")'>Lógica 01</button></div></div></div><div class='glossary-item' id='term-arquiteto-de-software'><span class='glossary-term'>Arquiteto de Software</span><div class='glossary-def'><p>Profissional responsável pelas decisões de alto nível sobre a
 estrutura do sistema <a
-href="https://pt.wikipedia.org/wiki/Arquiteto_de_software"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Arquiteto_de_software' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-audit-log'><span class='glossary-term'>Audit Log</span><div class='glossary-def'><p>Registro cronológico de atividades que fornece evidências da
+href="https://pt.wikipedia.org/wiki/Arquiteto_de_software"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_01")'>Conformidade 01</button></div><a href='https://pt.wikipedia.org/wiki/Arquiteto_de_software' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-audit-log'><span class='glossary-term'>Audit Log</span><div class='glossary-def'><p>Registro cronológico de atividades que fornece evidências da
 sequência de atividades que afetaram um evento ou transação. <a
 href="https://en.wikipedia.org/wiki/Audit_trail"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W03", "W03-conformidade_03")'>Conformidade 03</button></div><a href='https://en.wikipedia.org/wiki/Audit_trail' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-bare-metal'><span class='glossary-term'>Bare Metal</span><div class='glossary-def'><p>Software instalado diretamente no hardware físico. <a
 href="https://pt.wikipedia.org/wiki/Bare_metal"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-arquitetura_01")'>Arquitetura 01</button></div><a href='https://pt.wikipedia.org/wiki/Bare_metal' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-biometria'><span class='glossary-term'>Biometria</span><div class='glossary-def'><p>Dados físicos ou comportamentais únicos usados para identificação
@@ -1238,7 +1284,7 @@ programa <a
 href="https://pt.wikipedia.org/wiki/Depuração"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_04")'>Lógica 04</button></div><a href='https://pt.wikipedia.org/wiki/Depuração' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-direito-ao-esquecimento'><span class='glossary-term'>Direito ao Esquecimento</span><div class='glossary-def'><p>Direito de impedir a perpetuação de informações irrelevantes ou
 prejudiciais do passado na internet <a
 href="https://pt.wikipedia.org/wiki/Direito_ao_esquecimento"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Direito_ao_esquecimento' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-docker'><span class='glossary-term'>Docker</span><div class='glossary-def'><p>Plataforma para criação e implantação de aplicações em containers. <a
-href="https://pt.wikipedia.org/wiki/Docker_(software)"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Docker_(software)' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-driver'><span class='glossary-term'>Driver</span><div class='glossary-def'><p>Software especializado que atua como tradutor entre o hardware
+href="https://pt.wikipedia.org/wiki/Docker_(software)"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_01")'>Conformidade 01</button></div><a href='https://pt.wikipedia.org/wiki/Docker_(software)' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-driver'><span class='glossary-term'>Driver</span><div class='glossary-def'><p>Software especializado que atua como tradutor entre o hardware
 específico e o sistema operacional genérico <a
 href="https://pt.wikipedia.org/wiki/Controlador_de_dispositivo"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Controlador_de_dispositivo' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-engenharia-social'><span class='glossary-term'>Engenharia Social</span><div class='glossary-def'><p>Prática de manipular pessoas para que forneçam informações
 confidenciais ou realizem atos que permitam acesso a dados. <a
@@ -1249,7 +1295,7 @@ legibilidade e performance.</p><div class="vertical-spacer"></div>
 </div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_03")'>Lógica 03</button></div></div></div><div class='glossary-item' id='term-firmware'><span class='glossary-term'>Firmware</span><div class='glossary-def'><p>Software de baixo nível gravado diretamente no hardware para
 controlar suas funções básicas <a
 href="https://pt.wikipedia.org/wiki/Firmware"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Firmware' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-fullstack'><span class='glossary-term'>Fullstack</span><div class='glossary-def'><p>Desenvolvedor capaz de atuar em todas as camadas da aplicação <a
-href="https://pt.wikipedia.org/wiki/Desenvolvimento_web#Full-stack_developer"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Desenvolvimento_web#Full-stack_developer' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-gdb-online'><span class='glossary-term'>GDB Online</span><div class='glossary-def'><p>Ambiente de desenvolvimento web sugerido pelo professor para testes
+href="https://pt.wikipedia.org/wiki/Desenvolvimento_web#Full-stack_developer"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_01")'>Conformidade 01</button></div><a href='https://pt.wikipedia.org/wiki/Desenvolvimento_web#Full-stack_developer' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-gdb-online'><span class='glossary-term'>GDB Online</span><div class='glossary-def'><p>Ambiente de desenvolvimento web sugerido pelo professor para testes
 rápidos de sintaxe.</p><div class="vertical-spacer"></div>
 </div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_03")'>Lógica 03</button></div></div></div><div class='glossary-item' id='term-gdpr'><span class='glossary-term'>GDPR</span><div class='glossary-def'><p>Regulamentação europeia de proteção de dados, considerada a mais
 rigorosa do mundo <a
@@ -1259,7 +1305,7 @@ href="https://pt.wikipedia.org/wiki/Hipervisor"></a>.</p><div class="vertical-sp
 href="https://pt.wikipedia.org/wiki/Entrada/saída"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_02")'>Lógica 02</button></div><a href='https://pt.wikipedia.org/wiki/Entrada/saída' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-kernel'><span class='glossary-term'>Kernel</span><div class='glossary-def'><p>O núcleo do sistema operacional que gerencia recursos de baixo nível
 como memória e processamento <a
 href="https://pt.wikipedia.org/wiki/Núcleo_(sistema_operacional)"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Núcleo_(sistema_operacional)' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-kubernetes'><span class='glossary-term'>Kubernetes</span><div class='glossary-def'><p>Sistema de orquestração para gestão automatizada de containers. <a
-href="https://pt.wikipedia.org/wiki/Kubernetes"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Kubernetes' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-latex'><span class='glossary-term'>LaTeX</span><div class='glossary-def'><p>Motor de formatação de documentos de alta qualidade utilizado na
+href="https://pt.wikipedia.org/wiki/Kubernetes"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_01")'>Conformidade 01</button></div><a href='https://pt.wikipedia.org/wiki/Kubernetes' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-latex'><span class='glossary-term'>LaTeX</span><div class='glossary-def'><p>Motor de formatação de documentos de alta qualidade utilizado na
 produção dos materiais didáticos do professor <a
 href="https://pt.wikipedia.org/wiki/LaTeX"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_04")'>Lógica 04</button></div><a href='https://pt.wikipedia.org/wiki/LaTeX' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-lei-de-moore'><span class='glossary-term'>Lei de Moore</span><div class='glossary-def'><p>Observação de que a capacidade de processamento dos computadores
 dobra aproximadamente a cada dois anos <a
@@ -1290,41 +1336,29 @@ operações e serviços prestados a seus clientes. <a
 href="https://pt.wikipedia.org/wiki/Sigilo_banc%C3%A1rio"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W03", "W03-conformidade_03")'>Conformidade 03</button></div><a href='https://pt.wikipedia.org/wiki/Sigilo_banc%C3%A1rio' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-sintaxe'><span class='glossary-term'>Sintaxe</span><div class='glossary-def'><p>O conjunto de regras que define a estrutura de escrita correta em uma
 linguagem de programação <a
 href="https://pt.wikipedia.org/wiki/Sintaxe_(programação)"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-logica_03")'>Lógica 03</button></div><a href='https://pt.wikipedia.org/wiki/Sintaxe_(programação)' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-sla'><span class='glossary-term'>SLA</span><div class='glossary-def'><p>Contrato de garantias mínimas de serviço e disponibilidade. <a
-href="https://pt.wikipedia.org/wiki/Acordo_de_n%C3%ADvel_de_servi%C3%A7o"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Acordo_de_n%C3%ADvel_de_servi%C3%A7o' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-sod'><span class='glossary-term'>SoD</span><div class='glossary-def'><p>Segregação de Funções (Segregation of Duties), princípio de controle
+href="https://pt.wikipedia.org/wiki/Acordo_de_n%C3%ADvel_de_servi%C3%A7o"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_01")'>Conformidade 01</button></div><a href='https://pt.wikipedia.org/wiki/Acordo_de_n%C3%ADvel_de_servi%C3%A7o' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-sod'><span class='glossary-term'>SoD</span><div class='glossary-def'><p>Segregação de Funções (Segregation of Duties), princípio de controle
 interno para evitar conflitos de interesse. <a
 href="https://en.wikipedia.org/wiki/Segregation_of_duties"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W03", "W03-conformidade_03")'>Conformidade 03</button></div><a href='https://en.wikipedia.org/wiki/Segregation_of_duties' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-soft-skills'><span class='glossary-term'>Soft Skills</span><div class='glossary-def'><p>Habilidades interpessoais vitais para o trabalho em equipe. <a
 href="https://pt.wikipedia.org/wiki/Habilidades_interpessoais"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_02")'>Lógica 02</button></div><a href='https://pt.wikipedia.org/wiki/Habilidades_interpessoais' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-sonarqube'><span class='glossary-term'>SonarQube</span><div class='glossary-def'><p>Plataforma para inspeção contínua da qualidade e segurança do código.
-.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/SonarQube' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-tipagem-dinamica'><span class='glossary-term'>Tipagem Dinâmica</span><div class='glossary-def'><p>O tipo da variável é definido em tempo de execução. <a
+.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_01")'>Conformidade 01</button></div><a href='https://pt.wikipedia.org/wiki/SonarQube' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-tipagem-dinamica'><span class='glossary-term'>Tipagem Dinâmica</span><div class='glossary-def'><p>O tipo da variável é definido em tempo de execução. <a
 href="https://pt.wikipedia.org/wiki/Sistema_de_tipos#Tipagem_din%C3%A2mica"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_02")'>Lógica 02</button></div><a href='https://pt.wikipedia.org/wiki/Sistema_de_tipos#Tipagem_din%C3%A2mica' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-ula'><span class='glossary-term'>ULA</span><div class='glossary-def'><p>Unidade Lógica e Aritmética, componente da CPU onde os cálculos reais
 são executados <a
 href="https://pt.wikipedia.org/wiki/Unidade_lógica_e_aritmética"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-arquitetura_02")'>Arquitetura 02</button></div><a href='https://pt.wikipedia.org/wiki/Unidade_lógica_e_aritmética' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-variavel'><span class='glossary-term'>Variável</span><div class='glossary-def'><p>Espaço de memória reservado para armazenar dados mutáveis. <a
 href="https://pt.wikipedia.org/wiki/Vari%C3%A1vel_(programa%C3%A7%C3%A3o)"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-logica_02")'>Lógica 02</button></div><a href='https://pt.wikipedia.org/wiki/Vari%C3%A1vel_(programa%C3%A7%C3%A3o)' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-violencia-patrimonial'><span class='glossary-term'>Violência Patrimonial</span><div class='glossary-def'><p>Abuso ou controle financeiro indevido exercido sobre os bens ou renda
 de terceiros <a
 href="https://pt.wikipedia.org/wiki/Violência_contra_a_mulher#Violência_patrimonial"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W02", "W02-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Violência_contra_a_mulher#Violência_patrimonial' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div><div class='glossary-item' id='term-vpn'><span class='glossary-term'>VPN</span><div class='glossary-def'><p>Rede privada segura construída sobre infraestrutura pública. <a
-href="https://pt.wikipedia.org/wiki/Rede_privada_virtual"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_02")'>Conformidade 02</button></div><a href='https://pt.wikipedia.org/wiki/Rede_privada_virtual' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div></div>
+href="https://pt.wikipedia.org/wiki/Rede_privada_virtual"></a>.</p><div class="vertical-spacer"></div></div><div class='glossary-footer'><div style='display:flex;gap:8px'><button class='action-btn' onclick='switchWeek("W01", "W01-conformidade_01")'>Conformidade 01</button></div><a href='https://pt.wikipedia.org/wiki/Rede_privada_virtual' target='_blank' class='action-btn wiki-btn'>Wikipedia</a></div></div></div>
                 </div>
             </section>
         </main>
     </div>
+
     <script>
-        function changeMonth(monthId) {
-            document.querySelectorAll('.month-pill').forEach(p => p.classList.remove('active'));
-            const activePill = document.getElementById('pill-' + monthId);
-            if (activePill) activePill.classList.add('active');
-            
-            document.querySelectorAll('.calendar-view').forEach(v => v.classList.remove('active'));
-            const targetView = document.getElementById('month-' + monthId);
-            if (targetView) targetView.classList.add('active');
-        }
+        const NAV_MAP = {"W01-conformidade_01": {"prev": null, "next": "W02-conformidade_02", "label": "Conformidade<br><span class='nav-lesson-num'>Aula 01</span>"}, "W02-conformidade_02": {"prev": "W01-conformidade_01", "next": "W03-conformidade_03", "label": "Conformidade<br><span class='nav-lesson-num'>Aula 02</span>"}, "W03-conformidade_03": {"prev": "W02-conformidade_02", "next": null, "label": "Conformidade<br><span class='nav-lesson-num'>Aula 03</span>"}, "W01-logica_01": {"prev": null, "next": "W01-logica_02", "label": "L\u00f3gica<br><span class='nav-lesson-num'>Aula 01</span>"}, "W01-logica_02": {"prev": "W01-logica_01", "next": "W02-logica_03", "label": "L\u00f3gica<br><span class='nav-lesson-num'>Aula 02</span>"}, "W02-logica_03": {"prev": "W01-logica_02", "next": "W02-logica_04", "label": "L\u00f3gica<br><span class='nav-lesson-num'>Aula 03</span>"}, "W02-logica_04": {"prev": "W02-logica_03", "next": "W03-logica_06", "label": "L\u00f3gica<br><span class='nav-lesson-num'>Aula 04</span>"}, "W03-logica_06": {"prev": "W02-logica_04", "next": null, "label": "L\u00f3gica<br><span class='nav-lesson-num'>Aula 06</span>"}, "W01-arquitetura_01": {"prev": null, "next": "W02-arquitetura_02", "label": "Arquitetura<br><span class='nav-lesson-num'>Aula 01</span>"}, "W02-arquitetura_02": {"prev": "W01-arquitetura_01", "next": null, "label": "Arquitetura<br><span class='nav-lesson-num'>Aula 02</span>"}};
+        let currentLessonId = 'dashboard';
 
         function showSection(id) {
-            if (id.startsWith('W')) {
-                const weekId = id.split('-')[0];
-                const weekBtn = document.querySelector('.week-' + weekId);
-                if (weekBtn && !weekBtn.classList.contains('visible')) {
-                    switchWeek(weekId, id);
-                }
-            }
+            currentLessonId = id;
             document.querySelectorAll('.spa-section').forEach(s => s.classList.remove('active'));
             document.querySelectorAll('.day-btn, .info-pill').forEach(b => b.classList.remove('active'));
             
@@ -1333,58 +1367,68 @@ href="https://pt.wikipedia.org/wiki/Rede_privada_virtual"></a>.</p><div class="v
             
             if (target) {
                 target.classList.add('active');
-                const btnId = (id === 'week-summary' || id === 'dashboard') ? 'btn-dashboard' : 'btn-' + id;
-                const btn = document.getElementById(btnId);
-                if (btn) btn.classList.add('active');
+                updateNavBar(id);
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             }
         }
 
-        function switchWeek(weekId, firstLessonId) {
-            document.querySelectorAll('.day-btn').forEach(b => b.classList.remove('visible'));
-            document.querySelectorAll('.week-' + weekId).forEach(b => b.classList.add('visible'));
-            
-            document.querySelectorAll('.timeline-entry').forEach(e => {
-                if (e.getAttribute('onclick').includes("'" + weekId + "'")) {
-                    e.classList.add('active');
+        function updateNavBar(id) {
+            const contextBox = document.getElementById('nav-context');
+            const prevBtn = document.getElementById('nav-prev');
+            const nextBtn = document.getElementById('nav-next');
+            const homeBtn = document.getElementById('nav-home');
+            const glossBtn = document.getElementById('nav-glossary');
+
+            if (id === 'dashboard') {
+                contextBox.innerHTML = 'Dashboard';
+                prevBtn.style.opacity = '0.2'; prevBtn.style.pointerEvents = 'none';
+                nextBtn.style.opacity = '0.2'; nextBtn.style.pointerEvents = 'none';
+                homeBtn.classList.add('active');
+            } else if (id === 'glossary') {
+                contextBox.innerHTML = 'Glossário';
+                prevBtn.style.opacity = '0.2'; prevBtn.style.pointerEvents = 'none';
+                nextBtn.style.opacity = '0.2'; nextBtn.style.pointerEvents = 'none';
+                glossBtn.classList.add('active');
+            } else {
+                const nav = NAV_MAP[id];
+                contextBox.innerHTML = nav ? nav.label : 'Aula';
+                contextBox.classList.add('active');
+                
+                if (nav && nav.prev) {
+                    prevBtn.style.opacity = '1'; prevBtn.style.pointerEvents = 'all';
                 } else {
-                    e.classList.remove('active');
+                    prevBtn.style.opacity = '0.2'; prevBtn.style.pointerEvents = 'none';
                 }
-            });
+
+                if (nav && nav.next) {
+                    nextBtn.style.opacity = '1'; nextBtn.style.pointerEvents = 'all';
+                } else {
+                    nextBtn.style.opacity = '0.2'; nextBtn.style.pointerEvents = 'none';
+                }
+            }
         }
 
-        document.addEventListener('click', e => {
-            const link = e.target.closest('.term-link');
-            if (link) { 
-                e.preventDefault(); 
-                showSection('glossary'); 
-                const termId = 'term-' + link.textContent.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, "").replace(/\s+/g, '-').replace(/[^\w-]/g, '');
-                setTimeout(() => {
-                    const el = document.getElementById(termId);
-                    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                }, 100);
-            }
-        });
+        function goPrev() {
+            const nav = NAV_MAP[currentLessonId];
+            if (nav && nav.prev) showSection(nav.prev);
+        }
+
+        function goNext() {
+            const nav = NAV_MAP[currentLessonId];
+            if (nav && nav.next) showSection(nav.next);
+        }
+
+        function changeMonth(monthId) {
+            document.querySelectorAll('.month-pill').forEach(p => p.classList.remove('active'));
+            document.getElementById('pill-' + monthId).classList.add('active');
+            document.querySelectorAll('.calendar-view').forEach(v => v.classList.remove('active'));
+            document.getElementById('month-' + monthId).classList.add('active');
+        }
 
         window.onload = () => {
             const hash = window.location.hash.substring(1);
-            if (hash) {
-                if (hash === 'glossary' || hash === 'dashboard') { showSection(hash); }
-                else {
-                    const weekId = hash.split('-')[0];
-                    switchWeek(weekId, hash);
-                    showSection(hash);
-                }
-            } else {
-                const latestWeek = document.querySelector('.timeline-entry');
-                if (latestWeek) {
-                    const onclick = latestWeek.getAttribute('onclick');
-                    const weekId = onclick.match(/'(.*?)'/)[1];
-                    switchWeek(weekId, null);
-                }
-            }
+            showSection(hash || 'dashboard');
         };
     </script>
 </body>
 </html>
-<!-- Build Timestamp: ter 17 mar 2026 10:08:34 -03 -->
