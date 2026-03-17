@@ -278,6 +278,36 @@
         .collapsible-section summary:hover { color: var(--accent); }
         .collapsible-content { padding-top: 25px; animation: fadeIn 0.4s ease; }
 
+        /* --- SYNTAX HIGHLIGHTING (VS CODE DARK) --- */
+        div.sourceCode { background: #000 !important; padding: 0; border-radius: 12px; margin: 25px 0; border-left: 4px solid var(--accent); box-shadow: 0 5px 15px rgba(0,0,0,0.5); overflow: hidden; }
+        div.sourceCode pre { background: transparent !important; border: none !important; margin: 0 !important; padding: 15px 20px !important; box-shadow: none !important; overflow-x: auto; display: block; }
+        div.sourceCode code { background: transparent !important; border: none !important; padding: 0 !important; color: #d4d4d4; display: block; }
+        code, pre, pre *, code *, .sourceCode * { font-family: "JetBrains Mono", monospace !important; }
+
+        code span.kw { color: #569cd6; font-weight: bold; } /* Keyword */
+        code span.dt { color: #4ec9b0; } /* DataType */
+        code span.dv { color: #b5cea8; } /* DecVal */
+        code span.bn { color: #b5cea8; } /* BaseN */
+        code span.fl { color: #b5cea8; } /* Float */
+        code span.ch { color: #ce9178; } /* Char */
+        code span.st { color: #ce9178; } /* String */
+        code span.co { color: #6a9955; font-style: italic; } /* Comment */
+        code span.ot { color: #c586c0; } /* Other */
+        code span.fu { color: #dcdcaa; } /* Function */
+        code span.cf { color: #c586c0; } /* ControlFlow */
+        code span.op { color: #d4d4d4; } /* Operator */
+        code span.bu { color: #569cd6; } /* Builtin */
+        code span.va { color: #9cdcfe; } /* Variable */
+        code span.sc { color: #d7ba7d; } /* SpecialChar */
+        code span.ss { color: #ce9178; } /* SpecialString */
+        code span.im { color: #569cd6; } /* Import */
+        code span.at { color: #ce9178; } /* Attribute */
+        code span.do { color: #6a9955; } /* Documentation */
+        code span.an { color: #6a9955; } /* Annotation */
+        code span.cv { color: #6a9955; } /* CommentVar */
+        code span.in { color: #6a9955; } /* Information */
+        /* ------------------------------------------- */
+
     </style>
 </head>
 <body>
