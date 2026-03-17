@@ -287,7 +287,7 @@
         div.sourceCode { background: #000 !important; padding: 0; border-radius: 12px; margin: 25px 0; border-left: 4px solid var(--accent); box-shadow: 0 5px 15px rgba(0,0,0,0.5); overflow: hidden; }
         div.sourceCode pre { background: transparent !important; border: none !important; margin: 0 !important; padding: 15px 20px !important; box-shadow: none !important; overflow-x: auto; display: block; }
         div.sourceCode code { background: transparent !important; border: none !important; padding: 0 !important; color: #d4d4d4; display: block; }
-        code, pre, pre *, code *, .sourceCode * { font-family: "JetBrains Mono", monospace !important; }
+        code, pre, pre *, code *, .sourceCode * { font-family: "JetBrains Mono", monospace !important; font-variant-ligatures: none !important;  }
 
         code span.kw { color: #569cd6; font-weight: bold; } /* Keyword */
         code span.dt { color: #4ec9b0; } /* DataType */
@@ -590,7 +590,7 @@ sistema de validação para um desconto em um evento acadêmico. O desconto
 OU (or) se for um professor convidado.</p><div class="vertical-spacer"></div>
 <div class="sourceCode" id="cb3"><pre
 class="sourceCode python"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">&quot;--- Sistema de Desconto Acadêmico ---&quot;</span>)</span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>status <span class="op">=</span> <span class="bu">input</span>(<span class="st">&quot;Você é aluno, professor ou visitante? &quot;</span>).lower()</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>status <span class="op">=</span> <span class="bu">input</span>(<span class="st">&quot;Você é aluno, professor ou visitante? &quot;</span>)</span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>idade <span class="op">=</span> <span class="bu">int</span>(<span class="bu">input</span>(<span class="st">&quot;Qual sua idade? &quot;</span>))</span>
 <span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> status <span class="op">==</span> <span class="st">&quot;aluno&quot;</span> <span class="kw">and</span> idade <span class="op">&lt;</span> <span class="dv">25</span>:</span>
