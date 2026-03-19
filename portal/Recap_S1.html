@@ -190,7 +190,7 @@
         
         /* Variantes Educacionais */
         .pill-ref { border-color: #58a6ff; background: rgba(88, 166, 255, 0.1); color: #58a6ff; }
-        .pill-dica { border-color: #d4af37; background: rgba(212, 175, 55, 0.1); color: #d4af37; }
+        .text-dica { color: var(--accent); font-style: italic; font-weight: 600; }
         .pill-importante { border-color: #f85149; background: rgba(248, 81, 73, 0.1); color: #f85149; }
 
         .vertical-spacer { height: 15px; margin-bottom: 5px; }
@@ -568,9 +568,8 @@ do laço. O professor introduziu a <a href="#term-sintaxe" class="term-link">sin
 aritméticas, como o <code>+=</code>. Esta forma é uma abreviação para
 <code>variável = variável + valor</code>, tornando o código mais limpo e
 profissional.</p><div class="vertical-spacer"></div>
-<p><span class="concept-pill pill-dica">Dica: A expressão ‘a += 1’ é
-idêntica a ‘a = a + 1’. O mesmo vale para ‘-=’, ’*=’ e ‘/=’ em
-Python.</span></p><div class="vertical-spacer"></div>
+<p><span class="text-dica">Dica: A expressão ‘a += 1’ é idêntica a ‘a =
+a + 1’. O mesmo vale para ‘-=’, ’*=’ e ‘/=’ em Python.</span></p><div class="vertical-spacer"></div>
 <p><strong>Aplicação prática com <a href="#term-while" class="term-link">While</a> e Acumuladores:</strong></p><div class="vertical-spacer"></div>
 <div  class="sourceCode python" data-lang="python"><pre
 class="sourceCode python"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>soma <span class="op">=</span> <span class="dv">0</span></span>
@@ -662,9 +661,9 @@ quantas vezes o código vai rodar (ex: até o usuário digitar “sair”). - O
 <strong><a href="#term-for" class="term-link">For</a></strong> é a escolha ideal quando sabemos exatamente o
 limite ou a quantidade de vezes que a repetição deve ocorrer (ex:
 repetir 10 vezes, ou percorrer todos os dias do mês).</p><div class="vertical-spacer"></div>
-<p><span class="concept-pill pill-dica">Dica: O ‘<a href="#term-for" class="term-link">for</a>’ é geralmente mais
-seguro contra loops infinitos do que o ‘<a href="#term-while" class="term-link">while</a>’, pois possui um limite de
-intervalo definido no ‘<a href="#term-range" class="term-link">range</a>’.</span></p><div class="vertical-spacer"></div>
+<p><span class="text-dica">Dica: O ‘<a href="#term-for" class="term-link">for</a>’ é geralmente mais seguro contra
+loops infinitos do que o ‘<a href="#term-while" class="term-link">while</a>’, pois possui um limite de intervalo
+definido no ‘<a href="#term-range" class="term-link">range</a>’.</span></p><div class="vertical-spacer"></div>
 <p><strong>Exemplo Comparativo (Soma de Pares):</strong></p><div class="vertical-spacer"></div>
 <div  class="sourceCode python" data-lang="python"><pre
 class="sourceCode python"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>soma <span class="op">=</span> <span class="dv">0</span></span>
@@ -705,10 +704,10 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb4-1"><a hr
 Iteração</h2>
 <p>A <a href="#term-variavel" class="term-link">variável</a> definida no cabeçalho do <code>for</code> (geralmente
 <code>i</code>, <code>x</code> ou <code>item</code>) armazena o valor
-atual da sequência em cada ciclo. <span
-class="concept-pill pill-dica">Dica: Embora seja possível usar essa
-<a href="#term-variavel" class="term-link">variável</a> fora do laço, é uma boa prática considerá-la como temporária e
-restrita ao contexto da repetição.</span></p><div class="vertical-spacer"></div>
+atual da sequência em cada ciclo. <span class="text-dica">Dica: Embora
+seja possível usar essa <a href="#term-variavel" class="term-link">variável</a> fora do laço, é uma boa prática
+considerá-la como temporária e restrita ao contexto da
+repetição.</span></p><div class="vertical-spacer"></div>
 <hr />
 </div></section><section id="W04-arquitetura_04" class="spa-section"><div class="lesson-card"><div class="lesson-metadata">Arquitetura de Computadores | Thiago | 2026-03-18 | Aula 04</div><p>Esta aula transcende a teoria pura para abordar a aplicação prática
 da arquitetura de sistemas no ambiente corporativo, focando no
@@ -751,9 +750,9 @@ responsável por autenticar usuários e autorizar acessos. O professor
 Thiago ressalta que dimensionar um servidor para rodar AD exige atenção
 não apenas ao processamento, mas à redundância de dados, para garantir
 que uma falha de hardware não paralise a autenticação de toda a empresa.
-<span class="concept-pill pill-dica">Dica: Em ambientes de missão
-crítica, nunca utilize apenas um controlador de domínio; a redundância é
-a regra de ouro.</span></p><div class="vertical-spacer"></div>
+<span class="text-dica">Dica: Em ambientes de missão crítica, nunca
+utilize apenas um controlador de domínio; a redundância é a regra de
+ouro.</span></p><div class="vertical-spacer"></div>
 <div  class="sourceCode powershell" data-lang="powershell"><pre
 class="sourceCode powershell"><code class="sourceCode powershell"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Exemplo de comando PowerShell para verificar o status do AD</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">Get-Service</span> <span class="op">-</span>Name <span class="st">&quot;NTDS&quot;</span> <span class="op">|</span> <span class="fu">Select-Object</span> Status<span class="op">,</span> DisplayName</span>
@@ -797,9 +796,9 @@ surgir no dia a dia. A arquitetura deve ser pensada para evitar o
 <strong>gargalo de processamento</strong>, onde um excesso de conexões
 simultâneas pode derrubar o serviço se o hardware não <a href="#term-for" class="term-link">for</a> devidamente
 escalonado.</p><div class="vertical-spacer"></div>
-<p><span class="concept-pill pill-dica">Dica: Utilize ferramentas de
-monitoramento para identificar qual componente (CPU, <a href="#term-ram" class="term-link">RAM</a> ou I/O de
-Disco) está atingindo o limite antes de realizar um upgrade.</span></p><div class="vertical-spacer"></div>
+<p><span class="text-dica">Dica: Utilize ferramentas de monitoramento
+para identificar qual componente (CPU, <a href="#term-ram" class="term-link">RAM</a> ou I/O de Disco) está
+atingindo o limite antes de realizar um upgrade.</span></p><div class="vertical-spacer"></div>
 <div  class="sourceCode bash" data-lang="bash"><pre
 class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Comandos Bash para monitoramento básico de servidor Linux</span></span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="ex">top</span> <span class="co"># Monitora processos e consumo de CPU/RAM em tempo real</span></span>
@@ -863,8 +862,8 @@ exemplo, em um sistema acadêmico: se a nota <a href="#term-for" class="term-lin
 aluno é aprovado; caso contrário, ele entra no fluxo de reprovação ou
 recuperação. O <a href="#term-algoritmo" class="term-link">algoritmo</a> deixa de ser uma sequência linear e passa a ter
 ramificações de fluxo.</p><div class="vertical-spacer"></div>
-<p><span class="concept-pill pill-dica">Dica: Use sempre parênteses para
-organizar condições complexas, mesmo que não seja obrigatório no
+<p><span class="text-dica">Dica: Use sempre parênteses para organizar
+condições complexas, mesmo que não seja obrigatório no
 Python.</span></p><div class="vertical-spacer"></div>
 <p><strong>Exemplo prático de <code>if</code> simples:</strong></p><div class="vertical-spacer"></div>
 <div  class="sourceCode python" data-lang="python"><pre
