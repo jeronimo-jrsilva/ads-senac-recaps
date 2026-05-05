@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portal Acadêmico | ADS 2026.1</title>
+    <title>Notas de Aula | TI SENAC Fortaleza 2026.1</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -26,38 +26,70 @@
         }
         .landing-container {
             text-align: center;
-            max-width: 600px;
-            padding: 40px;
+            max-width: 700px;
+            padding: 50px;
             background: var(--card);
             border-radius: 24px;
             border: 1px solid var(--border);
             box-shadow: 0 20px 50px rgba(0,0,0,0.5);
         }
         h1 {
-            font-size: 2.5rem;
+            font-size: 2.2rem;
             font-weight: 800;
-            margin-bottom: 10px;
+            margin-bottom: 5px;
             background: linear-gradient(135deg, #fff 0%, #aaa 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            line-height: 1.2;
         }
-        p {
-            color: #666;
-            margin-bottom: 40px;
-            letter-spacing: 1px;
+        .subtitle {
+            color: var(--accent);
+            margin-bottom: 35px;
+            letter-spacing: 2px;
             text-transform: uppercase;
             font-size: 0.8rem;
+            font-weight: 800;
+            opacity: 0.9;
+        }
+        .author-box {
+            margin-bottom: 40px;
+            padding: 15px;
+            border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+        }
+        .author-name {
+            display: block;
+            font-size: 1.4rem;
+            font-weight: 800;
+            color: #fff;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+        .author-name:hover {
+            color: var(--accent);
+            transform: scale(1.05);
+        }
+        .github-link {
+            font-size: 0.8rem;
+            color: var(--accent);
+            text-decoration: none;
+            opacity: 0.7;
+            transition: 0.3s;
+        }
+        .github-link:hover {
+            opacity: 1;
+            text-decoration: underline;
         }
         .master-btn {
             display: inline-block;
             background: transparent;
             color: var(--accent);
             border: 2px solid var(--accent);
-            padding: 18px 40px;
+            padding: 18px 50px;
             border-radius: 14px;
             text-decoration: none;
             font-weight: 800;
-            font-size: 1.1rem;
+            font-size: 1.2rem;
             transition: 0.3s;
             box-shadow: 0 0 20px rgba(212, 175, 55, 0.1);
         }
@@ -69,22 +101,30 @@
         }
         .footer-note {
             margin-top: 40px;
-            font-size: 0.7rem;
+            font-size: 0.65rem;
             color: #444;
+            letter-spacing: 0.5px;
         }
     </style>
 </head>
 <body>
     <div class="landing-container">
-        <p>Análise e Desenvolvimento de Sistemas</p>
-        <h1>Portal de Recaps</h1>
+        <div class="subtitle">Resumos de Aula</div>
+        <h1>Tecnologia da Informação<br>SENAC Fortaleza 2026.1</h1>
+        
+        <div class="author-box">
+            <a href="https://github.com/jeronimo-jrsilva" target="_blank" class="author-name">Jeronimo Silva</a>
+            <a href="https://github.com/jeronimo-jrsilva" target="_blank" class="github-link">github.com/jeronimo-jrsilva</a>
+        </div>
+
         <div style="margin: 40px 0;">
             <a href="./portal/Recap_Master_S1.html" class="master-btn">
-                Master Dashboard 2026.1
+                Acessar Resumos
             </a>
         </div>
+        
         <div class="footer-note">
-            Organizado por Jeronimo Silva • Sincronizado com Second Brain
+            Última atualização: 05/05/2026 15:29:40
         </div>
     </div>
 </body>
