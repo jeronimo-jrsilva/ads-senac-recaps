@@ -15,12 +15,13 @@ SEMANAL_DIR = VAULT_ROOT / "02_Cérebro/📖 Estudos/01_Graduação/01_Semestre/
 
 PORTAL_DIR.mkdir(parents=True, exist_ok=True)
 
+# Cores refinadas para 2026.1 (Arquitetura em Azul Royal/Índigo em vez de amarelo)
 DISC_STYLES = {
-    "Arquitetura": {"name": "Arquitetura de Computadores", "short": "ARQ", "color": "#f59e0b", "bg": "rgba(245, 158, 11, 0.12)", "border": "rgba(245, 158, 11, 0.4)", "tag": "tag-arq", "order": 1, "prof": "Thyago"},
+    "Arquitetura": {"name": "Arquitetura de Computadores", "short": "ARQ", "color": "#60a5fa", "bg": "rgba(96, 165, 250, 0.12)", "border": "rgba(96, 165, 250, 0.4)", "tag": "tag-arq", "order": 1, "prof": "Thyago"},
     "Lógica": {"name": "Lógica de Programação em Python", "short": "LOG", "color": "#06b6d4", "bg": "rgba(6, 182, 212, 0.12)", "border": "rgba(6, 182, 212, 0.4)", "tag": "tag-log", "order": 2, "prof": "Nator Junior"},
     "Logica": {"name": "Lógica de Programação em Python", "short": "LOG", "color": "#06b6d4", "bg": "rgba(6, 182, 212, 0.12)", "border": "rgba(6, 182, 212, 0.4)", "tag": "tag-log", "order": 2, "prof": "Nator Junior"},
-    "Conformidade": {"name": "Análise de Conformidade de Software", "short": "CONF", "color": "#10b981", "bg": "rgba(16, 185, 129, 0.12)", "border": "rgba(16, 185, 129, 0.4)", "tag": "tag-conf", "order": 3, "prof": "Tibério"},
-    "Projeto Integrador": {"name": "Projeto Integrador I", "short": "PI", "color": "#a855f7", "bg": "rgba(168, 85, 247, 0.12)", "border": "rgba(168, 85, 247, 0.4)", "tag": "tag-pi", "order": 4, "prof": "Alexandre"},
+    "Conformidade": {"name": "Análise de Conformidade de Software", "short": "CONF", "color": "#a855f7", "bg": "rgba(168, 85, 247, 0.12)", "border": "rgba(168, 85, 247, 0.4)", "tag": "tag-conf", "order": 3, "prof": "Tibério"},
+    "Projeto Integrador": {"name": "Projeto Integrador I", "short": "PI", "color": "#fb923c", "bg": "rgba(251, 146, 60, 0.12)", "border": "rgba(251, 146, 60, 0.4)", "tag": "tag-pi", "order": 4, "prof": "Alexandre"},
     "Estatística": {"name": "Estatística com Python", "short": "EST", "color": "#ec4899", "bg": "rgba(236, 72, 153, 0.12)", "border": "rgba(236, 72, 153, 0.4)", "tag": "tag-est", "order": 5, "prof": "Nator Junior"},
     "Estatistica": {"name": "Estatística com Python", "short": "EST", "color": "#ec4899", "bg": "rgba(236, 72, 153, 0.12)", "border": "rgba(236, 72, 153, 0.4)", "tag": "tag-est", "order": 5, "prof": "Nator Junior"},
 }
@@ -114,7 +115,7 @@ def get_label(num_str):
     return num_str
 
 def build():
-    print(f"🚀 Invocando Motor Master S1 (2026.1) com Organização por Dia da Semana...")
+    print(f"🚀 Invocando Motor Master S1 (2026.1) com Tema Dark Charcoal + Dourado Nobre...")
     
     tpl = """<!DOCTYPE html>
 <html lang="pt-br">
@@ -129,7 +130,7 @@ def build():
 </head>
 <body>
     <div class="main-container">
-        <!-- Top App Bar (1 Linha Unificada) -->
+        <!-- Top App Bar (1 Linha Unificada - Tema Dourado Nobre) -->
         <header class="app-header">
             <div class="brand">
                 <span class="brand-icon">🎓</span>
@@ -332,7 +333,7 @@ def build():
                     if (tag === discShort) {
                         cell.style.opacity = '1';
                         cell.style.filter = 'none';
-                        cell.style.boxShadow = '0 0 10px rgba(56, 189, 248, 0.4)';
+                        cell.style.boxShadow = '0 0 10px rgba(212, 175, 55, 0.4)';
                     } else if (cell.classList.contains('active-lesson')) {
                         cell.style.opacity = '0.25';
                         cell.style.filter = 'grayscale(80%)';
@@ -464,9 +465,19 @@ def build():
     css_path = ENGINE_DIR / "styles.css"
     master_css = css_path.read_text(encoding="utf-8") if css_path.exists() else ""
     
-    # CSS Customizado Unificado
+    # CSS Customizado com Tema Dark Charcoal + Dourado Nobre (#d4af37)
     extra_css = """
-    /* --- TOP APP BAR UNIFICADA (1 LINHA HORIZONTAL) --- */
+    :root {
+        --bg: #0d0d0f !important;
+        --card: #151518 !important;
+        --border: #26262b !important;
+        --accent: #d4af37 !important; /* Dourado Nobre Metálico */
+        --accent-glow: rgba(212, 175, 55, 0.4) !important;
+    }
+
+    body { background: #0d0d0f !important; color: #e4e4e7 !important; }
+
+    /* --- TOP APP BAR UNIFICADA (1 LINHA HORIZONTAL - TEMA DOURADO) --- */
     .app-header {
         display: flex !important;
         flex-direction: row !important;
@@ -477,7 +488,7 @@ def build():
         border-radius: 14px !important;
         padding: 10px 18px !important;
         margin-bottom: 25px !important;
-        box-shadow: 0 4px 20px rgba(0,0,0,0.3) !important;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.4) !important;
         flex-wrap: wrap !important;
         gap: 15px !important;
     }
@@ -494,9 +505,9 @@ def build():
     .brand-icon { font-size: 1.2rem !important; line-height: 1 !important; }
     .brand-title { font-weight: 800 !important; letter-spacing: 0.5px !important; color: #f4f4f5 !important; }
     .brand-badge {
-        background: rgba(56, 189, 248, 0.12) !important;
-        color: var(--accent) !important;
-        border: 1px solid rgba(56, 189, 248, 0.3) !important;
+        background: rgba(212, 175, 55, 0.15) !important;
+        color: #d4af37 !important;
+        border: 1px solid rgba(212, 175, 55, 0.4) !important;
         padding: 2px 7px !important;
         border-radius: 6px !important;
         font-size: 0.72rem !important;
@@ -524,15 +535,15 @@ def build():
         transition: all 0.2s !important;
     }
     .search-trigger-btn:hover {
-        border-color: var(--accent) !important;
+        border-color: #d4af37 !important;
         color: #fff !important;
         background: #202025 !important;
-        box-shadow: 0 0 15px rgba(56, 189, 248, 0.15) !important;
+        box-shadow: 0 0 15px rgba(212, 175, 55, 0.2) !important;
     }
     .kbd-shortcut {
         background: #222227 !important;
         border: 1px solid #33333d !important;
-        color: var(--accent) !important;
+        color: #d4af37 !important;
         padding: 2px 6px !important;
         border-radius: 4px !important;
         font-size: 0.65rem !important;
@@ -561,10 +572,10 @@ def build():
     }
     .sem-link:hover { color: #f4f4f5 !important; }
     .sem-link.active {
-        background: var(--accent) !important;
+        background: #d4af37 !important;
         color: #000 !important;
         font-weight: 800 !important;
-        box-shadow: 0 2px 8px rgba(56, 189, 248, 0.3) !important;
+        box-shadow: 0 2px 8px rgba(212, 175, 55, 0.4) !important;
     }
 
     /* --- HEADER HERO HORIZONTAL --- */
@@ -574,14 +585,14 @@ def build():
     }
     .hero-brand-col { flex: 1; }
     .hero-title { margin: 0; font-size: 1.8rem; font-weight: 800; color: #fff; letter-spacing: -0.5px; }
-    .hero-subtitle { color: var(--accent); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; margin-top: 6px; font-weight: 600; }
+    .hero-subtitle { color: #d4af37; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; margin-top: 6px; font-weight: 600; }
     
     .stats-cards-col { display: flex; gap: 12px; }
     .stat-card {
         background: #141417; border: 1px solid #27272a; padding: 12px 18px;
         border-radius: 10px; min-width: 95px; text-align: center;
     }
-    .stat-value { font-size: 1.4rem; font-weight: 800; color: var(--accent); display: block; line-height: 1; }
+    .stat-value { font-size: 1.4rem; font-weight: 800; color: #d4af37; display: block; line-height: 1; }
     .stat-label { font-size: 0.65rem; color: #a1a1aa; text-transform: uppercase; letter-spacing: 1px; font-weight: 700; margin-top: 5px; display: block; }
 
     /* --- SEÇÕES COLAPSÁVEIS MODERNAS --- */
@@ -597,7 +608,7 @@ def build():
     .collapsible-section summary:hover { background: #1c1c20; }
     .collapsible-section[open] summary { border-bottom: 1px solid var(--border); background: #18181c; }
     .collapsible-section summary::-webkit-details-marker { display: none; }
-    .collapsible-section summary::after { content: '▾'; font-size: 1.1rem; color: var(--accent); transition: transform 0.2s; }
+    .collapsible-section summary::after { content: '▾'; font-size: 1.1rem; color: #d4af37; transition: transform 0.2s; }
     .collapsible-section[open] summary::after { transform: rotate(180deg); }
     .collapsible-content { padding: 18px; }
 
@@ -612,11 +623,11 @@ def build():
         padding: 4px 10px; border-radius: 6px; font-size: 0.75rem; font-weight: 700; cursor: pointer; transition: all 0.2s;
     }
     .cal-filter-btn:hover { border-color: #555; color: #fff; }
-    .cal-filter-btn.active { background: var(--accent); color: #000; border-color: var(--accent); }
-    .cal-filter-btn.btn-arq.active { background: #f59e0b; color: #000; border-color: #f59e0b; }
+    .cal-filter-btn.active { background: #d4af37; color: #000; border-color: #d4af37; }
+    .cal-filter-btn.btn-arq.active { background: #60a5fa; color: #000; border-color: #60a5fa; }
     .cal-filter-btn.btn-log.active { background: #06b6d4; color: #000; border-color: #06b6d4; }
-    .cal-filter-btn.btn-conf.active { background: #10b981; color: #000; border-color: #10b981; }
-    .cal-filter-btn.btn-pi.active { background: #a855f7; color: #fff; border-color: #a855f7; }
+    .cal-filter-btn.btn-conf.active { background: #a855f7; color: #fff; border-color: #a855f7; }
+    .cal-filter-btn.btn-pi.active { background: #fb923c; color: #000; border-color: #fb923c; }
     .cal-filter-btn.btn-est.active { background: #ec4899; color: #fff; border-color: #ec4899; }
 
     .month-selector { display: flex; gap: 8px; margin-bottom: 16px; border-bottom: 1px solid var(--border); padding-bottom: 10px; }
@@ -625,7 +636,7 @@ def build():
         padding: 6px 14px; border-radius: 6px; font-size: 0.75rem; font-weight: 700; cursor: pointer; transition: all 0.2s;
     }
     .month-pill:hover { color: #fff; border-color: #3f3f46; }
-    .month-pill.active { background: var(--accent); color: #000; border-color: var(--accent); font-weight: 800; }
+    .month-pill.active { background: #d4af37; color: #000; border-color: #d4af37; font-weight: 800; }
 
     .calendar-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; }
     .calendar-header-day {
@@ -638,9 +649,9 @@ def build():
         justify-content: space-between; transition: all 0.2s;
     }
     .calendar-day.other-month { opacity: 0.2; background: #0b0b0d; border-color: #1a1a1d; }
-    .calendar-day.active-lesson { background: #16161d; border-color: rgba(56, 189, 248, 0.3); cursor: pointer; }
+    .calendar-day.active-lesson { background: #16161d; border-color: rgba(212, 175, 55, 0.3); cursor: pointer; }
     .calendar-day.active-lesson:hover {
-        transform: translateY(-2px); border-color: var(--accent); box-shadow: 0 4px 15px rgba(56, 189, 248, 0.15);
+        transform: translateY(-2px); border-color: #d4af37; box-shadow: 0 4px 15px rgba(212, 175, 55, 0.2);
     }
     .day-number { font-size: 0.8rem; font-weight: 700; color: #a1a1aa; }
     .calendar-day.active-lesson .day-number { color: #fff; }
@@ -678,17 +689,17 @@ def build():
         padding: 20px 24px; cursor: pointer; transition: all 0.25s ease; position: relative;
     }
     .timeline-card:hover {
-        background: #17171d; border-color: rgba(56, 189, 248, 0.4);
+        background: #17171d; border-color: rgba(212, 175, 55, 0.4);
         transform: translateX(4px); box-shadow: 0 8px 25px rgba(0,0,0,0.5);
     }
     .timeline-dot {
         position: absolute; left: -34px; top: 26px; width: 14px; height: 14px;
-        border-radius: 50%; background: var(--accent); box-shadow: 0 0 12px rgba(56, 189, 248, 0.8);
+        border-radius: 50%; background: #d4af37; box-shadow: 0 0 12px rgba(212, 175, 55, 0.8);
         border: 2px solid #121215;
     }
     .timeline-badge {
-        display: inline-block; background: rgba(56, 189, 248, 0.12); color: var(--accent);
-        border: 1px solid rgba(56, 189, 248, 0.3); padding: 3px 10px; border-radius: 6px;
+        display: inline-block; background: rgba(212, 175, 55, 0.15); color: #d4af37;
+        border: 1px solid rgba(212, 175, 55, 0.4); padding: 3px 10px; border-radius: 6px;
         font-size: 0.7rem; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;
     }
     .timeline-title { font-size: 1.15rem; font-weight: 700; color: #fff; margin: 0 0 8px 0; }
@@ -702,34 +713,34 @@ def build():
     }
     .timeline-mini-pill:hover { transform: translateY(-1px); filter: brightness(1.25); }
 
-    /* Termos do Glossário no Texto (Dourado/Âmbar de Alta Legibilidade) */
+    /* Termos do Glossário no Texto (Dourado Nobre) */
     .term-link {
-        color: #fbbf24 !important;
+        color: #d4af37 !important;
         text-decoration: none !important;
-        border-bottom: 1.5px dotted #f59e0b !important;
+        border-bottom: 1.5px dotted #d4af37 !important;
         font-weight: 600 !important;
         padding: 0 3px;
         border-radius: 3px;
         transition: all 0.15s ease;
     }
     .term-link:hover {
-        background: rgba(245, 158, 11, 0.18) !important;
+        background: rgba(212, 175, 55, 0.2) !important;
         color: #fef08a !important;
         border-bottom-style: solid !important;
     }
 
     .wiki-btn {
-        background: rgba(56, 189, 248, 0.1) !important; color: #38bdf8 !important;
-        border: 1px solid rgba(56, 189, 248, 0.3) !important; font-weight: 700 !important;
+        background: rgba(212, 175, 55, 0.15) !important; color: #d4af37 !important;
+        border: 1px solid rgba(212, 175, 55, 0.4) !important; font-weight: 700 !important;
         text-decoration: none !important; display: inline-flex !important; align-items: center !important;
     }
-    .wiki-btn:hover { background: #38bdf8 !important; color: #000 !important; }
+    .wiki-btn:hover { background: #d4af37 !important; color: #000 !important; }
 
     /* --- ILUMINAÇÃO DE SINTAXE VIBRANTE (DRACULA / ONE DARK) --- */
     pre, div.sourceCode {
         background: #0d1117 !important;
         border: 1px solid #30363d !important;
-        border-left: 4px solid var(--accent) !important;
+        border-left: 4px solid #d4af37 !important;
         border-radius: 10px !important;
         padding: 16px 20px !important;
         overflow-x: auto !important;
@@ -767,7 +778,7 @@ def build():
         display: flex; align-items: center; gap: 12px; padding: 16px 20px;
         border-bottom: 1px solid #27272a; background: #121215;
     }
-    .search-modal-icon { font-size: 1.2rem; color: var(--accent); }
+    .search-modal-icon { font-size: 1.2rem; color: #d4af37; }
     #search-input {
         background: transparent; border: none; outline: none; color: #fff;
         font-size: 1rem; width: 100%; font-family: 'Inter', sans-serif;
@@ -782,17 +793,17 @@ def build():
         padding: 12px 16px; border-radius: 8px; margin-bottom: 6px;
         background: rgba(255,255,255,0.02); border: 1px solid transparent; cursor: pointer; transition: all 0.15s;
     }
-    .search-result-item:hover { background: rgba(56, 189, 248, 0.08); border-color: rgba(56, 189, 248, 0.3); }
+    .search-result-item:hover { background: rgba(212, 175, 55, 0.1); border-color: rgba(212, 175, 55, 0.4); }
     .search-result-header { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; }
     .search-result-badge { padding: 2px 6px; border-radius: 4px; font-size: 0.65rem; font-weight: 800; }
     .search-result-title { font-weight: 700; color: #f4f4f5; font-size: 0.9rem; flex-grow: 1; }
     .search-result-date { font-size: 0.75rem; color: #71717a; }
     .search-result-snippet { font-size: 0.8rem; color: #a1a1aa; line-height: 1.4; }
-    .search-highlight { background: rgba(245, 158, 11, 0.3); color: #fbbf24; padding: 0 3px; border-radius: 2px; }
+    .search-highlight { background: rgba(212, 175, 55, 0.35); color: #fef08a; padding: 0 3px; border-radius: 2px; }
     
     .term-flash { animation: flashHighlight 1.5s ease; }
     @keyframes flashHighlight {
-        0% { background: rgba(245, 158, 11, 0.35); }
+        0% { background: rgba(212, 175, 55, 0.4); }
         100% { background: transparent; }
     }
     """
@@ -819,12 +830,27 @@ def build():
             raw_text = file.read_text(encoding='utf-8')
             meta, body = extract_frontmatter_and_content(raw_text)
             
+            date_str = meta.get("data", "")
+            disc_raw = meta.get("disciplina", "Geral")
+
+            # 🛑 REGRA DE EXCLUSÃO DE CONFORMIDADE DA RAIANE:
+            # Manter no DOM/visualização APENAS as aulas com Prof. Tibério (a partir de 16/04/2026 / Aula 06)
+            if "conformidade" in disc_raw.lower():
+                if file.name.lower() in [
+                    "conformidade_01.md", "conformidade_02.md", "conformidade_03.md",
+                    "conformidade_feriado_jose.md", "conformidade_04.md", "conformidade_05_lei_felca.md"
+                ] or (date_str and date_str < "2026-04-16"):
+                    # Não entra no DOM de 2026.1
+                    continue
+
+            # Feriados puros não entram no DOM como aula regular (ficam só no calendário)
+            if "feriado" in file.name.lower() and disc_raw.lower() == "geral":
+                continue
+
             parts = re.split(r'##\s*Gloss[aá]rio', body, flags=re.IGNORECASE)
             main_content = parts[0]
             glossary_content = parts[1] if len(parts) > 1 else ""
 
-            date_str = meta.get("data", "")
-            disc_raw = meta.get("disciplina", "Geral")
             disc_meta = get_disc_meta(disc_raw)
             disc_canonical = disc_meta["name"]
             prof_name = disc_meta["prof"]
@@ -881,7 +907,7 @@ def build():
                             # Adicionar no search index
                             search_index.append({
                                 "id": "glossary", "title": f"Glossário: {t}", "disc": "Glossário",
-                                "short": "GLOSS", "color": "#38bdf8", "bg": "rgba(56,189,248,0.1)", "border": "#38bdf8",
+                                "short": "GLOSS", "color": "#d4af37", "bg": "rgba(212,175,55,0.15)", "border": "#d4af37",
                                 "text": f"{t} - {d}", "date": ""
                             })
 
@@ -946,7 +972,7 @@ def build():
             <div class='timeline-mini-pills'>{mini_pills_html}</div>
         </div>"""
 
-    # Ordenar Trilhas de Aprendizado por DIA DA SEMANA (order)
+    # Ordenar Trilhas de Aprendizado por DIA DA SEMANA
     discipline_view_html = "<details class='collapsible-section' open><summary>Trilhas de Aprendizado (2026.1)</summary><div class='collapsible-content'><div class='discipline-tracks'>"
     
     sorted_disc_names = sorted(
@@ -1048,7 +1074,7 @@ def build():
     out_file = PORTAL_DIR / "Recap_Master_S1.html"
     out_file.write_text(final_html, encoding="utf-8")
 
-    print(f"🎉 Recap_Master_S1.html gerado com sucesso!")
+    print(f"🎉 Recap_Master_S1.html com tema Dourado e Conformidade filtrada gerado com sucesso!")
 
 if __name__ == "__main__":
     build()
