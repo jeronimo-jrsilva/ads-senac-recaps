@@ -16,19 +16,21 @@ SEMANAL_DIR = VAULT_ROOT / "02_Cérebro/📖 Estudos/01_Graduação/01_Semestre/
 PORTAL_DIR.mkdir(parents=True, exist_ok=True)
 
 DISC_STYLES = {
-    "Lógica de Programação": {"short": "LOG", "color": "#06b6d4", "bg": "rgba(6, 182, 212, 0.12)", "border": "rgba(6, 182, 212, 0.4)", "tag": "tag-log"},
-    "Arquitetura e Organização de Computadores": {"short": "ARQ", "color": "#f59e0b", "bg": "rgba(245, 158, 11, 0.12)", "border": "rgba(245, 158, 11, 0.4)", "tag": "tag-arq"},
-    "Conformidade, Governança e Legislação": {"short": "CONF", "color": "#10b981", "bg": "rgba(16, 185, 129, 0.12)", "border": "rgba(16, 185, 129, 0.4)", "tag": "tag-conf"},
-    "Projeto Integrador": {"short": "PI", "color": "#a855f7", "bg": "rgba(168, 85, 247, 0.12)", "border": "rgba(168, 85, 247, 0.4)", "tag": "tag-pi"},
-    "Estatística": {"short": "EST", "color": "#ec4899", "bg": "rgba(236, 72, 153, 0.12)", "border": "rgba(236, 72, 153, 0.4)", "tag": "tag-est"},
-    "Outros": {"short": "Outros", "color": "#94a3b8", "bg": "rgba(148, 163, 184, 0.12)", "border": "rgba(148, 163, 184, 0.4)", "tag": "tag-outros"},
+    "Arquitetura": {"name": "Arquitetura de Computadores", "short": "ARQ", "color": "#f59e0b", "bg": "rgba(245, 158, 11, 0.12)", "border": "rgba(245, 158, 11, 0.4)", "tag": "tag-arq", "order": 1, "prof": "Thyago"},
+    "Lógica": {"name": "Lógica de Programação em Python", "short": "LOG", "color": "#06b6d4", "bg": "rgba(6, 182, 212, 0.12)", "border": "rgba(6, 182, 212, 0.4)", "tag": "tag-log", "order": 2, "prof": "Nator Junior"},
+    "Logica": {"name": "Lógica de Programação em Python", "short": "LOG", "color": "#06b6d4", "bg": "rgba(6, 182, 212, 0.12)", "border": "rgba(6, 182, 212, 0.4)", "tag": "tag-log", "order": 2, "prof": "Nator Junior"},
+    "Conformidade": {"name": "Análise de Conformidade de Software", "short": "CONF", "color": "#10b981", "bg": "rgba(16, 185, 129, 0.12)", "border": "rgba(16, 185, 129, 0.4)", "tag": "tag-conf", "order": 3, "prof": "Tibério"},
+    "Projeto Integrador": {"name": "Projeto Integrador I", "short": "PI", "color": "#a855f7", "bg": "rgba(168, 85, 247, 0.12)", "border": "rgba(168, 85, 247, 0.4)", "tag": "tag-pi", "order": 4, "prof": "Alexandre"},
+    "Estatística": {"name": "Estatística com Python", "short": "EST", "color": "#ec4899", "bg": "rgba(236, 72, 153, 0.12)", "border": "rgba(236, 72, 153, 0.4)", "tag": "tag-est", "order": 5, "prof": "Nator Junior"},
+    "Estatistica": {"name": "Estatística com Python", "short": "EST", "color": "#ec4899", "bg": "rgba(236, 72, 153, 0.12)", "border": "rgba(236, 72, 153, 0.4)", "tag": "tag-est", "order": 5, "prof": "Nator Junior"},
 }
 
 def get_disc_meta(disc_name):
+    d_lower = disc_name.lower()
     for k, v in DISC_STYLES.items():
-        if k.lower() in disc_name.lower() or disc_name.lower() in k.lower():
+        if k.lower() in d_lower:
             return v
-    return DISC_STYLES["Outros"]
+    return {"name": disc_name, "short": "Outros", "color": "#94a3b8", "bg": "rgba(148, 163, 184, 0.12)", "border": "rgba(148, 163, 184, 0.4)", "tag": "tag-outros", "order": 99, "prof": "Docente"}
 
 def slugify(text):
     text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
@@ -112,7 +114,7 @@ def get_label(num_str):
     return num_str
 
 def build():
-    print(f"🚀 Invocando Motor Master S1 (2026.1) Unificado com Top App Bar, Calendário e Spotlight...")
+    print(f"🚀 Invocando Motor Master S1 (2026.1) com Organização por Dia da Semana...")
     
     tpl = """<!DOCTYPE html>
 <html lang="pt-br">
@@ -181,8 +183,8 @@ def build():
                             <div class="cal-filter-bar">
                                 <span class="filter-label">Filtrar matéria:</span>
                                 <button class="cal-filter-btn active" onclick="filterCalendar('all', this)">Todas</button>
-                                <button class="cal-filter-btn btn-log" onclick="filterCalendar('LOG', this)">Lógica</button>
                                 <button class="cal-filter-btn btn-arq" onclick="filterCalendar('ARQ', this)">Arquitetura</button>
+                                <button class="cal-filter-btn btn-log" onclick="filterCalendar('LOG', this)">Lógica</button>
                                 <button class="cal-filter-btn btn-conf" onclick="filterCalendar('CONF', this)">Conformidade</button>
                                 <button class="cal-filter-btn btn-pi" onclick="filterCalendar('PI', this)">PI</button>
                                 <button class="cal-filter-btn btn-est" onclick="filterCalendar('EST', this)">Estatística</button>
@@ -611,8 +613,8 @@ def build():
     }
     .cal-filter-btn:hover { border-color: #555; color: #fff; }
     .cal-filter-btn.active { background: var(--accent); color: #000; border-color: var(--accent); }
-    .cal-filter-btn.btn-log.active { background: #06b6d4; color: #000; border-color: #06b6d4; }
     .cal-filter-btn.btn-arq.active { background: #f59e0b; color: #000; border-color: #f59e0b; }
+    .cal-filter-btn.btn-log.active { background: #06b6d4; color: #000; border-color: #06b6d4; }
     .cal-filter-btn.btn-conf.active { background: #10b981; color: #000; border-color: #10b981; }
     .cal-filter-btn.btn-pi.active { background: #a855f7; color: #fff; border-color: #a855f7; }
     .cal-filter-btn.btn-est.active { background: #ec4899; color: #fff; border-color: #ec4899; }
@@ -740,16 +742,16 @@ def build():
     pre code, code.sourceCode, .sourceCode span {
         font-family: 'JetBrains Mono', monospace !important;
     }
-    span.kw, code span.kw { color: #ff7b72 !important; font-weight: 700 !important; } /* keywords (def, class, for, while, return) */
-    span.dt, code span.dt { color: #79c0ff !important; font-weight: 600 !important; } /* datatypes */
-    span.st, code span.st { color: #a5d6ff !important; } /* strings ("...") */
-    span.co, code span.co { color: #8b949e !important; font-style: italic !important; } /* comments (# ...) */
-    span.fu, code span.fu { color: #d2a8ff !important; font-weight: 600 !important; } /* functions (print, input, len) */
-    span.dv, span.fl, span.bn, code span.dv, code span.fl { color: #ffa657 !important; font-weight: 600 !important; } /* numbers */
-    span.op, code span.op { color: #79c0ff !important; } /* operators */
-    span.pp, code span.pp { color: #ff7b72 !important; font-weight: 600 !important; } /* preprocessor / imports */
-    span.cf, code span.cf { color: #ff7b72 !important; font-weight: 700 !important; } /* control flow (if, elif, else) */
-    span.va, code span.va { color: #e6edf3 !important; } /* variables */
+    span.kw, code span.kw { color: #ff7b72 !important; font-weight: 700 !important; }
+    span.dt, code span.dt { color: #79c0ff !important; font-weight: 600 !important; }
+    span.st, code span.st { color: #a5d6ff !important; }
+    span.co, code span.co { color: #8b949e !important; font-style: italic !important; }
+    span.fu, code span.fu { color: #d2a8ff !important; font-weight: 600 !important; }
+    span.dv, span.fl, span.bn, code span.dv, code span.fl { color: #ffa657 !important; font-weight: 600 !important; }
+    span.op, code span.op { color: #79c0ff !important; }
+    span.pp, code span.pp { color: #ff7b72 !important; font-weight: 600 !important; }
+    span.cf, code span.cf { color: #ff7b72 !important; font-weight: 700 !important; }
+    span.va, code span.va { color: #e6edf3 !important; }
 
     /* Modal de Busca */
     .search-modal-backdrop {
@@ -822,15 +824,10 @@ def build():
             glossary_content = parts[1] if len(parts) > 1 else ""
 
             date_str = meta.get("data", "")
-            disc_name = meta.get("disciplina", "Geral")
-            prof_name = meta.get("professor", "Docente")
-
-            # Pivot Acadêmico Raiane -> Tibério
-            if "conformidade" in disc_name.lower():
-                if date_str and date_str < "2026-04-16":
-                    prof_name = "Raiane"
-                else:
-                    prof_name = "Tibério"
+            disc_raw = meta.get("disciplina", "Geral")
+            disc_meta = get_disc_meta(disc_raw)
+            disc_canonical = disc_meta["name"]
+            prof_name = disc_meta["prof"]
 
             lesson_num = ""
             if "feriado" in file.name.lower():
@@ -841,7 +838,6 @@ def build():
                 num_match = re.search(r'(\d+)', file.stem)
                 if num_match: lesson_num = num_match.group(1)
 
-            disc_meta = get_disc_meta(disc_name)
             short_disc = disc_meta["short"]
 
             wd = ""
@@ -891,9 +887,10 @@ def build():
 
             lesson_obj = {
                 "id": lesson_id, "file": file.name, "meta": meta, "html_raw": html_raw,
-                "title": meta.get("titulo", file.stem), "disc": disc_name, "prof": prof_name,
+                "title": meta.get("titulo", file.stem), "disc": disc_canonical, "prof": prof_name,
                 "date": date_str, "wd": wd, "num": lesson_num, "short": short_disc, "cls": disc_meta["tag"],
-                "color": disc_meta["color"], "bg": disc_meta["bg"], "border": disc_meta["border"]
+                "color": disc_meta["color"], "bg": disc_meta["bg"], "border": disc_meta["border"],
+                "order": disc_meta["order"]
             }
             lessons.append(lesson_obj)
             if date_str: all_lessons_by_date[date_str] = lesson_obj
@@ -901,7 +898,7 @@ def build():
             clean_text = re.sub(r'<[^>]+>', ' ', html_raw)
             clean_text = re.sub(r'\s+', ' ', clean_text).strip()
             search_index.append({
-                "id": lesson_id, "title": lesson_obj["title"], "disc": disc_name,
+                "id": lesson_id, "title": lesson_obj["title"], "disc": disc_canonical,
                 "short": short_disc, "color": disc_meta["color"], "bg": disc_meta["bg"], "border": disc_meta["border"],
                 "text": clean_text, "date": date_str
             })
@@ -928,7 +925,10 @@ def build():
             lessons_html += f'<section id="{l["id"]}" class="spa-section"><div class="lesson-card"><div class="lesson-metadata">{badge_html} <span style="color:#71717a;">{l["date"]} • {label}</span></div><h1 style="font-size: 1.6rem; margin: 15px 0 25px 0; color: #fff;">{l["title"]}</h1>{html_linked}</div></section>'
             
             d_name = l["disc"]
-            if d_name not in disciplines: disciplines[d_name] = {"prof": l["prof"], "short": l["short"], "meta": get_disc_meta(d_name), "lessons": []}
+            if d_name not in disciplines:
+                disciplines[d_name] = {
+                    "prof": l["prof"], "short": l["short"], "meta": get_disc_meta(d_name), "lessons": []
+                }
             disciplines[d_name]["lessons"].append(l)
 
         # Montar mini-pills da semana para a Linha do Tempo
@@ -946,8 +946,15 @@ def build():
             <div class='timeline-mini-pills'>{mini_pills_html}</div>
         </div>"""
 
+    # Ordenar Trilhas de Aprendizado por DIA DA SEMANA (order)
     discipline_view_html = "<details class='collapsible-section' open><summary>Trilhas de Aprendizado (2026.1)</summary><div class='collapsible-content'><div class='discipline-tracks'>"
-    for d_name in sorted(disciplines.keys()):
+    
+    sorted_disc_names = sorted(
+        [d for d in disciplines.keys() if d.lower() != "geral" and disciplines[d]["short"] != "Outros"],
+        key=lambda d: disciplines[d]["meta"].get("order", 99)
+    )
+
+    for d_name in sorted_disc_names:
         d_meta = disciplines[d_name]["meta"]
         prof_label = f"<span style='color:var(--text-dim); opacity:0.8;'>{disciplines[d_name]['prof']}</span>"
         badge_style = f"background:{d_meta['bg']}; color:{d_meta['color']}; border:1px solid {d_meta['border']};"

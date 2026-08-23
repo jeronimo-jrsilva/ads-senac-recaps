@@ -14,12 +14,12 @@ SEMANAL_DIR = REPO_ROOT / "s2_2026_2/02_semanal"
 PORTAL_DIR.mkdir(parents=True, exist_ok=True)
 
 DISC_STYLES = {
-    "Programação Orientada a Objetos": {"short": "POO", "color": "#f59e0b", "bg": "rgba(245, 158, 11, 0.12)", "border": "rgba(245, 158, 11, 0.4)", "tag": "tag-poo"},
-    "Linguagem C": {"short": "C", "color": "#06b6d4", "bg": "rgba(6, 182, 212, 0.12)", "border": "rgba(6, 182, 212, 0.4)", "tag": "tag-c"},
-    "Projeto Integrador": {"short": "PI", "color": "#a855f7", "bg": "rgba(168, 85, 247, 0.12)", "border": "rgba(168, 85, 247, 0.4)", "tag": "tag-pi"},
-    "Banco de Dados Relacional": {"short": "BD", "color": "#10b981", "bg": "rgba(16, 185, 129, 0.12)", "border": "rgba(16, 185, 129, 0.4)", "tag": "tag-bd"},
-    "Projeto de Extensão": {"short": "Ext", "color": "#ec4899", "bg": "rgba(236, 72, 153, 0.12)", "border": "rgba(236, 72, 153, 0.4)", "tag": "tag-ext"},
-    "Outros": {"short": "Outros", "color": "#94a3b8", "bg": "rgba(148, 163, 184, 0.12)", "border": "rgba(148, 163, 184, 0.4)", "tag": "tag-outros"},
+    "Projeto Integrador": {"short": "PI", "color": "#a855f7", "bg": "rgba(168, 85, 247, 0.12)", "border": "rgba(168, 85, 247, 0.4)", "tag": "tag-pi", "order": 1},
+    "Programação Orientada a Objetos": {"short": "POO", "color": "#f59e0b", "bg": "rgba(245, 158, 11, 0.12)", "border": "rgba(245, 158, 11, 0.4)", "tag": "tag-poo", "order": 2},
+    "Linguagem C": {"short": "C", "color": "#06b6d4", "bg": "rgba(6, 182, 212, 0.12)", "border": "rgba(6, 182, 212, 0.4)", "tag": "tag-c", "order": 3},
+    "Banco de Dados Relacional": {"short": "BD", "color": "#10b981", "bg": "rgba(16, 185, 129, 0.12)", "border": "rgba(16, 185, 129, 0.4)", "tag": "tag-bd", "order": 4},
+    "Projeto de Extensão": {"short": "Ext", "color": "#ec4899", "bg": "rgba(236, 72, 153, 0.12)", "border": "rgba(236, 72, 153, 0.4)", "tag": "tag-ext", "order": 5},
+    "Outros": {"short": "Outros", "color": "#94a3b8", "bg": "rgba(148, 163, 184, 0.12)", "border": "rgba(148, 163, 184, 0.4)", "tag": "tag-outros", "order": 99},
 }
 
 def get_disc_meta(disc_name):
@@ -924,7 +924,13 @@ def build():
         </div>"""
 
     discipline_view_html = "<details class='collapsible-section' open><summary>Trilhas de Aprendizado (2026.2)</summary><div class='collapsible-content'><div class='discipline-tracks'>"
-    for d_name in sorted(disciplines.keys()):
+    
+    sorted_disc_names = sorted(
+        disciplines.keys(),
+        key=lambda d: disciplines[d]["meta"].get("order", 99)
+    )
+
+    for d_name in sorted_disc_names:
         d_meta = disciplines[d_name]["meta"]
         prof_label = f"<span style='color:var(--text-dim); opacity:0.8;'>{disciplines[d_name]['prof']}</span>"
         badge_style = f"background:{d_meta['bg']}; color:{d_meta['color']}; border:1px solid {d_meta['border']};"
