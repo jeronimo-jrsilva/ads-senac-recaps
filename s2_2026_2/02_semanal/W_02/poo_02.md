@@ -54,11 +54,11 @@ public class LampadaLED {
 
 ---
 
-## 2. Modelagem de Domínio: Veículo e Conta Bancária
-A turma modelou classes de maior complexidade:
+## 2. Exemplos Didáticos de Domínio: Veículo e Conta Bancária
+Para consolidar os conceitos de regras de negócio e proteção de estado, o Professor Tibério apresentou e explicou dois exemplos clássicos de modelagem:
 
-- **Classe Veículo:** Atributos de velocidade e marcha manipulados por métodos `acelerar()`, `frear()` e `trocarMarcha()`.
-- **Classe Conta Bancária:** Encapsulamento de regras financeiras, garantindo que saques só ocorram se houver saldo suficiente, sem permitir que o saldo seja adulterado diretamente de fora.
+- **Exemplo Veículo:** Atributos de velocidade e marcha manipulados por métodos `acelerar()`, `frear()` e `trocarMarcha()`.
+- **Exemplo Conta Bancária:** Encapsulamento de regras financeiras, demonstrando como métodos como `sacar()` garantem que operações só ocorram com saldo suficiente, impedindo a alteração direta e insegura do saldo por código externo.
 
 ---
 

@@ -29,11 +29,11 @@ Foi definido o contrato pedagógico do semestre, valorizando diferentes perfis d
 
 ---
 
-## 3. O Ecossistema Enterprise: O Caso Gmail, JS e o Rigor do Java
-Foi traçada uma análise histórica da evolução das linguagens de mercado:
+## 3. O Ecossistema Enterprise: Curiosidade sobre JS e o Rigor do Java
+Foi traçada uma análise contextual da evolução das linguagens de mercado e do ecossistema corporativo:
 
-- **A Virada Histórica do JavaScript:** O JS nasceu na Netscape como linguagem de script para o navegador. Tibério narrou o momento de virada em que o Google utilizou JavaScript para estruturar o Gmail, provando que a linguagem suportava aplicações ricas no cliente. Posteriormente, com o motor V8 e MongoDB, conquistou o backend corporativo.
-- **Java e a Filosofia da JVM:** Criado sob o lema "Write Once, Run Anywhere", o Java compila código fonte para bytecode. Tibério explicou que a verbosidade do Java ("fazer um Olá Mundo parece uma redação") é uma escolha deliberada de engenharia para forçar contratos explícitos e segurança estática de tipos em sistemas de missão crítica.
+- **Curiosidade Histórica (A Evolução do JavaScript):** Como curiosidade de mercado, o professor comentou a evolução do JS, que nasceu na Netscape como script leve para navegadores e deu uma grande virada quando o Google o utilizou no Gmail (e mais tarde com o motor V8 e Node.js), provando sua flexibilidade.
+- **Java e a Filosofia da JVM (Foco da Disciplina):** Criado sob o lema *"Write Once, Run Anywhere"*, o Java compila código-fonte para bytecode interpretado pela Java Virtual Machine (JVM). Tibério explicou que a verbosidade e a formalidade do Java não são burocracia desnecessária, mas sim escolhas deliberadas de engenharia de software para garantir contratos de tipos explícitos, manutenibilidade e segurança em sistemas corporativos de grande porte.
 
 ```java
 // Estrutura canônica de uma classe em Java demonstrando contratos explícitos
