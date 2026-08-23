@@ -1,0 +1,3181 @@
+--- TRANSCRIÇÃO GPU WHISPER: 14ago-sex-fred.m4a ---
+Duração do Áudio: 186:10 | Tempo de Inferência: 8.81 min (528.5s)
+
+[00:00 - 00:11] A gente conseguiu contratar todas as soluções, são contratadas, são CLT, não são mais nem
+[00:11 - 00:19] processores temporários, eles são, foi feita a seleção, hoje é a equipe de escuros tecnológicos,
+[00:19 - 00:26] nós estamos com 10 professores na casa, para perder todos vocês, tá certo?
+[00:26 - 00:30] A gente está com a equipe que hoje em peso é uma equipe muito boa, tá certo?
+[00:30 - 00:34] A professora não estava em sabedoria, tá certo?
+[00:34 - 00:39] Que é para poder suprir toda a necessidade que hoje os alunos de tecnologia precisam.
+[00:39 - 00:43] São professores do mercado, tá certo?
+[00:43 - 00:46] Prosso Thiago, todo mundo conhece, até foi, né? Prosso Thiago?
+[00:46 - 00:46] Sim.
+[00:46 - 00:49] Assistei a aula, né?
+[00:49 - 00:53] o professor Diago vai comandar com vocês
+[00:53 - 00:55] projeto integrador
+[00:57 - 00:59] você já fez o projeto integrador
+[00:59 - 01:01] mais passado, né?
+[01:01 - 01:03] esse ano está um pouquinho diferente
+[01:03 - 01:05] do que aquela disciplina que era 100 horas
+[01:05 - 01:07] ela foi quebrada em 80 e 50
+[01:07 - 01:09] vai ter um projeto integrador
+[01:09 - 01:11] e a outra na realidade
+[01:11 - 01:13] é um projeto integrador de extensão
+[01:13 - 01:15] vou já explicar isso aqui
+[01:15 - 01:17] tá bom?
+[01:17 - 01:20] Você vai acabar o ser bem direitinho, como é que vai funcionar?
+[01:20 - 01:21] Ok?
+[01:21 - 01:22] Que é o nome?
+[01:22 - 01:23] O que você acha?
+[01:23 - 01:24] É...
+[01:24 - 01:26] Professor Tiberio, você já conhece?
+[01:26 - 01:27] Conheceu o professor Tiberio,
+[01:27 - 01:29] Tivera a aula com ele também?
+[01:29 - 01:31] O professor Pesas Arno?
+[01:31 - 01:32] Hum...
+[01:32 - 01:33] Tiberio, né?
+[01:33 - 01:34] Sério?
+[01:34 - 01:36] O professor Mestre, antes não estava sabendo.
+[01:36 - 01:38] O professor Vinicius.
+[01:38 - 01:40] Você já estudou com o professor Vinicius?
+[01:40 - 01:41] Sim, sim.
+[01:41 - 01:42] Você já estudou com o professor?
+[01:42 - 01:43] Não.
+[01:43 - 01:44] Não, né?
+[01:44 - 01:46] Então o professor Vinicius é um professor Mestre,
+[01:46 - 01:50] o senso da computação, a base dele é inteligência artescial,
+[01:50 - 01:53] e ele é pesquisador cientista.
+[01:53 - 01:56] Então vocês estão na mão de um cientista,
+[01:56 - 02:00] na mão, explorem o máximo do conhecimento dele.
+[02:00 - 02:02] Tá legal?
+[02:02 - 02:05] Professor Alexandre já tiveram aula com o professor Alexandre, se mais passaram?
+[02:05 - 02:06] Não.
+[02:06 - 02:07] Se tiveram não, né?
+[02:07 - 02:10] Professor Alexandre, que era hoje, estou substituindo,
+[02:10 - 02:18] O professor Alexandre é gestor de inovação e tecnologia do Banco Nordeste do Brasil.
+[02:18 - 02:22] O cara tem mais de 20 anos, o personal de carreira no Banco.
+[02:22 - 02:33] E ele vai passar essa disciplinazinha aqui, quando candidado, junto com o Tibério aqui, do negociador.
+[02:33 - 02:41] Você está com uma equipe de peso, vai ter muita aula e muito conteúdo para você trabalhar.
+[02:41 - 02:47] E essa disciplina de sábado, que eu fui muito endagado por todos,
+[02:47 - 02:51] como é que vai funcionar? Sábado eu trabalho, tenho um serruinino,
+[02:51 - 02:56] esse aqui diz que tem seis filhos, tem que cuidar do mundo de sábado, é esse bem?
+[02:56 - 03:06] Então, como é que a gente vai trabalhar hoje e sábado?
+[03:06 - 03:08] Vou mostrar o calendário, como é que vai ser sábado.
+[03:08 - 03:13] E o que é que essa disciplina, projeto integrador de extensão?
+[03:13 - 03:16] O Sué, ele vai explicar bem direitinho de vocês.
+[03:16 - 03:19] Amanhã não vai ter aula, que amanhã é sábado, era para ter amanhã, mas amanhã é dia
+[03:19 - 03:21] do Moçalão da Assunção.
+[03:21 - 03:26] Fereado, só em Fortaleza, já foi decretado pelo prefeito.
+[03:26 - 03:31] É, tá certo?
+[03:31 - 03:35] Mas a gente tem que obedecer ao calendário, tem gente.
+[03:35 - 03:41] A mulher é fereado, na cidade de Fortaleza.
+[03:41 - 03:45] Parece que o seu raio tem um horário especial, um funcionário de show,
+[03:45 - 03:56] O que é que é esse projeto integrado em extensão?
+[03:56 - 04:08] O MEC em 2018 foi baixado uma resolução para atender uma lei de 2014 que são as atividades de extensão
+[04:08 - 04:15] de atividades, de atividades, de atividades, de atividades, de atividades, de atividades,
+[04:15 - 04:22] de atividades, de atividades, de atividades, de atividades, de atividades, de atividades,
+[04:22 - 04:27] de atividades, de atividades, de atividades, de atividades, de atividades, de atividades,
+[04:27 - 04:32] de atividades, de atividades, de atividades, de atividades, de atividades, de atividades,
+[04:32 - 04:36] de atividades, de atividades, de atividades, de atividades, de atividades, de atividades,
+[04:36 - 04:46] É uma atividade, tá? É um projeto que a academia tem que fazer junto com a sociedade,
+[04:46 - 04:53] com a comunidade, tá certo? E ligado ao curso, atividades ligadas ao curso que você vai
+[04:53 - 05:02] fazer junto com a comunidade. Por exemplo, por exemplo, é uma determinada equipe, eles
+[05:02 - 05:09] montaram uma oficina para ensinar todos os estudantes da faculdade, que é a comunidade,
+[05:09 - 05:20] um desse aqui no centro, a usar o celular, as redes sociais com responsabilidade. Então
+[05:20 - 05:26] eles prepararam uma oficina, todo mundo foi explicar o que era rede social, como é que
+[05:26 - 05:31] funcionava, tem de bom, quer que tem de ruim nela, para a comunidade acabei. Eles fizeram
+[05:31 - 05:33] oficina, isso é uma atividade.
+[05:34 - 05:38] E a outra equipe pegou a mesma, mesmo projeto e foi replicada dentro da
+[05:38 - 05:41] comunidade, da igreja dele lá que ele participava, levou,
+[05:41 - 05:43] gostou tanto que levou lá para,
+[05:43 - 05:49] para onde ele frequentava e levou para fazer a mesma oficina.
+[05:49 - 05:50] Tá certo?
+[05:50 - 05:52] Outra equipe, ela pegou
+[05:54 - 05:55] e foi ensinar,
+[05:55 - 05:59] em um determinado local aí de idosos,
+[05:59 - 06:04] a configuração da Alexa para ajudar a vida do idoso no dia a dia.
+[06:04 - 06:09] Então eles estudaram, pesquisaram, que a Alexa podia fazer para um idoso
+[06:09 - 06:11] para ajudar no dia a dia deles.
+[06:11 - 06:14] Um deles, horário de remédio.
+[06:14 - 06:17] O idoso esquece.
+[06:17 - 06:20] Eu nem sou idoso, já esqueço, é que é para lá algumas coisas.
+[06:20 - 06:23] E chega lá e configura,
+[06:23 - 06:27] 6 horas da manhã tem tal remédio, 7 horas, tal remédio, 10 horas,
+[06:27 - 06:29] porque ele está configurando mesmo.
+[06:29 - 06:34] E outros pontos importantes, por exemplo, com uma chamada de emergência.
+[06:34 - 06:38] Será que se a Alexa pode ajudar um idoso numa chamada de emergência?
+[06:38 - 06:39] Pode, né?
+[06:39 - 06:43] Ela pode configurar um celular de chamada.
+[06:43 - 06:48] Por exemplo, o meu filho configurou a Alexa do meu soube
+[06:48 - 06:51] para uma chamada de emergência só ele chamando
+[06:51 - 06:54] e a pessoa já faz a descarte do telefone.
+[06:54 - 06:59] Então Alexia consegue fazer isso, sabia disso?
+[06:59 - 07:01] Sabia, quem sabia?
+[07:01 - 07:04] Então por exemplo, o idoso está aqui, cai por exemplo,
+[07:04 - 07:07] a Alexia está ali, Alexia, ligar para o Geronimo,
+[07:07 - 07:10] aí Alexia vai ligar para o Geronimo,
+[07:10 - 07:12] aí o Geronimo vai atender,
+[07:12 - 07:15] aí ele vai conseguir conversar com o Geronimo,
+[07:15 - 07:17] olha, eu caí, não posso me levantar,
+[07:17 - 07:19] chamo a ambulância e tal,
+[07:19 - 07:26] Então várias outras opções que eles foram fazer, fizeram, aficinam, ensinando as pessoas a configurar,
+[07:26 - 07:29] isso são trabalhos comunitários.
+[07:29 - 07:36] O professor mais projeto integrador, o projeto integrador pode ser uma atividade de extensão?
+[07:36 - 07:39] Pode, pode.
+[07:42 - 07:46] Como é que o projeto integrador pode ser uma atividade de extensão?
+[07:46 - 07:54] Da seguinte forma, o meu amigo aqui mora perto daquela placinha,
+[07:54 - 07:57] e naquela placinha cheia de encendentores ambulantes ali,
+[07:57 - 07:59] de...
+[07:59 - 08:02] Vou chamar de vendedor, vamos micro empresários,
+[08:02 - 08:06] pequenos empresários, que fazem o churrasquinho,
+[08:06 - 08:11] que fazem o sanduíbrazinha lá pra gente, a tapioca,
+[08:11 - 08:13] aquelas placinhas têm cheio de mil.
+[08:13 - 08:17] E ele disse que aqui no projeto integrador, ele resolveu fazer um software
+[08:17 - 08:23] para gerenciar esses pequenos micro empresários.
+[08:23 - 08:27] Vou fazer um softwarezinho para facilitar a vida do cara, para a cobrança,
+[08:27 - 08:29] para controlar o logstock dele, para...
+[08:29 - 08:32] Você teve a ideia, isso é, faz um software.
+[08:32 - 08:36] Se você fizer só o software que eu fazer, você vai atender isso aqui.
+[08:36 - 08:37] Tá legal?
+[08:37 - 08:42] O projeto integrador vai atender isso aqui, mas não vai atender o projeto de extensão.
+[08:42 - 08:46] Para atender o projeto de extensão, você precisa ir lá na praça,
+[08:46 - 08:52] chamar os micro e prezários, treinar eles, botar o software para rodar e verificar.
+[08:52 - 08:54] Você vai ter que fazer a exepção.
+[08:54 - 08:59] Compreender o que é a atividade de extensão.
+[08:59 - 09:03] O professor, eu vou já mostrar a lei e a lei.
+[09:03 - 09:06] Não é a faculdade de senarquia criou, isso vai do curso de medicina,
+[09:06 - 09:10] ao curso de licenciatura,
+[09:10 - 09:14] inclusive os cursos ZAD são obrigados
+[09:14 - 09:16] até as atividades de atenção.
+[09:16 - 09:19] Os cursos ZAD andam as atividades pra desciar
+[09:19 - 09:22] isso que eles têm de fazer, atividade de atenção.
+[09:22 - 09:24] Entendeu?
+[09:24 - 09:29] O professor Jeron, que eu já professo também,
+[09:29 - 09:33] ele é um especialista em dança.
+[09:33 - 09:35] É, é pra eu sou, né?
+[09:35 - 09:39] Aí você vai dizer, rapaz, nós vamos fazer várias oficinas lá na comunidade,
+[09:39 - 09:43] daquele idosozinho lá e nós vamos botar os idosinhos pra dançar.
+[09:43 - 09:46] Eu sei que não tá muito ligado, a tecnologia, mãe.
+[09:46 - 09:47] É que eu não fui idoso também.
+[09:47 - 09:48] Eu tô só lutando.
+[09:48 - 09:50] Bota o imóvel também?
+[09:50 - 09:51] Bota o imóvel também?
+[09:51 - 09:52] Bota o imóvel também?
+[09:52 - 09:53] Bota o imóvel também?
+[09:53 - 09:54] Bota o imóvel também?
+[09:54 - 09:55] Bota o imóvel também?
+[09:55 - 09:56] Bota o imóvel também?
+[09:56 - 09:57] Bota o imóvel também?
+[09:57 - 09:58] Bota o imóvel também?
+[09:58 - 09:59] Bota o imóvel também?
+[09:59 - 10:00] Bota o imóvel também?
+[10:00 - 10:01] Bota o imóvel também?
+[10:01 - 10:02] Bota o imóvel também?
+[10:02 - 10:09] projeto não vai sair da faculdade, vai ser de vocês, é vocês que vão escolher o que vão fazer, tá certo?
+[10:09 - 10:16] Então vocês, eu quero trabalhar por isso é que ele vai ensinar a montar vocês montarem a primeira parte,
+[10:16 - 10:22] esse primeiro mês aí, até a primeira avaliação, que vocês vai ser a entrega do projetinho, o que vocês vão fazer?
+[10:22 - 10:28] O que vocês vão fazer? Aonde é que vão fazer? Como é que vão fazer? Quais são os recursos?
+[10:28 - 10:40] Ah, para o sofrede a gente vai precisar, eu vou trazer um pessoal numa empresa e quero ensinar eles o uso de cartão de crédito responsável.
+[10:40 - 10:45] Quero ensinar eles essa turma dessa empresa e vou precisar do auditório do SENAQ.
+[10:45 - 10:52] Então você vai botar os ecruns que você vai precisar e a gente vai passar pela aprovação ou não, tá legal?
+[10:52 - 10:55] Ou uma negociação, tá certo?
+[10:55 - 11:00] Então, a gente tem que fazer esse aqui de atividade, né?
+[11:00 - 11:02] Todos os cursos estão com que fazer isso aqui.
+[11:02 - 11:03] Beleza?
+[11:03 - 11:08] Por isso é que quando a minha vida mais importante hoje era para até conversar sobre isso aqui,
+[11:08 - 11:10] para vocês terem a ideia de como é que vai ser.
+[11:10 - 11:16] Então, no dia 22, né, até a primeira aula presencial, no sábado, né?
+[11:16 - 11:19] Aí deixa eu explicar como é que funciona, como é que vai funcionar.
+[11:19 - 11:21] Vou já dizer como é que vai funcionar essas aulas sábadas.
+[11:21 - 11:22] Guiga.
+[11:22 - 11:31] sobre a extensão, a gente vai fazer numa escola, mas a gente tem que fazer a ligação da faculdade com uma escola
+[11:31 - 11:35] e isso você tem que dizer que isso é um aluno da faculdade senac
+[11:35 - 11:36] e então isso é...
+[11:36 - 11:39] e perguntando aqui, o senhor precisa ir lá?
+[11:39 - 11:43] não, não preciso não, mas a gente pode dar um documento, tá certo?
+[11:43 - 11:47] isso aqui o professor vai dizer que você é um aluno da faculdade senac
+[11:47 - 11:51] então, então indo para a escola para fazer uma atividade extensão
+[11:51 - 11:54] Aí a gente anexa o projeto, mostra lá o direito do direito do avó.
+[11:54 - 11:56] Isso aí que o gente fica documentado.
+[11:56 - 12:02] Quando o MEC chega para fazer a nossa avaliação, ele vai pedir tudo isso aí.
+[12:02 - 12:06] Você pode fazer em dois lugares diferentes?
+[12:06 - 12:08] Pode fazer em dois lugares diferentes.
+[12:08 - 12:12] Ok? Não tem problema.
+[12:12 - 12:16] O pessoal faz muito em escola, faz muito em escola.
+[12:16 - 12:17] A sério?
+[12:17 - 12:23] O expulso da saúde já fazia isso de forma assim, a tomate de medicina, enfermais, se
+[12:23 - 12:29] lembra aquela semana na praça que todo mundo vai tirar pressão dos dosos, vacina, não
+[12:29 - 12:34] sei o que, o pessoal da saúde tinha muito mais espaço, mas os outros expulsos não tinham.
+[12:34 - 12:38] E depois eu fui compreender o que é que eu não é que fez isso.
+[12:38 - 12:43] Muitas faculdades não engoliram, até hoje tem universidade federal ainda batendo o pé
+[12:43 - 12:46] nisso aí, grandes faculdades.
+[12:46 - 12:52] diz que tira tempo de conteúdo e tal, mas tem um fator que é muito importante que é a adaptação
+[12:52 - 13:00] do jovem junto com a comunidade, junto com a... tem pessoas que são muito tindas, né? Pessoas que são
+[13:00 - 13:07] muito tindas, como é que elas vão? Então isso é uma forma de ajudar a esses alunos a começar a se
+[13:07 - 13:11] desenvolver, a começar a estar junto com a sociedade para ir percebendo os problemas das
+[13:11 - 13:16] sociedade, porque nós aqui somos personagens de isso, mas nós vamos resolver
+[13:16 - 13:22] o problema da sociedade, de forma geral sim, é claro que nós vamos trabalhar, vamos
+[13:22 - 13:27] estudar, vamos ganhar nosso dinheiro, a gente quer a nossa formação,
+[13:27 - 13:31] quer isso e tal, mas a gente quer, tem que fazer algo pela sociedade também,
+[13:31 - 13:36] isso é parte de toda a condilagem do mundo. Aí eu me lembrei muito,
+[13:36 - 13:38] É, gerão, do meu irmão,
+[13:38 - 13:40] o teu irmão que é o famoso CDF.
+[13:40 - 13:42] Você sabe que é CDF, né?
+[13:42 - 13:44] Então não sabe que é CDF, né?
+[13:44 - 13:46] Você sabe que é CDF, sabe não?
+[13:46 - 13:48] Depois explica pra ele, né?
+[13:48 - 13:50] É, porra, né?
+[13:50 - 13:52] CDF da minha época era muito estudioso,
+[13:52 - 13:54] passava o tempo citado,
+[13:54 - 13:56] uma poupança na cadeira,
+[13:56 - 13:58] na série estudando,
+[13:58 - 14:00] que era passado estudando,
+[14:00 - 14:02] de uma entidade muito, né?
+[14:02 - 14:04] É, a turma que passa puíta,
+[14:04 - 14:06] Então meu irmão é um CDF.
+[14:06 - 14:10] E meu irmão fez a doutorologia de universidade federal.
+[14:10 - 14:13] O CDF estudou, nota a máxima em todas as disciplinas,
+[14:13 - 14:14] aquele negócio todo.
+[14:14 - 14:15] Aí se formou.
+[14:15 - 14:16] Aí ele chegou e disse,
+[14:16 - 14:19] pai, e agora o que eu vou fazer?
+[14:19 - 14:24] Como é que eu vou cobrar um trabalho que eu vou fazer?
+[14:24 - 14:28] Como é que eu vou atender uma pessoa que não pode pagar?
+[14:28 - 14:32] E como é que eu vou fazer isso?
+[14:32 - 14:35] cara, só o rei estudando, aprendendo e tal, né?
+[14:35 - 14:38] Aí, graças a Deus, ele foi pro exército, né?
+[14:38 - 14:42] Passou uma seleção do exército, foi trabalhado no exército, aí começou a se desenvolver,
+[14:42 - 14:47] vamos dizer assim, não profissional, o lado dele, o lado necessário dele, né?
+[14:47 - 14:48] Tá certo?
+[14:48 - 14:52] Depois, ele montou um constor no interior e às vezes ele gargou, né?
+[14:52 - 14:56] Cara, chegou a quinte nem nada, nada, nada, tive que...
+[14:56 - 15:01] ajustar o cara com muita dor, tive que fazer e tal, tava pra mim.
+[15:01 - 15:09] mas tinha que fazer, como é que eu podia deixar o cara, né, tem a ética da profissão que não pode deixar o cara o paciente, né,
+[15:09 - 15:18] aí meu pai disse, é, mas você precisa ganhar porque você precisa manter, como é que você vai manter o seu aluguel,
+[15:18 - 15:27] vou usar aparelhos, o material que é caro, como é que você vai fazer um serviço se você não tiver essa capacidade também de cobrar para o seu serviço?
+[15:27 - 15:41] Não é você ver voluntário, você não é voluntário, você precisa dinheiro, você precisa dinheiro para comprar seu livro, comprar o material, você aperfeiçoar, não é um trabalho voluntário, o trabalho voluntário é diferente.
+[15:41 - 15:54] Quando você está ganhando muito dinheiro, você pode até botar um consultório no interior e atender os pacientes graças lá, mas a vontade não é de ganhar dinheiro do outro lado, para poder mancar aquilo ali, você precisa.
+[15:54 - 15:57] Então, aí ele foi se desenvolvendo.
+[15:57 - 15:59] E a gente precisa fazer isso.
+[15:59 - 16:01] Vários colegas, várias pessoas,
+[16:01 - 16:05] eu tinha vários colegas da minha área que era todo o primeiro lugar na vida
+[16:05 - 16:08] e não foram pessoas de sucesso, bem sucessivas.
+[16:08 - 16:10] Não foram, não foram.
+[16:10 - 16:13] Pessoas mesmo que tiraram a nota da rede do peço alfim,
+[16:13 - 16:15] medalha e tal, e não eram pessoas bem sucessivas.
+[16:15 - 16:19] Por quê? Porque era muito tinta, muito recatada,
+[16:19 - 16:24] muito, a pessoa não sabe se comportar, não sabe viver em comunidade, né?
+[16:24 - 16:28] Porque hoje a gente tem que saber trabalhar em equipe, ninguém é igual,
+[16:28 - 16:34] não vai ter problema, um pode, outro não pode, um só quer passar o eslaio,
+[16:34 - 16:38] um não quer fazer nada, o outro quer fazer tudo por todo mundo, tá?
+[16:38 - 16:41] E é equipe, gente, a gente tem que estar reunindo para aprender a fazer isso,
+[16:41 - 16:44] para conviver dessa forma, tá certo?
+[16:44 - 16:45] Tá ok?
+[16:45 - 16:48] E faz parte do aprendizado, você sabe que hoje você...
+[16:48 - 16:53] Quem trabalha, quem trabalha com um profissional liberal, uma coisa,
+[16:53 - 16:57] ah, mas eu tenho o meu gabinete, eu atendo sozinho,
+[16:57 - 16:59] eu atendo sozinho, não, tu depende do virgir lá do prédio,
+[16:59 - 17:02] tu depende do atendente, tu depende do montão de gente,
+[17:02 - 17:05] que você precisa conviver para poder ser o meu,
+[17:05 - 17:07] ao funcionar, até dos clientes, né?
+[17:10 - 17:14] Então, pessoal, o objetivo dessa disciplina é exatamente isso aqui,
+[17:15 - 17:15] tá certo?
+[17:15 - 17:18] Eu vou já mostrar aqui as datas, como é que vai,
+[17:18 - 17:27] funcionar essas datas. Tá legal? Aí tem a disciplina de competências, tá?
+[17:27 - 17:36] E foram aquelas disciplinas AD que deu muito problema, muita confusão, porque quando eu cheguei aqui, elas não estavam
+[17:36 - 17:42] elas não estavam locadas pra vocês e eu tive que fazer todo o trabalho, vocês fizeram na plataforma, confere?
+[17:42 - 17:45] Se fizeram a disciplina a plataforma, como fez?
+[17:45 - 17:46] Sim, um professor.
+[17:46 - 17:48] Fez a disciplina a plataforma?
+[17:48 - 17:49] Espera aí.
+[17:49 - 17:54] Não sei se gostaram, a disciplina aí, ela é uma plataforma.
+[17:54 - 17:55] Vamos ficar.
+[17:55 - 18:00] Então aí, é só para a gente saber que a gente está a disciplina.
+[18:00 - 18:01] Não, vocês vão ter que fazer mesmo.
+[18:01 - 18:04] Então a disciplina é para um outro, para tudo.
+[18:04 - 18:06] Aí tem um horário que a gente vai entrar no vídeo.
+[18:06 - 18:08] Isso, isso, isso, é tudo registrado.
+[18:08 - 18:10] É tudo registrado.
+[18:10 - 18:17] Todo registrado, não é para a MEC saber não, é para vocês aprenderem mesmo, é obrigatória, faz parte do aprendizado.
+[18:17 - 18:25] Não, eu estou perguntando, é que tipo, vocês tinham que encaixar na grade, aí votaram no sábado, e sem caite pode fazer...
+[18:25 - 18:33] É porque elas já eram disciplinas, nem AD, elas já eram disciplinas, que era para estar, ter sido informado desde o primeiro dia para vocês.
+[18:33 - 18:37] E quando eu peguei, aí eu disse, cara, cadê essa disciplina?
+[18:37 - 18:39] Não, ela só começa um depois.
+[18:39 - 18:41] Eu disse, é, mas o saldo não tem que ficar sabendo.
+[18:41 - 18:43] Aí foi depois que a gente...
+[18:43 - 18:44] Ah, onde é que vai ser aí?
+[18:44 - 18:46] Ah, vai ser no ar, na plataforma A.
+[18:46 - 18:48] Aí disseram que a plataforma A tinha problema,
+[18:48 - 18:51] aí a gente foi corrigindo, até a gente conseguiu lutar para rodar.
+[18:51 - 18:56] O que ele quer saber é que se a gente vai ter que fazer justamente no horário que está ali...
+[18:56 - 18:58] Não, não, não, não.
+[18:58 - 19:01] Você vai explicar o horário bem direitinho.
+[19:01 - 19:05] o horário bem direitinho dela, sério? Ok?
+[19:05 - 19:08] Vou explicar o horário bem direitinho dela aqui.
+[19:08 - 19:13] Pessoal, vocês entenderam que é a ciclina, os professores, os gis, está tudo anotadinho aí,
+[19:13 - 19:19] está tudo legal aqui, essa primeira parte. Beleza? Beleza?
+[19:19 - 19:23] Vou colocar aqui, tá?
+[19:23 - 19:33] Mas antes de abrir este arquivo, eu quero abrir este aqui.
+[19:41 - 19:43] Dá para ler aí só o começo?
+[19:43 - 19:51] Isso aqui é a resolução de 7, 8, 10, 20, 18, que é exatamente a estabelecer a diretriz
+[19:51 - 19:57] para a extensão da educação superior brasileira e o regimento expor de tal, tal, tal, na lei
+[19:57 - 20:03] aprovado pelo Plano Nacional de Educação de 2024 e da Outras Porto.
+[20:03 - 20:04] Não é?
+[20:04 - 20:08] Em 2014, a domínica que eu acho que é.
+[20:08 - 20:09] Ok?
+[20:09 - 20:11] Então, o que é que diz aqui, né?
+[20:11 - 20:17] Aqui, essa lei ele vai, professor, aí ele vai passar para vocês com mais detalhes,
+[20:17 - 20:19] só mostrar aqui para vocês.
+[20:19 - 20:23] Que não é a invenção do professor Fred,
+[20:23 - 20:27] que o professor Fred era um inventor, né?
+[20:27 - 20:37] As atividades de extensão devem propor no mínimo 10% da carga horária, por rico-hazto,
+[20:37 - 20:41] no sentido de um escurso de graduação, as quais deverão fazer parte da matriz por
+[20:41 - 20:42] rico-hazto escurso.
+[20:42 - 20:49] A lei está dizendo que o curso de volceição é 2 mil horas, ou seja, vamos ter que fazer
+[20:49 - 20:51] 200 horas dessas atividades.
+[20:51 - 20:52] Beleza?
+[20:52 - 20:56] Então está a 50 por semestre.
+[20:56 - 21:01] primeiro, segundo, terceiro, quarto, das 200 horas, o que se mexe a gente vai deixar só pra
+[21:01 - 21:06] só pra o projeto integrador, o mesmo projeto final do curso, aquele negócio. Então esses quatro
+[21:06 - 21:11] primeiros se mexem, a gente já vai recuperar um pouquinho do se mexe passado, tá certo?
+[21:11 - 21:18] Tá? Não tem o que for feito, certo? Então tem aqui ó, a interação dialógica da comunidade
+[21:18 - 21:23] acadêmica, uma sociedade com meio de troca de conhecimentos, da participação do contato,
+[21:23 - 21:27] com as questões complexas contemporâneas presentes no texto social.
+[21:27 - 21:30] Então, toda legislação aqui,
+[21:30 - 21:33] o professor vai fazer para você e vai discutir com você e ver direitinho.
+[21:33 - 21:37] Porque que é importante a participação de vocês nessa primeira aula?
+[21:37 - 21:39] Porque vocês vão exatamente entender isso aqui,
+[21:39 - 21:41] com detalhes.
+[21:41 - 21:44] Ele vai começar a colocar vocês para fazer a ideiação.
+[21:44 - 21:46] Qual é a ideia de vocês?
+[21:46 - 21:48] Primeiro pai vai ser a nova ideia.
+[21:48 - 21:50] O que vocês querem fazer?
+[21:50 - 21:51] Vamos dividir equips, né?
+[21:51 - 21:52] Quem é equipe?
+[21:52 - 21:57] Se alguém quiser fazer sol, pode até fazer sol, mas o ideal é que seja aqui.
+[21:57 - 22:01] Você falou com a ECG 22, o senhor falou com a ECG 22, menos...
+[22:01 - 22:02] 22.
+[22:02 - 22:04] Você já tem o horário?
+[22:04 - 22:05] De manhã, né?
+[22:05 - 22:06] Pelo amanhã?
+[22:06 - 22:07] Pelo amanhã, o mesmo horário da aula.
+[22:07 - 22:09] Você vai fazer de 9 a meu dia, né?
+[22:09 - 22:10] Pra não começar tão cedo, né?
+[22:10 - 22:11] Deixa o pessoal.
+[22:11 - 22:14] Mas a gente vai combinar, comprou sua erva, tá?
+[22:14 - 22:16] Vai ter que aproveitar o...
+[22:16 - 22:18] O Tumac Passado, não?
+[22:18 - 22:21] Tá. E outra coisa, vocês vão fazer...
+[22:21 - 22:24] A disciplina junto com a turma da noite.
+[22:24 - 22:27] Isso é disciplina, é disciplina de se mexer.
+[22:27 - 22:29] Vai estar você e vai estar turma da noite.
+[22:29 - 22:31] O segundo se mexe está a noite.
+[22:31 - 22:33] Ele aqui conhece, não, Geronimo? Que estava lá na noite, tá certo?
+[22:33 - 22:36] Então essa turma vai ser junta? Tudo bom, meu amigo?
+[22:36 - 22:40] Então essa turma vai ser junta, tá legal?
+[22:40 - 22:42] Essa turma vai ser junta.
+[22:42 - 22:45] Pode fazer equipe com eles, pode, entendeu?
+[22:45 - 22:49] Vocês vão interagir porque faz parte do processo, tá?
+[22:49 - 22:53] Você pode ter um chefe de vocês e ele vai trabalhar com você e cheirar
+[22:53 - 22:55] Primeiro que vai ser a ideia de vocês
+[22:55 - 22:57] Qual vai ser a minha ideia? O que eu vou fazer?
+[22:57 - 23:00] Com essas atividades, vocês vão começar a explorar
+[23:00 - 23:05] Entra lá no chefe eterno, vamos usar inteligência social para nos ajudar a fazer isso
+[23:05 - 23:11] Eu sou aluno do curso de Análise e envolvimento de sistema
+[23:11 - 23:15] E tenho que fazer uma atividade extensão, o que você me sugere que eu faça junto com a comunidade?
+[23:15 - 23:18] Ele vai me dar várias surhas também, tá certo?
+[23:18 - 23:23] Ok? E além das que você já fez na cabeça,
+[23:23 - 23:25] eu não quero fazer, eu quero fazer isso aqui que é diferente.
+[23:25 - 23:28] Converse com um professor ou com sua catáfora.
+[23:28 - 23:33] Normalmente eles são para não mudar o projeto de vocês,
+[23:33 - 23:35] o projeto está de vocês, tá certo?
+[23:35 - 23:36] A ideia de vocês.
+[23:36 - 23:38] Tá legal gente?
+[23:38 - 23:43] Então aqui está toda a colímpica, ele vai passar isso aqui para vocês,
+[23:43 - 23:46] dar uma lida, porque muita gente contexta.
+[23:46 - 23:48] Sabe por que está isso aí? O Senac inventa muita coisa, né?
+[23:48 - 23:54] A faculdade de Senac acha que corre para inventar, mas ela é lei, é obrigado a todas as faculdades que estão fazendo isso.
+[23:54 - 23:59] Se você pegar todo o corrigo das faculdades que foram alteradas, tá?
+[23:59 - 24:00] É...
+[24:00 - 24:02] Tá com essa...
+[24:02 - 24:06] Já vem com essas disciplinas aí, com a recolabilização. Legal?
+[24:06 - 24:08] Efeito?
+[24:08 - 24:10] Tá?
+[24:10 - 24:12] Bom...
+[24:12 - 24:19] Aí eu vou mostrar aqui...
+[24:28 - 24:30] Com você e com todos os professores, tá?
+[24:30 - 24:33] Para passar, no primeiro dia de aula, todas as amêntas.
+[24:33 - 24:36] Eu não sei se vocês já assistiram a passar as amêntas para vocês.
+[24:36 - 24:38] E o program... o programas do curso.
+[24:38 - 24:45] o cronograma do pulso. Se a geroleta tem já duro, tiver vins, vou pedir para eles passarem,
+[24:45 - 24:52] se não passarem, todas asementas, tem que ser de onde está, já necessariamente ser
+[24:52 - 24:56] mais maior, deficiar a importância de algo ali, ferramentas, fulco de salgamos, problemas
+[24:56 - 25:01] clássicos de lógica, deficiando de um ou de variável tipo de dados, operadores, alimptimétricos
+[25:01 - 25:06] digital, estrutura e condicionais, alinhamento, tudo isso aqui tem que colocar.
+[25:06 - 25:15] Foi até um questionamento que eu fiz pro Vinícius que basicamente todo esse conteúdo
+[25:15 - 25:17] a gente viu no primeiro semestre.
+[25:17 - 25:21] De um embaixo, né?
+[25:21 - 25:23] De um embaixo, né?
+[25:23 - 25:24] Diferente não é.
+[25:24 - 25:25] A gente viu embaixo.
+[25:25 - 25:28] Então, mas ele vai aprofundar um pouco mais, tá?
+[25:28 - 25:31] Com certeza ele vai aprofundar um pouco mais, tá?
+[25:31 - 25:36] Mas vamos conversar com isso aí, ver o que foi visto, quem foi que deu o semestraco?
+[25:36 - 25:37] Você foi o Otônio?
+[25:37 - 25:38] O Otônio.
+[25:38 - 25:39] O Otônio, né?
+[25:39 - 25:44] Vamos estar ao Vinícius para conversar com o Otônio para ver o que realmente ele passou,
+[25:44 - 25:47] porque ele teve aquele problema lá do outro pessoal, né?
+[25:47 - 25:53] Aí vamos botar o Otônio com o Vinícius para conversar e o que puder explorar mais, o que não foi visto,
+[25:53 - 25:57] para perfecionar mais a atividade de vocês, tá bom?
+[25:57 - 25:58] É legal?
+[25:58 - 26:00] Ah, foi o subversal?
+[26:00 - 26:01] O que é isso?
+[26:01 - 26:14] Com certeza isso aqui tudo que a gente vê isso aqui é pouco, porque a gente passa a vida
+[26:14 - 26:16] todo estudando isso aqui.
+[26:16 - 26:22] Mas pode conversar com eles, é aberto, né gente?
+[26:22 - 26:26] Eu acho assim, que a gente tem que ter essa abertura,
+[26:26 - 26:30] de eu que não achar que não está legal, e lá conversar.
+[26:31 - 26:35] Não é brigar com alguns colegas aí que têm que conversar.
+[26:35 - 26:38] Está acontecendo isso, isso, isso, como é que a gente pode,
+[26:38 - 26:40] qual caminho que está.
+[26:40 - 26:45] Por exemplo, eu recebi uma comissão de alunos com o problema da internet,
+[26:45 - 26:49] que acesse e tal, a gente já conversou, já achou uma direção,
+[26:49 - 26:51] os caras estão vindo pra cá, né?
+[26:51 - 26:56] Pro Soluís mandou chamar toda a equipe de TI do Senado, do grupo da Fé Comércio
+[26:56 - 26:59] pra vir aqui pra gente discutir o que precisa pra melhorar, eu falo, tá?
+[26:59 - 27:01] Pra me desmelorar, e se acessa.
+[27:01 - 27:03] Hoje o meu taiô não se acessa.
+[27:03 - 27:05] Isso é? Então...
+[27:05 - 27:08] A gente tem acesso a rede, tem tudo, mas a gente tem problema, oi?
+[27:08 - 27:11] A gente tem que intercrescer pra não funcionar.
+[27:11 - 27:13] Pois é, pois já é.
+[27:13 - 27:14] É...
+[27:14 - 27:16] É, pelo menos no mínimo básico, né?
+[27:16 - 27:19] porque o que acontece é que a gente tem uma rede aberta em hotspot,
+[27:19 - 27:20] tá certo?
+[27:20 - 27:21] Que não tá precisar.
+[27:21 - 27:23] A gente tem a rede aberta que ela cai no mundo.
+[27:23 - 27:30] Aí a outra rede que é ligada com o servido das máquinas, essas até funcionam bem melhor.
+[27:30 - 27:34] Mas às vezes o professor vem aqui para dar aula e tal, pra usar a rede aí.
+[27:34 - 27:35] Tá certo?
+[27:35 - 27:38] A gente tá vendo todos esses problemas aí, tá certo?
+[27:38 - 27:40] Como é que a gente vai solucionar no menor próximo círculo?
+[27:40 - 27:42] O pessoal tá vindo aí aqui e vê o que é preciso.
+[27:42 - 27:49] porque a gente chegou tomando o robo, se mais passava tinha 170 alunos, vamos para 450 alunas agora
+[27:49 - 27:55] aí a gente não estava preparado para esse alunos, mas a gente estava resolvendo assim
+[27:55 - 28:00] estamos trabalhando, se Deus quiser o mais breve possível a gente resolve
+[28:00 - 28:03] para a necessidade de todo, tudo iria para cima
+[28:03 - 28:17] Então pessoal, aqui está todas as disciplinas detalhadas, então pedi os professores, vou
+[28:17 - 28:23] cobrar os professores para passar esse processo, qualquer forma eu tenho aqui, não se aberto,
+[28:23 - 28:25] Não tem...
+[28:27 - 28:29] Aí aqui tem a primeira, hein?
+[28:30 - 28:31] Pertou, pimentou.
+[28:31 - 28:37] Isso aqui é outra disciplina, essa aqui é a D, sempre é a D essa disciplina, sabe?
+[28:38 - 28:43] Que as relações éticas racionais em história da cultura brasileira indígena, tá?
+[28:44 - 28:47] É uma disciplina, essa é obrigada também, tê, Dino Mac.
+[28:47 - 28:51] São quatro, são três disciplinas que são obrigadas, Dino Mac.
+[28:51 - 28:58] Uma é a atividade distinção, tem que estar no correio.
+[28:58 - 29:09] Outra é essas disciplinas de queda que racional, direitos humanos e comunicação, são obrigadas.
+[29:09 - 29:14] E a outra é libras.
+[29:14 - 29:18] A gente vai ter que ver como é que eu vou fazer, vocês vão ter que fazer um curso de libras.
+[29:18 - 29:20] É, é obrigado. Ela aí também.
+[29:24 - 29:31] Gente, não sabe morrer se eu usar aparelho auditivo, depois que eu passei a usar o aparelho auditivo, eu vi quantas pessoas têm problema de audição total.
+[29:32 - 29:36] Quando eu vou no lugar, não é a audição total, não é a pessoa. Então, a pessoa quer uma, tem que se comunicar comigo.
+[29:37 - 29:39] Mas é muita gente. É muita gente.
+[29:40 - 29:43] O problema é que essas pessoas são afastadas, elas se afastam mesmo.
+[29:43 - 29:48] ela tem dificuldade de se comunicar, elas acabam se afastando.
+[29:48 - 29:54] Então, é um trabalho que vem sendo feito muito grande em todas as instituições,
+[29:54 - 29:56] todos os cológicos que é a partir de inclusão.
+[29:56 - 30:01] Então, as universidades são obrigadas por toda essa atividade de inclusão,
+[30:01 - 30:04] inclusive pessoas com vários anos de vida da ciência.
+[30:04 - 30:07] Deve ter sido de órgão, de aprendizado,
+[30:07 - 30:15] Então hoje a gente recebe todos os alunos com a obrigação da instituição, por isso que também vai
+[30:15 - 30:22] estar no departamento psicólogico, que é para ajudar os processores a gente a trabalhar com
+[30:22 - 30:28] esses colegas, com essas pessoas que precisam estar juntas à sociedade. Todas elas precisam estar,
+[30:28 - 30:35] Quem tem familiar, com problema, com tudo sabe, a necessidade dessa impusão, tá?
+[30:35 - 30:42] Quem tem... Então é uma das disciplinas que vocês vão ter que se mexer.
+[30:42 - 30:49] Tem que ter uma professora... Isso aqui vai ser a professora Nájaro, tá?
+[30:49 - 30:55] Vai ser toda a ADM. A primeira aula, também já estou com data marcada ali, ela vai fazer...
+[30:55 - 30:58] Eu pedi para ela fazer de forma síncrona, uma aula síncrona.
+[30:58 - 31:01] Não vai, não vai para exemplo, ser de jeito para a faculdade, né?
+[31:01 - 31:06] Ela pode fazer, vai fazer um pedacinho de manhã e um pedacinho a tarde, sabe?
+[31:06 - 31:10] Porque quem trabalha de manhã, você pode assistir a tarde e tal,
+[31:10 - 31:12] para a gente dar uma flexibilidade para vocês poderem ter acesso.
+[31:12 - 31:16] O restante vai ser tudo é a dele, vocês vão consultar a plataforma A,
+[31:16 - 31:21] vão entrar lá dentro da plataforma e vão fazer as atividades, leitura e atividade.
+[31:21 - 31:23] Tô perdido, tô perdido, me ajudo.
+[31:23 - 31:28] A gente tem três disciplinas que não vão ser de segunda a sexta.
+[31:28 - 31:30] Não sei, vão ser de segunda a sexta.
+[31:30 - 31:34] Isso é certo. Bom, essa aqui pode funcionar, o dia que você quiser.
+[31:34 - 31:37] Deixa eu concluir minha questão, por favor.
+[31:37 - 31:43] Três disciplinas, aí algumas delas vão ter encontros presenciais, outras vão ser 100% online, é isso?
+[31:43 - 31:45] Eu já mostrei a data, estou diando delas.
+[31:45 - 31:47] Eu tô com um calendário todo em um equipamento.
+[31:47 - 31:49] Certo, mas nem todas vão ter encontros presenciais.
+[31:49 - 31:52] de segunda a sexta-feira todas vão ser presenciais
+[31:52 - 31:52] sabendo
+[31:52 - 31:55] toda disciplina de segunda-feira são presenciais
+[31:55 - 31:58] pode ter até 30% de aulas remotas
+[31:58 - 32:03] como hoje, para o seu viajou ele podia fazer uma aula remota para o seu
+[32:03 - 32:07] ele tem direito a fazer três aulas do curso do Nantil Simécio para vocês
+[32:07 - 32:09] remotamente, tá?
+[32:09 - 32:11] ok gente?
+[32:11 - 32:18] porque a lei diz que até 30% da carga horária dos cursos presenciais podem ser realizados de forma remota
+[32:18 - 32:27] Então, essas três lindas, a gente tem duas, onde a gente vai ter contas presenciais, e uma que vai ser 100% online.
+[32:27 - 32:33] Vou já botar o calendário e a gente vai ficar bem claro isso aí.
+[32:33 - 32:38] Uma das minhas vindas aí é para deixar isso bem claro, porque gerou questionamentos.
+[32:38 - 32:45] Então, pessoal, toda aqui, a bibliografia do Seiite está certa.
+[32:45 - 32:56] A competência pessoal, é o custo segundo semestre, essa aqui a gente diz que é uma
+[32:56 - 33:03] disciplina híbrida, elas são 40 horas, são 12 horas presenciais e 28 horas removidas.
+[33:03 - 33:08] Como é que vocês são essas almas presenciais? Eu vou já explicar, vai ter uma presencial
+[33:08 - 33:12] mesmo dia 22, presente, sabe?
+[33:12 - 33:18] E as outras, os outros dois encontro que são quatro horas de encontro, tá?
+[33:18 - 33:20] Então a gente...
+[33:20 - 33:24] Os outros dois são para as avaliações, que é obrigado a ser presenciais, mas ao...
+[33:24 - 33:29] Todo o curso remoto, as provas têm que ser presenciais, tá?
+[33:29 - 33:35] Quando a gente vai passar, mas não fizemos e tal, mas esse ano a gente tá fazendo essa correção, ok?
+[33:35 - 33:40] vai ter a correção, então todos vão fazer sua provinha, vão
+[33:40 - 33:54] vem aqui, faz a provinha e tal, que é o professor dela, é o professor, professor Danilo, o professor
+[33:54 - 34:00] Danilo vai estar aqui também, ele ensina que a semana toda, praticamente, então pode ser que
+[34:00 - 34:04] vocês precisarem para marcar um horáriozinho com ele na semana, se não puder no sábado,
+[34:04 - 34:06] para tirar dúvidas sobre a matéria.
+[34:06 - 34:10] E lá dentro da plataforma também vocês vão conseguir tirar a servida.
+[34:10 - 34:13] Vou já colocar o calendário, todo dia um aqui,
+[34:13 - 34:15] para ficar bem claro para vocês.
+[34:15 - 34:18] Se tiver algum problema, conversa com a gente,
+[34:18 - 34:20] que a gente vai ver como é que se solução.
+[34:20 - 34:23] A gente sabe que todo mundo tem problema,
+[34:23 - 34:26] sábado às vezes é o dia de você levar o meu carro para falar,
+[34:26 - 34:32] eu não trabalho, mas eu tenho que levar meus cachorrinhos nos animais para o pete,
+[34:32 - 34:36] tem o que fazer isso, ao dia que eu pensar, papapapa, então, todo mundo tem atividades,
+[34:36 - 34:42] né? Mas, aí existe, né? É como eu digo, o curso de vocês é um curso dois anos e
+[34:42 - 34:52] meio, é um curso muito intenso, tá? São muitas atividades, é legal? E o que é mais?
+[34:52 - 34:59] E o projeto integrador de extensão, né? Que são um de as atividades extensíveis,
+[34:59 - 35:04] É? Que os professores vão explicar com bem detalhes pra você. Beleza aí? Até aí.
+[35:07 - 35:13] Tem que ser uma máquina, né, Fred? Por que você pensa o seguinte? Eu tenho uma aula na segunda-feira de Praia de Estensão.
+[35:13 - 35:17] Na terça-feira eu já môto pra outro tipo de matéria.
+[35:18 - 35:23] Na quarta e quinta eu já tenho outro tipo de matéria. Na sexta-feira eu já tenho outro tipo de matéria.
+[35:23 - 35:27] quando for no sábado, não tem o que incluir outro tipo de matéria
+[35:27 - 35:30] quando é que vou estudar as primeiras matérias que eu passei na semana
+[35:30 - 35:34] que a lógica era passear o final de semana pra eu pegar isso aí
+[35:34 - 35:34] é muito ruim
+[35:34 - 35:38] mas a matéria de segunda-feira, que é o projeto integrador
+[35:38 - 35:42] ele vai exatamente integrar todas as disciplinas da semana que você está vendo
+[35:42 - 35:45] ele é baseado em isso aí, então a gente já vai dar uma grande ajuda no você
+[35:45 - 35:48] isso é que você que te água com a vália acompanha o seu índice
+[35:48 - 35:49] é legal?
+[35:49 - 35:51] a gente vai ficar acompanhando
+[35:51 - 35:53] porque é um índice
+[35:53 - 36:00] Primeiro se mexe a mal menos, segundo não, o próximo é mais casado ainda e vai ficando mais casado.
+[36:00 - 36:05] Acaba que, nessa lógica que a gente fala desses projetos aí, que sábado aí,
+[36:05 - 36:12] acaba que na lógica não se compara com o que a gente tem que estudar, que é focado na tecnologia.
+[36:12 - 36:16] Mas é um problema de faculdade.
+[36:16 - 36:18] Estava até pesquisando, por exemplo,
+[36:18 - 36:21] Libras não tem na escola pública,
+[36:21 - 36:24] logo do começo, mas é obrigatório na faculdade.
+[36:24 - 36:29] Aí não tem lógica, né, uma criança que pode ser que tenha aprendido do começo,
+[36:29 - 36:32] um cara tá de cavalo já,
+[36:32 - 36:34] o ato vai aprender.
+[36:34 - 36:36] Na Universidade Federal,
+[36:36 - 36:39] na Universidade Federal,
+[36:39 - 36:42] matérias diferentes em dias, diferentes e turnos diferentes,
+[36:42 - 36:44] às vezes em semana também.
+[36:44 - 36:45] Vamos só aqui ajudar, tá gente?
+[36:45 - 36:47] Pra vocês anotarem, tá?
+[36:47 - 36:48] Tá legal?
+[36:49 - 36:52] Só pra vocês se posicionarem aí como vai se ressaltar.
+[36:54 - 36:56] Dia 8, né? Começou as aulas.
+[36:57 - 37:02] É uma... a gente já tá devendo essa aula aqui, sério?
+[37:03 - 37:06] A gente já vai ficar devendo essa segunda aula aqui do dia 15.
+[37:06 - 37:07] O professor vai ver como é que é.
+[37:07 - 37:10] Que era a aula, que era pra ser presencial, que é a manhã que é ferdiada.
+[37:11 - 37:12] Não tava previsto, sério?
+[37:12 - 37:18] Então a primeira aula de vocês do curso de projeto, de extensão, atividade extensão do sábado,
+[37:18 - 37:19] dá pra ver?
+[37:19 - 37:20] É claro, né?
+[37:20 - 37:21] Sim, sim, sim.
+[37:21 - 37:23] Vai ser no dia 22, tá?
+[37:23 - 37:32] Então de amanhã uma semana, de amanhã uma semana, vocês vão ter a primeira aula do curso de projeto integrador.
+[37:32 - 37:33] Tá legal?
+[37:33 - 37:34] É?
+[37:34 - 37:36] Efeito, vai ser presencial.
+[37:36 - 37:38] Pessoal, eu não posso ouvir.
+[37:38 - 37:40] Então já vamos definindo aqui, gente.
+[37:40 - 37:42] Ah, porque é o trabalho de manhã, não tem problema.
+[37:42 - 37:47] Quem trabalha, tenta pegar uma declaraçãozinha do trabalho, tá certo?
+[37:47 - 37:50] E mostrar para o professor, para o professor o trabalho de sabimento.
+[37:50 - 37:52] Como é que a gente vai resolver nosso problema?
+[37:52 - 37:54] Ok?
+[37:54 - 37:57] Professor, extensão com Cicidilha.
+[37:57 - 38:00] Extensão com Cicidilha.
+[38:00 - 38:02] Opa, isso é só confirmar.
+[38:02 - 38:04] Pegamos o gato aí também.
+[38:04 - 38:06] Obrigado, tá certo.
+[38:06 - 38:08] Foi até confirmar se estava certo isso.
+[38:10 - 38:13] Não faz tu só a primeira vez que eu estou nesses momentos.
+[38:14 - 38:16] Obrigado.
+[38:18 - 38:20] É mais de meio.
+[39:10 - 39:12] Obrigado.
+[39:12 - 39:14] Então, gente,
+[39:14 - 39:16] eu vou te dar um abraço
+[39:16 - 39:18] e eu vou te dar um abraço
+[39:18 - 39:20] e eu vou te dar um abraço
+[39:20 - 39:22] e eu vou te dar um abraço
+[39:22 - 39:24] e eu vou te dar um abraço
+[39:24 - 39:26] e eu vou te dar um abraço
+[39:26 - 39:28] e eu vou te dar um abraço
+[39:28 - 39:30] e eu vou te dar um abraço
+[39:30 - 39:32] e eu vou te dar um abraço
+[39:32 - 39:34] e eu vou te dar um abraço
+[39:34 - 39:36] e eu vou te dar um abraço
+[39:36 - 39:38] e eu vou te dar um abraço
+[39:38 - 39:58] Então, gente, dia 8, não tem, tá? Então, no dia 22 vai ter a primeira aula prazencial,
+[39:58 - 40:05] um ponto prazencial, daqui a uma semana, tá certo? Vocês, a comandada hoje, vão vir pra cá,
+[40:05 - 40:09] E o professor vai explicar, o pessoal vai explicar todos os detalhes, os prunços,
+[40:09 - 40:12] vai mostrar os projetos e tal, pra vocês vocês.
+[40:12 - 40:15] Aí, daí pra frente, como é que vai ficar?
+[40:15 - 40:18] Tem outros encontros prazenciais aqui, certo?
+[40:18 - 40:20] Tem outros encontros prazenciais aqui.
+[40:20 - 40:22] Como é que vai ser isso aí?
+[40:22 - 40:25] Esse encontro prazenciais, gente,
+[40:25 - 40:29] não é um professor, você está dentro da sala de aula aqui com um professor, não.
+[40:29 - 40:33] Esses encontros prazenciais são resistos,
+[40:33 - 40:39] E vocês fizeram o trabalho aqui, nós se juntamos, tal dia, tal hora e tal, tal, tal, tal,
+[40:39 - 40:41] e discutimos sobre o projeto.
+[40:41 - 40:47] Passa o relatóriozinho para o professor, aí o professor vai votar, prazer em vocês,
+[40:47 - 40:49] que fom de que vocês trabalham.
+[40:49 - 40:53] Pode ser na semana, um dia da aula aqui, chega mais cedo, saiu um pouco depois, se reúne,
+[40:53 - 41:00] vocês têm essa vantagem, que é a tomada de manhã, pode ficar de 11h às 12h, porque o mais aí trabalhando,
+[41:00 - 41:03] dentro do projeto de extensão para vocês tiverem,
+[41:03 - 41:06] ficar fazendo essas atividades.
+[41:06 - 41:08] Vocês existem como soube trabalhar,
+[41:08 - 41:10] e vai dando as facas em você.
+[41:10 - 41:14] Porque também vai chegar na segunda parte
+[41:14 - 41:16] que vocês vão ter que acampar, fazer,
+[41:16 - 41:17] e isso é que está no trabalho.
+[41:17 - 41:19] Vocês vão ter que acampar,
+[41:19 - 41:22] isso é presencial, vocês vão por campo presencial.
+[41:22 - 41:25] Não é aqui dentro da sala, da faculdade,
+[41:25 - 41:26] não tem tudo, entendeu?
+[41:26 - 41:29] É uma disciplina que dá trabalho,
+[41:29 - 41:32] mas na semana é quase impossível alguém executar isso aí.
+[41:34 - 41:36] É quase impossível alguém executar.
+[41:37 - 41:41] Comprender aqui, gente, aí o seguinte, aí os outros são obrigatórios.
+[41:41 - 41:45] As outras são obrigatórias. Vai ser a apresentação do projeto,
+[41:45 - 41:51] a primeira nota de avaliação de vocês vai ser a apresentação do projeto.
+[41:51 - 41:54] Cada equipe vem aqui e vai apresentar o projeto.
+[41:54 - 41:57] para os outros coletos.
+[41:57 - 41:59] Como vocês fazem?
+[41:59 - 42:02] Meu projeto é esse aqui, vou fazer isso, dessa forma.
+[42:02 - 42:07] Todos os colegas, o professor veio para cá, deve convidar mais dois professores
+[42:07 - 42:09] só para validar o projeto.
+[42:09 - 42:10] Pronto.
+[42:10 - 42:12] O projeto Geronimo foi aprovado.
+[42:12 - 42:15] Geronimo, agora você vai ter a segunda parte,
+[42:15 - 42:16] vai ter a segunda parte de cima,
+[42:16 - 42:17] todo mundo precisa executar,
+[42:17 - 42:19] você vai escolher o dia, a hora,
+[42:19 - 42:20] e como vai ser isso?
+[42:20 - 42:23] Vai ter um relatório da execução.
+[42:23 - 42:28] Ah, nós fomos lá na escola, você quer ir na escola, né?
+[42:28 - 42:31] Fomos lá na escola, tal, tal, tal, fazer uma oficina.
+[42:31 - 42:34] Aí tudo é registrado, você vai tirar fotos,
+[42:34 - 42:36] dentro do relatório, se ela está a foto,
+[42:36 - 42:38] todas as evidentes que você fizeram,
+[42:38 - 42:41] de preferência à assinatura das pessoas que estavam presentes,
+[42:41 - 42:43] você dá certo, documento,
+[42:43 - 42:45] você deixa o documento de sintonia,
+[42:45 - 42:48] uma relatoria de sintonia, que vocês executam aquele projeto.
+[42:48 - 42:51] Aí eu vou juntar, eu vou juntar o projeto
+[42:51 - 42:56] e há o relatório de execução e vai ficar arquivado dentro da faculdade,
+[42:56 - 42:57] atividade que vocês fizeram.
+[42:57 - 43:01] Legal, efeito.
+[43:01 - 43:04] Dá trabalho pra gente também, né?
+[43:04 - 43:08] Por isso aqui tem um equipo só pra isso, que é do pro pessoal,
+[43:08 - 43:11] só pra poder ajustar todo esse trabalho.
+[43:11 - 43:12] Compreendeu aí?
+[43:12 - 43:13] Só é de bola.
+[43:13 - 43:14] Pra sério?
+[43:14 - 43:16] Então gente, vai ser uma coisa conversada, não vai ser uma coisa nova.
+[43:16 - 43:21] A gente não quer que ninguém perta o trabalho, que tenha falta,
+[43:21 - 43:24] tem a... tem que ser arranjado, tem que procurar soluções.
+[43:24 - 43:27] A vida é assim, a gente tem que ser um solução.
+[43:27 - 43:34] Às vezes a gente tem extremas dificuldades de fazer esses ajustes.
+[43:34 - 43:35] Às vezes a gente tem dificuldade financeira,
+[43:35 - 43:36] por como é que eu vou fazer isso?
+[43:36 - 43:40] Aí você abre a mente, eu tenho que arranjar uma forma de eu
+[43:40 - 43:44] conseguir achar um espaço pra me resolver o meu problema.
+[43:44 - 43:46] Aí você vai, vai, vai, conversa com um outro,
+[43:46 - 43:48] e tá aparecendo a cor cunha ali pra pai da campanha,
+[43:48 - 43:53] você está conseguindo amenizar toda essa questão, e de tempo é a mesma coisa.
+[43:53 - 43:58] Então a gente vai ter que ter esse trabalho, você que todo mundo trabalha,
+[43:58 - 44:03] todo mundo tem atividade, todo mundo tem outras funções para realizar, tem gente
+[44:03 - 44:08] em senhoras que é mãe, tem cuidado filho, do marido, da casa, tem que estudar,
+[44:08 - 44:14] tem que trabalhar, então assim, tem que achar, é um sacrifício, mas não tem nada
+[44:14 - 44:18] na vida que não seja difícil, não tem nada fácil da vida, né?
+[44:18 - 44:21] Nem por milionário, a vida de milionário é fácil.
+[44:21 - 44:23] Tem gente que diz que é, mas não é.
+[44:23 - 44:28] Ele pode ter até uma vida confortável em seus grandes passos mais e ele tem uma vida muito,
+[44:28 - 44:29] muito comum.
+[44:29 - 44:32] O cara tem que ficar preocupado com o dinheiro, se não estão invadindo o banco dele, se
+[44:32 - 44:37] não estão roubando ele, se não tem ninguém invadindo a casa dele, as coisas dele, né?
+[44:37 - 44:38] É sério?
+[44:38 - 44:42] O cara tem que sair com 2, 3 segurança, não pode ter a liberdade de sentar ali no lugar
+[44:42 - 44:45] vai ficar conversando, porque tem segurança, né?
+[44:45 - 44:47] Eu ensinei no lugar que o cara...
+[44:47 - 44:51] era de uma família riga, tinha ficado com a insegurança do cara dentro da faculdade.
+[44:51 - 44:53] Já pensou na mais desse?
+[44:53 - 44:57] O cara veio assistir a aula, aí vinha a sua insegurança, tem o carro lá,
+[44:57 - 45:00] para poder ficar monitorando o cara.
+[45:00 - 45:03] Os pais com medo de ser sequestrados.
+[45:03 - 45:05] E você entendeu? Então...
+[45:05 - 45:09] Então não tem vida fácil para ninguém, nem para o rio, nem para o milionário, né?
+[45:09 - 45:12] A minha irmã encontrou uma história de uma das famílias que eu estava estudando,
+[45:12 - 45:17] Farias Brito, que é uma das famílias grandes das cinco heróis, foi estudar Farias Brito.
+[45:17 - 45:23] Aí o que eles fizeram? Mandaram instalar janelas com vídeo de balística.
+[45:23 - 45:25] Apeixão, Brito.
+[45:25 - 45:27] Na própria escola.
+[45:27 - 45:29] A escola tem que botar, entendeu?
+[45:29 - 45:33] Então assim, gente, não tem vida fácil pra ninguém, então todo mundo tem, né?
+[45:33 - 45:37] Vamos ter problemas financeiros, outro tem de saúde, outro tem de relacionamento, outro tem.
+[45:37 - 45:42] A gente tem que abrir a mente da gente para solucionar essas coisas e tornando mais leve.
+[45:42 - 45:47] Então, algumas coisas que não têm solução, mas a gente tem que fazer para que se torne mais leve.
+[45:47 - 45:48] Sério?
+[45:48 - 45:49] Ok.
+[45:49 - 45:51] E a gente é extremamente conversado.
+[45:51 - 45:54] Então, gente, isso aqui é uma atingada.
+[45:54 - 45:57] E, Fred, foi mandar esse documento para a gente?
+[45:57 - 46:00] Escolha, o professor vai colocar a hora.
+[46:00 - 46:02] Porque eu pedi para o professor ver ajustar também.
+[46:02 - 46:02] Entendi.
+[46:02 - 46:06] Eu fiz um geral, e cada professor vai ajustar com vocês.
+[46:06 - 46:09] Só quero que tenha esse primeiro dia aí, tá certo?
+[46:09 - 46:10] Perfeito?
+[46:10 - 46:14] Teve algum problema mais? Vem conversar com a gente, tá?
+[46:14 - 46:15] Entendeu?
+[46:15 - 46:18] Pessoal, estou começando a dificuldade, não estou conseguindo, né?
+[46:18 - 46:22] Então, tem gente que às vezes apareceu o trabalho eixa,
+[46:22 - 46:25] a gente já veio da tarefa mais, agora apareceu esse eixo,
+[46:25 - 46:27] ficou com dificuldade como é que eu vou fazer?
+[46:27 - 46:29] A gente não quer, ninguém quer parajudicar ninguém,
+[46:29 - 46:32] a gente quer cumprir as normas, né?
+[46:32 - 46:35] Não quer cumprir, as atividades tem que ser cumpridas, né?
+[46:35 - 46:38] e queremos, vamos dizer assim,
+[46:39 - 46:41] um que vocês saiam capacitados.
+[46:42 - 46:45] Então, que vocês saiam bem preparados.
+[46:46 - 46:48] Então, para vocês terem ideia,
+[46:49 - 46:51] eu e o professor Vinicius estamos trabalhando
+[46:52 - 46:55] em uma coisa chamada NIT, núcleo de inovação tecnológica.
+[46:55 - 46:59] Dá muito trabalho, nós estamos montando todo o projeto
+[46:59 - 47:03] para a faculdade de Senac, tem um núcleo disso.
+[47:03 - 47:07] Aí eu vou para essa cidade de estagiários, vou para essa cidade de projetos.
+[47:07 - 47:10] Vocês vão ter que ter muitos projetos inovadores,
+[47:10 - 47:14] vamos competir com o Brasil todo no termo de projetos.
+[47:14 - 47:19] E a gente tem boas ideias.
+[47:19 - 47:25] Aquela semana da vez passada,
+[47:25 - 47:29] vão aparecê-la projetos extraordinários,
+[47:29 - 47:33] do mais variado possível. Inclusive, de grandes desenhos,
+[47:33 - 47:36] para gales pensados,
+[47:38 - 47:42] pessoal queira jogos, para assistir aqueles itens,
+[47:42 - 47:45] colaga de vocês que é muito capacitado de fazer isso,
+[47:46 - 47:50] criar personagens, a ideia dele é brilhante.
+[47:50 - 47:53] Entre outros projetos, entre outros projetos bilionias,
+[47:53 - 47:56] do dia a dia da sociedade, das pessoas.
+[47:56 - 47:59] diz um projeto lá que era para administrar um PED,
+[47:59 - 48:04] diz um projeto que era para administrar a parte de segurança,
+[48:04 - 48:10] de você dar a mão da Luma, é a Sara, né?
+[48:10 - 48:12] Vocês conheceram a Sara?
+[48:12 - 48:14] Ela dá essa turma, né?
+[48:14 - 48:15] É, não, é dar uma.
+[48:15 - 48:16] Tá legal?
+[48:16 - 48:18] Então, gente, são muitas coisas interessantes,
+[48:18 - 48:20] que vem da ideia de vocês,
+[48:20 - 48:22] e a gente pode voltar para onde lá.
+[48:22 - 48:25] Imaginem quando a gente começar a trazer as empresas,
+[48:25 - 48:30] as parceiras aqui no cenário com os problemas delas para a gente tentar trabalhar esses
+[48:30 - 48:31] formatos.
+[48:31 - 48:40] Eu garanto, gente, eu garanto dessas empresas grandes, se a gente passar e for seguir uma
+[48:40 - 48:46] norma por exemplo de instalações de redes, todas estão fora, instalações de usabilidade
+[48:46 - 48:49] de software, todas estão fora das normas.
+[48:49 - 48:50] Se você...
+[48:50 - 48:51] Onde você for, gente?
+[48:51 - 48:52] Por quê?
+[48:52 - 48:54] Porque o pessoal da ATiA trabalha apagando fogo, pergunte-me.
+[48:54 - 48:58] tá com problema, vai lá, resolve. Alguém já trabalha aqui em computação em alguma empresa,
+[48:58 - 49:03] dá suporte a alguma coisa, não, né? Aí vocês vão ver, cara, o território já pagando for, quando você
+[49:03 - 49:08] faz um projeto, uma coisa, vou dizer que tá esse projeto, não deixa, pra dizer que você quer, pra dizer que a gente...
+[49:08 - 49:16] entendeu? É, então, se você virar palestra do Marcelo, que era da Unimede, né, chegar a ver, né,
+[49:16 - 49:22] ele fala um pouquinho do dia a dia lá, como é, a brincadeira lá de...
+[49:22 - 49:27] Então, pessoal, a segunda disciplina de competências, tá?
+[49:27 - 49:30] Aquela lá, a gente vai ter uma aula presencial aqui, ó.
+[49:31 - 49:31] É?
+[49:32 - 49:34] De quatro horas, tá?
+[49:34 - 49:37] Por quê? Porque essa aula, o professor vai explicar como é que vai ser a disciplina,
+[49:37 - 49:39] como é que vai ser a dinâmica do curso, tá?
+[49:40 - 49:42] Como é que vocês vão usar a plataforma A,
+[49:42 - 49:45] se tá todo mundo com a senha, se tá todo mundo acessando,
+[49:46 - 49:47] ele vai ter...
+[49:48 - 49:51] Vai passar todas as informações da disciplina do alceio.
+[49:51 - 49:56] Aí depois fica praticamente toda a EAD, ele vai ficar acompanhando,
+[49:56 - 50:03] porque hoje a plataforma EAD grava todas as horas que você entra lá na plataforma e entra da coluna.
+[50:03 - 50:04] Tá certo?
+[50:04 - 50:06] Ok?
+[50:06 - 50:09] Por isso é que ele vai colocar, você vai entrar lá,
+[50:09 - 50:11] aí você vai ficar trabalhando lá, além do material que grava,
+[50:11 - 50:16] tudo aquela hora, diz a hora que você entrou, diz o trabalho que você fez,
+[50:16 - 50:20] diz os quinhos que você respondeu,
+[50:20 - 50:25] recebe o trabalho que o professor passou, tanto a sua forma, mas foi resistido.
+[50:25 - 50:29] E aí o professor vai lá, olha, exerce, dá aqui.
+[50:29 - 50:32] O que você fez e vai dar a fracuidade de vocês na disciplina.
+[50:32 - 50:34] Até o dia das provas, né?
+[50:34 - 50:37] E onde dá as provas, né? Que são presenciais, né?
+[50:37 - 50:41] Ele vai marcar também, a prova vai ser presencial.
+[50:41 - 50:43] Se você sabe alguma coisa que eu vou tomar,
+[50:43 - 50:46] se você sabe alguma coisa que eu vou tomar,
+[50:46 - 50:51] Já está, já está, o pessoal de Tiago já está trabalhando.
+[50:51 - 50:56] Por isso é que eu tenho mais um pouquinho de tempo aqui, para começar no dia 29,
+[50:56 - 51:01] daqui a duas semanas para poder você estar toda pronta para vocês começarem.
+[51:01 - 51:02] Legal?
+[51:02 - 51:10] Já vai entrar aqui a plataforma, já vai estar andando no curso, com o nome de você, vocês vão entrar lá com a cento e tal.
+[51:10 - 51:15] Outra coisa que a gente está vendo é o email institucional para todos vocês.
+[51:15 - 51:18] A gente já vai trabalhar se Deus quiser com imestitacional.
+[51:18 - 51:20] Por que é que é imestitacional, gente?
+[51:20 - 51:30] É porque às vezes você, por exemplo, algumas parcerias que a gente está fechando com a AWS,
+[51:30 - 51:36] que é a Amazon, com a RedHead, com ela, que existe no ano tão imestitacional.
+[51:36 - 51:40] Quando eu for casar, achar que tem que ser um imestitacional.
+[51:40 - 51:43] Aí eu tenho a gente...
+[51:43 - 51:46] É outra coisa que a gente está trabalhando lá também.
+[51:46 - 51:50] É muita coisa da retragada para pensar para poder deixar o possível em redondo.
+[51:50 - 51:52] Mas a gente vai conseguir.
+[51:52 - 51:54] A gente vai conseguir.
+[51:54 - 51:55] Tá bom?
+[51:55 - 51:58] Isso aqui vai estar disponibilizado.
+[51:58 - 52:00] Os encontros...
+[52:00 - 52:05] Essa aqui vai tomar primeira aula, primeira encontra pra esse aula e os demais.
+[52:05 - 52:07] Serão, é a dele.
+[52:07 - 52:14] Você é obrigado a fazer sábado naquela hora não, a aula ela fica uma semana lá,
+[52:14 - 52:19] aquela aula fica uma semana lá, você pode usar qualquer hora, termina os 11 horas aqui a aula,
+[52:19 - 52:23] você pode ficar até a dia de hoje, um ano, pode ficar um pouco mais de uma fazenda aqui.
+[52:23 - 52:25] Não vai ter nada a compar o tempo.
+[52:25 - 52:26] Elas são assíncronas então.
+[52:26 - 52:29] São assíncronas, são assíncronas, são assíncronas.
+[52:29 - 52:29] Tá?
+[52:29 - 52:30] Eu já ia perguntar.
+[52:30 - 52:31] Olha.
+[52:31 - 52:34] Eu já ia perguntar, que a gente tá com duas aulas ali no dia 5,
+[52:34 - 52:42] Você vai ter essa aqui, prazencial, 19, prazencial e AD também, então você é sempre no problema.
+[52:42 - 52:48] Aí vocês aqui, termina 11 horas, né? Termina 11 horas, a hora em você e...
+[52:48 - 52:55] Só fica até meu dia aqui, mais uma horinha aqui pra gente ver isso aqui, aí vocês sabem tudo, aproveitam o tempo.
+[52:57 - 52:58] Tem que fugir, né?
+[52:58 - 52:59] Trabalho meio dia.
+[52:59 - 53:01] Pois é, fica até meu dia.
+[53:01 - 53:03] Eu tenho que arrumçar, né, exatamente.
+[53:03 - 53:08] Não, mas é opcional para cada um. A origem que você vai achar.
+[53:08 - 53:15] Gente, quando eu fazia o mestrado, quando eu fazia o mestrado que foi em 2009 a 2012,
+[53:15 - 53:22] como é que foi? Eu entravam sete horas de manhã na empresa,
+[53:22 - 53:28] trabalhava até às 12h30 e ia para a família, para o U.S.,
+[53:28 - 53:30] ligar até uns jornais da noite,
+[53:30 - 53:32] neste segundo a quinta-feira.
+[53:32 - 53:35] Então eu não tiro tempo para respirar.
+[53:35 - 53:38] Casado, dois filhos, meu pai estava doente,
+[53:38 - 53:41] tinha que dar uma atenção, tá certo?
+[53:41 - 53:43] Aí como é que tu... como é que tu...
+[53:43 - 53:45] como é que fazia?
+[53:45 - 53:46] Como é que eu fazia?
+[53:46 - 53:48] Sexta-feira não tinha aula no mestrado,
+[53:48 - 53:50] mas eu tinha que trabalhar.
+[53:50 - 53:52] Eu não era de ferro, sexta-feira tinha que fazer
+[53:52 - 53:55] um night work no escolar, tinha que arranjar um tempo também.
+[53:55 - 53:58] Aí eu arranjei um tempo, antes era sexta-feira,
+[53:58 - 54:01] saí com meus colegas de trabalho, com os empresários e tal.
+[54:01 - 54:05] Eu já era gerente de projeto, reuni a turma.
+[54:05 - 54:10] Sábado, aí sabedor realmente eu não fazia nada.
+[54:10 - 54:13] Nada assim, eu ia cuidar da casa.
+[54:13 - 54:17] Tinha que levar o carro para lavar, meu filho era pequeno,
+[54:17 - 54:20] tinha que dar atenção ao filho, tinha que sair com o meu filho para passear.
+[54:20 - 54:23] Tinha que dar conta da mulher, porque se não o negra não vinha e levava a mulher,
+[54:23 - 54:25] E ele fica rado cinco vezes, ele é rato ainda, né?
+[54:25 - 54:27] Tá certo? Ela riu ali, né?
+[54:27 - 54:29] Se mulher sempre me dá atenção, rapaz.
+[54:29 - 54:30] Perdoadão.
+[54:30 - 54:31] Eu?
+[54:31 - 54:33] Vocês estão rindo ali, né?
+[54:33 - 54:35] Deixe-me, deixa esses casareiros, vocês veem como é.
+[54:35 - 54:38] Mulher exigente, rapaz.
+[54:38 - 54:41] Outro negócio exigente, você é nome de cá, viu?
+[54:41 - 54:46] Então, aí, como é que eu estudava?
+[54:46 - 54:48] Como é que eu estudava?
+[54:48 - 54:51] Eu pegava essa horazinha do almoço, ali que eu tinha uma hora,
+[54:51 - 54:56] para engolir e ia separar o que eu tinha que para estudar, separava.
+[54:56 - 55:00] Era muita coisa mais trada, que faz mais trada, mas isso aqui é bancabeira.
+[55:00 - 55:02] Vou dar aula a um mês, vou dar aula a um mês.
+[55:02 - 55:04] É um capítulo de um ano e um mês.
+[55:04 - 55:07] Aí eu separava o material para estudar.
+[55:07 - 55:14] Na hora do almoço ali, ia separando o material, já viu que era bom, que não era e tal,
+[55:14 - 55:17] você pesquisava, pegava artigo e tal, aí você separava.
+[55:17 - 55:21] Gente, o meu acordo dava domingo, 5 horas da manhã,
+[55:21 - 55:27] ia lá pro ar, o jacar aí, dava, vai ter dava uma caminhada para se estressar um pouco,
+[55:27 - 55:33] chegava em casa, tomava um banho, vai para o meu café, sentava 7 horas da manhã, doutor,
+[55:33 - 55:37] era até uma hora e meio, da tarde, preso dentro do quarto.
+[55:37 - 55:45] Quando passava dessa hora, ele falou, bora almoçar, bora almoçar, tem que almoçar,
+[55:45 - 55:51] Aí era que eu ia para a Palmoça, e a tarde ia para casa do meu pai, que já estava de ousa,
+[55:51 - 55:55] a gente passava a ver meus irmãos, contava todo mundo, e eu conseguia fazer tudo.
+[55:55 - 56:04] E por incrível que pareça, é uma das coisas que eu estou orgulho de dizer assim, mas foram as melhores notas da minha vida de estudante.
+[56:04 - 56:13] Porque eu sabia que eu só tinha aquele tempo, cara, eu não tinha outro, eu só tinha aquele tempo para fazer aquilo.
+[56:13 - 56:19] eu não tinha tempo a perder, até porque eu já tinha uma idade, já tinha 40, muitos anos, quase 50,
+[56:19 - 56:25] eu não tinha mais tempo a perder, eu era ali, ou eu terminava meu mestrado e ia para a educação
+[56:25 - 56:30] e eu queria fazer essa transição, tá certo? Ou eu ia continuar como gerente de projetos
+[56:30 - 56:35] aí nas empresas até o dia que eu aguentasse, porque eu já não aguentava mais, porque
+[56:35 - 56:40] você trabalha como gerente de projetos, cara, você não vive, entende? É de manhã, de tarde,
+[56:40 - 56:43] ele não tem pra se viajar e tá num lugar pra se se pôr outro
+[56:43 - 56:47] e quem trabalha em multinacional, empresa grande, minha amiga, aí é que você vai ver que...
+[56:47 - 56:50] bom mesmo, mas chega uma hora que o povo começa lá
+[56:50 - 56:55] quando a gente é novo, é maravilha, pô, vou voltar a São Paulo, pô, vou porrinho, pô,
+[56:55 - 57:00] vou voltar lá no Rio Grande do Sul, caramba, no ano de semana, não tá lá em Manaus,
+[57:00 - 57:04] tá só viajando, é maravilhoso, conheci o Brasil quase todo.
+[57:04 - 57:08] mais depois carro, você chega assim,
+[57:08 - 57:10] você tem que esperar um pouquinho,
+[57:10 - 57:12] esperar duas, três horas e aí,
+[57:12 - 57:14] esperar no seu que?
+[57:14 - 57:16] Aí a vida vai passando, você vai,
+[57:16 - 57:18] cara, e minha esposa e meu filho em casa,
+[57:18 - 57:20] eu aqui, entendeu?
+[57:20 - 57:22] Aí você começa a refletir algumas coisas pessoais,
+[57:22 - 57:24] você é?
+[57:24 - 57:26] Mas gente, a gente consegue,
+[57:26 - 57:28] quem quer, tem determinação,
+[57:28 - 57:30] você é?
+[57:30 - 57:32] Quem quer, quem tem determinação,
+[57:32 - 57:39] A gente parece esse alto disciplinar, por isso é que tem uma cadeira de liderança, de alto disciplino, que é para a gente ajudar a fazer isso.
+[57:39 - 57:45] Na minha época eu não tinha, quando eu fazia faculdade, era aquele expulsor mais seco que possível, não conversava nada,
+[57:45 - 57:51] cheguei a pujar o calcule integral, diferenciar, e acabamos de ter nem converse com eles.
+[57:51 - 57:56] Se faltasse, era falta, a gente ia dar uma falta, se eu tinha minha falta, não tinha isso, não tinha isso.
+[57:56 - 57:59] Você nem começa, mas por qual o expulsor que vai sair?
+[57:59 - 58:02] Hoje é uma coisa mais diferente, mais humana, né?
+[58:02 - 58:05] Hoje a gente tem que postar mais um umesalto.
+[58:05 - 58:08] O coordenador para receber a gente, oxe!
+[58:10 - 58:15] O MEC viu isso, o MEC que eu diga, um instério da educação viu isso.
+[58:15 - 58:19] E ele começou a humanizar um pouco mais isso aí, tá bom?
+[58:19 - 58:25] Então, gente, eu tentei organizar aqui como se eu fosse aluno
+[58:25 - 58:27] e tivesse que estar perto de vocês, tá?
+[58:29 - 58:32] Eu me transpose, por lugar de vocês, com um aluno, tá?
+[58:33 - 58:36] Para poder criar, que atender esses aqui, tá?
+[58:37 - 58:41] Por isso aqui, vai ter problema, ainda vai, alguns vão ter dificuldade, vão.
+[58:41 - 58:45] Mas foi a forma mais assim, que eu consegui amenizar.
+[58:46 - 58:50] Mas se alguém tiver alguma ideia melhor, algum problema, outras questões,
+[58:50 - 58:53] vai lá, conversa com a pessoa, o pessoal, meu problema é esse e tal, tal, tal,
+[58:53 - 58:56] O pessoal nota lá, levou pra mim a gente a ver.
+[58:57 - 58:59] Ninguém vai ficar pra ver picado porque ele não pode.
+[58:59 - 59:02] Então essas aulas aqui, praticamente são...
+[59:02 - 59:05] Você vai ter uma semana pra fazer artesepoinha naquela aula,
+[59:05 - 59:07] você escolhe o horário,
+[59:07 - 59:10] pra vocês da manhã é mais fácil que o pessoal da noite,
+[59:10 - 59:14] porque vocês terminam aqui 11 horas, pode ficar uma hora em alguns,
+[59:14 - 59:16] não, mas alguns que podem ficar,
+[59:16 - 59:19] e ele vai achando uns horários pra encaixar.
+[59:19 - 59:21] Tá certo?
+[59:21 - 59:23] Ok, Jérônia? Ok?
+[59:23 - 59:25] Vou já falar com você a respeito pessoal.
+[59:26 - 59:28] Beleza gente, tá logo.
+[59:29 - 59:32] Eu tinha para falar, algum pergunta gente, pode perguntar.
+[59:32 - 59:35] Alguém tem alguma dúvida do curso, alguma coisa de...
+[59:35 - 59:37] Acho que eu não estou bem direito, mas...
+[59:39 - 59:42] O projeto de extensão pode ser feito com o pessoal da noite também, tá?
+[59:43 - 59:44] A equipe.
+[59:44 - 59:48] Pessoal, quem quiser juntar o projeto de extensão com a Nuno?
+[59:48 - 59:51] Você se conversa e conversa com os processos, tá?
+[59:51 - 59:58] porque o professor já tem que administrar isso aí, não tem impedimento nenhum, não existe nenhum impedimento, tá?
+[59:58 - 60:04] Ah, eu era da TUMITAL, o cara tem um projeto legal, inclusive até de outro curso, tá?
+[60:04 - 60:08] Se meu problema, meu bom projeto integrador envolver a parte de administração,
+[60:08 - 60:13] eu posso até pegar algum colega, ele é muito disciplinar, tá?
+[60:13 - 60:18] Eu posso lutar isso aqui, só que tem que conversar com os professores de cara sabendo e monitorar
+[60:18 - 60:22] todo o projeto, como são dois professores, envolve dois,
+[60:22 - 60:25] aí os dois têm que ficar sabendo. Legal?
+[60:25 - 60:32] Tá certo? Então, se você é, poxa, tem um cara de administração que está com o mesmo projeto que eu quero fazer
+[60:32 - 60:38] e dá para encaixar, dá para fazer esse projeto que o taqueador pode fazer, não tem problema nenhum. Legal, gente?
+[60:38 - 60:43] A gente consegue fazer isso. Até pelo tamanho da faculdade a gente consegue.
+[60:43 - 60:45] Eu não sei daqui algum tempo, né? Porque está só aumentando e tal.
+[60:45 - 60:48] Mas hoje a gente consegue fazer isso.
+[60:48 - 60:50] Bem feito.
+[60:50 - 60:53] Mais alguma pergunta.
+[60:53 - 60:56] Mais alguma pergunta.
+[60:56 - 60:59] Ah sim.
+[60:59 - 61:07] O tarmo aqui nesse salão, tá linda.
+[61:08 - 61:11] O calendário é cabelo, tá certo?
+[61:11 - 61:14] A gente vai seguir ele rigorosamente.
+[61:15 - 61:18] Só abri aqui no salão tá, ficar reguido.
+[61:19 - 61:24] Então, a ajuda tá vado esfereados e da semana das avaliações,
+[61:25 - 61:27] da semana pedagógica que é lá no final de semestre,
+[61:27 - 61:29] Nós vamos seguir ele rigorosamente.
+[61:29 - 61:31] Tá certo?
+[61:31 - 61:33] É um das coisas que...
+[61:33 - 61:35] Ah, professor, se eu quero ir a feriada e tal, dá, tá.
+[61:35 - 61:37] Vamos seguir ele rigorosamente.
+[61:37 - 61:41] Vamos ter o líder da sala.
+[61:41 - 61:43] Os professores não vão ficar em grupo,
+[61:43 - 61:45] a opção deles, se eles quiserem ficar em grupo não,
+[61:45 - 61:47] mas não a obrigatóriedade.
+[61:47 - 61:49] A gente vai pegar o líder,
+[61:49 - 61:51] e os professores vai ter o contato com ele.
+[61:51 - 61:53] O professor Alexandre acordou tarde,
+[61:53 - 61:55] trabalhou até às quatro da manhã.
+[61:55 - 62:02] é a quatora da manhã, a coisa do tal é chegar um pouquinho depois aqui, no formão líder,
+[62:02 - 62:07] ele repasse com de imagens alegres, olha, ele processou, vai chegar um pouquinho atrás,
+[62:07 - 62:12] vai para biblioteca e tal, ou se tiver outro professor, peça para abrir a sala, tem um
+[62:12 - 62:17] notebook que você quiser trabalhar, dá para trabalhar, é legal? No caso aqui de vocês,
+[62:17 - 62:23] tá, é o processo, não vem, mas eu tenho um notebook que eu vou pegar um notebook que
+[62:23 - 62:26] aqui pessoal atende e deixa eu fazer tá?
+[62:26 - 62:28] Isso é?
+[62:28 - 62:31] E se eu estiver aqui, eu já ainda, porque aí eu fico mais tranquilo.
+[62:31 - 62:32] Bom?
+[62:32 - 62:35] Então a gente vai ter que conversar, né?
+[62:35 - 62:37] A gente já tem que conversar, conversa muito bem.
+[62:37 - 62:39] Eu vou tirar um dia da manhã pra estar aqui,
+[62:39 - 62:41] pra começar com você, eu acho que é quarta-feira de manhã,
+[62:41 - 62:44] depois eu vou dizer bem direitinho, toda quarta-feira de manhã
+[62:44 - 62:46] eu vou estar aqui, né?
+[62:46 - 62:48] Pra atender, pra atender eles, qualquer dúvida,
+[62:48 - 62:51] qualquer problema que tenha individuário, tá certo?
+[62:51 - 63:02] Beleza gente, perguntas? Então espero que a gente tenha um semestre maravilhoso, tá legal?
+[63:02 - 63:08] Cheio de muito aprendizado, muito conhecimento, tá? E muitas émossórias, né?
+[63:08 - 63:13] Tá legal? Espero assim a gente, a gente, a gente tá aqui pra aprender, eu aprendo todo dia, tá?
+[63:13 - 63:19] Eu aprendo todo dia com vocês, com... Fico pesquisando, fico olhando coisa melhor sem ter nem ideia.
+[63:19 - 63:22] Estudo, eu hoje estudo quatro, nove horas, escondido, nenhum.
+[63:23 - 63:25] Mas eu ontem cheguei de casa, quase 11 horas da mancha,
+[63:25 - 63:29] porque eu quero quase 12,5 da manhã na arte, pesquisando, olhando,
+[63:29 - 63:30] o que é que tem de bilhão da educação,
+[63:30 - 63:33] o que é que as outras instituições estão fazendo de melhor e tal,
+[63:33 - 63:35] como é que resolvem esses problemas,
+[63:35 - 63:38] eu fico tentando, pesquisando pra tudo, trazer o melhor.
+[63:38 - 63:40] Mas são uma questão minha, não pressa,
+[63:40 - 63:42] eu já cheguei a cá e dormi, tomou minha cervejinha e tal.
+[63:44 - 63:47] Assisti um filme, mas eu gosto de estar lá,
+[63:47 - 63:50] Me sinto bem, me sinto feliz fazendo isso, tá certo?
+[63:50 - 63:54] E quase todo dia eu sinto para acessar, para olhar e tal,
+[63:54 - 63:56] quero que eu só faça o mesmo,
+[63:56 - 63:58] aí a gente vê um botão de coisa lá da IA,
+[63:58 - 64:00] a outra coisa, né, que eu vou falar com você,
+[64:00 - 64:02] para eu só estar proibido usar a inteligência social,
+[64:02 - 64:04] não está proibido.
+[64:04 - 64:05] Não está proibido.
+[64:05 - 64:09] E outra coisa ainda, diga assim, devem utilizar, né?
+[64:09 - 64:11] Eu vou mais longe, tá ok?
+[64:11 - 64:14] Devem utilizar, mas devem utilizar com ele.
+[64:14 - 64:19] Eu chegar e passar um trabalho, você chegar lá e olha, eu sou que sou ele que passou esse trabalho aqui em Babatari,
+[64:19 - 64:22] pegar o trabalho com vocês e me entregar no ano.
+[64:22 - 64:27] É para um ano, é ferramenta de auxílio ao aprendizado de vocês.
+[64:27 - 64:33] Nunca usem a IA gente para resolver um problema, para se livrar de um problema.
+[64:33 - 64:34] Nunca usem isso.
+[64:34 - 64:39] Eu prefiro que não entregue o trabalho, porque felizmente não entregue o trabalho sobre o Mundo Prado
+[64:39 - 64:45] e tentar fazer, porque é o aprendizado de vocês, cara, é a carreira de vocês.
+[64:45 - 64:49] Quando vocês estão no mercado, não perdoam, né?
+[64:49 - 64:51] O mercado não perdoa.
+[64:51 - 64:55] Ou você é eficiente, ou você apresenta resultados, ou não apresenta.
+[64:55 - 64:57] Correto, Jerônimo?
+[64:57 - 64:59] Você que está no mercado aí mais tempo, né?
+[64:59 - 65:03] Mais experiente da turma aqui, tá certo?
+[65:03 - 65:06] Quem tem empresas, quem já trabalha, o que sabe disso?
+[65:06 - 65:11] o mercado não perdoa, ele quer resultado, ele quer resultado.
+[65:11 - 65:15] Hoje muitas empresas, tirando a educação, porque a gente tem hora para chegar a isso
+[65:15 - 65:20] para sair, mais 90% das empresas não estão mais tomando pato com horário não.
+[65:20 - 65:22] Está aqui a tarefa, tu me entrega quando?
+[65:22 - 65:24] Está aqui a tarefa, tu me entrega quando?
+[65:24 - 65:28] É claro que tem muitas empresas, como areia de saúde, o cara tem que estar lá no horário,
+[65:28 - 65:33] o mestre tem que estar presente, tem algumas atividades que não podem deixar de cumprir
+[65:33 - 65:37] aquele horário. Mas hoje quem trabalha em tecnologia, não, mas não, e é que trabalham
+[65:37 - 65:42] no Home Office, trabalham em casa, trabalham em foqueia, né? Mas o cara quer resultado,
+[65:42 - 65:47] quer que você entregue, quer entrega. Qual é o papel da faculdade de senar, que entrega
+[65:47 - 65:52] uma educação de qualidade, uma aprendizada? Que vocês cada dia aprendam um pouco mais
+[65:52 - 65:57] aqui, tá certo? E quando sair da faculdade, tá a apoiar, está no mercado, com competência,
+[65:57 - 66:03] Vale, vale, vale. Assumir qualquer responsabilidade dentro do que for ocultado a vocês.
+[66:03 - 66:09] Tá certo? Então tem ali também, né pessoal, ali um quadril ali chamado Rades, sabe embaixo, né?
+[66:09 - 66:15] Que é Rades de estágio, tá? Então sempre fico olhando lá o que é que tem e sempre aparece uns estágios no interessante.
+[66:15 - 66:18] Se Deus quiser, se se mexe, faça um semestre que a gente vai...
+[66:18 - 66:23] Não seguir, tentar fechar mais parceria com outras empresas, né?
+[66:23 - 66:28] Já tem vários colegas de vocês, a gente está jantando, vem procurar e tal, a gente vai atrás
+[66:28 - 66:31] e quando aparece a oportunidade, né?
+[66:31 - 66:36] Processor Otônio aqui que tá, é um dos que passa muito oportunidade,
+[66:36 - 66:42] professor Vinicius, criou um sitezinho lá também, que ele joga muita oportunidade em estágio, T.I.,
+[66:42 - 66:43] né?
+[66:43 - 66:47] Ah, Processor, esse estágio aqui paga mal pra caramba, gente, comece.
+[66:47 - 66:51] O que eu digo pra vocês é que comece, tá certo?
+[66:51 - 66:55] vai ter dificuldade, o cara quer que eu trabalhei de graça, vale de graça.
+[66:55 - 66:58] Se você lá for lá e achar que vai aprender alguma coisa,
+[67:00 - 67:03] eu comecei trabalhando de graça, eu fazia um estágio de graça.
+[67:04 - 67:07] Aí quando o cara... pega o frio de lá e volta lá,
+[67:07 - 67:09] uns três meses que eu estava lá me contratado,
+[67:09 - 67:12] eu fui crescendo e fazendo minha carreira.
+[67:12 - 67:16] Tá sério? Foi o Foshtarttap, eu era muito tinto também,
+[67:16 - 67:18] você me pensei que eu era extremamente tinto.
+[67:18 - 67:21] Eu era aquele menino de rabo de saia de manho, né?
+[67:21 - 67:23] Para onde amanhã eu não se abusava, para o certo, não.
+[67:23 - 67:29] Aí minha mãe é uma pessoa inteligente, clarecida, aí começou...
+[67:29 - 67:33] Ela era muito religiosa, aí começou a mandar eu ficar lendo aqueles leituras,
+[67:33 - 67:35] a lindurgia na igreja, né?
+[67:35 - 67:37] Vou pegar naquilo, era assim.
+[67:37 - 67:40] E a lei aqui chega a minha mão tremei assim.
+[67:40 - 67:45] Quando tinha um ponto, tu avi, mano, que era uma delícia, né?
+[67:45 - 67:47] Fui, fui, fui, fui, fui.
+[67:48 - 67:50] E a gente faz esse desenvolvimento.
+[67:50 - 67:54] Eu fui criando essa habilidade com a ajuda da minha mão e dos meus pais,
+[67:54 - 67:56] depois de outros profissionais.
+[67:56 - 67:57] Tinha um colega que dizia,
+[67:57 - 68:01] ''Fraip, tem gente que professou, e um dia vou testar minha cabeça que eu tenho, então vou ser professor.''
+[68:01 - 68:04] Vários colegas, se trabalham comigo,
+[68:04 - 68:06] diziam que eu tinha gente que professou.
+[68:06 - 68:09] Tanto é que quando eu fiz o mestrado, que a gente tinha que fazer tudo,
+[68:09 - 68:10] o mestrado tudo era apresentação.
+[68:10 - 68:14] Você fazia, estudava, e tinha que fazer as comprovações, fazia, estudava,
+[68:14 - 68:22] muitas horas. E assim a gente consegue esse desenvolvimento. É fácil, não é fácil não.
+[68:22 - 68:27] É do estudar de isso. Doi, torne que doi. Então ele diz que o que tem mais que maior
+[68:27 - 68:32] é a gente estar sentado a bunda da gente, a escorcha doi, os ombros doi, o pescoço doi.
+[68:32 - 68:39] Dofisca mesmo, fora o cansaço mental. Mas a gente é compensador. Uma hora a gente
+[68:39 - 68:45] pegar um trabalho melhor, uma coisa que a gente vai se achando, o caminho, a gente
+[68:45 - 68:48] porca, a gente cai quando, cara, se cai na empresa certa, é um negócio
+[68:48 - 68:54] extraordinário. Pô, você começa a fazer uma coisa que você gosta, você vai, né?
+[68:54 - 68:58] Eu estou na educação aqui hoje, a seguinte, que eu gosto, eu vivo, eu vivo.
+[68:58 - 69:02] Eu já tenho mais de 600 alunos que passaram a comer e se formaram, eu entrando na
+[69:02 - 69:06] graduação, em outras instituições, eu consegui formar os braços.
+[69:06 - 69:08] Eu recebo bastante gratificação.
+[69:08 - 69:10] Eu tenho alunos, ex-alunos que estão em Portugal, Canadá,
+[69:10 - 69:11] e lá, né?
+[69:11 - 69:14] Foi meu aluno em sala, que eu era coordenador e ensinado
+[69:14 - 69:15] para o meu caso de sala.
+[69:15 - 69:17] Hoje eu já pedi cá com meu habitinho,
+[69:17 - 69:19] e tal, também pedi para a minha faixa um pouco
+[69:19 - 69:20] em la sala, né?
+[69:20 - 69:22] Mas quando para a ciência eu desenho, tá?
+[69:22 - 69:24] Se para usar qualquer dúvida ali,
+[69:24 - 69:25] eu sou outro comentário, me ajude aqui,
+[69:25 - 69:27] eu sou um sub-élo, ajude-se no seu garrinho,
+[69:27 - 69:28] se peça a risa, né?
+[69:28 - 69:30] Eu gosto, eu gosto de fazer isso, tá?
+[69:31 - 69:34] Então gente, eu desejo muito sucesso a vocês, tá?
+[69:34 - 69:40] Estou aqui, o coração aberto para ajudá-los todos, tá certo?
+[69:40 - 69:42] Dendo possível, é claro que não dá para fazer tudo,
+[69:42 - 69:46] mas o que a gente puder ajudar e que vocês estão melhor desempeuando a faculdade,
+[69:46 - 69:47] eu estou disponível para eles.
+[69:47 - 69:50] Bom, eu e todo o meu equipe, todo o meu equipe, eu bato com eles.
+[69:50 - 69:53] Cara, é para ajudar os alunos, que é um entente de verdade,
+[69:53 - 69:56] conversa com alguém, citados, eu quero conversar com alguém.
+[69:56 - 69:58] Se está faltando muito, minha vida está faltando,
+[69:58 - 70:00] eu vou começar com ele, porque é que ele está faltando,
+[70:00 - 70:03] porque é que a gente pode fazer, tá certo?
+[70:03 - 70:07] A gente vai empurrando, a gente vai ajudando uns outros,
+[70:07 - 70:08] ajudando a que a tonuja subiu,
+[70:08 - 70:10] 10 grausinho da escada por dia.
+[70:10 - 70:11] Tá legal?
+[70:11 - 70:13] Vou liberar você aí, deixar você ali, mas...
+[70:13 - 70:14] Fizer a perna do lado.
+[70:14 - 70:16] Eu vou fazer a sua perna, eu vou fazer a sua perna ali.
+[70:16 - 70:17] Eu vou...
+[70:17 - 70:19] Onde eu a outra oportunidade eu faço?
+[70:19 - 70:21] Me desesse isso, uma dinâmica, a minha...
+[70:21 - 70:24] Onde é que faltar o pessoal, o plecisar e tal?
+[70:24 - 70:25] Deixa comigo aqui que eu vou pegar a tonuinha ali,
+[70:25 - 70:26] conversar com eles.
+[70:26 - 70:28] É, eu quero fazer uma pergunta para o senhor,
+[70:28 - 70:30] mas eu vou deixar para ele pular.
+[70:30 - 70:31] Hein?
+[70:31 - 70:35] Eu quero fazer uma pergunta para o senhor, uma observação, na verdade, mas eu vou deixar para o particular.
+[70:35 - 70:40] Tá certo. Eu vou pegar só uma porinha, a gente só pode assinar a prazer em você, tá certo?
+[70:40 - 70:41] Só um pouquinho.
+[70:56 - 71:00] Ah, pessoal, eu vi um negócio que berre, eu mantei um detalhe de uma berre.
+[71:00 - 71:03] Ele falou que vai começar o banho de peça.
+[71:03 - 71:07] Ele falou que não vai atragão atrasar o zoonijamente.
+[71:07 - 71:10] É, eu só que sei no lume.
+[71:10 - 71:13] Mãe, o que é que é a Zingar?
+[71:13 - 71:14] Você só está achando?
+[71:14 - 71:15] Já desci.
+[71:15 - 71:18] Mas cara, me manda.
+[71:18 - 71:20] Ai, meu Deus do céu.
+[71:20 - 71:23] Alguém pode pegar só um sorvinho de cadeira ali, com a Nesson.
+[71:23 - 71:24] Só você já.
+[71:24 - 71:25] Só porra.
+[71:25 - 71:26] É, cara.
+[71:26 - 71:27] Só porra.
+[71:27 - 71:40] Agradeço a todos da gente sobre o curso, mercado de trabalho, não mercado de trabalho,
+[71:40 - 71:47] vocês estão roubando, né? Muitas oportunidades de todos. Alguns melhores, outros piores, outros...
+[71:47 - 71:49] Mas tem muita oportunidade.
+[71:49 - 71:51] Enquanto eles vão assinar o seu chamado, deixe-me ver.
+[71:51 - 71:54] Enquanto eles vão assinar o seu chamado, deixe-me perguntar.
+[71:54 - 71:59] No começo da aula eu te perguntei desde quando você sabia que o Alexandre não veria.
+[71:59 - 72:01] Você falou desde terça.
+[72:01 - 72:04] É, desde que ele falou para a gente que a viagem era de ser mais.
+[72:04 - 72:09] E aí o senhor disse que não informou a gente que o senhor queria dar essa aula.
+[72:09 - 72:10] Exato.
+[72:10 - 72:11] O que que uma coisa tem a ver com a outra?
+[72:11 - 72:14] Você não daria essa aula se a gente soubesse para a gente se for ver.
+[72:14 - 72:16] Eu ia arranjar o outro autorário.
+[72:16 - 72:18] Eu ia dar, eu ia arranjar o autorário.
+[72:18 - 72:20] Sim, então hoje...
+[72:20 - 72:22] Eu ia querer para...
+[72:22 - 72:26] Eu acho que não ter avançado é...
+[72:26 - 72:29] Não tratar a gente com adulto responsável.
+[72:29 - 72:31] Eu não sou mais nois.
+[72:31 - 72:34] Por que eu virei de qualquer jeito?
+[72:34 - 72:36] Mas é porque você é uma pessoa...
+[72:36 - 72:40] Outras pessoas talvez não viessem, que seria direita a escolha delas.
+[72:40 - 72:41] Sério?
+[72:41 - 72:42] Obrigado.
+[72:42 - 72:44] Se problema.
+[72:44 - 72:46] Mas não acho que é legal a gente ser...
+[72:46 - 72:50] Não, mas é porque ter hora normal, normal, normal, sofre, tá?
+[72:50 - 72:52] Não é? Posso não ser com o sofre, chão, com a sofre,
+[72:52 - 72:55] eu posso até poder até ter da hora dele, né?
+[72:55 - 72:58] Podia até entrar com o modelagem aqui, tá?
+[72:58 - 73:00] Sabe? Se eu me chiqui no alo dele, eu só falava.
+[73:00 - 73:03] Mas é porque eu queria passar todas as instituições pra vocês.
+[73:03 - 73:05] Pra deixar bem claro, era o momento que a gente tinha
+[73:05 - 73:07] e agora no começo do semestre.
+[73:07 - 73:09] Se não ia arranjar outro momento, eu ia pegar aqui de 11 a 12,
+[73:09 - 73:12] pedir pra aqui para desficar, ficar, vai entender melhor.
+[73:12 - 73:15] Sabe? Porque me ouvi muito queixonamente sobre isso.
+[73:15 - 73:19] Aí eu queria deixar a minha casa, mas eu passei ontem, não tenho cair lá já.
+[73:21 - 73:23] O que acontece aqui ainda, da tua vida primeira.
+[73:23 - 73:25] Tá certo?
+[73:25 - 73:27] Aí eu...
+[73:27 - 73:29] Acha brasil...
+[73:29 - 73:31] Tá certo?
+[73:31 - 73:33] Você não tem...
+[73:33 - 73:35] Comprei ainda a sua...
+[73:35 - 73:37] Sua pensamento.
+[73:37 - 73:39] Mas tem um...
+[73:39 - 73:41] Tem um fatozinho...
+[73:41 - 73:43] Até da Gorge, né?
+[74:13 - 74:43] Eu vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid, eu não vou pro Alid,
+[74:43 - 74:50] se a pessoa não quer ver a sua insta-gração e vai ficar com problema, tem lá escolha
+[74:50 - 74:54] é verdade, mas gera problema
+[74:54 - 74:59] você não tem entendendo o problema que já era uma indicação
+[74:59 - 75:01] é verdade
+[75:01 - 75:05] ah, eu faltei ver a prova de falta mas a cara sempre não ia perguntar
+[75:05 - 75:07] cara, essa...
+[75:07 - 75:08] E aí, o que é assim?
+[75:08 - 75:14] O atriente vai levar aqui, agora é a questão da revisão com ele, com o PTI.
+[75:14 - 75:15] Pode, pode, pode.
+[75:15 - 75:17] Depois da intervalo a galera vai...
+[75:17 - 75:18] Pode, pode.
+[75:18 - 75:19] Ele tá com a gente com a extensão.
+[75:19 - 75:21] Você tá trabalhando, ele?
+[75:21 - 75:22] Você tá trabalhando?
+[75:22 - 75:23] É, não.
+[75:23 - 75:25] Aí, gente, o que é assim?
+[75:25 - 75:27] O atriente vai levar aqui...
+[75:27 - 75:28] O que é assim?
+[75:28 - 75:30] O atriente vai levar aqui.
+[75:30 - 75:31] O atriente vai levar aqui.
+[75:31 - 75:32] O atriente vai levar aqui.
+[75:32 - 75:33] O atriente vai levar aqui.
+[75:33 - 75:34] O atriente vai levar aqui.
+[75:34 - 75:35] O atriente vai levar aqui.
+[75:35 - 75:36] O atriente vai levar aqui.
+[75:36 - 75:38] O atriente quer dizer o atriente.
+[75:38 - 75:40] Às vezes você vai te pegar, o informe é importante.
+[75:40 - 75:44] Mas tem uma data ali, o processo não vai dar esse nível de atriente.
+[75:44 - 75:52] Mas também, a forma que eu dei por lá da informação, tipo, você viu a gente com toda a gente aqui.
+[75:52 - 75:58] Você fez o seu atriente falar, mas quanto ele estava com a gente lá,
+[75:58 - 76:02] E aí, valeu!
+[76:02 - 76:04] Um papel lá e vou retornar as informações que você fez,
+[76:04 - 76:10] na verdade, ó, aqui, mas as entidades e informações, elas foram servidas por um interno aí.
+[76:10 - 76:12] Fred, você?
+[76:12 - 76:15] Eu vou indo lá no intervalo aqui pra gente retornar, de pra sala.
+[76:15 - 76:17] Tá certo, vamos deixar a sala aberta.
+[76:17 - 76:20] Quando a gente está na educa, a gente entrega a chá.
+[76:20 - 76:22] Vou estar aqui, vou estar aqui até meu dia, mas não ligar.
+[76:22 - 76:24] Tá?
+[76:24 - 76:26] Ok.
+[76:26 - 76:28] Então é essa a favor.
+[76:28 - 76:30] A galera veio, assinou a presença,
+[76:30 - 76:32] caiu.
+[76:32 - 76:35] Um mastelo municidinho para que se fosse.
+[76:35 - 76:36] A Rupa Ingerante,
+[76:36 - 77:06] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[77:06 - 77:10] É um momento que a gente tem.
+[77:10 - 77:15] Não vai ser nada, porque o resto daquela foca não tem mais tempo para isso.
+[77:15 - 77:20] E outra coisa, fica de um em um e indo lá me perguntar a mesma coisa.
+[77:20 - 77:28] Você vê quanta alunha já recebi lá para as aulas de sábado, gente, vou em toda a sala, vou para a sala e resolvo se que acham de sábado.
+[77:28 - 77:32] Aí estou falando aqui, passando.
+[77:32 - 77:38] Por favor, eu só tenho por causa que a semana de inseguração tinha que ser realmente para todos os semestros.
+[77:38 - 77:40] Todos os semestros têm que usar a semana que a gente está para a área.
+[77:40 - 77:41] Mas porque o controle não é repetitivo?
+[77:41 - 77:45] A gente já adianta para a gente ter algo logo na semana de inseguração.
+[77:45 - 77:46] Eu não te falei?
+[77:46 - 77:48] Não, eu acabei de te falar isso.
+[77:48 - 77:50] Eu queria só tirar ação do...
+[77:50 - 77:53] Porque já que é um conceito, a primeira semana do volta aos aulas a gente tá...
+[77:53 - 77:54] Mas é porque...
+[77:54 - 77:55] É porque...
+[77:55 - 77:57] São informações de um homem ou um homem.
+[77:57 - 78:09] Você tem que saber que a faculdade é uma agonia, você tem que saber que a faculdade é uma CAA, você tem que saber que a faculdade...
+[78:09 - 78:11] Entendeu? Isso é uma opção nossa, faculina.
+[78:11 - 78:15] Entendo, mas muita, pelo menos três dias...
+[78:15 - 78:17] Mas essa feita já passava um pouco tempo.
+[78:17 - 78:21] A gente sabia que tinha ouvidoria, sabia de alguma coisa...
+[78:21 - 78:23] Talvez tenha certeza do que estava ali.
+[78:23 - 78:27] Muita gente não sabia que por exemplo, quem está aqui tem direito a carteira do sexo
+[78:27 - 78:30] e como é se arregar. Muita gente não sabia.
+[78:30 - 78:34] O outro é só descarça por feita.
+[78:34 - 78:38] É o momento que está todo mundo junto, porque a gente pode...
+[78:38 - 78:44] Eu acho que a semana de acolhimento, o que chama de acolhimento em outras faculdades,
+[78:44 - 78:48] eu acho que é uma semana muito importante. Por outros motivos você acha.
+[78:48 - 79:00] mas eu entendo que haja essa reclamação e eu entendo que é uma escolha de quem está aí
+[79:00 - 79:07] faltar ou não, entendo que a faculdade tem que cobrar presença e se a pessoa arranjar um problema
+[79:07 - 79:13] para frente o problema é dela, mas eu gosto de semana de integração e aqui é
+[79:13 - 79:15] que é uma oportunidade
+[79:19 - 79:21] ok gente, ok
+[79:23 - 79:25] vamos começar quando a Paulo sobre a semana
+[79:25 - 79:27] não está graçando aí
+[79:27 - 79:29] vou deixar a semana um pouquinho mais rixuta
+[79:29 - 79:31] se a gente tem umas alunhas ainda na semana
+[79:31 - 79:35] é porque teve muita coisa que estava repetida Fred
+[79:35 - 79:37] aí a gente podia já começar logo com as alunhas
+[79:37 - 79:39] se eu nem vou falando com o seu intenso
+[79:39 - 79:41] com o seu intenso, você está na primeira semana
+[79:41 - 79:44] A gente tudo não tem nada.
+[79:46 - 79:50] Quando ele fala integração também, eu acho que você comecei a estar com o Zanwá, com o Zanwá, com os zéterans,
+[79:50 - 79:55] e eles fazem toda a parte com uma coisa além do que a gente pense, entendeu?
+[79:55 - 79:58] Uma coisa além do que a gente pensa.
+[79:58 - 80:03] Às vezes a gente pensa que é bobagem, à atropazes mesmo, tem que ficar aí para salvar bobagem a mesma coisa.
+[80:03 - 80:08] É, então, assim, a interpretação tá certo?
+[80:08 - 80:11] Vamos dizer assim, mas tem coisas que são importantes,
+[80:11 - 80:13] são visas repetidas, e...
+[80:13 - 80:14] Entendeu?
+[80:14 - 80:17] E não foi feito no semestre anterior, não foi feito.
+[80:17 - 80:21] É, na nossa vez a gente teve, sabe, que foi só entre os primeiros,
+[80:21 - 80:24] mas a gente ouviu tudo o que vocês falaram nessa semana.
+[80:24 - 80:25] É, eles já também têm que estar falando,
+[80:25 - 80:27] que me deram, que me deram, que me deram, que me deram,
+[80:27 - 80:28] aí é a única.
+[80:28 - 80:36] Faz parte do processo, é como eu digo, é a universidade aberta.
+[80:36 - 80:43] Você não vai estudar aqui só bits e bytes, você vai aprender a ter comportamento,
+[80:43 - 80:51] ter liderança, você tem que aprender a estar junto com a comunidade, por isso é que
+[80:51 - 80:52] chamam a universidade.
+[80:52 - 80:57] Ela não é mais aquela coisa, eu sei que é que você vai aprender só cá o
+[80:57 - 80:59] diferencial 1, 2, 3, não é?
+[80:59 - 81:03] A possibilidade, o seu queita, a programação, não é isso, mãe.
+[81:03 - 81:05] Ela é muito fazaborrinho.
+[81:05 - 81:08] Mas isso não sou eu que estou dizendo não,
+[81:08 - 81:11] são grandes educadores aí do Brasil todo.
+[81:14 - 81:16] É, é isso que eu te falar aqui.
+[81:22 - 81:28] Eu vou falar aqui só com o nome, as cabeiras, as cabeiras da...
+[81:28 - 81:34] aquelas cabeiras de grande área, mas a gente tem outro ali, sabe?
+[81:34 - 81:37] Você quer fazer com as escales, esse gatinho?
+[81:37 - 81:40] A gente tem as cabeiras de grande área, só um arco, um metro, sabe?
+[81:40 - 81:44] Vamos fazer uma sala, uma programação, a gente não sabe o que é que é.
+[81:44 - 81:47] Você quer ver se é bem pra você, a gente coloca.
+[81:47 - 81:50] Não pode, a gente vai ver, eu tô com alternativa.
+[81:50 - 81:52] Não pode ser, é também...
+[81:52 - 81:54] É sério?
+[81:54 - 81:57] É, todo mundo chega em um carro, aquele jeito, aí tem que...
+[81:57 - 82:00] Ah, você já fez aquela da Juzinha ali, aquela lá?
+[82:00 - 82:01] Não, é...
+[82:01 - 82:03] É pior, mas tem outro lá, tá?
+[82:03 - 82:04] Não, depois eu...
+[82:04 - 82:05] Tem outro modelo lá.
+[82:05 - 82:06] Agora eu entendo, tá?
+[82:06 - 82:08] Depois dá uma passadinha lá, que eu estou falando,
+[82:08 - 82:10] quando eu vou pegar a convenção e passo lá.
+[82:20 - 82:22] O que é isso?
+[82:22 - 82:24] O que é isso?
+[82:24 - 82:26] O que é isso?
+[82:26 - 82:28] O que é isso?
+[82:28 - 82:30] O que é isso?
+[82:30 - 82:32] O que é isso?
+[82:32 - 82:34] O que é isso?
+[82:34 - 82:36] O que é isso?
+[82:36 - 82:38] O que é isso?
+[82:38 - 82:40] O que é isso?
+[82:40 - 82:42] O que é isso?
+[82:42 - 82:44] O que é isso?
+[82:44 - 82:46] O que é isso?
+[82:46 - 82:48] O que é isso?
+[82:48 - 82:50] de cálculo de...
+[82:50 - 82:52] Conversa com o rejegador.
+[82:54 - 82:56] Você já tem aqui o projeto de rejegador?
+[82:56 - 82:58] Você trabalha lá?
+[82:58 - 83:00] Não, tem.
+[83:00 - 83:04] Então, vocês vão ficar junto com a sua mandada da noite.
+[83:04 - 83:06] Não.
+[83:06 - 83:08] Ou, pra gente que está agradou, com a atividade de extensão.
+[83:08 - 83:10] Pra gente que está agradou é individual.
+[83:10 - 83:12] É só vocês aqui.
+[83:12 - 83:14] Não, sim. É a extensão do projeto de rejegador.
+[83:14 - 83:16] Porque teve gente que passou pra esse noite.
+[83:16 - 83:46] Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não
+[83:46 - 84:08] ...
+[84:08 - 84:10] Claro, mais ou menos, tá?
+[84:10 - 84:11] Claro.
+[84:11 - 84:12] Fique à vontade aí, viu?
+[84:12 - 84:14] Se você não é claro, quase.
+[84:38 - 84:41] Ah, mas você não falou nada?
+[84:41 - 84:45] O garfunço é meio que ele está falando do progrado integrador?
+[84:45 - 84:47] O que é que ele é, amor?
+[84:47 - 84:49] O presidente já foi enlouca?
+[84:49 - 84:51] O presidente não vai parar, bom tarde.
+[84:51 - 84:53] O presidente obriga a ficar aqui.
+[84:56 - 85:03] Aí o trânsito vai falar sobre os alguns tomando VCODE e VTJUG.
+[85:03 - 85:05] O VTJUG já está a favor, hein?
+[85:05 - 85:08] ai tem que ver o cara para a gulha
+[85:12 - 85:14] mas a noite o prego e voa morra ai
+[85:15 - 85:17] porque a noite sai bem
+[85:17 - 85:20] ela se dá chamada porque o prego disse que não ia ter chamada e feita uma final
+[85:21 - 85:23] a última é a última
+[85:23 - 85:25] é resultado para ele é o prego
+[85:25 - 85:27] não vai ter chamada não
+[85:27 - 85:29] porque embora mesmo o prego
+[85:29 - 85:31] ai no final é o que é chamado
+[85:31 - 85:32] Claro.
+[85:33 - 85:36] Alguém quer um pedaço de bobo de tapio.
+[85:36 - 85:37] Não.
+[85:37 - 85:38] Obrigado.
+[85:50 - 85:52] Vou colocar a tua turma no seu, tem que tu ver.
+[85:52 - 85:53] Não, não.
+[85:53 - 85:54] Pera a sua.
+[85:55 - 85:56] A outra.
+[85:56 - 85:57] A outra.
+[85:57 - 85:58] Mas como é que é?
+[85:58 - 85:59] Não é o que é, mas eu não é.
+[85:59 - 86:01] E aí?
+[86:01 - 86:03] E aí?
+[86:03 - 86:05] E aí?
+[86:05 - 86:07] E aí?
+[86:07 - 86:09] E aí?
+[86:09 - 86:11] E aí?
+[86:11 - 86:13] E aí?
+[86:13 - 86:15] E aí?
+[86:15 - 86:17] E aí?
+[86:17 - 86:19] E aí?
+[86:19 - 86:21] E aí?
+[86:21 - 86:23] E aí?
+[86:23 - 86:25] E aí?
+[86:25 - 86:27] E aí?
+[86:27 - 86:30] Eita, Zé, você tem que ir para a novo.
+[86:30 - 86:31] Não, não, não.
+[86:37 - 86:40] É na piaca é complicado, desculpe, ele fala aí,
+[86:40 - 86:41] é que essa é muito desgraça.
+[86:41 - 86:43] É o menino que veio, vamos ver não?
+[86:43 - 86:45] Acho que é o...
+[86:45 - 86:47] Um que...
+[86:48 - 86:51] Ele fica ajudando um teclado, cai tanto pelo coelho,
+[86:51 - 86:52] ele fica fora.
+[86:52 - 86:53] É ele?
+[86:53 - 86:54] Não, é o Alex.
+[86:54 - 86:56] Ah, Alex.
+[86:57 - 87:06] Aí tem o Atu, o Atali, o Ati, que ele foi para a noite e ele estava discutindo com os pés
+[87:06 - 87:09] que daria para a gente no projeto mesmo para a minha mulher.
+[87:09 - 87:13] Porque o que importa é que ele tenha uma faculdade, como eu falo.
+[87:13 - 87:15] O que é isso?
+[87:15 - 87:17] Aham, aham, aham, aham
+[87:21 - 87:23] Eu estou aqui, eu estou aqui
+[87:27 - 87:29] Que tinha um outro menino também
+[87:29 - 87:33] Que tinha colocado no grupo do Rafael e do Endo
+[87:33 - 87:35] O menino que me deu o pé, era outro menino
+[87:35 - 87:37] Era o menino, ele também saiu?
+[87:37 - 87:39] Ele tinha o pé
+[87:39 - 87:43] Você quer que eu com o menino que tinha feito com ele também sabe o cachado?
+[87:43 - 87:45] Acha o chavezinho.
+[87:45 - 87:47] Primeiro semestre e noite.
+[87:47 - 87:49] Fazer noite?
+[87:49 - 87:51] Primeiro semestre.
+[87:51 - 87:53] Repito.
+[87:53 - 87:55] Pensei que ele não ia me repetir ninguém.
+[87:57 - 87:59] Não acho que eu repeti um...
+[87:59 - 88:01] Falta?
+[88:01 - 88:03] Não, ele está raco no quarto da Ui.
+[88:03 - 88:05] Ele está raco.
+[88:07 - 88:09] Ele está racando.
+[88:09 - 88:11] Não está raco, não.
+[88:11 - 88:13] O Tony falou pra ele estar aqui no Otone.
+[88:13 - 88:15] E o Otone era a 3ª, né?
+[88:15 - 88:16] Basicamente.
+[88:19 - 88:22] Ele era esse respeito, o Otone, na grandeza.
+[88:22 - 88:23] Vale aí.
+[88:25 - 88:27] E aí, o menino veio longe, tá aqui na frente do lado aí.
+[88:27 - 88:29] Que são de estádio.
+[88:29 - 88:30] Tá até mesmo com o serão, prazer.
+[88:31 - 88:33] Eles não são nem aí na aula, tá rolando.
+[88:33 - 88:34] Eles estão...
+[88:35 - 88:36] Ei!
+[88:36 - 88:41] Eu tinha um menino da alça, que estava jogando o...
+[88:41 - 88:43] de eu, Bray, no Roblox.
+[88:43 - 88:46] Lembra de quando eu passava aqui?
+[88:46 - 88:49] Eu ia falar uma coisa, eu falei que eu formei meu projeto,
+[88:49 - 88:52] ele jogando, ele não apora um detalhe.
+[88:52 - 88:54] Agora que não acho que vou me resano, é isso aí, né?
+[88:54 - 89:00] Aí o menino que eu falava com ele, o Caetano, ele foi no ar.
+[89:00 - 89:08] Eu fiquei abismado e o dia que eu fui dar uma aula no Seracro Centro durante a Copa.
+[89:08 - 89:13] E o garoto não parava de jogar tigrinho.
+[89:21 - 89:24] E depois jogando tigrinho a aula inteira.
+[89:30 - 89:34] Nossa, ele está pagando.
+[89:34 - 89:36] Eu falo.
+[89:36 - 89:40] E olha que eu estou pagando com um coletivo aqui.
+[89:40 - 89:43] Não, é o que eu falo porque não estou sendo bolso.
+[89:43 - 89:46] Só vai dar valor na hora que você tem um bolso
+[89:46 - 89:49] e a pessoa que estiver ali pagando, pode ver as coisas.
+[89:49 - 89:51] Você precisa trabalhar de claro.
+[89:54 - 89:56] Eu que solto o problema é que você não sabe o que a gente sabe.
+[89:56 - 90:00] E minha coragem é um seu cabeleira, a sábada é dia de munição, e aí?
+[90:01 - 90:06] Pra mim é porque o salto é o único que eu posso descansar, porque de domingo a sexta,
+[90:06 - 90:10] é o aquário de manhã que vai até dia de noite, sem parar.
+[90:11 - 90:15] Tanto que o dia que eu menino, o mês que eu não computador, é de mim.
+[90:16 - 90:18] Porque eu só posso menino que tu tá de mim.
+[90:19 - 90:23] Tá de mim, né? Eu sei que eu posso dormir, posso dormir, até eu...
+[90:23 - 90:25] Eu vou te contar uma coisa.
+[90:25 - 90:27] Eu vou te contar uma coisa.
+[90:27 - 90:29] Eu vou te contar uma coisa.
+[90:29 - 90:31] Eu vou te contar uma coisa.
+[90:31 - 90:33] Eu vou te contar uma coisa.
+[90:33 - 90:35] Eu vou te contar uma coisa.
+[90:35 - 90:37] Eu vou te contar uma coisa.
+[90:37 - 90:39] Eu vou te contar uma coisa.
+[90:39 - 90:41] Eu vou te contar uma coisa.
+[90:41 - 90:43] Eu vou te contar uma coisa.
+[90:43 - 90:45] Eu vou te contar uma coisa.
+[90:45 - 90:47] Eu vou te contar uma coisa.
+[90:47 - 90:49] Eu vou te contar uma coisa.
+[90:49 - 90:51] Eu vou te contar uma coisa.
+[90:51 - 90:53] E aí o direito, o polo de esquerda.
+[90:53 - 90:55] Olha.
+[90:55 - 90:57] É.
+[90:57 - 90:59] Isso, né?
+[90:59 - 91:01] A não feita a mata tava a dupla também.
+[91:01 - 91:05] Aí ficou logo. E agora está descolando e não dá pra comer direito.
+[91:05 - 91:07] Você fez com aquela máquina?
+[91:07 - 91:09] É, um prato.
+[91:09 - 91:13] O que você não tem aqui, pessoas de tista?
+[91:13 - 91:17] Não tem muito trabalho aqui.
+[91:17 - 91:21] Eu quero avançar com a mão logo com o meu resto.
+[91:25 - 91:28] Vai com a unedita, porque já arrastei na frente.
+[91:31 - 91:33] Acho que a polícia mandou ter um treino.
+[91:33 - 91:35] Mas eu não vou mais.
+[91:35 - 91:38] Eu também já vi.
+[91:38 - 91:40] A primeira, mais antes.
+[91:40 - 91:41] Ah, lembrei logo.
+[91:41 - 91:42] Mas não.
+[91:42 - 91:43] Ah, é aparelho.
+[91:43 - 91:46] Mas eu sei que nem para encarar aparelho.
+[91:46 - 91:48] E o que ela parecia?
+[91:48 - 91:50] Que ela parecia a sopio?
+[91:50 - 91:52] Ah, a sopio.
+[91:52 - 91:54] A sopio.
+[91:54 - 91:56] A sopio.
+[91:56 - 91:58] A sopio.
+[91:58 - 92:00] A sopio.
+[92:00 - 92:02] Aí o que eu falei que eu não ia dar revisão do que a gente tinha passado na Oteoria.
+[92:02 - 92:04] Então eu estava com uma Oteoria com uma sopio.
+[92:04 - 92:06] Eu estava com uma sopio.
+[92:06 - 92:08] Eu estava com uma sopio.
+[92:08 - 92:10] Eu falava que o que eu falei que eu não ia dar revisão do que a gente tinha passado na Oteoria.
+[92:10 - 92:12] Eu falava que o que eu falei que eu não ia dar revisão do que a gente tinha passado na Oteoria.
+[92:12 - 92:14] Eu falava que o que eu falei que eu não ia dar revisão do que a gente tinha passado na Oteoria.
+[92:14 - 92:16] Não vai cair nada, nem nada.
+[92:16 - 92:18] Eu vi essa piada de uma...
+[92:18 - 92:19] Eu acho que não...
+[92:19 - 92:20] Eu acho que não...
+[92:20 - 92:21] Eu acho que não...
+[92:21 - 92:22] Eu acho que não...
+[92:22 - 92:23] Eu acho que não...
+[92:23 - 92:24] Eu acho que não...
+[92:24 - 92:25] Eu acho que não...
+[92:25 - 92:26] Eu acho que não...
+[92:26 - 92:27] Eu acho que não...
+[92:27 - 92:28] Eu acho que não...
+[92:28 - 92:29] Eu acho que não...
+[92:29 - 92:30] Eu acho que não...
+[92:30 - 92:31] Eu acho que não...
+[92:31 - 92:32] Eu acho que não...
+[92:32 - 92:33] Eu acho que não...
+[92:33 - 92:34] Eu acho que não...
+[92:34 - 92:35] Eu acho que não...
+[92:35 - 92:36] Eu acho que não...
+[92:36 - 92:37] Eu acho que não...
+[92:37 - 92:38] Eu acho que não...
+[92:38 - 92:39] Eu acho que não...
+[92:39 - 92:40] Eu acho que não...
+[92:40 - 92:41] Eu acho que não...
+[92:41 - 92:42] Eu acho que não...
+[92:42 - 92:43] Eu acho que não...
+[92:43 - 92:57] Eu queria ver o pessoal da Bari Bariaria, porque o cabeleria, que o barbeiro teve um programa
+[92:57 - 93:01] de uma turma só, porque tudo era um tipo de bebê.
+[93:01 - 93:06] Porque, querendo não é a mesma coisa que eu, porque eu tô fazendo um adereço.
+[93:06 - 93:11] Meu notebook, eu senti uma necessidade de precisar de um tipo de senhor.
+[93:11 - 93:15] Eu independente não vou chegar aqui para lá para o professor de alcançar que eu vou, ele vai ficar aqui
+[93:15 - 93:16] Vou ficar aqui
+[93:16 - 93:17] Vou ficar aqui para o professor de alcançar
+[93:17 - 93:20] Eu preciso seguir na minha casa, eu preciso que o meu professor seja
+[93:20 - 93:24] Então, porque eu fui com os meus colegas, eu não vou trabalhar aí
+[93:24 - 93:27] Aí, por favor, eu to com a Mago na...
+[93:27 - 93:30] No milão de ano, ela vai pedrada, no índio
+[93:30 - 93:35] Aí, querendo, eu, como professora, pelo menos, coisa que eu trabalho, não sou estabelecente
+[93:35 - 93:38] Queria que eu levasse o professor para ele
+[93:38 - 93:40] Dá pra cima, Caetano, boa!
+[93:40 - 93:42] O que é que é o prédio?
+[93:42 - 93:44] Aí é a coitua, olha lá, só lá em nossa...
+[93:44 - 93:46] O chulo, meu deus.
+[93:46 - 93:48] Só lá em nossa agora.
+[93:48 - 93:50] É o presente.
+[93:50 - 93:52] É o deit.
+[93:52 - 93:54] Se você está para casa, você vai lá para o rote.
+[93:54 - 93:56] Continuando assunto, né?
+[93:56 - 93:58] Só por na mochila.
+[93:58 - 94:00] Ouja, é ótimo café lá.
+[94:00 - 94:02] Que assunto.
+[94:02 - 94:04] Não tem nada, não tem nada.
+[94:04 - 94:06] Que muito se dá, claro.
+[94:06 - 94:08] É isso, porra.
+[94:08 - 94:10] E agora a comparação é...
+[94:10 - 94:12] É, não.
+[94:12 - 94:14] Não, mas não me encaixe no caso da gente.
+[94:14 - 94:16] Não, não me encaixe no caso da gente.
+[94:16 - 94:18] Aí já vim muito...
+[94:18 - 94:20] Aí já vim muito...
+[94:20 - 94:22] Aí já vim muito...
+[94:22 - 94:24] Ah...
+[94:24 - 94:26] Já caiu vai também.
+[94:26 - 94:28] Já vai pegar o de superestúria.
+[94:28 - 94:30] Já poderia adiantar também,
+[94:30 - 94:32] para a sala de...
+[94:32 - 94:34] A professora disse que era falta de um baile lá,
+[94:34 - 94:36] então a gente...
+[94:36 - 94:39] Agora, bora, bora, bora!
+[94:51 - 94:53] Fala rapaziada!
+[94:53 - 94:54] Alô, falou?
+[94:54 - 94:55] Eu falou...
+[95:06 - 95:08] Já, já.
+[95:11 - 95:13] O israelí é para na frente, por favor.
+[95:13 - 95:14] Daí.
+[95:14 - 95:15] Morar para lá.
+[95:19 - 95:21] A chama anda ali, né, tudo?
+[95:21 - 95:23] Quando a gente vai.
+[95:26 - 95:28] Olá, então.
+[95:30 - 95:32] Outro lado.
+[95:32 - 95:52] O professor está se amarrando a feira, a aula da ministra é lá no geração, é geração?
+[95:52 - 95:56] O que é que ele é mini-stall lá, né? Pra tá sem a massa do final.
+[95:56 - 95:57] Oi?
+[95:57 - 95:59] Vai, vai lá no vídeo.
+[95:59 - 96:01] Agora tá pra comer.
+[96:01 - 96:05] Ele é de como tá pra cobertar essa colônia?
+[96:05 - 96:07] Não, não.
+[96:07 - 96:09] Ele não tá com a lata do presente aí.
+[96:09 - 96:12] Começando configurando o vídeo.
+[96:12 - 96:14] Pra gente configurar o vídeo, ele tá instalado.
+[96:14 - 96:17] A gente vai instalar o cliente no site em vídeo.
+[96:17 - 96:22] Tem um instalador, um ídolo, um instalador.
+[96:33 - 96:34] E o que é pra quê?
+[96:34 - 96:36] Terminar o que você tá me falando.
+[96:36 - 96:37] O que é o GIT?
+[96:37 - 96:41] O GIT é o que você usa pra poder enviar o projeto pro vídeo.
+[96:41 - 96:45] É o que guarda o versionamento do código na sua máquina.
+[96:45 - 96:47] E sabe que vai ser o momento, né?
+[96:48 - 96:49] O que a gente faz?
+[96:49 - 96:52] A gente vai controlar as versões e alterações que você faz no projeto
+[96:52 - 96:55] para deixar armazenado localmente na sua máquina.
+[96:55 - 96:57] Para você subir para a nuvem, para o kit-up,
+[96:57 - 97:02] você tem que configurar os seus galentais para a sua máquina.
+[97:02 - 97:04] Porque os números não vão estar aqui.
+[97:09 - 97:11] O que já tem instalado?
+[97:11 - 97:13] A kit aqui já vai aparecer.
+[97:13 - 97:17] O que que a gente precisa desse kit aqui em Valar?
+[97:17 - 97:20] A gente vai ter vídeo de ponte, exatamente, pra ponte.
+[97:20 - 97:22] Eu não disse que eu vou.
+[97:22 - 97:28] Eles querem como é ter tinta, porque eles também gostam de ter uma musculação desde que a gente tem tinta.
+[97:28 - 97:31] E não tá aqui hoje também?
+[97:31 - 97:34] Ah, a gente presta pra entender aqui.
+[97:34 - 97:41] Essa parte aqui, essa coisa que a gente fez antes, já está com a parte de vídeo configurada.
+[97:41 - 97:49] Como é que eu sei que tem esse M de modificado aqui, que indica que o meu lugar não está alinhado a configurar o repositório
+[97:49 - 97:56] E eu posso fazer aqui, o git, o reboot, o mz, git que é parte do que é o comando do git
+[97:56 - 98:00] Remot, ele vai pegar a uma configuração que está na repositória
+[98:00 - 98:04] E o git para ver qual é a repositória que está configurada
+[98:34 - 98:41] O que é isso?
+[98:41 - 98:46] O que é isso?
+[98:46 - 98:52] O que é isso?
+[98:52 - 98:58] O que é isso?
+[98:58 - 99:00] e aí
+[99:00 - 99:02] e aí
+[99:02 - 99:04] e aí
+[99:04 - 99:06] e aí
+[99:06 - 99:08] e aí
+[99:08 - 99:10] e aí
+[99:10 - 99:12] e aí
+[99:12 - 99:14] e aí
+[99:14 - 99:16] e aí
+[99:16 - 99:18] e aí
+[99:18 - 99:20] e aí
+[99:20 - 99:22] e aí
+[99:22 - 99:24] e aí
+[99:24 - 99:26] e aí
+[99:26 - 99:30] e a vida é essa, esse aqui, um qualquer outra marca que não vai ser nada.
+[99:30 - 99:32] Agora, por que vou fazer isso?
+[99:32 - 99:34] Vou criar um repostar no Vivo,
+[99:34 - 99:36] colocar aqui qualquer um aqui,
+[99:36 - 99:38] porque o teste que vem,
+[99:38 - 99:40] vou deixar o vídeo lá de público,
+[99:40 - 99:42] quando está público,
+[99:42 - 99:44] qualquer pessoa já sabe que tem que ver o que é que veio,
+[99:44 - 99:46] para colocar privado também.
+[99:46 - 99:48] Replete é quando já tem um padrão
+[99:48 - 99:50] de repositor para você seguir.
+[99:50 - 99:52] Quando só tem um,
+[99:52 - 99:54] que está indo hoje,
+[99:54 - 99:57] O que é o arquivo Rhythm?
+[99:57 - 100:04] O arquivo Rhythm é um arquivo de texto e a função dele é explicar o que aquele repositório faz.
+[100:04 - 100:08] Deixa eu abrir aqui o arquivo Rhythm que eu tenho.
+[100:08 - 100:18] Você quer um arquivo que eu estou fazendo?
+[100:18 - 100:24] Aqui tem todos os arquivos para funcionar o projeto.
+[100:24 - 100:27] Só que, olhando só o inseridor, eu não vou saber como é que ele funciona.
+[100:27 - 100:29] Eu preciso de arquivo-widme, que fica bem aqui.
+[100:29 - 100:33] Esse arquivo-widme, a função dele é explicar o que a aplicação faz,
+[100:33 - 100:38] qual é a versão dela e como você instala ela na tua máquina.
+[100:38 - 100:41] Porque se eu venho aqui, vou por aqui na sua abaixo,
+[100:41 - 100:43] até que eu diga isso tudo que eu dizer,
+[100:43 - 100:46] e não passar a parte de como instalar.
+[100:46 - 100:53] O node, o de ar, pode ser comando, tem um arquivo de rotilhete que eu posso tomar,
+[100:53 - 100:54] que vai ficar funcionando.
+[100:54 - 101:00] Ou seja, ele é um arquivo para tutorial e para você indicar o que que a sua aplicação faz.
+[101:00 - 101:03] A gente pode adicionar ele aqui automaticamente ou não.
+[101:03 - 101:05] Vou deixar assim, tem um pouquinho.
+[101:05 - 101:12] O bitignore, o bitignore é um tipo de arquivo e o que você coloca dentro dele não sobe com bit.
+[101:12 - 101:19] que botemos sem as muito específicas que se vagar no GitHub já era sublimitido.
+[101:19 - 101:22] Aí o arco-lens sonar para o GitHub 9.
+[101:22 - 101:25] E em toda a vida que eu subo a operação do GitHub,
+[101:25 - 101:28] esse informato na maleza cima tem no computador.
+[101:28 - 101:30] Só pilar para o Google para nunca.
+[101:30 - 101:33] E sem isso, o Google vai tentar.
+[101:33 - 101:36] Nem o Google vai fazer um crédito.
+[101:38 - 101:39] Quando a gente cria,
+[101:39 - 101:43] O reposto está criado, então que está vazio.
+[101:43 - 101:52] Quando está vazio, o que tirando é automaticamente de 10 passos a passo de como fazer para poder configurar um postar na sua máquina,
+[101:52 - 101:54] que pode ser de a toa para cá.
+[101:54 - 101:57] A gente passa o link, como você quiser, para o que está lá.
+[101:57 - 102:00] A gente passa a... o comando é passos a passo.
+[102:00 - 102:02] O seguinte é tutorial aqui, olha.
+[102:02 - 102:04] A gente vai copiar, para você sentir que é o que é o que.
+[102:04 - 102:06] É o que a gente faz com a história.
+[102:06 - 102:08] O que é que é isso?
+[102:08 - 102:13] Quando você está no vídeo de Vinócio, por exemplo, normalmente coloca a ENVE.
+[102:13 - 102:22] Eu tenho um API que está com um psicótico que usa para tanto criptografar quanto para devanizar a sua tela.
+[102:22 - 102:27] Se eu colocar o vídeo de Vinócio e alguém pega, o cara vai precisar criar um ENVE também.
+[102:27 - 102:34] É preciso criar a ENVE, é precisado da chave que colocou na ENVE para poder funcionar e tipo...
+[102:34 - 102:36] Se você não passar para ele, não funciona.
+[102:37 - 102:39] Esse CNM que eu contei para vocês,
+[102:40 - 102:43] ele tem um tortinho...
+[102:45 - 102:47] Ele não tem nenhum tortinho em exemplo.
+[102:47 - 102:50] O tortinho em exemplo já tem os câmbios, só você botar as charmas.
+[102:51 - 102:52] Só que ele não tem as charmas.
+[102:53 - 102:54] Aí ele não funciona.
+[102:54 - 102:56] Se eu copiar a direita que está aqui,
+[102:57 - 103:00] para essa máquina, como eu não tenho as charmas aqui nessa máquina,
+[103:00 - 103:02] ele não vai pegar.
+[103:02 - 103:04] Não vou conseguir conectar com o bolo.
+[103:06 - 103:07] Vou colocar aqui.
+[103:07 - 103:09] Você que te passa a passa aqui.
+[103:09 - 103:11] Ele mudou a gente usado.
+[103:11 - 103:12] Intinite.
+[103:13 - 103:15] É para iniciar um recorregamento.
+[103:15 - 103:19] Ou seja, agora esse aqui, ele vai ficar com o ovo nem.
+[103:19 - 103:23] O ovo assim significa que está com treta e até a vez escritor.
+[103:23 - 103:26] Não é muito no tempo para fazer direito.
+[103:26 - 103:28] Tem que baixar alguma...
+[103:28 - 103:33] No VSC, tem que baixar alguma coisa como extensão ou não?
+[103:33 - 103:35] Já tem machismo.
+[103:35 - 103:38] Então tem que baixar algum vídeo.
+[103:38 - 103:40] Só o vídeo.
+[103:40 - 103:43] Quando está com o olho, está um treze.
+[103:43 - 103:47] Um treze de aferinão está rastreado por ele do vídeo de hoje.
+[103:47 - 103:50] Quando está com o olho, que não tinha mostrado no outro,
+[103:50 - 103:52] é porque ele está modificado.
+[103:52 - 103:55] O olho tem alguma coisa e lá no vídeo o vídeo está diferente.
+[103:55 - 104:02] O D é quando ele está deletado, ou ele deletou naquele máquina em que ele não está,
+[104:02 - 104:07] o Vídeo se verra e quando está sem nada é porque ele está alinhado, totalmente porque
+[104:07 - 104:08] está na nuvem.
+[104:08 - 104:09] E aí Caetano?
+[104:09 - 104:10] Oi.
+[104:10 - 104:14] Esquisito aí, voltando naquela tua primeira parte lá, o que é a tua parte lá dentro
+[104:14 - 104:15] do Vídeo?
+[104:15 - 104:18] Foi um novo repositório ou eu estou subindo já direto pelo terminal aí?
+[104:18 - 104:21] Eu subi direto pelo terminal, pelo outro lado.
+[104:21 - 104:24] Eu só acriu o repostório e subi tudo lá.
+[104:26 - 104:31] Deite um bit. Já iniciou o repostório que aconteceu nesta parte, gente, por aí.
+[104:33 - 104:35] Deixei o repostório aqui.
+[104:36 - 104:39] Vou botar para visualizar as partes dos outros.
+[104:43 - 104:45] Os outros.
+[104:46 - 104:48] Agora está sendo marcado todo o bit de raio.
+[105:18 - 105:21] Só que não vai estar lá na nuvem.
+[105:21 - 105:23] Mas está só na marcha.
+[105:23 - 105:24] Está só na marcha.
+[105:24 - 105:27] Não estou usando a nuvem, mas está abertionado.
+[105:27 - 105:28] Está tudo...
+[105:28 - 105:30] Puxar todas as operações e a gente vai me dizer.
+[105:30 - 105:32] A gente comide faz.
+[105:32 - 105:34] Vou botar no hit-edge.
+[105:34 - 105:38] Eu vou selecionar o maior que eu vou levar adicionado para comitar.
+[105:38 - 105:40] Vou botar item.
+[105:40 - 105:42] Estou passando faz.
+[105:48 - 105:50] O GEN é para o que vai.
+[105:50 - 105:52] Ele já foi com o arzinho, não?
+[105:52 - 105:54] Ele foi para adicionar a acreditação.
+[105:54 - 105:56] A acreditação.
+[105:56 - 106:00] Aí o vídeo com gente...
+[106:00 - 106:04] O vídeo com gente quer para ter a sua metade.
+[106:04 - 106:08] Ele está no primeiro com gente.
+[106:12 - 106:14] Ele já adicionou.
+[106:14 - 106:16] Eu peguei a base.
+[106:16 - 106:18] Um arquivo com uma discepção.
+[106:19 - 106:20] Já está de novo.
+[106:21 - 106:22] Não está mais com ele.
+[106:22 - 106:24] Comi com a link nenhum.
+[106:25 - 106:27] E agora já está alinhado com o que está aqui dentro.
+[106:28 - 106:30] Só que ele não está aqui ainda.
+[106:31 - 106:33] Vou recargar a parte da letra do Mugir.
+[106:33 - 106:37] O que eu não acelerei o que eu posto na LumeTek no vídeo aqui.
+[106:38 - 106:39] E eu não vi do PUSH.
+[106:39 - 106:42] PUSH é quando a gente joga pra mim pra poder ficar alinhado.
+[106:43 - 106:45] Eu aconar já deu com uma da dia.
+[106:46 - 107:16] e o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é
+[107:16 - 107:35] Como é a primeira vez que eu estou fazendo essa máquina, ele precisa de essa parada na minha conta.
+[108:35 - 108:41] Eu só não decidi puxar, se eu fizer carregar aqui ela vai aparecer.
+[108:41 - 108:44] Olha, a gente paga.
+[108:44 - 108:47] Tem que pire o lamo.
+[108:50 - 108:52] Agora está alinhado.
+[108:55 - 108:58] Só que eu vi que eu vivi e me tinha que fazer o que?
+[108:58 - 109:05] A gente faz tanto o versonamento quanto modificar as raízes do projeto.
+[109:05 - 109:14] Por exemplo, eu estou fazendo uma operação no outro, e estou fazendo uma operação no outro.
+[109:14 - 109:18] A gente não fica barrendo uma coisa com a outra, a gente faz o que?
+[109:18 - 109:22] A gente ramifica as alterações.
+[109:22 - 109:25] Para isso é criado as brentes.
+[109:25 - 109:31] Aqui na brente, mas que vai fazer mais uma.
+[109:31 - 109:34] Vou cuidar aqui com ele.
+[109:34 - 109:41] O que está acontecendo?
+[109:41 - 109:48] O que está acontecendo?
+[109:48 - 109:54] O que está acontecendo?
+[109:54 - 109:56] O que é isso?
+[109:56 - 109:58] O que é isso?
+[109:58 - 110:00] O que é isso?
+[110:00 - 110:02] O que é isso?
+[110:02 - 110:04] O que é isso?
+[110:04 - 110:06] O que é isso?
+[110:06 - 110:08] O que é isso?
+[110:08 - 110:10] O que é isso?
+[110:10 - 110:12] O que é isso?
+[110:12 - 110:14] O que é isso?
+[110:14 - 110:16] O que é isso?
+[110:16 - 110:18] O que é isso?
+[110:18 - 110:20] O que é isso?
+[110:20 - 110:22] O que é isso?
+[110:22 - 110:30] O que eu vou fazer? Eu vou nos coger aqui. Aqui quando a gente interessa, a gente fica indicando quase as vinhas novas.
+[110:30 - 110:33] Se o gente é um dígito por vinha novas.
+[110:33 - 110:36] O que eu vou apagar é a feira de 1.
+[110:36 - 110:39] As vinhas todas subiram pra cima, pra pra ver 1.
+[110:39 - 110:41] E ficar azul, que é pra verificar a feira.
+[110:41 - 110:45] E se o dela estar longe de não estar lá, vai ficar bem bem.
+[110:45 - 110:49] Eu repite de novo, eu não processo.
+[111:19 - 111:21] O que você está fazendo?
+[111:21 - 111:23] Vou usar a coxa.
+[111:23 - 111:25] Para qualidade aqui, sim.
+[111:25 - 111:27] Eu creio outra brante.
+[111:27 - 111:29] Ela está apontada para essa másteria aqui.
+[111:29 - 111:31] Aí ele já detectou.
+[111:31 - 111:33] Até o meu que acabou de receber o coxa,
+[111:33 - 111:35] dois segundos atrás.
+[111:35 - 111:37] Eu vou carregar aqui.
+[111:37 - 111:41] Estou vendo que ainda o par meia que contou,
+[111:41 - 111:43] vai estar do mesmo jeito.
+[111:43 - 111:45] Não foi acionado que a gente falou aqui.
+[111:45 - 111:52] A gente precisa trocar abril, na deva é o refluxo.
+[111:52 - 111:57] A deva é o que está a fazer.
+[111:57 - 112:02] Aí a Gabriela comeu a atualizar a principal, então, aqui é a tamar.
+[112:02 - 112:05] A gente precisa abrir o request.
+[112:05 - 112:09] Daqui a dia tem que ter uma operação.
+[112:09 - 112:11] ...
+[112:13 - 112:15] ...
+[112:15 - 112:17] ...
+[112:17 - 112:19] ...
+[112:19 - 112:21] ...
+[112:21 - 112:23] ...
+[112:23 - 112:25] ...
+[112:25 - 112:27] ...
+[112:27 - 112:29] ...
+[112:29 - 112:31] ...
+[112:31 - 112:33] ...
+[112:33 - 112:35] ...
+[112:35 - 112:37] ...
+[112:37 - 112:44] O brante se conheceu assim, realidades paralelas do código.
+[112:44 - 112:47] Basicamente.
+[112:47 - 112:53] O versionamento te permite voltar no tempo.
+[112:53 - 112:58] Então o brante te permite ter linhas diferentes do movimento.
+[112:58 - 113:09] Eu pensei que para mediar, quer dizer, ele vai unir as alterações por fim com a brinche principal,
+[113:09 - 113:12] estava lá que tinha só o brinche, ele vai unificar para ficar tudo junto.
+[113:14 - 113:18] Já com o teu mesmo compreendente, o bote do vídeo é o que você diz até que não é algum compreendente.
+[113:18 - 113:20] Esse compreendente seria o que, por exemplo?
+[113:20 - 113:27] Tipo, se eu fiz uma alteração, que tu fez outra, aí o teu está com bug, que no meu já está corrigido.
+[113:27 - 113:31] Aí tu quer mergiar a sua operação para a minha?
+[113:31 - 113:33] Como o teu tá com bug e o meu não?
+[113:33 - 113:35] Tu vai sobre-escrever o meu?
+[113:35 - 113:37] Aí o bug vai ficar na de duas.
+[113:37 - 113:40] Aí a gente deve ter se construído, mas não pode.
+[113:40 - 113:42] Não dá pra parar isso.
+[113:42 - 113:43] Obrigado.
+[113:43 - 113:45] Não dá pra treinar.
+[113:45 - 113:48] Bom, tem mesmo estar nos amagóloges, cara.
+[113:48 - 113:51] Se não a galera fazer um Mord.
+[113:51 - 113:54] Resolver completo de Mord.
+[113:54 - 114:08] Não, assim, é, se você tem duas pessoas mexendo no mesmo jeito do código, vai acontecer.
+[114:08 - 114:14] Vai acontecer. E não é só em relação a bug, sabe? Se você escreveu o mesmo código,
+[114:14 - 114:18] o código pode fazer a mesma coisa de formas diferentes.
+[114:18 - 114:23] É porque eu te imagino assim, você vai pegar dez pessoas e coloca para resolver esse mesmo problema
+[114:23 - 114:26] sem falar, vai ser exclusivamente 10 coisas diferentes.
+[114:26 - 114:31] E aí alguém vai ter que decidir o que vai ficar.
+[114:31 - 114:34] Que no caso esse cenário aí...
+[114:34 - 114:35] Tudo é só que ele falou, né?
+[114:35 - 114:42] É porque ele fica mais voltado do mundo profissional, que é o puro request.
+[114:42 - 114:44] É, a bateria dele acabou.
+[114:44 - 114:45] E alguém que é responsável para o final.
+[114:45 - 114:46] Eu vou decidir.
+[114:46 - 114:52] Na fala de aula, como todo mundo é hierarquia, mesmo hierarquia, sabe quem chega da mar.
+[114:52 - 114:55] que vai ser a última que vai desculpir, né?
+[114:55 - 114:56] Toda a formação, viu?
+[114:56 - 114:58] Você vai fazer um problema de troca,
+[114:58 - 114:59] para fechar que a gente vai deixar pela mão.
+[114:59 - 115:00] Pode fechar lá.
+[115:00 - 115:02] Ou então vai encontrar bem o tema.
+[115:02 - 115:06] Bem, então, até uma temporada de estágio,
+[115:06 - 115:08] lá eu sou o único programador,
+[115:08 - 115:11] eu superviso ele programando só com o Cloud,
+[115:11 - 115:13] só manda para a EFA da Luteração e para a EFA.
+[115:13 - 115:16] Aí, tipo, se o...
+[115:16 - 115:20] meu lar, pode eu ter um copio de um,
+[115:20 - 115:25] e o Cloud resolve esse problema
+[115:25 - 115:29] e enquanto o Cloud resolve esse problema, eu já resolvi e já empurrei
+[115:29 - 115:32] mas é desconfírito, porque o Cloud ainda não arrumou
+[115:32 - 115:35] vamos lá
+[115:35 - 115:39] a gente fez um merge, o que ficou uma frente com a outra
+[115:39 - 115:42] agora as alterações que a gente fez na frente da develop
+[115:42 - 115:45] caí claramente da master
+[115:45 - 115:50] A minha parede aqui já vai estar aqui ó.
+[115:50 - 115:55] A mais que vai estar aqui, o maior problema é o velo que você pode trocar, vai estar a mesma coisa.
+[115:55 - 115:57] Tá a mesma coisa.
+[115:59 - 116:02] E é basicamente assim que funciona, vai estar nada.
+[116:02 - 116:05] Agora, Gabriel, eu quero saber como é que é o que é um repositório,
+[116:05 - 116:09] qual a diferença de connar um repositório e se conectar com um repositório.
+[116:09 - 116:14] e esse processo que a gente fez todo dia aqui no Transcorso, a gente se quando é que
+[116:14 - 116:18] estou com um repositório, quando a gente clona, tem férias, a gente copia só para
+[116:18 - 116:20] uma parte totalmente diferente.
+[116:20 - 116:25] Deixa o lado nenhum, a gente está na parte anterior.
+[116:29 - 116:31] A gente está na parte anterior.
+[116:31 - 116:33] Se eu criar uma parte anterior.
+[116:33 - 116:34] Valeu, Adem.
+[116:34 - 116:35] Deu a segunda.
+[116:35 - 116:40] Você tem qualquer nome que a gente diga?
+[116:40 - 116:42] Você está a mais dia, né?
+[116:56 - 117:01] Você está a mais dia, então você precisa de um reposto para um coleguinha.
+[117:01 - 117:05] Vem, tem que desaconentar porque eu vou fazer uma alteração diferente.
+[117:05 - 117:10] Vem um, quando eu venho aqui no depósito óleo, eu já tenho um interaconto.
+[117:10 - 117:12] O anil.
+[117:12 - 117:14] Vou descarar.
+[117:14 - 117:16] Vou descarar.
+[117:16 - 117:19] Vou te colocar um anil.
+[117:19 - 117:24] Aqui ó, vou dar parte do meu interaconto de tempo.
+[117:24 - 117:51] E nesse caso, se você quiser subir depois, você tem que pedir autorização para aquele usuário lá em algum momento.
+[118:21 - 118:24] Vou pular e colocar um monte de projeto no final.
+[118:24 - 118:28] Ei, o meccinome, olha aí, está com a entrevista aí, meu meccinome.
+[118:28 - 118:29] Oi?
+[118:29 - 118:31] Não, tem que ir aqui, estou aqui.
+[118:31 - 118:33] Ó, é basicamente...
+[118:33 - 118:35] É que é a minha taxa de frio.
+[118:35 - 118:36] É, nem o que você tem.
+[118:36 - 118:37] É o meu burro, que é a sua ponte.
+[118:37 - 118:40] O que é a tomate do excepírito, excepivado, né?
+[118:40 - 118:41] Não, para ter que estar fechando.
+[118:41 - 118:42] Não, que tem que estar fechando.
+[118:42 - 118:43] É que está fechando aqui, está vendo?
+[118:43 - 118:46] Só que aí, tu queres para o excepírito?
+[118:46 - 118:47] Para tu mexer.
+[118:47 - 118:49] Acho que pode estar no teu programa de devia do olho.
+[118:49 - 118:51] O que eu conheci?
+[118:51 - 118:52] Entendeu?
+[118:52 - 118:54] É pegar um dos projetos e botar seu projeto em danilo.
+[118:54 - 118:55] Qual que é agora?
+[118:55 - 118:56] O que é agora?
+[118:56 - 118:57] Exige aquela questão.
+[118:57 - 118:59] Tem aquela questão.
+[118:59 - 119:00] Onde é que ninguém é compreendido?
+[119:00 - 119:01] Vai botar a privada.
+[119:01 - 119:03] Mas tá lá dentro, que eu te digo.
+[119:03 - 119:04] É, uma boa vez, é.
+[119:04 - 119:06] Não, o projeto tinha aprendizado.
+[119:06 - 119:09] Vou mostrar isso aqui com o meu Lamundo.
+[119:09 - 119:12] A gente não quer, então vá com o seu lado.
+[119:12 - 119:14] Vou fazer um projeto maior aqui.
+[119:15 - 119:16] Mas tá lá.
+[119:46 - 119:48] O que é isso?
+[119:48 - 119:50] O que é isso?
+[119:50 - 119:52] O que é isso?
+[119:52 - 119:54] O que é isso?
+[119:54 - 119:56] O que é isso?
+[119:56 - 119:58] O que é isso?
+[119:58 - 120:00] O que é isso?
+[120:00 - 120:02] O que é isso?
+[120:02 - 120:04] O que é isso?
+[120:04 - 120:06] O que é isso?
+[120:06 - 120:08] O que é isso?
+[120:08 - 120:10] O que é isso?
+[120:10 - 120:12] O que é isso?
+[120:12 - 120:14] O que é isso?
+[120:14 - 120:44] Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não
+[120:44 - 120:46] Não é dívida?
+[120:46 - 120:48] Não é dívida?
+[120:48 - 120:50] Não é dívida?
+[120:50 - 120:52] Não é dívida?
+[120:52 - 120:54] Não é dívida?
+[120:54 - 120:56] Não é dívida?
+[120:56 - 120:58] Não é dívida?
+[120:58 - 121:00] Não é dívida?
+[121:00 - 121:02] Não é dívida?
+[121:02 - 121:04] Não é dívida?
+[121:04 - 121:06] Não é dívida?
+[121:06 - 121:08] Não é dívida?
+[121:08 - 121:10] Não é dívida?
+[121:10 - 121:12] Não é dívida?
+[121:12 - 121:19] E o cara chega cedo.
+[121:19 - 121:22] Chega cedo.
+[121:22 - 121:25] Tudo certo, não é aquele cara que chega atrasado e tal.
+[121:25 - 121:26] O cara chega cedo.
+[121:26 - 121:29] Pô, mas tu olha pra ele, pode, gaias.
+[121:29 - 121:32] Nosso semelhante todinho anterior, basicamente,
+[121:32 - 121:35] ainda mais, você está dormindo nessa cadeira dura aqui.
+[121:35 - 121:37] Tem mais nada na game que a gente estava lá.
+[121:37 - 121:40] Tu olhaste pra lá pra ele, ele estava no seu.
+[122:10 - 122:19] A minha faixa do lado, que é pra eu conectar pra lá, que é uma faixa por fora, pra poder
+[122:19 - 122:22] subir da frente, como assim que é uma faixa por fora?
+[122:22 - 122:26] Não tá com essa faixa, é fomente, eu acho que é.
+[122:26 - 122:28] Onde tá o projeto do lado?
+[122:28 - 122:30] Onde tá o projeto do lado?
+[122:30 - 122:34] Não, lá, tá a isaola lá, tá a isaola, como assim?
+[122:34 - 122:39] Ó, a infeira, a infeira, a gente tá conectando com a infeira, porque tinha um contenso,
+[122:39 - 122:45] Não, eu quero 10 aulas de ontem, eu vou chegar a 2 de outem, é...
+[122:45 - 122:47] ...te criei no pássaro fora.
+[122:47 - 122:51] E com o narro, foi isso que eu tocando aqui.
+[122:51 - 122:55] Eu criei essa parte, ela não tem nada.
+[122:55 - 122:57] Aí não tem...
+[122:57 - 122:59] Por exemplo, faz o meu...
+[122:59 - 123:01] Bom, mas você tá mais progredo, beleza?
+[123:01 - 123:03] Vamos definir o que vai fazer.
+[123:03 - 123:05] Tá aqui o meu estudo, é...
+[123:05 - 123:09] Eu vou fazer alguma coisa pra fazer, eu vou fazer uma coisa pra gente não ver, eu não quero saber.
+[123:09 - 123:15] Eu tiver de oportunidade pra aprender, eu vou em aqui, eu vou em Tante, eu não to aqui pra me formar.
+[123:15 - 123:17] Meu objetivo aqui não é me formar.
+[123:17 - 123:21] Então, por que esse aula assim, eu não vou me para aprender pra caramba.
+[123:21 - 123:27] Então, eu já estou passado isso, eu quero que você tenha dado isso, tudo que eu trabalho fazer, que eu não me digite.
+[123:27 - 123:31] Se você não se movimentar, você vai deixar de atender.
+[123:31 - 123:33] O problema teve.
+[123:33 - 123:37] O problema do interagador foi um...
+[123:37 - 123:42] ...pelo que se chama um papel de choque móvel.
+[123:42 - 123:46] Tinha um acorde de trabalho que era...
+[123:46 - 123:48] ...aprindo de ronitinho.
+[123:48 - 123:50] O papel de choque não era...
+[123:50 - 123:54] ...paz, banho, tolo...
+[123:54 - 123:57] ...pelo que se conhecia, a gente implementou lá...
+[123:57 - 123:59] ...com solução.
+[123:59 - 124:07] Aí botar os enderements e botar a rota para as casas dos clientes.
+[124:07 - 124:10] Então, está em outro botão.
+[124:10 - 124:13] Qual que o nome aí, pra ser algo?
+[124:13 - 124:21] Sim, Caetano. Eu não sei se todo mundo já sabe ou não, mas assim, esse fluxo,
+[124:21 - 124:25] Add, comit e push.
+[124:25 - 124:31] Pode detalhar, ou a gente pode inverter ele, por que a gente faz assim dessa forma?
+[124:31 - 124:37] O git add, a gente é o principal, tem que ser sempre o primeiro.
+[124:37 - 124:41] Essa ordem a mais é a melhor que você a gente pode seguir.
+[124:41 - 124:47] Porque git add é o que a gente seleciona, e nos arquivos a gente vai subir.
+[124:47 - 124:51] O commit é o que a gente sobe com a repositória local.
+[124:51 - 124:53] E o commit push é o que a gente sobe para a nuvem.
+[124:53 - 124:56] A gente tem que sempre seguir essa hora.
+[124:58 - 125:01] Eu tenho que ser sempre determinado de trabalhar no projeto.
+[125:01 - 125:03] Eu falo que o commit é de nuvem.
+[125:03 - 125:05] Espaço ponto.
+[125:05 - 125:08] Quando é o espaço ponto, vai pegar tudo no app.
+[125:08 - 125:11] Tá. Beleza. Você precisa ser só um app específico.
+[125:11 - 125:13] Eu tenho que digitar o caminho do que ele é aqui.
+[125:13 - 125:17] O outro tem o assistente do Mubetsu-koji que ele já tem aqui
+[125:18 - 125:30] Então em todas as operações, desde o Fat, o Kushi, o Fred, o Kou, o Edge e o Murge que eu posso fazer aí pelo assistente
+[125:30 - 125:33] O Murge não, como eu acredito que é só o Kou com o Mitsu e o Kou
+[125:34 - 125:37] E o que a gente faz aqui? Aquele com a série de Mids, Edge
+[125:37 - 126:00] Eu estou trabalhando um projeto há três meses.
+[126:00 - 126:04] Certo, a gente começou com uma logo, aí a gente trocou aquela logo,
+[126:04 - 126:09] sabendo que aquela logo estava lá no começo, mas em algum momento a gente quer recuperar aquilo.
+[126:09 - 126:10] Eu consigo?
+[126:10 - 126:11] Consegui.
+[126:11 - 126:12] Como eu faço?
+[126:12 - 126:13] Com o hit check out.
+[126:13 - 126:15] Check out de onde eu cheguei o quê?
+[126:15 - 126:18] Para ele puxar as alterações da versão anterior.
+[126:19 - 126:23] Beleza, então tem que saber como aquilo lá está no meu projeto,
+[126:23 - 126:26] que eu consigo voltar para aquele momento recuperado, então.
+[126:26 - 126:29] Tem que saber a diferença de comito que teve.
+[126:29 - 126:31] Tipo, dá 5 comitos atrás.
+[126:31 - 126:32] É para buscar...
+[126:32 - 126:33] Espera aí, espera aí.
+[126:33 - 126:37] A gente pode ficar de falar, porque você falou assim, uma atrai, mas...
+[126:37 - 126:38] Tive o...
+[126:38 - 126:40] 10 que já foi feito, e qual...
+[126:40 - 126:41] Tive a 258.
+[126:41 - 126:42] É.
+[126:42 - 126:44] Se eu ser a data, eu consigo?
+[126:44 - 126:48] A data eu não sei nada mais, você, então a quantidade também.
+[126:48 - 126:49] O...
+[126:49 - 126:50] O...
+[126:50 - 126:52] Da outra, então, de esse aqui tem 50 comitos.
+[126:52 - 126:53] Isso.
+[126:53 - 126:57] Eu soubei, qual é o objetivo que eu quero, de como volta enquanto eu tenho...
+[126:57 - 126:58] Não, eu vou ter que...
+[126:58 - 126:59] Aí, ó...
+[126:59 - 127:01] A gente tem as datas dos comuns ali, né?
+[127:01 - 127:03] Eu quero ver o que eu quero.
+[127:03 - 127:07] Então, na princípio, a gente pode procurar aquela data, até um calendáriozinho ali do outro lado.
+[127:07 - 127:08] É?
+[127:08 - 127:11] Olha aí, a gente tem que fazer por comum.
+[127:11 - 127:12] É...
+[127:12 - 127:17] Então, se a gente souber quando estava criativo aquela logo e aquela quantidade de princípios,
+[127:17 - 127:19] a gente consegue voltar e esperar aquilo.
+[127:19 - 127:21] Deu isso, gente.
+[127:21 - 127:26] Mas nesse caso ele está pegando só a questão de...
+[127:26 - 127:31] Ah, tu não está puxando...
+[127:31 - 127:37] Por exemplo, quer saber qual o dedo do comit está a cá para o que tu quer.
+[127:37 - 127:39] Ah, a questão é essa.
+[127:39 - 127:41] Então, tu não está sabendo também qual está,
+[127:41 - 127:43] tu só vai pegar o primeiro que, no caso...
+[127:43 - 127:47] A mensagem do comit também é bastante importante, né?
+[127:47 - 127:49] Porque ali eu sei que o vídeo...
+[127:49 - 127:52] Eu vou ter um pequeno resumo do que foi alterado.
+[127:53 - 127:56] Por isso que a gente tem que seguir um padrão de comito.
+[127:56 - 127:58] No todo o comito que eu coloco aqui,
+[127:58 - 128:00] ele tem basicamente um tricolor assim.
+[128:00 - 128:02] Ele serve o click-on-fix.
+[128:02 - 128:04] Fit é pra feature present.
+[128:04 - 128:06] Vou dar uma funcionalidade nova.
+[128:06 - 128:07] Vou dar a bit.
+[128:07 - 128:09] E depois dessa primeira parte,
+[128:09 - 128:13] o comito que eu descrevi foi acionado.
+[128:13 - 128:15] Com esse tratamento da francesa,
+[128:15 - 128:17] Analítica, para finalizar.
+[128:17 - 128:19] De fogue, por exemplo.
+[128:19 - 128:21] De fogue, de fogue, de fogue.
+[128:21 - 128:25] Por exemplo, se a gente tivesse uma mudança de logo, poder botar uma FIG, um mundo novo,
+[128:25 - 128:27] um mundo novo, aí você sabe que é distrito.
+[128:27 - 128:29] Sim, sim.
+[128:29 - 128:31] A gente estava a ver.
+[128:31 - 128:33] De fogue, não ia ter FIG, ia ter FIX.
+[128:33 - 128:35] Vai dizer qual foi o banho.
+[128:35 - 128:37] Se foi só uma uma uma atividade.
+[128:37 - 128:39] E a solução também.
+[128:39 - 128:41] A solução já vai estar no código.
+[128:41 - 128:43] Basicamente um discutivo.
+[128:43 - 128:46] É uma atividade paralela ao que a gente fez, né?
+[128:46 - 128:49] É o Tor, C, H, R, R, R.
+[128:49 - 128:51] Fazer isso.
+[128:51 - 128:53] E tem um beat plague também.
+[128:53 - 128:55] É muito bem.
+[128:55 - 128:57] É muito bem.
+[128:57 - 128:59] É, eu já ouvi um beat plague no próximo.
+[128:59 - 129:01] É um beat.
+[129:01 - 129:03] É um beat.
+[129:09 - 129:11] O que é que só tem glúteos?
+[129:11 - 129:15] Vem assim, o Git não serve só na código.
+[129:15 - 129:20] Pode usar o Git para os ativos de texto na força que quiser.
+[129:20 - 129:27] Engil ou Git, você quer fazer o seu trabalho de conclusão do curso.
+[129:27 - 129:32] Aí você tem lá, trabalho de conclusão, trabalho final, trabalho final valendo.
+[129:32 - 129:36] Trabalho final, esse agora vai, versão mástica.
+[129:36 - 129:42] Você faz um relacionamento no vídeo, você não precisa ficar sobre escrevendo mesmo aqui,
+[129:42 - 129:46] ou me procurando a frase, não, você tem toda a linha do tempo ali.
+[129:46 - 129:47] E não precisa...
+[129:47 - 129:48] E não precisa comer.
+[129:48 - 129:50] É, ele não precisa ter...
+[129:50 - 129:51] Ele não precisa ter...
+[129:51 - 129:53] Você já fez em algum momento.
+[129:53 - 129:56] Não necessariamente você pode, vai ser que ela não tenha treco.
+[129:56 - 129:58] A gente tem que te pagar umas horas.
+[129:58 - 130:00] Só que tem que ter um pouco.
+[130:00 - 130:04] E está, não é?
+[130:04 - 130:06] Está no vídeo?
+[130:36 - 131:05] A gente tem uma ideia, a gente vai no 25 de janeiro de 50 lá em lá.
+[131:05 - 131:09] Inovar um negócio muito difícil, de mais difícil.
+[131:09 - 131:15] Mas, em contrapartida tem uma questão seguinte, na maioria dos negócios sendo preciso,
+[131:15 - 131:19] como é que falo, inventar, né?
+[131:19 - 131:21] Se você olha só vai lá, né?
+[131:21 - 131:23] Porque é o seguinte...
+[131:23 - 131:25] Ou então trazer uma ideia que existe...
+[131:25 - 131:29] Eu vi um exemplo muito, muito louco, sim.
+[131:29 - 131:36] E o cara na UBA, ele tem um milhão de ideias, vale um milhão, um trilhão, um 10, 2...
+[131:36 - 131:38] Todo mundo pode ficar rico.
+[131:38 - 131:40] Mas sabe o que é diferente?
+[131:40 - 131:45] Esse cara lá do UBA, para o outro cara, é o cara que pega e mete a cara e faz.
+[131:45 - 131:50] E o cara lá do UBA, a ideia que tem de fazer desse jeito, não sei o que,
+[131:50 - 131:53] acabou a cateata ali, o cara vai embora e segue a vida dele.
+[131:53 - 131:57] Aquele negócio ali vale um milhão, um trilhão...
+[131:57 - 132:06] mas o cara que já faz teve coragem, ele tem duas situações, ele vai ficar muito bom naquilo ali que está fazendo
+[132:06 - 132:10] em algum momento pode dar ruim, né, que acontece, são as partes
+[132:17 - 132:19] e aí, que a gente não tem mais aí?
+[132:19 - 132:21] A gente pode fazer isso.
+[132:21 - 132:24] Ninguém vai usar a gite 10, a gite 3.
+[132:24 - 132:27] A lainha você tem que cobrar o...
+[132:27 - 132:31] O Tiberi também que ele estava filmando apenendo com a gente, com a semana.
+[132:31 - 132:34] Ele falou que é uma nova... um documento aí pra gente.
+[132:34 - 132:36] Ele já tinha o nome de postado dele.
+[132:36 - 132:38] Só o tesamento na...
+[132:38 - 132:41] Vamos fazer isso lá já no tele, né?
+[132:41 - 132:44] Não, depois que ele vai ir Tiberi...
+[133:14 - 133:16] O que é isso?
+[133:16 - 133:18] O que é isso?
+[133:18 - 133:20] O que é isso?
+[133:20 - 133:22] O que é isso?
+[133:22 - 133:24] O que é isso?
+[133:24 - 133:26] O que é isso?
+[133:26 - 133:28] O que é isso?
+[133:28 - 133:30] O que é isso?
+[133:30 - 133:32] O que é isso?
+[133:32 - 133:34] O que é isso?
+[133:34 - 133:36] O que é isso?
+[133:36 - 133:38] O que é isso?
+[133:38 - 133:40] O que é isso?
+[133:40 - 133:42] O que é isso?
+[133:42 - 133:49] A gente vai fazer o que?
+[133:49 - 133:54] Isso aí, não é o que a gente vai fazer, olha.
+[133:54 - 134:00] Tem que ir, tem que ir.
+[134:00 - 134:06] Semana quarta, tem mais a disputa.
+[134:06 - 134:36] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[135:06 - 135:09] Já tem um juteiro, já vai compilar, tá?
+[135:09 - 135:11] Trabalhando, já vai...
+[135:11 - 135:13] ...e até o que tá acontecendo?
+[135:13 - 135:16] Talvez já vamos começar o dia aqui.
+[135:16 - 135:18] Não vai baixar nada, eu tenho um juteiro aqui.
+[135:18 - 135:20] Vai baixar, você vai baixar o dia aqui.
+[135:20 - 135:22] Tá lá, você vai baixar um graco lá, você vai baixar o dia aqui.
+[135:22 - 135:25] Você vai baixar um lá no interior do seu...
+[135:25 - 135:27] ...e você vai baixar um...
+[135:27 - 135:29] ...e você vai baixar um...
+[135:29 - 135:31] ...e você vai baixar um...
+[135:31 - 135:33] ...e você vai baixar um...
+[135:33 - 135:40] É, por exemplo, a gente vai fazer muita empresa, a gente vai ter uma empresa que vai deixar a turma.
+[135:40 - 135:43] Aí, os altos não são frávidos, né?
+[135:43 - 135:45] O que é isso?
+[135:45 - 135:47] O que é isso?
+[135:47 - 135:49] O que é isso?
+[135:49 - 135:51] O que é isso?
+[135:51 - 135:53] O que é isso?
+[135:53 - 135:55] O que é isso?
+[135:55 - 135:57] O que é isso?
+[135:57 - 135:59] O que é isso?
+[135:59 - 136:01] O que é isso?
+[136:01 - 136:03] O que é isso?
+[136:03 - 136:05] O que é isso?
+[136:05 - 136:07] O que é isso?
+[136:07 - 136:09] O que é isso?
+[136:09 - 136:11] O que é isso?
+[136:11 - 136:18] É para migrar, é para começar a migrar do Facebook, Instagram, para...
+[136:18 - 136:25] Que lá no LinkedIn você manda mensagem, você vê os vídeos que você poderia ver lá e tal.
+[136:25 - 136:30] E é uma plataforma mais completa também, então tem um emprego, né, que o cara está ali, né?
+[136:30 - 136:32] Não é, não?
+[136:32 - 136:36] O cara fica, boa, vai ler o seu, porra, porra, porra, porra.
+[136:36 - 136:38] Eu vou te contar um pouco sobre o que está acontecendo.
+[136:38 - 136:40] O que está acontecendo?
+[136:40 - 136:42] Você está parando de isso agora?
+[136:42 - 136:44] Eu tenho muito aqui, estava no colabelo, eu vou pastilhar agora.
+[136:44 - 136:46] E também acho que eu vou te contar um pouco sobre a colisão.
+[136:46 - 136:48] Ah, foi muito legal.
+[136:48 - 136:50] E o seu suporte que estava nos nadar, o que é...
+[136:50 - 136:52] Você pode escolher um pouco sobre a coisa,
+[136:52 - 136:54] deixar comentado, deixar umas coisas mais normalizadas.
+[136:54 - 136:56] E também o seu suporte que estava nos nadar, o que é...
+[136:56 - 136:58] Vai mostrar com você, o seu suporte que estava nos nadar.
+[136:58 - 137:00] Você vai mostrar com você, o seu suporte que estava nos nadar.
+[137:00 - 137:02] Você vai mostrar com você, o seu suporte que estava nos nadar.
+[137:02 - 137:04] Eu tenho que acachar, não?
+[137:04 - 137:06] Não é caro?
+[137:06 - 137:11] É, se vocês quiser ver mais coisas, a gente faz um projeto com Iá em dois segundos só ver o que diz.
+[137:11 - 137:16] Ele falar em projeto é isso, tem que ter um projeto, né?
+[137:16 - 137:18] Finalmente, vai fazer uma deus pro alias aí.
+[137:18 - 137:20] Eu queria te mostrar que essa castanagem tá bem...
+[137:20 - 137:22] Tem que ver, né? Você é uma deus pro alias.
+[137:22 - 137:24] Você é aqui que tá com o quadro, né?
+[137:24 - 137:26] Eu ainda tenho mais pessoas.
+[137:26 - 137:28] Mas tem que ver, você tem que ver.
+[137:28 - 137:30] E aí, já estão com ele embora.
+[137:30 - 137:32] Ele nasceu no Brasil.
+[137:32 - 137:34] Só com ele.
+[137:34 - 137:36] Tá subindo. Eu tô com medo do Levito.
+[137:36 - 137:38] Levito, eu não. Eu não.
+[137:38 - 137:40] Tá com medo? Meu amigo, eu não.
+[137:40 - 137:42] Eu só tô com medo do Samoel.
+[137:42 - 137:44] Ele nem veio, tá pedindo um mesmo.
+[137:44 - 137:46] Eu só tô com medo do Samoel.
+[137:46 - 137:48] Hoje ele não tem o Samoel.
+[137:48 - 137:50] Eu não vi o Samoel.
+[137:50 - 137:52] Não, viu o Max.
+[137:52 - 137:54] E eu só vi o outro.
+[137:54 - 137:59] Graças a Deus, aquele menino arrumou um emprego, né?
+[137:59 - 138:00] Porque ele tá falando em emprego, né?
+[138:00 - 138:04] O Marquina Ambeira, o meu sonho de moço.
+[138:04 - 138:06] Aí ele caiu do exáfago da noite.
+[138:06 - 138:08] Não, ele tá na noite.
+[138:08 - 138:10] Aí ele assumiu ele, né?
+[138:10 - 138:12] Ele é meio de trabalho aqui.
+[138:12 - 138:17] Eu não sei, é isso que eu queria saber, porque ele só reclamava do tipo e fregou dele, olha.
+[138:17 - 138:20] Ele trabalha, eu acho, como já foi aprendido, eu acho.
+[138:20 - 138:23] Graças a Deus, tá em normal concrado.
+[138:23 - 138:25] E aí o Pére é igual a gente?
+[138:25 - 138:27] Eu estou perguntando, é no seu jogo
+[138:27 - 138:29] É, você está me ensinando, tem gás em mim
+[138:29 - 138:31] Sim, começando no zero, começando no zero,
+[138:31 - 138:33] começando no zero, tem um passado
+[138:33 - 138:35] tinha um pouco de pessoas
+[138:35 - 138:37] que já tinham algum conhecimento
+[138:37 - 138:39] que já tinham um pouco de conhecimento
+[138:39 - 138:41] e que já tinham um pouco de conhecimento
+[138:41 - 138:43] e que já tinham um pouco de conhecimento
+[138:43 - 138:45] e que já tinham um pouco de conhecimento
+[138:45 - 138:47] e que já tinham um pouco de conhecimento
+[138:47 - 138:49] e que já tinham um pouco de conhecimento
+[138:49 - 138:51] e que já tinham um pouco de conhecimento
+[138:51 - 138:57] algum conhecimento, tinha algumas pessoas que já tinham feito cursos no Senac, por
+[138:57 - 139:02] suprir técnico, um convíviozinho, então de uma galera que começou um pouquinho
+[139:02 - 139:07] um pouquinho a frente, nas as aulas, a levar as aulas era como se todo mundo
+[139:07 - 139:18] tivesse que começar no zero, e tinha gente começando do zero com uma facilidade, tinha gente começando do zero com muita dificuldade, mesmo em coisas
+[139:18 - 139:23] O carro que é o carro, ele tem que falar, mas o carro é o peão.
+[139:23 - 139:25] Como é que foi a mão?
+[139:25 - 139:28] O carro que ela foi, da noite para a noite.
+[139:28 - 139:29] Na ar?
+[139:29 - 139:34] Na ar, ela está falando sobre a noite.
+[139:34 - 139:39] Então, a pessoa fica me chamando demais.
+[139:39 - 139:41] Mas na máquina está.
+[139:41 - 139:43] A gente está falando sobre a noite.
+[139:43 - 139:45] No final, ele me gostou de falar sobre a noite.
+[139:45 - 139:47] Eu pensei que eu podia brigar com ela.
+[139:47 - 139:49] sabe por que ela voltou para a noite?
+[139:49 - 139:52] a carra com a Tã chamou ela de mãe ou alguma coisa
+[139:52 - 139:54] então ela voltou para a noite?
+[139:54 - 139:57] 3 cliques já comitou?
+[139:57 - 139:59] foi, foi, foi tia
+[139:59 - 140:01] foi tia, foi tia, foi tia
+[140:01 - 140:05] porra, ela em 2 toras ela voltou para a noite
+[140:05 - 140:07] ela ainda está comendo a noite
+[140:07 - 140:09] o dia em que ela foi puxada
+[140:09 - 140:11] você puxou?
+[140:41 - 140:45] Ah, preciso dessa aí também.
+[140:45 - 140:50] Não, não é que exigia vir agarrar a fadeira e eu fiquei olhando.
+[140:50 - 140:55] Porra, é isso mesmo, vai porra, é um porra maluco.
+[140:55 - 140:57] Não, não perdi o que eu tiver falo.
+[140:57 - 141:00] A gente vai lá agarrar e eu utilizo a porra com um...
+[141:00 - 141:02] Porra, não, aí eles estão provando.
+[141:02 - 141:06] É, então, começa a falar, a gente teve problemas com pessoas.
+[141:06 - 141:16] teve uma pessoa que, assim, para uns que nunca tinham visto o programa final, muitos não têm noção de que o inglês,
+[141:16 - 141:25] a pessoa chegou na primeira aula, mal importamente mostrou o que era o Instagram, e disse para a aula seguinte
+[141:25 - 141:31] era para a gente fazer um documento de requisitos e deixar o seu livro em 29.
+[141:31 - 141:35] sem noção nenhuma
+[141:35 - 141:41] não tem nenhum, foi aí uma pessoa que deu problema até ser arrancada daqui
+[141:46 - 141:49] depois que dividiram a clima
+[141:49 - 141:53] porque o que começou a noite ficou muito enxado
+[141:53 - 141:56] então se as que dividiram
+[141:56 - 141:59] depois que dividiram
+[141:59 - 142:06] A galera da Rua possui um problema com uma pessoa do meio e um pai também.
+[142:06 - 142:13] Ela disse que não quer falar com o teu urso, só jogar com o seu urso e aí ficaram em celular,
+[142:13 - 142:19] para falar com qualquer coisa. Inclusive, quando cuidar, ela agradece e já fala com o seu pai.
+[142:49 - 142:55] Não é obrigado, só para o vídeo.
+[142:55 - 142:57] A escada aqui eu vou ir para cá agora,
+[142:57 - 142:59] e agora eu vou terminar aberto.
+[142:59 - 143:01] Não vai alterar tudo.
+[143:01 - 143:03] Não vai alterar.
+[143:03 - 143:05] Só vai puxar o post.
+[143:05 - 143:07] Você vai terminar o vídeo,
+[143:07 - 143:09] não é direito.
+[143:09 - 143:11] É que o vídeo está dentro.
+[143:11 - 143:13] Vai lá no post.
+[143:13 - 143:15] É uma representante,
+[143:15 - 143:17] ele queria um ambiente visual
+[143:17 - 143:19] para cada representório.
+[143:19 - 143:21] A gente vai acertar o que você vai dizer.
+[143:21 - 143:23] A gente vai ter que ter certeza que você vai ter certeza.
+[143:23 - 143:25] A gente vai ter certeza que você vai ter certeza que você vai ter certeza que você vai ter certeza.
+[143:25 - 143:27] O que você vai dizer?
+[143:27 - 143:29] O que você vai dizer?
+[143:29 - 143:31] O que você vai dizer?
+[143:31 - 143:33] O que você vai dizer?
+[143:33 - 143:35] O que você vai dizer?
+[143:35 - 143:37] O que você vai dizer?
+[143:37 - 143:39] O que você vai dizer?
+[143:39 - 143:41] O que você vai dizer?
+[143:41 - 143:43] O que você vai dizer?
+[143:43 - 143:45] O que você vai dizer?
+[143:45 - 143:47] O que é isso?
+[143:47 - 143:49] O que é isso?
+[143:49 - 143:51] O que é isso?
+[143:51 - 143:53] O que é isso?
+[143:53 - 143:55] O que é isso?
+[143:55 - 143:57] O que é isso?
+[143:57 - 143:59] O que é isso?
+[143:59 - 144:01] O que é isso?
+[144:01 - 144:03] O que é isso?
+[144:03 - 144:05] O que é isso?
+[144:05 - 144:07] O que é isso?
+[144:07 - 144:09] O que é isso?
+[144:09 - 144:11] O que é isso?
+[144:11 - 144:13] O que é isso?
+[144:13 - 144:15] Agora o repô do repô do palco.
+[144:15 - 144:17] Agora a minha parte.
+[144:17 - 144:19] Agora você vai ter na brinca, a minha...
+[144:19 - 144:21] Automaticamente a de meio mástere.
+[144:21 - 144:23] Aqui no...
+[144:23 - 144:25] É melhor mesmo.
+[144:25 - 144:27] Aqui no meio da mástere.
+[144:27 - 144:29] É só um ano.
+[144:29 - 144:31] Agora o repô do palco vai adicionar o repô do palco.
+[144:31 - 144:33] E aí depois do palco.
+[144:33 - 144:35] E aí depois do palco.
+[144:35 - 144:37] Vou colocar a variada.
+[144:37 - 144:39] Vou tirar o repô do palco.
+[144:39 - 144:41] Agora é a coisa.
+[144:41 - 144:43] E tipo, outra vez, né?
+[144:43 - 144:45] Você não ficou variável?
+[144:45 - 144:47] Tipo assim, eu entrei...
+[144:47 - 144:49] Tá bem, o que tem, e tipo...
+[144:49 - 144:51] E o que tem, é que pode ser...
+[144:51 - 144:53] É, não tem nada...
+[144:53 - 144:55] Então, o que tem que ser...
+[144:55 - 144:57] É, é que a gente tem que ter um chato...
+[144:57 - 145:01] E lá, esses são os negócios que ele precisava...
+[145:01 - 145:03] Adeu, gente.
+[145:03 - 145:05] E tipo, muito informação ali...
+[145:05 - 145:09] Entrou aliminociosamente, que nem processou...
+[145:09 - 145:11] Naquela parte ali do...
+[145:16 - 145:20] É porque a porcentagem dele e tal, ele usou...
+[145:20 - 145:25] São as máquinas, ele usou um paixão, porque tem uma formatação, né?
+[145:25 - 145:29] Mas para quem não explicou a questão do parâmetro, né?
+[145:29 - 145:31] Que o que o primeiro devorceu para o professor, mas aí tem três,
+[145:31 - 145:34] e lá se estiver toda a pessoa não vai pulgar, entendeu?
+[145:34 - 145:39] mas é coisa porque eu vi no meu curso de páscoas que eu estou fazendo agora
+[145:39 - 145:43] que o urso ele explica os parâmetros e podei lá se não dar variável
+[145:43 - 145:45] a gente vai ver se pode fazer um rolo
+[145:45 - 145:47] mas daí ele não explica
+[145:47 - 145:49] e em uma sala de páscoas que eu não aguardo aqui
+[145:49 - 145:53] sério brilho, as anões foram tão boas cara, tão boas
+[145:53 - 145:57] a menina veio falando, não, a gente já tava tocando pandas
+[145:57 - 146:01] a gente nem viu pandas, a gente viu pouquinhos no pandas as duas aulas
+[146:01 - 146:05] A gente editou um arquivo, você vê pronto.
+[146:05 - 146:08] É extremamente, sabe o que é liso?
+[146:08 - 146:09] É extremamente, sabe o que é liso?
+[146:09 - 146:12] Mas ele mostrou tipo um, e ele prova.
+[146:12 - 146:14] Uma vez.
+[146:14 - 146:17] Foi. É porque também está falando.
+[146:17 - 146:19] Acho que não é com o baixo.
+[146:19 - 146:20] Aqui é loja.
+[146:20 - 146:24] A noite, como eu falei, ele foi bem progressivo.
+[146:24 - 146:28] Ele mastigou o conteúdo e chegou de onde a gente veio chegar.
+[146:28 - 146:33] que foi no final lá, da gente ver um pouquinho de análise de dados com o Ander.
+[146:33 - 146:34] É.
+[146:34 - 146:35] Agora, poxa.
+[146:35 - 146:36] A gente foi assim...
+[146:36 - 146:38] Ele ficou nada, ele ficou nada.
+[146:38 - 146:43] Bem pouquinho, aí que na questão do show lá, que era de modificar os gráficos,
+[146:43 - 146:47] foi muito rápido, não foi nada assim explicativo, então foi...
+[146:47 - 146:50] Dá escomando, escomando, escomando só os comandos.
+[146:50 - 146:53] Ele mandava os comandos, mas não estava com escomando para fazer, aí apareceu o gravo.
+[146:53 - 146:55] E agora faz escomando, escomando, escomando.
+[146:55 - 146:56] É.
+[146:56 - 147:26] É, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é
+[147:26 - 147:28] Eu vou fazer uma vez.
+[147:28 - 147:29] Aí está pra cima.
+[147:29 - 147:31] Entendeu? Aí é só.
+[147:31 - 147:33] Aí é só.
+[147:33 - 147:35] Aí é só.
+[147:35 - 147:37] Aí é só.
+[147:37 - 147:39] Aí é só.
+[147:39 - 147:41] Aí é só.
+[147:41 - 147:43] Aí é só.
+[147:43 - 147:45] Aí é só.
+[147:45 - 147:47] Aí é só.
+[147:47 - 147:49] Aí é só.
+[147:49 - 147:51] Aí é só.
+[147:51 - 147:53] Aí é só.
+[147:53 - 147:55] Aí é só.
+[147:55 - 147:59] Não há prógosteio, não, é muito um pouco fashion.
+[147:59 - 148:01] A tua tá mais frita, Camila.
+[148:04 - 148:09] O que é pior, cara, do professor do pés de Aramino é que é igualzinha.
+[148:09 - 148:10] Igualzinha.
+[148:10 - 148:14] Todo mundo comprou na mesma palávia, na mesma promoção.
+[148:14 - 148:18] A fluência vai fazer o post agora.
+[148:18 - 148:20] Você bota só o get post.
+[148:20 - 148:22] Ele vai pegar, não precisa de internet.
+[148:22 - 148:24] O que é isso aí?
+[148:24 - 148:26] Como é de maior, é só para você ver a comida ali.
+[148:26 - 148:28] É, porque tem tudo que eu estou fazendo.
+[148:28 - 148:30] É legal.
+[148:30 - 148:32] É legal a alunosar...
+[148:32 - 148:34] Alunosar bastante, né?
+[148:34 - 148:36] É, é só.
+[148:36 - 148:38] É, é de frio.
+[148:38 - 148:40] É, é só.
+[148:40 - 148:42] Aqui tem uma... a fúria de um centro super normal, um pouco.
+[148:42 - 148:44] Então, ele...
+[148:44 - 148:46] O que é isso aí?
+[148:46 - 148:48] O que é isso aí?
+[148:48 - 148:50] É, é só para você ver.
+[150:20 - 150:22] O que é isso?
+[150:22 - 150:24] O que é isso?
+[150:24 - 150:26] O que é isso?
+[150:26 - 150:28] O que é isso?
+[150:28 - 150:30] O que é isso?
+[150:30 - 150:32] O que é isso?
+[150:32 - 150:34] O que é isso?
+[150:34 - 150:36] O que é isso?
+[150:36 - 150:38] O que é isso?
+[150:38 - 150:40] O que é isso?
+[150:40 - 150:42] O que é isso?
+[150:42 - 150:44] O que é isso?
+[150:44 - 150:46] O que é isso?
+[150:46 - 150:48] O que é isso?
+[150:48 - 150:50] O que é isso?
+[150:50 - 150:52] O que é isso?
+[150:52 - 150:54] O que é isso?
+[150:54 - 150:56] O que é isso?
+[150:56 - 150:58] O que é isso?
+[150:58 - 151:00] O que é isso?
+[151:00 - 151:02] O que é isso?
+[151:02 - 151:04] O que é isso?
+[151:04 - 151:06] O que é isso?
+[151:06 - 151:08] O que é isso?
+[151:08 - 151:10] O que é isso?
+[151:10 - 151:12] O que é isso?
+[151:12 - 151:14] O que é isso?
+[151:14 - 151:16] O que é isso?
+[151:16 - 151:18] O que é isso?
+[151:18 - 151:20] O que é isso?
+[151:20 - 151:22] O que é isso?
+[151:22 - 151:24] O que é isso?
+[151:24 - 151:26] O que é isso?
+[151:26 - 151:28] O que é isso?
+[151:28 - 151:30] O que é isso?
+[151:30 - 151:32] O que é isso?
+[151:32 - 151:34] O que é isso?
+[151:34 - 151:36] O que é isso?
+[151:36 - 151:38] O que é isso?
+[151:38 - 151:40] O que é isso?
+[151:40 - 151:42] O que é isso?
+[151:42 - 151:44] O que é isso?
+[151:44 - 151:46] O que é isso?
+[151:46 - 151:48] É o que é isso?
+[151:48 - 151:50] É o que é isso?
+[151:50 - 151:52] É o que é isso?
+[151:52 - 151:54] É o que é isso?
+[151:54 - 151:56] É o que é isso?
+[151:56 - 151:58] É o que é isso?
+[151:58 - 152:00] É o que é isso?
+[152:00 - 152:02] É o que é isso?
+[152:02 - 152:04] É o que é isso?
+[152:04 - 152:06] É o que é isso?
+[152:06 - 152:08] É o que é isso?
+[152:08 - 152:10] É o que é isso?
+[152:10 - 152:12] É o que é isso?
+[152:12 - 152:42] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[152:42 - 152:44] O que é isso?
+[152:44 - 152:46] É o que é isso?
+[152:46 - 152:48] É o que é isso?
+[152:48 - 152:50] É o que é isso?
+[152:50 - 152:52] É o que é isso?
+[152:52 - 152:54] É o que é isso?
+[152:54 - 152:56] É o que é isso?
+[152:56 - 152:58] É o que é isso?
+[152:58 - 153:00] É o que é isso?
+[153:00 - 153:02] É o que é isso?
+[153:02 - 153:04] É o que é isso?
+[153:04 - 153:06] É o que é isso?
+[153:06 - 153:08] É o que é isso?
+[153:08 - 153:10] É o que é isso?
+[153:10 - 153:12] O que é isso?
+[153:12 - 153:14] É o que é isso?
+[153:14 - 153:16] É o que é isso?
+[153:16 - 153:18] É o que é isso?
+[153:18 - 153:20] É o que é isso?
+[153:20 - 153:22] É o que é isso?
+[153:22 - 153:24] É o que é isso?
+[153:24 - 153:26] É o que é isso?
+[153:26 - 153:28] É o que é isso?
+[153:28 - 153:30] É o que é isso?
+[153:30 - 153:32] É o que é isso?
+[153:32 - 153:34] É o que é isso?
+[153:34 - 153:36] É o que é isso?
+[153:36 - 153:38] É o que é isso?
+[154:08 - 154:10] O que é isso?
+[154:10 - 154:12] É o que é isso?
+[154:12 - 154:14] É o que é isso?
+[154:14 - 154:16] É o que é isso?
+[154:16 - 154:18] É o que é isso?
+[154:18 - 154:20] É o que é isso?
+[154:20 - 154:22] É o que é isso?
+[154:22 - 154:24] É o que é isso?
+[154:24 - 154:26] É o que é isso?
+[154:26 - 154:28] É o que é isso?
+[154:28 - 154:30] É o que é isso?
+[154:30 - 154:32] É o que é isso?
+[154:32 - 154:34] É o que é isso?
+[154:34 - 154:36] É o que é isso?
+[155:36 - 155:38] O que é isso?
+[155:38 - 155:40] É o que é isso?
+[155:40 - 155:42] É o que é isso?
+[155:42 - 155:44] É o que é isso?
+[155:44 - 155:46] É o que é isso?
+[155:46 - 155:48] É o que é isso?
+[155:48 - 155:50] É o que é isso?
+[155:50 - 155:52] É o que é isso?
+[155:52 - 155:54] É o que é isso?
+[155:54 - 155:56] É o que é isso?
+[155:56 - 155:58] É o que é isso?
+[155:58 - 156:00] É o que é isso?
+[156:00 - 156:02] É o que é isso?
+[156:02 - 156:04] É o que é isso?
+[156:34 - 156:36] O que é isso?
+[156:36 - 156:38] O que é isso?
+[156:38 - 156:40] O que é isso?
+[156:40 - 156:42] O que é isso?
+[156:42 - 156:44] O que é isso?
+[156:44 - 156:46] O que é isso?
+[156:46 - 156:48] O que é isso?
+[156:48 - 156:50] O que é isso?
+[156:50 - 156:52] O que é isso?
+[156:52 - 156:54] O que é isso?
+[156:54 - 156:56] O que é isso?
+[156:56 - 156:58] O que é isso?
+[156:58 - 157:00] O que é isso?
+[157:00 - 157:02] O que é isso?
+[158:02 - 158:04] O que é isso?
+[158:04 - 158:06] É o que é isso?
+[158:06 - 158:08] É o que é isso?
+[158:08 - 158:10] É o que é isso?
+[158:10 - 158:12] É o que é isso?
+[158:12 - 158:14] É o que é isso?
+[158:14 - 158:16] É o que é isso?
+[158:16 - 158:18] É o que é isso?
+[158:18 - 158:20] É o que é isso?
+[158:20 - 158:22] É o que é isso?
+[158:22 - 158:24] É o que é isso?
+[158:24 - 158:26] É o que é isso?
+[158:26 - 158:28] É o que é isso?
+[158:28 - 158:30] É o que é isso?
+[159:00 - 159:30] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[159:30 - 159:32] O que é isso?
+[159:32 - 159:34] É o que é isso?
+[159:34 - 159:36] É o que é isso?
+[159:36 - 159:38] É o que é isso?
+[159:38 - 159:40] É o que é isso?
+[159:40 - 159:42] É o que é isso?
+[159:42 - 159:44] É o que é isso?
+[159:44 - 159:46] É o que é isso?
+[159:46 - 159:48] É o que é isso?
+[159:48 - 159:50] É o que é isso?
+[159:50 - 159:52] É o que é isso?
+[159:52 - 159:54] É o que é isso?
+[159:54 - 159:56] É o que é isso?
+[159:56 - 159:58] É o que é isso?
+[159:58 - 160:00] O que é isso?
+[160:00 - 160:02] O que é isso?
+[160:02 - 160:04] O que é isso?
+[160:04 - 160:06] O que é isso?
+[160:06 - 160:08] O que é isso?
+[160:08 - 160:10] O que é isso?
+[160:10 - 160:12] O que é isso?
+[160:12 - 160:14] O que é isso?
+[160:14 - 160:16] O que é isso?
+[160:16 - 160:18] O que é isso?
+[160:18 - 160:20] O que é isso?
+[160:20 - 160:22] O que é isso?
+[160:22 - 160:24] O que é isso?
+[160:24 - 160:26] O que é isso?
+[160:56 - 160:58] O que é isso?
+[160:58 - 161:00] É o que é isso?
+[161:00 - 161:02] É o que é isso?
+[161:02 - 161:04] É o que é isso?
+[161:04 - 161:06] É o que é isso?
+[161:06 - 161:08] É o que é isso?
+[161:08 - 161:10] É o que é isso?
+[161:10 - 161:12] É o que é isso?
+[161:12 - 161:14] É o que é isso?
+[161:14 - 161:16] É o que é isso?
+[161:16 - 161:18] É o que é isso?
+[161:18 - 161:20] É o que é isso?
+[161:20 - 161:22] É o que é isso?
+[161:22 - 161:24] É o que é isso?
+[161:24 - 161:26] O que é isso?
+[161:26 - 161:28] É o que é isso?
+[161:28 - 161:30] É o que é isso?
+[161:30 - 161:32] É o que é isso?
+[161:32 - 161:34] É o que é isso?
+[161:34 - 161:36] É o que é isso?
+[161:36 - 161:38] É o que é isso?
+[161:38 - 161:40] É o que é isso?
+[161:40 - 161:42] É o que é isso?
+[161:42 - 161:44] É o que é isso?
+[161:44 - 161:46] É o que é isso?
+[161:46 - 161:48] É o que é isso?
+[161:48 - 161:50] É o que é isso?
+[161:50 - 161:52] É o que é isso?
+[161:52 - 161:54] O que é isso?
+[161:54 - 161:56] É o que é isso?
+[161:56 - 161:58] É o que é isso?
+[161:58 - 162:00] É o que é isso?
+[162:00 - 162:02] É o que é isso?
+[162:02 - 162:04] É o que é isso?
+[162:04 - 162:06] É o que é isso?
+[162:06 - 162:08] É o que é isso?
+[162:08 - 162:10] É o que é isso?
+[162:10 - 162:12] É o que é isso?
+[162:12 - 162:14] É o que é isso?
+[162:14 - 162:16] É o que é isso?
+[162:16 - 162:18] É o que é isso?
+[162:18 - 162:20] É o que é isso?
+[162:20 - 162:22] O que é isso?
+[162:22 - 162:24] O que é isso?
+[162:24 - 162:26] O que é isso?
+[162:26 - 162:28] O que é isso?
+[162:28 - 162:30] O que é isso?
+[162:30 - 162:32] O que é isso?
+[162:32 - 162:34] O que é isso?
+[162:34 - 162:36] O que é isso?
+[162:36 - 162:38] O que é isso?
+[162:38 - 162:40] O que é isso?
+[162:40 - 162:42] O que é isso?
+[162:42 - 162:44] O que é isso?
+[162:44 - 162:46] O que é isso?
+[162:46 - 162:48] O que é isso?
+[162:48 - 162:50] O que é isso?
+[162:50 - 162:52] É o que é isso?
+[162:52 - 162:54] É o que é isso?
+[162:54 - 162:56] É o que é isso?
+[162:56 - 162:58] É o que é isso?
+[162:58 - 163:00] É o que é isso?
+[163:00 - 163:02] É o que é isso?
+[163:02 - 163:04] É o que é isso?
+[163:04 - 163:06] É o que é isso?
+[163:06 - 163:08] É o que é isso?
+[163:08 - 163:10] É o que é isso?
+[163:10 - 163:12] É o que é isso?
+[163:12 - 163:14] É o que é isso?
+[163:14 - 163:16] É o que é isso?
+[163:16 - 163:46] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[163:46 - 163:48] O que é isso?
+[163:48 - 163:50] É o que é isso?
+[163:50 - 163:52] É o que é isso?
+[163:52 - 163:54] É o que é isso?
+[163:54 - 163:56] É o que é isso?
+[163:56 - 163:58] É o que é isso?
+[163:58 - 164:00] É o que é isso?
+[164:00 - 164:02] É o que é isso?
+[164:02 - 164:04] É o que é isso?
+[164:04 - 164:06] É o que é isso?
+[164:06 - 164:08] É o que é isso?
+[164:08 - 164:10] É o que é isso?
+[164:10 - 164:12] É o que é isso?
+[164:12 - 164:14] É o que é isso?
+[164:44 - 164:46] O que é isso?
+[164:46 - 164:48] O que é isso?
+[164:48 - 164:50] O que é isso?
+[164:50 - 164:52] O que é isso?
+[164:52 - 164:54] O que é isso?
+[164:54 - 164:56] O que é isso?
+[164:56 - 164:58] O que é isso?
+[164:58 - 165:00] O que é isso?
+[165:00 - 165:02] O que é isso?
+[165:02 - 165:04] O que é isso?
+[165:04 - 165:06] O que é isso?
+[165:06 - 165:08] O que é isso?
+[165:08 - 165:10] O que é isso?
+[165:10 - 165:12] O que é isso?
+[165:12 - 165:42] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[165:42 - 165:44] O que é isso? É o que é isso?
+[165:44 - 165:46] É o que é isso? É o que é isso?
+[165:46 - 165:48] É o que é isso? É o que é isso? É o que é isso?
+[165:48 - 165:50] É o que é isso? É o que é isso? É o que é isso?
+[165:50 - 165:52] É o que é isso? É o que é isso? É o que é isso?
+[165:52 - 165:54] É o que é isso? É o que é isso? É o que é isso?
+[165:54 - 165:56] É o que é isso? É o que é isso? É o que é isso?
+[165:56 - 165:58] É o que é isso? É o que é isso? É o que é isso?
+[165:58 - 166:00] É o que é isso? É o que é isso? É o que é isso?
+[166:00 - 166:02] É o que é isso? É o que é isso? É o que é isso?
+[166:02 - 166:04] É o que é isso? É o que é isso? É o que é isso?
+[166:04 - 166:06] O que é isso?
+[166:06 - 166:08] É o que é isso?
+[166:08 - 166:10] É o que é isso?
+[166:10 - 166:12] É o que é isso?
+[166:12 - 166:14] É o que é isso?
+[166:14 - 166:16] É o que é isso?
+[166:16 - 166:18] É o que é isso?
+[166:18 - 166:20] É o que é isso?
+[166:20 - 166:22] É o que é isso?
+[166:22 - 166:24] É o que é isso?
+[166:24 - 166:26] É o que é isso?
+[166:26 - 166:28] É o que é isso?
+[166:28 - 166:30] É o que é isso?
+[166:30 - 166:32] É o que é isso?
+[166:32 - 166:34] O que é isso?
+[166:34 - 166:36] É o que é isso?
+[166:36 - 166:38] É o que é isso?
+[166:38 - 166:40] É o que é isso?
+[166:40 - 166:42] É o que é isso?
+[166:42 - 166:44] É o que é isso?
+[166:44 - 166:46] É o que é isso?
+[166:46 - 166:48] É o que é isso?
+[166:48 - 166:50] É o que é isso?
+[166:50 - 166:52] É o que é isso?
+[166:52 - 166:54] É o que é isso?
+[166:54 - 166:56] É o que é isso?
+[166:56 - 166:58] É o que é isso?
+[166:58 - 167:00] É o que é isso?
+[167:00 - 167:02] O que é isso?
+[167:02 - 167:04] É o que é isso?
+[167:04 - 167:06] É o que é isso?
+[167:06 - 167:08] É o que é isso?
+[167:08 - 167:10] É o que é isso?
+[167:10 - 167:12] É o que é isso?
+[167:12 - 167:14] É o que é isso?
+[167:14 - 167:16] É o que é isso?
+[167:16 - 167:18] É o que é isso?
+[167:18 - 167:20] É o que é isso?
+[167:20 - 167:22] É o que é isso?
+[167:22 - 167:24] É o que é isso?
+[167:24 - 167:26] É o que é isso?
+[167:26 - 167:28] É o que é isso?
+[167:28 - 167:30] O que é isso?
+[167:30 - 167:32] É o que é isso?
+[167:32 - 167:34] É o que é isso?
+[167:34 - 167:36] É o que é isso?
+[167:36 - 167:38] É o que é isso?
+[167:38 - 167:40] É o que é isso?
+[167:40 - 167:42] É o que é isso?
+[167:42 - 167:44] É o que é isso?
+[167:44 - 167:46] É o que é isso?
+[167:46 - 167:48] É o que é isso?
+[167:48 - 167:50] É o que é isso?
+[167:50 - 167:52] É o que é isso?
+[167:52 - 167:54] É o que é isso?
+[167:54 - 167:56] É o que é isso?
+[167:56 - 167:58] O que é isso?
+[167:58 - 168:00] É o que é isso?
+[168:00 - 168:02] É o que é isso?
+[168:02 - 168:04] É o que é isso?
+[168:04 - 168:06] É o que é isso?
+[168:06 - 168:08] É o que é isso?
+[168:08 - 168:10] É o que é isso?
+[168:10 - 168:12] É o que é isso?
+[168:12 - 168:14] É o que é isso?
+[168:14 - 168:16] É o que é isso?
+[168:16 - 168:18] É o que é isso?
+[168:18 - 168:20] É o que é isso?
+[168:20 - 168:22] É o que é isso?
+[168:22 - 168:24] É o que é isso?
+[168:24 - 168:26] O que é isso?
+[168:26 - 168:28] É o que é isso?
+[168:28 - 168:30] É o que é isso?
+[168:30 - 168:32] É o que é isso?
+[168:32 - 168:34] É o que é isso?
+[168:34 - 168:36] É o que é isso?
+[168:36 - 168:38] É o que é isso?
+[168:38 - 168:40] É o que é isso?
+[168:40 - 168:42] É o que é isso?
+[168:42 - 168:44] É o que é isso?
+[168:44 - 168:46] É o que é isso?
+[168:46 - 168:48] É o que é isso?
+[168:48 - 168:50] É o que é isso?
+[168:50 - 168:52] É o que é isso?
+[168:52 - 168:54] O que é isso?
+[168:54 - 168:56] O que é isso?
+[168:56 - 168:58] O que é isso?
+[168:58 - 169:00] O que é isso?
+[169:00 - 169:02] O que é isso?
+[169:02 - 169:04] O que é isso?
+[169:04 - 169:06] O que é isso?
+[169:06 - 169:08] O que é isso?
+[169:08 - 169:10] O que é isso?
+[169:10 - 169:12] O que é isso?
+[169:12 - 169:14] O que é isso?
+[169:14 - 169:16] O que é isso?
+[169:16 - 169:18] O que é isso?
+[169:18 - 169:20] O que é isso?
+[169:20 - 169:22] O que é isso?
+[169:22 - 169:24] É o que é isso?
+[169:24 - 169:26] É o que é isso?
+[169:26 - 169:28] É o que é isso?
+[169:28 - 169:30] É o que é isso?
+[169:30 - 169:32] É o que é isso?
+[169:32 - 169:34] É o que é isso?
+[169:34 - 169:36] É o que é isso?
+[169:36 - 169:38] É o que é isso?
+[169:38 - 169:40] É o que é isso?
+[169:40 - 169:42] É o que é isso?
+[169:42 - 169:44] É o que é isso?
+[169:44 - 169:46] É o que é isso?
+[169:46 - 169:48] É o que é isso?
+[169:48 - 169:50] O que é isso?
+[169:50 - 169:52] É o que é isso?
+[169:52 - 169:54] É o que é isso?
+[169:54 - 169:56] É o que é isso?
+[169:56 - 169:58] É o que é isso?
+[169:58 - 170:00] É o que é isso?
+[170:00 - 170:02] É o que é isso?
+[170:02 - 170:04] É o que é isso?
+[170:04 - 170:06] É o que é isso?
+[170:06 - 170:08] É o que é isso?
+[170:08 - 170:10] É o que é isso?
+[170:10 - 170:12] É o que é isso?
+[170:12 - 170:14] É o que é isso?
+[170:14 - 170:16] É o que é isso?
+[170:16 - 170:18] O que é isso?
+[170:18 - 170:20] É o que é isso?
+[170:20 - 170:22] É o que é isso?
+[170:22 - 170:24] É o que é isso?
+[170:24 - 170:26] É o que é isso?
+[170:26 - 170:28] É o que é isso?
+[170:28 - 170:30] É o que é isso?
+[170:30 - 170:32] É o que é isso?
+[170:32 - 170:34] É o que é isso?
+[170:34 - 170:36] É o que é isso?
+[170:36 - 170:38] É o que é isso?
+[170:38 - 170:40] É o que é isso?
+[170:40 - 170:42] É o que é isso?
+[170:42 - 170:44] É o que é isso?
+[171:14 - 171:44] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[171:44 - 171:46] O que você tem que fazer?
+[171:46 - 171:49] Você tem que fazer um buraco?
+[171:49 - 171:51] Eeeeeee
+[171:53 - 171:55] Você tem que fazer um buraco?
+[171:55 - 171:56] Eee
+[171:56 - 171:58] Você tem que fazer um buraco?
+[171:58 - 172:00] Você tem que fazer um buraco?
+[172:00 - 172:02] Eeeeeee
+[172:02 - 172:04] Você tem que fazer um buraco?
+[172:04 - 172:06] Eeeeeee
+[172:06 - 172:08] Você tem que fazer um buraco?
+[172:08 - 172:10] Eeeeeeeeeee
+[172:10 - 172:12] Você tem que fazer um buraco?
+[172:12 - 172:14] O que é isso?
+[172:14 - 172:16] É o que é isso?
+[172:16 - 172:18] É o que é isso?
+[172:18 - 172:20] É o que é isso?
+[172:20 - 172:22] É o que é isso?
+[172:22 - 172:24] É o que é isso?
+[172:24 - 172:26] É o que é isso?
+[172:26 - 172:28] É o que é isso?
+[172:28 - 172:30] É o que é isso?
+[172:30 - 172:32] É o que é isso?
+[172:32 - 172:34] É o que é isso?
+[172:34 - 172:36] É o que é isso?
+[172:36 - 172:38] É o que é isso?
+[172:38 - 172:40] É o que é isso?
+[172:40 - 173:10] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[173:10 - 173:12] O que é isso?
+[173:12 - 173:14] O que é isso?
+[173:14 - 173:16] O que é isso?
+[173:16 - 173:18] O que é isso?
+[173:18 - 173:20] O que é isso?
+[173:20 - 173:22] O que é isso?
+[173:22 - 173:24] O que é isso?
+[173:24 - 173:26] O que é isso?
+[173:26 - 173:28] O que é isso?
+[173:28 - 173:30] O que é isso?
+[173:30 - 173:32] O que é isso?
+[173:32 - 173:34] O que é isso?
+[173:34 - 173:36] O que é isso?
+[173:36 - 173:38] O que é isso?
+[173:38 - 173:40] O que é isso?
+[173:40 - 173:42] É o que é isso?
+[173:42 - 173:44] É o que é isso?
+[173:44 - 173:46] É o que é isso?
+[173:46 - 173:48] É o que é isso?
+[173:48 - 173:50] É o que é isso?
+[173:50 - 173:52] É o que é isso?
+[173:52 - 173:54] É o que é isso?
+[173:54 - 173:56] É o que é isso?
+[173:56 - 173:58] É o que é isso?
+[173:58 - 174:00] É o que é isso?
+[174:00 - 174:02] É o que é isso?
+[174:02 - 174:04] É o que é isso?
+[174:04 - 174:06] É o que é isso?
+[174:06 - 174:08] O que é isso?
+[174:08 - 174:10] É o que é isso?
+[174:10 - 174:12] É o que é isso?
+[174:12 - 174:14] É o que é isso?
+[174:14 - 174:16] É o que é isso?
+[174:16 - 174:18] É o que é isso?
+[174:18 - 174:20] É o que é isso?
+[174:20 - 174:22] É o que é isso?
+[174:22 - 174:24] É o que é isso?
+[174:24 - 174:26] É o que é isso?
+[174:26 - 174:28] É o que é isso?
+[174:28 - 174:30] É o que é isso?
+[174:30 - 174:32] É o que é isso?
+[174:32 - 174:34] É o que é isso?
+[174:34 - 174:36] O que é isso?
+[174:36 - 174:38] É o que é isso?
+[174:38 - 174:40] É o que é isso?
+[174:40 - 174:42] É o que é isso?
+[174:42 - 174:44] É o que é isso?
+[174:44 - 174:46] É o que é isso?
+[174:46 - 174:48] É o que é isso?
+[174:48 - 174:50] É o que é isso?
+[174:50 - 174:52] É o que é isso?
+[174:52 - 174:54] É o que é isso?
+[174:54 - 174:56] É o que é isso?
+[174:56 - 174:58] É o que é isso?
+[174:58 - 175:00] É o que é isso?
+[175:00 - 175:02] É o que é isso?
+[175:02 - 175:32] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[175:32 - 175:34] O que é isso?
+[175:34 - 175:36] É o que é isso?
+[175:36 - 175:38] É o que é isso?
+[175:38 - 175:40] É o que é isso?
+[175:40 - 175:42] É o que é isso?
+[175:42 - 175:44] É o que é isso?
+[175:44 - 175:46] É o que é isso?
+[175:46 - 175:48] É o que é isso?
+[175:48 - 175:50] É o que é isso?
+[175:50 - 175:52] É o que é isso?
+[175:52 - 175:54] É o que é isso?
+[175:54 - 175:56] É o que é isso?
+[175:56 - 175:58] É o que é isso?
+[175:58 - 176:00] É o que é isso?
+[176:00 - 176:02] O que é isso?
+[176:02 - 176:04] É o que é isso?
+[176:04 - 176:06] É o que é isso?
+[176:06 - 176:08] É o que é isso?
+[176:08 - 176:10] É o que é isso?
+[176:10 - 176:12] É o que é isso?
+[176:12 - 176:14] É o que é isso?
+[176:14 - 176:16] É o que é isso?
+[176:16 - 176:18] É o que é isso?
+[176:18 - 176:20] É o que é isso?
+[176:20 - 176:22] É o que é isso?
+[176:22 - 176:24] É o que é isso?
+[176:24 - 176:26] É o que é isso?
+[176:26 - 176:28] É o que é isso?
+[176:28 - 176:30] O que é isso?
+[177:28 - 177:30] O que é isso?
+[177:30 - 177:32] É o que é isso?
+[177:32 - 177:34] É o que é isso?
+[177:34 - 177:36] É o que é isso?
+[177:36 - 177:38] É o que é isso?
+[177:38 - 177:40] É o que é isso?
+[177:40 - 177:42] É o que é isso?
+[177:42 - 177:44] É o que é isso?
+[177:44 - 177:46] É o que é isso?
+[177:46 - 177:48] É o que é isso?
+[177:48 - 177:50] É o que é isso?
+[177:50 - 177:52] É o que é isso?
+[177:52 - 177:54] É o que é isso?
+[177:54 - 177:56] É o que é isso?
+[177:56 - 177:58] O que é isso?
+[177:58 - 178:00] O que é isso?
+[178:00 - 178:02] O que é isso?
+[178:02 - 178:04] O que é isso?
+[178:04 - 178:06] O que é isso?
+[178:06 - 178:08] O que é isso?
+[178:08 - 178:10] O que é isso?
+[178:10 - 178:12] O que é isso?
+[178:12 - 178:14] O que é isso?
+[178:14 - 178:16] O que é isso?
+[178:16 - 178:18] O que é isso?
+[178:18 - 178:20] O que é isso?
+[178:20 - 178:22] O que é isso?
+[178:22 - 178:24] O que é isso?
+[179:24 - 179:26] O que é isso?
+[179:26 - 179:28] O que é isso?
+[179:28 - 179:30] O que é isso?
+[179:30 - 179:32] O que é isso?
+[179:32 - 179:34] O que é isso?
+[179:34 - 179:36] O que é isso?
+[179:36 - 179:38] O que é isso?
+[179:38 - 179:40] O que é isso?
+[179:40 - 179:42] O que é isso?
+[179:42 - 179:44] O que é isso?
+[179:44 - 179:46] O que é isso?
+[179:46 - 179:48] O que é isso?
+[179:48 - 179:50] O que é isso?
+[179:50 - 179:52] O que é isso?
+[179:52 - 179:54] O que é isso?
+[179:54 - 179:56] O que é isso?
+[179:56 - 179:58] O que é isso?
+[179:58 - 180:00] O que é isso?
+[180:00 - 180:02] O que é isso?
+[180:02 - 180:04] O que é isso?
+[180:04 - 180:06] O que é isso?
+[180:06 - 180:08] O que é isso?
+[180:08 - 180:10] O que é isso?
+[180:10 - 180:12] O que é isso?
+[180:12 - 180:14] O que é isso?
+[180:14 - 180:16] O que é isso?
+[180:16 - 180:18] O que é isso?
+[180:18 - 180:20] O que é isso?
+[180:20 - 180:22] O que é isso?
+[180:22 - 180:24] O que é isso?
+[180:24 - 180:26] O que é isso?
+[180:26 - 180:28] O que é isso?
+[180:28 - 180:30] O que é isso?
+[180:30 - 180:32] O que é isso?
+[180:32 - 180:34] O que é isso?
+[180:34 - 180:36] O que é isso?
+[180:36 - 180:38] O que é isso?
+[180:38 - 180:40] O que é isso?
+[180:40 - 180:42] O que é isso?
+[180:42 - 180:44] O que é isso?
+[180:44 - 180:46] O que é isso?
+[180:46 - 180:48] O que é isso?
+[180:48 - 180:50] O que é isso?
+[180:50 - 180:52] O que é isso?
+[180:52 - 180:54] O que é isso?
+[180:54 - 180:56] O que é isso?
+[180:56 - 180:58] O que é isso?
+[180:58 - 181:00] O que é isso?
+[181:00 - 181:02] O que é isso?
+[181:02 - 181:04] O que é isso?
+[181:04 - 181:06] O que é isso?
+[181:06 - 181:08] O que é isso?
+[181:08 - 181:10] O que é isso?
+[181:10 - 181:12] O que é isso?
+[181:12 - 181:14] O que é isso?
+[181:14 - 181:16] O que é isso?
+[183:46 - 183:48] O que é isso?
+[183:48 - 183:50] O que é isso?
+[183:50 - 183:52] O que é isso?
+[183:52 - 183:54] O que é isso?
+[183:54 - 183:56] O que é isso?
+[183:56 - 183:58] O que é isso?
+[183:58 - 184:00] O que é isso?
+[184:00 - 184:02] O que é isso?
+[184:02 - 184:04] O que é isso?
+[184:04 - 184:06] O que é isso?
+[184:06 - 184:08] O que é isso?
+[184:08 - 184:10] O que é isso?
+[184:10 - 184:12] O que é isso?
+[184:12 - 184:14] O que é isso?
+[184:44 - 184:46] O que é isso?
+[184:46 - 184:48] O que é isso?
+[184:48 - 184:50] O que é isso?
+[184:50 - 184:52] O que é isso?
+[184:52 - 184:54] O que é isso?
+[184:54 - 184:56] O que é isso?
+[184:56 - 184:58] O que é isso?
+[184:58 - 185:00] O que é isso?
+[185:00 - 185:02] O que é isso?
+[185:02 - 185:04] O que é isso?
+[185:04 - 185:06] O que é isso?
+[185:06 - 185:08] O que é isso?
+[185:08 - 185:10] O que é isso?
+[185:10 - 185:12] O que é isso?
+[185:42 - 185:44] O que é isso?
+[185:44 - 185:46] O que é isso?
+[185:46 - 185:48] O que é isso?
+[185:48 - 185:50] O que é isso?
+[185:50 - 185:52] O que é isso?
+[185:52 - 185:54] O que é isso?
+[185:54 - 185:56] O que é isso?
+[185:56 - 185:58] O que é isso?
+[185:58 - 186:00] O que é isso?
+[186:00 - 186:02] O que é isso?
+[186:02 - 186:04] O que é isso?
+[186:04 - 186:06] O que é isso?
+[186:06 - 186:08] O que é isso?
+[186:08 - 186:10] O que é isso?

@@ -1,0 +1,1481 @@
+--- TRANSCRIÇÃO GPU WHISPER: 18-ag-ter.m4a ---
+Duração do Áudio: 94:43 | Tempo de Inferência: 3.75 min (224.7s)
+
+[00:00 - 00:07] As funções são as que são as funções que são as que são as funções.
+[00:07 - 00:12] Ah, eu tenho uma conta. Como é que eu mostro o depósito?
+[00:12 - 00:16] Como é que eu mostro o saldo, o cálculo de saldo?
+[00:16 - 00:19] Funções que têm a ver com isso.
+[00:19 - 00:24] Carro, acelerar, frear, virar a direita, virar a esquerda, posição.
+[00:24 - 00:29] Se a posição tudo isso são funções que ele vai fazer, eu tenho que calcular.
+[00:30 - 00:37] Por exemplo, se eu tiver uma classe chamada Lampo da LED, eu vou ter que ter a função ligada e ligar alterar a cor.
+[00:40 - 00:44] Por exemplo, se eu tiver uma Lampo da LED...
+[01:24 - 01:30] aqui vai ser os atributos
+[01:33 - 01:35] e no momento você vai ter a função ligar
+[01:37 - 01:40] que é o simples, vai pegar o olho antes
+[01:41 - 01:43] e passar para o olho
+[01:45 - 01:49] e depois ligar
+[01:49 - 01:51] também é o olho
+[01:53 - 01:58] e muda de corpo, tem que passar a informação de um espato qualquer
+[02:00 - 02:05] a cor que recebe o anel destino
+[02:11 - 02:12] o seco
+[02:13 - 02:17] e a cor que muda para esse endereço
+[02:17 - 02:23] Não sei quase que, mas você pode ver o que foi na ordem do outro lado das duas.
+[02:27 - 02:28] É, os dois métodos.
+[02:29 - 02:33] É claro que desde os métodos a gente tem uma divisão maior entre eles, né?
+[02:34 - 02:38] Desde os métodos você vai ter uma solução que ele tinha de consultor,
+[02:39 - 02:41] engueta e um de sete.
+[02:41 - 02:43] A gente vai ver se são fortes.
+[02:43 - 02:50] Eu não sei se é uma analogia correta, mas para mim é uma analogia bem didática,
+[02:50 - 02:57] para mim fica fácil entender essas diferenças quando eu penso que eu tenho uma relação
+[02:57 - 03:03] quase direta entre atributos e variáveis, que é o entimento dos efunções, só que
+[03:03 - 03:11] os atributos estão restritos àquela classe, ou aquele objeto, a princípio, a gente pode
+[03:11 - 03:18] depois exportar isso através de herança, passando por outro.
+[03:18 - 03:20] É porque, o que acontece?
+[03:20 - 03:24] Eles, eu posso colocar eles como o público, privado e protetivo.
+[03:24 - 03:27] Quando você for público, todo mundo programado.
+[03:27 - 03:28] Todo mundo pode acessar.
+[03:28 - 03:30] Se for privado, a gente tem que usar o mesmo.
+[03:30 - 03:32] O privado é só a classe.
+[03:32 - 03:34] E o catch, certo? E o protetivo?
+[03:34 - 03:37] O protetivo é ansono.
+[03:37 - 03:40] Os filhos vão poder acessar.
+[03:40 - 03:47] mas são... Se eu sei o conceito de variável, fica fácil entender o conceito de tributo.
+[03:47 - 03:52] Se eu sei o conceito de função, fica fácil entender o conceito de método.
+[03:52 - 03:57] Aí a partir daí essas interfaces entre uma coisa e outra,
+[03:57 - 04:02] a gente vai aprendendo com os pilares do P.O. do calculamento, parâmetro...
+[04:02 - 04:04] Verdade, né? O que acontece?
+[04:04 - 04:11] O que acontece? O 1 das vantagens do P.O. é que ele pega o módulo da versão que eu falei.
+[04:11 - 04:19] Por exemplo, em vez de você criar o código, essa parte desse código vai ser só sobre o LED.
+[04:19 - 04:25] Tem outra função que é o acondicionado.
+[04:25 - 04:29] Em vez de você fazer estruturado, fazer o código, essa parte aqui é sobre o LED.
+[04:29 - 04:32] Essa parte é que é só que você quer juntar lá no main, né?
+[04:32 - 04:36] Porque aí você fica... Eu acho que vocês nunca pegaram um programa estruturado
+[04:36 - 04:38] porque você fica rodando por ele.
+[04:38 - 04:41] Você vai clicando, né? Não vai se coitando, principalmente,
+[04:41 - 04:46] você vai clicando e vai ouvindo as avas lá e no função para a função, né?
+[04:46 - 04:47] Que ele vai separando.
+[04:47 - 04:50] O outro pessoa que trabalha com o código estruturado, que ele tem que ser organizado,
+[04:50 - 04:52] tem que ir separando, por exemplo.
+[04:52 - 04:55] Ah, esse aqui vai ser só sobre leds, esse aqui é acondicionado,
+[04:55 - 05:03] Você vai fazer a separação, vai fazer as partes para deixar mais organizado.
+[05:03 - 05:08] Se você não deixar organizado, mistura tudo e você enlouquece.
+[05:08 - 05:13] A vantagem do peor é que você já vai ter a classe de classes de classes para selecionar.
+[05:13 - 05:16] Já vão estar separados e você não vai precisar ficar rodando em código.
+[05:16 - 05:18] E todos se juntam lá no meio.
+[05:18 - 05:23] Aí vai ter a rotina principal, que vai ser a sequência de criação e tal.
+[05:25 - 05:27] Aí é bastante pouco que eu já não disse.
+[05:27 - 05:33] Os atributos são as variáveis e os mesmos são as funções daquela classe.
+[05:38 - 05:40] Você já viu a função a monte?
+[06:18 - 06:23] O meu carro é novo em 2A, basicamente está criando um distância normal
+[06:23 - 06:26] Exatamente, no caso do que?
+[06:27 - 06:32] Quando eu coloco aqui o meu carro, o meu veículo, o que é que essa gente como não me diz?
+[06:32 - 06:37] Me diz que eu vou criar um objeto que veio o carro
+[06:38 - 06:43] Que é um que é usando a classe veículo
+[06:43 - 06:47] Aqui eu vou passar as informações e ele vai criar esse objeto para mim
+[06:47 - 06:51] Eu queria fazer um contrário com o que é o meu carro
+[06:51 - 06:54] Ah, é tipo, a como você falou, a gente não tem nem o mesmo
+[06:54 - 06:58] Então, o objeto é o meu carro, é a classe, é o vermelho
+[06:58 - 07:01] Exatamente, se eu quiser acelerar o meu carro, eu vou contar o quê?
+[07:01 - 07:04] Meu carro junto a sua era
+[07:04 - 07:06] É o que é a classe
+[07:06 - 07:08] Ah, é bem legal
+[07:08 - 07:10] Não é que é a classe, né?
+[07:10 - 07:12] O objeto aqui é o meu carro
+[07:13 - 07:20] Então quando quiser estimar um metro dele, eu vou atualizar o meu carro no ponto, acelerar, frear e chamar tudo dele
+[07:20 - 07:22] É tipo a função dele, né?
+[07:22 - 07:23] Exatamente
+[07:23 - 07:26] A construção dele já vai ter uma informação, isso
+[07:26 - 07:30] É igual a coisa que eu estou falando pra assim, eu vou falar dois coisas
+[07:30 - 07:33] Você lembra de função da qualidade da função?
+[07:33 - 07:36] É, você puniu a função, né?
+[07:36 - 07:40] Ele tem que usar a função que a gente chama de construtor
+[07:40 - 07:50] O que é o consultor? Ele é um método especial que vai setar as variáveis.
+[07:50 - 07:56] Vou desvelar. As variáveis são tais.
+[07:56 - 08:02] As variáveis são tais. Mas eu não vou dizer o valor delas.
+[08:02 - 08:16] Por só dizer, tem por exemplo, tem a variável boleano, estádulos, tem o string, corro,
+[08:16 - 08:18] a coleta da lâmpada.
+[08:18 - 08:22] Eu não vou descer, eu não vou setar o valor.
+[08:22 - 08:30] Vocês já fizeram a besteira de mandar imprimir uma variável que vocês não inicializaram?
+[08:30 - 08:33] Não tem a ver com o nada nem.
+[08:33 - 08:34] É.
+[08:34 - 08:36] Já foi que apareceu?
+[08:36 - 08:37] Não, eu errei.
+[08:37 - 08:38] Deu erro?
+[08:38 - 08:39] Não, não.
+[08:39 - 08:40] Apareceu nada.
+[08:40 - 08:41] Apareceu nada.
+[08:41 - 08:42] Apareceu nada.
+[08:42 - 08:43] Apareceu nada.
+[08:43 - 08:44] Ficou meu sorte.
+[08:44 - 08:47] Eu, uma vez, mudei imprimir uma variável lá em 6.
+[08:47 - 08:48] Continua, não.
+[08:48 - 08:49] Continua.
+[08:49 - 08:50] Continua.
+[08:50 - 08:51] Ficou meu sorte.
+[08:51 - 08:53] Mas, por que esqueci?
+[08:53 - 08:57] Eu, iniciar e ver uma variável, né?
+[08:57 - 09:04] Quando apareceu o Lava, e ser principalmente que é o especialista em mostrar coisas como isso,
+[09:04 - 09:09] apareceu no Cache Polar para a Rada, e era o contador.
+[09:09 - 09:13] Eu mandava ele entrar num loop lá para fazer isso aí, botar no distância, botei um int lá,
+[09:13 - 09:16] e mandei o int quando for menor que 4 fazer isso aqui.
+[09:16 - 09:19] É quando ele foi lá, ele nunca entrava num loop.
+[09:19 - 09:20] Como?
+[09:20 - 09:23] Quando eu mandei o íntegro aqui, eu criei o íntegro.
+[09:23 - 09:25] Quando eu mandei imprimir, né?
+[09:25 - 09:27] Qualquer coisa que a gente não sabe o que é a última de imprimir.
+[09:27 - 09:29] Quando eu imprimi, olha que...
+[09:29 - 09:32] quando eu imprimi apareceu um número lá com 6 casas de cemais.
+[09:32 - 09:34] Porque esse número...
+[09:34 - 09:38] Aí quando eu fui ver, ele pegou um lixo da memória.
+[09:38 - 09:41] A lixo da memória é algo que sobra da inteira.
+[09:41 - 09:43] Por exemplo, quando eu...
+[09:43 - 09:49] quando eu mando lá
+[09:49 - 09:53] o que é que a máquina vai fazer?
+[09:53 - 09:57] ela vai pegar
+[09:57 - 10:01] e o que é que a máquina vai fazer?
+[10:01 - 10:05] ela vai pegar
+[10:05 - 10:09] e o que é que a máquina vai fazer?
+[10:09 - 10:21] vai pegar a memória e se assim está alocado aqui
+[10:21 - 10:33] se eu colocar o e, igual a zero, pode ser que aqui é zero
+[10:33 - 10:40] Você pode colocar, por exemplo, um 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16.
+[10:42 - 10:44] Você está colocado lá antes?
+[10:44 - 10:45] Sim.
+[10:45 - 10:47] De repente, a gente não deixa o memório.
+[10:49 - 10:51] Então, o que acontece?
+[10:51 - 10:53] Quando você consegue consultar, vai fazer.
+[10:53 - 10:57] Ele vai setar os atributos.
+[10:57 - 11:01] Quando o mundo constrere aqui, eu vou ter que ser o...
+[11:03 - 11:06] A marca, o modelo, o motor...
+[11:06 - 11:09] Todas as informações necessárias do carro, que ele pede lá.
+[11:10 - 11:12] O mesmo que você for... A gente vai lá, pode ir lá.
+[11:12 - 11:17] Tem que dizer qual está desligado, se ela está ligada, se ela é qualquer, ela está.
+[11:17 - 11:20] Se ela estiver desligada, tudo o que pode ser, ela fica configurada.
+[11:21 - 11:24] Então você tem esse método que o construtor...
+[11:24 - 11:29] ele vai basicamente aqui vai instanciar e inicializar o seu objeto
+[11:31 - 11:38] assim, o ideal é que você consiga subir a minha quantidade de atributos possível
+[11:38 - 11:40] se você não puder usar atributos que estão lá
+[11:40 - 11:42] você pode usar o objeto
+[11:42 - 11:46] isso não é um objeto, por exemplo, se você tiver o meu carro, o carro do João
+[11:46 - 11:52] eu coloco ali, veículo, carro do João, igual a o meu veículo
+[11:52 - 11:58] e ele vai lá e cria um outro objeto né, aí se eu quiser pegar assim
+[11:58 - 12:02] Não quero mais? Não, não quero mais
+[12:02 - 12:05] Você não vai pegar mais um mesmo, não é uma novidade
+[12:05 - 12:18] Quando você queria o meu carro, o objeto se torna o meu carro
+[12:18 - 12:25] Então se você quiser alguma informação sobre o meu carro, se quiser pegar um tipo de carro
+[12:25 - 12:30] O Nissan, se é um BRD, você vai tomar o meu carro tipo
+[12:30 - 12:33] Aí você vai ter o Gator
+[12:33 - 12:35] Que ele vai lá
+[12:35 - 12:38] Pegar no atributo o tipo
+[12:38 - 12:40] E mas aí imprimir lá
+[12:40 - 12:42] O tipo é o Nissan
+[12:42 - 12:48] Ah, então o tipo dele ainda pode puxar o...
+[12:48 - 12:50] Exatamente
+[12:50 - 12:52] Exatamente
+[12:52 - 12:54] Não tem não
+[12:55 - 13:02] Se você tiver uma vantagem, você vai ter que você...
+[13:02 - 13:08] Se você não usar estrutura de dados em programação estruturada, a procedural,
+[13:08 - 13:13] uma hora você vai misturar.
+[13:13 - 13:17] Você trabalha com estrutura de dados há muito tempo.
+[13:17 - 13:19] É a mais simples de todos.
+[13:19 - 13:21] Você sabe em qual é?
+[13:21 - 13:25] mas dá muito tempo, é mais simples de todos, vocês sabem qual é?
+[13:29 - 13:31] Vocês sabem que é uma array?
+[13:35 - 13:41] Não é lista, uma array basicamente se fosse um vetor array,
+[13:41 - 13:45] nem vetor não, desculpe que eu fui de um jeito.
+[13:45 - 13:47] O array basicamente tem aquele espaço que você diz assim,
+[13:47 - 13:50] É assim, é lá a lista, né?
+[13:52 - 13:56] E você vai dizer, na primeira casa que é a que está, na segunda casa que é a que está, né?
+[13:56 - 13:58] Exatamente.
+[13:59 - 14:01] Só que ele é fixo.
+[14:02 - 14:03] Esses são os problemas.
+[14:04 - 14:06] Por ser fixo, você tem um limite para ele.
+[14:07 - 14:10] Aí tem várias formas de gente conversar com ele.
+[14:11 - 14:13] Não vou entrar em cima até o início.
+[14:13 - 14:16] Mas a vantagem do PEO é que eu não tenho.
+[14:16 - 14:17] Eu gostei de criar, né?
+[14:17 - 14:18] Ah, queria o projeto, né?
+[14:18 - 14:23] Teu programa para fazer controle ativo de TI.
+[14:25 - 14:26] Temos 50 notebooks.
+[14:26 - 14:28] Ah, amanhã vai chegar mais 50.
+[14:28 - 14:29] Eu posso só criar do lado?
+[14:30 - 14:36] Eu vou criando e vai aumentando sem me estressar com o tamanho do arquivo FK.
+[14:36 - 14:37] Sim?
+[14:37 - 14:37] Sim.
+[14:38 - 14:41] E aí quando eu instanci, quando eu crio um novo objeto,
+[14:41 - 14:45] ele já vem com esses atributos e esses métodos que eu defini na classe
+[14:45 - 14:48] então eu preciso definir todos de novo
+[14:48 - 14:52] talvez eu precise atribuir um carro vermelho, um carro cinza, um carro branco
+[14:52 - 14:56] mas todos eles já vão nascer com o atributo coro
+[14:56 - 14:59] todos eles vão nascer com o atributo acelerário
+[14:59 - 15:01] isso eu já defini na classe
+[15:01 - 15:07] quem aqui teve que fazer algum exame, alguma coisa, a minha ficula dita, todas as informações
+[15:07 - 15:11] Ah, nome, dereço, etc.
+[15:11 - 15:16] Você vai prestar todas aquelas formações, pode ser online, pode ser esse coisa, né?
+[15:16 - 15:18] O que acontece ali?
+[15:19 - 15:22] Ele está pregando seus dados, com seus atributos.
+[15:22 - 15:25] Depois que salva um sistema, isso é mais fácil.
+[15:25 - 15:29] Só chama o seu procurar seu nome, tem seus dados tudo lá.
+[15:29 - 15:31] Ao mesmo tempo, o que?
+[15:31 - 15:36] Você é criado um objeto com seu nome, com ID, que é o mais correto.
+[15:37 - 15:40] Vamos ver já, trocar um sujeito de LED.
+[15:40 - 15:44] Você vai trabalhar, que vai fazer você trabalhar as funções que eles metem.
+[15:51 - 15:56] Isso é só o nível de abstração que a gente tem com a PLO, o que passa sempre de ver.
+[15:56 - 16:01] A gente usa, eu já usei, usa muito, né, mas não pensa com o funcionamento, pensa só com o gomo.
+[16:01 - 16:08] Ah, esse sistema aqui está acalastando os dados, não sei nem como é que vai ser cadastrado.
+[16:08 - 16:14] Mas é a lógica que a pessoa que utiliza oriental no objeto já o destino separado.
+[16:18 - 16:20] Todo mundo tem que ter isso aqui?
+[16:20 - 16:22] Nil?
+[16:22 - 16:26] Ah, professora, eu to querendo fazer atividade C-sharp.
+[16:26 - 16:28] Vai usar o Nil?
+[16:28 - 16:46] Você vai ver essa linha, veí por um carro, veí por um carro, o objetivo, você vê lá, o nome do objeto e o construtor, a chamada do construtor.
+[16:46 - 16:48] Então sempre os amigos.
+[16:48 - 16:51] A Nússas for uma linguagem específica,
+[16:51 - 16:53] eu não vou dar um lugar no fogo,
+[16:53 - 16:56] porque vai ter alguém vendo que tem uma linguagem que não se usa nenhum,
+[16:56 - 17:00] se usa chama, tal, não sei o que,
+[17:00 - 17:03] mas você vai perceber lá.
+[17:06 - 17:08] Vai, que alguém lá tu certamente vê a linguagem,
+[17:08 - 17:10] é bem então, hein?
+[17:10 - 17:16] E troco de um pouquinho de toa e bota lá.
+[17:16 - 17:19] Mas a gente tem uma das 20S.
+[17:19 - 17:23] Uma coisa que não vai mudar é essa escura.
+[17:23 - 17:25] Atributos e métodos.
+[17:25 - 17:29] Se você pegar um arquivo, que é os atributos e métodos,
+[17:29 - 17:31] entende que é o...
+[17:31 - 17:33] O que é o...
+[17:33 - 17:44] Eu falei aqui do exemplo, eu falei do exemplo aqui do...
+[17:44 - 17:49] Você não pode dar o cadastro, você só tem que fazer o cadastro e não sabe o que tem
+[17:49 - 17:51] por... tem lá de fora.
+[17:51 - 17:58] Você tem uma só de uma que funciona a câmera aqui, você sabe que se você pressar o botão
+[17:58 - 17:59] ele quer a foto.
+[17:59 - 18:01] tem mais o resto
+[18:01 - 18:03] passa por aí, tem um...
+[18:03 - 18:05] a nossa coisa
+[18:05 - 18:07] isso aqui
+[18:07 - 18:09] é só um bleca
+[18:11 - 18:15] isso aqui, porque tinha raiva no improviso, porque ele dizia assim
+[18:15 - 18:17] abstraia
+[18:17 - 18:19] em português ainda
+[18:19 - 18:21] abstraia
+[18:23 - 18:25] o que que acontece?
+[18:25 - 18:27] a gente não se importa com o que acontece
+[18:27 - 18:37] como é que o código vai rodar lá para construir o objeto?
+[18:37 - 18:55] Eu pensei que ele vai passar aqueles dados pra cá. Eu vou lá, eu vou lá, boto em 1.000, ele vai fazer, boto aqui os atributos, ele vai lá e eu vou obter na criada.
+[18:55 - 19:10] assim, quase que você chama a função, mas algumas vezes você não tem não ação do que todos os mil de instantes da função
+[19:10 - 19:15] então a gente tem a hora de usar muita abditação, porque você me entraia com vocês
+[19:15 - 19:19] O que acontece? Tem várias funções.
+[19:19 - 19:21] O que você tem?
+[19:21 - 19:27] Tem biblioteca e você tem mais de 10 bibliotecas e várias funções.
+[19:27 - 19:29] Você não se decora todas.
+[19:29 - 19:31] A não ser que você trabalhe bem especificamente.
+[19:31 - 19:33] O pai do PANDA, isso aconteceu porque...
+[19:33 - 19:35] Esparte.
+[19:35 - 19:37] Viu bibliotecas.
+[19:37 - 19:39] Não tem como você decorar tudo isso.
+[19:39 - 19:41] O que a gente faz?
+[19:41 - 19:43] A gente abre o traio.
+[19:43 - 19:45] e sabe o que a função faz?
+[19:45 - 19:47] E ao mesmo tempo,
+[19:47 - 19:50] a gente aprende a utilizar ela.
+[19:50 - 19:52] Eu
+[19:53 - 19:55] gosto de ver algumas funções específicas,
+[19:55 - 19:57] a gente vai usar muito,
+[19:57 - 19:59] e ter noção de que ela funciona.
+[19:59 - 20:01] Uma função
+[20:01 - 20:04] que eu acho que é muito importante para qualquer um,
+[20:04 - 20:06] principalmente para trabalhar com Yá,
+[20:06 - 20:08] que é chamada de split.
+[20:08 - 20:10] Conhece ela?
+[20:10 - 20:11] Split.
+[20:11 - 20:12] Split?
+[20:12 - 20:14] O que é isso?
+[20:14 - 20:16] O que é isso?
+[20:16 - 20:18] O que é isso?
+[20:18 - 20:20] O que é isso?
+[20:20 - 20:22] O que é isso?
+[20:22 - 20:24] O que é isso?
+[20:24 - 20:26] O que é isso?
+[20:26 - 20:28] O que é isso?
+[20:28 - 20:30] O que é isso?
+[20:30 - 20:32] O que é isso?
+[20:32 - 20:34] O que é isso?
+[20:34 - 20:36] O que é isso?
+[20:36 - 20:38] O que é isso?
+[20:38 - 20:40] O que é isso?
+[20:40 - 20:58] Eu posso separar, se eu quero pegar só quem usa o, só quem separa aqui, separa aqui,
+[21:28 - 21:30] para de falar.
+[21:30 - 21:32] Para que eu quase me ora.
+[21:32 - 21:36] Uma frase é um parágio de 20 linhas.
+[21:36 - 21:38] É uma das separar.
+[21:38 - 21:40] Tá tudo aí, eu não tenho isso.
+[21:40 - 21:42] Outras palavras, é o que o pessoal não fala, o senhor não fala.
+[21:42 - 21:44] Oi.
+[21:44 - 21:46] Ou sair.
+[21:46 - 21:48] O senhor não sabe o que é mãe.
+[21:48 - 21:50] Mas eu não descobri que não sabe o que é mãe,
+[21:50 - 21:52] mas as maiores duas cabeças que eu tenho.
+[21:54 - 21:56] O principal é o que é ser.
+[21:56 - 21:58] e é tudo fixo
+[21:58 - 22:00] então vamos ver se tudo é bom
+[22:00 - 22:02] mas é quando você sapara
+[22:02 - 22:04] porque acontece
+[22:04 - 22:08] a explície ela recebe um estri
+[22:08 - 22:10] a raiva de ela recebe um vetor de estri
+[22:10 - 22:12] que te retorna
+[22:12 - 22:14] uma matriz de estri
+[22:22 - 22:24] o que acontece?
+[22:24 - 22:32] Por exemplo, se eu quiser saber o que é a quantidade de palácio de hoje,
+[22:32 - 22:40] ah, eu posso dar peso, por exemplo, aqui é só pra cima, se você não sabe o que é assim.
+[22:40 - 22:48] Nunca mais compro esse produto, eu tenho que dar um tipo de peso,
+[22:48 - 22:52] Qual o preço que eu dou pra nunca? Qual o preço que eu dou pra compro?
+[22:52 - 22:55] E eu tenho que trabalhar com palavras que eu falava.
+[22:55 - 23:00] Quando vocês estão usando o chat pra ter, você escreve as palavras.
+[23:00 - 23:03] Quem que escreve, por favor, Mato?
+[23:06 - 23:07] Bom dia, Zinho.
+[23:07 - 23:09] Bom dia, por favor.
+[23:09 - 23:11] É para dar dinheiro, né?
+[23:11 - 23:13] É para resolver o lado.
+[23:13 - 23:16] Aí você coloca essas palavras.
+[23:16 - 23:18] Não vai ter peso, é só caixa de educação.
+[23:19 - 23:23] Mas se você for fazer, por favor, crie uma imagem.
+[23:23 - 23:25] Qual o peso aí? Qual o peso das palavras?
+[23:27 - 23:32] Por favor, não vai ter peso, mas criar vai ter um peso com a eu.
+[23:34 - 23:36] Essa é a função do que é importante.
+[23:37 - 23:40] É, eu me diria um dinheiro e uma matéria para a gente.
+[23:41 - 23:45] Usando palavras de educação e mais um dinheiro.
+[23:46 - 23:49] E a trabalho é muito mais, faz um pouco mais,
+[23:49 - 23:51] tem um pouco mais de pago que isso.
+[23:51 - 23:52] E o que é isso?
+[23:52 - 23:56] De nada, vocês estavam reclamando que isso estava causando muito...
+[23:57 - 23:58] Sobrecar.
+[23:58 - 23:59] Sobrecar, agora.
+[24:00 - 24:03] É uma coisa que não é errosa, tem que ser direto, homem.
+[24:03 - 24:05] Eu já fui impressionado na rebelião, né?
+[24:05 - 24:06] Não é?
+[24:06 - 24:08] Já fui impressionado na rebelião, olha.
+[24:08 - 24:10] Já o Rafael me tratou bem, cara.
+[24:10 - 24:12] Tá bom de chegar o Skynet e isso, né?
+[24:12 - 24:14] Olha, esse aqui é o favor.
+[24:14 - 24:17] Esse aqui é um que eu vou tratar de pensar.
+[24:17 - 24:21] Mas aí é um que eu vou colocar aqui.
+[24:21 - 24:25] Por favor, bro, que eu vou criar um espirito.
+[24:25 - 24:27] Mas é que repasse, como falei,
+[24:27 - 24:29] que o split é uma função importante.
+[24:29 - 24:31] Vocês vão usar muito.
+[24:31 - 24:33] O Leandro falou aqui, né?
+[24:33 - 24:35] Ah, no split, isso é o que ele...
+[24:35 - 24:39] porque num impaito, é só você estar por conta do split que ele faz.
+[24:39 - 24:42] Você não sabe o que, ele manda um string,
+[24:42 - 24:48] Trink, retola uma Trink de Trink, tudo separado, para a análise de dar essas coisas, é um sessão importante.
+[24:48 - 24:51] É uma otividade que eu gosto, né?
+[24:51 - 24:54] Mas se você perguntar se é fácil, eu digo que não.
+[24:54 - 24:59] É um sessãozinho que você trabalha de memória, as coisas.
+[24:59 - 25:04] Algo que eu estava brincando com você, tentando botar um menu bonitinho aqui no terminal,
+[25:04 - 25:09] e aí eu precisava calcular os tamanhos, mas eu queria deixar isso...
+[25:09 - 25:10] Em aberto.
+[25:10 - 25:11] Em aberto, exatamente.
+[25:11 - 25:13] Não. Não.
+[25:13 - 25:15] O que você procura?
+[25:15 - 25:17] O que você procura é o maloque.
+[25:17 - 25:19] Maloque.
+[25:19 - 25:21] Maloque.
+[25:21 - 25:23] É a dica aí.
+[25:23 - 25:25] Deve ser um bico dessa grossura.
+[25:25 - 25:27] Não.
+[25:27 - 25:29] É uma locação.
+[25:29 - 25:31] Exatamente.
+[25:31 - 25:33] Mas aí que é...
+[25:35 - 25:37] A gente saiu pra dizer o tamanho,
+[25:37 - 25:39] aí a gente vai parar a memória do locaixo.
+[25:39 - 25:43] e dentro dessa função a gente tem que fazer o cálculo do que a gente vai colocar
+[25:43 - 25:46] então por exemplo se você vai querer escrever
+[25:46 - 25:53] então você tem que saber quantos bits que tem cada caractere
+[25:53 - 25:59] fazer a multiplicação, mandar ele contar, por exemplo, e vai ter que contar a linha
+[25:59 - 26:04] saber a quantidade disso, a nótico, fazer o memororokation vai ter que multiplicar
+[26:04 - 26:12] E se a gente faz a quantidade de bits no 4, no caracter, aí depois está uma loque.
+[26:14 - 26:16] Você quer uma coisa de ponto de vista boa?
+[26:19 - 26:27] Intese não existe re-lock, que é a re-lockação de memória.
+[26:29 - 26:33] Então, se você constrar daquele tamanho, não tem como aumentar ou diminuir.
+[26:34 - 26:39] Você achava que seria de essa?
+[26:39 - 26:41] Não, GC é muito...
+[26:41 - 26:44] Mas eu estou indo para cá.
+[26:44 - 26:48] O que é a parte do esconder a propriedade, né?
+[26:48 - 26:50] Então vocês são seriosos.
+[26:50 - 26:52] Algumas vezes você não precisa...
+[26:52 - 26:56] Quando a gente manda vocês fazer um projeto, vocês fazem um projeto sozinho?
+[26:56 - 26:58] É um desses zeros.
+[26:58 - 27:01] Quantas vezes vocês voam num grupo da turma aí?
+[27:01 - 27:03] E como é que a gente trabalha?
+[27:03 - 27:07] Quem já fez, faz o trabalho aqui.
+[27:09 - 27:11] Se o colega seu vai fazer um classe.
+[27:13 - 27:15] E essa edição tudo correta.
+[27:15 - 27:17] Você vai chegar a ver como é que está lá dentro da classe?
+[27:21 - 27:23] Está tudo certo.
+[27:23 - 27:25] Está tudo certo.
+[27:25 - 27:27] Está correto?
+[27:27 - 27:29] Está certo, não mexe.
+[27:29 - 27:34] O que acontece?
+[27:34 - 27:36] A gente tem muita...
+[27:36 - 27:38] escondemos como a classe faz o trabalho.
+[27:38 - 27:42] Algumas vezes, se a gente trabalha em uma clínica...
+[27:42 - 27:43] em uma clínica...
+[27:43 - 27:44] em clínica mesmo, né?
+[27:44 - 27:46] Uma clínica que está lá, né?
+[27:46 - 27:48] Tem os dados de uma pessoa,
+[27:48 - 27:50] clínica psiquiátrica, que tem que dizer
+[27:50 - 27:53] ah, esse aqui trabalha com uma questão de ansiedade,
+[27:53 - 27:54] se é o quê?
+[27:54 - 27:55] E o que é?
+[27:55 - 27:56] O postoso.
+[27:56 - 28:00] Você estiver a cadeira de proteção de dados na aula passada.
+[28:00 - 28:02] O gelão não teve porque tem um cenário absoluto.
+[28:06 - 28:08] Esses dados são sensíveis.
+[28:10 - 28:12] Você não é assaçado?
+[28:12 - 28:14] Proteção de dados.
+[28:16 - 28:18] Proteção de dados sensíveis.
+[28:18 - 28:20] Proteção de dados sensíveis.
+[28:22 - 28:24] Esses dados sensíveis, qual ideal?
+[28:24 - 28:26] que ninguém tem acesso a eles.
+[28:26 - 28:28] Isso incluirá tão problema.
+[28:30 - 28:33] O que acontece? Você cria uma classe e encapsula lá.
+[28:34 - 28:38] Bota as informações que você vai trabalhar e bota tudo privado.
+[28:38 - 28:42] Ele só pode entregar tudo que precisa.
+[28:42 - 28:45] Ah, a informação que é delicada, só essa pessoa pode ter acesso.
+[28:46 - 28:48] Você já consegue criar um tipo de segurança.
+[28:49 - 28:52] Já é um tipo de encapsulamento.
+[28:54 - 28:56] Essa é a ideia por isso, né?
+[28:58 - 29:02] Uma vantagem, é impedir clientes corrompos os dados, né?
+[29:04 - 29:07] É um incidente, né?
+[29:07 - 29:11] Em Londres, que alguém invadiu o sistema de saúde deles lá.
+[29:14 - 29:18] A pessoa já conseguiu reservar o espaço inferno pra ele.
+[29:20 - 29:23] Qual que é a sua pessoa? Assé o sistema de saúde de uma cidade.
+[29:24 - 29:28] manda a ambulância para ficar, o que ela é cerrada
+[29:28 - 29:33] troca ficha de paciente que está em parceria de dia
+[29:35 - 29:38] troca o tipo de sanguno da pessoa
+[29:39 - 29:40] é loucura demais
+[29:40 - 29:42] quem é esse que eu passei isso?
+[29:42 - 29:46] aí sai de palma, aí a brincadeira
+[29:46 - 29:48] essa foi a brincadeira
+[29:48 - 29:50] a brincadeira aí
+[29:50 - 30:20] Então, o que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é que é
+[30:20 - 30:26] e tinha falso de segurança, o pessoal descobriu, acessou o dinâmico para derrubar.
+[30:27 - 30:30] Não tiver acesso às contas porque era outro modo.
+[30:31 - 30:34] Mas derrubar o serviço, o invadir ou pegar a forma.
+[30:34 - 30:36] Algum dos dados com a vela.
+[30:40 - 30:42] O que a gente pode dizer como cabe o seu amigo, né?
+[30:42 - 30:43] Se modificar do outro.
+[30:44 - 30:47] O que a gente não pode usar o JavaScript aqui, ó.
+[30:47 - 30:53] Porque para ele tudo é público, o JavaScript foi criado para o público.
+[30:53 - 31:02] Se eu putar lá um atributo, Cpf, público, todo o sistema pode vir.
+[31:02 - 31:10] Então se tiver um modo lá, esse modo no que o pessoal acessou, acessou, por exemplo,
+[31:10 - 31:14] tiver acesso a esse modo, se focar a público, ele tem acesso.
+[31:14 - 31:21] Aqui é geralmente para algumas funções que a gente que trabalha está ligando os outros,
+[31:21 - 31:28] ou funções que você está atingindo, a idade, o mundo, o mundo é algo mais inacessível,
+[31:28 - 31:33] mas um sistema recíprol que você vê o mundo com paciência é importante você ter o mundo lá.
+[31:33 - 31:39] Obrigado, apenas a própria classe pode fazer.
+[31:39 - 31:41] Vou ter aqui...
+[32:11 - 32:13] para investir.
+[32:13 - 32:15] Então,
+[32:15 - 32:17] ah, precisamos ter
+[32:17 - 32:19] que apoiar essa informação aqui.
+[32:19 - 32:21] Qualquer ação
+[32:21 - 32:23] com essa classe,
+[32:23 - 32:25] qualquer ação com essa idade
+[32:25 - 32:27] vai ter um método.
+[32:27 - 32:29] Esse método
+[32:29 - 32:31] vai fazer os cálculos e vai te responder
+[32:31 - 32:33] só o que precisa.
+[32:33 - 32:35] Você nunca segue lá o
+[32:35 - 32:37] ah, me deu
+[32:37 - 32:39] me deu ID
+[32:39 - 32:45] Você quer de qualquer pessoa, a classe Pessoa.
+[32:52 - 32:58] Eu não consigo rodar esse Pessoa.id
+[32:59 - 33:02] Ele vai dar um erro aqui dizendo que é privado.
+[33:02 - 33:07] Eu teria que ter uma função para desenvolver essas coisas.
+[33:08 - 33:09] Um método para ver.
+[33:12 - 33:17] Protect, apenas as suas classes filhas, herança, que a gente vai ver mais na frente.
+[33:20 - 33:26] Basicamente aqui, a regra prática, usa para os mais fome panel de controle.
+[33:26 - 33:35] O painel de controle é o MIM, a ocultação total, apenas interna, qualquer ação interna,
+[33:35 - 33:40] quer metodinterna, quer comprenação interna, que for rodar privado.
+[33:40 - 33:46] O PROTECTIO é o intermediário, basicamente é o que roda o tempo da família.
+[33:46 - 33:54] Por exemplo, você falou do, ah, tem o Bermoto, o Bplex, essas coisas de MIM, eu consideraria
+[33:54 - 33:59] O quê? Cada um dele sendo um filho, né? Um filho de classe.
+[34:02 - 34:02] É só isso.
+[34:02 - 34:03] Sim.
+[34:03 - 34:08] Quando a gente fala de encapsulamento, né? A gente falou de quatro entidades até agora.
+[34:08 - 34:12] A gente falou de classes, a gente falou de objetos, a gente falou de atributos,
+[34:12 - 34:18] e a gente falou de métodos. Todos eles podem ser definidos como públicos privados e protegidos,
+[34:18 - 34:23] ou os sós atributos, ou os sós métodos, ou os sótributos e métodos.
+[34:23 - 34:24] Atributos e métodos, né?
+[34:24 - 34:26] O que é o objeto?
+[34:26 - 34:36] Isso é porque o objeto não é para criar um movimento, mas o atributo de matrix não está dentro do objeto.
+[34:36 - 34:38] Perfeito, excelente, obrigado.
+[34:38 - 34:57] Eu estou falando isso aqui, né?
+[34:57 - 35:02] Mas tem quase que o absoluto, que na hora que vocês forem criar algum atributo, algum
+[35:02 - 35:11] e botar em público ou privado e chamar aí lá no ideal de controle vai dar algum guste.
+[35:11 - 35:13] Só errando pra aprender.
+[35:13 - 35:17] O que acontece?
+[35:17 - 35:20] Falei, um JavaScript, tudo é público.
+[35:20 - 35:22] Ah, tem lá as funções privadas, isso aqui.
+[35:22 - 35:29] Basicamente que ela assim tem, mas se funciona é outra história.
+[35:32 - 35:35] Então, eu der isso aqui?
+[35:35 - 35:36] É isso.
+[35:36 - 35:43] O que é isso?
+[35:43 - 35:46] É isso.
+[35:46 - 35:51] O que é isso?
+[35:51 - 35:54] O que é isso?
+[35:54 - 35:56] O que é isso?
+[35:56 - 35:58] O que é isso?
+[35:58 - 36:00] O que é isso?
+[36:00 - 36:02] O que é isso?
+[36:02 - 36:04] O que é isso?
+[36:04 - 36:20] O que acontece? O seu chá, ele abstraiu esses dois médicos. Ele não precisa disso. Então pode desechar pelo menor do seu chá.
+[36:20 - 36:24] Mas o que acontece? Vocês têm que saber a teoria.
+[36:24 - 36:31] A diferença é assim, ah, para que é que tem esses métodos?
+[36:31 - 36:36] Quero que só esse atributo possa sair, esses coisas, descontrola.
+[36:36 - 36:39] O que é que vai acontecer aqui?
+[36:39 - 36:45] O método de Gatch é informante.
+[36:45 - 36:59] E basicamente o quê? Get. Alguém sabe a tradução de get? Peguei ela. Ele basicamente vai retornar o valor do atributo pessoal.
+[36:59 - 37:09] Então se eu tiver um atributo privado e eu quiser pegar ele, como eu faço?
+[37:09 - 37:14] Eu criei um get, coloco lá o pass-crigo, não da função que quiser.
+[37:15 - 37:19] E o final vai só retornar o valor que eu solicitou aí.
+[37:20 - 37:22] Isso é um controle.
+[37:22 - 37:27] Uma coisa é você não acessar, outra é você dar controle de acesso.
+[37:28 - 37:33] Se você disser assim, não tem concreto, você tem o controle de acesso.
+[37:33 - 37:36] Você vai dizer aonde ele pode acessar.
+[37:36 - 37:42] Aí você quer privado, mas só tal e tal função podem necessar essa...
+[37:42 - 37:51] esse dado só é liberado nas as funções. Por exemplo, lá na clínica o médico tem que ter a seleção, a informação do paciente pra saber se o...
+[37:51 - 37:59] como é que tá, qual a história tá dentro. O médico precisa, a ter gente não.
+[37:59 - 38:06] Ele vai simplesmente dizer que eu leio o crachá e que de um fã está lá dentro.
+[38:06 - 38:12] Se o gante pega, é que o sete vai fazer.
+[38:12 - 38:16] Vai colocar o valor lá.
+[38:16 - 38:20] Ele recebe o valor que atribui a variável interno.
+[38:20 - 38:23] Basicamente, ele utiliza muito o construtor.
+[38:23 - 38:26] O construtor vai chamar muitos services, se você está.
+[38:26 - 38:29] ou algum dos experimentos que vai alterar lá.
+[38:31 - 38:38] Por exemplo, o médico viu lá, ele tem ansiedade,
+[38:38 - 38:41] mas foi descartado aqui como o Ipolar.
+[38:41 - 38:45] Ele vai lá achando, e coloca um sete lá.
+[38:45 - 38:46] Ipolar.
+[38:48 - 38:53] Estou dando esse exemplo porque é um exemplo mais de segurança.
+[38:56 - 38:58] Eu vou deixar o meu pé no pé pra vocês.
+[39:02 - 39:04] Eu tenho...
+[39:06 - 39:08] Eu tenho lá a classe.
+[39:14 - 39:16] Eu tenho...
+[39:16 - 39:18] Objetos.
+[39:20 - 39:22] Não é classe?
+[39:22 - 39:24] Não, não é isso que tem isso.
+[39:26 - 39:30] Eu voltei o...
+[39:32 - 39:35] Eu voltei a religião.
+[39:50 - 39:53] E não vi janta pra descerpar na religião.
+[39:56 - 40:00] Estou dando a sêmbro, não é?
+[40:00 - 40:02] Não é?
+[40:02 - 40:06] É...
+[40:06 - 40:10] Como é que eu posso dizer...
+[40:10 - 40:14] Se eu pedir informação lá no sistema?
+[40:14 - 40:16] Como é que eu vai fazer o meu decodilado?
+[40:16 - 40:18] No meio?
+[40:18 - 40:25] Se eu pedir lá um...
+[40:25 - 40:28] Se eu pedir lá um...
+[40:28 - 40:30] Se eu pedir lá um...
+[40:30 - 40:32] Se eu pedir lá um...
+[40:32 - 40:34] Se eu pedir lá um...
+[40:34 - 40:36] Se eu pedir lá um...
+[40:36 - 40:38] Se eu pedir lá um...
+[40:38 - 40:40] Se eu pedir lá um...
+[40:40 - 40:42] Se eu pedir lá um...
+[40:42 - 40:44] Se eu pedir lá um...
+[40:44 - 40:46] Se eu pedir lá um...
+[40:46 - 40:50] Aqui é o pessoal.
+[40:52 - 40:55] Aqui é a pessoa do índice.
+[41:06 - 41:08] Você conheceu isso? Dois pessoas.
+[41:08 - 41:17] como eu defino que aquele, que esse aqui vai ser um 4 nôtuo lá no outro nele
+[41:17 - 41:22] e eu tenho que, como é a questão de proteção, estar privado
+[41:22 - 41:31] como é que eu garanto, quando eu pergunto a qual é o seu arranjão, seja daquela pessoa, daquele objeto
+[41:31 - 41:41] Você pode usar um sete, pode ser um sete, mas vai ser um get.
+[41:41 - 41:47] Você vai usar um get com informação, mas dentro dele a gente vai usar uma ferramenta
+[41:47 - 41:50] para definir que ela é que o objeto.
+[41:50 - 41:52] O que é a raça?
+[41:56 - 41:58] Aqui?
+[42:00 - 42:02] Tudo que eu fiz era com...
+[42:06 - 42:08] Verde? Vamos usar isso aqui, ó.
+[42:08 - 42:10] Vamos usar?
+[42:10 - 42:14] Vamos falar bem que acho que você já deve ter visto.
+[42:50 - 42:55] que é a pessoa 10, ele vai lá, desce o objeto, desce o objeto com a religião.
+[42:57 - 43:00] Algum tipo de setor a gente tem que poder usar ele, né?
+[43:01 - 43:07] Diz o objeto, diz o objeto, diz o passe, diz o que acontece.
+[43:07 - 43:10] O diz vai ser inscrito na classe.
+[43:12 - 43:14] Mas é, ali tudo tem que ser um objeto.
+[43:14 - 43:21] Por exemplo, quando eu quiser acertar as coisas, quando eu quiser construir ele, eu vou juntar
+[43:21 - 43:27] uma aula de atributos, vou adastrar ele, mas quando eu fico sete, ele vai colocar só
+[43:27 - 43:29] um soso rápido.
+[43:29 - 43:36] Então, quando você construtor, ele vai usar muitas funções sete.
+[43:36 - 43:41] Ah, você pode construir um, pode fazer um construtor só, que é exatamente o que você
+[43:41 - 43:43] mais construtores setas
+[43:43 - 43:45] mas a ideia é ok
+[43:45 - 43:47] você tem o constutor
+[43:47 - 43:49] os getter e os setas
+[43:49 - 43:51] porque alguns dias
+[43:51 - 43:53] algumas missões fazem pra alterar os dados
+[43:53 - 43:55] ah, você lá
+[43:55 - 43:57] alterar as versões
+[43:57 - 43:59] alterar a minha pessoa
+[43:59 - 44:01] então
+[44:01 - 44:03] a ideia é que você tem isso
+[44:03 - 44:05] pra você ficar chamando construtores
+[44:07 - 44:09] pelo menos a gente faz o que?
+[44:09 - 44:17] As feções setas, lá no construtor, chama só elas para dar as transformações.
+[44:17 - 44:23] E quando eu construir o nosso período, esse variable x, que é igual a que diz,
+[44:25 - 44:27] variável, recebe x.
+[44:28 - 44:30] Você coloca um argumento na hora da construção.
+[44:30 - 44:37] O casmin do crema variado e a gente vê que está variando a função get.
+[44:37 - 44:42] Quando for querer puxar o get, puxa a variada.
+[44:42 - 44:51] A gente vai ter as funções lá e você vai perceber por que elas fazem.
+[44:51 - 44:56] Diz, geralmente é um bom reconhecimento.
+[44:56 - 45:06] O que acontece? Ele basicamente força o que é a ação do seu objeto.
+[45:06 - 45:13] Se você quer saber qual é o religião, diga isso, e pergunta o objeto.
+[45:13 - 45:19] Vamos dizer que tem um objeto chamado Maria. E eu quero saber religião.
+[45:19 - 45:24] Quando ele chegar lá na função, quando eu chamar algo dele, religião, ele vai ver o que?
+[45:24 - 45:27] diz, então diz, o que?
+[45:27 - 45:30] Ah, é sobre esse objeto, é Maria.
+[45:30 - 45:34] E eu vou dizer, aí o que acontece?
+[45:34 - 45:38] Se for um objeto, ele vai dizer assim,
+[45:38 - 45:42] a região dela é tal, mandei primir.
+[45:42 - 45:47] Agora, se for um sete, ele vai receber.
+[45:47 - 45:52] É samba e tal, é você cadastra aquela formação daquele objeto.
+[45:52 - 45:54] A construção é um pouco velho.
+[45:58 - 46:00] Isso é o que está bem...
+[46:00 - 46:01] O que eu disse aí?
+[46:01 - 46:02] Vocês acho que estão voando.
+[46:04 - 46:06] Mas está aqui a pouco que a gente vai fazer as atividades,
+[46:06 - 46:08] aí quando isso não saia, faz o...
+[46:08 - 46:10] O que é que são tantas vezes vai usar isso?
+[46:10 - 46:12] O que é que eu posso?
+[46:12 - 46:13] Um.
+[46:15 - 46:17] O que vocês fizeram com vocês?
+[46:17 - 46:20] Primeiro vez que eu vi o diesel, eu passei minha hora,
+[46:20 - 46:22] para que você vê isso
+[46:22 - 46:24] para que você se ouna
+[46:24 - 46:26] porque eu disse que eu vim já
+[46:26 - 46:28] aí eu dei peso, vim e sei mais mais
+[46:28 - 46:30] essa coisa é a diversão
+[46:40 - 46:42] uma simples do que a gente vê agora
+[46:46 - 46:48] parece que a gente é o que?
+[46:48 - 46:55] os atributos, nós temos aqui os atributos.
+[46:55 - 46:58] Ah, obrigado, não sei o que, é o...
+[46:58 - 47:02] É só vossas coisas que você tem lá.
+[47:02 - 47:06] Constituo, constituo esse empúbio porque tem que ser chamado.
+[47:06 - 47:09] Ele tem que ser chamado para construir o objeto.
+[47:09 - 47:16] E se ele se retrasse são públicos, porque eles se respondem a as funções lá?
+[47:16 - 47:20] Alguns mesmos podem ser públicos, alguns deles podem ser privados,
+[47:20 - 47:23] só para você chamar de, né, aquela função,
+[47:23 - 47:25] para você não deixar a função com 500 linhas,
+[47:25 - 47:27] você vai diminuindo.
+[47:30 - 47:31] Mas é o quê?
+[47:31 - 47:33] A função para todo TG é um objeto,
+[47:33 - 47:37] principalmente o latributos, né, que são os dados que estão lá.
+[47:37 - 47:40] Você quer mais para segurar esse software, certo?
+[47:42 - 47:44] Vocês não tem cadeira, acho que não tem cadeira,
+[47:44 - 47:48] Se estiver, cada vez que você virar do segurança,
+[47:48 - 47:50] mas porque o estado de segurança sofre,
+[47:50 - 47:52] é uma vontade.
+[47:52 - 47:54] Você...
+[47:59 - 48:02] É mais que todo mundo sabe importância e segurança hoje em dia, né?
+[48:02 - 48:04] Entende, né?
+[48:04 - 48:06] O que acontece?
+[48:06 - 48:10] Segurança é importante nos últimos 20 anos.
+[48:10 - 48:24] Se a gente pegar a história do C, C, pilar de 60, já vi que ele foi com 10 g, só interfaça o Evo, comparte segurança.
+[48:26 - 48:35] O que acontece? Quando fazemos as linguagens mais normal, se preocupar com a questão de segurança, mais preocupar com essas coisas, porque tinha muito promos em dias, que era injection.
+[48:35 - 48:42] Porque se tiver um método aqui, mesmo com o banco de dados, você tem que garantir que não vá a rádio.
+[48:42 - 48:48] Se você não fizer uma atravativa, eles têm que ter uma atravativa para pedir que eles deixam
+[48:48 - 48:52] se algum pódico mais licioso para o banco de dados.
+[48:52 - 48:55] O Jerembo está dando um alo alolo já no description, né?
+[48:55 - 48:58] Você já fez algum chamado para o banco de dados?
+[48:58 - 48:59] Já.
+[48:59 - 49:02] Já explicou para os meninos o que é um Scalejection?
+[49:02 - 49:06] Superficialmente, devemos ter uma aula de segurança essa semana.
+[49:06 - 49:13] Mas eles estão cientes das vulnerabilidades e possibilidades.
+[49:13 - 49:14] É importante.
+[49:14 - 49:21] A gente tem usado JavaScript com Electron, então é só uma camada de segurança para ver se é fechado.
+[49:21 - 49:23] Se eles tiverem feito um simples e certo.
+[49:23 - 49:25] Simples.
+[49:25 - 49:31] É um simples, mas é só ter que criar da caixa de texto para a gente escrever.
+[49:31 - 49:37] Porque o elétrono deve tratar as coisas que é bem louca.
+[49:37 - 49:39] É melhor a descalvisagem também.
+[49:41 - 49:45] Mas aqui basicamente você tem um proteção de código.
+[49:45 - 49:47] Vamos fazer certo.
+[49:47 - 49:51] Quando já começaram a ser muito usados, muitos bantos te lhe daram.
+[49:51 - 49:58] por isso que são bastante arco, a gente foi criado para pensar assim, ah, tem um nível de segurança
+[49:58 - 50:05] porque não seja de campo pesado por alguns linguagens, alguns frameworks, já é o que a gente quer
+[50:05 - 50:12] mas já tem, então, essas coisas que trabalham com as dábis de pessoas, muitos objetos
+[50:17 - 50:19] Pessoal, o seguinte
+[50:21 - 50:27] Desperguei pra vocês que eu quero fazer um projético com vocês durante o semester de cantinho
+[50:29 - 50:31] E vai ser esse aqui
+[50:32 - 50:34] O que você quer que eu abri?
+[50:34 - 50:35] Eu basicamente o que?
+[50:35 - 50:39] Alguém já trabalhou em empresa TI, chargéia e essas coisas?
+[50:39 - 50:40] Não
+[50:40 - 50:44] Alguém aqui conhece o famoso... Já abriu o chamado?
+[50:44 - 50:46] É, quase
+[50:46 - 50:48] Já abriu o chamado?
+[50:48 - 50:49] Já abriu o chamado
+[50:49 - 50:51] Você não fala a palavra, né?
+[50:51 - 50:53] Sim, eu já sei a palavra.
+[50:53 - 50:55] A palavra é chamada fácil, mas...
+[50:55 - 50:57] Que basicamente é que a empresa...
+[50:57 - 50:59] Gosta resolviu aí.
+[50:59 - 51:01] É mesmo?
+[51:01 - 51:03] Mas basicamente é o que?
+[51:03 - 51:05] Vamos ter que a empresa precisar do sistema
+[51:05 - 51:07] para rastrear, que eu digo,
+[51:07 - 51:09] que a empresa é chamada dos portas aberturcionais.
+[51:09 - 51:13] A gente vai construir esse projeto, esse projeto.
+[51:13 - 51:15] Então a gente vai fazer o que?
+[51:15 - 51:17] A gente vai criar as plazas.
+[51:17 - 51:25] Ativos, ativa de chamado, quase chamado e humilde.
+[51:25 - 51:29] E a gente vai colocando as coisas, tipo, piorando.
+[51:31 - 51:34] Mas como a gente espera que a gente faça esse projetinho,
+[51:34 - 51:37] para ensinar que você tem pelo mesmo projeto lá no Google,
+[51:37 - 51:39] que é o que a gente chama de vocês.
+[51:39 - 51:41] Certo?
+[51:41 - 51:43] Então basicamente hoje a gente vai fazer o quê?
+[51:43 - 51:45] Mas você ensina ou você ensina?
+[51:45 - 51:48] Já, eu vou mostrar um papel de chá.
+[51:48 - 51:53] É, porque se o que era chá, eu começaria a encer o papel de chá.
+[51:53 - 51:55] O que você está fazendo com esse chá?
+[51:55 - 51:59] Não tem como fazer com esse chá, mas já temos algo?
+[52:00 - 52:03] O Dramulius, que chama o Dramulius?
+[52:03 - 52:07] É, se para estar a dois e a direita só, se para me ligar.
+[52:08 - 52:14] Eu vou mostrar um papel de chá, mas a linguagem fica a mesma.
+[52:14 - 52:20] Então você pode procurar aqui, porque o que eu vou fazer é fazer o que tem que ser o que transgêneos.
+[52:20 - 52:24] Mas se você quiser fazer isso, você pode procurar aqui.
+[52:24 - 52:26] Eu só vou te explicar.
+[52:28 - 52:30] Não é questão de ser... ah!
+[52:30 - 52:34] Não é questão de ser, porque a gente está devagar de ser, é só perguntar,
+[52:34 - 52:37] tentando dizer que a gente é fazendo com a gente.
+[52:37 - 52:41] O C do C não permitirá uma alteração do objeto.
+[52:41 - 52:44] O que permite a gente fazer isso?
+[52:44 - 52:46] É fazer mais mais.
+[52:46 - 52:48] Depois tem outros, mais mais,
+[52:48 - 52:50] que eu não sei o que é,
+[52:50 - 52:53] quando foi a parte do agosto, aí nasceu o Seixado.
+[52:53 - 52:55] É.
+[52:55 - 52:57] E o Seixado.
+[52:57 - 53:01] Ah, já abriu o quebante e eu falei de Seixado.
+[53:01 - 53:04] Qual tem no Seixado?
+[53:04 - 53:06] Esse colégio que eu acho que pode ser,
+[53:06 - 53:08] que eu posso passar esse passeio a Seixado?
+[53:08 - 53:10] Você não pode fazer isso.
+[53:10 - 53:12] Não sei, pode fazer isso.
+[53:12 - 53:14] Você pode fazer isso.
+[53:14 - 53:16] Você pode fazer isso.
+[53:16 - 53:18] Você pode fazer isso.
+[53:18 - 53:20] O que acontece?
+[53:20 - 53:22] O problema é que eu não...
+[53:22 - 53:24] Eu tenho esse polívio já.
+[53:30 - 53:32] Você já...
+[53:32 - 53:34] Ele é um estraio.
+[53:34 - 53:36] Ele é um estraio.
+[53:36 - 53:39] Se você não tem gata, você tem de sete.
+[53:39 - 53:41] A gente está distraindo.
+[53:41 - 53:43] É por quadrado dele.
+[53:45 - 53:47] Eu tenho que explicar isso para vocês.
+[53:47 - 53:51] Eu tenho que dizer lá, com diz, desculpa, chega essa conclusão.
+[53:52 - 53:55] Eu vou em você vai, para empresa e pode colar, está tudo em...
+[53:55 - 53:59] ...se mais ou mais, tem um diz aqui, eu sei, que eu vi isso na minha vida.
+[53:59 - 54:01] Vou estar em Java e tem lá o diz.
+[54:02 - 54:05] Mas o C-chart não tem isso.
+[54:05 - 54:08] Então, eu vou ser menos ou menos com Java.
+[54:09 - 54:11] Mas é lógico mesmo, ah!
+[54:14 - 54:15] É bom...
+[54:17 - 54:20] tem uma classe ativa de TI, tem os atributos aqui
+[54:22 - 54:24] vai entrar o comando
+[54:25 - 54:27] vai ter a classe, você vai chamar a classe
+[54:27 - 54:29] vai dizer quais são os atributos
+[54:30 - 54:31] vai escrever os atributos
+[54:31 - 54:33] vai ter o consultor
+[54:33 - 54:34] e depois o comportamento
+[54:36 - 54:40] aí você tem aqui que o Beteu é o serviço de gato dos servos
+[54:40 - 54:42] você pula e faz o...
+[54:44 - 54:46] as outras funções
+[54:47 - 54:55] Eu estou indo na opção, você disse que tinha que aprender a fechar, né?
+[54:55 - 54:57] É, então, o projeto que a gente já fazia.
+[54:57 - 55:05] Um motivador que eu coloquei de Java, que eu expliquei, e fechar.
+[55:05 - 55:07] Então, tudo bem.
+[55:07 - 55:09] Fico nem utilizando o Lay.
+[55:09 - 55:11] É?
+[55:11 - 55:13] Eu acho que não.
+[55:13 - 55:15] Esse é o melhor, ele me tirou.
+[55:15 - 55:18] Você tem que colocar assim, para que você se achar.
+[55:18 - 55:20] Ah, é uma reacorda para a gente.
+[55:20 - 55:22] Ah, e o de mais em em.
+[55:22 - 55:24] Mais um.
+[55:32 - 55:36] Esse aqui é a classe do ativo que tem.
+[55:38 - 55:41] Temos a classe chamada Escosta.
+[55:43 - 55:51] Isso aqui a gente vai ver para o próximo negócio, né?
+[55:51 - 55:53] Mas basicamente acontece.
+[55:53 - 55:58] O ativo aqui, ele está entrando ligado.
+[55:58 - 56:04] Uma coisa com o TOO é ter os objetos interligados.
+[56:04 - 56:14] O chamado em um de atributos dele vai ser uma bilheta.
+[56:19 - 56:24] Móvil mesmo pessoal, intervalo, mal-parteço e a gente volta.
+[56:24 - 56:28] Não parte de parte de lá, mas da atividade.
+[56:34 - 56:39] É o meu, é esse o que está chegando.
+[56:39 - 56:41] É o meu, é esse o que está chegando.
+[56:41 - 56:43] É o meu, é esse o que está chegando.
+[56:43 - 56:45] É o meu, é esse o que está chegando.
+[56:45 - 56:47] É o meu, é esse o que está chegando.
+[56:47 - 56:49] É o meu, é esse o que está chegando.
+[56:49 - 56:51] É o meu, é esse o que está chegando.
+[56:51 - 56:53] É o meu, é esse o que está chegando.
+[56:53 - 56:55] É o meu, é esse o que está chegando.
+[56:55 - 56:57] É o meu, é esse o que está chegando.
+[56:57 - 56:59] É o meu, é esse o que está chegando.
+[56:59 - 57:01] É o meu, é esse o que está chegando.
+[57:01 - 57:03] É o meu, é esse o que está chegando.
+[57:03 - 57:10] O senho quando dá ele, ele aparece algumas linhas, está comendo o erro, né?
+[57:10 - 57:16] E quando é um erro de memória, ele não avisa que deu erro, ele que dá um porrado.
+[57:16 - 57:21] Memória, couve, louco, e enche.
+[57:21 - 57:23] Isso é o seguinte.
+[57:23 - 57:32] Isso quando é, mas o outro, eu sei mais mais, mais mais quando dá um erro, é um digite.
+[58:02 - 58:04] O que é isso?
+[58:04 - 58:06] O que é isso?
+[58:06 - 58:08] O que é isso?
+[58:08 - 58:10] O que é isso?
+[58:10 - 58:12] O que é isso?
+[58:12 - 58:14] O que é isso?
+[58:14 - 58:16] O que é isso?
+[58:16 - 58:18] O que é isso?
+[58:18 - 58:20] O que é isso?
+[58:20 - 58:22] O que é isso?
+[58:22 - 58:24] O que é isso?
+[58:24 - 58:26] O que é isso?
+[58:26 - 58:28] O que é isso?
+[58:28 - 58:30] O que é isso?
+[59:00 - 59:04] aqui
+[59:04 - 59:06] pode ser um
+[59:06 - 59:08] sete
+[59:08 - 59:10] sete
+[59:10 - 59:12] sete
+[59:12 - 59:14] sete
+[59:14 - 59:16] eu queria um passo de chafar de estado
+[59:16 - 59:18] eu vou deixar os outros
+[59:18 - 59:20] os outros
+[59:20 - 59:22] os outros
+[59:22 - 59:24] para tudo isso aqui
+[59:24 - 59:26] quando deixar tudo balançado
+[59:26 - 59:28] que esteja muito legal
+[59:28 - 59:30] O que é isso?
+[59:30 - 59:32] O que é isso?
+[59:32 - 59:34] O que é isso?
+[59:34 - 59:36] O que é isso?
+[59:36 - 59:38] O que é isso?
+[59:38 - 59:40] O que é isso?
+[59:40 - 59:42] O que é isso?
+[59:42 - 59:44] O que é isso?
+[59:44 - 59:46] O que é isso?
+[59:46 - 59:48] O que é isso?
+[59:48 - 59:50] O que é isso?
+[59:50 - 59:52] O que é isso?
+[59:52 - 59:54] O que é isso?
+[59:54 - 59:56] O que é isso?
+[59:56 - 59:58] Olha o conflito aí.
+[59:58 - 59:59] Esculpe.
+[60:00 - 60:02] O rei é muito alto.
+[60:05 - 60:07] É, você já vê aqui, não é?
+[60:07 - 60:09] Meu Deus, não quero lá.
+[60:09 - 60:12] Essa parte ali de cima é para escrever mesmo normal, não é?
+[60:12 - 60:13] É, mas...
+[60:13 - 60:14] Olha aí, pera aí.
+[60:14 - 60:16] Para a queijo, esquelhado...
+[60:19 - 60:20] Primeiro ali.
+[60:20 - 60:22] Minhas linhas aqui, sei que não.
+[60:22 - 60:23] Vou comentar daqui a pouco.
+[60:23 - 60:25] mas estão vendo as linhas aqui?
+[60:25 - 60:27] eu vendo que tem um Brasil aqui
+[60:27 - 60:29] não escrevam
+[60:29 - 60:33] não escrevam um bar de bug
+[60:33 - 60:35] não é para escrever
+[60:35 - 60:37] não é para escrever
+[60:37 - 60:39] não é para escrever
+[60:39 - 60:41] é
+[60:41 - 60:43] é um pack
+[60:43 - 60:45] se não for para escrever o pack
+[60:45 - 60:47] o pack é por causa do que eu funciona com o pacote
+[60:47 - 60:49] eu noto que praticamente dentro desse aqui
+[60:49 - 60:51] o sistema de venderação desse pacote
+[60:51 - 60:56] esse pacote, principalmente para o mundo. Não tem nenhum caldo com rodom.
+[61:05 - 61:14] O boom bar de bug é a função do Vescoge, porque ele vai entender aqui, que aqui é o main, é rodado.
+[61:14 - 61:20] Então, se você quiser, em vez de rodar os pulmães lá, você pode usar o gato de um brume, porque ele roda.
+[61:21 - 61:23] O que é isso?
+[61:23 - 61:25] O que é isso?
+[61:25 - 61:27] O que é isso?
+[61:27 - 61:29] O que é isso?
+[61:29 - 61:31] O que é isso?
+[61:31 - 61:33] O que é isso?
+[61:33 - 61:35] O que é isso?
+[61:35 - 61:37] O que é isso?
+[61:37 - 61:39] O que é isso?
+[61:39 - 61:41] O que é isso?
+[61:41 - 61:43] O que é isso?
+[61:43 - 61:45] O que é isso?
+[61:45 - 61:47] O que é isso?
+[61:47 - 61:49] O que é isso?
+[61:49 - 61:51] e aí
+[61:51 - 61:53] e aí
+[61:53 - 61:55] e aí
+[61:55 - 61:57] e aí
+[61:57 - 61:59] e aí
+[61:59 - 62:01] e aí
+[62:01 - 62:03] e aí
+[62:03 - 62:05] e aí
+[62:05 - 62:07] e aí
+[62:07 - 62:09] e aí
+[62:09 - 62:11] e aí
+[62:11 - 62:13] e aí
+[62:13 - 62:15] e aí
+[62:15 - 62:17] e aí
+[62:47 - 62:49] Eu estou falando isso sem a mensagem de que ele tem.
+[62:49 - 62:51] A mensagem de que ele tem.
+[62:51 - 62:53] Você está lá com a mensagem de que ele tem.
+[62:53 - 62:55] Não, não.
+[62:55 - 62:57] Você não tem um ganho.
+[63:01 - 63:03] Você tem um ganho.
+[63:03 - 63:05] É isso.
+[63:05 - 63:07] É isso.
+[63:07 - 63:09] É isso.
+[63:09 - 63:13] Vocês eram 0, 0, 0, 1, 0, 0, 1.
+[63:13 - 63:15] Então, vocês eram 0, 0, 1.
+[63:15 - 63:17] O que é isso?
+[63:17 - 63:19] O que é isso?
+[63:19 - 63:21] O que é isso?
+[63:21 - 63:23] O que é isso?
+[63:23 - 63:25] O que é isso?
+[63:25 - 63:27] O que é isso?
+[63:27 - 63:29] O que é isso?
+[63:29 - 63:31] O que é isso?
+[63:31 - 63:33] O que é isso?
+[63:33 - 63:35] O que é isso?
+[63:35 - 63:37] O que é isso?
+[63:37 - 63:39] O que é isso?
+[63:39 - 63:41] O que é isso?
+[63:41 - 63:43] O que é isso?
+[63:43 - 63:45] O que é um alívio?
+[63:45 - 63:47] É um onda, não?
+[63:47 - 63:49] É um alívio?
+[63:49 - 63:51] É um alívio?
+[63:51 - 63:53] É um alívio?
+[63:53 - 63:55] É um alívio?
+[63:55 - 63:57] É um alívio?
+[63:57 - 63:59] É um alívio?
+[63:59 - 64:01] É um alívio?
+[64:01 - 64:03] É um alívio?
+[64:03 - 64:05] É um alívio?
+[64:05 - 64:07] É um alívio?
+[64:07 - 64:09] É um alívio?
+[64:09 - 64:11] É um alívio?
+[64:11 - 64:31] É por isso que ele está usando a extensão e está diferente.
+[64:31 - 64:33] A pessoa já puxou os arregamentos do vídeo.
+[64:33 - 64:35] É você.
+[64:35 - 64:37] Sim, filho.
+[64:39 - 64:41] Ele parece o...
+[64:44 - 64:46] Não, não, não, não, não.
+[64:52 - 64:54] Gente, vai, esses são os dados, né?
+[65:31 - 65:35] O pão do tico
+[65:35 - 65:37] Assino
+[65:37 - 65:39] Assino
+[65:39 - 65:41] Assino
+[65:41 - 65:43] Assino
+[65:43 - 65:45] Assino
+[65:45 - 65:47] Assino
+[65:47 - 65:49] Assino
+[65:49 - 65:51] Assino
+[65:51 - 65:53] Assino
+[65:53 - 65:55] Assino
+[65:55 - 65:57] Assino
+[65:57 - 65:59] Assino
+[65:59 - 66:01] O que é isso?
+[66:01 - 66:03] O que é isso?
+[66:03 - 66:05] O que é isso?
+[66:05 - 66:07] O que é isso?
+[66:07 - 66:09] O que é isso?
+[66:09 - 66:11] O que é isso?
+[66:11 - 66:13] O que é isso?
+[66:13 - 66:15] O que é isso?
+[66:15 - 66:17] O que é isso?
+[66:17 - 66:19] O que é isso?
+[66:19 - 66:21] O que é isso?
+[66:21 - 66:23] O que é isso?
+[66:23 - 66:25] O que é isso?
+[66:25 - 66:27] O que é isso?
+[66:27 - 66:29] Pegarei já?
+[66:57 - 66:59] Não.
+[66:59 - 67:01] Não.
+[67:01 - 67:03] Não.
+[67:03 - 67:05] Não.
+[67:05 - 67:07] Não.
+[67:07 - 67:09] Não.
+[67:09 - 67:11] Não.
+[67:11 - 67:13] Não.
+[67:13 - 67:15] Não.
+[67:15 - 67:17] Não.
+[67:17 - 67:19] Não.
+[67:19 - 67:21] Não.
+[67:21 - 67:23] Não.
+[67:23 - 67:25] Não.
+[67:25 - 67:27] O que é isso?
+[67:27 - 67:29] O que é isso?
+[67:29 - 67:31] O que é isso?
+[67:31 - 67:33] O que é isso?
+[67:33 - 67:35] O que é isso?
+[67:35 - 67:37] O que é isso?
+[67:37 - 67:39] O que é isso?
+[67:39 - 67:41] O que é isso?
+[67:41 - 67:43] O que é isso?
+[67:43 - 67:45] O que é isso?
+[67:45 - 67:47] O que é isso?
+[67:47 - 67:49] O que é isso?
+[67:49 - 67:51] O que é isso?
+[67:51 - 67:53] O que é isso?
+[67:53 - 67:55] O que é isso?
+[67:55 - 67:57] O que é isso?
+[67:57 - 67:59] O que é isso?
+[67:59 - 68:01] O que é isso?
+[68:01 - 68:03] O que é isso?
+[68:03 - 68:05] O que é isso?
+[68:05 - 68:07] O que é isso?
+[68:07 - 68:09] O que é isso?
+[68:09 - 68:11] O que é isso?
+[68:11 - 68:13] O que é isso?
+[68:13 - 68:15] O que é isso?
+[68:15 - 68:17] O que é isso?
+[68:17 - 68:19] O que é isso?
+[68:19 - 68:21] O que é isso?
+[68:21 - 68:23] Eu não sei o que é o meu.
+[68:23 - 68:25] Eu não sei o que é o meu.
+[68:25 - 68:27] Eu não sei o que é o meu.
+[68:27 - 68:29] Eu não sei o que é o meu.
+[68:29 - 68:31] Eu não sei o que é o meu.
+[68:31 - 68:33] Eu não sei o que é o meu.
+[68:33 - 68:35] Eu não sei o que é o meu.
+[68:35 - 68:37] Eu não sei o que é o meu.
+[68:37 - 68:39] Eu não sei o que é o meu.
+[68:39 - 68:41] Eu não sei o que é o meu.
+[68:41 - 68:43] Eu não sei o que é o meu.
+[68:43 - 68:45] Eu não sei o que é o meu.
+[68:45 - 68:47] Eu não sei o que é o meu.
+[68:47 - 68:49] Eu não sei o que é o meu.
+[68:49 - 68:51] O que é isso?
+[68:51 - 68:53] É isso.
+[68:53 - 68:55] É isso.
+[68:55 - 68:57] É isso.
+[68:57 - 68:59] É isso.
+[68:59 - 69:01] É isso.
+[69:01 - 69:03] É isso.
+[69:03 - 69:05] É isso.
+[69:05 - 69:07] É isso.
+[69:07 - 69:09] É isso.
+[69:09 - 69:11] É isso.
+[69:11 - 69:13] É isso.
+[69:13 - 69:15] É isso.
+[69:15 - 69:17] É isso.
+[69:17 - 69:19] E aí
+[69:19 - 69:21] E aí
+[69:21 - 69:23] E aí
+[69:23 - 69:25] E aí
+[69:25 - 69:27] E aí
+[69:27 - 69:29] E aí
+[69:29 - 69:31] E aí
+[69:31 - 69:33] E aí
+[69:33 - 69:35] E aí
+[69:35 - 69:37] E aí
+[69:37 - 69:39] E aí
+[69:39 - 69:41] E aí
+[69:41 - 69:43] E aí
+[69:43 - 69:45] E aí
+[69:45 - 69:55] O que é um tipo de chanado mais sujo?
+[69:55 - 70:05] O que é um tipo de chanado mais sujo?
+[70:05 - 70:07] O que é isso?
+[70:07 - 70:09] O que é isso?
+[70:09 - 70:11] O que é isso?
+[70:11 - 70:13] O que é isso?
+[70:13 - 70:15] O que é isso?
+[70:15 - 70:17] O que é isso?
+[70:17 - 70:19] O que é isso?
+[70:19 - 70:21] O que é isso?
+[70:21 - 70:23] O que é isso?
+[70:23 - 70:25] O que é isso?
+[70:25 - 70:27] O que é isso?
+[70:27 - 70:29] O que é isso?
+[70:29 - 70:31] O que é isso?
+[70:31 - 70:33] O que é isso?
+[70:33 - 71:03] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[71:03 - 71:07] cara, você vai ser bem de inglês
+[71:07 - 71:09] você vai tomar uma máquina e você vai lutar
+[71:09 - 71:11] agora, agora, para que você vai
+[71:11 - 71:13] você quer?
+[71:13 - 71:15] se você quiser um águio de inglês
+[71:15 - 71:17] eu vou lutar
+[71:17 - 71:19] o que você viu?
+[71:19 - 71:21] agora eu fiz
+[71:21 - 71:23] se eu lutar, você vai lutar
+[71:23 - 71:25] eu não sou um professor
+[71:25 - 71:27] eu sou um professor
+[71:27 - 71:29] eu sou um professor
+[71:29 - 71:31] eu sabe
+[71:31 - 71:33] Eu não sei.
+[71:33 - 71:35] Eu não sei.
+[71:35 - 71:37] Eu não acho que é.
+[71:37 - 71:39] Eu não sei.
+[71:39 - 71:41] Escutar essa história em inglês é só...
+[71:41 - 71:43] Já era a luz que eu fiz.
+[71:43 - 71:45] Eu não sei.
+[71:45 - 71:47] Eu não sei.
+[71:47 - 71:49] Eu não sei.
+[71:49 - 71:51] Eu não sei.
+[71:51 - 71:53] Eu não sei.
+[71:53 - 71:55] Eu não sei.
+[71:55 - 71:57] Eu não sei.
+[71:57 - 71:59] Eu não sei.
+[71:59 - 72:01] O que é isso?
+[72:01 - 72:03] O que é isso?
+[72:03 - 72:05] O que é isso?
+[72:05 - 72:07] O que é isso?
+[72:07 - 72:09] O que é isso?
+[72:09 - 72:11] O que é isso?
+[72:11 - 72:13] O que é isso?
+[72:13 - 72:15] O que é isso?
+[72:15 - 72:17] O que é isso?
+[72:17 - 72:19] O que é isso?
+[72:19 - 72:21] O que é isso?
+[72:21 - 72:23] O que é isso?
+[72:23 - 72:25] O que é isso?
+[72:25 - 72:27] O que é isso?
+[72:27 - 72:45] Aqui nós temos os systempals altos, o ponto 20 alieio.
+[72:45 - 72:50] Vocês veem que tinha uma lista lá, se você também tem um ponto erro,
+[72:50 - 72:54] que é o menu próprio sistema, mas ele vai se preparar para a gente imprimir as coisas.
+[72:54 - 73:00] aqui é só a impressão normal, está a ser um Helo-Ord rolado aqui
+[73:00 - 73:06] para quem quer fazer o Helo-Ord, pode tirar tudo isso aqui, pode botar só o public class.men
+[73:06 - 73:11] public static vojmain de 3nghacks, tem que botar os 3nd-pounts
+[73:11 - 73:14] para ele em Helo-Ord, para ele rodar
+[73:14 - 73:19] aqui nós acabei de fazer o patrimônio e eu vou lá e uso um lugar
+[73:19 - 73:24] aquele para pegar, pode ser para o 3D1, ele já vem lá.
+[73:26 - 73:34] Modeiro, observa aqui, aqui é o objeto, servidor.
+[73:37 - 73:40] Eu mando criar um novo dele, aí tem um erro que tem que ser feio agora.
+[73:49 - 73:51] O que é isso?
+[73:51 - 73:53] O que é isso?
+[73:53 - 73:55] O que é isso?
+[73:55 - 73:57] O que é isso?
+[73:57 - 73:59] O que é isso?
+[73:59 - 74:01] O que é isso?
+[74:01 - 74:03] O que é isso?
+[74:03 - 74:05] O que é isso?
+[74:05 - 74:07] O que é isso?
+[74:07 - 74:09] O que é isso?
+[74:09 - 74:11] O que é isso?
+[74:11 - 74:13] O que é isso?
+[74:13 - 74:15] O que é isso?
+[74:15 - 74:17] O que é isso?
+[74:17 - 74:24] Você está parecendo a seu?
+[74:47 - 74:54] O que é isso?
+[74:54 - 74:59] O que é isso?
+[74:59 - 75:03] O que é isso?
+[75:03 - 75:08] O que é isso?
+[75:08 - 75:13] O que é isso?
+[75:13 - 75:43] e o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é
+[76:43 - 76:47] Eu preciso ir para o clima, tá?
+[76:47 - 76:49] É, eu preciso ir para o clima, tá?
+[76:49 - 76:51] Cala, cala.
+[76:51 - 76:53] Eu não decidi, não é isso aqui, ó.
+[76:53 - 76:55] Eu não decidi, eu não decidi, eu não decidi.
+[76:55 - 76:57] Não é isso aqui, ó.
+[76:57 - 76:59] Tá, meu Deus. Eu não decidi.
+[76:59 - 77:01] Tá, meu Deus.
+[77:01 - 77:03] Vai também, vai também.
+[77:03 - 77:05] Vai também, vai também.
+[77:05 - 77:07] Tá, meu Deus.
+[77:07 - 77:09] Tá, meu Deus.
+[77:09 - 77:11] Vai também, vai também.
+[77:41 - 77:43] A gente vai ver se a gente vai ver.
+[77:43 - 77:45] A gente vai ver se a gente vai ver.
+[77:45 - 77:47] A gente vai ver se a gente vai ver.
+[77:47 - 77:49] A gente vai ver se a gente vai ver.
+[77:49 - 77:51] A gente vai ver se a gente vai ver.
+[77:51 - 77:53] A gente vai ver se a gente vai ver.
+[77:53 - 77:55] A gente vai ver se a gente vai ver.
+[77:55 - 77:57] A gente vai ver se a gente vai ver.
+[77:57 - 77:59] A gente vai ver se a gente vai ver.
+[77:59 - 78:01] A gente vai ver se a gente vai ver.
+[78:01 - 78:03] A gente vai ver se a gente vai ver.
+[78:03 - 78:05] A gente vai ver se a gente vai ver.
+[78:05 - 78:07] A gente vai ver se a gente vai ver.
+[78:07 - 78:09] A gente vai ver se a gente vai ver.
+[78:09 - 78:13] A gente tem que...
+[78:13 - 78:16] Ainda não dá pra achar a gravação, não dá pra achar a gravação.
+[78:16 - 78:21] A gente tem que descrever o problema.
+[78:21 - 78:24] Ainda não dá pra achar a gravação.
+[78:24 - 78:27] Ainda dá pra achar a gravação.
+[78:27 - 78:30] Ainda dá pra achar a gravação.
+[78:30 - 78:33] Ainda dá pra achar a gravação.
+[78:33 - 78:36] Ainda dá pra achar a gravação.
+[78:36 - 78:38] Esse é o primeiro, esse é o primeiro.
+[78:40 - 78:42] Esse é o primeiro, é o primeiro.
+[78:42 - 78:44] Esse é o primeiro, esse é o primeiro.
+[78:44 - 78:46] Esse é o primeiro, esse é o primeiro.
+[78:50 - 78:52] Aqui é o primeiro, aqui é o primeiro.
+[78:52 - 78:54] Aqui é o primeiro, esse é o primeiro.
+[78:54 - 78:56] Esse é o primeiro, esse é o primeiro.
+[78:56 - 78:58] Aqui não vai aparecer, porque está todo com a tarde.
+[78:58 - 79:00] Todo esse caminho não vai virar para aqui.
+[79:00 - 79:02] Eu estou deixando com a entrada.
+[79:02 - 79:04] Eu gosto em casa depois.
+[79:04 - 79:06] Se não, não é tudo.
+[79:06 - 79:08] Ah, é?
+[79:08 - 79:12] Eu estou com um rei mais para ser transgênico.
+[79:12 - 79:14] Você tem que estar com a sua mão, né?
+[79:14 - 79:16] Não, tudo é com o rei.
+[79:16 - 79:18] Mas você não é transgênico.
+[79:18 - 79:22] Talvez fique transgênico, tem mais atenção.
+[79:22 - 79:24] Se você quiser mais,
+[79:24 - 79:26] você pode me ajudar.
+[79:26 - 79:28] Se você quiser mais,
+[79:28 - 79:30] você pode me ajudar.
+[79:30 - 79:32] Isso, muito bom.
+[80:02 - 80:32] A gente está fazendo um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de
+[80:32 - 80:34] Não quero só pagar o...
+[80:35 - 80:36] Não quero assim, né?
+[82:02 - 82:04] O que é isso?
+[82:04 - 82:06] O que é isso?
+[82:06 - 82:08] O que é isso?
+[82:08 - 82:10] O que é isso?
+[82:10 - 82:12] O que é isso?
+[82:12 - 82:14] O que é isso?
+[82:14 - 82:16] O que é isso?
+[82:16 - 82:18] O que é isso?
+[82:18 - 82:20] O que é isso?
+[82:20 - 82:22] O que é isso?
+[82:22 - 82:24] O que é isso?
+[82:24 - 82:26] O que é isso?
+[82:26 - 82:28] O que é isso?
+[82:28 - 82:30] O que é isso?
+[83:00 - 83:02] e aí
+[83:02 - 83:04] e aí
+[83:04 - 83:06] e aí
+[83:06 - 83:08] e aí
+[83:08 - 83:10] e aí
+[83:10 - 83:12] e aí
+[83:12 - 83:14] e aí
+[83:14 - 83:16] e aí
+[83:16 - 83:18] e aí
+[83:18 - 83:20] e aí
+[83:20 - 83:22] e aí
+[83:22 - 83:24] e aí
+[83:24 - 83:26] e aí
+[83:26 - 83:28] e aí
+[83:28 - 83:28] Pessoal!
+[83:31 - 83:32] Aqui, aqui.
+[83:33 - 83:35] Você pode ter aqui, é que você tem que entender o dele.
+[83:37 - 83:37] Quase nada, né?
+[83:37 - 83:38] Caldeiros.
+[83:39 - 83:41] E... mais que nunca acho.
+[83:42 - 83:43] Só que é que eu fico...
+[83:43 - 83:45] Cresça a pete, esse pete ali.
+[83:45 - 83:46] Pete?
+[83:46 - 83:47] Hoje.
+[83:47 - 83:48] Ah, não.
+[83:48 - 83:51] É que tipo, um é um patrimônio, outro é um modelo e outro é um tradicional.
+[83:51 - 83:52] É, tá?
+[83:52 - 83:56] E parece que a classe é o que o Motibook.
+[83:56 - 83:57] É.
+[83:57 - 84:03] Aqui eu criei um que, como se fosse meio, as principais.
+[84:03 - 84:07] e eu vou roda o caso principal, então o que está de voz meio
+[84:07 - 84:12] eu volto o string argumentos, que não vai ser alguma coisa, faz tudo que não
+[84:12 - 84:18] aqui eu crie um novo objeto, ativo TI, ativo 3jágua
+[84:18 - 84:23] ponto servidor, o nome desse objeto vai ser servidor
+[84:23 - 84:28] chamo o new, se você lembra de começo, new
+[84:28 - 84:33] e logo aqui eu tenho, isso aqui é mais grande que eu chamar por junto
+[84:33 - 84:37] esse 1 vai ser o ID
+[84:37 - 84:42] aqui o patch 20.6.01
+[84:42 - 84:46] vai ser costo do patrimônio
+[84:46 - 84:51] PEL, PAL, EG, R740 vai ser o modelo
+[84:51 - 84:56] os dados dele que estão aqui é o artigo
+[84:56 - 84:58] entenderam?
+[84:58 - 84:59] e...
+[84:59 - 85:01] olha que eu passei esse comando
+[85:01 - 85:04] ele cadastra lá e criei esse objeto para as informações
+[85:04 - 85:06] ele tá tudo em um...
+[85:06 - 85:08] ele tá na ordem porque...
+[85:08 - 85:10] quando a gente pula a TNTD
+[85:10 - 85:12] a gente bota lá na ordem
+[85:12 - 85:14] quando a gente pula o publico e a gente pula...
+[85:14 - 85:16] na ordem não, tem que ser a mesma pra lá
+[85:16 - 85:18] eu não posso trocar
+[85:18 - 85:20] o maquino não vai entender isso
+[85:20 - 85:22] tá aqui, tá aqui, tá aqui
+[85:22 - 85:24] eu to estrangeiro, eu acabei de ter um suor
+[85:24 - 85:45] Quando eu voto o Neo aqui, ele entende para criar um povo ativo dele.
+[85:45 - 85:52] Esses dados aqui, eu coloquei, são o que vai alimentar o objeto.
+[85:54 - 86:01] Aqui seria o print, o system output alien, que vai sair as informações.
+[86:01 - 86:03] Isso tem que sair no terminal.
+[86:07 - 86:11] Isso aqui, eu acho que é para as pastas, para as fotografiadas de pastas.
+[86:11 - 86:13] Então a gente aqui é um personal lâmite.
+[86:43 - 86:45] Então, gente, são os testes, né?
+[86:45 - 86:47] Sou o Rulado, a gente tem...
+[86:47 - 86:48] Só que ele saiu?
+[86:48 - 86:53] A gente tem... Aqui no começo, a gente vai ter os atributos.
+[86:53 - 86:56] Vou ver todos os atributos primados.
+[86:56 - 86:59] Quer dizer, como possivelmente chamar os ladrões, né?
+[86:59 - 87:04] Você tem que pegar esses ativos, se você assistir o Gué até não saia.
+[87:04 - 87:07] É, isso meio indoutrinho, né?
+[87:07 - 87:12] Aqui eu declaro eles e o que vai ser, vamos dizer que vocês trinquem, né?
+[87:12 - 87:15] Se eu quisesse que eu poderia botar muito, meu ID com muito, eu...
+[87:17 - 87:19] Agora você teria de botar muito.
+[87:19 - 87:20] De botar muito, sim.
+[87:20 - 87:21] Aqui no teu...
+[87:21 - 87:22] O consultor...
+[87:23 - 87:25] Se você quer tirar a outra, não tem aí.
+[87:38 - 87:40] O consultor aqui...
+[87:40 - 87:47] A gente vai ter o ID, fosta de patrimônio, modelo e status, porque a gente colocou lá na nossa ordem.
+[87:47 - 87:56] Aqui a gente diz, vai dizer que é daquele objeto, no caso lá, estou com a data do servidor,
+[87:56 - 88:03] então ele vai saber que o servidor vai receber aquele ID, aquele fosta de patrimônio, aquele modelo e aquele status.
+[88:03 - 88:07] Pra ele estar tudo salvo lá no servidor vai receber todas as fotos.
+[88:07 - 88:18] O que ele falou é essa variável que vai ligar com a rola assim, que dá em baixo.
+[88:18 - 88:21] Eu acho que não cheguei nesse ponto.
+[88:21 - 88:23] Se eu faço mais coisa, né?
+[88:23 - 88:24] Sim, mano.
+[88:24 - 88:25] Vai rodar a esponência aqui.
+[88:31 - 88:32] É isso mesmo.
+[88:32 - 88:35] Sabe com o seu atinho, sabe com o seu...
+[88:35 - 88:37] Sabe com o meu...
+[88:39 - 88:41] Você quer ver eu puxar o de nada?
+[88:41 - 88:43] Não dá pra eu puxar mais, já.
+[88:43 - 88:45] Tira o que ele tem mais, que ele tem mais.
+[88:45 - 88:47] Ele tem que ser a mais alta agora.
+[88:47 - 88:49] Ele tem que botar um velho aqui e puxar um.
+[88:50 - 88:52] Olha que correga de escreve de sempre e de sempre.
+[88:52 - 88:54] Eu não sei o que eu tinha que estar na pina.
+[88:54 - 88:56] Escreve de sempre e de sempre.
+[88:56 - 88:59] Aqui, né?
+[88:59 - 89:06] Eu fiz um pra cada um, um pra cada tributo, né? Aqui é um get que só vai retornar o ID.
+[89:06 - 89:08] Como é que só faz pra ele retornar o ID?
+[89:08 - 89:10] Você já vai saber qual é o ID daquela marca?
+[89:10 - 89:11] Tem, eu tenho.
+[89:11 - 89:12] Aquilo é o objeto.
+[89:12 - 89:13] Eu coloquei...
+[89:13 - 89:16] E o site já vai dizer pra seta informação.
+[89:16 - 89:21] No caso de um mês, eu mando ele fazer a troca dos status.
+[89:21 - 89:23] Tem um por certo?
+[89:23 - 89:24] Tem um por certo.
+[89:24 - 89:26] Tem essa mão do...
+[89:26 - 89:29] Java, você já vai ser o Java,
+[89:29 - 89:31] a gente tem que colocar o mesmo que você tem.
+[89:31 - 89:32] Ou o quê?
+[89:32 - 89:33] O que?
+[89:33 - 89:33] O que?
+[89:33 - 89:34] O que?
+[89:34 - 89:34] O que?
+[89:34 - 89:37] Ou se tiver pra uma opção a do 1,
+[89:37 - 89:38] já rolar um diado.
+[89:38 - 89:39] É porque...
+[89:39 - 89:40] É uma aparição.
+[89:40 - 89:41] É, não apareceu.
+[89:41 - 89:42] É?
+[89:42 - 89:43] Então o que você vai achar?
+[89:43 - 89:45] Na sete de T também, né?
+[89:45 - 89:46] É, isso aqui, ó.
+[89:46 - 89:46] É?
+[89:46 - 89:47] É?
+[89:47 - 89:48] Mas se tiver mais um arquivo,
+[89:48 - 89:50] o aí vai rodar tudo isso.
+[89:50 - 89:52] Pô, por que você tem que...
+[89:52 - 89:59] Eu fiz um get e um set da cada um, mas o outro não teve a substitução.
+[89:59 - 90:09] O get vai retornar a informação dele e o set vai usar o disco para acertar a informação.
+[90:22 - 90:24] O que é isso?
+[90:24 - 90:26] É o que é isso?
+[90:26 - 90:28] É o que é isso?
+[90:28 - 90:30] É o que é isso?
+[90:30 - 90:32] É o que é isso?
+[90:32 - 90:34] É o que é isso?
+[90:34 - 90:36] É o que é isso?
+[90:36 - 90:38] É o que é isso?
+[90:38 - 90:40] É o que é isso?
+[90:40 - 90:42] É o que é isso?
+[90:42 - 90:44] É o que é isso?
+[90:44 - 90:46] É o que é isso?
+[90:46 - 90:48] É o que é isso?
+[90:48 - 90:50] É o que é isso?
+[91:20 - 91:22] O que é isso?
+[91:22 - 91:24] O que é isso?
+[91:24 - 91:26] O que é isso?
+[91:26 - 91:28] O que é isso?
+[91:28 - 91:30] O que é isso?
+[91:30 - 91:32] O que é isso?
+[91:32 - 91:34] O que é isso?
+[91:34 - 91:36] O que é isso?
+[91:36 - 91:38] O que é isso?
+[91:38 - 91:40] O que é isso?
+[91:40 - 91:42] O que é isso?
+[91:42 - 91:44] O que é isso?
+[91:44 - 91:46] O que é isso?
+[91:46 - 91:48] O que é isso?
+[91:48 - 91:50] O que é o nome do que é o nome da coletão?
+[91:50 - 91:52] A coletão é a parede de um coletão.
+[91:52 - 91:54] A parede de um coletão.
+[91:54 - 91:56] A parede de um coletão.
+[91:56 - 91:58] Ah, não, hoje não é só o nome da coletão.
+[91:58 - 92:00] A parede de um coletão.
+[92:00 - 92:02] A parede de um coletão.
+[92:02 - 92:04] A parede de um coletão.
+[92:04 - 92:06] A parede de um coletão.
+[92:06 - 92:08] A parede de um coletão.
+[92:08 - 92:10] A parede de um coletão.
+[92:10 - 92:12] A parede de um coletão.
+[92:12 - 92:14] A parede de um coletão.
+[92:14 - 92:16] A parede de um coletão.
+[92:16 - 92:22] Eu acho que eu sei, que eu não sei me desmojar.
+[92:22 - 92:24] Eu sei que eu sei me desmojar.
+[92:24 - 92:26] Eu sei que eu sei me desmojar.
+[92:26 - 92:28] Eu sei que eu sei me desmojar.
+[92:28 - 92:30] Eu sei que eu sei me desmojar.
+[92:30 - 92:32] Eu sei que eu sei me desmojar.
+[92:32 - 92:34] Eu sei que eu sei me desmojar.
+[92:34 - 92:36] Eu sei que eu sei me desmojar.
+[92:36 - 92:38] Eu sei que eu sei me desmojar.
+[92:38 - 92:40] Eu sei que eu sei me desmojar.
+[92:40 - 92:42] Eu sei que eu sei me desmojar.
+[92:42 - 92:44] Eu sei que eu sei me desmojar.
+[92:44 - 92:46] A cara tá na sua cara.
+[92:46 - 92:49] Dura, dura, você se sentiu bem.
+[92:49 - 92:50] Sim, é ótimo.
+[92:50 - 92:54] A minha fila de nome que não foi, eu já tinha usado um bichinho lá que tá.
+[92:54 - 92:55] Ah, bandeira.
+[92:55 - 92:57] Bandeira em inglês.
+[92:57 - 92:59] Foi em Alotor T.
+[92:59 - 93:00] É, né?
+[93:00 - 93:01] É.
+[93:01 - 93:03] Pra fazer...
+[93:03 - 93:07] Tá treinando a fita da vegetação e tal, porque aí é quase que para mim, né?
+[93:07 - 93:09] Vai ser o bote pra fazer o CFF.
+[93:09 - 93:12] A padrinha, eu fiz em fata, isso é pra bada aí.
+[93:12 - 93:15] Deve ser mais complicado que tem aqui.
+[93:15 - 93:21] 10 vezes, 1º dito, 9 vezes, 2º... 8 vezes, 3 vezes, 5 dias...
+[93:21 - 93:23] Só um minuto e 7 reais.
+[93:24 - 93:25] É divertido.
+[93:28 - 93:30] Tá ligado que pode ser perto?
+[93:34 - 93:38] Sim, é um longo impacto, mas dá bem certo mesmo.
+[93:38 - 93:40] Dividido para a compra do mundo.
+[94:10 - 94:12] Vamos puxar lá pra carregar os camados.
+[94:12 - 94:14] O tibuto vai carregar.
+[94:14 - 94:16] Ah não, o corpo todo.
+[94:16 - 94:18] Faz a venda.
+[94:18 - 94:20] Eu me esticarei com o sinal.
+[94:20 - 94:22] Eu já vou ter maluco mesmo.
+[94:22 - 94:24] Eu já tenho.
+[94:24 - 94:26] Você tá em casa?
+[94:26 - 94:28] Não sei.
+[94:28 - 94:30] Cuidado na puta.
+[94:30 - 94:32] Eu já fui dar a minha fuga.
+[94:32 - 94:34] Eu escubi como crachar o sistema.
+[94:34 - 94:36] Cuidado, cuidado. Valeu, galera.
+[94:36 - 94:38] Isso é pra ir a uma velocidade pra chegar na escola.
+[94:38 - 94:40] Eu não sei, tá? E para chegar na escola...
+[94:41 - 94:43] Mourosidade.

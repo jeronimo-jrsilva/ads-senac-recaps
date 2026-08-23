@@ -1,0 +1,1488 @@
+--- TRANSCRIÇÃO GPU WHISPER: 13ago-qui-c.m4a ---
+Duração do Áudio: 105:35 | Tempo de Inferência: 4.43 min (266.1s)
+
+[00:00 - 00:03] Aula de Análise e Desenvolvimento de Sistemas.
+[00:30 - 00:37] Vamos lá, vamos lá.
+[00:48 - 00:59] Vou pegar um novo arquivo aqui e colocar como o alão um só pra gente continuar com o mesmo padrão e continuar com o mesmo...
+[00:59 - 01:04] O mesmo encode que quiser fazer novamente, é isso que eu tiver na máquina.
+[01:04 - 01:08] Vamos fazer o cálculo da máquina e do pensão.
+[01:08 - 01:13] A primeira coisa que a gente faz no código é fazer o que?
+[01:13 - 01:15] Include.
+[01:15 - 01:17] Include.
+[01:17 - 01:19] Aí é o STD.
+[01:19 - 01:21] Aí o ponto H.
+[01:21 - 01:25] Depois, vamos fazer a...
+[01:25 - 01:29] vai do principal, que é o bem, gente bem
+[01:29 - 01:36] É, professor, só uma dúvida, se eu só colocasse o bem aí sem colocar o ente na frente
+[01:36 - 01:40] funcionaria porque eu já coloquei o ente nas notas?
+[01:40 - 01:43] Ah sim, vamos lá
+[01:43 - 01:46] Nós estamos usando um compilador C, classe
+[01:46 - 01:50] Provavelmente ele pode reclamar se você não colocar
+[01:50 - 02:03] O nível de falta da gente colocar é para manter a compatibilidade com o ser em todas as suas nações.
+[02:03 - 02:05] Mas por isso.
+[02:05 - 02:08] Certo, outra dúvida, já que o senhor falou isso.
+[02:08 - 02:13] E se eu fosse colocar na média float, na frente, e interferir?
+[02:13 - 02:14] Nós vamos fazer isso.
+[02:14 - 02:15] Ah, tá.
+[02:15 - 02:18] Mas, olha essa dúvida aí.
+[02:18 - 02:19] Aí, não te deixa passar sobre ela.
+[02:19 - 02:20] Na fé, quem é não é essa natureza aí.
+[02:20 - 02:22] Ah, pois tu não, né?
+[02:22 - 02:24] Ah, pois só bem, pois só bem.
+[02:24 - 02:25] Começou bem.
+[02:25 - 02:26] É que passa, hein, mamãe.
+[02:26 - 02:27] É, isso aí.
+[02:27 - 02:28] É, isso aí.
+[02:28 - 02:29] A cabeça da beira tá chegando naquele.
+[02:29 - 02:30] Não tem pra falar.
+[02:30 - 02:31] Não tem pra falar.
+[02:31 - 02:35] Isso negócio de cabelo branco, não é legal.
+[02:35 - 02:36] É, é.
+[02:36 - 02:37] É, é.
+[02:37 - 02:38] Vamos parar por aqui.
+[02:38 - 02:40] Ó, vamos lá.
+[02:40 - 02:42] 20,5, né?
+[02:42 - 02:44] Aí aqui nós temos o método principal.
+[02:44 - 02:46] A primeira coisa que a gente fazia aqui,
+[02:46 - 02:49] e é declarar as variáveis que nós somos utilizados.
+[02:49 - 02:54] Então, vou fazer aqui 20, 1,
+[02:54 - 02:56] ele morra de íngua no final,
+[02:56 - 03:26] 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20
+[03:26 - 03:34] A gente usou um exemplo de cálculo de média entre duas notas, na altura aqui da faculdade.
+[03:34 - 03:47] Nesse exemplo, nós fizemos um algoritmo, pensamos em um algoritmo mais simples possível para o cálculo da média desses dois notas.
+[03:47 - 03:56] E aí nós atribuímos o tipo da variável para inteiro, para permitir que a gente passa o cálculo
+[03:56 - 03:59] da forma mais fácil possível.
+[03:59 - 04:06] Então em C para eu declarar o tipo de variável eu coloco, no caso que é uma variável inteira,
+[04:06 - 04:09] eu coloco essa palavra reservada com int,
+[04:09 - 04:14] int, autom, int, autom 2, int, med.
+[04:14 - 04:18] Sabe, vocês forem que são ali, não todos, e num grupo de abarros, eu não to aqui.
+[04:18 - 04:23] Vamos sujar hoje, mesmo a coisa que a colega falou aqui, hoje a gente vai conhecer as outras variáveis.
+[04:23 - 04:24] Sabe?
+[04:24 - 04:30] E lembrando que o C tem de pagem forte, por isso, diferente do Python.
+[04:30 - 04:34] Uma coisa que o gerâneo chamou a atenção aqui, que relembrou, é o seguinte,
+[04:34 - 04:44] Diferentemente do Python, o C é uma linguagem fortemente tipada. O que é isso?
+[04:44 - 04:54] Ele obriga o programador a descrever quais são os tipos de variáveis e métodos que ele usa.
+[04:54 - 05:01] Por exemplo, o método main, ele é um método principal, mas ele tem que ser tipado.
+[05:01 - 05:06] Então assim, é obrigatório.
+[05:06 - 05:11] Nos seres mais modernos, o método MEN não é obrigatório.
+[05:11 - 05:17] Por exemplo, a Microsoft não é uma versão da Microsoft da Vivo GCE.
+[05:17 - 05:19] E ele não obriga isso aqui.
+[05:19 - 05:24] Porém, contuto, eu vi se você colocar é compatível.
+[05:24 - 05:42] por isso que eu quero ensinar para você aqui o ser clássico, ser padrão para poder, tipo, se vocês copiarem o código que vocês fizerem para uma máquina líquida mais moderna, mais atualizada, ele vai funcionar.
+[05:42 - 05:47] Se você usar um cedo microsoft, levar para um limite, não dá certo.
+[05:48 - 05:51] Eu quero manter essa...
+[05:51 - 05:53] ...a gente tem uma de compatibilidade, né?
+[05:53 - 05:55] Entre os sistemas operacionais.
+[05:55 - 05:56] Beleza?
+[05:56 - 05:58] Aí vamos lá.
+[05:58 - 06:03] Vamos fazer aqui, agora, o cálculo da média.
+[06:03 - 06:05] A média é o quê?
+[06:05 - 06:07] A nota 1...
+[06:08 - 06:09] ...mais.
+[06:09 - 06:15] A moda 2, o meditor 2, o contor 1.
+[06:16 - 06:19] O passado, o Jornal já colocado os valores também.
+[06:19 - 06:22] É, e aí eu vou deixar esse espaço aqui exatamente para isso.
+[06:22 - 06:26] Vou primeiro colocar aqui, vou fazer o código todo,
+[06:29 - 06:31] para depois colocar os valores.
+[06:31 - 06:33] E aí, eu vou colocar o...
+[06:33 - 06:37] E você tem como usuário, introduzido o dado.
+[06:37 - 06:39] e falar de suas também.
+[06:40 - 06:53] Nós usamos essa instrução chamada printf para mostrar que no caso o resultado da média.
+[06:57 - 07:03] Ó, outra coisa que você se dissete falar, vocês podem colocar a cento de banho stream,
+[07:03 - 07:07] vocês podem colocar. Qual é o problema?
+[07:07 - 07:13] É que essa videotaque que está aqui no C-ClasticSTDAIOR.H
+[07:13 - 07:23] ela não reconhece caracteres como assentos, cedílias,
+[07:23 - 07:26] do português brasileiro.
+[07:26 - 07:33] Então eu recomendo que a gente, nos textos que nós fomos mostrar na tela,
+[07:33 - 07:37] evita colocar sempre tipo a média é, certo?
+[07:37 - 07:41] Eu só sou uma dúvida aqui, o senhor falou agora depois do TV aí
+[07:41 - 07:47] aí eu vou pagar, é só pra função printf de scanf
+[07:47 - 07:49] ou tem outros métodos dentro?
+[07:49 - 07:51] métodos dentro
+[07:51 - 07:57] é, tem um conjunto de métodos pra dar noçado, né?
+[07:57 - 08:01] ela tá estando em casa, mas eu gosto disso
+[08:01 - 08:03] Inclusive, vamos falar isso porque eu tenho uma função nova,
+[08:03 - 08:05] porque eu acho que ela é a pessoa que você acaba de falar.
+[08:05 - 08:09] É bom que aí, no dia que eu tiver,
+[08:09 - 08:11] você deve ir, eu chamar ela para pegar.
+[08:11 - 08:13] Assume.
+[08:13 - 08:15] Mas é para levar canto.
+[08:15 - 08:17] É porque pergunta que eu já me encapacia aí.
+[08:17 - 08:23] Então, essa biblioteca aqui, ela tem outros conjuntos
+[08:23 - 08:29] de métodos padrão, certo?
+[08:29 - 08:36] Ela basicamente tem a interface de vídeo, que é o que mostra no monitor, por exemplo.
+[08:36 - 08:41] Se a gente não colocar um include aqui, o printf não vai funcionar.
+[08:41 - 08:53] Porque o printf não vai funcionar, mas o cálculo da mega, se a gente pudesse colocar uma loopinha na memória do computador,
+[08:53 - 08:57] a gente ia ver isso aqui, o cálculo da mega acontecendo.
+[08:57 - 09:02] Porque quando o ser foi criado, o monitor me existia.
+[09:02 - 09:09] A saída era um cartão pré-curado, ou...
+[09:09 - 09:13] Como é que chama? O impresso.
+[09:13 - 09:18] Por que a indúmula da instrução é print?
+[09:18 - 09:20] E não show.
+[09:20 - 09:22] É show inglês a mostrar.
+[09:22 - 09:24] No monitor.
+[09:24 - 09:28] porque o que nasceu primeiro não foi o monitor meu amigo, foi o impressor
+[09:28 - 09:35] e aí o pessoal mandava um print, mais o impressor, vai sair, vai fazer impressão
+[09:35 - 09:39] daquela folhinha e mostrar o resultado, era assim
+[09:39 - 09:42] depois de ter, valeu mostrar um trechinho, vou procurar aqui no youtube
+[09:42 - 09:47] tem um trechinho de essas marcas antigas, meio frames funcionando
+[09:47 - 09:51] para vocês verem o trabalho que era para programar.
+[09:51 - 09:54] Não tinha nem teclado, era no cartão 1.
+[09:54 - 10:01] Você escrevia um texto, você escrevia bit, 0 e 1,
+[10:01 - 10:03] bem no começo depois de evoluir o presta recital,
+[10:03 - 10:05] mas mesmo assim era no cartão teclado,
+[10:05 - 10:11] para depois criarem a interface do teclado e por último o monitor.
+[10:11 - 10:23] E aí as linguagens adotaram um print para mostrar na tela toda a vida.
+[10:23 - 10:26] Então o pai que por exemplo, para mostrar na tela, usa um print.
+[10:26 - 10:34] Pois é, ele poderia ter votado para a instrução, mas já está tão disseminado na computação,
+[10:34 - 10:38] que o print significa mostrar na tela e ninguém quer mudar.
+[10:38 - 10:41] mas você pode traduzir o canaleta entre mim
+[10:41 - 10:44] o efe é de formato, entre o efe de formatado
+[10:46 - 10:49] e aí eu vou colocar aqui
+[10:49 - 10:51] esse percento de média
+[10:51 - 10:54] que é um percento de...
+[10:54 - 10:57] ele é uma máscara
+[10:57 - 11:02] pra eu poder, dentro dessa string aqui, imprimir o número inteiro
+[11:02 - 11:05] e hoje a gente vai ver as outras máscaras que nós vamos poder utilizar
+[11:05 - 11:07] porque nós vamos ver as outras sóiáveis, certo?
+[11:07 - 11:13] e aí no lugar desse por cento de ele vai colocar essa variável média
+[11:13 - 11:23] beleza? se eu tivesse uma outra variável, se eu quisesse colocar a nota 1 e a nota 2 pra serem impressas aqui ó
+[11:23 - 11:37] por exemplo a média é essa, aí a, se eu quisesse colocar, se eu colocasse aqui por exemplo a nota 1, dois pontos
+[11:37 - 11:39] e colocar-se aqui
+[11:42 - 11:44] colocar-se aqui
+[11:47 - 11:49] colocar-se no percentudeir
+[11:49 - 11:51] novamente
+[11:51 - 11:53] e depois aqui da média
+[11:53 - 11:54] eu posso colocar comigo
+[11:54 - 11:56] no altão 1
+[11:56 - 11:58] o que ele vai fazer?
+[11:58 - 12:01] aqui ele vai seguir essa ordem aqui, certo?
+[12:01 - 12:05] primeiro o percentudeir, vai ser o valor da média que vai vir pra cá
+[12:05 - 12:08] E o segundo por cento D vai ser a nota 1.
+[12:08 - 12:11] Se eu pudesse colocar a nota 2.
+[12:12 - 12:15] Vou vir aqui no texto, né?
+[12:16 - 12:18] A nota 2.
+[12:18 - 12:22] E colocar aí aqui um 2 que mostra estar bonitinho.
+[12:22 - 12:24] O cento D.
+[12:24 - 12:27] E aqui no final.
+[12:28 - 12:32] A nota 2.
+[12:35 - 12:39] É como se fosse a questão de parâmetros do pai do homem.
+[12:39 - 12:41] Exatamente.
+[12:41 - 12:46] Aqui a gente está passando exatamente parâmetros, mas ele está seguindo exatamente a ordem
+[12:46 - 12:47] do que eu estou aqui.
+[12:47 - 12:50] Se eu trocar essa ordem aqui, ele vai pagunçar também.
+[12:50 - 12:54] Se eu colocar no lugar da média, ele vai colocar no lugar do bem-vindo.
+[12:54 - 12:57] Ele vai seguir a ordem que você colocou.
+[12:57 - 13:00] Então, o que vai aparecer na média depois da matão?
+[13:00 - 13:01] Depois da matador.
+[13:01 - 13:02] Que eu coloquei nessa ordem.
+[13:02 - 13:05] colocar três um lado, dois do outro, vai dar a ímã de compelação.
+[13:05 - 13:11] Não é que vai dar a erro, ele vai mostrar, logicamente, por exemplo, se eu colocar,
+[13:11 - 13:14] trocar a nota dois pela média, né?
+[13:14 - 13:18] Não, a quantidade, tipo, que aqui tem três, é dólar, é dólar, não sei tudo aí.
+[13:18 - 13:19] Você é tudo aí.
+[13:19 - 13:21] Aí aqui eu só coloco duas, duas, três.
+[13:21 - 13:24] Aí ele vai dar a erro, aí ele vai dar a erro, exatamente.
+[13:25 - 13:31] A quantidade aqui dessa máscara, né, tem que ser equivalente à quantidade de parâmetros que eu estou colocando aqui.
+[13:32 - 13:34] Beleza? Eu não entendi.
+[13:36 - 13:41] E aqui eu finalizo a última linha, então aqui com o result zero.
+[13:48 - 13:50] Retangiço.
+[13:52 - 13:56] Até o meu Brasicode, ele já agitou.
+[13:56 - 14:04] Lembrando que o retorno é zero porque esse método é do tipo teiro, então ao final
+[14:04 - 14:09] ele tem que retornar um teiro e um padrão, ou retornar um teiro.
+[14:09 - 14:17] Isso aqui também faz parte da linguagem de ser clássica, porque antigamente os códigos
+[14:17 - 14:24] eram executados e aí trouxe um sinal para nacional, eu entendi que aquele código rodou
+[14:24 - 14:31] Corretamente, ele sempre retornava zero e para qualquer e quando tinha como erro, ele assumia
+[14:31 - 14:34] menos qualquer coisa diferente de zero.
+[14:34 - 14:36] Como um erro.
+[14:36 - 14:37] Certo?
+[14:37 - 14:39] Beleza, vamos rodar, né?
+[14:39 - 14:42] Desenha lembra como é que roda o código?
+[14:42 - 14:46] Aqui vocês vão abrir o terminal, novo terminal.
+[14:46 - 14:51] Beleza, aí vamos lá.
+[14:51 - 14:56] Você nome do arquivo do caso aqui Aula1.c
+[14:56 - 14:59] Nem os O, não é M no zero, né?
+[14:59 - 15:02] O mandador te adora colocar o M no zero.
+[15:02 - 15:06] E aí eu vou chamar o executável de Aula1.
+[15:06 - 15:10] Aperta a ENTER e ele executou e ele vai criar um binário.
+[15:10 - 15:12] A marca de vocês vai aparecer.
+[15:12 - 15:17] Se vocês seguirem o mesmo nome, vai aparecer o Aula1.xz, certo?
+[15:17 - 15:23] Para você saber, é só vir aqui, dar um D, ou um LS, no caso que eu não entendi,
+[15:23 - 15:29] o Windows, mais um nosso LS aqui, e eu tenho um executador aqui chamado Aula1.
+[15:29 - 15:33] E aí na máquina de vocês, vocês vão fazer o seguinte para chamar a área, ponto,
+[15:33 - 15:38] e essa barra, Aula1, para chamar a redor.
+[15:38 - 15:43] Ah, outra coisa, pera aí, tem um detalhe aqui nesse outro, que eu não desfi, olha os vídeos.
+[15:43 - 15:51] É um detalhe aqui que eu esqueci, é que a gente não colocou o valor de nota 1 e de nota 2, né?
+[15:51 - 15:56] Agora que a gente já fez toda a...
+[15:56 - 15:58] toda a...
+[15:58 - 16:03] pode ser, vamos colocar que nota 1 é igual a 7
+[16:03 - 16:07] e nota 2
+[16:07 - 16:11] igual a 8, olha que assaco, foguei com frequência.
+[16:11 - 16:23] Aí eu vou vir aqui compilar novamente a cada alteração do código eu tenho que compilar para saber se ele vai aceitar que eu to colocando aqui no código
+[16:23 - 16:29] Salvei e aqui também é igual nos links, ponto barra, aula
+[16:29 - 16:35] E até aqui ó, a média é 7, nota 1, 7, nota 2, 8
+[16:35 - 16:41] A beleza do meu aqui ele aparece no conserto porque é um... é um...
+[16:41 - 16:45] É um negócio aqui do meu Mac, sabe?
+[16:45 - 16:51] Aquel clonkzinho aqui. Aqui vocês não aparecem normal.
+[16:51 - 16:58] A beleza todo que não chegou nesse resultado aqui, isso aqui é só aula, é só um review da aula de ontem.
+[16:58 - 17:03] Dizem nada de novo. Ah, não sei, colocou a espada para aqui.
+[17:03 - 17:06] Avelhecer do site? Quem não rodou?
+[17:06 - 17:11] Então, por isso que o dono de protecência está, eu tenho que fazer isso com o gcc.
+[17:11 - 17:13] Vem, compilá-lo.
+[17:13 - 17:16] Não dá a ter dente da oocêndo do Huawei.
+[17:16 - 17:19] Não tem gcc, vem com os meus véssimas.
+[17:19 - 17:22] Não tem, não tem.
+[17:22 - 17:25] Não tem, não tem.
+[17:25 - 17:28] Véssimas.
+[17:28 - 17:30] O que é isso?
+[17:30 - 17:32] O que é isso?
+[17:32 - 17:34] O que é isso?
+[17:34 - 17:36] O que é isso?
+[17:36 - 17:38] O que é isso?
+[17:38 - 17:40] O que é isso?
+[17:40 - 17:42] O que é isso?
+[17:42 - 17:44] O que é isso?
+[17:44 - 17:46] O que é isso?
+[17:46 - 17:48] O que é isso?
+[17:48 - 17:50] O que é isso?
+[17:50 - 17:52] O que é isso?
+[17:52 - 17:54] O que é isso?
+[17:54 - 17:56] O que é isso?
+[19:26 - 19:28] e aí
+[19:28 - 19:30] e aí
+[19:30 - 19:32] e aí
+[19:32 - 19:34] e aí
+[19:34 - 19:36] e aí
+[19:36 - 19:38] e aí
+[19:38 - 19:40] e aí
+[19:40 - 19:42] e aí
+[19:42 - 19:44] e aí
+[19:44 - 19:46] e aí
+[19:46 - 19:48] e aí
+[19:48 - 19:50] e aí
+[19:50 - 19:52] e aí
+[19:52 - 19:54] e aí
+[19:54 - 19:56] sempre que mudar o código.
+[19:56 - 19:58] Porque, veja,
+[19:58 - 20:00] quando você chama o programa
+[20:00 - 20:02] aqui para executar o ponto
+[20:02 - 20:04] barra aula 1,
+[20:04 - 20:06] você está chamando o binário,
+[20:06 - 20:08] você está com o mal-costumido
+[20:08 - 20:10] Python, certo?
+[20:10 - 20:12] Vamos tirar esse custum.
+[20:12 - 20:14] Entendido e papelado?
+[20:14 - 20:16] É, exatamente.
+[20:16 - 20:18] Quando a gente
+[20:18 - 20:20] edita aqui o código fonte,
+[20:20 - 20:22] não significa que você só editou
+[20:22 - 20:29] você não é de todo binário, por isso você tem que compilar novamente para você, na hora que chamar o executável
+[20:29 - 20:32] ele já está afordo, sabe?
+[20:32 - 20:34] Todo mundo deu certo?
+[20:34 - 20:36] funcionou?
+[20:36 - 20:38] deu certo?
+[20:38 - 20:40] agora tem que salvar
+[20:40 - 20:42] depois fazê o desenseio
+[20:42 - 20:46] e depois chamar para executar
+[20:46 - 20:48] vence rodou?
+[20:48 - 20:50] não, não dá o desenseio
+[20:50 - 20:57] Podemos avançar para a aula 2, só o review, só para estar em esquenta.
+[20:57 - 20:58] Vamos lá?
+[20:58 - 21:04] Aproveitando ainda esse mesmo código fonte mais e mais, é assim, gente?
+[21:04 - 21:07] Tem algumas coisas assim.
+[21:07 - 21:08] Algumas coisas assim.
+[21:08 - 21:13] A lógica, por exemplo, é que o protocolo também vai te elevar a 8,6.
+[21:13 - 21:16] Você vai mudar para o outro.
+[21:16 - 21:18] Vamos lá?
+[21:18 - 21:22] Vamos fazer a primeira inovação nesse código, tá?
+[21:22 - 21:26] Mas vamos apagar aqui ó, nota 1 e nota 2.
+[21:28 - 21:33] E eu vou conversar com vocês
+[21:35 - 21:41] com uma nova forma de pegar esse dado agora a partir do usuário, certo?
+[21:41 - 21:43] Até agora eu não estou muito ruim, gente.
+[21:43 - 21:44] É, tá?
+[21:44 - 21:47] Que não impute a dupai, então, certo?
+[21:47 - 21:54] É equivalente ao ser em emboche, essa função aqui, scanF.
+[21:54 - 22:01] O scanF, o que é que ele vai fazer? Ele vai ler o teu teclado.
+[22:01 - 22:06] É isso que ele vai fazer. Só que antes de chamar o scanF pra mim de cima,
+[22:06 - 22:13] eu preciso fazer o seguinte, fazer aqui, pra ficar uma aplicação bonitinha,
+[22:13 - 22:20] Vou fazer o cliente, o TF de Gynatão.
+[22:20 - 22:30] Para que ele mostre o próprio tzinho um texto para você entrar com o Gynatão.
+[22:30 - 22:39] E aí eu venho com esse cané, abro 40 e coloco aqui o 100D e Gynatão.
+[22:39 - 22:42] vamos com calma aqui agora, vou dar até dar um zoom
+[22:44 - 22:46] o que é isso? é muita coisa nova aqui
+[22:47 - 22:51] todo dia é coisa nova
+[22:53 - 22:59] foi o que eu falei aqui, colocamos o printf, digite, nota um, dois pontos
+[22:59 - 23:03] fecha a gasta para duas, fecha o parentes, dois pontos
+[23:03 - 23:11] ele vai mostrar uma linha para você dizendo para você digitar a nota 1
+[23:11 - 23:15] só aí ele mostrou, ele não pegou nada do seu teclado
+[23:15 - 23:22] a linha de baixo, o scan F, ele serve para varrer tudo que você digitar
+[23:22 - 23:31] e aí ele vai fazer o seguinte, tudo que você digitar, que no caso, a gente está esperando que seja a nota 1
+[23:31 - 23:34] e ela é uma variável do tipo inteiro, correto?
+[23:34 - 23:36] que a gente dependiu anteriormente
+[23:37 - 23:39] e por ser os por tipo inteiro
+[23:39 - 23:42] a gente tem que colocar aqui, as para doutros por cento d
+[23:42 - 23:45] porque tudo que você for digitar é uma string
+[23:46 - 23:49] mas ela é uma string que vai ser convertida para um tail
+[23:49 - 23:52] e essa conversão acontece bem aqui
+[23:53 - 23:53] certo?
+[23:54 - 23:56] aí eu coloco uma vírgula
+[23:57 - 24:00] e tem um elemento novo aqui que é um e-comercial
+[24:00 - 24:10] Esse comercial funciona como um ponteiro, lá no final do curso vocês vão entender o conceito do ponteiro.
+[24:10 - 24:12] Você tem interesse da variável?
+[24:12 - 24:17] Exatamente, ele aponta para essa variável aqui.
+[24:17 - 24:28] Se você colocar scanec, o percento de aqui vírgula e não colocar este ponteiro, não vai funcionar.
+[24:28 - 24:35] O que é que ele vai fazer? Tudo que você diz, está com o declarado, ele vai apontar,
+[24:35 - 24:40] é como se você usasse aqui o e-comercial, o substituíso, que não acerta, certo? Ele
+[24:40 - 24:49] vai apontar para a variável nota 1, certo? No Python isso não acontece, você coloca
+[24:49 - 24:57] variável direto e ele já assume, certo? E aí nós vamos... ah outra coisa eu vou até
+[24:57 - 25:05] mostrar, você viu aqui na linha aqui do PDF, uma linha acima, pra mostrar pra vocês como é que
+[25:05 - 25:11] faz o comentário com C. Lá no Python a gente fazia comentário com que?
+[25:11 - 25:24] aqui no C a gente faz com os barras, barra a barra eu vou colocar aqui ó, entra com a nota
+[25:24 - 25:28] Vamos ver se mais mais te um bem.
+[25:28 - 25:30] Você não sabe?
+[25:30 - 25:34] Nossa, eu descobri isso auto executado.
+[25:34 - 25:41] Agora vamos copiar, comentário com tudo aqui, vamos copiar essas três linhas.
+[26:11 - 26:20] Aí eu coloco a piota, nota 2 e aqui também nota 2.
+[26:20 - 26:23] Beleza?
+[26:23 - 26:31] É a mesma coisa, não mudei nada, só o 2 aqui, onde tinha 1 substituindo pelo 2.
+[26:31 - 26:32] Beleza?
+[26:32 - 26:39] Assim eu vou pegar a primeira nota e a segunda nota.
+[26:39 - 26:46] E observe que eu não alterei em nada o cálculo da média.
+[26:46 - 26:49] Vamos lá, tem a ribonose aí.
+[26:54 - 26:58] Pode ser de novo, você pegou, você conseguiu.
+[26:58 - 27:01] Pega um outro, mas que eu coloquei um parado de coisa, eu abro.
+[27:01 - 27:03] Deu a mim, você está aqui.
+[27:03 - 27:33] Aí, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai
+[27:33 - 27:43] Vou subir aqui o impact terminal, vou terminar a corporeia e vou fazer de este C, o nome
+[27:43 - 27:49] do arquivo e a aula 1 com C, mais ou menos, a aula 1.
+[27:49 - 27:51] Beleza?
+[27:51 - 27:57] Executei, eu já escondi o leio e agora vou executar o código.
+[27:57 - 28:21] Olha só o que já mudou aqui, agora ele está pedindo a nota, digite a nota 1, vou colocar aqui, 7 e depois 8, e a média é 7.
+[28:21 - 28:23] Todo mundo chegou nesse resultado aí?
+[28:26 - 28:27] Vamos lá!
+[28:27 - 28:30] Quem não funciona pode baixar só um pouco.
+[28:30 - 28:31] Nossa!
+[28:31 - 28:32] Vou pegar a parte.
+[28:36 - 28:37] Entendi.
+[28:44 - 28:47] Quem não funciona, me avisa que eu vou até aí.
+[28:51 - 28:53] e aí
+[28:53 - 28:55] e aí
+[28:55 - 28:57] e aí
+[28:57 - 28:59] e aí
+[28:59 - 29:01] e aí
+[29:01 - 29:03] e aí
+[29:03 - 29:05] e aí
+[29:05 - 29:07] e aí
+[29:07 - 29:09] e aí
+[29:09 - 29:11] e aí
+[29:11 - 29:13] e aí
+[29:13 - 29:15] e aí
+[29:15 - 29:17] e aí
+[29:17 - 29:19] e aí
+[29:19 - 29:24] Ah, tranquilo, sem pressão.
+[29:24 - 29:27] Sem pressão.
+[29:27 - 29:29] Sem pressão.
+[29:33 - 29:35] Faz parte da gente assim,
+[29:35 - 29:38] do quebrando paradigma do dia a dia de vocês, sabe?
+[29:38 - 29:41] A gente vai programar todo dia, que te cola assim.
+[29:41 - 29:43] Não tem isso.
+[29:43 - 29:46] É assim que não existe se não tiver programação.
+[29:49 - 29:51] O que é isso?
+[29:51 - 29:53] O que é isso?
+[29:53 - 29:55] O que é isso?
+[29:55 - 29:57] O que é isso?
+[29:57 - 29:59] O que é isso?
+[29:59 - 30:01] O que é isso?
+[30:01 - 30:03] O que é isso?
+[30:03 - 30:05] O que é isso?
+[30:05 - 30:07] O que é isso?
+[30:07 - 30:09] O que é isso?
+[30:09 - 30:11] O que é isso?
+[30:11 - 30:13] O que é isso?
+[30:13 - 30:15] O que é isso?
+[30:15 - 30:17] O que é isso?
+[30:47 - 30:49] e aí
+[30:49 - 30:51] e aí
+[30:51 - 30:53] e aí
+[30:53 - 30:55] e aí
+[30:55 - 30:57] e aí
+[30:57 - 30:59] e aí
+[30:59 - 31:01] e aí
+[31:01 - 31:03] e aí
+[31:03 - 31:05] e aí
+[31:05 - 31:07] e aí
+[31:07 - 31:09] e aí
+[31:09 - 31:11] e aí
+[31:11 - 31:13] e aí
+[31:13 - 31:15] e aí
+[31:15 - 31:22] O cara está fazendo de trás, sabe quanto é essa imagem?
+[31:22 - 31:25] É essa emagração.
+[31:27 - 31:31] É, a candada mexe com a brincadeira.
+[31:45 - 31:52] aí o melhor né
+[31:52 - 31:55] mas é mais pra cá
+[31:55 - 31:59] desvende ficou mais pro canto, não foi pra cá, não é um lugar de sábio
+[31:59 - 32:01] isso é bem sério
+[32:01 - 32:04] deixa eu operando aqui
+[32:04 - 32:09] dá pra terminar o meio
+[32:09 - 32:11] dá, dá, porque tá certo né
+[32:11 - 32:15] quem não conseguiu rolar levanta não, pra gente ver aí
+[32:15 - 32:17] 2, 3, 2, 1...
+[32:17 - 32:19] O que é isso?
+[32:19 - 32:21] O que é isso?
+[32:21 - 32:23] Deixa eu falar...
+[32:23 - 32:29] O teu que já valendo você está instalado, o que eleitina?
+[32:29 - 32:33] Não conta você, você se junta no terminal.
+[32:33 - 32:35] Não conta você.
+[32:35 - 32:37] O que é isso?
+[32:37 - 32:39] Aí...
+[32:39 - 32:41] Oh, que pare...
+[32:41 - 32:45] 30 cento, eu lembro isso.
+[32:45 - 32:47] 30 cento, tá?
+[32:49 - 32:51] Dão de...
+[32:51 - 32:53] De...
+[32:53 - 32:57] Aí, ó lá, ó lá, tá aí.
+[32:57 - 32:59] Tá aí.
+[32:59 - 33:01] Ok, já...
+[33:01 - 33:03] Preciso o quê? Com pilar de novo?
+[33:03 - 33:05] É.
+[33:05 - 33:09] GCC, espaço, aula, um medulai mais luz, botar, mas não vai encontrar...
+[33:09 - 33:20] Um detalhe, gente, o GCC é que é insensitivo, o que significa que ele vai identificar letra
+[33:20 - 33:22] maiúscula e minúscula.
+[33:22 - 33:27] Então, se não você tem um arquivo lá, está com a primeira letra maiúscula, você tem
+[33:27 - 33:30] que escrever a primeira letra maiúscula no arquivo, se não vai encontrar.
+[33:30 - 33:33] Não, mas calma aí, tem um, tem um, tem um, tem um.
+[33:33 - 33:34] O Zol, né?
+[33:34 - 33:35] Quanto aí?
+[33:35 - 33:37] 7 pra cima, 7 pra cima.
+[33:37 - 33:41] Espaço, menos Zol, aulão.
+[33:41 - 33:44] Aí pode ser um minuto agora também.
+[33:46 - 33:48] Vai menos 5.
+[33:48 - 33:52] Onde não bilou, aí veja que ali vai interior.
+[33:52 - 33:55] Não é assim que tava chamando aulão.
+[33:55 - 33:58] Aí que você coloca ponto.
+[33:59 - 34:01] Isso é essa barra aqui.
+[34:03 - 34:06] Aula...
+[34:14 - 34:16] Não, não é tudo na aula, é o lanceiro.
+[34:17 - 34:18] Não.
+[34:19 - 34:22] Você esqueceu de colocar alguma coisa.
+[34:23 - 34:24] Então pode...
+[34:25 - 34:29] A mãe de sua fila foi me transformando em nada de cima.
+[34:29 - 34:32] Não, tá aqui, apareceu o disco na tom, eu tô contando lá, pouquinho lento.
+[34:32 - 34:33] É verdade, é verdade.
+[34:33 - 34:34] Pronto, vai.
+[34:36 - 34:39] Um, dois, três.
+[34:43 - 34:47] Olha, eu tenho alguma coisa errada aqui, da minha média, vamos ver como é que tem a esquerda média.
+[34:48 - 34:50] Deixa eu ir com a minha salta.
+[34:53 - 34:54] Cadê o caldo da média?
+[34:55 - 34:56] Não tem, não.
+[34:56 - 34:57] Vai pegar lá.
+[34:57 - 35:02] O que é o clássico?
+[35:02 - 35:09] Na hora que você estava escrevendo o código, você não colocou a calca da média.
+[35:09 - 35:11] Eu dei só as duas antes.
+[35:11 - 35:16] O que é que acontece? Você criou a variável... como é teu nome?
+[35:16 - 35:17] Rafael.
+[35:17 - 35:21] Rafael, você criou a média aqui em cima.
+[35:21 - 35:26] E aí você não fez nada com essa variável, você não atribuiu nenhum valor a ela.
+[35:26 - 35:31] Aí você no final mandou imprimir o valor da média.
+[35:31 - 35:34] O que acontece? Quando você cria uma variável,
+[35:34 - 35:36] atribui uma variável aqui, cria ela,
+[35:36 - 35:40] ela vai ter um valor aleatório na sua memória.
+[35:40 - 35:43] No caso dele, vocês não viram aqui,
+[35:43 - 35:45] mas na hora que ele foi imprimir lá,
+[35:45 - 35:48] mostrou um valor, sei lá, 10.850.
+[35:48 - 35:50] Você é só bonito também.
+[35:50 - 35:51] Pois é.
+[35:51 - 35:54] Porque você não colocou o cálculo da média aqui.
+[35:54 - 35:57] Média, o que é que é média?
+[35:58 - 36:03] É igual, anota 1 mais anota 2 dividido por 2.
+[36:04 - 36:06] Tudo certo, né? O calcão é mais que o seu calcão.
+[36:06 - 36:07] Você viu, né?
+[36:08 - 36:10] Aí atrai o certo?
+[36:10 - 36:11] Não.
+[36:14 - 36:16] A minha vida se não der certo, a gente vai fazer, hein?
+[36:22 - 36:23] Bora, agora, agora.
+[36:23 - 36:25] Olha, olha, olha...
+[36:27 - 36:32] A turma da noite tem 50 pessoas.
+[36:32 - 36:34] É, eu tava lá, né?
+[36:34 - 36:36] Eu tava lá.
+[36:36 - 36:38] Eu vi mais um endereço especial aqui.
+[36:38 - 36:40] É muito tempo.
+[36:40 - 36:44] Cara, eu vi uma roda, acho que a gente tava assim, 6 aqui.
+[36:44 - 36:47] Aí, tá assim, tem que ter todas as...
+[36:47 - 36:53] Pegaram a parte do CNS passado, quando o senhor passava por lá, eu mesmo levantava e ia ajudar os colegas
+[36:53 - 36:57] Você tinha condição só da professora, cuidadoso e metrôcares
+[36:57 - 37:02] Mas eu estou conseguindo porque eu estou deixando a turma já nesse mesmo que cara,
+[37:02 - 37:05] o chefe todo mundo chegou, boa doid pessoa, pegou a máquina, já foi...
+[37:05 - 37:08] A gente perdeu no menos tempo de setar, só teve um monte de...
+[37:08 - 37:12] Só teve duas pessoas que tiveram a infelizidade de pegar a máquina, que...
+[37:12 - 37:14] que tinha naturalmente estar lá, mas aí foi...
+[37:14 - 37:22] Eu li uma delas trouxe a pomba do de casa, trouxe o dela pessoal, eu ajudei a instalar rapidinho e incluir o bem.
+[37:22 - 37:28] E segundo Cernélia, também devem estar um pouco mais calejadas, é preciso entender o que é a decisão.
+[37:28 - 37:31] O Mércio e o Ensalva deixaram a coisa de mim.
+[37:31 - 37:32] Como? Pra quê?
+[37:32 - 37:34] Salva da Almeida, o Mércio e o Ensalva.
+[37:34 - 37:38] Almeida é diferente, se eu executar o Mércio e o Dado, eles fazem o que?
+[37:38 - 37:44] Se eu fizer GCC, mexendo os vestos, o meu compilador é para o...
+[37:44 - 37:46] É, por que? É diferente, sabe?
+[37:46 - 37:48] Você acha que o que está...
+[37:48 - 37:50] Não...
+[37:50 - 37:54] Se liga nisso, não. É, ele vai ser diferente.
+[37:54 - 37:56] Tá?
+[37:56 - 37:58] É isso.
+[37:58 - 38:02] Conseguiram aí?
+[38:02 - 38:04] Eu saio da palha.
+[38:04 - 38:06] Eu não, hein, eu...
+[38:06 - 38:08] Esse é o operador.
+[38:12 - 38:14] Salvei, né?
+[38:14 - 38:16] Tchau, com o bilhão de novo?
+[38:28 - 38:30] Bom dia, luto.
+[38:30 - 38:32] Bom dia.
+[38:32 - 38:34] Tem alguém aqui?
+[38:34 - 38:50] É uma política de controle de aplicativo, que é o amado, que está com acesso a um estado de vírus.
+[38:50 - 38:59] É que é um falso de um oponente que é de controle de aplicativo, que tem um tipo de
+[38:59 - 39:07] um tipo de antivírus, viral, ou não, antivírus, proprietário, ou coisa, ou não.
+[39:07 - 39:11] Está rodando minhas ou minhas?
+[39:11 - 39:12] Minhas.
+[39:12 - 39:15] Onde é que deu isso?
+[39:15 - 39:26] Não tem nada que pode estar barrando aí.
+[39:26 - 39:34] Porque como é código C, tem muitos antivírus que acham que pode ser isso.
+[39:34 - 39:36] E você executar meu estranho, eu não vou rolar nada.
+[39:36 - 39:39] Esse código aqui é C, vinho.
+[39:39 - 39:43] Esse código novo aqui não foi que fez ainda, não.
+[39:43 - 39:45] Ele fala assim ó, Iiiiix!
+[39:49 - 39:51] Nada de louco, nada demais.
+[39:51 - 39:53] Não, legal, mas isso aí, é tá lá lá.
+[39:53 - 39:55] A gente coloca um fluke e mais um na B.
+[39:55 - 39:57] Ah, é, volta aí.
+[39:57 - 39:59] Volta aqui.
+[39:59 - 40:01] O que durante a água tava...
+[40:03 - 40:05] Ó, mas tu colocou só na máquina, né?
+[40:05 - 40:07] Quem coloca na B?
+[40:07 - 40:09] Sim, eu não coloquei na gota.
+[40:09 - 40:11] Perfeito.
+[40:13 - 40:20] Não sei, mas ali é um erro de alguma aplicação de calendo.
+[40:20 - 40:22] Quisa pegar uma marca?
+[40:22 - 40:25] É o que eu tenho que dar isso aí.
+[40:25 - 40:30] Bom, pega a marca, já sei tudo do lado do coleguinha aqui.
+[40:30 - 40:33] Para pegar a informação do mais rápido, tá?
+[40:33 - 40:35] E aí
+[40:35 - 40:37] E aí
+[40:37 - 40:39] E aí
+[40:39 - 40:41] E aí
+[40:41 - 40:43] E aí
+[40:43 - 40:45] E aí
+[40:45 - 40:47] E aí
+[40:47 - 40:49] E aí
+[40:49 - 40:51] E aí
+[40:51 - 40:53] E aí
+[40:53 - 40:55] E aí
+[40:55 - 40:57] E aí
+[40:57 - 40:59] E aí
+[40:59 - 41:01] E aí
+[41:01 - 41:07] 40% mais da sua, 40% do centro, 90%
+[41:07 - 41:10] Não quero que você laque o centro
+[41:16 - 41:19] Não salva do outro, não é doido
+[41:19 - 41:21] É, gente, salva do outro
+[41:21 - 41:23] Se você que tinha que salvar, você ia salvar
+[41:23 - 41:25] Gente, deixa eu dar uma dica
+[41:25 - 41:28] Minha aula, tivesse code aqui para a turma
+[41:28 - 41:37] Qualquer alteração que eu faço aqui no código, assim que você vê o seu VSCode aqui,
+[41:37 - 41:43] essa bolinha aqui, significa que o arquivo não está salvo.
+[41:43 - 41:49] E às vezes a gente passa um tempão aqui títano código para não estar salvo,
+[41:49 - 41:52] e aí você quer compreender uma coisa que não está salvo.
+[41:52 - 41:57] Vai dar problema, então você salva antes, para evitar que quando você...
+[41:57 - 41:59] e construíram o pai.
+[41:59 - 42:01] Mas o pai, não tem essa, não.
+[42:01 - 42:03] Se você usar o Bascot, o que é que salvá-lo de jeito?
+[42:03 - 42:06] É, a gente está confundindo de...
+[42:06 - 42:09] É porque a gente trabalhou a maior parte da gente,
+[42:09 - 42:12] com o Bascot, foi com...
+[42:12 - 42:14] Colar a charme.
+[42:14 - 42:16] Foi com o Colarabi, aí no finalzinho,
+[42:16 - 42:19] as quatro últimas aulas que entre o Bascot.
+[42:19 - 42:25] Mas muitas informações não foram passadas em relação a isso do Bascot.
+[42:25 - 42:32] Eu sei porque eu estou fazendo um curso por fora e eu sei que tem que toda hora dar salva.
+[42:32 - 42:35] Eu o paixar e já salva automaticamente.
+[42:35 - 42:37] Não vês cor da pra configurar também.
+[42:37 - 42:40] Mas eu quero ensinar vocês...
+[42:40 - 42:43] Eu vou ensinar você, eu vou ensinar você.
+[42:43 - 42:49] Porque lá no mercado vocês vão pegar uma máquina, quando vocês estiverem trabalhando em uma empresa,
+[42:49 - 42:53] o cara vai te entregar a máquina quase sem nada.
+[42:53 - 42:57] aí vai dizer cara, instala aí o que você precisa usar
+[42:57 - 42:59] e aí vocês vão fazer o que?
+[42:59 - 43:01] vai ser dentro?
+[43:01 - 43:03] vai ser dentro?
+[43:03 - 43:05] sim, então não digo muito aqui, isso não é lógico
+[43:05 - 43:07] você vai dizer não, não sei instalar o VS Code
+[43:07 - 43:09] você usa o VS Code não
+[43:09 - 43:13] ou então você chega na empresa que as plataformas
+[43:13 - 43:15] já estão definidas, só lá vamos usar
+[43:15 - 43:19] o VS Code com o que lá você viu
+[43:19 - 43:29] Aí você, em seu Zá, vai aprender, vai doer, vai errar.
+[43:30 - 43:35] Ao longo das 15 aulas que mais vamos nos ver aqui no Este curso,
+[43:35 - 43:39] de cortar o som 30, porque são dois dias, isso vai lá pra que nem lá.
+[43:39 - 43:42] Aqui, ó, eu tô pagando o mesmo código de ontem, Leandro.
+[43:43 - 43:45] E só adicionei.
+[43:45 - 43:48] É bom que você tá no lado de alguém que já se ampegou,
+[43:48 - 43:54] Basicamente, eu falei do como é que faz o comentário com barra barra,
+[43:54 - 44:00] e introdução do escanejo, que é uma instrução que vai ler o teclado
+[44:00 - 44:02] para você digitar a nota.
+[44:02 - 44:06] Usando o mesmo exemplo anterior, eu quero calcular o de médio de duas notas.
+[44:06 - 44:10] Não é não? Porque a gente não pode curar a nota.
+[44:10 - 44:16] Agora não. Agora eu estou pedindo para o usuário entre atualmente uma nota.
+[44:16 - 44:23] Aí para isso, estou jogando para ele um prompt, para ele introduzir, digita a primeira nota,
+[44:23 - 44:31] vai mostrar isso aqui, e essa instrução, scanf, o sento D, ela vai ler o teclado e vai converter
+[44:31 - 44:41] o que você digitar numa variável lute inteira, e tem o ícone sial aqui, que é um ponteiro
+[44:41 - 44:45] que vai apontar o que você digitar para a nota 1.
+[44:46 - 44:51] Certo? Então automaticamente quando você digitar alguma coisa no teclado,
+[44:51 - 44:55] ele vai transferir o que você digita, vai converter para inteiro,
+[44:55 - 44:59] e vai levar para variar a nota 1.
+[45:00 - 45:04] E a gente não doem nada, e a gente repetiu a mesma coisa para a nota 2,
+[45:04 - 45:08] mas a gente não mexeu em nada aqui no cálculo da média.
+[45:08 - 45:10] deu certo?
+[45:10 - 45:12] o que que era?
+[45:12 - 45:14] essa loma de tibrevele aqui mesmo, é um antigráfico
+[45:14 - 45:16] vou para
+[45:16 - 45:18] eu vou deixar os quadros aqui, eu ganho
+[45:18 - 45:20] aí a gente vai
+[45:20 - 45:22] para a minha mãe
+[45:22 - 45:24] vai pegar uma parte de tibrevele
+[45:24 - 45:26] a parte de tibrevele
+[45:26 - 45:28] instalado
+[45:28 - 45:30] instalado com tibrevele
+[45:30 - 45:32] bom?
+[45:32 - 45:34] é bom
+[45:34 - 45:40] É, tu sabe o Claudio?
+[45:40 - 45:47] É um atleta que ele tem acesso para os arquivos, para que as coisas que ele tem,
+[45:47 - 45:53] onde breve, de novo. Claudio é o da Antrofis, de onde breve, de novo.
+[45:53 - 45:55] Eu sei porque eu uso aqui.
+[46:04 - 46:06] Não é legal se você está com isso.
+[46:06 - 46:08] Não é legal se você está com isso.
+[46:08 - 46:10] Não é legal se você está com isso.
+[46:10 - 46:12] Não é legal se você está com isso.
+[46:12 - 46:14] Não é legal se você está com isso.
+[46:14 - 46:16] Não é legal se você está com isso.
+[46:16 - 46:18] Não é legal se você está com isso.
+[46:18 - 46:20] Não é legal se você está com isso.
+[46:20 - 46:22] Não é legal se você está com isso.
+[46:22 - 46:24] Não é legal se você está com isso.
+[46:24 - 46:26] Não é legal se você está com isso.
+[46:26 - 46:28] Não é legal se você está com isso.
+[46:28 - 46:30] Não é legal se você está com isso.
+[46:30 - 46:32] Não é legal se você está com isso.
+[46:32 - 46:38] Python, porque é lógica, muita gente tem muita dificuldade na lógica, então a
+[46:38 - 46:44] nossa dificuldade na lógica e na syntax é uma barreira maior para quem está
+[46:44 - 46:49] começando. Python pelo menos não pega muito na syntax, não pega muito nessas
+[46:49 - 46:53] questões de ponto de vírgula, de declarar o tipo de variável, depois que a gente
+[46:53 - 47:00] entendeu os equals, for, os wilds e tudo mais, aí vamos preocupar com isso.
+[47:00 - 47:04] que acaba sendo mais fácil, mas pegar tudo junto
+[47:04 - 47:06] Opa, esse é o que é mais um?
+[47:06 - 47:08] Não é?
+[47:08 - 47:10] É um interesse
+[47:10 - 47:12] Isso é um interesse
+[47:12 - 47:14] É um tecate
+[47:14 - 47:16] É um tecate
+[47:16 - 47:18] É um tecate
+[47:18 - 47:20] É um tecate
+[47:20 - 47:22] É um tecate
+[47:22 - 47:24] É um tecate
+[47:24 - 47:26] Ele não mandou
+[47:26 - 47:28] Não mandou
+[47:28 - 47:30] Não mandou
+[47:30 - 47:32] Ele mandou o vídeo
+[47:32 - 47:39] Eu fiquei esperando o vídeo.
+[47:48 - 47:51] Aí eu fiquei esperando o vídeo, o professor ia mandar.
+[47:51 - 47:52] Ele não mandou.
+[47:52 - 47:55] Por isso que eu não compartilhei, entendeu?
+[48:02 - 48:08] Suave não, não, que falou que tinha, tinha emergência ontem.
+[48:08 - 48:10] Eu saí daqui 10 horas da noite, ó.
+[48:10 - 48:12] Mas eu tinha notado as instruções.
+[48:12 - 48:16] A culpa da noite está tão empolgada, tem um sinal da turma, né?
+[48:16 - 48:18] Qual deles?
+[48:18 - 48:20] Tem alguns, tem alguns.
+[48:20 - 48:23] O único que se o nome dele tem é para a administração.
+[48:23 - 48:25] Ele estava na semana passada.
+[48:25 - 48:27] É o Sérgio?
+[48:27 - 48:29] É, é o Sérgio, exatamente.
+[48:29 - 48:33] Cara, se ele não entendeu, mas ficou comigo, a turma saiu, ficou só ele e ele
+[48:33 - 48:38] e ele conseguiu compilar o código dele todinho, eu sou massa!
+[48:39 - 48:43] E saiu daqui, era nove e tanto já!
+[48:43 - 48:47] E ele, cara, chegou atrás, sabe? Mas ele é bravo!
+[48:47 - 48:53] Ele tem que perceber essa...
+[48:53 - 48:54] Tem!
+[48:54 - 48:56] Previso.
+[48:56 - 49:01] Aqui é uma das suas propas, vai ser um sistema...
+[49:01 - 49:04] É, é, é, é...
+[49:04 - 49:06] Aprender a programar primeiro.
+[49:06 - 49:09] Abre porque a gente fez isso, eu acho que isso é um sistema fã.
+[49:09 - 49:13] O que vocês tem que entender, aprender a programar primeiro,
+[49:13 - 49:16] antes de fazer sistema, antes de fazer qualquer outra coisa.
+[49:16 - 49:21] Eu não vou colocar vocês aqui para fazer controle muito mais de programamento.
+[49:21 - 49:24] Essa decisão é de lógica e de programação.
+[49:24 - 49:30] Eu vou explorar muito mais vocês os recursos de entendimento do que vocês estão fazendo.
+[49:30 - 49:36] Eu não adianto eu dizer assim, cara, vai correr um maratona e você não consegue me andar.
+[49:36 - 49:38] Vai no nosso sentido isso.
+[49:38 - 49:41] Então vocês vão sair dessa disciplina, aí, com o íano.
+[49:41 - 49:43] Sabendo programar.
+[49:43 - 49:44] Quer aí, mano?
+[49:44 - 49:46] Sabendo o que é, uma fila.
+[49:46 - 49:49] O que é uma filha.
+[49:49 - 49:56] Vocês vão saber o que é um método, vocês vão saber trabalhar corretamente com as variáveis,
+[49:56 - 49:59] porque nos próximos semestres, e até mesmo nos semestres,
+[49:59 - 50:05] tem alguns cadeiros que vocês vão desenvolver ainda mais a questão da programação.
+[50:05 - 50:11] Então, essa cadeira era base, e ela tem que ser bencenta.
+[50:11 - 50:14] Eu vou cobrar com vocês aqui a atenção do código.
+[50:14 - 50:17] Na prova, a gente vai ter uma prova escrita e uma prática, né?
+[50:17 - 50:22] Na prova escrita, eu vou colocar código para vocês analisarem, né?
+[50:24 - 50:29] Certo? Para saber se vocês estão escrevendo o negócio que você vai escrever correto,
+[50:29 - 50:31] eu vou mandar você escrever nesta prova.
+[50:31 - 50:36] Vocês vão analisar código, porque na prova prática vocês vão escrever código.
+[50:36 - 50:39] Simar um pouquinho, né? Na V2.
+[50:39 - 50:43] A professora possa usar a arpódica, aí você vai ter que ficar um código.
+[50:43 - 50:47] mas é bom você entender que a água te pese.
+[50:49 - 50:53] Quase que os meus alunos se passaram e se dão mal.
+[50:55 - 50:57] Se os desafios lá para eles, ai estariam.
+[51:07 - 51:09] Todo mundo certo aí? Podemos avançar?
+[51:09 - 51:11] Sim, senhor.
+[51:11 - 51:13] Maravilha!
+[51:13 - 51:15] Agora o que nós vamos fazer?
+[51:15 - 51:30] Para que tenha atenção que nós usamos aqui as nossas variáveis, quando eu coloquei aqui, né, o exemplo, 7, 8, a média, é o que?
+[51:30 - 51:32] Para ter o que, 6 e meio, né?
+[51:32 - 51:34] 7,5.
+[51:34 - 51:38] No caso aqui está aparecendo só o que?
+[51:38 - 51:40] 7.
+[51:40 - 51:42] perfeito
+[51:43 - 51:45] então está mostrando só a parte inteira
+[51:45 - 51:48] agora vamos começar a falar do tipo da variável
+[51:49 - 51:52] então o primeiro tipo de variável que eu vou mostrar para vocês
+[51:52 - 51:54] é o tipo float
+[51:54 - 51:58] que é exatamente igual a escrita do tipo float
+[51:58 - 52:00] é igual ao pai
+[52:00 - 52:02] você vai aqui, float
+[52:05 - 52:09] você vai mudar aqui o tipo das três variáveis para float
+[52:10 - 52:12] Métro também?
+[52:12 - 52:14] Não, não, só as aliadas.
+[52:14 - 52:16] Métro do lado do lado do lado, continua...
+[52:18 - 52:19] Por que?
+[52:19 - 52:20] Porque...
+[52:21 - 52:22] Que poderia voltar um float?
+[52:22 - 52:24] Poderia, não ia alterar nada.
+[52:25 - 52:26] Não ia alterar nada.
+[52:26 - 52:28] Só que...
+[52:28 - 52:31] Na forma clássica, ele repartiria um inteiro, um inteiro...
+[52:31 - 52:33] O futebol é menos memória do que um float.
+[52:33 - 52:35] O que é isso?
+[52:35 - 52:37] Não é?
+[52:37 - 52:45] Claro que eu vou falar de conteros, eu vou falar de memória, de coisas conceituais antigos que vão fazer diferente.
+[52:45 - 52:49] Sempre tem que dar o controeste também?
+[52:49 - 52:53] Sim, é bom que tem que salvar.
+[52:53 - 53:00] No meu caso, eu fiz alteração, não salvei, está aqui a bolinha, só que eu fiz essa alteração,
+[53:00 - 53:03] mas eu tenho que continuar com outras alterações.
+[53:03 - 53:08] Por que? E a primeira alteração vai ser aqui na nota 1, no Scanner.
+[53:08 - 53:14] Observe que aqui eu tenho o %d, o %d, espero que?
+[53:14 - 53:16] O inteiro.
+[53:16 - 53:21] Mas a minha variável nota 1 agora é um float, se eu deixar isso aqui, lá vai dar erro.
+[53:21 - 53:30] Então existe uma máscara para receber o float e essa máscara ao invés de %d é muito difícil, %f
+[53:30 - 53:40] Você vai colocar aqui, no lugar do %d, %f, que você vai repetir a mesma coisa para a nota 2
+[53:40 - 53:50] Cusca Neve, e também aqui no print, aqui no print estava todo o percento D você substitui um percento F
+[53:50 - 53:55] O D, o F é de float, né? O F é de float
+[53:55 - 54:01] O Leandro já estava nessa parte aí, muito tempo, não estou brincando
+[54:01 - 54:06] É porque o Bec tudo em float, é porque pra mim você pegou a magoa, o F, você pegou a magoa e a liquidação
+[54:06 - 54:08] É, de inteiro para float.
+[54:08 - 54:12] Professor, se deixar, se exemplo, as duas notas normais,
+[54:12 - 54:15] int e o F de float, mudaria normal?
+[54:15 - 54:16] Não.
+[54:16 - 54:17] Vamos lá.
+[54:17 - 54:19] Não, não assim, exente.
+[54:19 - 54:23] Mudaria as máscaras da onde fosse só float, entendeu?
+[54:23 - 54:27] Deixaria as duas notas inteiras e só a média float.
+[54:27 - 54:29] Mudaria a máscara, funcionaria?
+[54:29 - 54:30] Funcionaria.
+[54:30 - 54:31] Ah, ok.
+[54:31 - 54:39] porque eu coloquei de flutes para permitir que a gente tenha números fracionários
+[54:39 - 54:52] agora eu posso receber um 8,5, 8,43, entendeu?
+[54:52 - 55:00] Então, aqui ó, não salveu meu código, vou salvar agora, contra o S, Pá, e vou compilar.
+[55:00 - 55:12] E aí, outra dica também, setinha pra cima pra vocês não tá digitando novamente, setinha pra cima, enter, compilou.
+[55:12 - 55:19] Se eu não mudar o nome do arquivo, não precisa alterar. E aí eu vou setinha pra cima pra executar de novo.
+[55:19 - 55:28] de gente falou da nota 1 e aqui eu vou colocar 7.5
+[55:28 - 55:35] o segundo valor eu vou colocar 10, vou colocar com um inteiro
+[55:35 - 55:42] e a média é 8 pontos, 75 acompanhada de mais 4 zeros
+[55:42 - 55:46] no total eu trouxe 6 casas depois da vida
+[55:46 - 55:51] Tentei ver se vocês conseguem o mesmo resultado.
+[55:51 - 55:58] Note que aqui na hora de fazer impressão no meu caso, eu imprimi o valor da nota 1 no formato float.
+[55:58 - 56:08] Vejo que eu só te dei 7.5, mas ele preencheu com o bastante para o zero, o que é o tamanho do float.
+[56:08 - 56:13] Ele vai colocar aqui seis casas decimais, você colocando ou não?
+[56:13 - 56:17] Os indenfinhentes de float, ele vai sempre imprimir as casas decimais.
+[56:17 - 56:17] Sim.
+[56:17 - 56:18] Sério?
+[56:18 - 56:21] Pra anotar um e na outra dois, foi um inteiro e ele vai preencher também.
+[56:21 - 56:22] Sério?
+[56:22 - 56:27] E na matemática, o que tem depois da vírgula, se for zero ele faz o quê? Ignora, né?
+[56:27 - 56:28] Sim.
+[56:28 - 56:31] Então, o cálculo não altera nada, o cálculo é um matemático.
+[56:31 - 56:33] Altera somente na exibição.
+[56:33 - 56:37] Beleza, o que eu tenho que fazer aí?
+[56:37 - 56:40] Quem não conseguir levanta a mãozinha que a gente chega junto.
+[56:40 - 56:41] Pra float?
+[56:41 - 56:42] Pra float.
+[56:42 - 56:43] É aí, vai dar.
+[56:43 - 56:45] Vai mudar agora, galera.
+[56:47 - 56:50] Vou dar a mãozinha agora, vou copar tudo e voltar.
+[56:50 - 56:52] Mais parte, é isso aí.
+[56:52 - 56:55] Uma coisa que eu falei antes dos meus alunos da noite, é o seguinte,
+[56:55 - 57:00] não se apeguem ao código, a gente vai pegar vários códigos aqui,
+[57:00 - 57:07] aqui vai escrever, reescrevemos, não crie em amor pelo código, o código é intangível,
+[57:07 - 57:16] ele foi feito para ser refeito, o fato de vocês estarem refazendo seu ouvido e vocês
+[57:16 - 57:21] estão aprendendo, tá?
+[57:51 - 57:53] e aí
+[57:53 - 57:55] e aí
+[57:55 - 57:57] e aí
+[57:57 - 57:59] e aí
+[57:59 - 58:01] e aí
+[58:01 - 58:03] e aí
+[58:03 - 58:05] e aí
+[58:05 - 58:07] e aí
+[58:07 - 58:09] e aí
+[58:09 - 58:11] e aí
+[58:11 - 58:13] e aí
+[58:13 - 58:15] e aí
+[58:15 - 58:17] e aí
+[58:17 - 58:19] e aí
+[58:49 - 59:00] Vamos colocar, vamos deixar o outro aqui, aonde tem por cento D, aonde tem por cento D, substitua com por cento F
+[59:00 - 59:06] substitua o trono por cento D, por cento F
+[59:36 - 60:06] e o sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um sujo de um su
+[60:06 - 60:09] Agora falso então...
+[60:17 - 60:18] Para, vou ver o que é.
+[60:18 - 60:20] Eu vou só dar uma vez ainda mais, vou te procurar.
+[60:20 - 60:22] Eu te procuro hoje, no código. Muito código, viado.
+[60:22 - 60:23] Eu estou to procurando.
+[60:25 - 60:28] Às vezes, o cara já vai assinar o administrativo.
+[60:28 - 60:30] A hora que eu estou com o código, trago.
+[60:30 - 60:32] Eu tenho que ir nós por cima.
+[60:32 - 60:38] Eu tenho esse defeito, começa a programar, eu me empolgo, eu gosto, tá, eu tenho focado.
+[60:38 - 60:43] Aí quando eu preciso fazer algo administrativo, botar a mão na cabeça, que é...
+[60:43 - 60:47] Falei com ele, e rodo pra aumentar, tô aqui, e não lembro o que era.
+[60:47 - 60:49] É entrada, é entrada.
+[60:49 - 60:50] É porque...
+[60:50 - 60:51] Vou destravar o nosso corpo.
+[60:51 - 60:53] Quando eu mando, eu tenho um pensamento muito...
+[60:53 - 60:55] ...tical.
+[60:55 - 60:56] É que...
+[60:56 - 60:59] Você muda, né?
+[61:29 - 61:34] Eu tenho que acertar, eu posso comparar.
+[61:34 - 61:36] Eu tenho que acertar, eu posso comparar.
+[61:36 - 61:38] Eu tenho que acertar, eu posso comparar.
+[61:38 - 61:39] Eu tenho que acertar, eu posso comparar.
+[61:39 - 61:40] Eu tenho que acertar, eu posso comparar.
+[61:40 - 61:41] Eu tenho que acertar, eu posso comparar.
+[61:41 - 61:42] Eu tenho que acertar, eu posso comparar.
+[61:42 - 61:43] Eu tenho que acertar, eu posso comparar.
+[61:43 - 61:44] Eu tenho que acertar, eu posso comparar.
+[61:44 - 61:45] Eu tenho que acertar, eu posso comparar.
+[61:45 - 61:46] Eu tenho que acertar, eu posso comparar.
+[61:46 - 61:47] Eu tenho que acertar, eu posso comparar.
+[61:47 - 61:48] Eu tenho que acertar, eu posso comparar.
+[61:48 - 61:49] Eu tenho que acertar, eu posso comparar.
+[61:49 - 61:50] Eu tenho que acertar, eu posso comparar.
+[61:50 - 61:51] Eu tenho que acertar, eu posso comparar.
+[61:59 - 62:01] Quem não conseguiu?
+[62:01 - 62:03] Todo mundo, sabe?
+[62:03 - 62:05] Tá, mas é um orgulho.
+[62:05 - 62:09] Pode deixar os problemas escolhidos por mais realização.
+[62:09 - 62:12] Não pode escolher um só e alguns problemas.
+[62:12 - 62:17] Então, sem dúvida, se não é coisa possível,
+[62:17 - 62:21] ela vai com a sorte de que realmente precisa de licença.
+[62:21 - 62:24] Porque tem menos ali de tudo.
+[62:24 - 62:31] Eu estou liso quando eu uso a opção principal, mas para a segurança, para a inseguração,
+[62:31 - 62:36] para a autoconferência, para as pessoas que estão meio resaliadas em esse momento.
+[62:36 - 62:44] Ó, turma, outro erro clássico, a gente falou aqui no começo do código para mudar o tipo
+[62:44 - 62:48] da variável, certo?
+[62:48 - 62:52] Para dar o cálculo certinho aqui, a variável tem que ser float, tem gente que está deixando
+[62:52 - 62:58] variável como o íntegro ainda, certo? E aí, na hora da que ela vai receber, se você
+[62:58 - 63:07] editar um float, por exemplo, 7,5, ela só vai pegar a parte inteira, 7. Então, coloque
+[63:07 - 63:14] todo mundo aqui certinho como float, principalmente na média, tá? Tente repetir aí, por favor.
+[63:14 - 63:19] O seu meio também está no meio.
+[63:19 - 63:24] Mas o meio pode deixar, é porque você também não estava aqui.
+[63:24 - 63:29] Mas a gente não vai mexer no meio, a gente vai mexer somente nas variáveis internas do meio.
+[63:29 - 63:33] O problema é só mudar fora, não vai mudar nada.
+[63:33 - 63:36] Porém você não está programando o seu clássico.
+[63:36 - 63:42] O seu clássico, o meio é o inteiro.
+[63:42 - 63:46] É uma convenção, sabe, irmão?
+[63:48 - 63:54] Aí se eu tono meu código compatível com a dor, do serveiro.
+[63:54 - 63:58] Os três, posso dizer, serveiro.
+[64:08 - 64:10] Tá, o anseio não.
+[64:10 - 64:21] Professor, vai ensinar a forma tá, questão da depois da vírgula, que vem aqui ó, 8 pontos de 35, 0, 0, 0, 0.
+[64:21 - 64:22] Era o próximo posto agora.
+[64:22 - 64:23] Tá, lembra você.
+[64:23 - 64:26] Rapaz, rapaz, eu tô dizendo, viu, Jérônia?
+[64:26 - 64:32] Já tava aqui, já teve o monitor aqui nessa sala, em elite.
+[64:32 - 64:34] A monitora, né?
+[64:34 - 64:38] Já teve o monitor da disciplina, ó, você já joga de bola.
+[64:38 - 64:40] Aí eu trabalho mesmo.
+[64:40 - 64:42] Todo mundo.
+[64:42 - 64:46] Quando eles ficar melhor, quando eles ficar de novo o ScanF.
+[64:46 - 64:47] Ah, certo.
+[64:47 - 64:50] O colega pediu aqui para falar um pouquinho o ScanF,
+[64:50 - 64:59] atenção, o ScanF ele é uma instrução que ela foi criada para ler teclado,
+[64:59 - 65:02] ela vai ler a entrada do usuário.
+[65:02 - 65:07] E ele tem um F também para ser um F de formato.
+[65:07 - 65:09] O que é que isso vai fazer?
+[65:09 - 65:12] Ele vai pegar o que eu digitar,
+[65:12 - 65:16] veja que tem aqui aspa dupla,
+[65:16 - 65:19] ele vai esperar que você vai digitar o texto,
+[65:19 - 65:21] vai encarar tudo como texto,
+[65:21 - 65:23] e como tem o %f,
+[65:23 - 65:25] ele vai mascarar esse texto,
+[65:25 - 65:29] vai converter ele na hora para 1%f,
+[65:29 - 65:30] que é o quê?
+[65:30 - 65:31] Glows.
+[65:31 - 65:33] Beleza,
+[65:33 - 65:35] aí eu tenho uma vírgula aqui,
+[65:35 - 65:40] E tudo que eu digitar, eu tenho aqui o e-comercial nota 2.
+[65:40 - 65:42] O que é que isso significa?
+[65:42 - 65:52] Esse e-comercial é um ponteiro, ele vai apontar tudo que eu digitar aqui e vai jogar dentro da variável nota 2.
+[65:52 - 65:58] Se você não colocar o e-comercial, o código vai compilar perfeitamente.
+[65:58 - 66:03] Porém, na hora que você colocar os valores, a média não vai ser calculada.
+[66:03 - 66:10] vai dar um número totalmente maluco, porque você não está levando o valor que você dito
+[66:10 - 66:12] para o valor da variável.
+[66:12 - 66:17] Porque a senhora se quer converter para dedos ou estrenas.
+[66:17 - 66:20] Na realidade ele não converte, quem vai converter é o percentuete.
+[66:20 - 66:28] É, ele naturalmente vai chamar tudo para um estrinse,
+[66:28 - 66:31] Quem vai converter essa máscara aqui?
+[66:35 - 66:42] Fazer na comparação do pai, porque no pai a gente colocava lá em pute, aí diga e de sua idade.
+[66:42 - 66:46] Aí a gente quer fazer a conversão após.
+[66:46 - 66:50] Aqui não, já entra, na hora que recebe já vem convertido no que a gente quer.
+[66:50 - 66:52] É uma boa prática isso.
+[66:52 - 67:05] Certo? Beleza! Alguém não conseguiu? Podemos avançar? Beleza! Aí o que é que ele vai fazer agora?
+[67:05 - 67:11] Nós vamos como a gente está colocando aqui, né? Vocês perceberam que na hora da impressão
+[67:11 - 67:19] da média o float ele tem seis casas decimais depois da vírgula, não é?
+[67:19 - 67:24] Tem como diminuir? Tem como diminuir? Tem pequeno gafanholo, vamos fazer agora.
+[67:24 - 67:26] Vamos aqui, ó.
+[67:26 - 67:28] Você quer?
+[67:28 - 67:35] Exatamente, ó. Vocês vão chegar aqui, só no último print, certo?
+[67:35 - 67:44] No último print F, aqui, ó, da média, aonde tem percento F, vocês vão colocar percento ponto dois.
+[67:44 - 67:45] O que é que isso aqui?
+[67:45 - 67:49] 0.2, o que é que ele vai fazer quando você coloca 0.2?
+[67:49 - 67:51] É, é só a 2 casas.
+[67:51 - 67:55] Vai ficar somente duas casas decimais depois da Vigo.
+[67:55 - 67:58] Se você não colocar, colocar 2F aqui, ó...
+[67:58 - 67:59] É igual ao pai.
+[67:59 - 68:02] É, exatamente, é igual ao pai.
+[68:02 - 68:10] Se você colocar 2F, ele vai mostrar duas casas antes da Vigo lá, certo?
+[68:10 - 68:16] Então é por cento dois, por cento ponto dois, ok, vou salvar.
+[68:19 - 68:22] Coloquei só na, perceba que eu coloquei só na média.
+[68:34 - 68:39] Se não colocar seu ponto, fica antes da bíblia.
+[68:39 - 68:43] Se você colocar, porque aqui o padrão é por cento F, né?
+[68:44 - 68:50] Se por acaso, por correria, você editar somente 2F, esquecer o ponto,
+[68:50 - 68:52] o que é que vai acontecer?
+[68:52 - 68:56] Ele vai colocar só duas casas antes da vida.
+[68:56 - 69:00] E se você editar por cento, outro 2F,
+[69:00 - 69:06] significa que ele vai pegar somente duas casas depois da vida, né?
+[69:06 - 69:26] Vou salvar aqui, vou compilar, vou limpar essa tela, compilei, vou executar, vou entrar com 10 novamente, 8.5
+[69:26 - 69:32] O valor da média é 9.25, tá vendo?
+[69:32 - 69:37] Mas percebam que eu não alterei aqui, ó, na nota 1...
+[69:37 - 69:43] Na nota 1 foi impresso completo, na nota 2 também, ó, a diferença.
+[69:43 - 69:47] A diferença é na exibição.
+[69:47 - 69:53] Então vão ter sistemas, principalmente sistemas relacionados...
+[69:53 - 69:57] que vocês precisam de muita precisão, né?
+[69:57 - 70:03] Então tem alguns tipos de cálculos numéricos que você tem que calcular até seis dias depois da viva.
+[70:03 - 70:13] Aonde é que eu uso isso, professor? Normalmente na academia tem, sei lá, alguns estudos relacionados a vetores, sei lá,
+[70:13 - 70:18] estatística, né? Você precisa desse nível de precisão, né?
+[70:18 - 70:26] Também a partir da contabilidade, se vocês conhecem a partir de contabilidade, a partir
+[70:26 - 70:32] de impostos chegam a ter quatro discos depois da vírgula.
+[70:32 - 70:40] Vocês devem ver no posto de gasolina, impostos que exibem lá três discos depois da vírgula.
+[70:40 - 70:41] Já viram isso?
+[70:41 - 70:42] Sim.
+[70:42 - 70:45] Sabe para quê que eles fazem isso?
+[70:45 - 70:47] Conhecimentos a parte vírgula?
+[70:47 - 70:49] para poder...
+[70:49 - 70:51] para poder brigar
+[70:51 - 70:53] meu professor disse
+[70:53 - 70:55] mas é isso mesmo
+[70:55 - 70:59] mas assim, é para usar um artifício matemático do arredondamento
+[70:59 - 71:01] sabe? porque veja
+[71:01 - 71:03] eu vou colocar aqui
+[71:03 - 71:07] veja só, se eu tiver o preço da gasolina
+[71:07 - 71:11] 6.799
+[71:13 - 71:15] lá na bomba
+[71:15 - 71:20] Você não consegue pagar 7,99 na bomba não.
+[71:20 - 71:23] Você só vai conseguir pagar quanto?
+[71:23 - 71:26] 6,8 zé.
+[71:27 - 71:30] O melhor é que esses caras botam pra você o 9,99.
+[71:30 - 71:31] O cara não tem um centavo pra tirar.
+[71:31 - 71:34] É, e um décimo centavo, tu tem?
+[71:34 - 71:35] E ouro ainda, não?
+[71:35 - 71:37] Estados Unidos, nossa.
+[71:37 - 71:37] É, não?
+[71:38 - 71:41] Tem uma bolsa cheia de uma adigica, um centavo.
+[71:41 - 71:47] Aí, ó, faz assim, 10% e eu não ia ter, são três, três casas.
+[71:48 - 71:53] É o que acontece, aí você olha assim, professor, mas não tem diferença nenhuma, não tem diferença.
+[71:54 - 71:58] A diferença vai acontecer, digamos que você só abasteça um litro.
+[71:58 - 72:02] No 10, no primeiro litro, ele já ganhou quanto?
+[72:03 - 72:04] 10 centavos.
+[72:05 - 72:08] Aliás, ganhou um centavo sem trabalhar.
+[72:08 - 72:12] a cada dez abastecimentos ele vai ganhar um centavo sem trabalhar
+[72:12 - 72:17] aí quantas pessoas... ninguém abastecem só um litro
+[72:17 - 72:19] quantos milhões ele vai ter que não vende no dia?
+[72:19 - 72:20] no dia!
+[72:20 - 72:22] que é um tanque, vamos dizer, que ele vai no milhão
+[72:22 - 72:25] é um milhão de centavos
+[72:25 - 72:28] ele vai ganhar, vou forar mais de um litro
+[72:28 - 72:30] entendeu?
+[72:30 - 72:33] então assim, infelizmente
+[72:33 - 72:35] é uma...
+[72:35 - 72:36] é uma...
+[72:36 - 72:40] É um artifício que é liberado.
+[72:40 - 72:47] As distribuidoras, se você acessar um site das distribuidoras, que é a INP, que é o
+[72:47 - 72:53] agência nação de petróleo, vocês vão ver que o preço do litro nas distribuidoras
+[72:53 - 72:57] chega até mais uma a casa decimal.
+[72:57 - 72:59] Se não, meninando.
+[72:59 - 73:02] Mas comercializam a duas.
+[73:02 - 73:12] Ou seja, a gente acaba pagando a conta aqui pra eles, porque no final, contabilmente, o que vai interessar é isso aqui.
+[73:12 - 73:17] A distribuição da roba dele, a gente roba de nós e está lá atrás.
+[73:17 - 73:20] Já interdence com ela.
+[73:20 - 73:22] Mas o que é isso aí?
+[73:22 - 73:28] É, não esquece. Tem coisas que não fazem sentido, sabe?
+[73:28 - 73:37] Se o sistema financeiro tem que saber qual correto, como a gente não tem. É um centésimo de centavo.
+[73:37 - 73:38] Tem.
+[73:38 - 73:40] Centésimo de real, né?
+[73:40 - 73:45] O professor, o teu tal é um pileto.
+[73:45 - 73:55] Naquela partiu que ele trata a quente de 2008, que era só...
+[73:55 - 74:25] É o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é
+[74:25 - 74:29] que tem quebra de caixa e aí ele vai te chamar, você tá, vai.
+[74:29 - 74:33] É, tem algum lugar que você mente, cara, não, desculpe, não é?
+[74:34 - 74:36] É, contando que você está, né, também tem...
+[74:36 - 74:38] Iul e Iul, né, com você, gente?
+[74:38 - 74:41] E aqui no Brasil, né, qualquer recorreção é mais cara do que um centavo, né,
+[74:41 - 74:47] e não vai dar pena a gente perder nem esforço, nem saúde mental pra isso, tá entendido?
+[74:47 - 74:49] Então, dá uma assagrada.
+[74:50 - 74:51] Beleza!
+[74:51 - 74:53] Se eu ver como é que tá aqui o horário...
+[74:53 - 75:04] O BIC17 tem alguns minutinhos, é 9,45. Então vamos agora pegar aqui, voltar aqui para os slides.
+[75:04 - 75:07] Então, a gente tem uma coisa.
+[75:11 - 75:13] Aí a gente viu, né?
+[75:14 - 75:18] Hoje, né, ó, a gente entendeu um pouquinho das variáveis,
+[75:19 - 75:20] forré,
+[75:22 - 75:24] identificamos tipos básicos,
+[75:24 - 75:26] ali, vamos identificar alguns outros tipos básicos.
+[75:27 - 75:29] A gente falou do scanF já, né?
+[75:30 - 75:33] Falamos da forma do clit-f de primeira aula,
+[75:34 - 75:41] A gente mostrou um cálculo de média que mora, eu não sei o que, eu vou passar para vocês.
+[75:41 - 75:43] Desculpe, eu vou tirar a mão.
+[75:43 - 75:50] Resolver problemas simples com a operadoria de medicina, ou seja, a gente usou um exemplo de cálculo de média
+[75:50 - 75:54] então na média a gente aprendeu o quê? Fazer soma e fazer dificil.
+[75:54 - 75:57] Você já faz a infância para a insuficiente.
+[75:57 - 76:04] esses testes de mesa aqui que eu tinha mostrado a gente analisou as entradas e as saídas
+[76:04 - 76:11] a gente falou que aqui é uma variável né
+[76:11 - 76:16] tipos básicos aí entrando um pouquinho nos tipos básicos
+[76:16 - 76:23] 20, float, double, chata faltando aqui a string depois que eu vi ver
+[76:23 - 76:27] números inteiros, né? Todo mundo de
+[76:27 - 76:35] utilização da viral de ontem, né? São números reais positivos, negativos também ou não?
+[76:35 - 76:39] Sim, né?
+[76:39 - 76:45] Floating, e tal, no sumo e conjunto dos números reais,
+[76:45 - 76:49] números infinitos ao mais infinito, com a limitação de seis casas decimais.
+[76:49 - 76:59] Double, ele tem maior precisão e aí a diferença entre float e double, porque float ele tem
+[76:59 - 77:06] as seis casas decimais, ele usa 16 bits pra armazenar essa tanta informação, sabe?
+[77:06 - 77:13] Já o double, ele usa 32 bits, professores, que é isso.
+[77:13 - 77:18] Pois é, hoje isso é boelhufos pra gente, sabe?
+[77:18 - 77:24] antigamente a turma que trabalhava com limitação de processamento e memória tinha que planejar
+[77:24 - 77:32] muito bem o tipo da variável que você ia utilizar. Por questões de não ter honrado
+[77:32 - 77:38] é suficiente para fazer isso. Hoje a gente faz isso com interdústria oficial, por exemplo,
+[77:38 - 77:44] Tô com uma tarefa aqui pra gente montar um servidor assim, um dia
+[77:44 - 77:51] E aí, eu tô limitado no tamanho da memória que a gente tem no desses macros aqui do laboratório 2
+[77:51 - 77:54] Que são de 32GB, são macros excelentes
+[77:54 - 77:58] Se eu não me engano a placa, o que eu tenho em 50GB
+[77:58 - 78:00] É uma sequência com 16GB, né?
+[78:00 - 78:03] Ou é 16GB que ela tem, né?
+[78:03 - 78:11] E aí você já dá para colocar um modelo de conta com três trilhões de barante.
+[78:11 - 78:15] Dá para ter um GPT aqui, um chat GPT rodando rapidinho.
+[78:15 - 78:22] Mas será que ele vai só suportar aplicações, por exemplo, de código?
+[78:22 - 78:29] Será que eu consigo fazer com que esse modelo ajude a gente a programar em tempo real?
+[78:29 - 78:33] Um laboratório de quem quer... Não é isso tudo, né?
+[78:33 - 78:36] Mas a gente vai tentar criar.
+[78:36 - 78:41] Uma coisa que a gente vai começar a desenvolver aqui na faculdade
+[78:41 - 78:44] é projetos de pesquisa, né?
+[78:44 - 78:49] O professor Algorocu falou na Semana da Integração, a Semana Passada,
+[78:49 - 78:52] que está sendo criada aí o NIT, né?
+[78:52 - 78:56] Núcleo de Inovação Tecnológico, né?
+[78:56 - 79:09] E aí a gente está estudando a possibilidade de escrever alguns projetos de pesquisa para
+[79:09 - 79:18] serem financiados com o formato público, via CNPQ ou via CAPS, que é CAPS Federal ou
+[79:18 - 79:20] via FUNCAP, que é Estadual.
+[79:20 - 79:24] E é o que significa que a gente desenvolve um projeto,
+[79:24 - 79:26] espera um projeto que a gente pesquisa,
+[79:26 - 79:30] e aí a gente vai ter professor orientador,
+[79:30 - 79:32] e a gente vai ter o SIST para poder executar.
+[79:32 - 79:35] Então a gente vai chamar alunos,
+[79:35 - 79:39] fazer a seleção interna de alunos para poderem
+[79:39 - 79:42] esterar o estado desses projetos.
+[79:42 - 79:48] E aí a gente vai ter coisas que não são treviais
+[79:48 - 79:50] aqui na sala de aula.
+[79:50 - 79:55] Então, as pessoas que forem trabalhar em projetos de pesquisa,
+[79:55 - 79:58] terão, naturalmente, que teram o perfil autoridade.
+[79:58 - 80:02] Então, vai ter que se esforçar além da sala de áudio,
+[80:02 - 80:08] sem falar que vai ter que tocar também as disciplinas normalmente,
+[80:08 - 80:11] porque o desempenho que vocês têm na disciplina,
+[80:11 - 80:14] influencia, por exemplo, a seleção da goals.
+[80:14 - 80:19] Vocês não podem abandonar a faculdade, ficar só na goals.
+[80:19 - 80:21] Você tem que andar ali em paralelo.
+[80:21 - 80:28] E no final, você é o projeto, você vive esse projeto entre seu currículo como você
+[80:28 - 80:29] de ser um pesquisador.
+[80:29 - 80:31] Primeiro, passa para ser um pesquisador.
+[80:31 - 80:33] Isso é?
+[80:33 - 80:35] E isso a gente pode publicar, sentir.
+[80:35 - 80:37] Eu vou mudar de assunto.
+[80:37 - 80:39] Ah, conclui o primeiro.
+[80:39 - 80:41] O que você está fazendo?
+[80:41 - 80:48] de precisão, de que usaram os números inteiros, reais com mais precisão.
+[80:48 - 80:52] No meu doutorado, eu estava trabalhando com cinética de nêutrons.
+[80:52 - 80:57] Então, é basicamente a inicialização de um reator nuclear.
+[80:57 - 81:01] E os níveis que a gente trabalha ali são...
+[81:01 - 81:02] Deta menos 12?
+[81:02 - 81:06] É, isso, deta menos 12, às vezes, deta menos 14.
+[81:06 - 81:13] Então, se você não tiver um nível de precisão, e lembra, a gente está trabalhando com energia nuclear,
+[81:13 - 81:15] o bagulho tem que ser preciso.
+[81:15 - 81:16] Preciso, não é?
+[81:16 - 81:18] Aí você não tem um bom resultado.
+[81:18 - 81:27] Então, a gente tinha que ter variáveis grandes, para poder armazenar os números nesse tipo de ordem de grandeza.
+[81:27 - 81:35] Mesmo sendo um número muito pequeno, mas eles são representados por diversos algarizmos, então a gente precisava disso.
+[81:35 - 81:39] os métodos recorcibos e tudo mais, cada um ano.
+[81:39 - 81:41] Olha o nível de, tá vendo? Aí é a computação,
+[81:41 - 81:43] que a gente chama computação científica, né?
+[81:43 - 81:47] Tá usando aí a computação pra resolver problemas de física.
+[81:47 - 81:49] É física, né?
+[81:49 - 81:51] É, é que a gente diz, né?
+[81:51 - 81:59] E assim, você pode observar isso com várias áreas, tá?
+[81:59 - 82:01] Com várias áreas.
+[82:01 - 82:03] O pessoal também que trabalha com sensores,
+[82:03 - 82:08] Precisão, isso assim, é um de 10 a menos 12, que se eu sou muito cárfico,
+[82:08 - 82:15] mais de 10 a menos 8, já é de 8 casos decimais, sempre encontrando um mercado 8.
+[82:19 - 82:24] E aí, por exemplo, temos outro tipo de variável que é o caractere, que é o chá,
+[82:24 - 82:29] onde é somente um caractere, quando você pensa,
+[82:29 - 82:33] É um char, é um conjunto de caracteres, não, char é um caractere.
+[82:33 - 82:34] A stream.
+[82:34 - 82:41] O string, exatamente, é um conjunto de charres de caracteres, certo?
+[82:41 - 82:47] Então, como é que você... por exemplo, se a gente precisasse colocar, criar um...
+[82:47 - 82:56] conhecê-lo em um formulário, né, na internet, o campo sexo hoje, ele é definido normalmente por masculino e feminino.
+[82:56 - 83:01] ou até já tem sistemas que tem um ouzinho, ou outro, ou não quer declarar,
+[83:01 - 83:04] normalmente se colocam uma letrinha para definir.
+[83:04 - 83:06] Certo?
+[83:06 - 83:08] Precisa definir como stream?
+[83:08 - 83:10] Se só tem uma letra?
+[83:10 - 83:12] Não, posso definir o tipo como chaco.
+[83:12 - 83:19] Porque aí você vai usar somente um caractere e economiza o espaço em disso,
+[83:19 - 83:21] espaço do bantidás, se você possuva um bantidás.
+[83:21 - 83:25] e se passe memória se você com o problema de se tiver rodando com você
+[83:25 - 83:33] então o ideal é a gente sempre colocar o tipo de variável correto para o problema que a gente está analisando
+[83:33 - 83:38] e, felizmente, o Paito, na verdade é felizmente né?
+[83:38 - 83:44] porque, montando a historinha, não sei se o professor de vocês com o Paito falou
+[83:44 - 83:46] mas o Paito foi criado por um matemático
+[83:46 - 83:51] Não foi criado por uma pessoa da ciência da computação.
+[83:51 - 83:55] Isso não é demédio, tá? Não é demédio. Pelo teu vontade.
+[83:55 - 84:03] Mas é porque ele quis fazer uma linguagem totalmente desburocratizada para pessoas...
+[84:03 - 84:11] Porque antes a pessoa tinha que aprender Fortran. Fortran já é uma linguagem assim, no nível do ser.
+[84:11 - 84:18] fortemente de empada burocrática para escrever equações. Agora ela tem
+[84:18 - 84:24] bíblia até matemáticas avançadíssimas, certo? Para você fazer calco
+[84:24 - 84:33] de diferencial integral de DNA proporções, tem lá equações de
+[84:33 - 84:37] Estatísticas, tem várias coisas que já são ali,
+[84:37 - 84:43] é, algebricas, trilhas inaudibiliárias e não inaudibiliárias,
+[84:43 - 84:46] é, como é que chama,
+[84:46 - 84:49] é, geometria, geometria analítica,
+[84:49 - 84:53] cara, tá tudo no FORTRAN, porque o FORTRAN foi feito por um matemático,
+[84:53 - 84:57] um cara da 6ª Compação e da Matemática, que ele teve,
+[84:57 - 85:00] só que ele criou um negócio que é muito...
+[85:00 - 85:05] Asegura o crítico para quem quer somente fazer um experimento.
+[85:05 - 85:11] Só uma questão, o C que aceita matrizes, mas só pedidimensionais.
+[85:11 - 85:13] Eu acho que não.
+[85:13 - 85:17] Não, porque o Fortran eu sei que aceita quantas dimensões você quiser colocar.
+[85:17 - 85:20] Não, o C aceita, mas esse que tem um biblioteca específico para isso.
+[85:20 - 85:21] Ah, certo.
+[85:21 - 85:24] Ah, o Fortran já é na Tiva.
+[85:24 - 85:27] Já trabalha com tensores da Tiva.
+[85:27 - 85:33] Inclusive tem muito código fortrano na pesquisa.
+[85:33 - 85:36] O pessoal faz o artigo científico para provar uma teoria,
+[85:36 - 85:39] vou fazer dessas de partículas,
+[85:39 - 85:42] e aí para compartilhar o que ele fez,
+[85:42 - 85:46] ele coloca no Vietnam e coloca lá um príncipe do tristo código
+[85:46 - 85:48] que tem a lógica principal.
+[85:48 - 85:51] Depois ele coloca lá os resultados num gráfico
+[85:51 - 85:56] e faz uma leitura dos pontos positivos e dragativos que ele encontrou.
+[85:56 - 85:58] mas é muito comum que o Fortran...
+[85:58 - 86:01] mas o Fortran hoje é até uma barreira
+[86:01 - 86:04] cara de dez anos atrás programava o Fortran
+[86:04 - 86:07] hoje quem está na academia vai programar mais o Fortran, programar em pai
+[86:07 - 86:09] entendeu?
+[86:09 - 86:11] então assim, é bom
+[86:11 - 86:15] mas para nós aqui da área da computação de certa forma
+[86:15 - 86:17] o ideal é a gente aprender primeiro
+[86:17 - 86:20] o fortemente equipado ali
+[86:20 - 86:23] como eu disse, para deixar vocês
+[86:23 - 86:29] bem ambientados sobre os principais processos que a gente precisa aprender
+[86:29 - 86:35] antes de me gravar uma pelenguagem para que depois vocês transicione por um
+[86:35 - 86:41] do baito e vai ser muito bom. Eu continuo com essa crítica, né? Começar com
+[86:41 - 86:47] um baito mesmo mais, só vai dar ali sabor com a céu, mas não é.
+[86:47 - 86:58] que faça por isso. São sabôs. E aí vocês ficam com esse negócio, vocês vão trazendo
+[86:58 - 87:05] entre aspas mal costumes que a linguagem costuma vocês mal, entendeu? Aí na hora que vocês
+[87:05 - 87:11] forem programar membro pra UÉ fazer um negócio pro mercado, ah não consegui, ah como é
+[87:11 - 87:21] mas não quero que ninguém aqui deixe um curso, mas eu quero que vocês se empolguem com o desenvolvimento
+[87:21 - 87:30] Eu sou muito pro desenvolvimento, tem as ferramentas hoje de low-code, se alguém falar, onde você arrasta um boto
+[87:30 - 87:34] Tem um aluno meu que inclusive contesta, um bebê que contesta com um professor porque
+[87:34 - 87:39] ele se alusou com uma ferramenta aqui de code block, né?
+[87:39 - 87:40] Que é o quê?
+[87:40 - 87:44] É uma ferramenta que você tem uma lógica de média já pronta, você coloca aqui um
+[87:44 - 87:50] bloco chamado média, coloca outro bloco pra você entrar com as entradas e depois a sair
+[87:50 - 87:51] no end.
+[87:51 - 87:57] Aí eu falei cara, não faz sentido, se eu tivesse um custe automação, ia fazer sentido.
+[87:57 - 88:15] Você ia pegar ali, se eu tivesse estava com criança, que também, que é difícil introduzir o conceito de linguagem de programação,
+[88:15 - 88:19] lógicas de programação para a criança, aí a gente pode usar um bloco em uma embala e tal,
+[88:19 - 88:26] e tal, e tal, aí você vai avançando, mas não dá para eu chegar para uma turma, né, tipo
+[88:26 - 88:29] custo de ADS, custo de AR,
+[88:30 - 88:32] estárdaria tecnológica,
+[88:32 - 88:34] vou jogar para vocês um code-block,
+[88:34 - 88:37] peraí, aí eu baixo demais a qualidade do curso.
+[88:38 - 88:40] Não é o objetivo da gente, não,
+[88:40 - 88:42] o objetivo que a gente tem aqui,
+[88:42 - 88:44] que os profissionais que estão aqui,
+[88:44 - 88:46] sejam profissionais que ligam na água.
+[88:46 - 88:49] Vocês podem usar lá fora, no futuro,
+[88:49 - 88:52] quando vocês souberam entender o logico de programação,
+[88:52 - 88:55] entender o que é uma fila, o que é uma pilha,
+[88:55 - 89:00] depois disso na evolução natural vocês podem utilizar, faz parte
+[89:00 - 89:06] mas vocês têm que aprender, porque lá fora tá cheio de gente que tá
+[89:06 - 89:15] economizando, querendo atalhos pra desenvolvimento e não existe atalhos pra desenvolvimento
+[89:15 - 89:20] não existe, a gente tem que aprender o que tá sendo feito
+[89:20 - 89:26] Mesmo com o uso de IA, a gente tem que aprender o que ela está fazendo,
+[89:26 - 89:29] para que ela vai ter hora, que ela vai alucinar,
+[89:29 - 89:34] vai criar um banco e você não vai conseguir resolver.
+[89:34 - 89:37] A não ser que você entende o que ela está fazendo.
+[89:38 - 89:41] Eu estou fazendo agora uma especialização, comecei antes de ontem,
+[89:41 - 89:45] uma especialização de engenharia que só fica em IA.
+[89:45 - 89:50] Eu estou me virando para fazer, porque eu estou do lado de manhã,
+[89:50 - 89:53] a tarde eu estou lá no meu projeto da prefeitura,
+[89:53 - 89:56] a noite eu dou aula, aí chego em casa, jantos,
+[89:56 - 89:58] e com o meu limite se estiver atornado,
+[89:58 - 90:02] aí 11 horas eu estou estudando, 11h a noite eu paro,
+[90:02 - 90:04] desmai, duro, né?
+[90:04 - 90:07] Eu só tenho que falar de desmai, não duro, desmai,
+[90:07 - 90:10] quando é 5h30 eu já estou de pé.
+[90:10 - 90:13] É, a mandatinha diz ainda que é um carinho.
+[90:13 - 90:15] Acordando o carro.
+[90:15 - 90:16] Acordando o carro.
+[90:16 - 90:17] 4 de verra, por que?
+[90:17 - 90:18] É uma gente que...
+[90:18 - 90:22] E o achando que estava mal falando.
+[90:22 - 90:30] Só para exemplificar essa questão do mal-customo com a IA, tem professora no centro que ele
+[90:30 - 90:32] é de... que ele é analista de dados.
+[90:32 - 90:36] E ele fala que a empresa dele está prestando muito de uma analista de dados, que eles estão
+[90:36 - 90:39] entrevistando gente basicamente todas as semanas.
+[90:39 - 90:41] E ele fez... Oi?
+[90:41 - 90:51] Então, vamos chegar lá. E aí ele falou, cara, hoje eu cheguei aqui pra dar aula, pê da vida, pê da vida,
+[90:51 - 90:57] porque os caras passam em todas as etapas de seleção, a gente coloca ele e o computador na frente,
+[90:57 - 91:05] vai lá, o pandas aberto ali, escreve, ninguém faz, ninguém sabe digitar o código.
+[91:05 - 91:13] Quando chega na hora de ser contratado, se você só tem a muleta da IA, não vai, brother. Não vai.
+[91:13 - 91:17] Não vai. Então, por isso que a gente vai ter essa dor.
+[91:17 - 91:24] Com todas as nossas aulas, vocês vão ter essa dor, pegar o computador, morrer a professora, pegar o computador.
+[91:24 - 91:26] O apelo vai se programar.
+[91:26 - 91:28] Aprende programar.
+[91:28 - 91:32] Não se aprende a programar, como eu disse, né?
+[91:32 - 91:36] Nós, Mosa, vou colocar aqui o computador de baixo do braço, que eu tinha metido livre,
+[91:36 - 91:40] o aeromantador, isso vai, eu vou virar um pouco o programador, vai.
+[91:40 - 91:42] Certo?
+[91:42 - 91:44] Vamos avançando aqui.
+[91:48 - 91:53] A atribuição, né? Aquilo código, a gente aprendeu como é que faz a atribuição.
+[91:53 - 91:55] Só voltando aqui um pouquinho, perdão.
+[91:55 - 91:59] Não tem boleando tudo falso?
+[91:59 - 92:01] Tem, também tem o boleando tudo falso.
+[92:01 - 92:05] Mas vamos mais na frente, a gente vai falar dele.
+[92:05 - 92:08] A gente vai começar com o círculo básico, se você quiser.
+[92:08 - 92:10] A gente vai ter o infiel, se ficar mais aí é bem.
+[92:10 - 92:13] A gente tem que ter decisão, mais na frente.
+[92:13 - 92:15] Certo?
+[92:15 - 92:17] É, que legal.
+[92:17 - 92:20] O horror é você, porque fazer o curso avançado já.
+[92:20 - 92:22] É, o curso é avançado.
+[92:22 - 92:23] Gostando de ver.
+[92:23 - 92:25] Aí tem as atribuições, né?
+[92:25 - 92:28] Como é que eu atribui o variável, né?
+[92:28 - 92:30] A gente já viu aqui...
+[92:30 - 92:33] A gente já viu aqui como é que a gente atribui variável.
+[92:33 - 92:35] Vocês programaram sem saber.
+[92:35 - 92:37] Estou pegando, por exemplo, aqui a média.
+[92:37 - 92:40] E estou dizendo, estou atribuindo igual, né?
+[92:40 - 92:42] Esse operador aqui igual.
+[92:42 - 92:46] Você pega um valor e atribui a essa variável.
+[92:46 - 92:49] No caso aqui, a gente está atribuindo a média
+[92:49 - 92:52] a soma das notas dividido por dois.
+[92:53 - 92:55] Vocês estão atribuindo.
+[92:57 - 93:01] E aqui, lá no primeiro código que a gente fez no comecinho da aula,
+[93:01 - 93:04] a gente atribuía nota um por sete, nota dois por oito,
+[93:04 - 93:06] usando aquele operado igual.
+[93:07 - 93:09] Então, o igual, ele vai...
+[93:09 - 93:12] todos esses, tudo que a gente fez hoje aqui,
+[93:12 - 93:15] basicamente vai acompanhar a gente até o final do curso.
+[93:15 - 93:17] Todas essas instruções.
+[93:17 - 93:18] Exato!
+[93:19 - 93:20] Tem mais!
+[93:23 - 93:25] Minha que boas práticas, ó!
+[93:25 - 93:27] Importantíssimo isso aqui!
+[93:28 - 93:32] Uns inomes que expressem o significado do dado, na hora de criar uma variável, né?
+[93:32 - 93:33] Ó, vamos lá!
+[93:33 - 93:35] Vou voltar lá pro bode!
+[93:36 - 93:43] Percebam que, ó, o nome dessa variável, lembrando que o código principal, ele é pra quem pra calcular média, certo?
+[93:43 - 93:44] Certo!
+[94:14 - 94:18] A mais B dividido por 2 é a mesma coisa, certo?
+[94:18 - 94:29] Porém, se gerando salvaça esse código e passar para o meu charar veniços ali, ele ia ter dificuldade de entender.
+[94:29 - 94:36] Ele ia ter que ter o leu código, o B ali, o mais entendeu que é que ele está fazendo com A, com B.
+[94:36 - 94:43] Então é uma boa prática. Nós, como desenvolvedores, colocamos os nomes das variáveis,
+[94:43 - 94:47] mais próximo do que tem a ver com o real
+[94:47 - 94:49] eu não vou entrar com a nota 1
+[94:49 - 94:51] eu coloco aqui a nota 1
+[94:53 - 94:55] isso aqui é uma boa prática
+[94:55 - 94:57] nota 2
+[94:57 - 94:59] ver pra coisa
+[94:59 - 95:01] que na hora do calvo da média
+[95:01 - 95:03] imagina se tivesse colocado assim
+[95:03 - 95:05] se fosse abc
+[95:05 - 95:07] ia funcionar
+[95:07 - 95:09] ia, mas ia ficar mais difícil
+[95:09 - 95:11] para entender, interpretar
+[95:11 - 95:14] de você compartilhar esse código no teu pesquero
+[95:14 - 95:16] Eu vou com mais preversão
+[95:16 - 95:21] Não, o dia preversão, a pessoa não estaria assim
+[95:21 - 95:24] Você tem que pensar que o código
+[95:24 - 95:26] de direitos
+[95:26 - 95:29] Você tem que pensar que o código é o seguinte
+[95:29 - 95:32] Você tem que sempre pensar no seu eu do armômetro
+[95:32 - 95:34] O eu de hoje
+[95:41 - 95:45] Não, realmente, você.
+[95:49 - 95:52] Vamos demorar mais a entender, certo?
+[95:52 - 95:57] A entender o que é que é esse negócio, para que você diga.
+[95:57 - 96:01] Então, pense sempre no erro de amanhã.
+[96:01 - 96:04] Pense que vocês vão ter uma amnésia,
+[96:04 - 96:09] e vocês não vão lembrar do que está escrito.
+[96:09 - 96:12] Eu escrevi isso aqui.
+[96:14 - 96:16] Foi o que eu fiz.
+[96:16 - 96:20] Você não tiver essa impressão não, com o código de ontem para hoje?
+[96:21 - 96:24] O que eu estava pensando quando eu fiz isso aqui?
+[96:24 - 96:27] Eu falei que o código tudo é em poste, mas não está tudo em gente.
+[96:29 - 96:30] É, eu me admito.
+[96:30 - 96:33] Vocês têm que pensar sempre no eu da manhã, desculpa.
+[96:33 - 96:43] O professor, mas em um sistema real, a gente tem menos start-up, seria até melhor que o recurso, né?
+[96:43 - 96:54] Cara, não, mas exatamente, o tamanho da rota assim, o que você vai colocar aqui como nome da variável,
+[96:54 - 97:01] na hora que ele for compilado, ele vai ser mudado para uma linguagem de mácula que pode ser um A, um B, um C,
+[97:01 - 97:06] E não interessa, por favor, o tamanho da variável que você vai colocar.
+[97:06 - 97:09] Que não interessa muito mais ao tipo da variável.
+[97:09 - 97:11] O tipo da variável vai aguentar esse nosso memória.
+[97:11 - 97:13] Pode falar.
+[97:13 - 97:16] Voltando um pouco para o que o senhor falou de...
+[97:17 - 97:20] O quanto as variáveis ocupam na memória.
+[97:20 - 97:24] E o quão isso é ou não é valioso.
+[97:24 - 97:27] Existe um documentário que foi lançado ano passado,
+[97:27 - 97:30] setembro do ano passado, sobre a criação do Python.
+[97:30 - 97:34] quem não assistiu recomendo que assista, mas lá fala algumas coisas.
+[97:34 - 97:38] Eu não sei se isso está dito no documentário ou não, mas eu já vou chegar na parte do documentário.
+[97:38 - 97:46] Antigamente, no começo do computador, a memória era muito valiosa.
+[97:46 - 97:52] Então você podia sobrecarregar o programador, que era mão de obra barata, digamos assim,
+[97:52 - 97:56] era a gente que estava querendo fazer as coisas,
+[97:56 - 98:01] mas você tinha que enxugar o máximo possível seu programa.
+[98:01 - 98:07] Por que? Porque você gastar 10 kilobytes a mais tinha um custo palpável.
+[98:07 - 98:16] E conforme o hardware foi evoluindo, memória hoje em dia, 10 kilobytes não é nada.
+[98:16 - 98:22] O jogo ocupa 126 GB ou 128 GB, tanto fácil.
+[98:22 - 98:25] Então hoje a memória é muito mais barata.
+[98:25 - 98:27] E aí voltando para a questão do Python,
+[98:27 - 98:32] o rapaz quando começou a idealizar,
+[98:32 - 98:38] nessa pegada de deixar uma linguagem mais acessível,
+[98:38 - 98:39] também para quem está começando,
+[98:39 - 98:42] uma das coisas que ele falava é,
+[98:42 - 98:47] o código é muito mais lido do que escrito.
+[98:47 - 98:51] Então se eu tiver uma linguagem
+[98:51 - 98:58] que facilite a leitura do código, isso vai facilitar também que mais pessoas venham
+[98:58 - 99:02] para a programação. Tanto que eu discordo do professor na medida que eu acho o Pai
+[99:02 - 99:08] tomou excelente para a gente começar, porque ele não tem esse monte de coisas, tipo declaração
+[99:08 - 99:16] de variáveis, atipagem forte, que é algo muito importante, mas que para quem está
+[99:16 - 99:21] aprendendo o que é um if, o que é um foro, o que é um while, acaba sendo uma dificuldade
+[99:21 - 99:22] a mais.
+[99:22 - 99:28] Então, em termos educacionais, eu acho que o pai tão acertou muito, tanto que é uma
+[99:28 - 99:31] das linguagens mais utilizadas, principalmente no ensino.
+[99:31 - 99:38] Então assim, hoje em dia querer economizar demais a memória não faz tanto sentido.
+[99:38 - 99:44] A não ser que, cara, você tenha um relógio e ali é limitado a memória.
+[99:44 - 99:50] você otimizar isso faz sentido, aplicações militares também, que têm componentes muito pequenos
+[99:50 - 99:58] onde o espaço da memória é extremamente limitado, faz mais sentido, mas no geral, não mais.
+[99:58 - 100:07] Só pegar um gancho, não, que se você falou, o computador que levou o homem à lua, ele tinha...
+[100:14 - 100:20] era um computador de 4 bits, funcionava a 149 Kmh
+[100:20 - 100:25] e como a gente não conseguiu colocar?
+[100:25 - 100:30] mais ou menos, mais fígado
+[100:30 - 100:35] todo mundo usa essa nueta aí, mas sabe qual o problema?
+[100:35 - 100:40] aqui nessa época existia um negócio dos Estados Unidos que era quase infinito
+[100:40 - 100:42] para ser alunicado num programa dele.
+[100:42 - 100:45] Você sabe o que aconteceu hoje em dia,
+[100:45 - 100:47] se o que está indo a luta não é mais o governo americano,
+[100:47 - 100:49] a NASA é alunicada pelo governo americano.
+[100:49 - 100:52] Quem está indo para a luta hoje?
+[100:52 - 100:53] O V1.3.
+[100:53 - 100:54] Space Sex.
+[100:55 - 100:58] Então ela reduziu o custo,
+[100:58 - 101:00] se você comparar com a internet,
+[101:00 - 101:02] imagina que tem aqui,
+[101:02 - 101:05] 4 bilhões, 5 bilhões de dólares
+[101:05 - 101:08] para Space Sex e na casa dos milhares.
+[101:08 - 101:13] Então, assim, tem uma diferença abissal da quantidade de dinheiro que foi pregada nessa época,
+[101:13 - 101:20] né? E atualmente. Foi feito por... teve uma pessoa que fez o levantamento aí, tipo assim,
+[101:20 - 101:28] é um décimo que a gente gasta hoje, é o que foi feito no passado, né? Aqui foi desenvolvido,
+[101:28 - 101:33] ó, pra isso aqui foi desenvolvido, ó, esse aqui foi desenvolvido um microprocessador
+[101:33 - 101:39] para levar o cara. Tu acha que o Elon Musk criou o processador? Não, ele pegou da
+[101:39 - 101:47] onda da xícara. Mas o nosso processamento é muito maior.
+[101:47 - 101:55] Mas o que acontece? O custo do combustível, cara, o estado do Unicef investia, tinha dinheiro
+[101:55 - 102:04] o infinito não tinha teto de gastos não tinha já imaginou tu chegar e se assim não
+[102:04 - 102:09] vou gastar esse mês 100 mil reais um mês que vem não vou gastar 100 mil não vou
+[102:09 - 102:17] gastar um milhão e meio é o que o estado fez por favor o estado fez isso durante a
+[102:17 - 102:24] década de 50 70 70 no programa a polga pode olhar aí o pessoal o pessoal difícil
+[102:24 - 102:27] E não tem dinheiro, pesquisa.
+[102:27 - 102:31] Veja, quando vocês forem, se estiver aqui, nítmios vocês vão ver.
+[102:31 - 102:36] O que a gente desenvolve para proporcionar o dinheiro que é empregado.
+[102:36 - 102:39] É gente, recursos, é máquina.
+[102:39 - 102:43] O combustível naquela época era carice.
+[102:43 - 102:45] Carice.
+[102:45 - 102:52] Aí, outra coisa, o foguete não era reutilizável.
+[102:52 - 102:58] deslizável toda a vida que ele tem fazia o tentativo para subir o foguete
+[102:58 - 103:03] os buchas que é os foguete iniciais
+[103:03 - 103:06] eles foram lançados ao mar e o abraço
+[103:06 - 103:09] a gente está reutilizando agora
+[103:09 - 103:11] aí demora um tempo para produzir
+[103:11 - 103:15] não coloca isso com ação
+[103:15 - 103:18] a operação do negócio desse é
+[103:18 - 103:24] A gente, ó, tu imagina que a gente fez o seguinte, se a gente pudesse colocar na proporção,
+[103:24 - 103:27] aí me corria o que tiver rápido, é o que a gente fez.
+[103:27 - 103:34] A gente colocou, tu conhece um dragster que aqueles carros americanos que o pessoal faz competição,
+[103:34 - 103:36] que tem 3 mil cabados?
+[103:36 - 103:38] Não, não assim.
+[103:38 - 103:41] Cara, eu negócio, ah, do Sul.
+[103:41 - 103:44] É como se pega um fuzquinho, sabe que é um fuzquinho?
+[103:44 - 103:46] Pega um motor do Drac, você bota um...
+[103:46 - 103:49] Um grande face naquela época.
+[103:49 - 103:53] A gente estava em cima, os astronautas são verdadeiros,
+[103:53 - 103:57] guerreiros, eles estavam andando em cima de uma bomba ali,
+[103:57 - 103:59] olhando, esperando só a explodir.
+[103:59 - 104:02] E a gente teve quantos casos de problema de lançamento,
+[104:02 - 104:04] um ou dois, né, que morreram.
+[104:04 - 104:06] Um morreu no lançamento, né,
+[104:06 - 104:09] o Quartalanger e a outra que foi...
+[104:09 - 104:12] Depois que os caras pôs os olhos na água,
+[104:14 - 104:18] A escoutinha não abriu, eles morreram queimados lá dentro.
+[104:19 - 104:20] Até o filme, né?
+[104:20 - 104:21] Tem, tem, tem.
+[104:22 - 104:29] Os cara da Apolo 13 lá que teve aquele problema lá e eles que iam rapidamente aumentar o oxigênio.
+[104:29 - 104:30] Entendeu?
+[104:30 - 104:32] Os cara, os cara, os cara estavam...
+[104:32 - 104:34] Funtando numa lata, vinhos.
+[104:34 - 104:40] Uma lata combustível, fortíssima para incendiar até uma guerreira.
+[104:40 - 104:50] O pessoal desenvolveu naquela época super materiais ali para impedir que pegasse fogo na mataria no escudo lá
+[104:50 - 104:56] É, porque acho engraçado, quantos milhões não é investido na guerra, tá vendo?
+[104:56 - 104:57] É, é o...
+[104:57 - 105:01] Se eu te disser que ainda é pouco se comparado com o que foi investido na guerra?
+[105:01 - 105:02] É
+[105:03 - 105:06] É, vai estar a pensar no nosso futuro, né?
+[105:06 - 105:08] Aí vai entrar eu tão barato
+[105:08 - 105:12] Ah, além de economia, a gente é tem política.
+[105:12 - 105:13] A gente está...
+[105:28 - 105:32] Senhor, quer dar uma olhada no meu código, por favor?
+[105:32 - 105:35] Senhor, pode dar uma olhada no meu código, por favor?

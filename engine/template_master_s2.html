@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recaps Acadêmicos | ADS 2026.2</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+{{MASTER_CSS}}
+    </style>
+</head>
+<body>
+    <div class="main-container">
+        <!-- Top Header & Semester Switcher -->
+        <header class="header-top">
+            <div class="brand-title">
+                🎓 ADS SENAC <span class="brand-badge">2026.2</span>
+            </div>
+            <div class="semester-switcher">
+                <a href="Recap_Master_S1.html" class="semester-btn" title="Ver 1º Semestre (2026.1)">2026.1</a>
+                <a href="Recap_Master_S2.html" class="semester-btn active" title="2º Semestre Corrente">2026.2</a>
+            </div>
+        </header>
+
+        <!-- Floating Navigation Bar -->
+        <nav class="weekly-timeline">
+            <button id="nav-home" class="info-pill active" onclick="showSection('dashboard')" title="Dashboard Principal">🏠 Início</button>
+            <button id="nav-prev" class="day-btn" onclick="goPrev()" title="Aula Anterior">‹</button>
+            <div id="nav-context" class="info-pill" style="min-width: 220px; cursor: default;">Dashboard</div>
+            <button id="nav-next" class="day-btn" onclick="goNext()" title="Próxima Aula">›</button>
+            <button id="nav-glossary" class="info-pill" onclick="showSection('glossary')" title="Glossário Técnico">📚 Glossário</button>
+        </nav>
+
+        <main id="spa-content">
+            <!-- DASHBOARD SECTION -->
+            <section id="dashboard" class="spa-section active">
+                <div class="lesson-card">
+                    <div style="margin-bottom: 25px;">
+                        <h1 style="font-size: 1.8rem; margin-bottom: 6px;">Central de Recaps Acadêmicos — 2026.2</h1>
+                        <p style="color: var(--text-dim); margin-bottom: 0;">Material complementar, sínteses técnicas de código e registros das aulas presenciais de Análise e Desenvolvimento de Sistemas.</p>
+                    </div>
+
+                    <div class="stats-bar">
+                        <div class="stat-card">
+                            <span class="stat-value">{{TOTAL_WEEKS}}</span>
+                            <span class="stat-label">Semanas Ativas</span>
+                        </div>
+                        <div class="stat-card">
+                            <span class="stat-value">{{TOTAL_LESSONS}}</span>
+                            <span class="stat-label">Aulas Registradas</span>
+                        </div>
+                        <div class="stat-card">
+                            <span class="stat-value">{{GLOSSARY_COUNT}}</span>
+                            <span class="stat-label">Termos no Glossário</span>
+                        </div>
+                    </div>
+
+                    <h2>📚 Trilhas por Disciplina</h2>
+                    {{DISCIPLINE_VIEW}}
+
+                    <h2>🗓️ Linha do Tempo do Semestre</h2>
+                    <div class="global-timeline">
+                        {{TIMELINE_CONTENT}}
+                    </div>
+                </div>
+            </section>
+
+            <!-- INDIVIDUAL LESSONS SECTIONS -->
+            {{LESSONS_CONTENT}}
+
+            <!-- GLOSSARY SECTION -->
+            <section id="glossary" class="spa-section">
+                <div class="lesson-card">
+                    <div class="lesson-metadata">
+                        <span class="badge badge-poo">Dicionário Transversal</span>
+                    </div>
+                    <h1 style="margin-bottom: 10px;">Glossário Técnico ({{GLOSSARY_COUNT}} termos)</h1>
+                    <p style="color: var(--text-dim);">Conceitos, sintaxes e termos consolidados ao longo do semestre com referências diretas às aulas de origem.</p>
+                    <div class="glossary-grid">
+                        {{GLOSSARY_CONTENT}}
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script>
+        const NAV_MAP = {{NAV_MAP}};
+        let currentLessonId = 'dashboard';
+
+        function showSection(id) {
+            currentLessonId = id;
+            document.querySelectorAll('.spa-section').forEach(s => s.classList.remove('active'));
+            document.querySelectorAll('.day-btn, .info-pill').forEach(b => b.classList.remove('active'));
+            
+            const target = document.getElementById(id);
+            if (target) {
+                target.classList.add('active');
+                updateNavBar(id);
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+        }
+
+        function updateNavBar(id) {
+            const contextBox = document.getElementById('nav-context');
+            const prevBtn = document.getElementById('nav-prev');
+            const nextBtn = document.getElementById('nav-next');
+            const homeBtn = document.getElementById('nav-home');
+            const glossBtn = document.getElementById('nav-glossary');
+
+            if (id === 'dashboard') {
+                contextBox.innerHTML = 'Dashboard';
+                prevBtn.style.opacity = '0.2'; prevBtn.style.pointerEvents = 'none';
+                nextBtn.style.opacity = '0.2'; nextBtn.style.pointerEvents = 'none';
+                homeBtn.classList.add('active');
+            } else if (id === 'glossary') {
+                contextBox.innerHTML = 'Glossário';
+                prevBtn.style.opacity = '0.2'; prevBtn.style.pointerEvents = 'none';
+                nextBtn.style.opacity = '0.2'; nextBtn.style.pointerEvents = 'none';
+                glossBtn.classList.add('active');
+            } else {
+                const nav = NAV_MAP[id];
+                contextBox.innerHTML = nav ? nav.label : 'Aula';
+                contextBox.classList.add('active');
+                
+                if (nav && nav.prev) {
+                    prevBtn.style.opacity = '1'; prevBtn.style.pointerEvents = 'all';
+                } else {
+                    prevBtn.style.opacity = '0.2'; prevBtn.style.pointerEvents = 'none';
+                }
+
+                if (nav && nav.next) {
+                    nextBtn.style.opacity = '1'; nextBtn.style.pointerEvents = 'all';
+                } else {
+                    nextBtn.style.opacity = '0.2'; nextBtn.style.pointerEvents = 'none';
+                }
+            }
+        }
+
+        function goPrev() {
+            const nav = NAV_MAP[currentLessonId];
+            if (nav && nav.prev) showSection(nav.prev);
+        }
+
+        function goNext() {
+            const nav = NAV_MAP[currentLessonId];
+            if (nav && nav.next) showSection(nav.next);
+        }
+
+        document.addEventListener('click', e => {
+            const link = e.target.closest('.term-link');
+            if (link) { 
+                e.preventDefault(); 
+                showSection('glossary'); 
+                const href = link.getAttribute('href');
+                const termId = href.replace('#', '');
+                setTimeout(() => {
+                    const el = document.getElementById(termId);
+                    if (el) {
+                        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        el.style.borderColor = 'var(--accent)';
+                        setTimeout(() => el.style.borderColor = 'var(--border)', 1500);
+                    }
+                }, 150);
+            }
+        });
+
+        window.onload = () => {
+            const hash = window.location.hash.substring(1);
+            showSection(hash || 'dashboard');
+        };
+    </script>
+</body>
+</html>

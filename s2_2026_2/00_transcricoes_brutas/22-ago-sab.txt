@@ -1,0 +1,1678 @@
+--- TRANSCRIÇÃO GPU WHISPER: 22-ago-sab.m4a ---
+Duração do Áudio: 109:45 | Tempo de Inferência: 5.20 min (312.0s)
+
+[00:00 - 00:30] Aula de Análise e Desenvolvimento de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados Relacional, Modelagem de Dados
+[00:30 - 00:34] É o seguinte galera, a gente monta um grupo aqui só nós, umas quatro, né?
+[00:34 - 00:37] E aí pronto, não compartilhem informação com ninguém, exatamente.
+[00:37 - 00:40] Porque eu sou assim, eu sou cruel.
+[00:40 - 00:42] Que acontece.
+[00:42 - 00:46] Tá trabalhando né, eu dou um erro assim.
+[00:46 - 00:52] Você estiveram primeiro semestre, não foi?
+[00:52 - 00:56] E aí foi com o Bruno Sojou lins, eu acho, né?
+[00:56 - 01:01] de manhã a gente só teve o normal integrador de poltônio
+[01:01 - 01:06] eu fiz a noite no sábado com a Alexandre
+[01:06 - 01:11] no sábado você ficaram marrões duas horas né
+[01:11 - 01:13] no sábado de manhã não tinha nada
+[01:13 - 01:15] agora que passa a ter
+[01:15 - 01:18] a gente não teve aula de projéria de extensão
+[01:18 - 01:23] a gente teve acesso a umas disciplinas do
+[01:23 - 01:31] A plataforma quase no final do semestre, mas o projeto de extensão a gente não chegou a fazer.
+[01:31 - 01:35] Até tentei, eu até queria, mas não rolou.
+[01:35 - 01:37] Bem vindo.
+[01:37 - 01:41] Vou fazer um negócio para as preças de unidas, não deu tempo.
+[01:44 - 01:46] A saúde, o que é isso?
+[01:46 - 01:48] Chegue-se mais.
+[01:48 - 01:53] É o quadro condicionado, é o que mais tem.
+[01:53 - 01:59] Bom pessoal, meu nome é Ed, o Márcio, né?
+[01:59 - 02:03] É diferente, é porque realmente só tem Ed, né?
+[02:03 - 02:07] Aí tem um arquivo, fica Ed, meu pai.
+[02:07 - 02:13] E eu trabalho na área mais de 15 anos, tá?
+[02:13 - 02:19] Iniciei lá em 2009, eu tenho a idade do Node, Node.js.
+[02:19 - 02:29] Quando ele surgiu eu tava começando ali, já programava, já fazia algumas coisas, tecnologia, sabe?
+[02:29 - 02:35] Eu leciono desde também, acho que faz mais de dez anos também que eu leciono, né?
+[02:35 - 02:37] Ministro da aula e tal.
+[02:37 - 02:44] Sou graduado em ADS, tenho um poes engenharia de SOP
+[02:44 - 02:48] Eu estou procurando e fazendo meu mestrado para poder...
+[02:48 - 02:53] Que é bom, sempre estar continuando estudando, colaborar, PHD e outros
+[02:53 - 02:57] E entrei aqui na faculdade de Senagria, conheci o Fred há muito tempo
+[02:57 - 03:01] Conheço o Altonio, o Altonio é muito gente boa
+[03:01 - 03:04] O Altonio é o quarto vez em meu
+[03:04 - 03:07] entre outros colegas aqui também, conheci o Alexandre, muito bom.
+[03:10 - 03:13] E aí a gente tem essa disciplina de projeto integrador,
+[03:13 - 03:15] para que a gente possa...
+[03:15 - 03:19] Essa disciplina foi criada para que a gente possa entregar os nossos resultados.
+[03:20 - 03:24] Eu vi os projetos de algum de vocês lá, uma apresentação, vi o seu.
+[03:25 - 03:27] Eu não lembro a paisinha ali.
+[03:27 - 03:28] Você é um apresente-vou-não, né, apresente-vou?
+[03:28 - 03:29] Não, não apresentei.
+[03:29 - 03:33] Teve que tirar meu projeto porque não ia ter tempo.
+[03:33 - 03:40] Eu posso ter um emprego no final do semestre, aí isso bagunçou todo o meu planejamento, não podia apresentar.
+[03:40 - 03:49] Muito bom, muito bom. E aí gente, hoje eu atuo com uma analisa de sistemas, desenvolvo o do FUZTECH, hoje em dia tem muitos nomes de profissões aí.
+[03:49 - 03:51] É tipo...
+[03:52 - 03:59] Os barrotigos, né? Que é o Psytec, tá? O Linalista, hoje em dia é TechLady, é Soft Engineer, tá?
+[04:00 - 04:01] E...
+[04:02 - 04:03] Sou mais das antigas, sabe?
+[04:04 - 04:05] Então assim, o...
+[04:05 - 04:06] No tempo que eu...
+[04:06 - 04:07] Que eu...
+[04:07 - 04:08] Que eu iniciei, a gente tinha...
+[04:08 - 04:10] Hoje em dia, tipo, eu tenho...
+[04:10 - 04:14] Referência, né? Gustavo Guanabara, é o...
+[04:15 - 04:17] Esqueço do nome do Wendel,
+[04:17 - 04:25] que é o cara do Jaravel, tem outras celebridades que a gente gosta de ver os códigos dos caras
+[04:25 - 04:31] mais antigamente, são mais antigão, tipo a gente tinha o Lojan Groner
+[04:31 - 04:36] que é uma menina que reescreveu, não sei, mais dez livros de programação
+[04:36 - 04:38] é hoje lá o trabalho do banco aí, né?
+[04:38 - 04:42] A galera que eu conheço das antigos hoje em dia é atão muito fora
+[04:42 - 04:50] Tem um Canadá, tem Portugal, tem um padrimeu que é do Banto Caribe, que ele trabalha lá e tal.
+[04:51 - 04:58] Então, o mais antigo eu gosto de trazer essa época de lá pra cá, né?
+[04:59 - 05:10] E que é uma época assim que a gente aprende as coisas bem mais tranquilo, bem mais lento e tal, pra poder ir depois com rapidez a gente faz as empregas, né?
+[05:10 - 05:19] E é isso, hoje eu trabalho com PHP, com um pai, não, eu já trabalhei com um pai de um pouquinho, né?
+[05:19 - 05:24] PHP, com JavaScript, com Java, tá?
+[05:24 - 05:29] Já peguei um projeto recentemente de Ruby, on Rails, é...
+[05:29 - 05:31] É um frilo mesmo, né?
+[05:31 - 05:34] Eu ato também desenvolvendo aplicativos,
+[05:34 - 05:40] além de dar aula aqui, eu dou outra instituição, de ensino e dar digital college, né?
+[05:40 - 05:43] E eu só tenho uma turma lá, antiamente, tinha mais.
+[05:43 - 05:46] Aí eu estou deixando precisar só para focar na faculdade.
+[05:47 - 05:50] E eu trabalho no empresa de folio de pagamento,
+[05:50 - 05:53] e aí a gente cuida do AirSocial, comunicação com AirSocial.
+[05:53 - 06:04] a gente tem todo domínio de estadúciará para maranhão, as prefeituras e tem claro
+[06:04 - 06:10] a empresa, o MES, os projetos, tudo, tá bom?
+[06:10 - 06:13] E aí pessoal, eu queria saber de vocês, né?
+[06:13 - 06:22] Só o nome, se você já programa, se já conhece alguma tecnologia, tá?
+[06:22 - 06:23] Beleza?
+[06:25 - 06:26] Então vamos lá rapidinho.
+[06:26 - 06:27] Bora então.
+[06:27 - 06:28] Vai, vai demorar.
+[06:28 - 06:33] Sou gerônimo, eu comecei a me dedicar à programação no ano passado,
+[06:33 - 06:37] mas eu já tinha visto um pouco de programação na minha graduação, que eu fiz física.
+[06:38 - 06:40] Então aprendi Fortran.
+[06:41 - 06:46] Fortran 70, Fortran 90, isso foi na graduação, no mestrado também,
+[06:46 - 06:48] que eu tenho mestrado em Engenharia e Mecânica,
+[06:48 - 06:53] e eu comecei a um doutorado em geria nuclear também, programando em Fortran.
+[06:53 - 07:02] Meu professor até me incentivou a mudar para o C, mas eu acabei abandonando o doutorado para dançar.
+[07:02 - 07:08] Então passei um tempo aí um pouco afastado da tecnologia, sempre foi algo adjacente à minha vida,
+[07:08 - 07:15] mas eu resolvi levar a série o estudo de TI no ano passado, quando eu fiz um curso na...
+[07:15 - 07:18] no Senac Lado Centro, curso de análise de dados.
+[07:18 - 07:25] Não sei se você conhece uns professores daqui dos cursos livres, mas fiz com o Dennis lá.
+[07:25 - 07:31] Gostei muito e me endeio em outro curso aqui de Programa do Sistema.
+[07:31 - 07:35] E aí no final conheci o Luiz Fernanda, um professor único do Isantôneo,
+[07:35 - 07:38] o reitor, troquei uma ideia com ele e comecei a faculdade.
+[07:38 - 07:43] E aí o emprego que eu consegui foi dando aula lá no centro de Programa do Sistemas.
+[07:43 - 07:45] É, lá no centro do Sennach.
+[07:45 - 07:50] Isso, estou dando aula em JavaScript com Electron.
+[07:50 - 07:53] Lá que tem a faculdade do Adson, é só aqui, né?
+[07:53 - 07:55] Só que era lá, mas mudou pra cá.
+[07:55 - 07:57] Transpiliu-se pra cá.
+[07:57 - 08:02] Me lembro, eu até fui chamado pra lá, mas aí eu não dá agora não.
+[08:02 - 08:03] Naquele momento eu não dava.
+[08:03 - 08:04] Não dava.
+[08:04 - 08:08] Cara, massa, viu? Física é muito top, né?
+[08:08 - 08:11] O cara conhece outra coisa.
+[08:11 - 08:16] E como eu tenho tudo isso, tu diz que parou para dançar, tu gosta de dançar?
+[08:16 - 08:20] Sim, quando eu fui para o Rio de Janeiro, eu me apaixonei pela dança,
+[08:20 - 08:24] eu comecei a frequentar uma escola, me tornei bolsista, me tornei monitor,
+[08:24 - 08:27] comecei a fazer parte da companhia, fiz algumas apresentações,
+[08:27 - 08:30] dei aula de dança na UFRJ, que eu fui fazer uma doutora do lar.
+[08:30 - 08:32] O estilo que?
+[08:32 - 08:33] Tudo?
+[08:33 - 08:34] Zouk.
+[08:34 - 08:36] Principalmente o Zouk.
+[08:36 - 08:42] A hora de chegar um tempo livre procura, porque é massa, é meio da lambada, o Zuki.
+[08:42 - 08:46] Muito legal, muito divertido, muito gostoso, mas já dei aula de forró também.
+[08:46 - 08:51] Meu último trabalho com dança foi um ano e meio, mais ou menos, quando eu coreografi um casamento.
+[08:51 - 08:55] Desde então, estou um pouco afastado, estou focando aqui.
+[08:55 - 09:00] Mas, cara, acho que massa é a pergunta de arte, né?
+[09:00 - 09:02] É muito bom.
+[09:02 - 09:08] Pois é, inclusive o projeto de extensão que eu queria ter feito no Serense passado era relacionado com dança.
+[09:08 - 09:12] Eu queria fazer alguma coisa com coreografia para a gente apresentar numa festa junina,
+[09:12 - 09:14] uma coisa assim...
+[09:14 - 09:16] Tem os senares para a tua aí.
+[09:16 - 09:25] Pois é, porque é uma coisa que agita a nossa criatividade também e é uma interação social muito legal a dança,
+[09:25 - 09:28] que eu acho que toda pessoa deveria pelo menos experimentar ao mesmo tempo na vida.
+[09:28 - 09:30] Cara, eu já dança aí, mano.
+[09:30 - 09:32] Pois é, acho que as alas estão aí.
+[09:32 - 09:34] Quando eu era pequeno, quando eu era pequeno,
+[09:34 - 09:36] mas assim, como a gente tá aqui, né, só os rapazes e tal,
+[09:36 - 09:38] eu tenho um amigo meu que...
+[09:38 - 09:40] não é o seu caso, né, que é profissional.
+[09:40 - 09:42] Mas quando eu era pequeno,
+[09:42 - 09:44] eu dançava muito com mim, mano, sabe?
+[09:44 - 09:46] Fora Rosinha e tal.
+[09:46 - 09:48] Hoje eu sou roqueiro, né?
+[09:48 - 09:50] Eu também sou roqueiro, cara.
+[09:50 - 09:52] Eu danço.
+[09:52 - 09:54] Mas aí eu comecei a ficar duro aí.
+[09:54 - 09:56] Mas assim, as vezes ali
+[09:56 - 09:59] mas ali no fim de festa dá certo
+[09:59 - 10:01] mas eu o que eu faço?
+[10:01 - 10:03] ah eu também esqueci de falar sobre esse ponto
+[10:03 - 10:06] eu sou artista também, eu toco a mais de 15 anos
+[10:06 - 10:10] comecei a tocar com 15 anos de idade, hoje eu tenho 37
+[10:10 - 10:14] e toco nas covers aí de bands bandas e tal
+[10:14 - 10:18] e ai eu tenho um guitarra, tenho um contrabaixo, tenho violão
+[10:18 - 10:21] ai eu gosto, acho que eu gosto
+[10:21 - 10:25] e ai já toquei em grupo de pagode
+[10:25 - 10:27] Oh, delícia!
+[10:27 - 10:29] Eu era violonista, cara.
+[10:29 - 10:35] Tocava assim, na noite, e antes de eu fazer isso no médio, né?
+[10:35 - 10:40] E aí, tocando, tava bem... na cadeira.
+[10:40 - 10:45] E aí, xeré, era assim... aí depois eu não, meu Deus.
+[10:45 - 10:48] Eu tenho que ir para o parabéns de estudar.
+[10:48 - 10:50] Tem que tomar jeito.
+[10:50 - 10:55] eu namorava minha esposa, mas foi bom
+[10:55 - 11:01] eu sabia todas as músicas, os sorrisos marotos, o violão, até eu ouvi alguns
+[11:01 - 11:04] aí a minha gosta, quando você toca assim, eu furo
+[11:04 - 11:05] é bom
+[11:05 - 11:07] quando tu dança também as minas gostam
+[11:07 - 11:10] é, é o homem que eu furo
+[11:10 - 11:14] você escreveu no Aulo de Fórum, para aprender para estar na sua
+[11:14 - 11:18] é muito engraçado, e ele trabalha, todos os outros também, trabalha com TI
+[11:18 - 11:19] é muito bom
+[11:19 - 11:23] é impressionante que a dança atrai muita gente da TI
+[11:23 - 11:27] é porque eu acho que principalmente a galera da TI
+[11:27 - 11:30] eu também gosto de culinário, eu gosto de cunzinhar e tal
+[11:30 - 11:35] eu acho que eles gostam de dar arte, eles apreciam e também apreciam
+[11:35 - 11:38] também a questão de cunzinhar e gosto muito da culinário
+[11:38 - 11:40] pode perceber, né, uns caras que...
+[11:40 - 11:45] e até como o professor Danilo diz, tem sempre um vínculo artístico
+[11:45 - 11:48] acho que todo mundo tem que ter um vínculo artístico ali de qualquer coisa
+[11:48 - 11:59] e você também tem que procurar e não sei o que se faz, né? Mas, sei lá, desenhar, fazer um, pintar um quadro, pode ser qualquer outra coisa, entendeu?
+[11:59 - 12:01] É bom, é bom, a mente do Bé.
+[12:01 - 12:06] Eu sei que tem um desenhista na nossa sala, ele não tá aqui, mas eu sei que tem, pelo menos um.
+[12:06 - 12:09] Acho que eu já vi um estar desenhando a minha sala.
+[12:09 - 12:11] Eu tinha um estar desenhando.
+[12:11 - 12:12] Possible.
+[12:13 - 12:16] Enfim, já tomei tanto demais, perdão.
+[12:16 - 12:17] E você, meu amigo?
+[12:17 - 12:20] Me chamo Ádria.
+[12:20 - 12:21] Ádria?
+[12:21 - 12:22] É.
+[12:22 - 12:25] E como eu já estou...
+[12:25 - 12:28] Eu já estou no segundo semestre de ADS.
+[12:28 - 12:29] Sim.
+[12:29 - 12:34] Eu já entendi pelo ano baixo da programação no FIDE.
+[12:34 - 12:40] E a lógica de programação, inclusive, quando eu comecei a estudar a lógica de programação,
+[12:40 - 12:47] Eu tive uma baita reflexão enquanto eu fazia umas provas de confundidade soft.
+[12:47 - 12:54] E realmente você não precisa estudar muito para entender o assunto, assim, a lógica do assunto.
+[12:54 - 13:00] Você tem que saber como é que está, o santo está de uma palavra com uma de uma frase.
+[13:00 - 13:05] Se eu tivesse isso no ensino médio, nossa, ia ter uma diferença absurda.
+[13:05 - 13:06] É, né?
+[13:06 - 13:08] Que é saber ter lógica.
+[13:08 - 13:17] Cara, é isso que eu digo, eu falo sempre que quando eu começo a ensinar a galera do primeiro,
+[13:17 - 13:29] porque vem que às vezes vem pessoas de outras áreas e tal, eu digo assim, o ensino, principalmente aqui no Brasil,
+[13:29 - 13:37] ele tem que iniciar com lógica a partir dos quatro anos de idade, que até porque tem um project da Microsoft,
+[13:37 - 13:40] que se chama code.org
+[13:40 - 13:43] depois vocês podem até visitar o site
+[13:43 - 13:46] e podem ver que a gente vai ter fio e tal
+[13:46 - 13:50] code.org
+[13:54 - 13:58] esse aqui pessoal, ele é um projeto da Microsoft para o mundo todo
+[13:58 - 14:02] então nesse sitezinho aí
+[14:02 - 14:06] você consegue... dá para entender né, orgulho e URL não
+[14:06 - 14:12] Esse site tem vários cursos de programação.
+[14:12 - 14:15] Então a partir de quatro anos de idade, por que, professor?
+[14:15 - 14:21] Porque a criança começa a pegar no mouse e ela vai lá, começa a clicar, pressionar,
+[14:21 - 14:23] puxar, arrastar.
+[14:23 - 14:25] Ela começa a ter nessas habilidades.
+[14:25 - 14:27] Depois é só pegar uma figurinha e bota.
+[14:27 - 14:31] Pô, encaixou no local com a figurinha, aí pega duas figurinhas encaixem de novo.
+[14:31 - 14:34] Aí depois tem a questão do quebra-cabeça, ela começa a identificar.
+[14:34 - 14:43] Ah, meu filho tem um filho de dois anos e pouco, o menino já monta a pizza num aplicativo do celular, tem lá as pizzas e tal
+[14:43 - 14:53] E aí eu fico assim, eu acho que eu posso, então assim, esse projeto é muito bom pra vocês também e já era certificado
+[14:53 - 15:02] E aí daqui a pouco ele começa a montar o bloquinho, aí tem lá o do Frozen e tem a questão do Minecraft, aí tem que levar o boneco até certo ponto
+[15:02 - 15:09] Aí tem uns passapassos. Aí depois começa a mostrar os blocos e começa a mostrar a linguagem.
+[15:09 - 15:18] Na linguagem seria, movi, left, movi, right, glaze e ele começa a entender que eu posso fazer com código.
+[15:18 - 15:24] E aí pronto, ele sai para o graboando para você ver. Então realmente é isso mesmo.
+[15:24 - 15:27] E isso é para desenvolver auto didática.
+[15:27 - 15:35] A autodidática é isso mesmo. Cara, lógica de programação é pra todo mundo. É pra todo mundo. Não é não?
+[15:35 - 15:43] Com certeza. Eu não sei se tu já viu aquele curso do CS50. É um curso de Harvard, do primeiro semestre de 6 da computação.
+[15:43 - 15:46] Já, vi. Vi. Que durante a pandemia eles... Gostava muito disso.
+[15:46 - 15:49] Eles deixaram o público, né? Eu não sei se eles continuam deixando.
+[15:49 - 15:53] inclusive você podia mandar os exercícios para eles corrigirem, era bacana
+[15:53 - 15:57] e a primeira ligação que eles viram era scratch
+[15:57 - 16:01] é scratch, é marvel
+[16:01 - 16:05] para ver a importância da lógica
+[16:05 - 16:09] sabe o que vocês podem fazer?
+[16:09 - 16:11] às vezes o cara fala assim
+[16:11 - 16:14] ah não tem um tempo, estava moçando em casa
+[16:14 - 16:17] às vezes a gente tem que estar moçando assistindo alguma coisa
+[16:17 - 16:21] Aí o cara aponta, não posso desse meu YouTube aí, fica me usando.
+[16:21 - 16:23] O que tá acontecendo?
+[16:23 - 16:27] Cara, caramba não, não. Vocês absorvem alguma coisa na mente, entendeu?
+[16:27 - 16:33] Antes de dormir, bota lá, fica de boa, responde aqui o WhatsApp, que às vezes tá aqui, né?
+[16:33 - 16:35] Você olha, olha, é um dia de dia e tal.
+[16:35 - 16:37] Muito bom, que eu não me pergunto.
+[16:37 - 16:38] Gerônimo.
+[16:38 - 16:40] Gerônimo, é o Gerônimo, viu?
+[16:40 - 16:41] A Adrienha.
+[16:41 - 16:42] A Adrienha.
+[16:42 - 16:43] Bele, Gerônimo, gato.
+[16:43 - 16:44] Aí, Gerônimo.
+[16:44 - 16:52] O Massa, cara, que agora tem até um... do Rio de Janeiro mesmo, tem uma faculdade, um estúpido federal, acho.
+[16:52 - 16:59] Matemática, alguma coisa assim. Que eles também liberaram as aulas, mano. Aí tem mecânica quântica.
+[16:59 - 17:06] Poxa, eu tava vendo as aulas, eu caramba, machuqueirado. Porque é muito Massa, gente.
+[17:06 - 17:12] Gente, entender as coisas que a maior das pessoas não tem coisa, quando você começa a entender, olha...
+[17:12 - 17:16] É como se você cria as poderes, entendeu?
+[17:16 - 17:19] Sim, é um superpoder. Ser autodidata é um superpoder.
+[17:19 - 17:24] E eu acho que a gente só aprende isso na faculdade, o que é tarde demais, infelizmente.
+[17:24 - 17:33] Se a gente fosse estimulado a buscar o conhecimento mais cedo, nossa vida seria muito diferente.
+[17:33 - 17:39] Eu falo, o dia que eu não precisar mais trabalhar, eu vou viver aqui no Senac fazendo curso.
+[17:39 - 17:43] Ah, tem um curso de mechas ali, vou lá e faço.
+[17:43 - 17:45] Ah, tem um curso de decoração de unha, vou lá e faço.
+[17:45 - 17:47] Curso de...
+[17:47 - 17:49] Croçã, vou lá e faço.
+[17:49 - 17:53] Pois é, cara, aprender é muito bom, estudar nem tanto.
+[17:53 - 17:55] É isso, né? É a esforça.
+[17:55 - 17:59] Até o momento em que a gente aprende como a gente gosta de estudar.
+[17:59 - 18:01] Aí depois passa a ser divertido aqui, né?
+[18:01 - 18:03] Agora você estava falando, cara, comecei a estudar.
+[18:03 - 18:05] Pra ser uma tarde inteira estudando, nem vi o tempo passar.
+[18:05 - 18:07] Eu me divirto fazendo isso.
+[18:07 - 18:11] E aí, por surpresa, eu não achei que isso ia ser presente.
+[18:11 - 18:15] Eu sou o Vinicius, eu comecei a programar só na faculdade mesmo.
+[18:15 - 18:20] Nunca vi nada, mas aí me apeguei muito ao Python, programando Python.
+[18:20 - 18:25] A única linguagem que eu realmente... fora da faculdade também estudei, aí eu fiz um bootcamp,
+[18:25 - 18:31] até mesmo antes das alas, antes das alas, assim, porque depois que a gente viu o botônio,
+[18:31 - 18:34] comecei a programar só por diversão mesmo.
+[18:34 - 18:37] Eu comecei na sala do autor e me dava entregação, não.
+[18:37 - 18:39] Ele está dando um erro esse código.
+[18:39 - 18:42] Não vou deixar de resolver esse erro, meu código não pode dar erro.
+[18:42 - 18:44] Ter que resolver isso aí.
+[18:44 - 18:47] Aí foi só nessa raiva de querer resolver todos os erros.
+[18:47 - 18:50] Aí tinha umas coisas que o local me passava, já tinha visto.
+[18:50 - 18:55] E não é que eu o colocava e estava só jogava o código aí.
+[18:55 - 18:57] Isso aí, o que é que eu preciso para corrigir esse erro?
+[18:57 - 18:58] Aí procurava.
+[18:58 - 19:01] Aí, sei o quê, aí saía testando um monte de coisa.
+[19:01 - 19:04] Ele tinha tanto o que eu fazer só por teste, eu tenho...
+[19:04 - 19:14] E no polo, ah, me isso. Aí depois eu passei pro Vércio, do Vércio, eu tô aí já um pouco pro Git, mas só as coisas assim, básico da faculdade.
+[19:14 - 19:19] E o projeto de apenimento ainda tem que convidar alguns problemas dele, mas tá rodando.
+[19:19 - 19:21] Bom, cara, bom.
+[19:21 - 19:24] Bom, aí tu só tem que viver sem Python, né?
+[19:24 - 19:26] Só em Python, não...
+[19:26 - 19:27] Segundo seu método, né?
+[19:27 - 19:41] Mas você não posso dizer que a gente sabe só, teve só quatro alunos, dá pra dizer que a lógica é que você não tem um mesmo, mas eu programar realmente a Python.
+[19:41 - 19:43] Eu sei, muito bom.
+[19:43 - 19:48] Quando você, o primeiro semestre aí de vocês, como foi? Foi só em Python?
+[19:48 - 19:50] Só em Python, Python, Python.
+[19:50 - 19:51] Mas só em Python, né?
+[19:51 - 19:53] O resto é turma, rapaz.
+[19:53 - 19:54] Rapaz, pois é, tá rápido.
+[19:54 - 19:57] Já viu se você tomou uma sala 5 e 6?
+[19:57 - 19:58] Já viu se não foi?
+[19:58 - 19:59] Tá bom.
+[19:59 - 20:01] Já viu se tomou uma sala 5 e 6?
+[20:01 - 20:04] Fala mais alto, fala mais alto.
+[20:04 - 20:06] Só pra provocar mesmo.
+[20:06 - 20:08] O Fred tem que falar mais alto.
+[20:08 - 20:11] Ainda esse semestre nós tava vendo o Java e...
+[20:11 - 20:13] Só que é aquilo.
+[20:13 - 20:16] Quando a primeira aula que eu tive eu passou um...
+[20:16 - 20:18] coisa de Java para mais em piola,
+[20:18 - 20:20] não me assustou porque eu tava vendo
+[20:20 - 20:23] que era praticamente a mesma coisa do pai
+[20:23 - 20:29] o pai tomou o peor, eu bati o olho, quase que vi a estrutura do pai, então ali inteiro, não java
+[20:29 - 20:32] é isso mesmo, só muda essa intacta
+[20:32 - 20:39] só o chamamento, uma coisinha ali, uma coisinha ali, quando eu bati o olho, dá pra ver praticamente o pai, então ali
+[20:39 - 20:44] entendi, muito bom, show cara, e aí agora, o Rick?
+[20:44 - 20:49] Eu sou João Victor, já tive um...
+[20:49 - 20:59] Se eu fosse muito baixo do meu pai, eu me interessei pela programação do meu pai, que ele também foi um programador.
+[20:59 - 21:01] Eu trabalho na Associarense.
+[21:01 - 21:03] Ah, o quê?
+[21:03 - 21:05] Ele trabalha na Associarense.
+[21:05 - 21:07] Associarense?
+[21:07 - 21:09] Associarense.
+[21:09 - 21:16] Aí eu me interessei, ele me recomendou um curso de pai, como que ele já tinha feito
+[21:16 - 21:23] E agora ele também me recomendou a praia de piscinac, agora eu estou fazendo aqui e está ajudando a praia
+[21:23 - 21:27] Entendi, ficou muito bom
+[21:27 - 21:30] Eu já tive muito engraçado que eu...
+[21:30 - 21:37] Se custa na digital coletivo, tem que ficar luna assim, porque tem a família ali que incrementada e aí eu desboto logo os meninos
+[21:37 - 21:42] vai, as meninas, vai fazer curso lá, que é muito bom.
+[21:42 - 21:50] Gente, e assim, vamos botar um ponto aqui, o que vocês acham que precisa melhorar?
+[21:50 - 21:53] De vocês mesmo, né?
+[21:53 - 21:58] Tipo assim, eu acho que eu preciso melhorar muito na minha organização,
+[21:58 - 22:02] tem que ser mais organizado, eu acho que quando a gente é organizado,
+[22:02 - 22:09] a gente começa a administrar melhor as coisas e conquistar mais coisas, né?
+[22:10 - 22:12] E vocês, o que é que vocês precisam?
+[22:12 - 22:14] Você acha que melhorar?
+[22:14 - 22:25] A organização também é mais foco e também é contra uma ansiedade.
+[22:25 - 22:28] Às vezes bate e fica agitado.
+[22:28 - 22:30] É, é.
+[22:30 - 22:35] Eu também sou ansioso, às vezes me ajuda a ter uma filha que é suciosa também.
+[22:35 - 22:41] E aí, tenta procurar um psicólogo pelo plano às vezes é bom.
+[22:41 - 22:44] Mas psicólogos pudessem eu ter uma do meu lado.
+[22:44 - 22:48] Mas não é tão grave assim não, é só porque estão...
+[22:48 - 22:51] Mas é bom. Até porque vocês são tímidos.
+[22:51 - 22:54] Dá pra ver um pouquinho, entendeu?
+[22:54 - 23:02] mas tenta, porque daqui a pouco, querendo ou não, vocês vão ter que se vender pro mercado, né?
+[23:02 - 23:05] Vocês tem que... entendeu?
+[23:05 - 23:07] Então, eu queria nessa casa que eu já...
+[23:07 - 23:10] Pra mim, acho que o maior ponto é estudar.
+[23:10 - 23:12] Nunca fui de estudar não, pessoal.
+[23:12 - 23:14] Coisa difícil de estudar, de si no médio.
+[23:14 - 23:16] Dois anos não vencei no médio.
+[23:16 - 23:19] Eu lembro, na terça, eu não ficava jogando mais.
+[23:19 - 23:20] Ah, por quê?
+[23:20 - 23:24] Nunca me apeguei, mas ao mesmo tempo também não era bargulhete nem nada.
+[23:24 - 23:29] Eu fazia as coisas tudo rápido e ficava jogando na sala. Então matava o conteúdo ali e ficava jogando.
+[23:29 - 23:33] Outro jogo de sei lá, quase tudo, um monte de jogo.
+[23:33 - 23:35] E bem desenvolvendo o jogo, né?
+[23:35 - 23:42] Aí, só que eu estudava, só que eu passou a passar a atividade, fazer essa atividade assim e ficava jogando na aula.
+[23:42 - 23:46] Era o que eu mais fazia. E terceiro ano parei um pouquinho com isso.
+[23:46 - 23:49] fora da sala, não estudava nada.
+[23:49 - 23:53] Aí, aqui que comecei a puxar um pouquinho,
+[23:53 - 23:56] estudar ali, aí pai, então foi uma das coisas que eu peguei assim,
+[23:56 - 24:01] acho que fiquei uns dois meses, mais ou menos que eu ficava vidrado mesmo,
+[24:01 - 24:04] para querer só, só acordar a pai também.
+[24:05 - 24:08] Aí na sua férias, deu uma folia, porque no final eu fiquei
+[24:08 - 24:10] sem vestir, deu uma cansada, mas era quando eu estudava mesmo assim,
+[24:10 - 24:12] fiquei com raiva de não ter estudado na sua férias.
+[24:12 - 24:20] Agora estou voltando a estudar um pouco ali, estou a estudar um pouco de inglês, não tenho para o de fugir.
+[24:20 - 24:23] Aí, estudar, mas...
+[24:23 - 24:27] É, porque então tem que precisar melhorar aí nesse ponto, né?
+[24:27 - 24:32] Cara, eu faço assim, ó, geralmente também eu fazia o ensino mético que eu fazia,
+[24:32 - 24:36] quando fazia o terceiro ano eu percebi que eu me engotava de ficar lá fora conversando.
+[24:36 - 24:38] E eu queria ficar com eles também.
+[24:38 - 24:42] Aí antes de o professor passar a aula eu já estudava o capítulo.
+[24:42 - 24:45] Antes de começar a aula eu já sabia o que que passava no ensaulo de aula.
+[24:45 - 24:48] Azeu da fujiginha, eu estava no recome.
+[24:48 - 24:51] Mas é com o que acontece que a gente não tem muita coisa na cabeça.
+[24:51 - 24:56] Aí a gente ficava lá conversando, mas eu já sabia o conteúdo.
+[24:56 - 25:01] Mas eu vi que, para você ver, as vezes que...
+[25:01 - 25:05] Aí tem muita opinião de empresas que tipo assim, a contrada a gente fica sólida.
+[25:05 - 25:08] porque elas não começaram a fazer um trabalho mais rápido ali.
+[25:08 - 25:10] Mas nem isso, às vezes...
+[25:10 - 25:17] Mas você vê soluções ali que você acaba vendo que caramba, acho que olha o que eu fiz, né?
+[25:17 - 25:19] Foi o que eu criei, o hábito.
+[25:19 - 25:21] E outra coisa também, eu faço metas.
+[25:21 - 25:25] Eu tenho um livro para ler, eu vou ler 10 páginas daqui a...
+[25:25 - 25:30] Eu fiz, eu fiz, eu consegui fazer, mas eu fiz todo dia, tinha que ler 10 páginas, porque deve ser um...
+[25:30 - 25:34] Eu diria que de um dia eu ia acabar os outros maiores, eu terminei um livro
+[25:34 - 25:37] Desenhei daí, 10 páginas, 10 páginas, 10 páginas
+[25:37 - 25:41] Péquenas metas, pequenas metas, entendeu?
+[25:41 - 25:44] Pequenas metas, grandes resultados
+[25:44 - 25:47] Então, não precisa, chavula esse livro todo dia, você não vai conseguir
+[25:47 - 25:50] Ah, leia só 5 páginas, leia só 10
+[25:50 - 25:54] Eu já estou tentando, ontem, estava a 0 vontade para ajudar mais
+[25:54 - 25:58] 1 orinhança ali da 2000, foi no 2010, eu pelo menos abriu coisa
+[25:58 - 26:02] São pelo menos uns 40 minutos eu fui ver o inglês lá.
+[26:02 - 26:05] E os dois etapas e pronto.
+[26:05 - 26:11] Pra pelo menos... porque sempre que eu ia todo dia, eu nunca fui de faltar.
+[26:11 - 26:14] Faltar não é comigo, minha mãe não me deixa faltar, então sempre estou na faculdade.
+[26:14 - 26:18] Nunca faltei uma aula disso, não mede. Todas as aulas estavam lá.
+[26:18 - 26:19] Sempre fiz.
+[26:19 - 26:21] Mas agora estudar era o...
+[26:21 - 26:25] Peso nosso provanto, porque eu nunca precisei estudar pra me passar bem nas provas.
+[26:25 - 26:27] Não, tem um irmão.
+[26:27 - 26:31] Aí, nunca foi um preciso estudar se não vou reprovar?
+[26:31 - 26:33] Você não se preocupou muito estudando nada?
+[26:33 - 26:35] Eu estou com a minha mãe.
+[26:35 - 26:37] Eu nunca me preocupei muito estudar mesmo.
+[26:37 - 26:39] É legal, realmente ela...
+[26:39 - 26:41] E tu, Jarom?
+[26:41 - 26:47] Bom, assim como os colegas, né, o ensino médio,
+[26:47 - 26:51] eu acho que a gente não realmente aprende a estudar.
+[26:51 - 26:56] não realmente aprende a estudar. A gente replica tudo aquilo que a gente viu no ensino fundamental,
+[26:56 - 27:02] e antes que, até aquele momento da vida, estudar era sentar na frente de um livro,
+[27:02 - 27:05] né, fazer exercício e tal.
+[27:05 - 27:06] E passar na prova.
+[27:06 - 27:08] E passar na prova, exato.
+[27:08 - 27:12] Tirar matabóndo os trabalhos, enfim, na redação,
+[27:12 - 27:14] Minha porra.
+[27:14 - 27:22] mas a faculdade de física é um negócio que destrói tal que estima ela
+[27:22 - 27:26] te humilha ela fala achava que era inteligente seu otário
+[27:26 - 27:35] vai ver se vira porque isso não sentar bomba na cadeira e conseguir entender os
+[27:35 - 27:40] conceitos por conta própria não é numa aula de uma hora duas horas que você vai
+[27:40 - 27:47] Não é uma hora, no malo de duas horas por semana, que tu vai entender mecânica estatística.
+[27:47 - 27:52] Nem mecânica clássica quando o negócio pega pra valeta, vai entender.
+[27:52 - 27:53] Termo dinâmica, enfim.
+[27:53 - 27:59] Tu tem que sentar e estudar e aprender a estudar aquela portaria.
+[27:59 - 28:03] Então, eu já aprendi a estudar.
+[28:03 - 28:10] Naquela época eu me forçava a fazer do método que eu trazia da escola.
+[28:10 - 28:15] E isso era muito oneroso, cansativo, não era nem um pouco divertido.
+[28:15 - 28:21] Conforme a coisa foi evoluindo, eu vi que não, posso dar de outra maneira.
+[28:21 - 28:27] E eu já me entendo com uma criatura muito mais de motivação do que de disciplina.
+[28:27 - 28:31] Se eu pegar, eu tenho que fazer isso todos os dias.
+[28:31 - 28:36] terceiro dia já não consigo mais mas no momento eu estou com vontade eu sento lá e
+[28:36 - 28:40] faço 18 horas e não vejo o tempo passar
+[28:40 - 28:44] para mim funciona assim, eu sou de motivação
+[28:44 - 28:49] é que nem... sei se vocês todos já jogaram mas é que nem um jogo de RPG
+[28:49 - 28:54] que eu já fiz o que eu acho né tipo o cara tem que ler imaginar o cenário para
+[28:54 - 28:57] vai poder começar a fixar o conteúdo.
+[28:57 - 29:01] Além disso, você vai ter
+[29:01 - 29:06] invariaveis dentro desse cenário que pode acontecer
+[29:06 - 29:09] que aí você começa...
+[29:09 - 29:12] E tudo isso em conjunto com o personagem,
+[29:12 - 29:14] com a personalidade do seu personagem,
+[29:14 - 29:15] com a estabilidade, você vai...
+[29:15 - 29:17] É muito divertido a repetir.
+[29:17 - 29:18] Pois é.
+[29:18 - 29:19] Não sei se tu viu, mas porque tu falando,
+[29:19 - 29:20] eu lembrei, meu processo de faça,
+[29:20 - 29:23] esse filme aqui é uma das aulas de química do terceiro ano.
+[29:23 - 29:29] Eu não vi, eu não vi. As leis da Terra é uma dinâmica.
+[29:29 - 29:32] As leis da Terra é uma dinâmica.
+[29:32 - 29:36] O professor mostrou que tinha alguns partes do conteúdo que batia,
+[29:36 - 29:41] mas ele está bem teórico mesmo no filme, em alguns partes.
+[29:41 - 29:47] Ele vai lá, entropia, essas coisas, várias leis vão no filme e tal.
+[29:47 - 29:49] Aí é uma massa.
+[29:49 - 29:51] Ei, eu...
+[29:52 - 29:54] Estou 18 anos aqui.
+[29:56 - 29:58] Eu fiz 19 nesse mês.
+[29:58 - 30:00] É, eu fiz 18 recente também.
+[30:01 - 30:03] Mas eu fiz 19 no próximo.
+[30:04 - 30:06] Ei, estou... Eu vou ter mais 18 anos.
+[30:07 - 30:07] É, é...
+[30:07 - 30:08] Com vossa identidade.
+[30:08 - 30:09] Não sei.
+[30:09 - 30:10] Tem 18, é?
+[30:10 - 30:11] Sim.
+[30:11 - 30:11] Também, né?
+[30:11 - 30:12] Sim.
+[30:12 - 30:12] Mas...
+[30:12 - 30:14] Tem que eu fico vigiando a porta, não sei se falar.
+[30:14 - 30:15] Não, não.
+[30:17 - 30:18] Agora, deu-te a hora.
+[30:18 - 30:20] Não é que o cara é do P9, né, mas...
+[30:20 - 30:21] Não é?
+[30:21 - 30:24] Eu tá como um pessoalmente de uma pessoa que estuda física e quântica.
+[30:25 - 30:27] Ai, como fala ele? Que nem RPG, né?
+[30:27 - 30:28] Oi?
+[30:28 - 30:29] Que nem RPG, né?
+[30:30 - 30:31] Ah sim.
+[30:31 - 30:32] A...
+[30:32 - 30:34] A física te ensina a...
+[30:36 - 30:37] Descascar um problema.
+[30:37 - 30:41] Tá, você pegar só o que é essencial pra resolver aquilo.
+[30:41 - 30:43] Física e quântica não é muito diferente.
+[30:43 - 30:45] Mas as regras do jogo, elas são diferentes.
+[30:45 - 30:49] quando você vai dar clássica para quântico ou da clássica para relativística,
+[30:49 - 30:54] tem que mudar o conjunto de regras. É que nem quando a gente vai da programação
+[30:54 - 30:59] estruturada para orientar os objetos, né? O nosso modo de pensar tem que ser
+[30:59 - 31:04] diferente, mas a capacidade de resolver a mesma. Então, a cabeça do físico pensando
+[31:04 - 31:07] em mecanica quântica vai ser diferente de quando ele está pensando em tomar uma
+[31:07 - 31:09] cerveja no fim de semana.
+[31:09 - 31:12] Apenas se existe físico teórico brasileiro aqui.
+[31:12 - 31:14] Ah, tem, tem muito.
+[31:14 - 31:14] Tem muito.
+[31:14 - 31:15] Com a seareza, hein, Zico?
+[31:15 - 31:17] Sem muito, tem.
+[31:17 - 31:21] Eu era mais teórico, aí no final eu estava mais computacional.
+[31:21 - 31:24] Mas eu sempre fui apaixonado pela teoria.
+[31:24 - 31:26] Não, não, não, não.
+[31:26 - 31:28] Olha, a teoria é só a teoria, né?
+[31:28 - 31:30] Só?
+[31:30 - 31:31] Nossa.
+[31:31 - 31:31] Ou não.
+[31:31 - 31:32] Só?
+[31:32 - 31:34] Não, assim, teórico...
+[31:34 - 31:38] É, é teoria de você sentar na frente do papel...
+[31:38 - 31:43] Há alguns porra nessa teoria, outros tem coisas declarares, mas...
+[31:43 - 31:48] É, porque existem experimentos que você não pode fazer, você não tem condição de fazer.
+[31:48 - 31:50] Não tem condição de fazer, pois é.
+[31:50 - 31:53] E até hoje eles procuram meios para tentar.
+[31:53 - 31:59] Você vai por inferência, como é que você vai fazer um experimento que você precisa de uma energia,
+[31:59 - 32:04] que você só vai encontrar no núcleo do sol, ou no núcleo de maestrela.
+[32:04 - 32:06] Você não tem como fazer experimento.
+[32:06 - 32:08] Não tem como fazer coisa.
+[32:08 - 32:17] A física computacional ajuda, você pode fazer simulações, mas fora isso é teoria, é você botar a teoria ali, tá.
+[32:17 - 32:21] Vamos ver se em algum lugar do universo esse reponde produz.
+[32:23 - 32:27] Agora será que existe um físico teórico cristão?
+[32:27 - 32:28] Existe.
+[32:28 - 32:30] Muito, muito.
+[32:30 - 32:32] Eles tem uma base ali, né?
+[32:32 - 32:34] Infelizmente tem cristão de todo jeito, de novo.
+[32:34 - 32:35] Tem físico de todo jeito.
+[32:35 - 32:39] Porque o ateu rapaz faz de tudo
+[32:39 - 32:43] Fatuva que Deus não existe, mas existe tudo a bastante
+[32:43 - 32:47] Era um revigioso cientista mesmo, não vou lembrar o nome agora de nenhum
+[32:47 - 32:49] A maioria, a maioria
+[32:49 - 32:53] O sábio que engraçava o símbolo do ateísmo é um átomo
+[32:54 - 32:56] Então é um astuto de um átomo
+[32:57 - 33:00] Eu te falei sobre física, esse professor aí...
+[33:00 - 33:06] Ele me fez, eu fiquei muito interessado em fizesquem matemática porque
+[33:06 - 33:11] Tô interessado por eu e mais um grupo de amigos, a gente fazer
+[33:11 - 33:16] O Impedas de Física e também o Impedas de Fugues
+[33:16 - 33:23] A gente fez, a gente não conseguiu ganhar porque se a gente vai ganhar a gente ia por rio
+[33:23 - 33:28] E se eles não ganhamos, só que é muito bacana porque a gente conseguiu criar um Fugues
+[33:28 - 33:35] que ele aprofita uma maneira por água, e hoje o que era por reação química, não
+[33:35 - 33:46] me diga mais muito bem o direito dos comunidades, mas assim, a sensação de você tipo fazer
+[33:46 - 33:52] o cabo em teste, uma simulação e depois você vê a prova e vê o resultado, cara que
+[33:52 - 34:22] E o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é
+[34:22 - 34:27] por exemplo, esse negócio de foguete, a gente pensou, porra, é só você criar um foguete que tem mais ou menos dinâmica,
+[34:27 - 34:38] um água, um combustível e pronto, só começa só isso, tem que ver o peso, você tem que ver a quantidade de combustível para você conseguir
+[34:38 - 34:42] conseguir com a luna, é uma série de coisas assim que juntam...
+[34:42 - 34:44] A relação entre massa agitada com a massa.
+[34:44 - 34:49] É, nossa, eu não lembro mais de que as colunas que fazem isso mais da minha, mas não.
+[34:49 - 34:59] Mas para retornar ao assunto, só que pegar esse gancho, eu creio que eu já tenha aprendido a estudar
+[34:59 - 35:04] e hoje em dia com outras ferramentas fica muito mais fácil para absorver conteúdo.
+[35:04 - 35:06] Só que é essa questão.
+[35:06 - 35:12] Disciplina ao longo desses 40 e tantos anos de vida não é o meu forte.
+[35:12 - 35:15] É motivação.
+[35:15 - 35:21] Eu não perdi não mudar isso, já tentei forçar essa mudança, não dá certo.
+[35:21 - 35:24] Então eu estou meio confortável no momento que eu estou.
+[35:24 - 35:29] Semestres que vem, semestres passados, como eu estava...
+[35:29 - 35:34] Eu sou disantor e falo por não dizer desempregado, como eu estava disponível para o mercado,
+[35:34 - 35:38] eu tinha mais tempo livre e dava presto dá mais.
+[35:38 - 35:44] Esse semestre eu não tenho tanto tempo livre, mas eu acho que eu estou conseguindo aproveitar muito bem
+[35:44 - 35:46] os momentos que eu tenho.
+[35:46 - 35:49] Então, nesse momento eu não vejo
+[35:49 - 35:53] uma área específica que não é aquilo, é um ponto de contenção que eu preciso
+[35:53 - 35:56] liberar.
+[35:56 - 35:58] E o ADR?
+[35:58 - 36:05] É que você acha que precisa melhorar?
+[36:06 - 36:07] Pode ser
+[36:07 - 36:12] o básico para conseguir desenvolver um projeto integrador, e depois a gente
+[36:12 - 36:25] de qualquer tema e melhorar mais a lógica de programação, conhecer mais funções e também eu
+[36:25 - 36:34] poder aprender cinco linguagens que é C, C++, C++, Java e Python.
+[36:34 - 36:36] Eu não tenho nada para ver nesse 5-linguário, eu não tenho tempo.
+[36:36 - 36:42] É, só que eu sei que o meu principal vai ser o C-Mais-Mais, porque eu sou da área de jogos.
+[36:42 - 36:46] E o meu objetivo...
+[36:46 - 36:48] É, é de ir ouvir um jogo, né?
+[36:48 - 36:50] É, só que morando no Japão.
+[36:50 - 36:52] É bem santo.
+[36:52 - 36:54] É o físico dos games aí.
+[36:54 - 36:56] Morando no Japão.
+[36:56 - 37:03] Ele fez o mestrado no EFC e foi convidado para ir para o Japão, do patrocinado.
+[37:03 - 37:08] Aí ele foi, cara, foi um esperimento topista.
+[37:08 - 37:11] É, provavelmente vai ter que fazer um intercâmbio.
+[37:11 - 37:17] É, é um intercâmbio e conseguir um visto de estudante, né?
+[37:17 - 37:20] Eu queria ir para o EFC, é, eu não tenho nada para fazer.
+[37:20 - 37:25] É, vocês conseguiu, se vocês terminam aqui a graduação, vocês conseguem fazer um mestrado lá, entendeu?
+[37:25 - 37:39] O mestrado é tranquilo, é tranquilo. Você só precisa fazer um trabalho de conclusão.
+[37:39 - 37:43] A seleção para o mestrado é tranquila, porque o mestrado não tem que ter.
+[37:43 - 37:44] É, é.
+[37:44 - 37:46] É dois anos para fazer muita coisa.
+[37:46 - 37:48] É, é muito tranquilo.
+[37:48 - 37:50] Ele paga até viagem.
+[37:50 - 37:53] É mais boa o que o mestrado.
+[37:53 - 37:56] Porque tem mais tempo, cara, dá pra respirar mais.
+[37:56 - 38:00] Assim, existe a questão de você estar na fronteira da ciência, né?
+[38:00 - 38:04] De você desenvolver alguma coisa que não existe ainda, mas é mais respirar.
+[38:04 - 38:05] Ela tá mais quente, né?
+[38:05 - 38:06] Pra fazer as disciplinas.
+[38:06 - 38:08] É mais quente, né, o cara?
+[38:08 - 38:11] É, você tem uma bolsa maior, comendo.
+[38:11 - 38:13] Você já fez aquilo em menos tempo, né?
+[38:13 - 38:18] Então, você relaxa um pouco, relaxa e o tempo sai.
+[38:18 - 38:20] Não termine nem um aeronato.
+[38:20 - 38:21] Tem também um...
+[38:21 - 38:24] Tem também a bolsa bem, a bolsa é minorada?
+[38:24 - 38:26] Induturado sim.
+[38:26 - 38:28] É melhor do que a do...
+[38:28 - 38:38] Cara, na minha época lá em 2012, 2012 até 2016 no doutorado, sim, eu fiz quatro anos abandonem-me muito.
+[38:38 - 38:40] Era R$ 2.200.
+[38:40 - 38:42] Deve ter a mais, né?
+[38:42 - 38:43] Agora deve ter a mais dele reajuste, né?
+[38:43 - 38:47] Naquela é a coxa, o posto do mestrado era R$ 1.400 por aí.
+[38:47 - 38:48] É bom.
+[38:48 - 38:49] É bom disso.
+[38:49 - 38:57] Beleza gente! Então assim, a gente... eu nunca me entrei uma aula assim não, sabe? Conhecendo a galera e tal
+[38:57 - 39:06] Mas é mais para que a... porque eu tenho que botar vocês no pensamento de que quando o projeto integrador ele...
+[39:06 - 39:14] É uma disciplina que a gente pega todas as nossas ferramentas, todos os nossos case ali, todos os nossos...
+[39:14 - 39:18] como você diz, melhorias, né?
+[39:18 - 39:21] A gente tem que toda vida, eu gosto de me avaliar, né?
+[39:21 - 39:24] Você sempre bota o link que a gente faça isso.
+[39:24 - 39:26] E que eu preciso melhorar, né?
+[39:26 - 39:30] Preciso melhorar nisso naquilo, porque tem mesmo um mercado que espera isso pra gente, né?
+[39:30 - 39:32] E os nossos projetos também.
+[39:32 - 39:36] Então assim, a ideia aqui é juntar tudo, certo?
+[39:36 - 39:38] E a gente teve ali um...
+[39:38 - 39:50] conversou um pouco sobre fora da TI, as problemáticas da física, da arte, como é que a gente pode fazer certas coisas
+[39:50 - 39:56] então o interessante do projeto integrador também é levar vocês para outras ondas
+[39:58 - 40:00] pode vir
+[40:00 - 40:02] olá, bote
+[40:02 - 40:06] o meu xed deck não é o que está aqui
+[40:06 - 40:10] Não sei qual é o prêmio que você mexe, você sabe?
+[40:10 - 40:14] Não, tem só tecnologia, só esses dois.
+[40:14 - 40:16] Tecnologia tem outro.
+[40:18 - 40:20] Não, acho que é outra sala ali.
+[40:20 - 40:22] Do outro lado, sala 5 e 6.
+[40:22 - 40:24] Não viu.
+[40:24 - 40:26] Vou lá para o frente.
+[40:26 - 40:28] É, coisa...
+[40:28 - 40:30] E aí, galerinha, é isso.
+[40:30 - 40:34] O projeto integrador faz com que vocês façam
+[40:34 - 40:43] que se façam no viagem em todas as áreas ou vocês reconheçam problemáticas e tragam
+[40:43 - 40:44] pra cá, né?
+[40:44 - 40:47] Pra que a gente tenha as ideias.
+[40:47 - 40:51] Às vezes o que nos falta é conhecimento, pra que a gente possa reconhecer um problema
+[40:51 - 40:55] fora e fazer uma tecnologia pra que possa resolver aquilo.
+[40:55 - 40:58] Foi daí que surgiu a ideia do meu projeto.
+[40:58 - 41:00] Que um dos integrantes era...
+[41:00 - 41:02] A minha equipe era quase todo mundo.
+[41:02 - 41:05] Acho que só eu quero excluir do que era...
+[41:05 - 41:06] No estágio era de Senac.
+[41:06 - 41:08] Um já o me aprendi, o outro já o me aprendi,
+[41:08 - 41:10] e o outro também era uma coisa de Senac que eu não lembro agora.
+[41:10 - 41:15] Aí ele trabalhando aqui, ele viu que o Senac tudo é na mão.
+[41:15 - 41:18] Todas as coisas de stock, ele diz algo xerifado tudo,
+[41:18 - 41:19] ele tem que fazer na mão.
+[41:19 - 41:22] A ideia do tech stock surgiu justamente
+[41:22 - 41:27] da aqui dentro do cenário que viram esse problema de tudo ser na mão
+[41:27 - 41:29] aí que saiu a ideia do projeto
+[41:29 - 41:32] bom, muito bom, muito bom
+[41:32 - 41:37] realmente quer ter uns corpos que é tudo um papel ainda né
+[41:37 - 41:45] e então é isso, a gente vai juntar essas coisas e vamos tentar fazer as ideias
+[41:45 - 41:53] aí tem a questão de planejar, de ver a viabilidade daquele projeto, será que é tranquilo, será que é bom?
+[41:54 - 41:59] Eu tenho uma visão assim de realizar muitos projetos para a área de educação, né?
+[42:00 - 42:02] Por exemplo, na física acho que já tem, né?
+[42:02 - 42:10] Tem um software ali onde ilustre, por exemplo, com óculos ali, um cenário para o aluno,
+[42:10 - 42:18] Só que aí o gerônimo tem que viver na mente dele, tentar pegar na mente dele e trazer pro dentro de um projeto
+[42:18 - 42:21] onde tu conseguiu viver isso.
+[42:21 - 42:24] Por exemplo, também a dança.
+[42:24 - 42:28] Tu tava falando que queria fazer alguma coisa, alguma solução pra isso.
+[42:28 - 42:31] Aí eu e mais velho. Posso até falar aqui.
+[42:31 - 42:35] Mas se você puder ver nos aplicativos de academia
+[42:35 - 42:45] A gente tem lá o nosso o que a gente deve fazer e tem um vídeo ou a figurinha GIF dizendo movimento né
+[42:45 - 42:53] Então não sei se existisse mas um aplicativo de dança onde ilustraria um GIFzinho mostrando o passo
+[42:53 - 43:00] Porque existe os passos né de forró eu só lembro de um passo que eu tinha que pegar a mão da minha irmã
+[43:00 - 43:04] Aí eu botaria aqui a mão atrás e ela pegar minha mão eu fazia um negócio assim era
+[43:04 - 43:08] Acho que isso é muito conhecido, né?
+[43:08 - 43:14] Então, assim, isso é bom porque já imaginou um casal estar em casa, né?
+[43:14 - 43:18] Às vezes que tem um... nossa, parra de você, né?
+[43:18 - 43:22] E aí, tamo, abre um vinhozinho ali, tal, aí não sabe dançar ou não,
+[43:22 - 43:28] mas já abre aplicativo, já acompanha, aí já vê os passos, já imaginou?
+[43:28 - 43:33] Isso com certeza a pessoa acho que nem precisa, né?
+[43:33 - 43:39] E aí vai vendo o aplicativo e vai fazendo daqui a pouco, casal tá dançando, não busca eu sózinho.
+[43:39 - 43:46] Acho que tem outro ponto também que sou uma pessoa, às vezes a pessoa também pode não dançar por medo do que os outros tipo de dançar.
+[43:46 - 43:54] Comziu aí isso aí, a pessoa já faz em casa, com a árvore, ninguém tá vendo, já se sente mais confortável, tá?
+[43:54 - 44:01] E aí tem lá o Forró, tem o meu nome do Zulk, né?
+[44:01 - 44:02] Zulk.
+[44:02 - 44:04] Ah não, não tem internet.
+[44:04 - 44:05] É, aqui também.
+[44:05 - 44:07] Eu estou até com tosas, estou com tosas.
+[44:07 - 44:08] Se eu procurar aqui.
+[44:08 - 44:13] É procurar um vídeo de Zulk aqui pra botar no tablet, mas deixa aqui.
+[44:13 - 44:16] Atiça curiosidade, cada um procura no seu.
+[44:16 - 44:18] É verdade, é verdade.
+[44:18 - 44:21] Então galera, é isso, sabe?
+[44:21 - 44:29] É, só um adendo lá no Rio de Janeiro depois que eu saí do doutorado, eu iniciei uma graduação em dança.
+[44:29 - 44:36] Eu não tinha que terminar essa graduação, mas eu fui aluno da faculdade de dança do FRJ durante um tempo.
+[44:36 - 44:47] E lá eu era bolsista, eu acho naquele momento, era o segundo maior projeto de extensão da faculdade, que era o Comunidade de Dança.
+[44:47 - 44:51] que era justamente isso, era oferecer aulas de dança para
+[44:51 - 44:54] uma comunidade acadêmica quanto para a comunidade em geral
+[44:54 - 44:57] eu passei três anos e meio nesse projeto
+[44:57 - 45:01] então meu projeto de extensão na UFRJ
+[45:01 - 45:05] era dar aulas de dança e preparar coreografia e esse tipo de coisa
+[45:05 - 45:10] então, se eu não fosse passada eu pensei em fazer algo semelhante aqui
+[45:10 - 45:14] ver se conseguia uma sala para oferecer aulas de dança para os funcionários
+[45:14 - 45:16] para quem estiver assim, volta para os alunos
+[45:16 - 45:19] E no final apresentar alguma coisa na festa genina.
+[45:19 - 45:21] Mas acabou com coisa não...
+[45:21 - 45:23] Não andou, não andou.
+[45:23 - 45:25] Mas tu deu por já mandar o projeto, né?
+[45:25 - 45:27] Não, não, não. Chegui a ver.
+[45:27 - 45:28] É isso?
+[45:28 - 45:29] Isso.
+[45:29 - 45:31] Olha, olha o do que...
+[45:31 - 45:32] O do que foi...
+[45:32 - 45:33] Só que tá muito...
+[45:33 - 45:34] Leito?
+[45:34 - 45:36] Não, não, tá muito...
+[45:36 - 45:37] Performático.
+[45:37 - 45:38] Ah, sei.
+[45:38 - 45:39] Ah, acho que...
+[45:39 - 45:40] A mulher não fala e dirá.
+[45:40 - 45:43] Porque ela não se abraça em um momento nenhum.
+[45:43 - 45:46] Ficam só fazendo coisa, tudo, não sei o que.
+[45:47 - 45:49] Ainda não abraça.
+[45:51 - 45:53] Tu conhece o jogo Just Dance?
+[45:53 - 45:55] Conheço.
+[45:55 - 45:56] Esse aí.
+[45:56 - 45:58] Também conheci... já dançando, graças a Deus.
+[45:58 - 45:59] Ah não.
+[45:59 - 46:00] Just Dance.
+[46:00 - 46:02] É um jogo de dança.
+[46:02 - 46:04] Você escolhe qualquer música que você gosta.
+[46:04 - 46:05] Ah, eu danço.
+[46:05 - 46:07] É para assumir o dançamento.
+[46:07 - 46:10] Você tem que seguir as pessoas do Benete.
+[46:10 - 46:13] e reconhecendo o corpo, você fica mexendo
+[46:13 - 46:14] Ah, é verdade
+[46:14 - 46:16] Eles pagaram as músicas de pessoas famosas
+[46:16 - 46:18] Pagando ponto a uma cela
+[46:18 - 46:20] pelos movimentos
+[46:20 - 46:22] Pichou aspa que eu conheci
+[46:24 - 46:29] É uma ideia essa questão do aplicativo aí de fazer
+[46:29 - 46:35] Mas também, querendo ou não, a questão do videogame aí é mais pra brincar
+[46:35 - 46:41] Esse casete é para ensinar, a dançar e tal.
+[46:42 - 46:45] É bacana, é bacana. Desenvolver aí.
+[46:45 - 46:47] Depois a gente conversa sobre isso.
+[46:47 - 46:48] É uma ideia, né?
+[46:48 - 46:49] É uma ideia.
+[46:51 - 46:53] Cara, que eu já lembro.
+[46:53 - 47:00] Video game, além de ser algo para experimento, tem gente que lembra tão sério
+[47:00 - 47:24] É quase um trabalho, eu tenho uns amigos, eles fazem isso também, porque tem uns amigos que eles têm um grupo, não sei qual era o grupo, mas é um de RPG, tipo a Benaroc, aí eu lembro que eles estavam, eles tinham pegado o Vim, não poderem ser,
+[47:24 - 47:27] foi que uma build de personagem, que tipo...
+[47:28 - 47:34] era uma série de combinações de coisas, que tipo dava mais...
+[47:34 - 47:39] Erran, mais Buffy, que tipo aumentava a taxa de crítico,
+[47:39 - 47:42] ele tinha que fazer um cálculo pra...
+[47:42 - 47:45] quando dava de gano, não, foi assim caraca, mano,
+[47:45 - 47:47] eles tinham que fazer um cálculo pra conseguir fazer isso.
+[47:47 - 47:49] Que tem gosto da coisa, mano.
+[47:49 - 47:50] É, outra coisa.
+[47:50 - 47:51] É muito...
+[47:51 - 47:54] Isso é muito bacana no jogo.
+[47:54 - 48:01] Além de querer melhorar seu personagem, você fica tão...
+[48:01 - 48:04] ...ficiado não, mas é muito interessante isso.
+[48:04 - 48:09] Você busca outros métodos que não são muito bem relacionados a jogo.
+[48:09 - 48:11] E que podem te ajudar a foda da vida.
+[48:11 - 48:14] E que podem te ajudar a história também.
+[48:14 - 48:18] Que abrindo o jogo, que é uma arte muito bacana.
+[48:18 - 48:28] E galerinha, o Fortran, aí tu não...
+[48:28 - 48:30] Geralmente os bancos utilizam, né?
+[48:30 - 48:32] É, eu ouço falar que o banco utilizam também.
+[48:32 - 48:34] Ah, eu expliquei a oportunidade, não.
+[48:34 - 48:36] Mas, não, não, assim...
+[48:36 - 48:40] O físico usa o computador como situação de calculador gigante.
+[48:40 - 48:41] É.
+[48:41 - 48:42] Basicamente isso.
+[48:42 - 48:46] Pelo menos lá no começo dos anos dos dois mil, o que a gente fazia assim.
+[48:46 - 48:51] no máximo, matilábio, uma coisa assim, mas matilábio nem considera.
+[48:51 - 48:56] Então, eu nunca tinha feito um programa, por exemplo, como interface para o usuário.
+[48:56 - 49:01] Nunca tinha feito um programa que eu pensasse em outra pessoa que fosse usar aquele programa.
+[49:01 - 49:06] Os programas todos eram um executável, que você colocava um arquivo de dados na pasta,
+[49:06 - 49:10] ele consumia aqueles dados, cuspia a resposta do outro arquivo e pronto acabou.
+[49:10 - 49:16] Então, eu nunca me considerei até esse momento programador.
+[49:16 - 49:17] mas é muito isso, né?
+[49:17 - 49:19] Aqui o vozinho, tá?
+[49:19 - 49:20] A população.
+[49:20 - 49:27] Pegar os dados, resolver uma equação e gerar a resposta para fazer um gráfico, fazer
+[49:27 - 49:32] uma análise, um artigo, enfim.
+[49:32 - 49:34] Então minha experiência com Fortran foi essa.
+[49:34 - 49:40] Aí, como eu falei, quando fui pro Rio, teve esse incentivo para passar pro C, mas eu
+[49:40 - 49:43] estava muito acomodado no Fortran, acabou não acontecendo.
+[49:43 - 49:51] E aí ano passado comprei um livro de Python, comecei, e aí vem o Senac, deslanchei tudo.
+[49:51 - 49:57] Agora eu tenho Python, tenho um pouquinho de Java, um pouquinho de C e estou navegando aí.
+[49:57 - 49:58] Tá bom.
+[49:58 - 49:59] Agora vai estar bem.
+[49:59 - 50:01] Eu vou estar em casa.
+[50:01 - 50:04] Olha, apareceu aí o garanho mais do computador.
+[50:04 - 50:06] Já?
+[50:08 - 50:10] Galadinha!
+[50:10 - 50:12] Vamos lá!
+[50:12 - 50:14] Agora sim, deu certo!
+[50:17 - 50:21] Vou abaixar aqui pra gente poder... Eu escrevi um quadro, mas é melhor...
+[50:21 - 50:23] Eu tenho um programa aqui que eu...
+[50:23 - 50:26] que eu utilize pra gente ilustrar algumas ideias, né?
+[50:26 - 50:29] Vamos organizar nossa cabeça agora, né?
+[50:29 - 50:34] Eu preciso saber para que vocês possam entregar aí os bons resultados, né?
+[50:35 - 50:35] Então...
+[50:36 - 50:42] O que eu puder passar aqui para vocês eu vou passar para que vocês já tenham a cabeça e vocês aí...
+[50:42 - 50:45] Vamos procurar que as ideias tenham parte de vocês, né?
+[50:45 - 50:48] Eu tenho que só aprender a acender o fósforo.
+[50:59 - 51:00] Um...
+[51:04 - 51:05] Esse livro aí?
+[51:06 - 51:08] Ah, esse é o granulense médico.
+[51:08 - 51:09] O que é?
+[51:09 - 51:13] É um gato entre os pãobios. Eu acredito que é um tipo de suspense.
+[51:14 - 51:16] É que é isso, deve ser suspense.
+[51:18 - 51:22] Então, se meu pai gosta, os Leves da Sábana aqui?
+[51:22 - 51:28] Você gosta, você conhece a audiobook?
+[51:28 - 51:32] Já ouvi falar, mas não experimentei o serviço.
+[51:32 - 51:34] Quanto é, cara?
+[51:34 - 51:36] Acho que é R$16.
+[51:40 - 51:46] E aí você consegue ouvir audiobooks.
+[52:16 - 52:18] É o prato, é o prato de compra-tito.
+[52:18 - 52:20] Pra mim a minha arte é a academia.
+[52:20 - 52:22] Eu não gosto de academia, sabe por que?
+[52:22 - 52:24] Porque o cara vai sozinho,
+[52:24 - 52:26] eu particularmente fico desanimado, né?
+[52:26 - 52:28] Aí eu falo de CrossFit.
+[52:28 - 52:30] Aí o CrossFit é assim.
+[52:30 - 52:32] Tem uns horários das aulas corretas.
+[52:32 - 52:34] Quando você chega lá,
+[52:34 - 52:36] não precisa ser aquele louco
+[52:36 - 52:38] que pega um pedaço de medon
+[52:38 - 52:40] e não precisa não, faz louco ou não.
+[52:40 - 52:42] É mais tá em conjunto ali pra galera.
+[52:42 - 52:44] É.
+[52:44 - 52:53] Eu acho que é bom que eu só fico nas dois do lado, porque a galera que me acham de pessoa, justamente o próximo dia é para mim, eu gosto mais do que eu tinha feito ao lado, mas no início,
+[52:53 - 52:58] os primeiros meses que eu treinava, treinava com mais de duas pessoas, também, que eram os amigos mesmo, a reivê depois dos horários, para o de bater.
+[52:58 - 53:05] Para mim, eu gosto de treinar se solzinho, eu e meu fone, para mim, eu não te falo em próximo dia não.
+[53:05 - 53:10] Se for para fazer um exercício, eu volto para a academia de dança, a interagem.
+[53:10 - 53:14] O próprio James da Vemmo, o interaz.
+[53:14 - 53:21] O cara, durante a minha juventude eu praticava um muntar de Marcelo Vinha Terra com o campeonato brasileiro aqui na F1.
+[53:21 - 53:22] Quando criança, né?
+[53:22 - 53:26] Quando criança, eu fazia capoeira.
+[53:26 - 53:27] Eu não lembro de que isso foi.
+[53:27 - 53:32] Eu acho que a gente acaba de não achar a área que eu acho que se mexer e se mexer.
+[53:32 - 53:34] Cara, assim, que só não só se mexer.
+[53:34 - 53:36] E de aprendê também, porque assim...
+[53:36 - 53:43] Eu acho que com mais experiências, a gente tem mais contato com coisas diferentes a gente tem
+[53:43 - 53:46] A gente pode saber que o perigo gosta e a gente não gosta
+[53:46 - 53:49] Nunca comi girosa, todo mundo diz que é ruim
+[53:49 - 53:52] Fui lá comer e cheio bom, beleza!
+[53:52 - 53:56] Maravilha! Fui lá comer e cheio ruim, ótimo também, que eu sei que não vou comer mais
+[53:58 - 53:59] É importante, tá?
+[53:59 - 54:01] Olha, as experiências aí
+[54:01 - 54:02] Só pra testar o áudio aqui
+[54:02 - 54:04] Só pra testar o áudio
+[54:04 - 54:06] Eu amo essa música.
+[54:06 - 54:08] Meu pai é Rukê também.
+[54:08 - 54:10] Adoro o Ganso Rosa.
+[54:13 - 54:15] É uma música que já tava no meio.
+[54:17 - 54:19] Conhece essa banda o Ganso Rosa?
+[54:19 - 54:21] Ganso Rosa?
+[54:21 - 54:23] Ganso Rosa?
+[54:23 - 54:25] Deixa que ele engança, porque a sua minha parte que escuta.
+[54:25 - 54:27] Você pro show?
+[54:27 - 54:31] Eu conheço o Jump, eu conheço o...
+[54:31 - 54:36] É isso aqui ó, tá?
+[54:36 - 54:37] Muito bom.
+[54:37 - 54:38] Poxa, meu Deus, não, são 84.
+[54:38 - 54:41] Já dei esse livro, tem que...
+[54:41 - 54:46] Eu dei também o Revolução dos Bichos.
+[54:46 - 54:49] Olha, sobre o que fez com a lei da atração.
+[54:49 - 54:52] Não, não passa mais esse nome, tá?
+[54:52 - 54:56] O que é que é consciência de classe, brother?
+[54:56 - 54:59] O programador tá fazendo isso aí, tem que ganhar também.
+[54:59 - 55:04] A gente vai ser programador se a gente quiser no software tirado também, vai ser como?
+[55:04 - 55:06] Então, bora pagar o software.
+[55:06 - 55:11] É possível forforar o meu luto no piratear do NINI?
+[55:11 - 55:12] Exatamente.
+[55:12 - 55:14] Você conta aí, hein?
+[55:14 - 55:15] Ah, em pirata.
+[55:15 - 55:16] Não, porque tudo é cerrado.
+[55:16 - 55:17] Isso, e por daninho? Tem a luz?
+[55:17 - 55:22] O único que era no piratear também não vem nem necessidade, foi os dois columnéticos.
+[55:22 - 55:28] Foi no preço, o primeiro foi aí com desconto e o segundo, os caras lançaram o preço camarada.
+[55:28 - 55:30] Eu pensei que estava mais raro.
+[55:30 - 55:32] Ah, estava 90?
+[55:32 - 55:34] 100.
+[55:34 - 55:36] Eu tenho um fute...
+[55:36 - 55:38] Desbloqueado?
+[55:38 - 55:40] É doido.
+[55:40 - 55:42] Só baixo os jogos...
+[55:42 - 55:44] Graças que não preciso de nada.
+[55:44 - 55:46] Eu faz muito tempo que não tenho videogame.
+[55:46 - 55:48] Mas eu fico abismado que saiu...
+[55:48 - 55:50] um manual versão...
+[55:50 - 55:52] de um jogo de videogame.
+[55:52 - 55:54] Eu acho que é muito legal.
+[55:54 - 55:56] Eu acho que é muito legal.
+[55:56 - 56:03] um novo versão de Final Fantasy Tactics e de Tartix Over.
+[56:03 - 56:05] É do Calvary Velo.
+[56:05 - 56:10] Eu comprei esse CD no Camelô a R$ 10, 15,00, R$ 5,00.
+[56:10 - 56:14] O jogo está R$ 220,00, mas o donador não rouca,
+[56:14 - 56:16] não rouca, não rouca.
+[56:16 - 56:18] O bom é que o Brasil é peratário.
+[56:18 - 56:22] Mas o Factorio, que é um jogo que está sempre mesmo preço,
+[56:22 - 56:24] eles nunca dão desconto por princípios.
+[56:24 - 56:30] Eles falam, não, se a gente der desconto, a gente vai estar desfavorecendo a pessoa que comprou no preço cheio.
+[56:30 - 56:32] Então nunca vai ter desconto, e nunca eu tenho.
+[56:33 - 56:35] Comprei preço cheio no todo o menino.
+[56:36 - 56:38] 100 reais o jogo e 100 reais a expansão.
+[56:39 - 56:40] Comprei.
+[56:44 - 56:49] Você pode tirar o jogo da Steam e rodar no seu computador, jogar a plan sem problema,
+[56:49 - 56:54] problema, só colocar o código lá no site oficial deles, os desenvolvedores
+[56:54 - 56:59] estão sempre dando suporte, então, bora coiar.
+[56:59 - 57:05] E se a gente vai porque aí, é, outras pessoas vão querer fazer o mesmo.
+[57:05 - 57:09] É, e a consciência de class, então, é que eu quero trabalhar fazendo um jogo,
+[57:09 - 57:12] eu faço um jogo bacana e todo mundo não pira a feira.
+[57:12 - 57:14] Não vale a pena com a pessoa fazer o mesmo.
+[57:14 - 57:17] A pandemia, eu só jogava jogo no emulador.
+[57:17 - 57:19] É que eu colo aqui o braço, principalmente.
+[57:19 - 57:24] A terataria que deu a cultura para a gente, a cultura de sessão velha da terataria.
+[57:24 - 57:27] Eu conheço jogos da terataria.
+[57:27 - 57:28] Com certeza, com certeza.
+[57:28 - 57:30] Se a gente só tivesse essa sensação de quebrilhada.
+[57:30 - 57:32] Se a gente só está vendo um caso da terataria hoje em dia,
+[57:32 - 57:36] é complicado, esse jogo de Pokémon faz de red e tudo.
+[57:36 - 57:39] Você não tem que nem marcar um jogo, né?
+[57:39 - 57:42] Mas existe uma linha muito...
+[57:42 - 57:46] Eu acho que a partir do momento que a gente consegue ter uma condição
+[57:46 - 57:47] Isso é uma pergunta.
+[57:47 - 57:48] Eu distigui.
+[57:48 - 57:50] E quanto a gente é criança, não fala a diferença.
+[57:50 - 57:53] Pirata é jovem, pirata é livre, pirata é sófria, que fora.
+[57:53 - 57:57] Agora eu me pergunto, quantos copias piratas do GTA Sanctis?
+[57:57 - 57:59] Não é, não é.
+[57:59 - 58:02] GTA Sanctis é mais exato.
+[58:02 - 58:04] Vamos para a parte.
+[58:04 - 58:06] Vamos, vamos para a parte.
+[58:06 - 58:07] Bora, bora, bora.
+[58:07 - 58:09] Bora, depois você tem um morso com gerame.
+[58:09 - 58:13] Ah, beleza.
+[58:13 - 58:20] Se você puder ver, temos um bom que te dá.
+[58:20 - 58:25] Se a gente tiver saúdo, não, está apenas agora, não?
+[58:25 - 58:29] É bom que te dá, pessoal.
+[58:29 - 58:34] Ele vai sempre se comunicar com a nossa aplicação.
+[58:34 - 58:37] Você já sabe o que é back front end?
+[58:37 - 58:39] Sim.
+[58:39 - 58:49] É responsável pelo Backend. Você já sabe o porquê que tem essa arquitetura hoje,
+[58:49 - 58:53] Backfrontend. Sabe porquê que surgiu?
+[58:53 - 58:56] Da história não.
+[58:56 - 58:58] Da história não, né?
+[58:58 - 59:05] Ok. Certo. É...
+[59:05 - 59:15] O seguinte, é isso aqui pessoal, é uma arquitetura, na verdade, nos anos 2000 ali, surgiu a arquitetura
+[59:15 - 59:19] Racheful, né? API.
+[59:19 - 59:28] E aí existe os methods HTTP, que é o protocolo HTTP de transferência de perteixos,
+[59:28 - 59:32] os protocolos GAT, POS, POD, DELITE, PREV, FID, REL e tal.
+[59:32 - 59:37] E aí o que aconteceu? Antigamente essas aplicações eram monolíticas.
+[59:37 - 59:43] Como assim, professor? Quer dizer, a aplicação era ficava, era de um banco de dados dela,
+[59:43 - 59:48] só que ela ficava em um conjunto só. Por exemplo, era aqui, ó, dentro de um arquivo
+[59:48 - 59:57] de programação, ficava, por exemplo, o PHP, que é um linguagem de programação, ou o Java, ou o Java.
+[59:59 - 60:05] E aí, o mesmo arquivo ficava HTML, o CSS, o que já eu escrevi.
+[60:05 - 60:06] Tudo junto.
+[60:06 - 60:10] No mesmo arquivo, no mesmo projeto, mesmo arquivo.
+[60:10 - 60:20] E aí isso fazia o que? Quando a pessoa ia visitar essa página, seu navegador, ela praticamente
+[60:20 - 60:26] executava o PHP ou Java, o boot aqui pode ser outras linguagens também, mas junto com
+[60:26 - 60:34] essa e com essa e com essa. E aí pesava muito. Às vezes a internet ali barchava muita coisa,
+[60:34 - 60:46] e aí pessoal, existia com essa comunicação de HTTP que é o protocolo transferência de pertexto
+[60:46 - 60:53] a gente fazia uma comunicação, tinha essa aplicação aqui, vamos dizer que essa aplicação é o que se diz no Senac
+[60:53 - 60:59] e aí outras empresas tinham outras aplicações e era do mesmo jeito
+[60:59 - 61:01] sei lá, esse aqui vamos mudar aqui com o Python
+[61:03 - 61:04] certo?
+[61:04 - 61:07] era desse jeito, com o gato em metro tudo junto mesmo
+[61:08 - 61:10] imagino como é que compilava esse negócio
+[61:10 - 61:11] é bem...
+[61:11 - 61:12] muito chatinho
+[61:13 - 61:15] e aqui, geralmente era...
+[61:15 - 61:17] vamos dizer que o seguinte...
+[61:19 - 61:24] Cielo, com essa Cielo todo mundo, que é o que é a estúdica de cartões de crédito, de empresa, né?
+[61:24 - 61:25] sim
+[61:25 - 61:26] pronto
+[61:26 - 61:28] e aí era desse jeito, né?
+[61:28 - 61:38] E aí, para a gente poder fazer um pagamento aqui no Sennac, no sistema, a gente fazia a comunicação via RESTful com HTTP para a Cielo
+[61:38 - 61:42] para confirmar os dados do cartão e ver se ele tinha limite para passar.
+[61:43 - 61:45] É isso aí, desse jeito.
+[61:45 - 61:47] VeeRestful e HTTP.
+[61:48 - 61:51] Só que aí em 2000, o Roy fez o seguinte.
+[61:51 - 61:55] Claro que foi ele que fez o estudo, né?
+[61:55 - 62:03] essa parte aqui e aí ele fez essa arquitetura com os métodos get, post, todo delete.
+[62:08 - 62:18] Cada função dessa aqui ela percebeu o propósito e aí depois veio um outro arquiteto e fez o seguinte,
+[62:18 - 62:24] vamos separar isso aqui, vamos fazer um monoloítico, vamos fazer encamadas e aí a gente tem a camada do banco,
+[62:24 - 62:31] com a chamada do BackEnd, aqui é onde está o VHP ou Java,
+[62:32 - 62:39] está claro que é diferente, ou Python, qualquer linguagem assim pode ser a tecnologia que vocês quiserem,
+[62:39 - 62:44] só que essa tecnologia aqui ela vai se comunicar com a base de dados, e ela vai gerar um link, sei lá,
+[62:44 - 62:53] a pi.senac.combr, essa aqui vai ser a API, né, e a gente tem um front-end hospedado aqui no Senac mesmo
+[62:53 - 63:02] para as pessoas visitarem. O front-end aqui ele está com as tecnologias de HTML, CSS e
+[63:02 - 63:10] JavaScript. Então, tecnologias que eu se comunique com o banco de dados, faz regras de negócio,
+[63:10 - 63:15] está aqui ó, é o back-end, ela se comunica com o banco. E o front-end está só essas três
+[63:15 - 63:21] aqui ó. Então quando o usuário baixa ele faz a visita na página é muito rápido.
+[63:21 - 63:28] porque só vem essas 3 tecnologias aqui, ele nem faz conexão com o banco ainda, só você vai ver necessidade
+[63:29 - 63:38] E aí pessoal, com isso, reduz a questão de carga no celular, na internet, na banda larga
+[63:39 - 63:41] Fica bem leve, fica bem leve mesmo, tá bom?
+[63:42 - 63:46] Então, a gente tem o back e o front, tá?
+[63:46 - 63:51] E aí essas dois aqui se comunicam e viram o que?
+[63:51 - 63:55] Fear Arrest for API, que é o protocolo HTTP.
+[63:55 - 63:57] Esses dois aqui se comunicam dessa forma.
+[63:57 - 63:59] Saia?
+[63:59 - 64:01] Beleza?
+[64:01 - 64:03] Toda a gente vai fazer uma aplicação,
+[64:03 - 64:05] fazer uma aplicação dessa,
+[64:05 - 64:08] a gente geralmente registra no registro.br.
+[64:08 - 64:09] Vocês já conhecem?
+[64:09 - 64:10] Não.
+[64:10 - 64:11] Conece, não?
+[64:11 - 64:13] Por exemplo, senac.com.br.
+[64:13 - 64:15] Vamos ver se alguém entra no espy2 site.
+[64:15 - 64:19] Não disponível para registro, quer dizer, alguém é dono desse.
+[64:19 - 64:21] Ah, certo. Isso é para checar se o domingo está sendo usado ou não.
+[64:21 - 64:31] Isso, tá bom? Então, para você poder, se eu estivesse disponível aqui, eu poderia registrar e pagaria 40 reais anual.
+[64:31 - 64:37] Uma vez por ano, só. Então, seria meu. Eu poderia vender por 10 mil reais, 20 mil, e que eu ia se comprar.
+[64:37 - 64:44] teve um ano desse que o Google não registrou o domínio
+[64:44 - 64:46] aí ele foi e ele trocou
+[64:47 - 64:51] só que acaba perdendo né porque o Google é uma empresa grande
+[64:51 - 64:53] tem a divulgar pra ele estar lá
+[64:53 - 64:56] e aí como é que a gente sabe?
+[64:56 - 64:59] Always the mind, de quem é o domínio
+[64:59 - 65:02] registra o ponto BR, vamos ver de quem é esse domínio aqui
+[65:02 - 65:04] Aqui, All In The Mind.
+[65:04 - 65:06] Vamos lá, vamos voltar aqui para o Senag.
+[65:10 - 65:13] Olha aqui, o serviço nacional de aprendizagem com métseos.
+[65:13 - 65:14] Senag.
+[65:15 - 65:18] Temos aqui, diarense de tecnologia, informação.
+[65:20 - 65:23] Então, é um CMPJ, está bom?
+[65:23 - 65:26] Foi criado em 2002.
+[65:26 - 65:33] Vamos ver como ele dá aqui.
+[65:33 - 65:38] Não dá e nada.
+[65:38 - 65:41] Mas por que geralmente o Senac é outro domínio aqui?
+[65:41 - 65:44] Mas o cara só registrou o domínio para acedir um dele.
+[65:44 - 65:49] E está aqui, veja, o ençamento.
+[65:49 - 65:51] Ele se inspira, sabe quando?
+[65:51 - 66:21] E quando chegar no mês 10, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
+[66:21 - 66:24] do exo que é da Microsoft
+[66:25 - 66:30] e aí pessoal, esse aqui é para registrar o domínio
+[66:30 - 66:33] beleza, é só registrar o domínio professor, que é meu e tal
+[66:33 - 66:37] por exemplo, o meu aqui, mbtdesigns.com.br
+[66:37 - 66:40] uu, quem é? aí ele não acha
+[66:40 - 66:43] tá vendo aqui, ó, inspirado
+[66:44 - 66:48] vai inspirar aqui, né, mesmo, bom?
+[66:48 - 66:52] Temos de outro aqui, qual que é cola?
+[66:52 - 66:56] ponto com o brr, olha aí ó
+[66:56 - 67:00] sai?
+[67:00 - 67:02] quer usar?
+[67:02 - 67:06] E é isso, existe outros sites que registram o domínio e existem sim
+[67:06 - 67:09] mas esse aqui é o brr, né?
+[67:09 - 67:12] Ah, eu quero registrar o meu domínio, Mácio,
+[67:12 - 67:16] aí é de Mácio, acho que nem tem né, porque aí de Mácio é difícil de achar
+[67:16 - 67:23] Ele não encontrou, é novo, não está aqui.
+[67:23 - 67:27] É disponível.
+[67:27 - 67:36] E às vezes quando é algum macho ferreira, não está disponível, de quem é, às vezes
+[67:36 - 67:40] a galera compra só para vender, mas não tem nada.
+[67:40 - 67:47] E aí o que acontece?
+[67:47 - 67:49] A crise do ponto com.
+[67:49 - 67:52] Ele oferece aqui ó, você agro, né?
+[67:52 - 67:56] API, API, aí tem deve aqui ó.
+[67:56 - 68:00] Cadê a segurança?
+[68:00 - 68:04] Acho que já levaram, Deck.
+[68:04 - 68:05] Deck, né?
+[68:05 - 68:06] X, Y, Z.
+[68:06 - 68:07] É, é.
+[68:07 - 68:12] é nem o deve tem mais
+[68:12 - 68:16] não será?
+[68:19 - 68:21] olha aí
+[68:21 - 68:25] fala aí
+[68:25 - 68:28] salve Marte Ferreira deve
+[68:28 - 68:31] estava ligando aqui, tá
+[68:31 - 68:35] aí vamos ver de quem é
+[68:35 - 68:50] O Marcio Alexandre de Silva Ferreira aí foi registrado agora, não alterado né? Foi registrado agora, meio de seis ó.
+[68:50 - 68:54] Então da última vez que deu essa rola se tu usou o mesmo exemplo ainda tinha.
+[68:54 - 68:58] É, é a primeira vez que eu estou na lista.
+[68:58 - 69:02] Tem um e-mail ali para tentar negociar com o cara.
+[69:02 - 69:04] É, para tentar negociar, né?
+[69:04 - 69:06] É, ele é o Março, é a ECF.
+[69:06 - 69:12] Então, galerinha, eu acho que está a verdade, porque o DNS aqui está proibindo.
+[69:12 - 69:15] Eu não sei porquê.
+[69:15 - 69:18] Então, galera, esse é o ponto, sabe?
+[69:18 - 69:23] E aí, quando a gente ir a gente do domínio, a gente tem que ir a contar com um servidor, né?
+[69:23 - 69:25] Então vamos lá.
+[69:26 - 69:28] Todo computador,
+[69:29 - 69:32] todo dispositivo conectado à internet,
+[69:32 - 69:34] ele tem um seu IP, sabe?
+[69:35 - 69:38] Aqui, aqui, eu, geralmente, eu tinha um 10M aqui de,
+[69:38 - 69:41] dos, vamos dar aqui mais formas aqui,
+[69:42 - 69:44] ative direto ali.
+[69:45 - 69:47] Pode ser a Tância,
+[69:50 - 69:52] 3C4,
+[69:53 - 70:20] Se você observar na nossa casa, temos os aparelhos.
+[70:23 - 70:29] E aí temos também um rootador, rootador nele aqui, acho que é esse aqui ó, database, gout,
+[70:29 - 70:32] bomb database,
+[70:34 - 70:36] passar o dia procurando o pino,
+[70:37 - 70:40] uns dos nossos telefonios,
+[70:43 - 70:45] internet.
+[70:53 - 71:22] E aí, geralmente é assim, a gente está na nossa casa, temos os aparelhos da internet
+[71:22 - 71:29] Temos o nosso ruteador, o nosso ruteador e aí pessoal, a gente tem um post, né?
+[71:29 - 71:40] O que acontece?
+[71:40 - 71:44] O fio do post vai para o nosso ruteador.
+[71:44 - 71:51] O nosso ruteador possui um fio que pode pronotar o que eu não e aí ele é o Wi-Fi, né?
+[71:51 - 71:58] A cada aparelho dele tem um IP, que é o identificado como se fosse um cpf, mas pode mudar, né?
+[71:58 - 72:11] 9216.0.2, ele tem um sequencial, o roteador sempre vai ser 1, 9216.0.1
+[72:11 - 72:13] Isso é lógico, né?
+[72:13 - 72:20] E aqui vai ser o 3. Aí cada vez que vai chegando no aparelho, ele vai aumentando o número, né?
+[72:20 - 72:23] Então é assim que funciona.
+[72:23 - 72:26] Estou identificado de cada aparelho na rede.
+[72:26 - 72:33] Se chegar uma visita lá em casa e conectar, ela se conectar na internet, vai gerar outro IP para ela, se é condicional.
+[72:33 - 72:37] O 4, o 5, o 6, o 7, o 8. Beleza?
+[72:37 - 72:44] E aí aqui é o post, né? O post mesmo lá. Aí o post de gente tem o quê? Ele vem dos proveedores.
+[72:44 - 72:49] Os proveedores de internet, né? Então eles que...
+[72:49 - 72:52] investir um lá pra toda a fibra óptica
+[72:52 - 72:55] passar pelos postos até chegar na nossa casa
+[72:55 - 72:57] E aí pessoal
+[72:58 - 73:00] Esse provedor
+[73:00 - 73:02] ele
+[73:04 - 73:07] Angola Cable, conhece a Angola Cable?
+[73:08 - 73:09] Conhece não?
+[73:11 - 73:14] Presa daquele prato futuro agora, não, Angola Cable
+[73:19 - 73:21] Sabe o que é isso aí vocês?
+[73:21 - 73:23] Cabinho
+[73:23 - 73:25] Cabinho né?
+[73:25 - 73:27] Vai fazer um...
+[73:27 - 73:29] A conexão R, J, 40
+[73:31 - 73:33] O nome não é de C
+[73:33 - 73:35] Backbones
+[73:35 - 73:37] É?
+[73:37 - 73:39] Nossa, não há fodeca aí muito
+[73:39 - 73:41] Não, não
+[73:41 - 73:43] Só fala o que é lá
+[73:43 - 73:45] Backbone
+[73:45 - 73:47] Significa espinha do sal
+[73:49 - 74:15] E aí eles ficam soltando até chegar em outra continente.
+[74:15 - 74:33] E aí pessoal, aqui são os backponds, então se você puder observar, às vezes você fica
+[74:33 - 74:41] pensando assim, internet não é complicado, porque o proveidor aqui, quando a gente coloca
+[74:41 - 74:50] liga na internet, aqui tá lá nuvem, tem nada de nuvem, né? É tudo cabeado, é tudo cabeado,
+[74:50 - 75:02] é tudo a cor mais feira do mundo, é tudo gambiar, um arfeio de cabo e tal, certo? E aí lá,
+[75:02 - 75:11] Quando chega lá no outro país, no outro continente, aí de novo começa, é um proveedor,
+[75:11 - 75:16] do proveedor passa o porte, o porte, passa o poteador, o poteador libera a casa.
+[75:16 - 75:19] Beleu? Simples, né?
+[75:19 - 75:20] E o dado está simples.
+[75:20 - 75:22] O que? E o dado está simples.
+[75:22 - 75:24] Eu já me perguntei, o que é que ele é?
+[75:24 - 75:27] Ele já metiu IP, vai pro servidor, né?
+[75:27 - 75:28] Vou estar simples, né?
+[75:28 - 75:30] Não é?
+[75:30 - 75:31] É.
+[75:31 - 75:33] A gente é só de marro que tem data center.
+[75:33 - 75:34] Como é, filho?
+[75:34 - 75:37] Tem data center, porque não é onde a gente é.
+[75:37 - 75:43] Tem aqui nos provedores, entendeu? Aqui na Angola Cable da Tessenta.
+[75:43 - 75:46] Que é a Angola Cable.
+[75:46 - 75:49] Oh, deep connection, tá vendo?
+[75:49 - 75:54] Oh, da Tessenta, entendeu?
+[75:56 - 76:00] Tem um aluno meu que foi condasar pra lá pra ser um provedor.
+[76:01 - 76:10] É muito poder, né? Que é muito massa, né? Você tá trabalhando num projeto grande desse aqui, que a galera conecta,
+[76:10 - 76:20] você consegue derrubar todo mundo, tu quiser. Vai ficar sem internet, tu as ganhadas. Aí, ó, a galera começa a perder dinheiro e tudo e a galera fica louca.
+[76:20 - 76:24] Aí você marcha o surfoda.
+[76:24 - 76:34] Você adora se na Amazon você pudesse ter a seu site net a satélite?
+[76:34 - 76:49] E aí galera, proveedores, aqui proveedores do state, vamos botar aqui o USA, Estados Unidos
+[76:49 - 76:56] É uma coisa que eu fiquei surpreso.
+[76:56 - 77:03] Teve caju um homem que conseguiu ser preso no Brasil pelo chá de GP inteiro.
+[77:03 - 77:05] Ah, quero ouvir isso.
+[77:05 - 77:15] A OpenEye viu isso, as conversas dele, falou com ele, ficou com o FBI,
+[77:15 - 77:21] O FD foi diérico de algum estado no Brasil para ficar com a polícia.
+[77:21 - 77:23] Você não sabe o tempo de alunos assim?
+[77:23 - 77:25] Não entendo algum crime.
+[77:25 - 77:27] O que você está fazendo?
+[77:27 - 77:28] Eu não sei.
+[77:28 - 77:29] Você está babarando?
+[77:29 - 77:30] Você acha que é...
+[77:30 - 77:33] O meu chaiate observa tudo que me faz.
+[77:33 - 77:36] É que os caras ficaram aprendendo o que é referente da gente e faz.
+[77:36 - 77:37] Mas não vê tudo que é bom.
+[77:37 - 77:38] Não.
+[77:38 - 77:39] Não.
+[77:39 - 77:40] Não.
+[77:40 - 77:40] Não.
+[77:40 - 77:41] Não.
+[77:41 - 77:41] Olha.
+[77:41 - 77:43] E aí o que acontece?
+[77:43 - 77:49] Então é tudo conectado, né? Aqui eu vou dizer que aqui eu vou ser o proveiro da Google.
+[77:49 - 77:53] Eu quero hospedar meu site na Google.
+[77:53 - 77:58] Se você puder ver aqui, pessoal, são endereços de IP locais.
+[77:58 - 78:01] Quer dizer, só a gente reconhece a nossa casa.
+[78:01 - 78:07] Mas existe um serviço dentro do roteador chamado NAT, que ele converte esse número de IP
+[78:07 - 78:13] para o número de IP público que é da internet, que é aí que todo mundo reconhece
+[78:13 - 78:25] e esse IP aqui, geralmente começa com 200, 80, 10, 20, tá?
+[78:25 - 78:29] Esse aqui é o IP de internet, quem é aqui que é da IP?
+[78:29 - 78:34] É principalmente os provedores lá com a Angola Cable, por exemplo, esse computador aqui
+[78:34 - 78:39] Você vai poder dar aqui a IP publico da faculdade
+[78:43 - 78:45] Olha, o IP publico da faculdade
+[78:46 - 78:50] É isso aqui, mas qual é o IP desse computador, professor?
+[78:50 - 78:54] Vou abrir aqui o próprio comando e vou colocar aqui
+[78:56 - 78:58] IP config
+[78:59 - 79:01] E aí eu tenho aqui
+[79:01 - 79:06] Então eu estou indo embora pessoal, olha.
+[79:06 - 79:14] Olha, o DSP V4, mas com 10, 10, com 2, porque é um padrão que eles escolheram,
+[79:14 - 79:24] só que aqui dentro é assim, é assim, agora se eu for o NAT,
+[79:24 - 79:30] ele converte SP para esse aqui, quando você vai ver os outros sites.
+[79:30 - 79:37] Próxima pergunta, é muito fácil outra pessoa conseguir descobrir o seu IP?
+[79:37 - 79:38] Descobrir?
+[79:38 - 79:39] Sim.
+[79:39 - 79:45] É fácil, por que assim? Por exemplo, se quanto a acesso a outras coisas as pessoas têm
+[79:45 - 79:51] atitude, têm que saber o IP de origem. Então eu gosto de fazer com um P, quem não
+[79:51 - 79:56] sai de com o PHP, coloca um inscripo para saber o teu IP. Aí eu faço se eu ia se for
+[79:56 - 80:00] e as suas pernas e faz assim, aí ful, acessei pra tu ver como era legal
+[80:01 - 80:05] o acesso da captura e teu IP, entendeu?
+[80:05 - 80:08] Então você dá muito magia pra golpe, né?
+[80:08 - 80:14] É, mas tipo assim, todo saído que tu acessa, a galera já não me desape do IP, né?
+[80:14 - 80:21] Você me engana, eu vi um golpe, era do Bloodsuck, e que a pessoa, ela...
+[80:21 - 80:26] E um link, só com o link, ela retorna os atrogados, tá de banco, essas coisas.
+[80:26 - 80:27] Eu sei.
+[80:27 - 80:32] Então, a versão do que ela sabe, a letra roubando, que é aquela clima que aparece, ele é o cara que tere não perca.
+[80:32 - 80:34] Gente, o senhor.
+[80:34 - 80:40] A pessoa coloca vários nesses, desse mesmo jeito, com uma inscreta que rouba, um IP.
+[80:40 - 80:43] Aí acaba conseguindo os dados e disse tu que me calou errado.
+[80:43 - 80:44] Caraca!
+[80:44 - 80:49] Tipo assim, ele escreve Google, só que se você bate o ordem, tá escrito um certo,
+[80:49 - 80:53] mas como os carácteres é trocado, a máquina entende que o damo é o mesmo
+[80:53 - 80:56] e o cara consegue hospedar um servidor que visualmente
+[80:56 - 81:00] tá idêntico do Google, mas tem um scriptzinho ali
+[81:00 - 81:04] aí o cara pode só fazer, tipo assim, até copiar o próprio project e eu vim fazendo nada
+[81:04 - 81:07] ó, pra quem já viu um phishing
+[81:07 - 81:09] ó, isso é que o linkar já era
+[81:09 - 81:12] aqui ó, aqui ó, é o do Google, sabe?
+[81:12 - 81:16] é o que é o Google, que é o impendês local e que é o do Google, que é o do PPUB
+[81:16 - 81:19] Como eu aceito o IP do Google, professor?
+[81:19 - 81:25] Eu vou aqui no pronte, passando aqui, ping.go.com.br
+[81:25 - 81:28] Eu acho que eles estão usando o IPv6 agora.
+[81:28 - 81:32] IPv6, que é uma nova forma de IP.
+[81:32 - 81:37] Um site 2, esse é o IP do Google público.
+[81:37 - 81:40] Se eu pegar esse IP aqui, eu vou copiar ele, copiar ele.
+[81:40 - 81:42] O que é isso? Contra o C.
+[81:42 - 81:44] O que é o navegador? Cola aqui.
+[81:50 - 81:52] O professor, como é que o seu nome deu certo?
+[81:52 - 81:54] Se você mudar o IP para 132,
+[81:56 - 81:58] talvez eles estão usando.
+[81:58 - 82:00] Vou juntar aqui para 120.
+[82:02 - 82:04] Confra nos 250.
+[82:04 - 82:08] O testando é que o seu nome está aqui para ver se eu estou certo.
+[82:10 - 82:12] Eu vou abrir aqui...
+[82:17 - 82:21] O Google, né? Agora a gente tem P, 2 pontos, barra, barra...
+[82:21 - 82:23] Eu quero mudar.
+[82:26 - 82:28] Tá 100.
+[82:29 - 82:31] Tá aí pro Google.
+[82:31 - 82:33] Mas tá estranhando pra ir no Google.
+[82:33 - 82:38] Tá 200 pontos, 1,6, 7 pontos, 10, 8, 10, etc.
+[82:40 - 82:43] Agora sim, olha. Ele não achou.
+[82:44 - 82:46] Esse P aqui não sabe nem de quem é.
+[82:46 - 82:49] Vamos para o outro, vamos para o outro.
+[82:52 - 82:55] Pinde Amazon.com.br
+[82:55 - 82:57] Inclusive, todo...
+[82:57 - 83:00] chamou um funcionado do inclinião.
+[83:00 - 83:04] E ele tinha um P específico para...
+[83:04 - 83:07] alguns salvos específicos da internet.
+[83:07 - 83:15] E aí porque, geralmente, o cara que fez o Jysai, ele não criou um domínio pra puta,
+[83:15 - 83:17] porque o domínio aqui deixa mais simples.
+[83:17 - 83:22] E aí, mais dois, a gente decorasse, e aí, mas qual o IP que o sai do Google?
+[83:22 - 83:25] Botei 200, e qual o preço do Facebook?
+[83:25 - 83:27] Você é igual pela lista telefone.
+[83:27 - 83:28] É, é, você é louco.
+[83:28 - 83:29] Entendeu?
+[83:29 - 83:35] Então eu gosto de ter, e tanto pelo IP e tanto pelo link, né?
+[83:35 - 83:36] É.
+[83:36 - 83:44] Aí, quando a gente pede o nosso projeto, esse projeto aqui, a gente pede aonde?
+[83:44 - 83:49] Nos computadores da Google, ele vai ter os computadores dele aqui, que são aqui, os
+[83:49 - 83:57] make frames e tal, a gente pede aqui, todo esse projeto a gente paga e paga para
+[83:57 - 84:03] a gente pede, porque lá, no escritório deles, tem a condicionada, refrigeração, tudo,
+[84:03 - 84:07] Ficam ligados 24 horas os computadores
+[84:07 - 84:09] Eu posso hospedar um site em quiloso nessa parte? Não pode
+[84:11 - 84:12] Mas caso que eu faça o que?
+[84:12 - 84:14] Desligou o site caiu
+[84:14 - 84:17] É desligou o site caiu, mas tem que estar ligado
+[84:17 - 84:20] Tem que ver se realmente a sala é para o Prevind Sente
+[84:20 - 84:24] Tem que ter um centro de redundância, backup
+[84:25 - 84:26] E aí pessoal
+[84:27 - 84:28] E aí
+[84:29 - 84:32] E outra coisa, o principal, segurança
+[84:32 - 84:38] Porque com segurança, temos os ataques do roteador, né?
+[84:38 - 84:39] É como você diz, tipo assim.
+[84:39 - 84:41] Ah, para o seu, eu faço para cá.
+[84:41 - 84:44] É, mas não é fácil atacar, não. Só se tu desemetra o verdadeiro.
+[84:44 - 84:51] Só se tu for acessar o teu roteador com senha, desbloquear portas de protocolos.
+[84:51 - 84:53] Existe as portas de protocolos?
+[84:53 - 84:55] Choder.
+[84:55 - 84:56] É.
+[84:56 - 84:59] Aí faz isso.
+[84:59 - 85:02] Mas depois que eu coloco os dados aqui,
+[85:02 - 85:07] O Google vai dizer o seguinte, olha, o IP é esse, aí eu pego esse IP público dele aqui
+[85:07 - 85:09] e jogo aonde?
+[85:09 - 85:11] Eu coloco lá
+[85:11 - 85:13] num registro .br
+[85:13 - 85:15] Então eu digo o seguinte, olha
+[85:15 - 85:20] quando eu acessar em master, .br, .lmaster
+[85:21 - 85:23] .com.br
+[85:23 - 85:26] eu quero que você aponte para esse IP
+[85:26 - 85:29] É desse jeito que funciona a pedale
+[85:29 - 85:31] É isso que ele enhece?
+[85:32 - 85:38] Domain Name Server
+[85:38 - 85:44] Como é tratado IP na China?
+[85:44 - 85:48] Não, é normal, não é uma coisa.
+[85:48 - 85:53] Onde foi que surgiu até aí a questão de IP?
+[85:53 - 85:59] Não sabe o que diz, mas tudo não tem esse negócio não.
+[85:59 - 86:29] Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não
+[86:29 - 86:35] que você vai estar acessando o Mario, então é para aquele P, aquela pasta ali que é os arquivos dele.
+[86:36 - 86:37] Então é isso.
+[86:38 - 86:43] Tudo, não tem nem quantidade de cabeça, tudo é serviço hoje, é tão simples colocar no A,
+[86:44 - 86:52] você for ver o que vocês têm hoje é o que, ter que montar um projeto, tem bobo de dados ali,
+[86:52 - 86:56] Ali tem, pode envolver, mas que a gente tem toda a internet,
+[86:56 - 87:00] e a nossa favor com essa simplicidade, né?
+[87:00 - 87:03] Aí, pessoal, sobre questões de...
+[87:03 - 87:06] A gente consegue distrinchar toda a internet, o cenário,
+[87:07 - 87:09] de como é que funciona nesse desenho aqui.
+[87:10 - 87:11] Aí, questões de quê?
+[87:12 - 87:14] Que são portas, né?
+[87:14 - 87:16] Os IPs, sabe, mas são portas ali.
+[87:17 - 87:19] São praticamente legenas,
+[87:19 - 87:21] brechas de entrada.
+[87:21 - 87:27] As vezes você precisa deixar uma porta aberta para poder chegar a uma solicitação.
+[87:27 - 87:33] Por exemplo, geralmente para a site, como eu hospedei ele no Google, ele deixou aqui uma porta aberta.
+[87:33 - 87:35] Qual é a porta que ele deixou?
+[87:35 - 87:38] Possivelmente a porta aberta que ele deixou aqui, olha.
+[87:38 - 87:42] Foi a porta 8080.
+[87:42 - 87:48] 80, desculpa. 80 e 443, que é de segurança aí.
+[87:48 - 87:54] de HTTPS. Ele deixou essas duas numerações de aberto.
+[87:54 - 87:55] Mas por que, Prusso?
+[87:55 - 87:59] Que eu só consigo acessar o meu site quando ele deixou esse aqui aberto.
+[87:59 - 88:04] Essas são as duas portas padrões para que eu acesse o site.
+[88:04 - 88:05] Então, como é que funciona?
+[88:05 - 88:10] Funciona assim, ó. É praticamente o IP dele, o IP...
+[88:12 - 88:15] ...dois pontos com a porta no final.
+[88:15 - 88:17] E a outra.
+[88:17 - 88:21] 4x3, olha aí, sai?
+[88:21 - 88:25] Essas são as portas abertas para a necessidade de um site principal?
+[88:25 - 88:27] Não, um site principal.
+[88:27 - 88:29] Ah, um site principal.
+[88:29 - 88:31] Não precisa poder ser acessado e precisam ter essas portas abertas.
+[88:31 - 88:35] Preciso ter essas portas abertas. Por exemplo, se eu quiser aqui, se eu quiser a seguinte, eu quero hospedar o site aqui.
+[88:35 - 88:43] Aí eu tenho que ir lá no roteador aqui, por exemplo, a gente não viu que o IP dessa máquina aqui não é a...
+[88:43 - 88:50] O IP config, né?
+[88:50 - 89:04] Ó, na 10, 18, 17, lembra que eu falei aqui ó, que a gente, vamos dizer que é igual
+[89:04 - 89:08] a Senac, eu tô nesse computador aqui ó, o IP desse aqui ó, e sempre o root é doel,
+[89:08 - 89:14] Se me p were mais com mais 1, talvez com mais com 0, dependendo do cara de redes aqui.
+[89:14 - 89:18] Vou pegar esse P aqui, copiei e vou jogar aqui.
+[89:22 - 89:24] Esse P é próprio dessa máquina.
+[89:27 - 89:29] Vamos mudar aqui para 1.
+[89:29 - 89:39] Vamos ver se ele bloqueou, pode ter bloqueado, estou segurando, porque aqui tem um coletivo
+[89:39 - 89:40] que está segurando, entendeu?
+[89:40 - 89:43] Está vendo que está demorando?
+[89:43 - 89:50] Vamos mudar pra zero.
+[89:50 - 89:55] Outra coisa, ele botou 18 aqui, 18 é o subgrupo.
+[89:55 - 89:57] Vamos mudar aqui, ó.
+[90:05 - 90:07] Assim a gente acessa o roteador.
+[90:07 - 90:08] Acessa o roteador.
+[90:08 - 90:10] Entendeu?
+[90:10 - 90:12] Então, gente,
+[90:13 - 90:15] possivelmente, tá vendo que é o último IP, ó.
+[90:15 - 90:17] Gat e padrão.
+[90:17 - 90:19] Pegar esse Gat porque ele deve ter mudado.
+[90:19 - 90:22] O 2 GB que o IP você descobriu é o caso do usuário.
+[90:22 - 90:29] Glucuio 34, tá vendo?
+[90:29 - 90:34] Você esticado, quer dizer que é bloqueado?
+[90:34 - 90:38] Aqui é pro gribate aí, mas tá fazendo um clipe.
+[90:38 - 90:44] E aí pessoal, só que hoje em dia, se você não ver o que você é vado tem,
+[90:44 - 90:51] Antigamente, antigamente, a gente controlava serviço de internet e os caras falavam assim ó,
+[90:51 - 90:59] vou ir vela, eu acho que, ó, o acento do roteador é admin e a senha é admin.
+[90:59 - 91:04] A gente teve, tinha acesso ao nosso roteador, hoje em dia os proveedores estão fazendo o que?
+[91:04 - 91:10] Não dão mais o login senha, eles te dão o roteador de graça ali, na assinatura,
+[91:10 - 91:12] mas eles não estão assim.
+[91:12 - 91:17] Se o que você pedir alguma coisa para liberar algum porto, tem que ligar para eles e eles liberam de lá.
+[91:17 - 91:20] Principalmente para as suas segurança, né?
+[91:20 - 91:23] Mas era bom antigamente, era mais liberar.
+[91:23 - 91:27] Em 2022 eu contratei um serviço de internet da Claro que eu tinha acesso ao roxador.
+[91:27 - 91:33] Em 2024 eu me mudei, contratei o serviço de internet de novo, não tem mais acesso ao roxador não é?
+[91:33 - 91:35] Não pode mais mexer no mundo de andô.
+[91:35 - 91:45] O que você podia fazer com a acima do roteador?
+[91:45 - 92:00] O roteador é que te dá acesso a as configurações de férias, principalmente o programa que protege você no seu computador do mundo.
+[92:00 - 92:05] Então, você poderia ter acesso ao roteador e você poderia liberar importas.
+[92:05 - 92:08] Um da era serial 80, a 443.
+[92:08 - 92:14] E você tem domínio do teu hardware de todas as configurações ali, por exemplo.
+[92:14 - 92:19] No meu roteador eu eliminei senha. Não precisa de senha para entrar.
+[92:19 - 92:23] Mas eu tinha uma white list de endereços físicos.
+[92:23 - 92:28] Se você não tivesse o número de máquina registrado no roteador, você não entrava.
+[92:28 - 92:31] Então só deixava dispositivos confiáveis.
+[92:31 - 92:33] Chegava mesmo lá em casa,
+[92:33 - 92:35] ah, agora o número de máquina do teu celular.
+[92:35 - 92:37] Pô, não sei nem onde é que vê isso.
+[92:37 - 92:40] Então descobri aí e vê, me dá esse número de máquina,
+[92:40 - 92:41] que aí eu deixo acessar a internet.
+[92:41 - 92:42] Ah, enfim, sim.
+[92:42 - 92:48] É como se o número de máquina, depois, a chave,
+[92:48 - 92:49] para você conseguir...
+[92:49 - 92:51] Isso, basicamente isso.
+[92:51 - 92:54] Porque todo esse paco de IP são os delícios lógicos.
+[92:54 - 93:02] A gente tem um deles no físico também, que é o Macadress, que é uma China-Dress, que é um número de máquina, que identifica fisicamente que hardware é aquele.
+[93:02 - 93:04] É o que eu não sei saber.
+[93:04 - 93:13] E a gente já conhece as coisas que dá pra quebrar sem, não muito cedo Wi-Fi, é raro, cara, colocar um cedo físico, que é, sei que, às vezes quando tem muita visita você passa muito a você.
+[93:13 - 93:18] Aí a visita demora muito, tá repetindo, como é que cedo Wi-Fi é mais fácil.
+[93:18 - 93:25] E às vezes a visita instala um programa que quebra cenas de Wi-Fi e acaba passando a sua senha pra todo o bairro.
+[93:25 - 93:36] Cara, eu lembro que tinha na casa da minha avó, de um moleque, que quando a gente não tava lá,
+[93:36 - 93:44] ou ela não tava lá, ele ficava perto, usando um aspeáctico, um aplicativo que ele conseguia acessar e tinha gente lá.
+[93:44 - 93:47] Aí sempre ficava lá pra conquistar a internet.
+[93:47 - 93:51] Aí depois sempre que a gente saia ela desligava.
+[93:51 - 93:52] Olha a nossa ação.
+[93:52 - 93:55] É, é o Osno.
+[93:55 - 93:58] É, agora tem muito isso aí também.
+[93:58 - 94:00] Era bom era...
+[94:00 - 94:06] Então ainda não dá pra fazer isso mesmo, do bolo, como você percebe essa parte que fica boteada.
+[94:06 - 94:10] Não, não consigo mais ter acesso direto às configurações do meu roteiro.
+[94:10 - 94:11] Provedores do meu roteiro.
+[94:11 - 94:13] Tudo vai superior que me diga, Paulo.
+[94:13 - 94:15] Eu consigo entrar pelo aperitivo da Claro,
+[94:15 - 94:21] Aí vê as opções que eles deixam pra mim lá, tipo, ah, quero mudar a senha.
+[94:21 - 94:26] Aí eu clico lá, enviei uma solicitação, é como eu nunca fiz isso, espero que eu
+[94:26 - 94:29] imagino que demore um pouquinho e eles dão a resposta.
+[94:29 - 94:33] Mas é só por aquele menu lá do aplicativo.
+[94:33 - 94:38] Eu não consigo mais entrar nas configurações do fabricante, que não era nem a Python,
+[94:38 - 94:42] claro, não era a Python do fabricante do equipamento.
+[94:42 - 94:44] Mas não consigo mais não.
+[94:44 - 95:14] Aí, o senhor vai falar, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai, vai,
+[95:14 - 95:17] Não sabe, não, cara. Só o que eu tenho aqui é conteúdo para vocês.
+[95:17 - 95:20] Lá para começar o que?
+[95:20 - 95:21] O IP.
+[95:21 - 95:23] Na primeira aula, olha, o tanto de coisa.
+[95:23 - 95:26] Eu quero que vocês tenham a ideia toda na cabeça de vocês, diga aí.
+[95:26 - 95:28] O IP é o que é o que é o que é?
+[95:28 - 95:30] A localização do usuário.
+[95:30 - 95:31] O IP é o quê?
+[95:31 - 95:33] O IP também é o usado para o usuário.
+[95:33 - 95:36] Pode. Não precisamente.
+[95:36 - 95:40] Mas, por exemplo, esse meu IP aqui, vamos dizer que...
+[95:40 - 95:42] aqui na faculdade, não é em casa, né?
+[95:42 - 95:44] É uma hora de ir para a Maraponga.
+[95:44 - 95:54] A gente contrata um serviço da internet mobile, mobile telecom, né?
+[95:54 - 95:56] É popular, né?
+[95:56 - 95:58] É porque lá em casa é só o gato Net.
+[95:58 - 96:00] Gato Net é aquela internet de baia.
+[96:00 - 96:01] Entendeu?
+[96:01 - 96:05] É mais tranquilo resolver.
+[96:05 - 96:07] Então o que acontece?
+[96:07 - 96:11] ela fica no barro de Fátima, sabe?
+[96:11 - 96:16] Então, quando localiza o IP pelo Maps, vai dar onde?
+[96:16 - 96:20] No barro de Fátima, porque lá que é o provedor, entendeu?
+[96:20 - 96:26] Só que aí a polícia federal, ela bate o provedor lá e aí vai ligar o provedor, olha,
+[96:26 - 96:34] quem está com esse IP, aí eles vão lá, eles vasculham, beleza, o AI de máximo.
+[96:34 - 96:38] com esse Pek, o endereço dele é esse e esse é esse, é a profeira, beleza.
+[96:38 - 96:39] Vai lá, tira um cara.
+[96:39 - 96:45] E o KPSK, o que consegue dizer que uma localização próxima do Ibaçu?
+[96:45 - 96:49] Não, aí próxima, mas o endereço é isso.
+[96:49 - 96:51] Não tem como saber precisamente.
+[96:51 - 96:59] Só se o provedor te der acesso ali, aí os caras dão dentro ali
+[96:59 - 97:00] para poder saber o endereço.
+[97:00 - 97:02] O que é isso?
+[97:02 - 97:04] É o mapa, mas...
+[97:04 - 97:06] Não tem como não, mano.
+[97:06 - 97:08] O que é isso?
+[97:08 - 97:10] Olha, até te força você entrar na Guionama.
+[97:10 - 97:12] Toda vez tem que ir numa loja,
+[97:12 - 97:14] ou na Calvídua,
+[97:14 - 97:16] e ele automaticamente pula...
+[97:16 - 97:18] Olha, qual é a localização do VIP, tá vendo?
+[97:18 - 97:20] O que é isso?
+[97:20 - 97:22] O que é isso?
+[97:22 - 97:24] Eu acho que ele não passou.
+[97:24 - 97:26] Acho que também não passou,
+[97:26 - 97:28] mas acho que tinha três encontros no sábio.
+[97:28 - 97:30] E os encontros não sabem, né?
+[97:30 - 97:32] Estava de segurança e dispara?
+[97:32 - 97:34] Não, não, não. Até não tem no computador.
+[97:34 - 97:39] O prédio é que a gente é mostrado pra nós.
+[97:39 - 97:46] O voador de serviço, corre o link, conecte o seguro e transporte da localização do meu direção, Brasil.
+[97:46 - 97:48] Não deixa, tá vendo?
+[97:48 - 97:58] O meu VKVPM, ele meio que assista um site fingindo que está acessando pelo estado de serviço aqui.
+[97:58 - 97:59] Onde é que está?
+[97:59 - 98:01] Tá pro lado do fogo malio.
+[98:01 - 98:03] É porque ele não tem coisa.
+[98:03 - 98:05] Aí ó, vamos lá pra gente concluir ó
+[98:06 - 98:07] Sério?
+[98:07 - 98:11] Então tem os provedores, tem a questão do Fire e tal, certo?
+[98:11 - 98:14] Quando é que vem de onde você vai liberar, tá bom?
+[98:15 - 98:18] E aí o mundo é assim, um bocadinho de tipo conectado com o outro,
+[98:18 - 98:22] um de conectar já era, é com IP, com porta
+[98:22 - 98:24] E aí eu tenho um site aqui pra vocês, ó
+[98:24 - 98:25] Ah, eu já vi esse site
+[98:26 - 98:26] Já vi lá?
+[98:27 - 98:27] Que isso aí?
+[98:28 - 98:30] Pra pensar aqui ó, o que é Fire do que?
+[98:30 - 98:33] Esse aqui é todos os ataques que estão acontecendo agora, em tempo real.
+[98:34 - 98:36] Meu Deus...
+[98:36 - 98:38] A minha ideia é na Rússia, né?
+[98:38 - 98:43] Geralmente por muitos aqui são na Rússia, com o nome.
+[98:43 - 98:46] A gente me pergunta, quem criou esse site?
+[98:46 - 98:49] Quem criou esse site? Será que é um hacker também?
+[98:49 - 98:52] Não, não é um hacker, é um entrei especializado que ela tem um que...
+[98:52 - 98:54] Porque assim, a gente tem os mainframes, né?
+[98:54 - 98:57] Tem os data centers localizados nos pontos, né?
+[98:57 - 99:03] Então eles conseguem filtrar os ataques que se ocorrendo, embaixo dos pães e tal.
+[99:03 - 99:09] Sabe map, caprichai. Ah, também faz para do caprichai, né?
+[99:09 - 99:11] Aí você vê aqui, ó.
+[99:11 - 99:14] Você já viu os ataques do One Atchys?
+[99:14 - 99:15] Não.
+[99:15 - 99:16] Nossa, vinte.
+[99:16 - 99:17] Ó.
+[99:19 - 99:21] Fevereiro de 1917.
+[99:21 - 99:23] Agentinho.
+[99:23 - 99:30] Não está acontecendo nada aqui no Gerardo, está aqui ontem.
+[99:30 - 99:35] Vamos já brincar também para a gente entrar aqui no meu estatístico?
+[99:35 - 99:39] Eu acho que nem se esse momento de eu vou descer o site.
+[99:39 - 99:54] E hoje em dia com tecnologias mais avançadas para fazer testes de tal é muito tranquilo.
+[99:54 - 100:00] Aí, então, esses ataques aqui é por portas para identificar portas e tal.
+[100:00 - 100:12] Existe um sistema operacional, que a gente tem o Windows, temos o IOS, o Linux, mas o Linux ele vê com a distribuição Unix
+[100:12 - 100:17] que aí ele faz o que?
+[100:17 - 100:24] através dele, ali surgiu outro, um Buntu, um Centio-O-S e temos o...
+[100:24 - 100:28] poxa cara, o sistema
+[100:28 - 100:29] O que é o LCD?
+[100:29 - 100:31] Ataque, eu acho
+[100:31 - 100:33] O que é o LCD?
+[100:33 - 100:35] Eu esqueci o nome do meu prédio
+[100:35 - 100:37] Eu esqueci o nome, ó
+[100:39 - 100:40] O Cali
+[100:40 - 100:42] O Cali, Cali lhe.
+[100:42 - 100:45] É o tenta negado a Bruno Barton, o Cálio.
+[100:45 - 100:48] O Cali, ó, é um dragão, acho que é um dragão, né?
+[100:48 - 100:50] É, é um dragão, só lembrei.
+[100:50 - 100:52] O Leideiro, né, Mô?
+[100:52 - 100:53] É bonitinho, né?
+[100:53 - 100:55] Caramba, isso tava na cabaça do Atu.
+[100:55 - 100:56] É?
+[100:56 - 100:58] O Atu ele e a Cali.
+[100:58 - 100:59] E aí o que acontece?
+[100:59 - 101:02] O Massa, eu até tava brincando, mas aí eu parei, não,
+[101:02 - 101:04] chogo ganhar dinheiro, não vou fazer isso com o Mô.
+[101:04 - 101:06] O Cali fazendo isso aqui.
+[101:06 - 101:08] Não, é só pra brincar, entendeu? Eu já vou brincar.
+[101:08 - 101:15] Por exemplo, o Kali tem um script que ele consegue transformar a sua placa de vídeo
+[101:16 - 101:19] Não captura, mas num rastreador
+[101:19 - 101:23] Aí quando você faz isso, você começa a...
+[101:23 - 101:26] Claro, ele reconhece os sinais de roteador
+[101:27 - 101:32] Só que ele tem um script que ele consegue mandar pacotes
+[101:32 - 101:34] Isso via física
+[101:35 - 101:38] Pacotes pelo roteador, tal, de perguntas
+[101:38 - 101:44] até pegar o Mac dele, que o Mac é como se fosse o CPF do dispositivo, ninguém pode mudar o Mac
+[101:44 - 101:52] quando ele pega o Mac, aí quando ele está com o Mac, ele começa a fazer ali testes de Login 100
+[101:52 - 101:58] São parênteses Mac, M-A-C de Machines, que é o número de máquina
+[101:58 - 102:05] E aí, o que acontece? A gente consegue ficar disparando Login 100 e tentando várias senhas
+[102:05 - 102:11] Então, para raça a noite toda enrolando, quando o localiza assim, é burro, aí você consegue assar o tia-dodo, o colega, né?
+[102:11 - 102:14] E aí você consegue ali descobrir o Wi-Fi e ficar usando.
+[102:14 - 102:20] Mas que o querido ia isso, não era para fazer uma feca, claro, já era errado, né?
+[102:20 - 102:22] Já era errado.
+[102:22 - 102:24] Mas era mais para o quê?
+[102:24 - 102:26] Ah, vou só fazer a conexão com o internet.
+[102:26 - 102:29] Onde eu quiser, eu tá? Eu utilizo a internet de alguém, né?
+[102:29 - 102:31] É brincadeirazinha, né?
+[102:31 - 102:34] Brincadeira que pode dar problema.
+[102:35 - 102:38] Mas eu nunca consegui, porque...
+[102:38 - 102:39] É que...
+[102:39 - 102:42] Eu tinha tempo, eu vou fazer o meu programa aqui.
+[102:43 - 102:46] Mas como é mudar os protocolos de defesa?
+[102:46 - 102:51] Vai ter que fazer quase internet, não, mas de segurança inteira.
+[102:51 - 102:56] Porque o bicho consegue quebrar qualquer coisa que o normal demora até...
+[102:56 - 103:01] Tu já vê que o site que você coloca, cenas aí, ele mostra quantos anos...
+[103:01 - 103:06] É, mas é mudança de paradigma, né?
+[103:06 - 103:10] Ah, esse região aqui não pode ser invadida,
+[103:10 - 103:12] mas as muralhas são muito altas.
+[103:12 - 103:14] A inventóviana, o helicóptero...
+[103:14 - 103:16] Não faz mais sentido muralhar.
+[103:16 - 103:18] Ainda tem um tanjo ZB aí, véi.
+[103:20 - 103:21] Só rola.
+[103:21 - 103:22] É muito difícil.
+[103:23 - 103:24] Entendeu aí?
+[103:25 - 103:28] Mas o Cali não é um dele drasher, né?
+[103:28 - 103:37] ele é mais focado em ferramentas de blue hat, red hat, essas coisas não é tão
+[103:37 - 103:44] pra usuário do dia a dia né? Vou instalar pra rodar meu ofice aqui
+[103:44 - 103:50] porque o Windows foi realmente pra usuário lego né?
+[103:50 - 103:52] O iOS, tal...
+[103:52 - 103:54] Isso aí...
+[103:54 - 103:57] É praticamente que ele volta ali no tempo como é que funcionava o mesmo, né?
+[103:57 - 103:59] Na raça mesmo, na tora.
+[103:59 - 104:04] E aí, eles são mais rápidos, a vez que a gente diz porque não tem um peso do gráfico.
+[104:04 - 104:06] E aí, ele não tem um utilizavelo pra...
+[104:06 - 104:10] Esse aí, né? Porque eu uso o CacheOS em casa.
+[104:10 - 104:11] CacheOS é?
+[104:11 - 104:13] Minha distribuição de Linux.
+[104:13 - 104:15] E é fantástico, é lindo, é rápida.
+[104:15 - 104:16] É rápido, né?
+[104:16 - 104:18] Não tem todo aquele chasso.
+[104:18 - 104:23] Cache com Y, ali é a segunda opção
+[104:27 - 104:33] É esse aí com a bichinha
+[104:38 - 104:41] O Unirid, o desktop
+[104:41 - 104:43] É rápido, né? Todo o cara com a sua...
+[104:43 - 104:45] Brother, é tão...
+[104:45 - 104:51] Nostoso de usar meu computador que me chega a me dar nervoso usando meu notebook, que é o Windows.
+[104:51 - 104:53] Mas tem que usar o Windows para trabalhar, né, cara?
+[104:53 - 104:59] Amorel, porque é só Neuro, que é a região que mais se ofreta a tag de Iraq.
+[105:03 - 105:05] E nos Estados Unidos, e por que isso mesmo?
+[105:05 - 105:19] Vamos ficar quieto, vamos falar de Shodan, essa Hódea.
+[105:19 - 105:23] Querem bater alguma foto, alguma coisa e quer que eu salva alguma coisa aqui?
+[105:23 - 105:25] Acho que a explicação ficou boa.
+[105:25 - 105:28] Você já está usando a plataforma A?
+[105:28 - 105:32] Você quiser subir isso para lá para disponibilizar os colégios?
+[105:32 - 105:35] Não estou usando, não vou ficar briquinho.
+[105:35 - 105:38] Mas eu vou te punir blisada, eu vou salvar aqui.
+[105:40 - 105:41] Vou te punir blisada.
+[105:42 - 105:43] Show de bola.
+[105:43 - 105:45] A gente repasse.
+[105:45 - 105:47] Aí, galerinho.
+[105:47 - 105:55] Aí, a gente está entrando em esta introdução só para poder ilustrar tudo para vocês.
+[105:55 - 106:01] Aí depois a gente vai se basear aqui, acredito que dá a próxima aula.
+[106:01 - 106:08] Não em segurança, nem nada disso, mas são brechas que vocês podem...
+[106:08 - 106:16] É interessante também não só pegar os problemas do cotidiano, mas também problemas ali que também estão ali obscuros
+[106:16 - 106:19] que vocês identificarem para resolver, né?
+[106:19 - 106:22] É bem interessante.
+[106:22 - 106:33] E também, e aí na próxima aula eu vou trazer ideias de APIs de dados disponibilizados para que vocês possam constar, né?
+[106:33 - 106:39] Por exemplo, sei lá, APIs do governo livre, APIs do coisa.
+[106:39 - 106:44] Eu só tenho uma dúvida aqui, a minha sapata não fez para não mudar muito o mundo da aula,
+[106:44 - 106:54] Quando eu fiz a API, no mesmo esquema da Ruxus, tem lá o opdente na IUDL, só com Post e Get já faz
+[106:54 - 107:02] fazer tudo da API, é realmente necessário usar os outros dois ou mais a critério do programador?
+[107:02 - 107:16] O bot e o delete. É porque assim, o bot é contigo. A gente tem os métodos, HTTP,
+[107:16 - 107:21] transferência de pertexto, o protocol de transferência de pertexto.
+[107:21 - 107:28] Geralmente o get você utiliza quando você vai consultar uma rota, um site, mas quando
+[107:28 - 107:31] Você quer informações de lá? Então você manda um get.
+[107:31 - 107:32] Puuu, traz.
+[107:32 - 107:33] Vê o que é isso?
+[107:33 - 107:34] Somente leitura, né?
+[107:34 - 107:35] Somente leitura, é.
+[107:35 - 107:39] O post, geralmente é pra você enviar dados e ele gravar lá.
+[107:39 - 107:40] Ó, tá aqui ó.
+[107:40 - 107:41] Puu, vai.
+[107:41 - 107:42] Manda o post aí ó, pra tu gravar.
+[107:42 - 107:43] Gravou?
+[107:43 - 107:44] Vê o que é isso?
+[107:44 - 107:47] O put é quanto pra atualizar o dado.
+[107:47 - 107:51] Opa, eu vou tomar o operando aqui o dado e eu quero que tu faça o update no banco.
+[107:51 - 107:52] Vai.
+[107:52 - 107:54] Manda um put e ele vai entender o back end.
+[107:54 - 107:55] Entendeu?
+[107:55 - 107:56] Entendeu?
+[107:56 - 107:57] E o delete é?
+[107:57 - 107:58] É isso.
+[107:58 - 108:02] Esse gete é muito usado no web script, né?
+[108:02 - 108:07] Então, assim, o GAT é muito utilizado para a gente poder...
+[108:07 - 108:10] Ah, eu quero constar o CPS de um colega pela receita.
+[108:10 - 108:12] Claro, já que você tem que liberar, né?
+[108:12 - 108:13] Você vai mandar o GAT.
+[108:13 - 108:15] O GAT é muito utilizado.
+[108:15 - 108:20] Até quando você vai assar os raios do Google Normal no seu celular ou no computador,
+[108:20 - 108:21] é um GAT.
+[108:21 - 108:23] Só atrás, só atrás.
+[108:23 - 108:25] É muito GAT, muito GAT, muito GAT.
+[108:25 - 108:29] Então você tem que ter permissão, o poço dele é o principal de ele isso também, né?
+[108:29 - 108:30] É isso.
+[108:30 - 108:31] Esse foi o princípio.
+[108:31 - 108:34] Se você for ver, aí tem as ideias, né?
+[108:34 - 108:35] Tudo é crude.
+[108:36 - 108:41] Caramba, o Brasil tá em segundo lugar, mais efectado hoje.
+[108:41 - 108:46] O Prato ia comer, porque era um plenista dele, ele é mostrando, tá?
+[108:46 - 108:48] E passa, passa, fui fazendo com ele.
+[108:48 - 108:53] Aí ele mostra, não, isso aqui dá pra usar a Belet, dá pra usar o Pouche.
+[108:53 - 108:56] Mas só o post já faz todas as funções.
+[108:56 - 108:59] Então é que a PN é literalmente só a GetPost.
+[108:59 - 109:02] O GetPost é tipo assim, o Deletar tá no post também.
+[109:02 - 109:04] Ah, atualizar tá no post também.
+[109:04 - 109:05] E colocar ela pro...
+[109:05 - 109:08] Merem, pra próxima pessoa que vai ler, o que fica mais fácil?
+[109:08 - 109:11] Ver o Delet ou ver um post de um tempo e a pessoa fazendo Delet?
+[109:11 - 109:13] Quem foi criar esse aí?
+[109:13 - 109:16] Acho que dá a hashtag, se não me diga.
+[109:16 - 109:17] O Delet queria que eu vim salvar.
+[109:17 - 109:19] É, não.
+[109:19 - 109:21] É porque geralmente o cara que fez realmente,
+[109:21 - 109:25] mas é como uma tranquilidade de zeno mesmo, cara, é boas práticas
+[109:25 - 109:27] você tem que...
+[109:27 - 109:31] pra tu já ficou desconfortável, entendeu?
+[109:31 - 109:37] só tu falando de desarfes, pra tu falar pra tu, porque tu tiras essa dúvida
+[109:37 - 109:43] é realmente isso, por isso que você for entrar no emprego, você for querer colaborar
+[109:43 - 109:45] e eu passo as coisas bacana

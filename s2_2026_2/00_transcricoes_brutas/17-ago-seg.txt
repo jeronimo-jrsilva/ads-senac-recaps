@@ -1,0 +1,1078 @@
+--- TRANSCRIÇÃO GPU WHISPER: 17-ago-seg.m4a ---
+Duração do Áudio: 72:25 | Tempo de Inferência: 3.16 min (189.8s)
+
+[00:00 - 00:03] Aula de Análise e Desenvolvimento de Sistemas
+[00:30 - 00:37] Eu fico aqui na visão de gerente e projeto, senão não vão ter aquela aula aqui, eu não vou dar aula de projeto.
+[00:38 - 00:49] Vocês vão ter as demandas, que eu vou pontuar aqui e hoje na próxima aula, mas vou para a outra, uns três aulas eu vou pontuar e vocês vão ter que me fazer a entrega, né?
+[00:49 - 00:54] esses pedidos aí que nós iremos desenvolver, aí eu vou aprovando e vocês vão dando
+[00:54 - 01:02] E fazendo segmento aí, entendeu cara? Lembrando que essa disciplina aqui ela não cambia sol
+[01:02 - 01:14] Vocês vão estar lá com a disciplina de mobilais ligados e vocês vão aprender lá como é que faz um moldeio de entidade relacional
+[01:14 - 01:17] Eu não sei quem é o professor, não sei se é o Vinícius, é o...
+[01:17 - 01:19] O professor Alexander, certo?
+[01:19 - 01:26] E, como essa disciplina é um projeto integrador, o que vocês virão a aprender lá, certo?
+[01:26 - 01:32] Vocês vão ter que colocar dentro do projeto de vocês, porque a visão do projeto que é...
+[01:32 - 01:40] É que vocês usam o aprendizado das outras disciplinas e passam a integração com o que você está vendo, né?
+[01:40 - 01:48] mas demais, você está aprendendo um pouco de seios, aprendendo Java,
+[01:48 - 01:53] eu acredito que vocês vão te dar Java esse sim, mas vocês vão escolher.
+[01:53 - 01:56] Olha, eu vou te encogar então, é um encog, é um encog.
+[01:56 - 02:01] Quem é o professor de Java? Não sabe ainda.
+[02:01 - 02:08] É, mas se vocês já vinham construindo o software de vocês em Python,
+[02:08 - 02:12] Isso é bom, menina, vocês podem dar continuidade em Python
+[02:12 - 02:17] para não modificar a linguagem, entende?
+[02:17 - 02:19] Entrazer mais compreensão.
+[02:19 - 02:23] Mas vocês ainda não começaram o ideal que vocês
+[02:23 - 02:24] se dão dentro disso aí.
+[02:24 - 02:29] Em Java, em CX, em DotNet, mas eu não vou entender isso.
+[02:29 - 02:33] Eu quero que vocês entreguem o software, a partir do software
+[02:33 - 02:37] que a gente vai aqui num bom senso, certo?
+[02:37 - 02:43] em comum a gente definir aqui o que vocês vão ter que fazer de entrega
+[02:43 - 02:49] eu acredito que se mais passado vocês não desenvolveram nada palpável do software
+[02:49 - 02:52] só documentar o software, é isso?
+[02:52 - 02:58] que eu te pergunto porque às vezes tem aqui que já desenvolve uma tela, certo?
+[02:58 - 03:02] já faz um banco de dados em mais queira, galera, já tem já um conhecimento
+[03:02 - 03:06] de entrar na faculdade, eles já vão colocando aí a carroça aos dados,
+[03:06 - 03:12] frente do boi, né? Então vocês vão ver aí certo a possibilidade
+[03:12 - 03:17] se já começar a desenvolver em uma linguagem, vocês podem continuar nela.
+[03:17 - 03:21] Certo? Caso não, ideia que vocês desenvolvam, já vão...
+[03:21 - 03:24] ou sei, né? O que é que vocês estão aprendendo aí.
+[03:24 - 03:26] Certo?
+[03:26 - 03:33] Aí gente, aqui o projeto, eu vou dar algumas definições de projeto pra vocês, como vocês
+[03:33 - 03:43] sabem aqui não tem prova nessa disciplina, vocês vão que apenas desenvolver as etapazinhas
+[03:43 - 03:48] colocadas aí dentro do escopo do projeto de vocês, né?
+[03:48 - 03:58] Então, o objetivo aqui de inicialização, primeiro, é formalizar o projeto.
+[03:58 - 04:00] Quais são os objetivos do projeto?
+[04:00 - 04:03] Que é que ele vai fazer de entrega, certo?
+[04:03 - 04:08] Quem são as pessoas envolvidas, os stake holders, quem são esses caras?
+[04:08 - 04:11] Eu estou fazendo esse sósper para quem?
+[04:11 - 04:15] Quais são as necessidades levantáveis de requisitos aí?
+[04:15 - 04:17] O que eu vou precisar?
+[04:17 - 04:22] Então, aqui, quando você está desenvolvendo um projeto,
+[04:22 - 04:28] você precisa fazer um termo de abertura documentando todos os objetivos,
+[04:28 - 04:33] o que você vai precisar, até porque você está desenvolvendo um projeto para uma empresa,
+[04:33 - 04:41] você precisa entender também a parte financeira para você desenvolver
+[04:41 - 04:49] e contratar sua equipe de acordo com o financeiro ali que está disposto a bancar esse próprio JET.
+[04:49 - 04:55] Porque eu também crio ali um projeto que ele vai ter um custo de demanda operacional,
+[04:55 - 04:58] de desenvolvedores e software.
+[04:58 - 05:04] A galera que vai ficar também nos partidores, gera ensinando projetos, frases e tudo,
+[05:04 - 05:07] os testes e tudo isso aí.
+[05:07 - 05:08] Ele requer o quê?
+[05:08 - 05:13] Então eu preciso colocar, definir isso aí, certo?
+[05:13 - 05:17] No mercado, no mercado a gente usa esse termo de abertura,
+[05:17 - 05:19] no dia a dia as pessoas envolvidas,
+[05:19 - 05:21] principalmente quem vai financiar, ele vai o quê?
+[05:21 - 05:27] Ficar ciente daqueles custos da operação, né?
+[05:27 - 05:33] Só que aqui nós estamos levando com viéis um pouco mais acadêmico, certo?
+[05:33 - 05:38] Quando eu iniciei aqui, eu levava com viéis mais do dia a dia,
+[05:38 - 05:44] de mercado lógico, certo? Mas para o mercado de trabalho. Só que aqui nós vamos escrever
+[05:44 - 05:50] também no formato de artigo e tal. Então essa parte aqui eu estou falando apenas para
+[05:50 - 05:58] vocês entenderem que no mercado se cobra isso, você precisa definir o custo daquela demanda
+[05:58 - 06:04] daquele software. Porque muitas vezes quando você vai projetar você precisa colocar o valor
+[06:04 - 06:09] ou também das ferramentas que você vai utilizar aquele software, em software pagos.
+[06:09 - 06:14] Então tudo isso aqui tem que ir na conta do LAPS, na pontinha do LAPS lá.
+[06:14 - 06:16] Por causa do M2VP.
+[06:16 - 06:17] Isso.
+[06:18 - 06:24] Aí aqui, gente, identificar os stack holds, que são os stack holds.
+[06:24 - 06:30] É todo o mundo que vai estar dentro do PRO, que vai se fazer parte desse projeto.
+[06:34 - 06:43] Aí aqui gente, fase de iniciação do projeto,
+[06:43 - 06:49] envolvemos os take holdas desde o início para garantir alinhamento e apoio.
+[06:49 - 06:53] Quando eu estava trabalhando lá no TJ, o que é que acontecia?
+[06:53 - 06:59] Muitos dos softwares ainda não estavam atendendo que a comunidade.
+[06:59 - 07:07] Você não tinha aplicação para pessoa e tirar a sua certidão criminal,
+[07:07 - 07:11] essas coisas, você tinha que se deslocar, então não existia esses aplicativos.
+[07:11 - 07:20] Existia o software dentro da comarca lá que eram somente as tendências que tinham acesso.
+[07:20 - 07:23] Então precisam o quê? De criar uma aplicação.
+[07:23 - 07:28] O que significa Stick Holders e Kickoff?
+[07:28 - 07:31] Pronto, Stick Holders são todos envolvidos em um projeto.
+[07:31 - 07:33] Só estou falando aqui de Tribunal de Justiça.
+[07:33 - 07:36] Quem aqui está envolvido no projeto de Tribunal de Justiça?
+[07:36 - 07:41] Que é para ofertar comunidade, juiz, desembargador.
+[07:41 - 07:47] A galera que vai ficar rodificando, o gerente de projeto.
+[07:47 - 07:52] Quem vai financiar, se é o CNJ, se é o governo do Estado,
+[07:52 - 08:00] A comunidade que vai utilizar o software, é uma pesquisa de mercado, porque vai atender
+[08:00 - 08:01] o mercado.
+[08:01 - 08:02] Entende isso aí?
+[08:02 - 08:05] E o que ofia aí, cara, é o...
+[08:05 - 08:08] É a comunidade.
+[08:08 - 08:09] É?
+[08:09 - 08:14] Pra iniciar tudo, pra ver quais são as expectativas.
+[08:14 - 08:19] Nesse nosso primeiro projeto, as coisas foram bem que iniciais.
+[08:19 - 08:22] Eu tava na parte de infraestrutura, não na parte de desenvolvimento.
+[08:22 - 08:26] e trabalhei com a infraestrutura, parque servidores, links, né?
+[08:26 - 08:30] Então, cara, o Tribunal de Justiça, ele tinha uma visão,
+[08:30 - 08:32] até porque eles não são culpados disso,
+[08:32 - 08:35] qual é a área do lado da galera que está à frente do Tribunal,
+[08:35 - 08:37] dos desempagadores e juízes?
+[08:37 - 08:40] É a área jurídica, né?
+[08:40 - 08:43] Então, os caras achavam que software,
+[08:43 - 08:47] a gente fritava, fritava pastel, apertava ar afuso.
+[08:47 - 08:49] Então, não é assim, então a gente teve o quê?
+[08:49 - 08:56] que alinhar as expectativas. Então, mas mesmo assim, eles não tinham noção disso.
+[08:56 - 09:01] Então ficava aquela queda de braço, entre a gestão de TI, porque naquela época
+[09:01 - 09:10] ainda não se tinha um conceito de governança de TI, o quanto até ia importante para dar um alicerce
+[09:10 - 09:16] para as outras áreas, ali no caso, a área jurídica, entendeu? Então, os caras muitas vezes
+[09:16 - 09:19] As vezes eles pressionavam a gente com o quê?
+[09:19 - 09:23] Com o baixo custo eles não queriam realmente pagar a operação
+[09:23 - 09:30] que realmente ela necessitava daquele custo e queria também um prazo curto.
+[09:30 - 09:35] Então eles não queriam muito respeitar a questão da documentação.
+[09:35 - 09:36] Não respaldar.
+[09:36 - 09:40] Então até porque lá dentro do Tribunal de Justiça tem a questão da ascensão.
+[09:40 - 09:46] Então eles quando querem mudar de cargo, quando querem acender, eles precisam entregar o quê?
+[09:46 - 09:58] Então, cara, é uma linha aí bem complicada para trabalhar com projetos naquela época,
+[09:58 - 10:05] porque a TI ainda não tinha os respaldos que tem hoje, porque hoje a gente está aí
+[10:05 - 10:13] abarcado aí de frameworks, que hoje o mercado já conhece esses frameworks aí, de prazos,
+[10:13 - 10:19] de tempo, hoje a TI já ganhou um respeito em outros áreas. Hoje o Tribunal de Justiça
+[10:19 - 10:26] já vê realmente a gente que é a TI com um grande alícesse para ela repercutir de maneira
+[10:26 - 10:30] positiva na sociedade. Então o projeto, que ele é um grande aliado,
+[10:30 - 10:38] já é necessariamente um projeto para trazer as boas práticas para atender e explicar para
+[10:38 - 10:41] Para a galera que está em volta, os tech-holders,
+[10:41 - 10:45] qual tempo é necessário, como é que isso é feito,
+[10:45 - 10:49] então é necessário que ter reuniões aqui para dar isso, que é óbvio,
+[10:49 - 10:52] para gerar o importante, para gerar o que?
+[10:52 - 10:55] O engajamento, para que as pessoas dentro do software.
+[10:55 - 10:58] E entender também que vai ter o que?
+[10:58 - 11:01] Em alguns casos, sucesso e riscos.
+[11:01 - 11:05] Vai ter os riscos na operação.
+[11:05 - 11:08] muitas vezes na nossa operação na Vsoftware,
+[11:08 - 11:10] eu estava na parte intrestrutura, mas a gente,
+[11:10 - 11:15] os programadores lá, a gente tiveram desafios com os nomes homônimos,
+[11:15 - 11:20] que são nomes homônimos, que são iguais.
+[11:20 - 11:25] Aí eles foram ver lá questões que eles poderiam colocar dentro do software lá
+[11:25 - 11:28] para realmente tirar essa questão do,
+[11:28 - 11:33] questão dos nomes homônimos, estava dando um erro lá na questão do quanto te dá,
+[11:33 - 11:39] para tirar, aí levou um tempo a mais por conta disso. Aí eles foram ver o que podiam fazer,
+[11:39 - 11:45] lá na Nala de requisitos, caso de uso, então eles foram revisitar todo o projeto para fazer isso,
+[11:45 - 11:52] porque no começo, nos primeiros seis meses, quem tivesse nomes comuns, ou seja, nomes homônios
+[11:52 - 11:57] aí muito iguais, muitos parecidos, às vezes um nome completo mesmo, igual aí realmente tinha que
+[11:57 - 12:03] de se deslocar, uma casa do cidadão, ainda aquele de praxe como era anteriormente, entendeu?
+[12:03 - 12:11] Mas o software funcionou, mas teve esses cursos aí, a mais na operação, na limitação muitas vezes
+[12:11 - 12:14] do bandidas que eles estavam utilizando, entendeu?
+[12:16 - 12:20] Então gente, aqui ó, o que é o escorpo, né?
+[12:20 - 12:25] É você realmente colocar ali o que é necessário para o PRO?
+[12:25 - 12:30] Porque senão depois com o Aqlm do reclado de regular,
+[12:30 - 12:33] se a gente colocasse mais em detalhe em software,
+[12:33 - 12:35] isso aí aumenta o que?
+[12:35 - 12:39] O custo do trabalho que aumenta também o custo final.
+[12:39 - 12:47] Então a gente tem que pontuar essa questão do escopo, definir.
+[12:47 - 12:49] Você vai aumentar tudo.
+[12:49 - 12:54] Então aqui a gente teve que definir também na minha partida de frecintura a questão do servidores.
+[12:54 - 12:58] de dores, o que a gente já vai estar atendendo aí, né?
+[12:58 - 13:00] Links, né?
+[13:00 - 13:02] Precisa, questão dos links, né?
+[13:02 - 13:04] Aumenta e dá pra dar banda, né?
+[13:04 - 13:06] Porque antes, o que é que acontecia?
+[13:06 - 13:08] O uso da banda era o que?
+[13:08 - 13:10] Local.
+[13:10 - 13:12] Os usuários, a comunidade, ela ia até lá,
+[13:12 - 13:14] aquela base e tirava, né, a sua,
+[13:14 - 13:16] certidão.
+[13:16 - 13:18] Hoje, você consegue tirar, através
+[13:18 - 13:20] de um aplicativo aqui, entre e tal,
+[13:20 - 13:22] e consegue desenvolver tudo isso.
+[13:22 - 13:26] Você teve que pensar também na parte da segurança,
+[13:26 - 13:29] do software, que antes era só interno.
+[13:29 - 13:31] Claro que temos riscos também com o interno
+[13:31 - 13:33] por conta dos insiders.
+[13:34 - 13:36] Aquela galera que trabalha dentro da empresa está ali,
+[13:37 - 13:40] querendo burlar o sistema, pra fazer algum dano.
+[13:41 - 13:43] Então, gente, essa parte de escopo aqui
+[13:44 - 13:46] é tudo aquilo que o software,
+[13:46 - 13:48] a gente precisa abordar e obter
+[13:49 - 13:52] pra fazer criar o software.
+[13:52 - 13:55] Isso parece que tudo tem que estar dentro do objetivo do software.
+[13:55 - 14:05] A ingestão de escopo é garantir tudo que é apenas o que for necessário para o sistema ser concluído com o sucesso.
+[14:05 - 14:13] Se eu definir ali que é o preciso de um software em ia específico, que é o AuraPort pra apantir dados,
+[14:13 - 14:18] eu não vou também comprar o SQL Server da Microsoft.
+[14:18 - 14:25] Se eu estou programando em Java, eu não vou contratar também um programador.NET
+[14:25 - 14:34] Então são coisas que tem que ficar bem alinhadas para você não fugir daquela linha
+[14:34 - 14:40] Então o escoproduct produto refere as características e funcionalidades do produto
+[14:40 - 14:48] Então, eu preciso de um software que o cara coloca ali o CPS dele, coloca ali a data de nascimento,
+[14:48 - 14:51] o nome da mãe, com isso ele traga o quê?
+[14:51 - 14:58] Acessitão, acessitão negativa ou que ele está ali devem na alguma coisa, né?
+[14:58 - 15:00] Ajustice, né?
+[15:00 - 15:02] Então isso aqui são o quê?
+[15:02 - 15:07] Tudo que eu preciso, né, de funcionar, dá-lhe o produto lá dentro, dentro da parte,
+[15:07 - 15:12] vou ter a lógica de programação, vou ter um modelo de entidade relacional do Banco de Idades
+[15:12 - 15:14] que vocês vão aprender com a Alexandre
+[15:14 - 15:21] e tudo isso aí vocês precisam documentar dentro do projeto de Evo 6
+[15:21 - 15:22] Tá de uso
+[15:22 - 15:26] Antigamente nessa parte dessas restitões aí
+[15:26 - 15:30] antigamente sai mentindo seu próprio estado né, que você acha que era registrado né
+[15:30 - 15:33] Sim. A edição, Paulo, está anotada.
+[15:33 - 15:36] É, mas hoje tem... É cruzado, né?
+[15:36 - 15:37] A informação, né?
+[15:37 - 15:41] Pegar transportadores, elas pegam muito esse tipo de...
+[15:41 - 15:44] As informações são cruzadas, entendeu?
+[15:45 - 15:48] Isso aí foi uma normativa do CEMJ.
+[15:48 - 15:55] O CEMJ é que realmente coordena toda a parte jurídica do Brasil e fiscaliza, entendeu?
+[15:55 - 15:59] Então isso aqui foi uma demanda do CEMJ.
+[15:59 - 16:05] falando esses anos, ele obrigou o tribunal justiça até isso aí, sabe?
+[16:05 - 16:11] É questão de legislação, então ele precisa entregar e o desembargado
+[16:11 - 16:16] desembargado estar frente daquele li, que li realmente vai acender a carreira dele
+[16:16 - 16:22] como presidente do tribunal que conseguiu prazer aquela entrega ali dentro do mandato dele
+[16:22 - 16:24] entendeu aí gente?
+[16:24 - 16:27] Isso aí foi muita pressão para a gente sair.
+[16:27 - 16:29] Mas é morro valente isso aí, homem.
+[16:29 - 16:37] Vai solicitar uma certidão de nascimento de São Paulo para cá o papel.
+[16:37 - 16:40] Nem bem papel, na verdade, nem eles aclime aqui na hora.
+[16:40 - 16:43] É quase o ex-pédio real, não? É cara demais.
+[16:43 - 16:45] Então, a gente vai...
+[16:45 - 16:46] É.
+[16:46 - 16:49] É uma palhaçada.
+[16:49 - 16:53] Pior que tem coisa que todo ano você precisa da...
+[16:53 - 16:55] Posto, né?
+[16:55 - 16:56] É um posto.
+[16:56 - 17:12] e o escopo do projeto é o que refere prazos, processos, tarefas que a gente vai realizar, entrega do produto, do software.
+[17:12 - 17:24] E aqui, gente, o escopo do produto, eu trouxe aqui um exemplo da minha área, o escopo do
+[17:24 - 17:26] produto, projeto de um data center.
+[17:26 - 17:31] Então, o que é que o data center precisa entregar?
+[17:31 - 17:38] O data center é funcional com infraestrutura física e lógica configurado, os serviços
+[17:38 - 17:41] de autenticação para os usuários se autenticar.
+[17:41 - 17:48] Isso é toda parte lógica e física daquela estrutura, cabeamento, na norma,
+[17:48 - 17:56] a questão do serviço de rede, de fare, tudo configurado e rodando.
+[17:56 - 18:03] Já o projeto, o que eu vou precisar?
+[18:03 - 18:10] Levantamento de requisitos para atender as necessidades planejamento da estrutura física.
+[18:10 - 18:19] Então aqui eu vou estudar, no projeto, eu vou estudar como eu vou fazer um alicece,
+[18:19 - 18:25] quanto eu vou precisar de no-brake, certo, para estar fazendo isso.
+[18:25 - 18:31] Então, porque é tudo que é físico ali que eu vou precisar para estar montando o meu ambiente,
+[18:31 - 18:36] do meu data center, que é algo lógico, treinamento da equipe,
+[18:36 - 18:40] então eu preciso que eu faça em todos um ano, base antes.
+[18:40 - 18:46] Então tudo que for de base, então vai ser o meu escopo do projeto.
+[18:46 - 18:53] O do produto é realmente já as coisas já alinhadas a isso.
+[18:53 - 18:57] Documentação, sistema de backup, redundância,
+[18:57 - 18:59] redistruturada com switch, firewall.
+[18:59 - 19:03] Então esse aqui é o do produto.
+[19:03 - 19:04] Certo gente?
+[19:04 - 19:06] Tranquilo?
+[19:06 - 19:13] Outra coisa para quem chegou depois, quando for na próxima aula, eu quero os três melhores trabalhos.
+[19:13 - 19:21] Vocês venham aqui me apresentar para eu ver como foi que ficou os três melhores notas aqui.
+[19:21 - 19:24] O Atom em um classe ficou, não foi?
+[19:24 - 19:26] Não sei.
+[19:26 - 19:28] Então ele foi tirou o primeiro, segundo, terceiro ou não?
+[19:28 - 19:29] Não.
+[19:29 - 19:35] Ele só falou que quem quiser apresentar na frente, apresentar.
+[19:35 - 19:39] Não foi todo mundo que apresentou não, projeto?
+[19:39 - 19:42] Não, todo mundo apresentou a polícia.
+[19:42 - 19:44] A apresentou aqui, na sala que tu fala, né?
+[19:44 - 19:46] Porque tem duas avaliadas na sala, aqui na sala e lá na...
+[19:46 - 19:48] Não, mas lá também acho que todo mundo apresentou.
+[19:48 - 19:49] Foi não.
+[19:49 - 19:50] Foi não. Qual é o que é isso?
+[19:50 - 19:52] Foi lá, não apresentou todo mundo.
+[19:52 - 19:53] Não, não.
+[19:53 - 19:56] Lá apresentou todo mundo, mas em dia da apresentação não é um caso, é só.
+[19:56 - 19:59] Eu sou envolvido com outra coisa, não fui que está presente.
+[19:59 - 20:00] Ah, tá bom.
+[20:00 - 20:04] Acho que teve umas duas aqui, porque não apresentou.
+[20:04 - 20:09] Eu queria que você tenha um pronto, vamos pegar só um equipe que é presente aqui pra mim
+[20:09 - 20:14] Só pra eu ver o que é que vocês vão ter que melhorar e a gente seguir de base aqui, entendeu?
+[20:14 - 20:18] Sempre eu, Natou e o professor Xander a gente faz isso, entendeu?
+[20:18 - 20:20] Pegou um equipe aqui, né?
+[20:20 - 20:24] Você vai passar e vê, contua e dá como exemplo
+[20:24 - 20:26] Se alguém achar que pode fazer isso
+[20:26 - 20:30] Essa parte de um professor de desenvolvimento sistêmico, sim?
+[20:30 - 20:33] Sim, aí tem que ir atranquilhado com o ator.
+[20:33 - 20:37] Você vai querer ver aí que vai aproveitar?
+[20:37 - 20:42] Sim, ou acrescentar, é necessário, entendeu?
+[20:42 - 20:44] Eu vou ver o bonito que eu estou.
+[20:44 - 20:46] Aí já vou estar a imparcionar agora.
+[20:46 - 20:53] Parte de alguns modos aí que dentro do nosso calendário,
+[20:53 - 20:55] porque são praticamente dez encontros,
+[20:55 - 20:59] então tu pode fazer, tu já desenvolveu, por exemplo, no teu sistema,
+[20:59 - 21:01] A tela de login está funcionando?
+[21:01 - 21:03] Não sabe, está funcionando.
+[21:03 - 21:05] Já está funcionando?
+[21:05 - 21:07] Tem login, usuário para acessar, já está ok?
+[21:07 - 21:12] As regras de negócio dentro do sistema já estão funcionando?
+[21:12 - 21:14] Regras de negócio a gente não tem.
+[21:14 - 21:17] Mas a interface está lá.
+[21:17 - 21:20] Mas quando é que está, é algo parecido, nenhum.
+[21:20 - 21:25] Pronto, aí que já vai ter um desafio agora, que é o modelo de entidade relacional.
+[21:25 - 21:30] e você vai aprender lá com o professor Alexandre e vai implementar isso dentro do seu trabalho.
+[21:32 - 21:36] Então a gente pega alguma coisa que está em deficiência e já implementa,
+[21:36 - 21:45] então que vai criar todo o mesinho lá para o teu trabalho, que é o modelo de entidade relacional do banco.
+[21:45 - 21:52] Pronto, aí vamos colocar esse desafio para estar montando esse MESH e documentar isso que tu fia isso, entendeu?
+[21:52 - 21:56] No próximo semestre, quando for outro professor, ele já vai pegar outro desafio para quando
+[21:56 - 22:01] chegar lá no centro de semestros que já teve, pelo menos 80% do teu trabalho concluído
+[22:01 - 22:02] ou 100%
+[22:02 - 22:08] Aí que pensamos muito bem, não dá para começar o nosso projeto de semestros com o que é
+[22:08 - 22:16] mais passado, um projeto de tenso do semestre, porque se for voltar para edicionar mesmo,
+[22:16 - 22:17] é muita coisa
+[22:17 - 22:20] Não, cara, o que acontece? O projeto de extensão, o que é que...
+[22:20 - 22:26] É só para tu, tu pode mostrar o que tu tá desenvolvendo para a comunidade.
+[22:26 - 22:29] Quais os benefícios aquilo ali vai trazer, entendeu?
+[22:29 - 22:32] Por exemplo, eu estou montando aqui um software de autopécio.
+[22:32 - 22:37] Tu pode ir lá na autopécio do teu bairro e mostrar que aquilo ali é possível.
+[22:37 - 22:39] Não, obrigado, o software tá rodando.
+[22:39 - 22:41] Preguntando de par, não tá?
+[22:41 - 22:43] Tá, tá, tá, tá, tá, tá, tá, entendeu?
+[22:43 - 22:48] que é assim, dá aula em uma escola e no final aqui,
+[22:48 - 22:50] o nosso programa que a gente fez aqui,
+[22:50 - 22:51] pode.
+[22:51 - 22:51] Também é ok?
+[22:51 - 22:52] Sim.
+[22:52 - 22:54] E conclui normal.
+[22:54 - 22:55] Sim, sim, sim.
+[22:55 - 22:58] Não necessariamente o seu software que tá rodando,
+[22:58 - 23:01] mas tu é explicar qual o objetivo daquele software,
+[23:01 - 23:03] que é aquele Visa, entende aí.
+[23:03 - 23:03] Entendi.
+[23:04 - 23:04] Beleza?
+[23:04 - 23:08] Até pra, por exemplo, se eu estou fazendo aqui um software,
+[23:08 - 23:10] criando software de um autopécio,
+[23:10 - 23:11] eu vou lá no autopéciozinho de baixo,
+[23:11 - 23:15] o cara ainda tá só com a planilhazinha do Excel ou na
+[23:15 - 23:20] caderneta ele entender que existe essa possibilidade
+[23:20 - 23:26] ele criar essa maturidade de nessa cidade de um software o quanto aquilo ali
+[23:26 - 23:29] for aumentar essa ideia de quanto aquilo ali vai ajudar no processo de
+[23:29 - 23:33] crescimento da empresa isso aí é algo de extensão entende não
+[23:33 - 23:37] necessariamente o seu software tem que estar 100% até porque realmente era
+[23:37 - 23:41] pedir demais se ele se mexe em um software rodando perfeito do rodando
+[23:41 - 23:43] Deu mais de inversão financeira, né?
+[23:43 - 23:44] Entendeu?
+[23:45 - 23:47] Compreendeu aí os demais.
+[23:47 - 23:51] Tranquilo. Então esse é o projeto de extensão.
+[23:51 - 23:54] Quem é o professor vai estar com você lá no projeto de extensão?
+[23:54 - 23:56] Pronto, perfeito.
+[23:56 - 23:58] Show de bola.
+[24:03 - 24:05] Fala, irmão.
+[24:05 - 24:10] A gente vai estudar a mesma equipe dele, relacionar a variedades com o site.
+[24:10 - 24:12] Isso, isso.
+[24:13 - 24:21] Ver quem são os objetos ali e fazer toda essa relacionamento e vocês vão aprender lá com o professor Alexandre, por exemplo, entendeu?
+[24:21 - 24:23] E fazer...
+[24:23 - 24:24] O que é a questão aí?
+[24:24 - 24:34] Ou se não, focar na parte do desenvolvimento também, um Java que vocês estão aprendendo, programação orientada ao objeto, no code, vocês vão escolher o que vocês querem incrementar.
+[24:34 - 24:41] ou dividir a equipe, a galera vai estudar mais Python para desenvolver mais o código
+[24:41 - 24:44] e a outra parte da equipe vai estudar mais mandadres.
+[24:44 - 24:49] O segmento aí, a tua equipe, você a ajeita ou o projeto de luzês.
+[24:49 - 24:52] Comprendido?
+[24:52 - 24:58] Tem um colega aqui que ele está da noite e vai para amanhã, ele tem que ver qual é
+[24:58 - 25:00] o que ele vai entrar dentro do projeto.
+[25:00 - 25:02] Ou que ele vai fazer só.
+[25:02 - 25:11] vai fazer só já tem que pensar logo e também você fala como se a gente
+[25:11 - 25:18] tivesse que fazer um projeto continuado até o final do curso o mundo ideal é esse
+[25:18 - 25:22] né não tem liberdade trocais tem mais um mundo ideal é esse porque aí tu vai
+[25:22 - 25:26] pegando a ideia e vai o que incrementando aquela ideia e a tela se tornar algo
+[25:26 - 25:31] para você sair com software já com portfólio.
+[25:31 - 25:36] Cara, no longo do curso eu comecei a conhecer ideia e eu dei continuidade até finalar
+[25:36 - 25:37] e fui fazendo cremitação, ok?
+[25:37 - 25:40] E consegue que se você for todo ideia,
+[25:40 - 25:43] aí você tem um expertise e consegui em cada semestre,
+[25:43 - 25:46] envolver software, entende?
+[25:46 - 25:51] Mas eu vejo com uma evolução e com maturação, maturidade de software.
+[25:51 - 25:53] Bom dia, bom dia.
+[25:53 - 25:56] Um dia, para dar uma pergunta para vocês.
+[25:56 - 25:57] A trecho de cadeira.
+[25:57 - 25:58] A trecho de cadeira.
+[25:58 - 26:00] Para lá, para lá, para lá.
+[26:00 - 26:02] Isso é uma palavra para vocês, viu?
+[26:02 - 26:04] Pode falar, gente, valeu.
+[26:04 - 26:05] Valeu, cara.
+[26:05 - 26:06] Procço aéreo.
+[26:06 - 26:07] Entendeu aí, cara?
+[26:07 - 26:08] O que é que tu tenta?
+[26:08 - 26:10] Entenda, eu discordo, mas entendo.
+[26:10 - 26:12] O que é que tu discorta?
+[26:12 - 26:14] Eu tenho um projeto que eu sou preparado,
+[26:14 - 26:16] que eu não quero envolver com um projeto integrador.
+[26:16 - 26:20] E esse sim, eu gostaria de continuar até o final do curso.
+[26:20 - 26:26] Mas com o projeto integrador, eu acho que, sei lá, como é focar nos disciplinas daquele semestre,
+[26:26 - 26:29] eu acho que dá uma oportunidade de renovar.
+[26:29 - 26:33] Eu não gosto muito de ficar estagnado, trabalhando sempre da mesma coisa,
+[26:33 - 26:39] então essa perspectiva de fazer algo diferente todo o semestre me anima.
+[26:39 - 26:44] Sim, mas quando você pega o mesmo sistema, o mesmo sistema,
+[26:44 - 26:51] e você vai absolvendo o conhecimento e colocando para rodar naquele sistema
+[26:51 - 26:54] que ele está criando uma maturidade, entendeu?
+[26:54 - 27:01] Se você pegar hoje um sistema contábil lá do Edson Queroz, de 1995 ele é o mesmo de hoje
+[27:01 - 27:07] mas ele ainda acaba sendo um sistema contábil que requer as mesmas necessidades
+[27:07 - 27:11] mudou por conta de complices, em algumas contas de leis normativas,
+[27:11 - 27:16] Trabalhistas, tecnologias, então ele é o mesmo software.
+[27:16 - 27:22] Então aqui, na minha ideia, outras instituições também que navegam dessa forma.
+[27:22 - 27:29] Porque lá dentro da engenharia de software, o que é que ele diz?
+[27:29 - 27:34] Que todo software ele precisa ser renovado ao longo do tempo,
+[27:34 - 27:36] quanto das tecnologias e tudo.
+[27:36 - 27:39] Quando você pega um software e vai mudando ele,
+[27:39 - 27:41] Esse agora eu vou fazer um sistema de biblioteca.
+[27:41 - 27:48] Beleza, se você tiver a maturidade, concluir o sistema todinho, deixar ele todo redondinho naquele semestre,
+[27:48 - 27:52] massa no prócito criatideia, no prócito criatideia.
+[27:52 - 27:57] Mas aqui nem todo mundo tem essa capacidade ainda de estar fazendo isso.
+[27:57 - 28:01] Porque eles estão também junto com o software na maturação, né?
+[28:01 - 28:03] Então é aprendizado.
+[28:03 - 28:09] Então por isso, mas se o A1 tiver essa competência de A até o final, com o mesmo software,
+[28:09 - 28:12] quer dizer, ir mudando cada semestre, perfeito.
+[28:12 - 28:16] Perfeito, você pode fazer isso, entendeu?
+[28:16 - 28:20] Mas essa é a questão, até por questão de engenharia de software,
+[28:20 - 28:23] nenhum software ele nasce 100%.
+[28:23 - 28:28] Com o tempo, iFood, ele foi ali, ele foi criando novos recursos, ele foi maturando,
+[28:28 - 28:30] mas ele ainda é o iFood, entendeu?
+[28:30 - 28:34] A Uber, então, eles vão criando e trazendo melhorias.
+[28:34 - 28:38] Não é porque você vai ficar no mesmo software que não vão ter melhorias.
+[28:38 - 28:44] Por isso que existe frameworks como o CMM, CMMI, sabe que eu baixei aqui a luz,
+[28:44 - 28:46] depois eu coloco aqui pra vocês pesquisarem.
+[28:46 - 28:48] Tem um projeto importante.
+[28:48 - 28:50] O projeto pra mim é o...
+[28:50 - 28:54] Eu vou blançar pra vocês aí, e é que vocês já apelam.
+[28:54 - 28:58] Não, daquele lá, mas no projeto.
+[28:58 - 29:02] Não, naquela outra...
+[29:02 - 29:03] Isso?
+[29:03 - 29:04] Não.
+[29:04 - 29:08] Um, dois, três...
+[29:09 - 29:10] Próximo.
+[29:10 - 29:11] Próximo.
+[29:11 - 29:12] Aí, preenha.
+[29:12 - 29:13] Deus é.
+[29:13 - 29:16] E aí, gente, outra coisa que eu queria ver com vocês aqui,
+[29:16 - 29:19] se não esquece, eu queria alinhar com vocês aqui,
+[29:19 - 29:23] que eu queria deixar hoje pelo menos boa parte aqui,
+[29:23 - 29:25] a midera ficar a 100%.
+[29:25 - 29:31] A gente testa a plataforma A, vem quais são as disciplinas que estão faltando pra vocês e eu alinhar aqui.
+[29:31 - 29:34] Hoje a gente tirasse um tempo pra tá fazendo isso, o que vocês acham?
+[29:34 - 29:35] Acho ótimo.
+[29:35 - 29:36] Ahn?
+[29:36 - 29:37] Depois de intervalo, né?
+[29:37 - 29:39] É, certo?
+[29:40 - 29:47] Então, pessoal, eu também queria levar pra vocês, por exemplo, pegar o trabalho de alguém aqui,
+[29:47 - 29:51] tá mostrando de alguns, se mais pra vocês daram uma olhada, certo?
+[29:51 - 29:55] questão de informação, tal, a gente tem a nossa aluna aqui
+[29:55 - 29:57] se você acha o trabalho dela
+[30:00 - 30:02] consegue trazer uma visão do quinto, não?
+[30:11 - 30:13] eu tenho que fazer as mensagens que foi...
+[30:13 - 30:15] tenta, né? mas...
+[30:15 - 30:17] não posso garantir, tá?
+[30:21 - 30:26] O nosso professor fez foi, tipo, quem quisesse, todo mundo tinha que apresentar na sala.
+[30:26 - 30:30] Mas quem quisesse apresentar auditores, que a gente dá cá, se a gente dá cá.
+[30:30 - 30:34] Meu grupo, eu acho, que apresentou na sala.
+[30:34 - 30:41] É, na semana da apresentação foi quando eu parei em dias-alvos à noite,
+[30:41 - 30:43] porque eu não sei, era a aula.
+[30:43 - 30:47] Eu não tô de prazer lá.
+[30:51 - 31:21] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[31:21 - 31:23] Não é disponível, é só...
+[31:23 - 31:25] Aparece, né?
+[31:25 - 31:27] Que está com processos...
+[31:27 - 31:29] Na Tata do Cineiro
+[31:29 - 31:31] Já cheguei, eu vou chegar por aqui
+[31:31 - 31:33] Vem, irmão, vai chegar por aqui
+[31:33 - 31:35] Isso, isso, isso, isso, isso
+[31:35 - 31:37] É, é, é
+[31:37 - 31:39] Então, vamos lá
+[31:39 - 31:41] Volta, volta, volta
+[31:41 - 31:43] Agora vai sentar
+[31:47 - 31:49] E aí, Diana?
+[31:49 - 31:59] Eu entrei e saí, e depois eu entrei de mobile.
+[31:59 - 32:01] Não vou continuar no meu clã de estudo.
+[32:01 - 32:03] Não, eu entrei no dia.
+[32:03 - 32:05] Eu estou aqui mesmo.
+[32:07 - 32:11] E aí, ele falou que o negócio lá está comidos e que o senhor passou a dar chato.
+[32:13 - 32:15] Ele me redava.
+[32:15 - 32:17] O quê?
+[32:17 - 32:19] O que é isso?
+[32:30 - 32:32] O que é o nosso coitão?
+[32:34 - 32:37] O bachão não está com o miro, oi? E ai?
+[32:37 - 32:39] Tirou?
+[32:39 - 32:41] Não estou nem preocupado.
+[32:41 - 32:43] Tu tirou?
+[32:43 - 32:45] Está até arreminado, né?
+[33:15 - 33:23] Então o escopo aí do documento de vocês tem que seguir dessa forma aqui, desse mestre aqui em diante.
+[33:23 - 33:30] Isso aqui foi definido por mim pelo professor Alexandre e pelo professor Naco.
+[33:30 - 33:35] Que a gente definiu aqui com o que estava com os projetos integradores dessa forma.
+[33:35 - 33:41] Então se o trabalho de vocês anterior não tiver dessa forma, porque é vocês vão fazer nas melhorias.
+[33:41 - 33:46] que é natural quando é correto semestre você vai fazendo essas melhorias
+[33:47 - 33:51] então vai ter que ter lá o resumo né português inglês
+[33:51 - 33:56] o trodoção, o objetivo, trabalhos relacionados
+[33:57 - 34:01] metodologia, aí aqui ó no semestre passado você vai dar notas
+[34:01 - 34:05] que tinha estudado essa questão de caso de uso
+[34:05 - 34:08] aí o professor Alexandre lá na disciplina aqui
+[34:08 - 34:14] Ele pode tratar isso aqui para vocês, questão de análise de requisito, engenharia de sós,
+[34:14 - 34:21] eu acredito que vocês já vão estudar alguma coisa de engenharia de sós para esse semestre, certo?
+[34:21 - 34:23] Eu acho que é o professor Vinícius.
+[34:24 - 34:30] Descrição da sua solução, resultados, discussão e referências.
+[34:30 - 34:35] Então isso aqui é a esplenda ao sal do projeto de vocês.
+[34:35 - 34:39] Aí o que eu vou trazer em cada aula, gente? Me tragam aí, certo?
+[34:39 - 34:44] Os objetivos do trabalho, a introdução, e aí eu vou validando de equipe por aqui.
+[34:44 - 34:49] E vou dando prazo a vocês, porque senão tem prazo, a galera não, professor, no fim, não.
+[34:49 - 34:51] Aí vai empurrando, entendeu?
+[34:51 - 34:56] Isso aí é uma coisa que já vem a alinhar a dedo do outro semestre, essa questão, assim, de entregas.
+[34:56 - 35:00] Qualquer senão você vai fazer ali as preces e não, né?
+[35:00 - 35:05] Então, meu papel aqui é gerenciar essas entregas de vocês.
+[35:05 - 35:11] A apresentação final, eu não sei mais se vai ser mais...
+[35:11 - 35:12] Você é?
+[35:14 - 35:18] Aí aqui, nesse arquivo que eu vou passar para vocês,
+[35:18 - 35:24] que eu vou passar para vocês hoje, a opção é a sessão que apresenta o contexto geral do trabalho,
+[35:24 - 35:31] onde você prende o leitô, você vai colocar aqui o contexto da motivação, o problema da pesquisa,
+[35:31 - 35:37] então você vai colocar em campo, nós indo nessa cidade de uma barbearia, de um salão,
+[35:37 - 35:44] que não tinha a gestão do seu negócio, e tá, você vai colocar tudo aqui nessa parte do problema,
+[35:44 - 35:51] do contexto que a gente motivou, então aqui é na introdução do trabole,
+[35:51 - 35:53] É importante.
+[35:53 - 36:01] Tiago, para a gente que já tem esse material, em algum momento a gente pode te mandar para dar uma analisada?
+[36:01 - 36:03] A gente vê aqui na sala.
+[36:03 - 36:08] Eu vou ficar aqui na sala justamente alinhar isso aqui.
+[36:08 - 36:11] Meu trabalho aqui é dentro da sala.
+[36:11 - 36:15] Não tem como até que eu nem tento estar olhando isso aqui fora.
+[36:15 - 36:18] Não, é para não me atar de luz.
+[36:18 - 36:33] Descrição dos objetivos. Embora muitas vezes os objetivos estejam inseridos no final da introdução, é crucial que eles sejam bem definidos e explícios.
+[36:33 - 36:40] Aí você vai colocar lá os objetivos geral, o objetivo, esse é círculo, o seu trabalho.
+[36:40 - 36:43] Porque cada trabalho, às vezes, cada um tem um nó,
+[36:43 - 36:46] que a colega fez ali o do salão,
+[36:46 - 36:48] mas ela pegou ali como referência,
+[36:48 - 36:51] mas o dela tem objetivos específicos,
+[36:52 - 36:55] que são intrínsecos daquela necessidade que ela viu,
+[36:56 - 36:58] que o olhar clínico dela viu,
+[36:58 - 37:00] junto com as pessoas lá da empresa,
+[37:00 - 37:04] com aquela deficiência daquela empresa, daquela necessidade.
+[37:04 - 37:08] Às vezes já existe um software de prateleira já pronto lá,
+[37:08 - 37:12] mas com a espécie de às vezes uma pessoa trabalha na área,
+[37:12 - 37:15] juntamente com a necessidade, né?
+[37:15 - 37:19] E o aqueles objetivos que ela conseguiu vir para usar,
+[37:19 - 37:21] aqueles objetivos aí, né?
+[37:21 - 37:23] Sim.
+[37:23 - 37:25] Tranquilo aí, galera?
+[37:27 - 37:29] Então vai ter o objetivo, né?
+[37:29 - 37:31] Que a gente vê com uma questão geral,
+[37:31 - 37:33] e o objetivo é isso, né?
+[37:33 - 37:35] Sim, entenderam aí, né, gente?
+[37:35 - 37:37] Sim.
+[37:38 - 37:43] Eu já falei, ó, o objetivo geral e os específicos.
+[37:44 - 37:46] O lá aqui que eu já falei.
+[37:47 - 37:54] Trabalhos relacionados. Aí vocês vão pegar um trabalho já relacionado
+[37:54 - 38:00] pra realmente o quê? Trazer aquela ideia que realmente existe aquela necessidade no mercado
+[38:00 - 38:03] e que aquilo ali já está o quê em movimento, né?
+[38:03 - 38:05] Vocês estão fazendo o quê?
+[38:05 - 38:07] a maturação daquela ideia.
+[38:07 - 38:09] Vocês estão ali colocando,
+[38:09 - 38:11] enxergando novas necessidades,
+[38:11 - 38:13] novas possibilidades
+[38:13 - 38:15] para aquele sólcer que já existe,
+[38:15 - 38:17] aquela necessidade que já existe no mercado.
+[38:17 - 38:19] Isso é isso.
+[38:19 - 38:21] Vocês têm que documentar,
+[38:21 - 38:23] colocar aí a referência,
+[38:23 - 38:25] que é o Gap,
+[38:25 - 38:27] identificação da lacuna.
+[38:27 - 38:29] Então, ao analisar os trabalhos
+[38:29 - 38:31] anteriores, você vai aqui
+[38:31 - 38:33] reforçar e vender o que?
+[38:33 - 38:38] Você vai vender o seu peixe, então a colega que fez o trabalho dela com o salão,
+[38:38 - 38:44] ela já viu um outro sósforo e viu que aquele sósforo não atende a necessidade dela.
+[38:44 - 38:50] É um trabalho já relacionado de outros trabalhos, mas ela viu a necessidade pela
+[38:50 - 38:57] expertise dela com o salão, ela está ali vendo o que realmente funciona e não funciona.
+[38:57 - 39:01] É, nos demais só o treino que vocês forem fazer.
+[39:01 - 39:03] Também tem essa visão, fala aí, Júma.
+[39:03 - 39:07] Não, a dúvida é que eu ia perguntar você...
+[39:07 - 39:12] Olha aí, eu estou entrando na mente da galera.
+[39:12 - 39:13] Realmente.
+[39:13 - 39:17] Não é igual aquele cara lá, o professor Xavier, que entra na mente da galera.
+[39:17 - 39:18] Oi.
+[39:19 - 39:20] Beleza.
+[39:21 - 39:24] Pesquiso, vocês vão aqui colocar...
+[39:24 - 39:32] analise, vocês vão fazer a analise do trabalho relacionado e identificar o que eu falei agora,
+[39:32 - 39:39] que a colega teve a visão com a expertise dela dentro do salão. Ela já utilizou um programa
+[39:39 - 39:44] lá de prateleira que ela comprou e realmente não atendeu a necessidade dela. Ela vai analisar o
+[39:44 - 39:50] porquê, ela criou esse novo sócio do que é aquele tende diferente, que ela vai vender o peixe dela
+[39:50 - 39:58] com o trabalho. A metodologia, então, é como ela fez esse trabalho com que ela separa
+[39:58 - 40:07] o equipe, seja um trabalho qualitativo, seja um trabalho quantitativo, estudar caso experimental.
+[40:07 - 40:13] Qualitativo a gente estava em naqueles pontos menores nos detalhes do software. Quanto
+[40:13 - 40:18] e eu estou vendo a porcentagem de quanto aquele software
+[40:18 - 40:22] a usabilidade dele é melhor, quanto aquele software
+[40:22 - 40:25] está em resultados melhores e quanto aquele software
+[40:25 - 40:28] ele trouxe de melhoria. Então você vai colocar gráficos
+[40:28 - 40:33] comparando o software dela com o seu software.
+[40:33 - 40:35] O software que já existe lá de prateleira.
+[40:35 - 40:40] Aí você vai colocar o que gráficos de uso,
+[40:40 - 40:41] do que as pessoas estão utilizando.
+[40:41 - 40:45] quem foi preferir mais esse sócio, o que achou melhor, vai colocar isso aí de forma,
+[40:45 - 40:51] o que? Quanto está ativo? Qualidade está ativa, é realmente a galera colocar ali a sua opinião,
+[40:51 - 40:57] se você foi achou melhor e tal, documentar que isso ali, então é uma diferença aí, certo pessoal?
+[40:57 - 41:04] E também você pode utilizar o 2, colocar dentro da sua petesquisa os dois, então gente, isso aí,
+[41:04 - 41:10] esse tipo de amostragem ali é importante para o trabalho de vocês, beleza pessoal, tranquilo,
+[41:10 - 41:12] É importante ter isso aí.
+[41:12 - 41:16] Se mexe passar, a galera fugir um pouco disso aqui, entendeu?
+[41:16 - 41:19] A galera não tirou 10 porque realmente não...
+[41:19 - 41:21] A evangelha era que não tirou 10.
+[41:21 - 41:25] Quem fez isso aqui é juntamente com os outros requisitos.
+[41:26 - 41:28] Tirou 10 aí, isso, né?
+[41:28 - 41:29] Vem, senhor.
+[41:29 - 41:34] Vem, tei na sua parte de mostrar a infância do...
+[41:34 - 41:37] Qualitativa, cara, tu vai ali, ó.
+[41:37 - 41:44] Só realmente a curar. Tu colocou pra galera utilizar o software,
+[41:44 - 41:49] o software que já investiu, o software que tu colocou, pelo menos a ideia do software.
+[41:49 - 41:53] A galera vai lançar a opinião dela naquele software.
+[41:53 - 41:56] Então tu pegou isso aí, a galera descreveu,
+[41:56 - 42:01] a usabilidade desse software é melhor, eu consigo navegar de maneira mais intuitiva.
+[42:01 - 42:07] Ele coloca isso aqui, há mais no cartão de cumprência, detalhe, etc.
+[42:07 - 42:14] Especifica melhor esse detalhe. Então o cara ali, detalhou, já a outra,
+[42:14 - 42:20] constativa, eu vou colocar o que? Gráficos e vou pedir opinião e depois tu vai mensurar isso aí, números.
+[42:20 - 42:24] Mais ou menos dois sofrios em reais, a gente não vai ligar de baixo.
+[42:24 - 42:29] Ah, é isso. Tipo, eu tenho um exemplo no card.
+[42:29 - 42:33] Tem duas sofrers que a gente usa, como testar os endocontos e daqui em...
+[42:33 - 42:36] O Coachman de Sony.
+[42:36 - 42:39] Aí o Coachman, ele é hiper-moblificado.
+[42:39 - 42:42] Ele é muito mais robusto, muito mais...
+[42:42 - 42:46] mais construído em muitas opções.
+[42:46 - 42:47] Só que ele é muito mais pesado.
+[42:47 - 42:49] A Wii Sony é bem mais leve,
+[42:49 - 42:51] pelo menos em espaço,
+[42:51 - 42:56] Ele é bem mais otimizado, só que ele é muito simples naquele momento.
+[42:56 - 43:01] E tem outra terceira opção, que ele faz a mesma função do post para o missione,
+[43:01 - 43:03] só que ele é dentro do véspera-cojo.
+[43:03 - 43:07] A gente já tem a extensão do aplicativo.
+[43:07 - 43:11] Aí ele já tem, de boa, que ele tem uma contabilidade para você não precisar baixar,
+[43:11 - 43:14] porque ele já está dentro do ambiente do código.
+[43:14 - 43:17] Acaba sendo multiplataforma, né?
+[43:17 - 43:22] Aí você tem esse exemplo aí.
+[43:22 - 43:27] Aí tu coloca aí os pontos positivos para a comparação do teu trabalho,
+[43:27 - 43:29] o outro não é infalhe sinal.
+[43:29 - 43:31] Compreende?
+[43:31 - 43:33] Seu momento para a gente ficar bom fazendo isso.
+[43:33 - 43:36] Pelo menos um velho, um outro chato.
+[43:36 - 43:38] Você vai estar só rolando aqui, então fala aí,
+[43:38 - 43:40] eu estou para tudo,
+[43:40 - 43:43] e tem outro que a gente está aí, puxou.
+[43:43 - 43:46] Tem que parar mesmo a função no carinho.
+[43:46 - 43:53] Aí teve uma comparação, um balitativo, escrevendo, você colocou lá no teu texto e escreveu.
+[43:53 - 43:57] Embedido em escrevendo, podia pegar os gráficos e tipo comparar, entendeu?
+[43:57 - 44:01] Ó, o uso desse aqui, aí faz uma pesquisa e comparado.
+[44:01 - 44:06] Mas eu acredito que de forma mais simples pra vocês,
+[44:06 - 44:09] é pra fazer algo paletativo.
+[44:09 - 44:14] Vocês colocam a visão de vocês, até porque você não vai ter tempo de ir em um local,
+[44:14 - 44:19] local e na empresa não vou obrigar você a ver até a entrada para colega que fica fácil
+[44:19 - 44:24] que ela está fazendo lá o solter lá dentro da empresa dela né mas nem todo mundo tem
+[44:24 - 44:29] esse tempo então vou exigir isso de vocês aí então para um qualitativo aí já já tá de
+[44:29 - 44:36] bota muito fazer essa comparação entre vocês aí mas cabe você entender que você está fazendo
+[44:36 - 44:41] isso você tem que colocar ali para comunidade você tá atendendo esse tipo de pesquisa entende
+[44:41 - 44:46] A gente até fez uma parte de graça, uma área tão pintuada.
+[44:46 - 44:51] O coração dos ovários é um pouco...
+[44:51 - 44:54] Essa foi tá fazendo um live, hein?
+[44:54 - 44:55] Beleza.
+[44:55 - 44:57] Aí já aproveita, né? Se tiver ok.
+[44:57 - 44:59] Entendeu?
+[44:59 - 45:02] A gente só vai fazer um vídeo de um lugar que você pode fazer.
+[45:02 - 45:04] E aí, Jaram? Rati, você aqui, tá trabalhando?
+[45:04 - 45:05] Um...
+[45:05 - 45:06] Algumas coisas.
+[45:06 - 45:07] Já?
+[45:07 - 45:10] O pôde de tatio com o fé do final.
+[45:10 - 45:12] Não, mas é um...
+[45:12 - 45:14] Entende?
+[45:14 - 45:17] Vai usar tudo. Qual foi o tipo de estuda?
+[45:17 - 45:19] Eu coloquei aqui as alunções.
+[45:19 - 45:21] Foi um estudo de casa?
+[45:21 - 45:22] Foi um quantitativo?
+[45:22 - 45:23] Foi um experimental?
+[45:23 - 45:24] Foi um quartativo?
+[45:24 - 45:26] Gente, é um exemplo, né?
+[45:26 - 45:30] Aqui que nem os meninos fizeram o chama.
+[45:30 - 45:32] E a gente também fez a comparação,
+[45:32 - 45:35] mas não tá dentro do documento que foi entregue com o Otônio.
+[45:35 - 45:39] A gente usou só na produção do slide.
+[45:39 - 45:43] No caso, você quer que a gente pegue essa poluaração e coloque dentro do documento.
+[45:43 - 45:44] Isso.
+[45:44 - 45:44] O aplicativo.
+[45:44 - 45:45] Isso.
+[45:46 - 45:46] Perfeito.
+[45:46 - 45:47] Show.
+[45:47 - 45:48] E aí, Luz.
+[45:49 - 45:50] É Luz, né?
+[45:50 - 45:51] Teu embalo, né?
+[45:51 - 45:53] Luz, você sabe que é meu, Mateus.
+[45:53 - 45:54] Mateus, olha, é tu.
+[45:54 - 45:55] É Luz.
+[45:55 - 45:56] Tudo certo, cara?
+[45:56 - 45:56] Eu tô tendo medo.
+[45:56 - 45:57] Tá triste, mano?
+[45:57 - 45:59] Tá entendendo que é o que você fala?
+[45:59 - 46:00] Eu tava lá na sala.
+[46:00 - 46:01] Tá com a mão.
+[46:01 - 46:02] Luz, que eu perta.
+[46:02 - 46:02] Fui, cara.
+[46:03 - 46:05] Sinala, assassinha, limpa.
+[46:05 - 46:07] E eu não contado.
+[46:07 - 46:08] Só me matando.
+[46:08 - 46:10] O colega aqui que é pra que tá uma coisa?
+[46:10 - 46:13] A negada triste aí, mano.
+[46:13 - 46:15] Já, que se fosse eu.
+[46:15 - 46:16] Fala aí.
+[46:16 - 46:18] O que você tá falando aí?
+[46:18 - 46:22] Aí que botou só o documento, a parte de um disanérgio.
+[46:22 - 46:27] Não gostou, tá no excitement, só não vai tá no...
+[46:27 - 46:29] Né, depar.
+[46:29 - 46:32] Que isso aí cabe tentar metodologia, entendeu?
+[46:32 - 46:34] Que é metodologia.
+[46:34 - 46:44] Mas só as ferramentas que eu estou utilizando, eu estou programando aqui e a minha base de ferramentas é no CMM.
+[46:44 - 46:47] Estou usando esse CMM para desenvolver um projeto.
+[46:47 - 46:51] Isso é uma metodologia de trabalho que você está usando.
+[46:51 - 46:59] Eu utilizei caso de uso, eu utilizei toda essa diagrama de entidade relacional.
+[46:59 - 47:06] Então isso aí é o que é isso? Metodologias que está aplicando para fazer a entrega do teu produto.
+[47:06 - 47:10] Você tem que especificar dentro do seu trabalho. A metodologia.
+[47:11 - 47:12] Entendeu?
+[47:14 - 47:20] Porque senão você coloca ali só como um ferramento, mas não te usa a teoria como metodologia também.
+[47:20 - 47:25] lá dentro desses anéis aí você pode colocar a interface do soltor
+[47:25 - 47:29] caso tu queira o tiro desse software e colocar a interface dele
+[47:29 - 47:32] entende? Aí tu coloca os anéis
+[47:32 - 47:35] No caso a interface foi presinha
+[47:35 - 47:36] Aí tu coloca também
+[47:36 - 47:37] Como é?
+[47:37 - 47:41] A interface, esse sistema foi presinha
+[47:41 - 47:45] Minha, né? Aí tu vai colocar lá que tu utiliza essa ferramenta
+[47:45 - 47:46] Entendeu?
+[47:46 - 47:54] Você fez o protótipo aí, em todo o ar, ferrada.
+[47:54 - 48:00] Então, o ideal era que agora evoluir para o próximo passo, utilizar um fígado para
+[48:00 - 48:05] aprender esse desafio, de utilizar um novo ferramente.
+[48:05 - 48:08] É até um desafio aí, coloca aí.
+[48:17 - 48:18] Posso ir?
+[48:21 - 48:22] Tá ok.
+[48:24 - 48:31] Metodologia, procedimentos, né? Então aqui como eu falei, você vai descrever o passo a passo de como o projeto foi desenvolvido.
+[48:31 - 48:40] envolvido, quais ferramentas e técnicas foram utilizadas, eu utilizei o framework X, eu
+[48:40 - 48:46] utilizei o framework Y, assim assim assim, então tem dentro da metodologia do trabalho,
+[48:46 - 48:53] analgidas, explica como você analisou os resultados, que tipo de análise, estatixa, aquilo que
+[48:53 - 48:58] eu já tinha falado anteriormente lá nos objetivos, aí aqui você vai detalhar dentro
+[48:58 - 49:00] da sua metodologia.
+[49:00 - 49:06] Eu utilizei um caso de uso, um diagrama de entidade
+[49:06 - 49:07] relacionado.
+[49:07 - 49:09] Eu aprendi lá com o professor Alexandre,
+[49:09 - 49:12] com o professor Vinicius lá na disciplina.
+[49:12 - 49:14] Quais diferenças estão fazendo com o professor Vinicius
+[49:14 - 49:15] sem aqui?
+[49:15 - 49:16] C.
+[49:16 - 49:17] C.
+[49:17 - 49:19] Quais são as que vocês estão fazendo aqui?
+[49:19 - 49:20] Só proteger, pá.
+[49:20 - 49:23] A questão aqui do projeto é a de C, a de Java,
+[49:23 - 49:25] a de bancos de dados, a de projetos.
+[49:25 - 49:27] Tem mais uma.
+[49:27 - 49:34] A ardua de C é com o professor Vinicius.
+[49:43 - 49:50] Aqui, da descrição da solução, é que você vai escrever a questão de usar a habilidade do seu software,
+[49:50 - 49:55] qual a metodologia de usar a habilidade, componentes, detalhes na implementação,
+[49:55 - 50:03] que você vai colocar aqui, cara, eu utilizei aqui o Java, eu utilizei aqui o C, dot-ned, o Python,
+[50:03 - 50:11] aí você vai escrever aí como você utilizou, programação orientada ao objeto, né, então aqui você vai colocar
+[50:11 - 50:19] de forma que você mostra realmente que você fez isso, né, com tabelas, com uso da alinhadicódica,
+[50:19 - 50:21] trechos, né?
+[50:24 - 50:27] Discussão, né? Aqui você vai
+[50:27 - 50:29] interpretar os resultados, né?
+[50:29 - 50:32] Colocar aqui a interpretação, né?
+[50:32 - 50:36] Implicações, limitações, né? Então aqui você vai colocar, né?
+[50:37 - 50:42] Dentro do seu sistema, o que você vê ali que nesse Mesh não deu
+[50:42 - 50:46] para trabalhar e vai ficar essa pesquisa aí para os demais, sim?
+[50:46 - 50:48] Mesh você evoluir.
+[50:48 - 50:52] Perfeito, pessoal? Aqui você vai colocar esses questões aqui.
+[50:52 - 50:57] Porque como eu falei, não tem com você, eu não sei que você já seja um programador,
+[50:57 - 51:00] já tem aquela ideia, já toda formatada na sua cabeça,
+[51:00 - 51:08] que você já realmente desenvolveu um software todo em ONG durante esse semestre, certo?
+[51:08 - 51:14] Então, geralmente, se você conseguir, você vai explicar aí como você fez isso de maneira detalhada.
+[51:14 - 51:20] caso não, aqui a gente está pedindo a prensa para você documentar essa fase do projeto.
+[51:20 - 51:22] Você vai documentar e como foi esse desafio.
+[51:22 - 51:26] Certo? Da linguagem, código, né?
+[51:26 - 51:32] Sugestões para trabalhos futuros, como é que você vai trazer essas melhorias aí?
+[51:32 - 51:48] Aí é que pessoal, como professora essa parte aqui o Alexandre que fez, limitações,
+[51:48 - 51:53] seja aqui que eu estava falando, seja honesto sobre as limitações de seu estudo, que não
+[51:53 - 51:58] foi possível fazer onde seu estudo pode ser aprimorado, aí eu preciso desenvolver,
+[51:58 - 52:02] no seu, no Python, né? Programação orientada ao objeto,
+[52:02 - 52:05] precisa entender mais de bancos de dados, né?
+[52:05 - 52:10] Então você precisa ver toda essa questão do projeto de vocês.
+[52:10 - 52:12] Sério? Mas vocês vão trabalhar.
+[52:12 - 52:16] Aí sugestão, interpretação, não é isso.
+[52:16 - 52:20] Esse é o escopo de trabalho. Eu vou pegar aqui o contato de alguém
+[52:20 - 52:24] e vou mandar pra vocês ou senão já coloca aqui hoje dentro da plataforma.
+[52:24 - 52:26] Sério, pessoal?
+[52:26 - 52:37] E hoje, pelo que vocês já fizessem alguma melhoria na questão dos objetivos do trabalho de vocês, na introdução, no resumo,
+[52:37 - 52:41] nessa base desse alicece do trabalho de vocês.
+[52:41 - 52:47] O que é que vocês visam dentro de vocês, se reunissem, vocês vissem dentro do trabalho de vocês,
+[52:47 - 52:53] o que é que vocês já poderiam melhorar aí dentro do trabalho e já refinar a ideia.
+[52:53 - 53:01] Eu preciso fazer hoje os objetivos, tudo isso, mas já refinar, né, ter esse grand story aí, né, de
+[53:01 - 53:06] ideias do que vocês visam, né, melhorar.
+[53:06 - 53:11] Primeiro, pra gente separar tudo, deve ser ver os documentos de cada um.
+[53:11 - 53:17] Cara, mas aí vocês já sabem quem é quem aqui, não sabe quem é cada aqui, já tá separado,
+[53:17 - 53:22] aí vocês já pensam nessas ideias aí, quando vocês vão matar essas ideias.
+[53:22 - 53:29] Aí eu olho aí o que você já tem, porque eu já vou olhar o que você já tem e a ideia de vocês, tá entendendo?
+[53:30 - 53:35] Eu vou olhar, a ideia que você já tiver com a Tony, ela já foi aprovada, não já foi validada?
+[53:36 - 53:37] Não vou validar de novo?
+[53:38 - 53:41] Já foi validada, e o que é que vocês vão pensar?
+[53:41 - 53:47] Novo objetivo, né? Que é que vocês, objetivos específicos, objetivos geral, que é que vocês
+[53:47 - 53:49] Vem se fazer do trabalho aí você me mostra.
+[53:49 - 53:52] Não obriga a ser hoje, pode ser na próxima aula
+[53:52 - 53:54] e já vai alterando lá no arquivo, entendeu?
+[53:54 - 53:55] Tem o que o...
+[53:55 - 53:57] Seja passado pelo Atom, né?
+[53:57 - 53:59] O colega aqui já passou pelo Alexandre, né?
+[53:59 - 54:01] Ele já validou, não já o trabalho?
+[54:01 - 54:02] Tem que eu validar de novo.
+[54:03 - 54:06] Não quero validar o que tem de novo.
+[54:06 - 54:07] Entendeu? Não, passados.
+[54:07 - 54:09] Passados ficam no passado.
+[54:09 - 54:11] Só pra aumentar o ebno.
+[54:11 - 54:11] É?
+[54:11 - 54:13] Só pra aumentar o ebno.
+[54:13 - 54:15] Viu?
+[54:15 - 54:15] Beleza.
+[54:15 - 54:20] Aí vocês reúnem, aí tem um colega aqui que ele vai tomar decisão dele aí,
+[54:20 - 54:24] se ele vai caminhar como um lobo solitário,
+[54:24 - 54:26] se ele vai entrar na matilha.
+[54:28 - 54:29] Oi!
+[54:30 - 54:30] Oi!
+[54:31 - 54:31] Oi!
+[54:33 - 54:34] Oi!
+[54:35 - 54:36] O cara não tá aí hoje, né?
+[54:37 - 54:38] Ele não tá aí hoje, né?
+[54:38 - 54:41] O Juninho, a minha também, dois saíram.
+[54:41 - 54:43] Ei, gente! Aí eu vou...
+[54:43 - 54:50] Vem aqui a questão da plataforma A e vocês vão colocando a questão dos objetivos depois me mostra hoje
+[54:50 - 54:55] Na próxima aula você já começa a refinar e alguma coisa
+[54:55 - 54:57] Tranquilo?
+[54:57 - 54:59] Sim
+[54:59 - 55:03] Você está falando que está bem, porque você tinha a porta para variar
+[55:03 - 55:06] Mas quando é um acesso, qual é o conteúdo?
+[55:06 - 55:15] Não, esse conteúdo, essa responsabilidade de conteúdo não é minha, é do profe, sou da disciplina, beleza?
+[55:15 - 55:22] A minha responsabilidade é colocar disciplinas para vocês dentro da data, o que eu vou ver com a alunos de segurança,
+[55:22 - 55:27] se todos os ass disciplinos desse timez está dentro da data, beleza?
+[55:27 - 55:32] Está dentro da data, a disciplina, ok? Está todos os ass disciplinos, tá?
+[55:32 - 55:36] Então, cabe agora ao professor ir lá e ajustar.
+[55:36 - 55:37] Você está entendendo?
+[55:37 - 55:38] Então, eu vou ver.
+[55:38 - 55:40] Então, o curso, qual é esse?
+[55:40 - 55:42] Mas não são os mesmos.
+[55:42 - 55:44] Não são os mesmos, né?
+[55:44 - 55:46] Para todos os cursos.
+[55:46 - 55:51] Mas vocês estão em turmas diferentes dentro da plataforma, entendeu?
+[55:51 - 55:54] Eu tenho que navegar em três turmas diferentes.
+[55:54 - 55:59] Vocês estão em turmado de forma diferente.
+[55:59 - 56:01] O colega que é de qual?
+[56:01 - 56:03] Tu também, Geronimo, Mades?
+[56:03 - 56:04] Bom, eu também.
+[56:04 - 56:10] Aí tu olha ali pra mim, faz essa gentileza, que eu vou entrar aqui, aí tu verifica, quais são as que não estão?
+[56:10 - 56:13] Eu estou ensinando aqui em todas, mas só para...
+[56:13 - 56:15] Tá aqui, aberto?
+[56:15 - 56:17] Mas não tem que entre o meu.
+[56:17 - 56:20] Tá em todas? Tá para ascender? Tá lá, tá certo?
+[56:20 - 56:22] Não, não.
+[56:24 - 56:26] Não me seguiu por aí.
+[56:26 - 56:26] Hum!
+[56:39 - 56:42] Ei, Jaurão, cara, fica a vontade aí, viu, cara?
+[56:43 - 56:46] Vai seguir com o louco, o contrário, entendeu?
+[56:48 - 56:50] Porque tu já tá programando de boa, né, cara?
+[56:56 - 57:03] O que é isso?
+[57:03 - 57:06] O que é isso?
+[57:06 - 57:08] O que é isso?
+[57:08 - 57:10] O que é isso?
+[57:10 - 57:12] O que é isso?
+[57:12 - 57:14] O que é isso?
+[57:14 - 57:16] O que é isso?
+[57:16 - 57:18] O que é isso?
+[57:18 - 57:20] O que é isso?
+[57:20 - 57:22] O que é isso?
+[57:22 - 57:24] O que é isso?
+[57:24 - 57:26] Eu estou na sua filhinha, eu tenho riso do carinho.
+[57:26 - 57:27] Enzo?
+[57:27 - 57:28] Enzo?
+[57:28 - 57:33] Você pode vir aqui para eu pegar uma cadeirinha que já faça o liquid no caramelo.
+[57:33 - 57:36] É, pode tirar.
+[57:36 - 57:38] Pode tirar, pode tirar.
+[57:38 - 57:41] Não mostra que eu estou com a sua filhinha.
+[57:41 - 57:44] Você não tinha deixado a sua filhinha, não.
+[57:44 - 57:46] Então eu vou pegar nesta aqui.
+[57:46 - 57:48] Eu não estou com a filhinha, não.
+[57:48 - 57:50] Foi que era?
+[58:20 - 58:22] Mas o próprio velho, né?
+[58:22 - 58:27] Aí é que o meu papel aí tá bem.
+[58:27 - 58:32] Aí é que o meu papel aí tá bem.
+[58:32 - 58:35] Ah, vamos lá, então aí.
+[58:35 - 58:38] Papel do próprio velho.
+[58:38 - 58:40] Aí é que o meu papel aí tá bem.
+[58:40 - 58:43] Aí é que o meu papel aí tá bem.
+[58:43 - 58:45] Ah, vamos lá, então aí.
+[58:45 - 58:47] Papel do próprio velho.
+[58:47 - 58:49] Aí é que o meu papel aí tá bem.
+[58:49 - 58:51] Já está o bicho?
+[58:51 - 58:53] Você vai começar aqui, a gente vai colocar o bicho.
+[58:53 - 58:55] Você não tem que ficar com o bicho.
+[58:55 - 58:56] Vai ser?
+[58:56 - 58:57] Vai estar entrando.
+[58:57 - 58:58] Tá entrando.
+[58:58 - 59:00] E aí, galera, quem for de ADS,
+[59:00 - 59:03] todos as disciplinas já estão em bicho.
+[59:03 - 59:05] Dentro da plataforma...
+[59:05 - 59:07] São dos impôs, né?
+[59:07 - 59:10] Não, é isso que eu estou explicando.
+[59:10 - 59:14] Eu, Tiago, sou responsável por colocar a disciplina
+[59:14 - 59:16] habilitada aí pra vocês.
+[59:16 - 59:20] Agora, o conteúdo é o professor da AGC.
+[59:21 - 59:24] Já está na dada certinha.
+[59:24 - 59:26] Está tudo certinho, beleza?
+[59:26 - 59:27] Eu nunca sei.
+[59:27 - 59:29] Aí eu vou verificar o dia A agora.
+[59:29 - 59:32] Eu também entendi o processo de criador também.
+[59:33 - 59:34] Vou colocar.
+[59:34 - 59:36] Esse eu acho que tem A aqui.
+[59:36 - 59:37] Tem, sim.
+[59:37 - 59:38] Aqui?
+[59:38 - 59:41] A luna de A tem um Samuel.
+[59:41 - 59:42] Tem.
+[59:42 - 59:48] Samuel, entrem porque eu não lembro o que eu fiz no dia a, o carro.
+[60:12 - 60:34] Eu vou colocar dentro da plataforma.
+[61:04 - 61:07] Eu não quero que você tenha que ter que ir lá.
+[61:07 - 61:09] e aí
+[61:09 - 61:11] e aí
+[61:11 - 61:13] e aí
+[61:13 - 61:15] e aí
+[61:15 - 61:17] e aí
+[61:17 - 61:19] e aí
+[61:19 - 61:21] e aí
+[61:21 - 61:23] e aí
+[61:23 - 61:25] e aí
+[61:25 - 61:27] e aí
+[61:27 - 61:29] e aí
+[61:29 - 61:31] e aí
+[61:31 - 61:33] e aí
+[61:33 - 61:35] e aí
+[62:05 - 62:07] de ar, hein?
+[62:07 - 62:08] Só tem...
+[62:08 - 62:09] Cadê ele?
+[62:09 - 62:10] Ah, eu.
+[62:10 - 62:12] Esse elemento tá sofrente.
+[62:12 - 62:13] Ele vem pro croco.
+[62:13 - 62:15] Não é que não é.
+[62:15 - 62:19] Não consegue entrar na sua plataforma, cara.
+[62:19 - 62:21] Não, não sou lá...
+[62:21 - 62:23] Têm um computador, mano.
+[62:23 - 62:25] Computadorzinho, pode pegar.
+[62:26 - 62:28] Quer um vocário?
+[62:35 - 63:05] A gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão, a gente vai fazer o pão
+[63:35 - 63:37] Tinha outros, só que nunca vi.
+[63:39 - 63:40] Era pra ser preso.
+[63:41 - 63:43] Só que quando ele foi pra noite, o outro.
+[63:44 - 63:45] Outro só nunca vi.
+[63:52 - 63:53] A ador de fome.
+[63:54 - 63:55] A ador?
+[63:55 - 63:56] Sabe um documento...
+[63:57 - 63:58] do Progredo?
+[63:59 - 64:01] Porque não do ador do ador.
+[64:01 - 64:03] Não, não do dox.
+[64:03 - 64:08] É, tem que ver para poder mesmas olhar a sua profissão falou.
+[64:08 - 64:10] Ainda está saindo.
+[64:10 - 64:12] Preciso outro só.
+[64:12 - 64:14] Você está aqui para entrar.
+[64:14 - 64:16] Você não quer que a gente não esteja aqui.
+[64:16 - 64:18] Você não quer que a gente não esteja aqui.
+[64:18 - 64:20] Ele vai aqui.
+[64:20 - 64:22] Ele não está aqui.
+[64:22 - 64:24] Ele não está aqui.
+[64:24 - 64:26] Você tem que ser.
+[64:26 - 64:28] Você tem que ter um pouco de dor.
+[64:32 - 64:34] É, aparece aqui para a gente.
+[64:34 - 64:36] É isso.
+[64:36 - 64:47] Se eu tivesse me atentado aí, se eu tinha jogado dentro da plataforma, os dias de aço,
+[64:47 - 64:48] como se tivesse que não tragar de novo?
+[64:48 - 64:49] Sim, eu sou prazer.
+[64:49 - 64:51] É que dentro da plataforma...
+[64:51 - 64:53] Mas não tem a da noite já?
+[64:53 - 64:55] Não tem a da noite já?
+[64:55 - 64:57] Tem bastante gente já?
+[64:57 - 64:59] Não, tem um ponto de sai-me-fére aí.
+[64:59 - 65:01] Ah, deixa dele.
+[65:01 - 65:03] Porque se eu não me ganhei daí, eu tinha...
+[65:03 - 65:05] A gente tem que ter ele aí.
+[65:05 - 65:08] O professor só vai falar de quarta, quinta e se mexe.
+[65:09 - 65:11] A gente vai usar tanto de igual.
+[65:12 - 65:13] Tá lá, é?
+[65:13 - 65:14] Ahn?
+[65:14 - 65:15] E a sua?
+[65:16 - 65:18] Logo aí na plataforma, na franja.
+[65:18 - 65:19] Tá no...
+[65:19 - 65:20] No coal do mundo, mano.
+[65:20 - 65:50] Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não
+[65:50 - 65:52] O que você acha do Java?
+[65:52 - 65:54] Java tem perugado, pessoal.
+[65:54 - 65:56] Tá?
+[65:56 - 65:59] Tá. Esse semestre eu estou ensinando o Java Stream,
+[65:59 - 66:01] tirando no centro.
+[66:01 - 66:03] O que você acha do Java?
+[66:03 - 66:05] Java tem perugado, pessoal.
+[66:05 - 66:07] Tá?
+[66:07 - 66:10] Tá. Esse semestre eu estou ensinando o Java Stream,
+[66:10 - 66:12] tirando no centro.
+[66:12 - 66:14] Tá.
+[66:14 - 66:17] Esse semestre eu estou ensinando o Java Stream,
+[66:17 - 66:25] já vai ser que ele vai tirar no centro, então é mais afiado no momento, o pai está em segundo lugar
+[66:26 - 66:30] ele não sabe se vai ter um monte de tote, ou se é um monte de toleta, não vai
+[66:30 - 66:33] vamos ver se tem uma propriedade aí
+[66:33 - 66:35] se tiver, está amanhã aí
+[66:35 - 66:37] fala em pininho
+[66:37 - 66:41] monitor, bolsista, o circuito início está querendo fazer coisas para consentir
+[66:41 - 66:43] devem te dar para entrar também
+[66:43 - 66:45] qual que é a coisa que tiver?
+[66:45 - 66:49] Ele também já é bonito, ele é uma instituição.
+[66:50 - 66:52] Vocês já vão trocar a ideia.
+[66:52 - 66:54] É muito bom, cara.
+[66:54 - 66:56] Eles já vão trocar um figurinho.
+[66:57 - 66:59] O problema é a ação.
+[67:00 - 67:02] Você foi bonito se não as passava?
+[67:02 - 67:03] Dá de ser bonito se não.
+[67:03 - 67:05] Não, eu não vou.
+[67:05 - 67:06] A gente está bonito.
+[67:08 - 67:10] Ele está meio bonito aqui.
+[67:10 - 67:11] Ele é um leão.
+[67:11 - 67:12] De barulho aqui.
+[67:15 - 67:17] E que tava jogando?
+[67:17 - 67:19] E você não me dá pra mim?
+[67:19 - 67:21] Isso é novidade pra mim, não é?
+[67:21 - 67:23] Não, não é?
+[67:23 - 67:25] Com 30, 30, 30
+[67:25 - 67:27] Mas você não...
+[67:27 - 67:29] Com 30, 30
+[67:29 - 67:31] Mas você não...
+[67:31 - 67:33] E aí, greguei, ouiu?
+[67:33 - 67:35] É, greguei, ouiu?
+[67:35 - 67:37] É, greguei, ouiu?
+[67:37 - 67:39] Olha, todo tá disponível.
+[67:39 - 67:41] É, greguei, ouiu?
+[67:41 - 67:43] É, greguei, ouiu?
+[68:13 - 68:15] O que é isso?
+[68:15 - 68:17] É isso.
+[68:17 - 68:19] É isso.
+[68:19 - 68:21] É isso.
+[68:21 - 68:23] É isso.
+[68:23 - 68:25] É isso.
+[68:25 - 68:27] É isso.
+[68:27 - 68:29] É isso.
+[68:29 - 68:31] É isso.
+[68:31 - 68:33] É isso.
+[68:33 - 68:35] É isso.
+[68:35 - 68:37] É isso.
+[68:37 - 68:39] É isso.
+[68:39 - 68:41] É isso.
+[69:11 - 69:13] e aí
+[69:13 - 69:15] e aí
+[69:15 - 69:17] e aí
+[69:17 - 69:19] e aí
+[69:19 - 69:21] e aí
+[69:21 - 69:23] e aí
+[69:23 - 69:25] e aí
+[69:25 - 69:27] e aí
+[69:27 - 69:29] e aí
+[69:29 - 69:31] e aí
+[69:31 - 69:33] e aí
+[69:33 - 69:35] e aí
+[69:35 - 69:37] e aí
+[69:37 - 69:39] e aí
+[69:39 - 69:43] O que já estava projeto de extensão? Sim ou não?
+[69:43 - 69:45] Não lembro.
+[69:49 - 69:51] Vai ter que fazer isso aí também.
+[69:53 - 69:57] Você pode me ajudar, Jérômito, depois com a turma da noite.
+[70:39 - 71:03] Quem é o de extensão? Quem é só a inspeção? Aérea. Aérea máxima?
+[71:09 - 71:16] O que é o que é o aplicativo do celular?
+[71:16 - 71:18] Como que usar pelo...
+[71:18 - 71:24] Não sei lá, usar pelo site é bem melhor do que pelo aplicativo.
+[71:24 - 71:27] O que é de ficar dando problema.
+[71:27 - 71:31] O site é bem velho do que pelo aplicativo.
+[71:32 - 71:34] O aplicativo é de ficando no problema.
+[71:57 - 71:59] O que é isso?
+[71:59 - 72:01] O que é isso?
+[72:01 - 72:03] O que é isso?
+[72:03 - 72:05] O que é isso?
+[72:05 - 72:07] O que é isso?
+[72:07 - 72:09] O que é isso?
+[72:09 - 72:11] O que é isso?
+[72:11 - 72:13] O que é isso?
+[72:13 - 72:15] O que é isso?
+[72:15 - 72:17] O que é isso?
+[72:17 - 72:19] O que é isso?
+[72:19 - 72:21] O que é isso?
+[72:21 - 72:23] O que é isso?
+[72:23 - 72:25] O que é isso?

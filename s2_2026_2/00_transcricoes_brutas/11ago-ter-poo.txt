@@ -1,0 +1,2465 @@
+--- TRANSCRIÇÃO GPU WHISPER (RADEON RX 7600) ---
+Tempo de inferência GPU: 7.63 min (457.5s) para 2h44m de áudio
+
+[00:00 - 00:04] O que você viu perder? Vocês aprenderam Python no primeiro semestre.
+[00:04 - 00:12] Tem um JavaScript e C++, que está bem acervado, mas o JavaScript já não conta mais.
+[00:12 - 00:13] Onde você?
+[00:13 - 00:14] Conteúdo de aula, viu?
+[00:14 - 00:15] É, é.
+[00:15 - 00:16] O script não pediu. Conteúdo de aula.
+[00:16 - 00:17] Tá tica.
+[00:17 - 00:21] Vou dar um pouco para o meu passar aqui e dar uns avisinho lá, guys, para você, no semestre.
+[00:21 - 00:22] Só que um show.
+[00:22 - 00:23] Ele não está ligado.
+[00:23 - 00:27] Não, já vou ver o que eu vou mandando por eles até que se pida.
+[00:57 - 01:27] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[01:27 - 01:35] Aí pessoal, daqui um pouquinho eu vou explicar como vai ser as aulas sábados, tá?
+[01:35 - 01:41] Eu tô quase com o calendário do sábado fechado, mas vai passar por aí com direitinho.
+[01:41 - 01:42] Oi?
+[01:42 - 01:44] Com o mesmo, com ele.
+[01:44 - 01:50] Esse é o papel do outro, ele pode votar a gente votar na doutor mingo de alta, é?
+[01:50 - 01:51] Ah meu Deus do céu.
+[01:51 - 01:53] A pai não vai aproveitar o tempo pra aprender, né?
+[01:53 - 01:55] Não, ele não é doutor, ele tem que trabalhar.
+[01:55 - 02:00] Fique em carro do minho, olha no celular, do minho, vem ver assistir a aula, irmão.
+[02:00 - 02:02] Não é pra você tiver?
+[02:02 - 02:06] Não dá pra fazer nada, se você quiser, dá pra fazer essa presença.
+[02:06 - 02:11] Traz a família, a família fica lá embaixo, no café, conhecendo, isso fica que é sinal.
+[02:11 - 02:17] A gente precisa estudar pra aprender, pra poder entrar no mercado, né, a dinheiro é sem funcionar.
+[02:17 - 02:18] Olha aí, tá vendo?
+[02:18 - 02:21] Mas só se não é de frente, as coisas aí não dá certo não, né?
+[02:21 - 02:23] É porque eu passei aí, tranquilo.
+[02:25 - 02:32] Você acha que o JavaScript...
+[02:32 - 02:39] Esse dia que o JavaScript fica mais tranquilo, comparado com a outra, não é basicamente o
+[02:39 - 02:45] JavaScript era mais comparado com o Java. Ele usa mesmo fila do filho de Java, que é
+[02:45 - 02:51] rodar uma arquitetura para rodar as coisas. O JavaScript é vontade de você conseguir
+[02:51 - 02:57] A gente tem que deixar o espaço, só que ele pode deixar algumas procurações, mas ele pode ser aplicado em várias coisas.
+[02:57 - 03:02] Principalmente quando você poupar os outros dados, ele roda com um MongoDB.
+[03:02 - 03:06] Você sabe que o JavaScript dá um título de Java com o MongoDB?
+[03:06 - 03:09] Não, ele não tem nada a ver. O Muno é parecido com o Muno tem nada a ver.
+[03:09 - 03:11] Uma tendência em que você é um usuário?
+[03:11 - 03:13] Uma tendência em que você é um usuário?
+[03:13 - 03:15] Sim.
+[03:15 - 03:20] O Javiscript originalmente nasceu voltado para o fontenhe.
+[03:20 - 03:24] Só outro de uma empresa que começou a utilizar ele e pronto as coisas.
+[03:24 - 03:27] Uma empresa que acho que todo mundo conhece, que é o Google.
+[03:27 - 03:30] Ele fez o Gmail, o usuário dele...
+[03:30 - 03:33] Você tem um comando que você pode acessar o fontenhe dele.
+[03:33 - 03:39] O funcionário pegou o Javiscript, usou para fazer o Gmail.
+[03:39 - 03:42] Foi uma coisa que ele fez para o trabalho, então ele mostrou que só pegou.
+[03:42 - 03:49] Agora o Java, o que mais susta é, basta você dar um olá no mundo, fazer um testão que passa uma redação.
+[03:51 - 04:00] Isso pra Java, eu sei mais o que eu acho, é um linguagem que eu poderia dizer que muda muita coisa.
+[04:01 - 04:07] Mas cada um desses linguagens mais antigos, mais a quantidade pra passar por tem.
+[04:07 - 04:09] Você não vê?
+[04:09 - 04:11] Bom dia
+[04:11 - 04:12] Bom dia
+[04:12 - 04:15] Mas eu não esperava o que você disse
+[04:15 - 04:17] Mas eu não esperava o que você disse
+[04:17 - 04:19] Não soube de uma humanidade
+[04:19 - 04:20] Não é?
+[04:20 - 04:22] Nós vamos lá para a gente começar
+[04:22 - 04:24] Vamos olhar umas coisas aqui
+[04:24 - 04:27] Quando a gente joga a frente, você se torna louco
+[04:27 - 04:29] Então vamos olhar umas coisas aqui
+[04:29 - 04:31] A discipla
+[04:31 - 04:33] Vamos fazer duas provas
+[04:33 - 04:40] Eu vou passar algumas atividades para vocês fazerem, é programação, então vocês
+[04:40 - 04:43] terem que fazer atividades.
+[04:43 - 04:47] Não vou comprar as suas atividades, não vou valer pontos, mas as provas vão ser baseadas
+[04:47 - 04:48] neles.
+[04:48 - 04:57] Então são atividades que a gente vai trabalhar algumas partes metodologias e as provas vão
+[04:57 - 04:58] ser baseadas neles.
+[04:58 - 05:03] Ah, não quero fazer provas, vou voltar a provas que você tem.
+[05:03 - 05:08] Ah, teve problemas, não vou poder vir todos os dias, vou ficar faltando.
+[05:08 - 05:12] O seguinte, eu vou muito personal e trazer um projeto para vocês.
+[05:12 - 05:16] Esses projetos não são obrigados a fazer.
+[05:16 - 05:20] Vocês podem fazer, se vocês quiser, não podem fazer as provas.
+[05:20 - 05:26] Eu pedi um projeto relator, o relator seria que vocês possam a primeira avaliação.
+[05:26 - 05:56] Vocês entregam o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que o que é que
+[05:56 - 05:58] Não precisa fazer apresentação, apresenta-se...
+[05:59 - 06:02] O jeito que a gente pegava de uma prova, você está no lado de você e você está explicando.
+[06:03 - 06:04] Certo?
+[06:05 - 06:07] Esse trabalho ele serve como um modo, né?
+[06:08 - 06:13] Fica com o relatório, a entrega dele, você come um modo para afinar.
+[06:14 - 06:18] Quem não quiser... Nenhum desses coisas, pode fazer o trabalho.
+[06:19 - 06:22] Não é o relatório, ou destas duas opções.
+[06:22 - 06:24] Porque cada um aprende para falar sobre esse seu jeito.
+[06:24 - 06:29] Eu, eu principalmente posso fazer os projetos,
+[06:29 - 06:32] eu consigo fazer o que eu não dá massa e eu consigo aprender.
+[06:32 - 06:34] Se você quiser fazer os dois, é só avisar também.
+[06:34 - 06:36] Não tem nenhum problema com isso.
+[06:36 - 06:40] As suas propas, da mesma forma do sinal de Santegrio,
+[06:40 - 06:42] que é um avião adedor,
+[06:42 - 06:44] se gavia em três, é necessário se causa um avião de faltagem.
+[06:44 - 06:48] Se não faltar, o carro vai ficar de onde é.
+[06:48 - 06:51] É, fazer um das propas.
+[06:51 - 06:53] Tá certo?
+[07:23 - 07:29] e você vai estar aprendendo também a semana dito que o projeto integrador está bem.
+[07:29 - 07:33] Estou dando essa opção porque esse mestre passado,
+[07:33 - 07:39] esse mestre passado está reclamando que tinha muitos projetos e muito e o projeto integrador.
+[07:39 - 07:43] E eu já tinha acesso a duas coisas e não consegui unir.
+[07:43 - 07:48] Se vocês quiserem fazer o projeto integrador,
+[07:48 - 07:55] voltado disso. Ah, eu acho que tá dentro do projeto de integrador, mas eu tô fazendo
+[07:55 - 08:00] um papel... a gente senta, vocês me dizem que é um papel integrador e eu vali.
+[08:00 - 08:06] Se vai dar certo, não dá certo, certo? Mas eu já vou trazer alguns temas pra vocês.
+[08:06 - 08:11] Eu, pessoalmente, gosto de temas voltados a parte da infopática. Então vai ser o que?
+[08:11 - 08:19] Ah, vai ser uma atividade, vai ser um projeto que pode ser uma calculadora de IP, pode ser um
+[08:19 - 08:32] gareciador de ativos, então, totalmente, pode ser um gráfico, pode pedir um jogozinho, essas coisas.
+[08:32 - 08:35] Que são ferramentas que vocês têm que desenvolver.
+[08:35 - 08:40] O que vem de vocês, sério, o jogo é a coisa que mais consome contador e que mais tem ferramentas.
+[08:40 - 08:42] E aí, a gente vai em gosto, né?
+[08:42 - 08:44] Vamos entrar tudo pra cá.
+[08:44 - 08:46] Peu, o que é isso?
+[08:46 - 08:48] Para começar a orientar o objeto.
+[08:48 - 08:50] Quer escutar esse tema?
+[08:50 - 08:54] Peu, que alguma ação orientar o objeto.
+[08:54 - 08:56] Vou explicar uma coisa pra vocês.
+[08:56 - 08:58] Esse semestre, eu já até peguei com o Fred
+[08:58 - 09:02] alguns vezes que esse semestre é muito pesado.
+[09:02 - 09:04] Entendeu?
+[09:04 - 09:08] Vocês vão ver Peu,
+[09:08 - 09:10] Vocês vão ver duas cadeiras de C
+[09:12 - 09:14] E vão ver a SQL
+[09:14 - 09:16] Bom dia, bom dia, eu sou da parada, bom dia, meu amigo
+[09:16 - 09:18] Calera, não, cadeira
+[09:18 - 09:21] Ai, chacada de cadeira essa aí, pô
+[09:21 - 09:23] Tem uns prenguei lá atrás
+[09:23 - 09:25] É, tem um lá atrás, hein
+[09:27 - 09:29] E aí vocês vão ver a SQL
+[09:31 - 09:33] A SQL, uma vez, é para criar soluções
+[09:33 - 09:37] E não, é porque a SQL é quantidade
+[09:37 - 09:42] Eu considero uma linguagem fácil porque só tem um set comando.
+[09:42 - 09:43] Mas você é focado de queira mesmo.
+[09:43 - 09:46] Você decora a SQL fácil.
+[09:46 - 09:48] Mas nada de usar...
+[09:48 - 09:50] Não tem set comando que você olha isso assim.
+[09:50 - 09:53] Dá pra fazer isso.
+[09:53 - 09:59] Quando você comeu a SQL e você vai combinando os comandos, ele vai crescendo.
+[09:59 - 10:04] Quando você comeu a ouvir o comando, vai o comando a minha vida.
+[10:04 - 10:09] Ele foi fazendo join de várias planilhas e eu elei de SESIM.
+[10:10 - 10:15] Nossa Senhora, eu queria que vocês tivessem que ficar deles.
+[10:15 - 10:17] Sem contar que o que aconteceu.
+[10:17 - 10:20] Hoje você perde, praticamente.
+[10:20 - 10:23] O segundo antero vai ser o projeto da agradou e vocês.
+[10:23 - 10:27] Hoje é o SEPO e nos outros dias, o antero é de SESIM.
+[10:27 - 10:30] Vocês vão se acostumar a falar de uma metodologia hoje
+[10:30 - 10:34] E é ruim seguir com dois dias um bem outro metodologia.
+[10:36 - 10:39] Quando falamos de outro metodologia, é o que vocês estavam programando.
+[10:40 - 10:41] Que é o que é chamado de escutural.
+[10:41 - 10:43] Basicamente é uma lista.
+[10:43 - 10:45] Vocês entendem?
+[10:54 - 10:56] Vocês entendem que quando não programar,
+[10:56 - 11:02] Você corta o primeiro linha, ele exerga o outro linha e vai fazendo tudo aquilo ali, é estrutural.
+[11:02 - 11:04] E quando chega no final termina.
+[11:04 - 11:07] Se vocês não quiserem terminar o programa, o que vocês fazem?
+[11:09 - 11:10] Loupin finito?
+[11:11 - 11:12] Então, um loupin.
+[11:12 - 11:26] A gente faz a estrutura aqui, a extinção aqui, a extinção aqui,
+[11:26 - 11:33] vou dar um novo variante por aqui, e eu voltarei rodando aqui, e até terminar.
+[11:33 - 11:37] Pior, a gente pensa mais como se fosse os blocos mesmo, porque você quer uma parte
+[11:37 - 11:46] tem esse objeto, tem esse outro objeto e vai montando ele no capuzão. São duas metodologias
+[11:46 - 11:50] totalmente diferentes. Não vai dar certo.
+[11:50 - 12:05] Professor, existia um outro paradigma antes da programação estruturada, que era aquele
+[12:05 - 12:07] código spaghetti com o go to
+[12:07 - 12:09] É, basicamente é o que a gente fala
+[12:09 - 12:11] Não, a gente tinha que indicar a linha
+[12:11 - 12:13] que o programa ia seguir e tudo mais
+[12:17 - 12:19] O que é o spaghetti basicamente
+[12:19 - 12:21] que a gente faz
+[12:23 - 12:25] É basicamente o
+[12:31 - 12:33] O go to tá bem mais
+[12:33 - 12:35] O estruturado é o que a gente fala pra mim, né?
+[12:35 - 12:38] O que acontece? Pra gente, é mais fácil ter estruturado.
+[12:38 - 12:40] Você vai fazendo comando pro comando, né?
+[12:40 - 12:41] O que já é mais fácil fazer.
+[12:41 - 12:43] Bem dentro do conceito de algoritmo, né?
+[12:43 - 12:46] É, né? E vocês vão ver muito esse algoritmo.
+[12:46 - 12:49] Portanto, quando você anda pra gente no conéxico,
+[12:49 - 12:51] vão ver muitos estruturos de dados.
+[12:51 - 12:53] É quando vocês veem estruturos de dados,
+[12:53 - 12:55] vocês vão trabalhar com várias coisas,
+[12:55 - 12:57] então não tem que ver que tem muito mais fácil.
+[12:58 - 13:00] E aí,
+[13:00 - 13:03] a coisa se dividiu em programação funcional
+[13:03 - 13:06] e programação orientada a objetos, ou se usa tudo meio misturado.
+[13:11 - 13:12] O que acontece?
+[13:16 - 13:21] Você me disser, quando estava para o projeto de estrutura, eu aprendi um bici.
+[13:21 - 13:25] E alguns dos objetos que eu usava muito, uma função chamada de struct.
+[13:25 - 13:32] É tanto que quando eu comecei a aprender P.O., eu comecei muito a paralela.
+[13:32 - 13:37] Eu sei muito disso. Só que eu pensei que a minha associação foi o quê?
+[13:37 - 13:40] A associação de extrunto. O objeto é o quê?
+[13:40 - 13:47] Pega a origem do extrunto e coloca construções extra, esse nele, vai ter algumas coisas no nosso lado.
+[13:47 - 13:51] E foi implementado e não conseguiu supontar.
+[13:51 - 13:55] Aqui é o que eu vou mostrar ao amigo o tempo, a gente vai entender um pouco mais.
+[13:55 - 14:02] O que eu poderia dizer? Você já pegaram o código, fizeram lá o código cliente de vocês
+[14:02 - 14:11] e tentaram implementar uma função nova nele. Foi fácil? Quer ver alguma coisa?
+[14:11 - 14:20] O que acontece? Quando você vai mexer o clínio aqui, mexe o turado, quer fazer alguma
+[14:20 - 14:26] implementação ou coisa, se você termina o live, quem implementar uma coisa nova, você vai quebrar alguma coisa.
+[14:26 - 14:31] Então, o que eu só percebi, a mantestão dele era muito ruim.
+[14:31 - 14:35] Vou fazer uma pergunta, quem gosta de documentar código aqui?
+[14:35 - 14:38] O que você quer dizer?
+[14:38 - 14:43] Escrever. Não escreveu código, escreveu o código faz.
+[14:43 - 14:46] Documento de requisitos.
+[14:46 - 14:50] O que é entre, o que sai, o que é aquele filho faz?
+[14:50 - 14:54] Pete de atualização, tudo isso.
+[14:54 - 14:58] O que mudou na nova versão, change log
+[14:58 - 15:01] Você sabe que é atualizar a segunda
+[15:01 - 15:02] O que mudou na nova versão, change log
+[15:02 - 15:03] Também
+[15:03 - 15:05] Você tem que implementar isso aí, você tem que formar
+[15:05 - 15:07] Por exemplo, você vai para o VS Code
+[15:07 - 15:10] A versão massa, a função é atualizada
+[15:10 - 15:13] Aquele que você só fecha, não é?
+[15:13 - 15:16] Até comitar o código é a documentação
+[15:16 - 15:18] Exatamente, até teste da documentação
+[15:18 - 15:22] É um recado que tem de mudança
+[15:22 - 15:25] ou tem sistemas que eles fazem o seguinte
+[15:25 - 15:28] é a proiminação orientada a testes
+[15:28 - 15:31] eles fazem o primeiro teste
+[15:35 - 15:37] e depois a do código
+[15:38 - 15:40] a hora que acontece
+[15:40 - 15:42] se for trocar
+[15:42 - 15:44] eles vão resfilar o código
+[15:45 - 15:49] os pais têm um pai teste
+[15:49 - 15:54] que é ver o momento de você... as documentações que você mostra como se fosse um teste
+[15:54 - 16:03] que é igual... eu gostaria de saber, algumas vezes eu perguntei milhão de exemplos do que as pessoas que iam escrever do mesmo
+[16:03 - 16:13] se você for ler a documentação do C, as bibliotecas do C, você olha e pega e vê isso
+[16:13 - 16:21] A função básica do C, que é o write, vai escrever.
+[16:21 - 16:25] Ele tem três parâmetros.
+[16:25 - 16:27] Três parâmetros.
+[16:27 - 16:30] Para que é três parâmetros?
+[16:30 - 16:37] O primeiro é a saída, saída do sistema, vai formar um tipo de saída, o segundo é
+[16:37 - 16:40] o que você quer escrever e o terceiro é a quantidade que você vai escrever.
+[16:40 - 16:43] Você definiu o tamanho, ok?
+[16:46 - 16:49] Aí hoje só os queitos, vou fazer seus ou print chef.
+[16:49 - 16:52] O print chef, o veio, lá na costituição dele.
+[16:54 - 16:56] Vocês entenderem o que acontece, né?
+[16:56 - 16:58] O spaghetti, o estruturado lá,
+[16:58 - 17:01] o spaghetti é como o pessoal pega o estruturado e começa a estruturar.
+[17:01 - 17:05] Bota gochujang, o ar, e você fica perdido.
+[17:06 - 17:08] Não é fácil, não é uma costituição.
+[17:08 - 17:10] O que é melhor o pessoal objeto?
+[17:10 - 17:13] Enscreve-me, quero o último módulozinho.
+[17:13 - 17:15] Você já tem um módulo funcionário todo aqui.
+[17:15 - 17:17] Ah, eu vou querer implementar uma função extra.
+[17:17 - 17:21] Tem um módulo novo, pode ser um objeto novo, e vou implementar a parte dele.
+[17:21 - 17:24] Depois só coloquei aqui um sistema.
+[17:24 - 17:28] Para fazer o que é ligação, vou fazer o que é caso.
+[17:28 - 17:30] O pessoal usa mais o módulo que o pessoal objeto,
+[17:30 - 17:34] e programas que o pessoal x poder dizer.
+[17:34 - 17:36] Para transformar empresas mesmo.
+[17:36 - 17:42] O estrutural daquele momento pode ser mais pra site, ou coisa simples, mais prática.
+[17:44 - 17:47] Não dava misturar porque a metodologia não estava muito diferente.
+[17:47 - 17:49] Você corria e poderia fazer.
+[17:49 - 17:54] Ah, e ainda não dá as funções da abertura, só um objeto, você pode dar uns pagete.
+[17:56 - 17:58] Porque não é recomendado.
+[17:58 - 18:00] Não é recomendado.
+[18:01 - 18:04] Só alinhar com vocês uma posição sobre as altas.
+[18:06 - 18:17] Eu vou sempre trazer uma apresentação e explicar a teoria.
+[18:17 - 18:19] A segunda parte é a estática.
+[18:19 - 18:24] A programação faz a atividade.
+[18:24 - 18:26] O último é tirar a atividade.
+[18:26 - 18:31] Só que você faz as contas no Vithran para vocês se cadastrar e começar a utilizar.
+[18:31 - 18:38] Vamos usar algo com Space, que pode fazer tudo lá.
+[18:38 - 18:42] Eu sou a depurdice porque eu não sei como usar.
+[18:42 - 18:47] Porque tudo lá você sabe utilizar, é um ferramente que eu alforou.
+[18:47 - 18:52] Se utilizar bastante, você não vai ficar procurando computador que estava usando na última aula.
+[18:52 - 18:54] A gente vai com o tabu.
+[18:58 - 19:00] O importante é que a NG deixa a rápida voltada.
+[19:02 - 19:04] A gente tem que partir com segurança.
+[19:04 - 19:08] Aqui já que tem seu as, às vezes você mais passa uma vez.
+[19:10 - 19:12] O que é o nosso problema de digno antigo?
+[19:12 - 19:14] O estilo que a gente usa.
+[19:14 - 19:16] O próximo do as.
+[19:16 - 19:18] Tem um começo, uma etapa,
+[19:18 - 19:20] uma etapa 2, uma etapa 3.
+[19:20 - 19:22] O que é o que é o objetivo?
+[19:22 - 19:24] O objetivo é o objetivo de um objeto.
+[19:24 - 19:26] O objetivo é o objetivo de um objeto.
+[19:26 - 19:28] O objetivo é o objetivo de um objeto.
+[19:28 - 19:30] O objetivo é o objetivo de um objeto.
+[19:30 - 19:32] O objetivo é o objetivo de um objeto.
+[19:32 - 19:34] O objetivo é o objetivo de um objeto.
+[19:34 - 19:36] O objetivo é o objetivo de um objeto.
+[19:36 - 19:38] O objetivo é o objetivo de um objeto.
+[19:38 - 19:40] O objetivo é o objetivo de um objeto.
+[19:40 - 19:42] O objetivo é o objetivo de um objeto.
+[19:42 - 19:44] O objetivo é o objetivo de um objeto.
+[19:44 - 19:46] O objetivo é o objetivo de um objeto.
+[19:46 - 19:48] O objetivo é o objetivo de um objeto.
+[19:48 - 19:58] aqui quando você quer fazer um loop, deixa eu assistir um rote, a gente acaba criando um loop
+[19:58 - 20:03] que vai ficar eternamente aqui, eu me lembro muito que quando eu frissava pra cá, escrevei
+[20:03 - 20:12] comandos e coisas, tipo terminal, eu falei que eu fiz um loop lá, um input terra,
+[20:12 - 20:16] E o que está comando? Enquanto não fosse exit, ficava rodando lá.
+[20:20 - 20:22] Isso aqui funciona?
+[20:23 - 20:24] É escalado?
+[20:24 - 20:26] Você sabe como é escalado?
+[20:28 - 20:30] É escalado?
+[20:32 - 20:35] Aqui, aqui eu vou instalar com o que eu quero.
+[20:35 - 20:39] Por exemplo, aqui eu tenho um objeto A e um objeto C.
+[20:39 - 20:43] E eles são do mesmo tipo. Eu falei que eles criam vários adverso, do mesmo tipo que eu quiser.
+[20:43 - 20:46] E aqui eu posso criar outros objetos.
+[20:46 - 20:51] Vou poder trabalhar com 12 formas de estrutura. Aqui.
+[20:51 - 20:58] Direcção do processo, pressa a função. Outro problema é que a outra função, ou se você combinar uns dois.
+[20:58 - 21:03] Boa sorte para a dor de cabeça que você vai ter.
+[21:03 - 21:13] Você se conhece em um sistema chamado SaaS, de empresas que notam escala, tem trabalho de várias funções.
+[21:13 - 21:23] Você vai ter um usuário de... vai ter um cliente, vai ter um fornecedor, vai ter várias funções existas.
+[21:23 - 21:25] Você vai ter que estar trabalhando com eles.
+[21:25 - 21:29] Mas isso é um sistema com essa forma aqui.
+[21:29 - 21:36] Você teria que ter uma estrutura lá para o cliente, uma estrutura para o funcionário,
+[21:36 - 21:39] o fornecedor e ir trabalhando com isso.
+[21:39 - 21:47] Com o arido de um objeto, você vai querer criar um objeto lá para o cliente,
+[21:47 - 21:49] um objeto para o fornecedor.
+[21:49 - 21:51] Vou cria-lo, né?
+[21:51 - 21:54] Essa plateira a gente também fala sobre persistência.
+[21:54 - 21:56] O que é persistência pra vocês?
+[21:57 - 22:03] Manteu os dados quando você desliga a máquina, quando você perde a conexão.
+[22:05 - 22:07] Como é que você acha que a gente mantém os dados?
+[22:07 - 22:08] Bão de dados?
+[22:08 - 22:10] Bão de dados.
+[22:10 - 22:16] Pai, eu vou perguntar se vocês querem trabalhar com bão de dados e arquivos, ou só com bão de dados?
+[22:17 - 22:18] Tudo é decidi.
+[22:18 - 22:20] O que é a diferença dos dois?
+[22:20 - 22:25] Bão de dados é uma conexão com o bão de dados, ele vai criar e fazer isso aí.
+[22:25 - 22:29] Com arquivos, eu sei, vai subir um arquivo e ele vai executar.
+[22:32 - 22:34] Um pouquinho mais complicado.
+[22:35 - 22:41] Se fosse, então, eu sei, ele consegue transformar o arquivo no mundo de cabeça.
+[22:41 - 22:45] Agora, será que nesse semestrinho vai voltar os auxílios?
+[22:45 - 22:53] Se você falar em programas C, como ser utilizado?
+[22:53 - 22:57] O kernel do Linux pode ser, então é padrão, o carro é de tudo lá.
+[22:57 - 23:04] Mas aí eu anteciam com vocês, o JavaScript é uma linguagem que eu vou poder dizer.
+[23:04 - 23:09] mas você não tem que rodar de terminar o problema
+[23:09 - 23:17] com as instruções do code space em terminal
+[23:19 - 23:23] você se entende porque estou escolhendo o itjump para fazer as aulas lá
+[23:23 - 23:29] as práticas, é um plato de peito do xalata que está junto lá
+[23:29 - 23:35] com dispensas em suas questões, as pontas, eu não vou usar a gasta doce, eles alugam os salos aqui
+[23:35 - 23:40] eu sou ansitando para ter aí essas coisas, e vocês não se compreendam aos dois mundos
+[23:40 - 23:45] há outra vantagem que vocês podem começar a ativar ali, que não tem o tempo, vai para casa e está enorme
+[23:45 - 23:52] e para a colaboração também é muito bom fazer um trabalho em grupo, em dupla
+[23:52 - 23:57] o problema é você dá meia, você diz um dia, pode ver
+[23:57 - 24:03] Algumas vezes, né? Que não é quase sempre, mas...
+[24:03 - 24:08] Agora, porque me deixa o cabo no GitHub e, dependente do que eu vou pesquisar lá,
+[24:08 - 24:14] os caras fazem tanta coisa diferente, eu já já sei que é um processo
+[24:14 - 24:16] que não está de nem samba do GitHub.
+[24:16 - 24:26] É, o GitHub tem mais os protetores, tem livro lá, falar em livro, né?
+[24:26 - 24:31] O seguinte, se eu tiver a ver a Javascript, acho que eu tenho a ver Javascript aqui.
+[24:31 - 24:35] Quem quiser aprender Java, vai até ser mais, mais.
+[24:35 - 24:45] Eu fui com o Vinicius, a Biotech, eu vou dar uma nariz de Slivers.
+[24:45 - 24:48] Ele tem o Programa em Java.
+[24:48 - 24:53] Ah, não, eu vou aprender Java, vou fazer a Javascript aqui.
+[24:53 - 25:03] A meta do que acontece, ele vai ter o livro lá, é uma bíblia, é uma bíblia mesmo, grandão e mesmo.
+[25:03 - 25:04] Mas o que acontece?
+[25:04 - 25:06] A bíblia vai ser mal aqui.
+[25:06 - 25:09] É, é só essa esperança.
+[25:09 - 25:11] Mas aí o que acontece?
+[25:11 - 25:17] Você vai ter o código lá e embaixo vai ter que se explicando o código.
+[25:17 - 25:21] Então funções como eram as coloblas 5, tudo lá.
+[25:21 - 25:28] Eu queria aprender Java tudo.
+[25:28 - 25:31] Eu queria aprender a ser mais e mais.
+[25:31 - 25:33] Tenho uma pra vocês verem.
+[25:33 - 25:35] Conceito, mas é o mesmo.
+[25:35 - 25:44] Conceito em adâncio, é tudo pra JavaScript, C, Java, C e mais e mais.
+[25:44 - 25:46] Então, eu não consigo estar com isso.
+[25:46 - 25:47] Até Python roda.
+[25:47 - 25:50] Não gosto de usar o reto da família da pai, mas...
+[25:52 - 25:56] Até pai que eu roda, né? Qualquer linguagem da população moderna,
+[25:56 - 26:01] eu digo, é, vamos dar alguma coisa aqui, funciona nos dois retidos, né?
+[26:03 - 26:09] Sim, eu sou fã de eu chegar atrás, mas como acha a linguagem?
+[26:09 - 26:11] Já é inscrit, já.
+[26:11 - 26:13] Já é inscrit, né?
+[26:13 - 26:16] Eu, quando era o mais novo também eu confundia muito.
+[26:16 - 26:20] Ah, já me escrit, deve ser um começo e a próxima a outra parte.
+[26:20 - 26:22] Falta muito diferente.
+[26:22 - 26:24] Descindir agora, né?
+[26:24 - 26:29] A apotação parece que eu estava empatada e desempataram.
+[26:29 - 26:32] Deus, é o segundo lugar.
+[26:32 - 26:33] Era o C-chap.
+[26:33 - 26:34] Era o menor.
+[26:34 - 26:35] C?
+[26:35 - 26:36] É.
+[26:36 - 26:37] C-chap.
+[26:37 - 26:39] C-chap, eu sei.
+[26:39 - 26:41] C-mais.
+[26:41 - 26:54] Vamos explicar aqui, a evolução do pensamento era essa nova bijeta, a ideia contra o 10.000 e o 967,
+[26:54 - 27:04] o pessoal começou a pensar como só iria ser esses 9 objetos, no 70, o mundo esmaltado,
+[27:04 - 27:13] que já começaram a construir mesmo, mas só foi realmente voltado para a gravação
+[27:13 - 27:17] em 1980 com a criação do ser mais mais.
+[27:17 - 27:24] Vocês viram que eu falei de muitas linguagens para a gravação, mas eu não inclui o ser mesmo na alimentação do objeto.
+[27:24 - 27:30] O que acontece? O ser nunca foi criado pensando em alimentação do objeto.
+[27:30 - 27:36] Ele não tem ferramentas para a criação da budgéta, então ele não se utiliza isso.
+[27:37 - 27:43] O C mais velho com essa impressão, o C mais mais recriado voltado para isso.
+[27:44 - 27:52] Eu já comecei com Vinicius, basicamente que você aprende duas linguagens de programação ao mesmo tempo,
+[27:52 - 28:01] é uma coisa praticada, ele já disse que é quase um iago a atender 6 e ser mais mais ao mesmo tempo
+[28:02 - 28:08] então vocês vão ler apenas c na as duas cadeiras, principalmente porque a segunda cadeira é a estrutura de dados
+[28:09 - 28:15] a cadeira é super importante pra vocês, principalmente porque você vai trabalhar com programação, você vai trabalhar bem em estruturas
+[28:15 - 28:20] e as estruturas, que você usa várias coisas, com índias, filas, né?
+[28:20 - 28:21] Abrei isso.
+[28:21 - 28:22] Abrei isso.
+[28:22 - 28:23] Só sei.
+[28:23 - 28:24] Eu não sei.
+[28:24 - 28:27] No caso de celeste, então, vai ser o celeste mais fácil?
+[28:27 - 28:28] Claro.
+[28:28 - 28:29] Tipo assim?
+[28:29 - 28:30] Não.
+[28:30 - 28:35] Se você quiser repreender a proteção, vamos falar do hipogérito?
+[28:35 - 28:38] Vamos fazer alguma coisa que não mexe muito, né?
+[28:38 - 28:39] Para pegar um teste.
+[28:39 - 28:41] Ah, aprendi já.
+[28:41 - 28:43] Aprendi já há cinco anos atrás, nunca me investi.
+[28:43 - 28:53] esquecer, tem que sentar, não se acelerar, está errando, pois é um emblão mais rapidamente, mas se não trabalhar, está esquecendo
+[28:53 - 29:08] Mas o que aconteceu? Os anos 80 foi criado a uma gente que foi mais mais, foi voltado
+[29:08 - 29:14] para a redução do jeito e foi toda a animação. É tanto que quando eu comecei a aprender
+[29:14 - 29:18] Eu vou ler para a gente assim, porque?
+[29:18 - 29:21] O que acontecia?
+[29:21 - 29:28] A gente vai fazer, vocês sabem que só dentro de uma matéria vocês aqui.
+[29:28 - 29:31] A gente, quando vai utilizar alguma, eu acho, para a relação,
+[29:31 - 29:34] a gente utiliza um biblioteca, né?
+[29:34 - 29:38] Quando a gente vai aprender a usar o C++,
+[29:38 - 29:43] pela nova briga da Té, a biblioteca, e a escrita, né?
+[29:43 - 29:52] O que acontece? A biblioteca vai ser toda parte do objeto, das funções que vão achar lá dentro.
+[29:52 - 29:55] Então eu criaria tudo aquilo.
+[29:55 - 30:01] Depois que o main, que é praticamente algum programa, vai rodar.
+[30:01 - 30:04] E quando o compilado chega ao pláforo 2.
+[30:06 - 30:12] Não ficava nada protegido. Era muito arquivo, compilação, todo o dia rodado.
+[30:12 - 30:18] uma desvantagem do seu, eu tenho que dizer mais, mais é que quando você tem o computador lado fica só o executado
+[30:18 - 30:23] então você pode estar em vários tantos, se tiver os bilhotéis que eu falo
+[30:24 - 30:30] mas, para o computador lado você precisa do... o... o brezei
+[30:31 - 30:36] o computador, o... o kit de desenvolvimento que eles chamam, né?
+[30:36 - 30:44] Como eu falei, aqui eu preciso de ter a linguagem lá. Vocês, quando for instalar algum jogo,
+[30:44 - 30:49] então eu digo de vocês, ele pediu para instalar alguma coisa comum, net mais mais, cê e char,
+[30:49 - 30:53] pegou alguma coisa assim, visual, estúdito, o quê?
+[30:53 - 30:58] Quando você tem alguns problemas, ele se perder e devia nos estudiadores da época para rodar.
+[30:58 - 31:04] E é sans linguagens. O que acontecia? Vocês pensam que agora na praça do programador,
+[31:04 - 31:10] Na minha máquina funciona, é o que acontecia exatamente.
+[31:10 - 31:14] O bagamador estava lá, fazia todo o código dele,
+[31:14 - 31:18] a máquina dele é rodada, quando morava com cliente, estava lá.
+[31:18 - 31:20] Não tinha as dependências que eles chamam,
+[31:20 - 31:23] se precisasse de dependência e tal,
+[31:23 - 31:25] o biblioteca e tal, e não tinha o que era para a máquina,
+[31:25 - 31:27] o que era para o palco.
+[31:27 - 31:29] O que aconteceu?
+[31:29 - 31:32] Tão de 90, meio no chá.
+[31:32 - 31:34] Qual a vantagem do Java que você vai fazer mais?
+[31:35 - 31:37] Ele tem uma coisa chamada máquina virtual
+[31:38 - 31:41] E isso é a mesma coisa que você Sharp também possui
+[31:42 - 31:43] Essa máquina virtual
+[31:44 - 31:45] O que acontece?
+[31:46 - 31:48] Você simplesmente instala a máquina virtual lá
+[31:48 - 31:50] E ele vai rodar um problema em Java tranquilamente
+[31:51 - 31:53] Quem nunca vê aquela coisa é que o Java está atualizado
+[31:53 - 31:55] Tem que atualizar o Java
+[31:58 - 31:59] Parece que não tinha o que ver
+[31:59 - 32:01] É a máquina virtual do Java lá que você atualizava
+[32:01 - 32:04] e você tem que atualizar para rodar as coisas.
+[32:05 - 32:09] Duas coisas. Primeiro, em relação ao Java em si.
+[32:09 - 32:13] É muito nítido de ver quando você vê um programa em Java
+[32:13 - 32:18] que é a linguagem de programação foi estruturada para a orientação a objetos.
+[32:18 - 32:23] É muito fácil usar orientação a objetos em Java. Muito natural.
+[32:24 - 32:27] Quando eu estava em cego, eu nunca ia ser mais mais...
+[32:27 - 32:29] Esse é só que não choque, porque a gente fica arrepentido, sabe?
+[32:29 - 32:32] Mas o meu choque é o que?
+[32:32 - 32:39] Quando você vai imprimir alguma coisa no Java, você usa o print alien.
+[32:39 - 32:41] No Python, você usa o print.
+[32:41 - 32:44] No seu, você usa o printf.
+[32:44 - 32:51] Aí quando você vai usar mais, out, você desista a tia, fecha a seta, e tá lá.
+[32:51 - 32:53] Sim, tá que você toda...
+[32:53 - 33:10] O bom que acontece é que tem o Java com mais de 98, tem o 2011, que ele incrementou várias funções extras.
+[33:10 - 33:15] É quando a pessoa pediu, não, tem que usar o 98.
+[33:15 - 33:19] Aí tinha as frissões, 2011, que eu gostava assim.
+[33:19 - 33:22] É só uma linha, eu tinha que resolver em um 10.
+[33:22 - 33:27] Que nem for trans 70 e for trans 90, 20 aninhos de diferença.
+[33:27 - 33:33] E a outra coisa é a questão da máquina virtual, que é a máquina virtual que possibilita
+[33:33 - 33:40] que seja tão multiplataforma, já, que rode em qualquer lugar, qualquer ambiente.
+[33:40 - 33:44] O que é o seguinte? Eu desenvolvi em Java. O cliente está lá.
+[33:44 - 33:46] Se tu mentira, tá aqui o programa.
+[33:46 - 33:48] O Java está lá na sua máquina?
+[33:48 - 33:52] Ah, mas se você perguntar se o Java está instalado, é que você vai perguntar
+[33:52 - 33:54] quais são as defendências que tem instalado na sua máquina?
+[33:54 - 33:58] Então, basicamente, o Java está instalado.
+[33:58 - 34:02] Ah, abaixa isso aqui, instalou, roda.
+[34:02 - 34:04] É muito mais fácil que você ter que...
+[34:04 - 34:10] Se você quer, hoje em dia, o pessoal usa muito container.
+[34:10 - 34:15] Vou mostrar para vocês, a gente deixa todos os containers no smash passado.
+[34:15 - 34:20] Mas o pessoal faz o desenvolvimento todo dentro do container.
+[34:20 - 34:26] Terminou, coloca tudo dele, passa com clientes e o cliente só vai subir.
+[34:26 - 34:33] Se for uma aplicação web, faz o deploy, que é facilmente colocar num servidor.
+[34:33 - 34:38] O doker, ele só abriu a aplicação e está tudo escondido lá.
+[34:42 - 34:45] Hoje em dia, isso é para que o nosso é acusado. Até mesmo o Java,
+[34:45 - 34:50] é preciso fazer um componente com Java, você bota a aplicação lá e ele sobe o seu índio.
+[34:55 - 34:57] Até é para que o terceiro é mais fácil.
+[34:57 - 35:00] E se você tiver problema, é só naquele container.
+[35:00 - 35:05] Está nas dependências do container, tudo lindas.
+[35:05 - 35:11] É complicado, é tão complicado que só precisa ter ígão.
+[35:11 - 35:14] O encapsulamento até fora, né?
+[35:16 - 35:20] Quer a minha vantagem do Java, que além de trazer esses macros e tal,
+[35:20 - 35:23] ele também trouxe essa integração no web.
+[35:24 - 35:29] Eu gosto de usar o Java no back-end.
+[35:30 - 35:37] mas eu tenho um pago absurdo ao fronteiro do Java.
+[35:37 - 35:42] Se você chegar e ver o swing do Java,
+[35:42 - 35:46] você já olha essa coisa e diz assim, é o swing,
+[35:46 - 35:51] é o nome da interface do Java.
+[35:51 - 35:54] Eu acho basicamente,
+[35:54 - 36:00] É como se fosse uma arquitetura...
+[36:00 - 36:04] A arquitetura dos anos 80, que é só aquele cimento puro.
+[36:04 - 36:10] É tudo cinza, botão quadradão, só que você aperta lá, escreve as coisas,
+[36:10 - 36:16] você olha para os sistemas de logística tudo aqui no mapa.
+[36:16 - 36:19] Não tem uma sombra, não tem nada.
+[36:19 - 36:22] Se eu simplesmente estava assim, isso é calor histórico.
+[36:27 - 36:32] Comparando os dois, para que a gente vai ter aqui a estabilidade do procedural, acho.
+[36:33 - 36:39] Só se vocês pegaram um código, para fazer modificação, você entendeu que calça é que não é.
+[36:39 - 36:42] Quando o código não é seu, não, certo, até fosse seu.
+[36:42 - 36:45] Você estava na sexta-feira de noite, terminou de programar.
+[36:45 - 36:47] Ah, seguido, eu fei o continuo.
+[36:47 - 36:51] Fecha isso, segunda-feira você alga e você olha e fala que é assim
+[36:51 - 36:54] Foi que eu fumei nesta estafeira, radei isso
+[36:54 - 36:56] Porque tem óbeus aqui
+[36:56 - 37:00] Eu estava viajando aqui
+[37:00 - 37:05] Estava viajando aqui, como é o Sion
+[37:05 - 37:07] Chegou muito a não
+[37:07 - 37:11] Olha a intenção do Jeth, o que acontece?
+[37:11 - 37:16] A programação mesmo, ele quer os móveis, você vai trabalhar com os óbeus Jeth
+[37:16 - 37:18] Então, você vai ter um objeto lá.
+[37:18 - 37:21] E se você quiser fazer alguma coisa extra,
+[37:21 - 37:25] você vai ter que criar um outro objeto.
+[37:25 - 37:30] É o seguinte, você vai ter só o objeto aqui.
+[37:34 - 37:36] As funções dele,
+[37:36 - 37:38] como eu vou entrar na gata,
+[37:38 - 37:40] e muitas dessas coisas,
+[37:40 - 37:42] vai estar tudo aqui.
+[37:42 - 37:44] Você tira outra, estou vendo?
+[37:44 - 37:49] Aqui é um cliente, se eu quero um fornecedor, eu vou pegar outro objeto aqui
+[37:54 - 37:59] Vou botar esse aqui e o cliente, e vou ter o meio lá e vou botar os dois, vai trabalhar com os dois
+[38:00 - 38:01] Se você vai se cometer isso
+[38:02 - 38:08] Então, eu vou ter lá os clientes, eu não vou mexer nada deles, para apresentar o fornecedor, eu não vou quebrar nada
+[38:08 - 38:15] Se eu fosse fazer um estruturado, não era que eu deixasse esse lado em algum campo,
+[38:15 - 38:18] e quebra a estrutura do cliente.
+[38:20 - 38:22] Vocês não fazem ideia do desespero que é.
+[38:23 - 38:27] Eu fui uma vez na Mexa. Eu não mexi na parte do meu colega, do meu colega.
+[38:27 - 38:29] O mês de que eu diga o que?
+[38:29 - 38:32] Você está no beat-rub, tem duas partes.
+[38:32 - 38:34] Você está no baixo códico, o colega tem outro códico.
+[38:34 - 38:38] Ele sobe, você sobe, você vai juntar os dois.
+[38:40 - 38:43] Quando você vai juntar, dá um erro lá, você diz assim.
+[38:43 - 38:44] Que erro é isso?
+[38:44 - 38:46] Ele sai lá procurando.
+[38:48 - 38:53] E o problema é que o tia vai ajudar, porque ele transforma o código num carnaval.
+[38:53 - 38:56] Linha verde que passa, linha vermelha que tá errado.
+[38:56 - 38:58] E ele vai fazendo essas coisas.
+[38:58 - 39:03] A partir das vezes você faz um montaje lá segurando isso aí.
+[39:06 - 39:07] Na minha visão o que acontece?
+[39:07 - 39:11] Em um oriente sobretro você pode ter os objetos, trabalhar os atributos dele,
+[39:11 - 39:17] que é as funções, e no artigo tá mais fácil.
+[39:17 - 39:20] Se eu soube o que eu faço, você só o meio mesmo,
+[39:20 - 39:22] que vai ficar cheio de mão e vai ficar com o mundo lá.
+[39:23 - 39:27] Aí eu compro o meio, que é como se fosse a parte do espagueti.
+[39:27 - 39:30] Só o index fica puxando as coisas.
+[39:34 - 39:36] O que eu gosto de fazer é adicionar os modos, por isso,
+[39:36 - 39:39] eu só gosto tanto dele em empresas, porque você,
+[39:39 - 39:42] ah, lança essa parte e depois vai nascer o local.
+[39:45 - 39:47] Vocês conhecem TOTUS?
+[39:49 - 39:52] TOTUS é a maior fonte de software do Brasil.
+[39:52 - 39:56] Ela tem vários sistemas, né?
+[39:56 - 39:58] Celes fósso.
+[39:58 - 40:04] Celes fósso é um projeto, é um concorrente da toto,
+[40:04 - 40:08] só que a vantagem da toto é que ela é brasileira,
+[40:08 - 40:12] e ela conhece nossas pedidas regras brasileiras,
+[40:12 - 40:14] essas leis maravilhosas,
+[40:14 - 40:16] até conseguir isso aí.
+[40:16 - 40:18] O que acontece?
+[40:18 - 40:20] Quando você vai comprar um sótilo lá deles,
+[40:20 - 40:25] e você solitando o que solte, ele pergunta qual o módulo que você vai querer.
+[40:25 - 40:28] E é verdade, um adultal com bastante dinheiro.
+[40:28 - 40:32] Eles começaram pela parte, né, para comprar um financeiro.
+[40:32 - 40:41] Ah, você já rireu o módulo de imposto para grãos, para esses serviços.
+[40:41 - 40:45] E você vai dependendo. Apesar de que o módulo que você quer, ele vai colocar no laço.
+[40:45 - 40:48] Você vai sair colocando, fazendo o input dele.
+[40:50 - 40:52] Códicamente, por ser um sistema que pode estar lá,
+[40:52 - 40:54] que deve-se ter o orelho já no objeto.
+[40:54 - 40:56] Você não conseguiria fazer isso nos paguetes.
+[40:56 - 41:00] Ah, porque a bibliocódia aqui está aqui no espalho.
+[41:00 - 41:02] E não vai rodar.
+[41:02 - 41:04] Mandeção.
+[41:05 - 41:06] Difícil.
+[41:08 - 41:10] Falei de um fado de sabendo que você esquece.
+[41:10 - 41:12] Bota dois meses.
+[41:12 - 41:17] Você termina a entrega e você descobre um bug, o ano seguinte, você olha e é assim.
+[41:19 - 41:22] Daqui a um ano você não sabe o que você fez, você não sabe o que você aprendeu.
+[41:24 - 41:26] Isso retorna a questão da documentação, né?
+[41:27 - 41:32] Escrever a documentação é muito ruim, mas não ter a documentação,
+[41:33 - 41:36] ou ter uma documentação ruim, é ainda pior.
+[41:37 - 41:38] É ainda pior.
+[41:38 - 41:40] Se você não tem documentação, você é um que você se sinta.
+[41:40 - 41:42] Você não se sinta.
+[41:43 - 41:45] Você pergunta qual é o código sem documentação e você olha.
+[41:46 - 41:48] Então você está com pessoas que acabam de estar com pessoas.
+[41:48 - 41:49] O que acontece?
+[41:49 - 41:52] Com a formação, não tem a maneira correta de fazer.
+[41:53 - 41:56] Você tem a maneira... Existem várias maneiras.
+[41:57 - 41:58] E calhar uma tensão de voltagem.
+[41:59 - 42:00] Essa maneira aqui é mais rápida.
+[42:00 - 42:02] Parece que tem um bug.
+[42:03 - 42:05] E tem algumas coisas que você não tem para saber.
+[42:05 - 42:07] Pergunta para vocês.
+[42:07 - 42:13] Eu falei de arquivos em C, o que vocês acham dele que é complicado trabalhar com arquivos em C?
+[42:15 - 42:22] Essa é uma linha, você coloca só as palolinhas, você vai criar um espaço, carregar o arquivo naquele livro.
+[42:22 - 42:26] Variável, e vai deixar arquivo naquela variável, vai trabalhar com aquele arquivo.
+[42:27 - 42:34] Essa parte não é difícil, a parte difícil é lá no final do sistema, você liberar essa...
+[42:34 - 42:43] Se acertar, o frio que a gente fala, ele fica acertado, o frio, vai entrar no problema.
+[42:43 - 42:48] Qual é o problema que você deixa o local?
+[42:48 - 42:54] Vamos dizer que eu peguei um sistema, vamos dizer que tinha um sistema de ponta aqui,
+[42:54 - 43:02] que eu não dei o frio num sistema lá, que tem um arquivo lá que tem, que não dá frio.
+[43:02 - 43:04] ele vai carregando, carregando, carregando
+[43:04 - 43:06] isso também
+[43:06 - 43:09] acontece, como fica naquela parte do alocado?
+[43:09 - 43:13] se o sistema operacional diz assim, ah, esse aparta está livre
+[43:13 - 43:15] a memória está sempre alocada
+[43:16 - 43:19] se a memória está sempre alocada, ela vai ficar sempre alocada
+[43:19 - 43:21] ele vai sempre alocando lá
+[43:21 - 43:23] isso é muito legal
+[43:23 - 43:26] e isso, as sistemas que não tem um...
+[43:26 - 43:28] exatamente estão tendo de sistema operacional
+[43:28 - 43:35] Vamos dizer que o tempo de seu personagem é legal, porque o Windows 7, a partir de 7,
+[43:35 - 43:40] ou com as questões mais novas do Linux, quando o seu programa libera tudo que estiver relacionado.
+[43:40 - 43:44] Mas as questões antigas deles não fazem isso.
+[43:44 - 43:46] O que é que vai acontecer?
+[43:46 - 43:53] Se eu pego, se eu escutei, eu poderei dizer assim, alguém voltar de segurança.
+[43:53 - 43:59] para entender alguém contato para a ediciculância.
+[43:59 - 44:05] Descobri uma falha de memória, eu posso simplesmente sobrecargar aquela área
+[44:05 - 44:10] e quebrar o sistema da um... um... um bebouf.
+[44:10 - 44:14] Quando eu quevo ali, eu posso fazer um sistema.
+[44:14 - 44:19] Quem for dar a ediciculância aqui tem um tempo que a gente usa bastante,
+[44:19 - 44:25] é exploit. A exploit é o quê? Ele vai sobrecargar algumas ades de memória da
+[44:25 - 44:31] telemarker para conseguir acessar a máquina de cima. Então, quando se faz
+[44:31 - 44:38] empadrando você, você tem que garantir o que você vai colocar, você tem que liberar.
+[44:38 - 44:45] Ou o Jarada, o Sechar, se um linguagem vai novas, se tem um que mexe com algum
+[44:45 - 44:52] A parte do Morin tem o que a gente chama de Gargoyle Collector, um coletor de lixo.
+[44:52 - 44:57] O que estava a ser usado depois de jogar fora, é uma das vantagens, é só em baixo.
+[44:57 - 45:03] Aí, porque tem exercício, está muito cedo. O Kernen do Linux é em c, mas ele é rápido.
+[45:03 - 45:07] Você é uma das imagens de correção mais rápidas que existe.
+[45:07 - 45:12] Todo mundo que começa a aprender programação tem a minha parte de c.
+[45:12 - 45:17] O Python é rápido também, o Python foi feitiçado.
+[45:17 - 45:22] O programa é muito baixo, a população do Python, o PPC.
+[45:22 - 45:29] Mas mesmo o Python sendo feitiçado ele ainda não é tão rápido como o C.
+[45:29 - 45:34] Aí acontece, depende do que faz o programa.
+[45:34 - 45:40] Porque eu posso usar uma loja que demore, que força uma loja feita e já é rápido.
+[45:40 - 45:43] Depende muito da aplicação.
+[45:44 - 45:47] E aí o que eu fiz? A aplicação permite isso.
+[45:47 - 45:50] Por exemplo, ah, chegou um com um...
+[45:50 - 45:55] Eu tenho que fazer a aplicação, que é uma comunicação de dois serviços, né?
+[45:55 - 45:58] Mas eu posso usar dois cático de comunicação.
+[45:59 - 46:02] Se você quiser passar imagens, se você tem parte de um ar-image,
+[46:02 - 46:05] vai ficar transmitindo. É uma lenda de dois cáticos.
+[46:05 - 46:13] porque é isso, ah, que lá não tem ali ouro, se os antenas só podem traficar essa quantidade, né, se eu não sei que existe o sistema
+[46:14 - 46:19] então dependendo do que existe o sistema, você vai se programando e vai se ordenando para que não liga
+[46:21 - 46:32] ao mesmo tempo, o que é o que você diz, ou você tem essas coisas, como falava lá, há um mundo lá atrás que você poderia, ah, eu sei isso aqui, que você não sabe essa forma
+[46:32 - 46:38] Nesse ano seguinte, eu tenho um metrô de diferente, aprendi coisas novas,
+[46:38 - 46:43] e você olha e diz assim, tem que fazer isso aqui tudo de novo.
+[46:50 - 46:54] Aqui ele mais acha que o que acontece, como você vai ter o teu objeto vai estar tudo lá,
+[46:54 - 46:56] você consegue ver as coisas mais tranquilo.
+[46:56 - 47:02] Se eu tenho que tiver um erro na parte do cliente, eu não vou olhar o objeto do...
+[47:02 - 47:03] O prodencedor.
+[47:03 - 47:05] O prodencedor, porque não tem nada a ver.
+[47:05 - 47:07] Aí eles são separados e não se comuniquem.
+[47:07 - 47:08] Então eu vou só direto lá no...
+[47:08 - 47:09] O que ele faz?
+[47:09 - 47:10] Aqui, né?
+[47:10 - 47:12] Quem é que gosta de fazer um arquivo...
+[47:12 - 47:14] fazer tudo só no arquivo?
+[47:16 - 47:17] Já vendo isso mesmo.
+[47:17 - 47:19] Uma modularização.
+[47:19 - 47:22] Eu estava na escola, eles tinham as regras legais.
+[47:22 - 47:25] Cada função 25 linhas.
+[47:25 - 47:29] Eu vou alcançar com 26, eu vou identificar assim.
+[47:29 - 47:33] A gente tem que separar, porque eu tenho uma função a mais, mais 15, mesmo por causa da...
+[47:33 - 47:35] Isso aí.
+[47:35 - 47:38] 25 linhas, cada arquivo, cinco funções.
+[47:38 - 47:44] Até a coluna 80, porque você sabe que tem as colunas, até a coluna 80.
+[47:44 - 47:49] Aí existe uma solução com isso, porque é 25, 80.
+[47:49 - 47:53] Zumbi em torno de tubo, era a definição do Zumbi em torno de tubo.
+[47:53 - 47:55] Se qualquer sistema estiver que rodar aqui, o Zumbi em torno de tubo,
+[47:55 - 47:59] ele só não sairia com o seu torno de tubo lá.
+[47:59 - 48:01] E 5 por aqui.
+[48:01 - 48:07] Então eu tive que criar arquivos com, tive que fazer um nichel desses condições, né?
+[48:07 - 48:10] Com quase uns 50 arquivos.
+[48:10 - 48:12] Que é a função que até esquecia.
+[48:12 - 48:19] A gente vai voltar para a parte da documentação, aonde exatamente você faz a documentação?
+[48:19 - 48:25] Você pode fazer com que está um arquivo a parte PDF, você já viu alguma biblioteca?
+[48:25 - 48:27] Que alguma biblioteca é uma ação?
+[48:27 - 48:29] Achei viu a biblioteca.
+[48:29 - 48:31] Biblioteca?
+[48:31 - 48:38] Por exemplo, quando você vai programar um país que usava o pandas, você já chegou a abrir o arquivo do pandas?
+[48:38 - 48:44] os trabalhos arquivos. O que acontece?
+[48:44 - 48:48] Eu soube usar para abrir gráficos e os jogos de cinema.
+[48:48 - 48:55] É porque ele vai ter as funções lá do quando é que eles executam essas partes de gráficos, né?
+[48:55 - 49:04] Se você for lá ver essa função, além dessa pressão, vai ter um comentário imenso em cima, explicando o que é a corpuição.
+[49:04 - 49:08] Eu uma vez abriu um espelhoteco receio.
+[49:10 - 49:17] Eram quatro linhas, a lógica, a programação, e 15 linhas de comentário em cima.
+[49:18 - 49:20] O senhor da TVP é nosso senhor.
+[49:20 - 49:25] Dependendo da empresa, algumas utilizando o próprio código da parte de cima, lá no cabeçário,
+[49:25 - 49:30] outras em cima de cada função já dão uma explicação, outras fazem uma arquiva baixo.
+[49:30 - 49:32] aqui tem um arquivo a parte
+[49:32 - 49:38] se você lutar em função write
+[49:38 - 49:40] no terminal de C
+[49:40 - 49:42] write main
+[49:42 - 49:44] ele vai dar o manual
+[49:44 - 49:46] manual de transformação
+[49:50 - 49:52] reutilização
+[49:52 - 49:54] limitada
+[49:54 - 49:56] aqui foi o seguinte
+[49:56 - 49:58] nossa velha querida
+[49:58 - 50:01] Ajuste tecno. Você tem um código lá.
+[50:01 - 50:06] Esse código pode funcionar tanto que o cliente que tem o seu pôr nesse dobro.
+[50:06 - 50:11] Se eu fizer o ponto que eu teria que criar uma função, botaria lá,
+[50:11 - 50:15] se eu tivesse mais um ali, seria o contragador.
+[50:15 - 50:21] Eu teria que ter que ir lá e fazer o código. Se eu fizesse o código de uma forma,
+[50:21 - 50:23] ele não precisasse disso.
+[50:23 - 50:29] Aqui ele já criou o que a gente chama de terfaz, se eu for soubesse que podem ser reaproveitáveis.
+[50:29 - 50:34] Isso já está em curso aqui, onde estava em curso nessa época aqui.
+[50:34 - 50:36] Modelado.
+[50:36 - 50:42] Estante do que o Becovontesse, aqui é o que você deveria fazer como profissionalógico.
+[50:42 - 50:46] Aqui é como profissionalógico 1, o Becovontesse, como você diz em séries.
+[50:46 - 50:50] Se você fizer um solstice, vai entregar o solstice,
+[50:50 - 50:53] Se não precisar de manutenção, é a nossa contrata.
+[50:55 - 50:59] Se não tiver nenhuma implementação nova, acaba a sua contrata.
+[51:00 - 51:01] O que acontece?
+[51:02 - 51:07] O arquivo, se você for estudar, você vai aprender como programar com o nacional lógico.
+[51:08 - 51:12] Essa lógica aqui você vai usar as partes do orito de seu objeto.
+[51:13 - 51:17] Fazer atributos, como a função, como eu junto tudo, como eu faço a conexão.
+[51:17 - 51:22] A loja de cada máquina funciona.
+[51:22 - 51:25] E aqui é como se estura a regra de negócio.
+[51:25 - 51:28] Quando eu falo de regra de negócio, o que é que vocês pensam?
+[51:30 - 51:33] São as coisas que existiriam mesmo se não existissem com o computador.
+[51:33 - 51:37] É basicamente a loja da empresa, como tudo é funcionado.
+[51:37 - 51:40] Tipo, menor de idade não pode alugar o imóvel.
+[51:40 - 51:41] Exatamente.
+[51:41 - 51:48] Então, por exemplo, aqui é um restaurante que a gente faz, a gente vem de comida.
+[51:48 - 51:54] Então, a gente vai ter uns alunos, vamos pegar uns alunos, uns alunos cedores, uns cedados
+[51:54 - 51:57] alunos, uns cedars, uns comidas, tudo aquilo no local, sabe?
+[51:57 - 52:01] Qual é o alunos cedor total, o alunos cedor de peixe?
+[52:01 - 52:09] Ah, é melhor notar, essa feira que quando chega o barto, o peixe fresco, essas coisas, né?
+[52:09 - 52:11] Acesse a pessoa.
+[52:15 - 52:21] Pessoal, bom dia a todos. Já tinha conversado com os aqui, que chegaram mais cedo e tal.
+[52:22 - 52:31] Primeiramente desejar um retorno. Na realidade já começou desde a semana passada. Alguns tiveram presente na semana de integração.
+[52:31 - 52:38] Outros achavam que não era importante, mas era extremamente importante. Acho que participou da semana de integração.
+[52:38 - 52:40] sobre a importância, né?
+[52:40 - 52:44] Todas as questões referentes à nota, a publicação,
+[52:44 - 52:46] à...
+[52:46 - 52:51] as reuniões psicopedagórias, aos acessos da faculdade, né?
+[52:51 - 52:54] O que é uma acepial, o que é uma ouvidoria, né?
+[52:54 - 52:57] Foi tudo posto, né?
+[52:57 - 52:59] De forma bem clara, você é?
+[52:59 - 53:02] Alguns vieram, outros, um mês não vieram,
+[53:02 - 53:04] só quero aula e conteúdo, viu?
+[53:04 - 53:07] Você é? Então, você quer aula e conteúdo, né?
+[53:07 - 53:12] Mas se mexe realmente em diálogo, se é hoje, né?
+[53:12 - 53:19] E assim, desejar vocês boa sorte, todas as quartas-feiras eu vou estar aqui para atender vocês, tá?
+[53:19 - 53:26] Vou ficar na minha sala, quem quer conversar com... É claro que tem algum outro assunto que puder, eu estou outras vezes na semana aqui,
+[53:26 - 53:34] mas a quarta-feira vai ficar só dedicada a vocês, quem quiser conversar comigo, né?
+[53:34 - 53:38] Quem quiser reclamar do professor Tiberias, vai lá reclamar para mim dele.
+[53:38 - 53:40] Desculpe, eu sou da língua.
+[53:40 - 53:44] Quem quiser comentar alguma questão,
+[53:44 - 53:46] eu estou com dificuldade de aprendizado,
+[53:46 - 53:51] eu estou com alguns problemas individuais,
+[53:51 - 53:53] vai lá e me procura.
+[53:53 - 53:56] Problemas coletivas, como é que vai ser resolvido?
+[53:56 - 53:57] Deixar eu falar.
+[53:57 - 53:59] A gente vai escolher o líder da sala,
+[53:59 - 54:01] vai ter o líder da sala,
+[54:01 - 54:09] A próxima semana a gente já define a unida, já tem, tá chegando gente nova, tá vindo gente da noite pra manhã, né?
+[54:09 - 54:11] Tudo o Jerome.
+[54:11 - 54:17] E outros colegas foram pra noite, mas assim, então vocês vão,
+[54:17 - 54:20] define aqui a gente vai escolher a unida, tá?
+[54:20 - 54:26] E toda a questão, vamos ser assim, gerais, aí vai ser a comunicação com eles.
+[54:26 - 54:31] Então se eu estiver por acaso, teve um probleminha no trânsito,
+[54:31 - 54:35] ou não pôde vir, alguma coisa, aí ele vai comunicar o líder,
+[54:35 - 54:39] eu vou chegar atrasado, ou não vou hoje, eu vou fazer uma aula virtual,
+[54:39 - 54:44] todo mundo sabe que todos os cursos, a gente tem direito a 30% de aulas em AD,
+[54:44 - 54:46] para certo? Tem direito, a pé, a pé.
+[54:46 - 54:49] Os cursos são prasenciais, é a luna que...
+[54:49 - 55:00] Então, os cursos têm 30% AD e a gente vai fazer uma distribuiçãozinha, né?
+[55:00 - 55:04] Às vezes estão feriadas, aí eles dizem que aí o pessoal faz um...
+[55:04 - 55:09] Ou o pessoal vai viajar, fazendo cursos fora, vai defender um mestrado, vai defender um artigo...
+[55:09 - 55:13] Aí ele passa aquela aula de forma de AD, tá certo?
+[55:13 - 55:16] uma necessidade para ser...
+[55:17 - 55:20] As aulas aos sábados, como é que vai funcionar?
+[55:20 - 55:22] Vou passar um calendário aqui para vocês,
+[55:22 - 55:24] como é que vai funcionar essas aulas aos sábados?
+[55:24 - 55:25] Está certo?
+[55:26 - 55:28] Ela vai ser que são...
+[55:28 - 55:29] Na verdade são três disciplinas,
+[55:29 - 55:32] que é a atividade de extensão
+[55:32 - 55:34] que está separada do projeto integrador,
+[55:34 - 55:38] está fazendo um intervalo de disciplina separada.
+[55:38 - 55:42] O projeto integrador são disciplinas referentes ao curso,
+[55:42 - 55:48] os bits e bytes, modelos, atividade de extensão são atividades que vocês têm que fazer
+[55:48 - 55:56] extra sala na comunidade, isso é uma lei, uma obrigação do NEC, que ele bota lá para todo mundo
+[55:56 - 56:05] 10% da carga horária do curso é em atividade extensionalista, vocês vão, são obrigadas a fazer, eu tenho que comprovar isso
+[56:05 - 56:12] Então, o professor de agora, eles vão monitorar isso aí, o trabalho e a atividade, você vai ensinar, você vai fazer,
+[56:12 - 56:19] vai passar primeiro o modelo de projeto, vocês em equipe, o trabalho em equipe, vocês vão fazer o museu, tá certo?
+[56:19 - 56:32] E depois vocês vão fazer na comunidade, não se fizeram. Ah, eu quero ensinar as pessoas a usarem o celular de uma forma mais segura possível, por exemplo, as aides sociais.
+[56:32 - 56:34] É um trabalho que você pode fazer para comunidade.
+[56:34 - 56:36] Tem outros que fazem, mas não interessa.
+[56:36 - 56:40] Vocês vão fazer e vão fazer para a comunidade que vocês tal, ao e todo.
+[56:40 - 56:43] Nós vamos fazer uma oficina, vamos convidar todos os alunos,
+[56:43 - 56:45] vamos pedir uma auditoria aqui da faculdade,
+[56:45 - 56:48] vamos convidar todos os alunos, colaboradores, quem quiser e tal.
+[56:48 - 56:51] E todo mundo leva seu celular e nós vamos ensinar eles
+[56:51 - 56:53] como é que faz a segurança no seu celular.
+[56:53 - 56:54] Sério?
+[56:55 - 56:57] É uma atividade de extensão.
+[56:57 - 56:58] Sério?
+[56:58 - 57:02] Eu quero lá na minha comunidade, lá na minha igreja, onde eu frequento,
+[57:02 - 57:11] Querem ensinar os parentes dos idosos a usar alexia para emergência dos idosos e marcar hora de remédio.
+[57:11 - 57:17] Então na alexia você consegue marcar hora de remédio, você pode fazer sistema para a distra, por exemplo,
+[57:17 - 57:23] eu filme e configuro a alexia do meu sogro lá, que é idoso e se acontecer alguma coisa,
+[57:23 - 57:26] às vezes não pega o celular, não está perto, cai, o que você faz?
+[57:26 - 57:30] mas pode falar, quando você fala, ligar para o Geronimo,
+[57:30 - 57:31] aí ele vai ligar,
+[57:31 - 57:34] ele é que você faz isso com o Geronimo,
+[57:34 - 57:37] e ali ele pode tomar alguma decisão,
+[57:37 - 57:41] então você pode fazer vários tipos de atividades,
+[57:41 - 57:42] ah, para o Souffo,
+[57:42 - 57:44] a minha atividade,
+[57:44 - 57:46] lá na minha comunidade,
+[57:46 - 57:47] toma a fêninha,
+[57:47 - 57:49] eu quero desenvolver um sofro para essa comunidade,
+[57:49 - 57:51] opa,
+[57:51 - 57:54] projeto integrador, atividade extensão,
+[57:54 - 58:00] casado, pode ser, pode, só que você vai ter que desenvolver aqui e mostrar o professor Tiberius,
+[58:00 - 58:05] que você desenvolveu o software, e você vai ter que mostrar lá pro professor,
+[58:05 - 58:10] não sei o que esse é o John Lins e tal, não estou lembrado quem é,
+[58:10 - 58:16] que você foi lá na comunidade e passou a ter software e ensinou, eles vão utilizar,
+[58:16 - 58:20] mas aí é um critério de cada.
+[58:20 - 58:28] Então estou a discutir com vocês, estamos fazendo uma excelência, graças a Deus, tudo direitinho, o sistema está todo no ar,
+[58:28 - 58:32] as frequências podem ser anotadas aí.
+[58:32 - 58:36] Você já ouviu com a Cidero, é que é a boca.
+[58:36 - 58:44] Pessoal, outra coisa, vamos, o intervalo, tem muita reclamação de colega de vocês,
+[58:44 - 58:50] uma maioria parte da CPA, as aconações era que demorava muito voltar as aulas
+[58:50 - 58:55] Então eu trouxe, voltar as aulas sempre no intervalo, então a intervalo de 15 minutos é 15 minutos
+[58:55 - 58:58] quem está dentro da sala está dentro da sala, né?
+[58:58 - 59:03] A turma relá para assim, passou uma hora conversando lá e quando volta para no final da aula aí...
+[59:03 - 59:09] Então vamos nos policiar, nos alto policiar, tá certo?
+[59:09 - 59:14] O intervalo é 15 minutos, ali é para descer, conversar com a águazinha e não achar ozinho rápido.
+[59:14 - 59:22] Então vamos se auto-policiar para a gente sempre voltar para o intervalo para nos prejudicar.
+[59:22 - 59:24] Tá bom? Perfeito?
+[59:24 - 59:30] A patria para o normal, para começar a ser liberada.
+[59:30 - 59:32] Não se preocupa com a polícia por enquanto.
+[59:32 - 59:38] Quem já estava no smash passado na plataforma A já deve estar liberado.
+[59:38 - 59:44] Só que o professor vai ter que direcionar a disciplina para vocês, tá?
+[59:44 - 59:49] Então, o trabalho é que ele vai fazendo durante o decorrer dessa semana e da outra.
+[59:49 - 59:53] Acho que até o final da outra semana está toda a plataforma A liberada, tá bom?
+[59:53 - 59:59] Porque vocês vão ter que ter a disciplina de competência 1 e eu acho que é de ética, tá?
+[59:59 - 60:00] São três disciplinas.
+[60:00 - 60:05] Compartência 2, que é com o professor Danilo,
+[60:05 - 60:10] Édica, que é com a professora Nagina, e que eu acho que é...
+[60:10 - 60:12] Então, terceira aí, sério?
+[60:12 - 60:18] E elas vão ocorrer de forma, ou virtual, ou hílio e um salto.
+[60:18 - 60:20] Então, vai ser...
+[60:20 - 60:22] Mas por favor, a gente tem as disquilias.
+[60:22 - 60:24] As disquilias? Só para imitir elas, dá para...
+[60:24 - 60:27] Eu acho que é de Édica, eu acho que é Édica, racial.
+[60:27 - 60:29] Édica e racial.
+[60:29 - 60:33] Tem direito, tem direito.
+[60:45 - 60:47] Tem suspensas na porta.
+[60:47 - 60:49] Tem suspensas na porta.
+[60:51 - 60:53] Tem na porta, se suspensas.
+[60:53 - 60:55] Tá aí, já tá aqui.
+[60:55 - 61:01] e instala a cultura e a polícia indígena, competências pessoais e profissionales dois.
+[61:01 - 61:07] É, competências dois, tá, que é com o professor Danilo e relações é com a professora Náuz.
+[61:07 - 61:09] Isso é um sérgio do meu, tá?
+[61:09 - 61:11] Tá ali na porta, viu?
+[61:11 - 61:14] A paz nem sabia, muito obrigado, viu? Só com a olhada do meu, sabia, né?
+[61:14 - 61:15] Tá bom?
+[61:15 - 61:20] Então, gente, é assim, é, para vocês precisarem, pode contar comigo.
+[61:20 - 61:25] Eu acho que a maioria do time eu sei lá, eu devo sair já de todos os grupos, tá?
+[61:25 - 61:27] Porque é muito grupo, eu discutei o...
+[61:27 - 61:30] Da atenção e quando a gente não responde aí...
+[61:30 - 61:32] Quase nada, não sei o que é, não responde.
+[61:32 - 61:37] Quase cento e quarenta, um, quarenta e um, todo dia tem aí, ó.
+[61:37 - 61:41] Hoje eu já acordei com as quarenta mensagens aqui, para você tirar o almoço, né?
+[61:41 - 61:42] É, né?
+[61:42 - 61:44] Pra se... pra ver se já te diga.
+[61:44 - 61:45] Eu gosto aqui pra vocês.
+[61:45 - 61:46] Tá bom?
+[61:46 - 61:48] Tão sucesso a todos, né?
+[61:48 - 61:51] estamos aqui juntos, precisarmos,
+[61:51 - 61:53] é que pedi peso nos professores,
+[61:53 - 61:54] deixa eu ver quem são aqui,
+[61:56 - 61:58] o professor Thiago, aquele rapaz,
+[61:58 - 62:00] dois metros de altura dessa largura,
+[62:00 - 62:01] o professor Thiagin,
+[62:01 - 62:03] o professor Tibério,
+[62:03 - 62:04] o professor Vinicius,
+[62:04 - 62:06] vocês já conheceram, tiveram o Alcunicius?
+[62:06 - 62:07] Já tiveram?
+[62:07 - 62:08] Não, não.
+[62:10 - 62:11] O professor Alexandre,
+[62:11 - 62:13] já tiveram?
+[62:13 - 62:14] Já teve, porque tu era?
+[62:14 - 62:16] O professor Aérea Novato,
+[62:16 - 62:17] tá certo?
+[62:17 - 62:23] Aéreo, um baita desenvolvedor, um cara extraordinário, vai trabalhar com você na parte do projeto integrador
+[62:25 - 62:30] E o professor Danilo, que é da competência e a professor Danilo
+[62:30 - 62:31] A lojência
+[62:32 - 62:34] Estou na extensão, o Thiago é um projeto integrador
+[62:34 - 62:36] A extensão, a extensão é o maior
+[62:36 - 62:38] O Thiago é um projeto integrador
+[62:38 - 62:39] Tá bom?
+[62:39 - 62:40] Perfeito
+[62:40 - 62:43] Perfeito, gente? Qualquer coisa estamos à disposição de hoje
+[62:47 - 62:49] O que é o nome dele?
+[62:49 - 62:51] É o nome dele.
+[62:51 - 62:53] É o nome dele.
+[62:53 - 62:55] É o nome dele.
+[62:55 - 62:57] É o nome dele.
+[62:57 - 62:59] É o nome dele.
+[62:59 - 63:01] É o nome dele.
+[63:01 - 63:03] É o nome dele.
+[63:03 - 63:05] É o nome dele.
+[63:05 - 63:07] É o nome dele.
+[63:07 - 63:09] É o nome dele.
+[63:09 - 63:11] É o nome dele.
+[63:11 - 63:13] É o nome dele.
+[63:13 - 63:15] É o nome dele.
+[63:15 - 63:16] É 9 dezembro.
+[63:16 - 63:17] É 9 dezembro.
+[63:17 - 63:18] É 9 dezembro.
+[63:18 - 63:19] Eu estou muito de volta.
+[63:19 - 63:20] É 9 dezembro.
+[63:20 - 63:21] Agora é 9 dezembro.
+[63:21 - 63:22] É 9 dezembro.
+[63:22 - 63:23] É 9 dezembro.
+[63:23 - 63:24] É 9 dezembro.
+[63:24 - 63:25] É 9 dezembro.
+[63:25 - 63:26] É 9 dezembro.
+[63:26 - 63:27] É 9 dezembro.
+[63:27 - 63:28] É 9 dezembro.
+[63:28 - 63:29] É 9 dezembro.
+[63:29 - 63:30] É 9 dezembro.
+[63:30 - 63:31] É 9 dezembro.
+[63:31 - 63:32] É 9 dezembro.
+[63:32 - 63:33] É 9 dezembro.
+[63:33 - 63:34] É 9 dezembro.
+[63:34 - 63:35] É 9 dezembro.
+[63:35 - 63:36] É 9 dezembro.
+[63:36 - 63:37] É 9 dezembro.
+[63:37 - 63:38] É 9 dezembro.
+[63:38 - 63:39] É 9 dezembro.
+[63:39 - 63:40] É 9 dezembro.
+[63:40 - 63:41] É 9 dezembro.
+[63:41 - 63:42] É 9 dezembro.
+[63:42 - 63:44] E aí lá na frente, a galera vai passar o mão.
+[63:44 - 63:46] Então não, mano. Eu não vi mesmo aquele mês.
+[63:46 - 63:47] E aí vai ficar tem que ficar.
+[63:47 - 63:49] Vai ter aquela de palma de lá.
+[63:49 - 63:50] Não, não.
+[63:50 - 63:51] Vai ter um palma aí.
+[63:51 - 63:52] Aí vai ficar.
+[63:52 - 63:53] Aí vai ficar.
+[63:53 - 63:54] Pra tomar um café lá pra...
+[63:54 - 63:56] Aí vai matar a galinha, não.
+[63:56 - 63:57] Meu Deus.
+[63:57 - 63:58] Meu Deus.
+[63:58 - 63:59] É lá, é lá, hein.
+[63:59 - 64:01] Pra tomar um café lá pra matar a galinha, não.
+[64:01 - 64:02] Aí vai ficar.
+[64:02 - 64:03] Aí vai ficar.
+[64:03 - 64:04] Aí vai ficar.
+[64:04 - 64:05] Aí vai ficar.
+[64:05 - 64:06] Aí vai ficar.
+[64:06 - 64:07] Aí vai ficar.
+[64:07 - 64:08] Aí vai ficar.
+[64:08 - 64:09] Aí vai ficar.
+[64:09 - 64:10] Aí vai ficar.
+[64:10 - 64:11] Aí vai ficar.
+[64:11 - 64:15] Eu ainda tenho que fazer pra gente ter que ir na casa.
+[64:15 - 64:17] E vai fazer a mesma grupo?
+[64:17 - 64:19] É, eu tenho que fazer a mesma grupo.
+[64:19 - 64:21] Aqui, com ele.
+[64:29 - 64:31] Se atualizar, se atualizar.
+[64:31 - 64:35] Não, olha. Eu comecei já tá menos a meia, né?
+[64:35 - 64:37] Entrei no final de março.
+[64:37 - 64:44] Aí passou tal, como na trás das coisas, né, que tinha pra não saltar um segredo.
+[64:44 - 64:47] O segundo eu falei pra você, falei pra você, que é 3 horas de curso.
+[64:47 - 64:51] 3 horas de curso, né? E oito horas de curso.
+[64:51 - 64:56] 3 horas de curso. Aí você começa 9 e meia por que eu ainda não cheguei.
+[64:56 - 65:00] Eu saiba quando eu dava aula, que é 15 minutos de tolerância.
+[65:00 - 65:05] E mesmo assim já começa a aula, 15 minutos de tolerância pra pessoa poder entrar e capô.
+[65:05 - 65:10] Eu dou 10 minutos de tolerância. Se eu estiver sozinho na aula, eu começo a falar sozinho.
+[65:10 - 65:11] Na sala eu começo a falar sozinho.
+[65:11 - 65:12] Dança.
+[65:13 - 65:14] É foda.
+[65:14 - 65:15] Dança.
+[65:15 - 65:16] Aí até de tanto...
+[65:16 - 65:19] Toda a vida que eu ficava perdendo o banho... Aí ele começou a começar...
+[65:19 - 65:23] Ah, quem chegar atrasado vai ter que pegar o carro de andante.
+[65:23 - 65:24] Que se resolve exatamente.
+[65:25 - 65:27] Aí não intervala a mesma coisa.
+[65:27 - 65:30] Aí o pessoal sai 9h30, volta 10h, 10h15.
+[65:30 - 65:36] 15, sim, está tendo 1 hora de aula, é errado, é errado com quem chega na hora, né?
+[65:36 - 65:39] Quem está dentro da sala no horário, quem chega de manhã no horário, está sendo injusto.
+[65:39 - 65:42] Aí tanto é pegar num pé e ir pela manhã.
+[65:42 - 65:43] Bom, obrigado.
+[65:43 - 65:45] Porque é...
+[65:45 - 65:50] Não, menino, porque você que foi reclamar, eu falei não, mas devia ter ido lá reclamar.
+[65:50 - 65:54] É uma falta de respeito com quem chega no horário, com quem quer aproveitar o tempo aqui.
+[65:54 - 66:01] professor orientação objeto em JavaScript
+[66:01 - 66:04] ah vai dar certo isso
+[66:04 - 66:08] eu vou fazer dá ótimo, gosto assim
+[66:08 - 66:15] gosto assim porque eu estou dando um curso de programador de sistemas
+[66:15 - 66:18] eu estou fazendo em JavaScript e assim
+[66:18 - 66:21] eu não fiz com orientação objeto mas agora no finalzinho
+[66:21 - 66:27] eu vou falar para ele sobre orientação objeto e que só botar eles para
+[66:27 - 66:34] implementar alguma coisinha ali no projeto integrador mas eu não sei se o
+[66:34 - 66:41] JavaScript por si ele acomoda bem a orientação objetos
+[67:51 - 67:55] Mas ele pode ficar trabalhando claro, não é isso que ele tem que ver se eu vou colocar.
+[67:55 - 67:59] Como objeto é o que? E objeto, porque o objeto, porque o objeto, porque o objeto, porque o objeto é todo isso.
+[67:59 - 68:01] É...
+[68:01 - 68:03] Ele disse entrar em cima.
+[68:03 - 68:11] Como eu tenho que dar aula disso, eu estava estudando um pouco assim superficialmente, porque eu cheguei a ver orientação a objetos.
+[68:11 - 68:17] Bom dia, cheguei a ver um pouco de orientação a objetos com o Dennis.
+[68:17 - 68:19] Respira, respira.
+[68:19 - 68:26] A lia atrás tem gente aqui, acho que tem.
+[68:26 - 68:27] A gente tem que ir lá.
+[68:27 - 68:30] E aí, vindo doce, o pessoal está a ver tudo isso.
+[68:30 - 68:31] É...
+[68:31 - 68:32] É...
+[68:32 - 68:37] É assim, já o esportivo é um linguagem novo, porque tem uma vantagem, né?
+[68:37 - 68:39] O que que eu perdi?
+[68:39 - 68:46] Está vendo tudo isso aí? Tem 15 minutos, 10 minutos para entender. Valendo.
+[68:52 - 69:03] Primeiro, definimos a linguagem de programação que vai ser essa disciplina, que parece ter uma votação entre o C Sharp e o JavaScript.
+[69:03 - 69:05] Então, vai ser já o script mesmo?
+[69:05 - 69:08] Vai ser já o script, tanto que pouco antes de entrar,
+[69:08 - 69:11] ele teve que fazer para o professor dar para ter a orientação de script.
+[69:11 - 69:13] A objeto que ele já inscribe no script, ele falou,
+[69:13 - 69:16] eu vou fazer, dá. Então é isso, vai ter.
+[69:16 - 69:21] E aí ele começou a falar de programação estruturada,
+[69:21 - 69:27] programação orientada a objetos, as vantagens e desvantagens de cada uma,
+[69:27 - 69:32] que a estruturada procedural é muito boa para a gente entender o código,
+[69:32 - 69:38] mas em todos esses outros aspectos, ela deixa a desejar em relação à unitação de objetos.
+[69:38 - 69:42] Então, depois que a gente entendeu como funciona a programação,
+[69:42 - 69:44] a gente pode usar a programação estruturada,
+[69:44 - 69:48] a gente pode usar isso dentro da nossa cumprimentação de objetos,
+[69:48 - 69:51] se a gente passa para esse outro paradigma.
+[69:51 - 70:10] e aí foi falado também sobre o horário que a aula deve começar o mais confonso possível
+[70:10 - 70:15] vai ter uma pequena tolerância mas nada de esperar meia hora, uma hora para começar
+[70:15 - 70:16] E tanto...
+[70:16 - 70:18] Até as maiores fechuras aqui hoje...
+[70:19 - 70:20] Eu tenho somente uma carona...
+[70:20 - 70:21] Só pra terminar...
+[70:21 - 70:24] É... Tanto na hora de começar a aula, quanto na hora de voltar do perlado...
+[70:24 - 70:26] Também que a pessoa tá despichando uma tira...
+[70:26 - 70:27] Sim, querendo a carona...
+[70:28 - 70:29] É, porque normalmente...
+[70:29 - 70:32] Normalmente eu aproveito a carona que vem em mão e vai...
+[70:32 - 70:33] Porque trabalhei com o Délio...
+[70:33 - 70:35] Aí eu perco a carona porque é meio que um caminho...
+[70:35 - 70:36] Perfeito...
+[70:36 - 70:38] Só que aí minha irmã também trabalha com ele...
+[70:38 - 70:39] Só que aí ela...
+[70:39 - 70:41] Ela começou a só fazer um relógio...
+[70:41 - 70:43] E ela mandava visual...
+[70:43 - 70:49] mas foi só hoje mesmo, foi?
+[70:49 - 71:05] foi zero, eu estou esperando chegar a psicoeta enquanto não fio, estou vendo de uber, está triste
+[71:05 - 71:07] É uma coisa muito bonita, muito feliz.
+[71:07 - 71:09] É uma coisa muito bonita, muito feliz.
+[71:09 - 71:11] É uma coisa muito bonita, muito feliz.
+[71:11 - 71:13] É uma coisa muito bonita, muito feliz.
+[71:13 - 71:15] É uma coisa muito bonita, muito feliz.
+[71:15 - 71:17] É uma coisa muito bonita, muito feliz.
+[71:17 - 71:19] É uma coisa muito bonita, muito feliz.
+[71:19 - 71:21] É uma coisa muito bonita, muito feliz.
+[71:21 - 71:23] É uma coisa muito bonita, muito feliz.
+[71:23 - 71:25] É uma coisa muito bonita, muito feliz.
+[71:25 - 71:27] É uma coisa muito bonita, muito feliz.
+[71:27 - 71:29] É uma coisa muito bonita, muito feliz.
+[71:29 - 71:31] É uma coisa muito bonita, muito feliz.
+[71:31 - 71:33] É uma coisa muito bonita, muito feliz.
+[71:33 - 71:37] Pelo que eu andei lendo, parece bem bozinha.
+[71:41 - 71:47] Oge, OGGI, 8.1. Não é Exxon.
+[71:47 - 71:51] É 8.1. 8.1.
+[71:57 - 71:59] Foi.
+[71:59 - 72:02] Tem uns 40 metros que não é barato, né?
+[72:02 - 72:03] Tem, tem.
+[72:09 - 72:16] E, professora, a gente vai usar algum framework, alguma biblioteca para front-end,
+[72:16 - 72:20] ou a gente vai usar só Java e terminal?
+[72:20 - 72:22] O JavaScript terminal.
+[72:22 - 72:23] O node.
+[72:23 - 72:28] Se da tempo você seguiu, depois a gente viu um quarto forte.
+[72:28 - 72:30] Gatemia LSS?
+[72:30 - 72:39] Sim, Gatemia LSS é uma informação, é uma distância, é mais um indexador que você
+[72:39 - 72:41] escreve lá, é um pouco da limitação.
+[72:41 - 72:43] Comprei, referência e tal.
+[72:43 - 72:46] Quem gosta e gosta.
+[72:46 - 72:53] Lá na minha turma da noite eu estou usando Electron, então tudo isso que você falou
+[72:53 - 73:02] tem o main que é um indexador, aí você tem as outras funções por trás e tal, tem toda essa modularização
+[73:02 - 73:11] eu estou passando isso aí tudo pra agulizada e o Electro ainda tem essa questão do IPC, a gente fazia a ponte entre o main e o renderer
+[73:23 - 73:26] Então é um sistema de facilidade.
+[73:26 - 73:28] É, é.
+[73:28 - 73:32] O negócio é uma construção de pastas e coisas.
+[73:32 - 73:37] E eu estou usando SQ Lite.
+[73:37 - 73:44] Eu estou usando uma quantidade local, porque essa coisa do Senac de ter os computadores compartilhados,
+[73:44 - 73:49] às vezes é complicado. Essas duas vantagens que você falou de,
+[73:49 - 73:55] Às vezes a gente não tem acesso a computador, e o arquivo não está mais lá,
+[73:55 - 73:58] e às vezes a gente quer trabalhar em casa e não consegue.
+[73:58 - 74:00] Então estou fazendo com SQ Lite.
+[74:00 - 74:01] Vamos fazer aqui.
+[74:01 - 74:03] Ah, vou usar esse conteúdo.
+[74:03 - 74:05] Ah, precisando de...
+[74:05 - 74:09] Seja feliz noite.
+[74:09 - 74:11] Vai todo lado do...
+[74:11 - 74:13] Outra sala.
+[74:13 - 74:15] Vai todo lado.
+[74:15 - 74:17] Ah, tem que cair algum dentro.
+[74:17 - 74:20] vai que é um botão diferente?
+[74:20 - 74:27] Exato, e aí você quer continuar trabalhando em casa, se não tem acesso a aquele arquivo que fica aqui
+[74:27 - 74:36] então fiz o banco de dados em SQLite, talvez para o final do semestre eu faça um banco de dados no Iven
+[74:36 - 74:42] para eles acessarem com o projeto integrador deles e mostrar como é que a gente estabelece a conexão
+[74:42 - 74:53] que não é mais no arquivo, numa pasta, via Berask L3, via conexão com IP, nome de usuário,
+[74:53 - 74:54] sem etc.
+[74:54 - 74:59] Eu não vou te dar certeza, mas eu acho que já vi um pessoal que deixou um pouco de dados
+[74:59 - 75:03] no outro space, a tentar ver se o que eu posso fazer, deixar tudo lá para você colocar
+[75:03 - 75:04] no ar.
+[75:04 - 75:08] Eu quero organizar, eu entendo, para ver a minha atividade.
+[75:08 - 75:12] A verdade é que agora eu fiquei com o meu método.
+[75:12 - 75:22] Cara, eu acho essa ideia de encorpar o nosso GitHub muito boa, muito boa para a questão de aprendizado e para a questão profissional.
+[75:22 - 75:24] Porque o GitHub estava sendo uma vitrine também, né?
+[75:24 - 75:25] Pode forne-me, cê.
+[75:25 - 75:26] Exato.
+[75:26 - 75:31] A entedade que são as pessoas ali, a atividade da sala,
+[75:31 - 75:33] comecei a ir montando os projetos.
+[75:34 - 75:36] Conforme está aqui para usar,
+[75:37 - 75:38] aí vai sempre...
+[75:39 - 75:40] Se for embaljeir,
+[75:41 - 75:42] como é que se não fosse?
+[75:43 - 75:45] Não passa como o pessoal do cemais passado,
+[75:45 - 75:46] eu passei uma função lá,
+[75:46 - 75:47] ah, vocês querem já?
+[75:47 - 75:49] Pera, você quer cinco pessoas,
+[75:49 - 75:51] para fazer um ano de série cinjado.
+[75:52 - 75:54] Aí ele diz assim,
+[75:54 - 75:56] Mas eu passei...
+[75:56 - 75:58] Eu deixei um momento...
+[75:59 - 76:01] Eu já acho que quatro meses...
+[76:01 - 76:02] Falta um mês...
+[76:02 - 76:04] Como é que tá o projeto com vocês?
+[76:04 - 76:06] Ah, a gente tá com um futuro a ganhar...
+[76:06 - 76:08] É complicado, cara.
+[76:08 - 76:09] Eu falo assim...
+[76:09 - 76:12] Fazer trabalho em grupo comigo é a pior coisa que existe.
+[76:12 - 76:13] Pior coisa que existe.
+[76:13 - 76:15] Porque eu canibalizo tudo.
+[76:15 - 76:16] Eu quero fazer tudo.
+[76:17 - 76:19] Eu não delegue responsabilidade.
+[76:19 - 76:20] Eu tenho...
+[76:20 - 76:22] Acho que é problema de...
+[76:22 - 76:27] confiança, né? Se eu fazer uma parte, tu vai fazer uma parte, tu vai fazer uma parte,
+[76:27 - 76:31] eu vou dizer, não, não, não, melhor fazer as três porque eu sei que vai dar certo.
+[76:31 - 76:35] E eu acabo cardimalizando. Quem faz trabalho em grupo comigo e não fala,
+[76:35 - 76:39] não, deixa eu fazer isso, começa a fazer, não faz.
+[76:52 - 76:59] Para fazer um conteúdo lá, você pode fazer um 2 de 3D.
+[77:02 - 77:05] Que é tipo um 2.
+[77:05 - 77:08] Para fazer alguma apimentação e etc.
+[77:08 - 77:10] Uma vantagem.
+[77:10 - 77:12] Você se vê no realcast.
+[77:12 - 77:16] O realcast, o realcast principal, que é lá fazer as frissões.
+[77:22 - 77:28] Isso aqui da formador de jogos, utilizam JavaScript.
+[77:28 - 77:32] Você já fez com os algoritmos ou a pele em Xaverador?
+[77:32 - 77:33] Não.
+[77:33 - 77:36] Você já conseguiu fazer os jogos de um fadar webzinho?
+[77:36 - 77:40] Ah, tem só a tisa do fone, não tem mais nada.
+[77:40 - 77:44] Eu acho que eles utilizam com o guia, com o lojam.
+[77:54 - 77:56] Dá tempo de banheiro aí.
+[78:36 - 79:06] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[79:06 - 79:09] Ainda tem um pé no meio.
+[79:09 - 79:11] Ainda tem um pé no meio.
+[79:14 - 79:16] Ok.
+[79:16 - 79:20] Agora com a gente, com a gente, com a gente.
+[79:20 - 79:22] Agora com a gente, com a gente.
+[79:22 - 79:24] A gente está bem aqui.
+[79:24 - 79:27] E a gente tem um pé.
+[79:27 - 79:29] A gente tem um pé no meio.
+[79:29 - 79:32] A gente tem um pé no meio.
+[79:32 - 79:34] O que é isso?
+[79:34 - 79:36] O que é isso?
+[79:36 - 79:38] O que é isso?
+[79:38 - 79:40] O que é isso?
+[79:40 - 79:42] O que é isso?
+[79:42 - 79:44] O que é isso?
+[79:44 - 79:46] O que é isso?
+[79:46 - 79:48] O que é isso?
+[79:48 - 79:50] O que é isso?
+[79:50 - 79:52] O que é isso?
+[79:52 - 79:54] O que é isso?
+[79:54 - 79:56] O que é isso?
+[79:56 - 79:58] O que é isso?
+[79:58 - 80:00] O que é isso?
+[80:00 - 80:02] O que é isso?
+[80:02 - 80:04] O que é isso?
+[80:04 - 80:06] O que é isso?
+[80:06 - 80:08] O que é isso?
+[80:08 - 80:10] O que é isso?
+[80:10 - 80:12] O que é isso?
+[80:12 - 80:14] O que é isso?
+[80:14 - 80:16] O que é isso?
+[80:16 - 80:18] O que é isso?
+[80:18 - 80:20] O que é isso?
+[80:20 - 80:22] O que é isso?
+[80:22 - 80:24] O que é isso?
+[80:24 - 80:26] O que é isso?
+[80:26 - 80:28] O que é isso?
+[80:28 - 80:30] O que é a hora de começar?
+[80:38 - 80:40] Pessoal!
+[80:40 - 80:42] Lá no final do minuto, claro.
+[80:44 - 80:48] Vocês ficam pesados em, ah, qual linguagem de programação, e o que é o que é o linguagem de sefer?
+[80:48 - 81:01] Siguente, as linguagens de programação, elas vão ter efeos, as funções aritméticas, e algumas, as lógicas lá que são essas coisas.
+[81:01 - 81:10] Você vai aprender nesse mestre, lojas de programação, vão aprender funções, lookings, tudo isso.
+[81:10 - 81:12] Todos os engórios têm essas funções.
+[81:12 - 81:15] Então eu vou testar, ah, qual linguagem é melhor?
+[81:15 - 81:17] Algumas linguagens vão ter alguns módulos,
+[81:17 - 81:22] ah, JavaScript consegue trabalhar melhor, o questão de imagens, essas coisas.
+[81:22 - 81:28] Al pegar a API e trabalhar melhor com parte de servidor, tudo isso.
+[81:28 - 81:34] elas vão ter algumas funcionalidades, mas aquela lógica mesmo, todas é igual, então
+[81:34 - 81:41] se você tipo, a gramática é igual, se vocês vão aprender tipo, você vai aprender inglês,
+[81:41 - 81:50] a gramática do inglês é diferente, a gramática mesmo, vai mudar apenas os termos e as coisas,
+[81:50 - 81:55] então se vocês aprenderem bem a lógica, aprenderem, funciona essa forma, se você
+[81:55 - 81:57] batendo o olho assim
+[81:57 - 81:59] Ah, isso aqui é Python
+[81:59 - 82:01] Ah, ele está usando o...
+[82:01 - 82:03] Extende
+[82:03 - 82:05] Ah, isso aqui é um objeto
+[82:05 - 82:07] Isso aqui é um...
+[82:07 - 82:09] É uma classe fina
+[82:09 - 82:11] Vocês vão conseguir, entendeu?
+[82:11 - 82:13] Vamos fazer isso, pegar essa lógica
+[82:13 - 82:15] Então, você precisa ter uma base boa
+[82:15 - 82:17] para aí, só implementar as outras linguagens
+[82:17 - 82:19] Ok
+[82:21 - 82:23] Eu falei muito de objeto
+[82:23 - 82:41] Você fala que o objeto é um objeto, o objeto é um objeto que você criava, é tipo instanciado,
+[82:41 - 83:05] Você não vai, por exemplo, dizer, ou um objeto é um objeto que a gente cria, é a classe.
+[83:05 - 83:08] O que vai dizer a estrutura do objeto de todas as coisas?
+[83:08 - 83:10] O que vai dizer?
+[83:10 - 83:16] Se é que eu, é a classe K, ele vai ter um motor, vai ter rodas, vai fechar sim,
+[83:16 - 83:21] portas, altura, a gente teve tudo isso na classe.
+[83:21 - 83:30] Então a gente vai lá e bota assim, novo, objeto da classe K, que é o objeto.
+[83:30 - 83:35] Vamos lá dizer que a Alissa criou ele.
+[83:35 - 83:38] Esse objeto não vai ser criado nada maior do que o cadê.
+[83:38 - 83:40] É um pouco importante.
+[83:40 - 83:46] Nosso computador é o pessoal, ele insere e está ouvindo a moda, a calça perde.
+[83:46 - 83:53] Se eu criar um objeto, trabalhar com ele, que isso não pode fazer com ele.
+[83:53 - 83:58] Ou a gente pode fazer a persistência, viver com o campo de dados.
+[83:58 - 84:01] ou o zimpinete termina a função finaliza.
+[84:03 - 84:07] Enquanto os sistemas grandes, sempre uma hora das informações.
+[84:07 - 84:10] Também é um tipo de existência que é um tipo de dados.
+[84:13 - 84:16] Vocês entenderam a diferença de classe com o objeto?
+[84:17 - 84:23] É tipo objeto que eu inscri, mas é o que a gente vai controlar e as classes.
+[84:23 - 84:30] aqui vocês vão escrever as coisas, o objeto vai ser parte da população do sistema
+[84:30 - 84:33] você vai controlar e você vai criar o objeto
+[84:33 - 84:36] vamos dizer que eu estava terminando o primeiro momento
+[84:36 - 84:38] aaaaaa
+[84:38 - 84:42] todo o de vóctico já é distinto para o vóctico
+[84:42 - 84:45] mas para nada, vóctico
+[84:45 - 84:46] o que acontece?
+[84:46 - 84:49] a parte dos antepentro e do apentro, todas as vócticas
+[84:49 - 84:51] começaram a procurar alguma coisa
+[84:51 - 84:54] para trabalhar com o objeto.
+[84:54 - 84:58] Quando você tem um formo e trabalha com o objeto, o que acontece?
+[84:58 - 85:02] Quando você tem aquela estrutura lá, é uma filha, não é isso?
+[85:02 - 85:04] Você entra e faz aquela operação.
+[85:04 - 85:09] Igual a gente pode fazer com que já becete, já, são iguais de alta-lígua.
+[85:09 - 85:12] A gente não consegue trabalhar com várias consequências.
+[85:12 - 85:14] Você não trabalha com traves.
+[85:14 - 85:17] Então, é uma função, é um estródo c.
+[85:17 - 85:21] Você quer a delas ser que você força a teitura do objeto?
+[85:21 - 85:22] O quê?
+[85:22 - 85:25] Você quer que a delas força a teitura do objeto?
+[85:25 - 85:28] Principalmente, você viu a forma dele.
+[85:28 - 85:29] Você viu o desenho?
+[85:29 - 85:31] Parece que tem tudo a ver com o desenho.
+[85:31 - 85:32] É a forma.
+[85:32 - 85:34] Que tem a forma dele.
+[85:34 - 85:36] E quando você vai criar, por exemplo,
+[85:36 - 85:38] que tem a forma lá do cliente.
+[85:38 - 85:40] Tem o vinho do lado do carro.
+[85:40 - 85:42] Aqui, já tem o vinho do carro.
+[85:42 - 85:45] O cliente tá, comprou um carro.
+[85:45 - 86:07] A classe como se fosse o projeto, a planta e o objeto, aquilo que a gente cria a partir da classe.
+[86:07 - 86:10] E o que acontece se a problematória está no objeto?
+[86:10 - 86:11] Eu criei o objeto aqui.
+[86:11 - 86:13] Aí vem outro cliente que cria,
+[86:13 - 86:16] eu postei o sistema lá, ele vai criar o outro objeto.
+[86:16 - 86:18] Ele não vai trabalhar com esse fútus,
+[86:18 - 86:20] ele pode trabalhar para o mesmo.
+[86:20 - 86:23] Uma das multiplicações da estudada
+[86:23 - 86:26] é que o sessólim está lá na fila.
+[86:26 - 86:27] Então, quando ele postea essa fúria de forma que você não vê,
+[86:27 - 86:30] você acaba demorando esses textos.
+[86:30 - 86:32] Então, como você criei vários objetos,
+[86:32 - 86:35] você vai estar trabalhando com esse outro ao mesmo tempo.
+[86:35 - 86:42] Vamos fazer a trabalha de todos os outros, porque é mais rápido, é mais fácil.
+[86:42 - 86:45] É mais fácil, é mais fácil.
+[86:45 - 86:47] É mais fácil.
+[86:47 - 86:49] É mais fácil.
+[86:49 - 86:51] É mais fácil.
+[86:51 - 86:53] É mais fácil.
+[86:53 - 86:55] É mais fácil.
+[86:55 - 86:57] É mais fácil.
+[86:57 - 86:59] É mais fácil.
+[86:59 - 87:01] É mais fácil.
+[87:01 - 87:03] É mais fácil.
+[87:03 - 87:08] Eu queria explicar a estrutura mesmo, como eu queria executar.
+[87:09 - 87:12] O que acontece? Nessa biblioteca eu criava a classe,
+[87:13 - 87:17] criava a classe, colocava as compoções dela, criava os métodos, os atributos,
+[87:18 - 87:24] colocava tudo lá e quando ia, depois ia fazer, tinha que fazer tudo isso separado.
+[87:25 - 87:28] Um dos antálios que eu sei mais e mais é que eu vou arquivar isso separado.
+[87:29 - 87:31] Era tudo separado e eu achava que eu ia ser organizado.
+[87:31 - 87:42] E aí da menina da pessoa, ele ia por exemplo, ah, quando eu compilasse ia aparecer coisas extras também, mas eu podia mandar ela com outras partes diferentes.
+[87:42 - 87:47] Então a gente tinha que deixar o ianto mais organizado, mas aí criava muito arquivo.
+[87:47 - 87:52] O Java sempre... eu gosto de que era um...
+[87:52 - 87:56] era ativo em cima da classe, depois do Java,
+[87:56 - 88:00] a nossa... desse cara tudo misturava.
+[88:05 - 88:07] Vamos ter nossa classe lá.
+[88:08 - 88:10] Uma coisa que a gente poderia ter da classe,
+[88:10 - 88:14] é que ela vai ter alguns... alguns... como eu não sei,
+[88:14 - 88:17] Não havia alguns características.
+[88:19 - 88:24] E essas características seria o que eu terei de passecar com atributos,
+[88:25 - 88:28] e as suas inclusas não têm atingimento de métodos.
+[88:29 - 88:34] Por exemplo, a pessoa com a sua cliente, entendeu o nome, o CPF, endereço.
+[88:35 - 88:38] O que a cliente faz? Ele realiza pedido, realiza pagamento.
+[88:38 - 88:48] A classe é a que define o objeto durante seus dados e fará suas operações.
+[88:48 - 88:54] Quando eu criei um novo objeto, posso chamar de função da primeira objeto.
+[88:54 - 88:56] Vocês entendem isso?
+[88:56 - 89:01] Vamos dizer que eu criei uma classe cliente, e o tutorial é um novo cliente.
+[89:01 - 89:03] Eu posso realizar um pedido.
+[89:03 - 89:05] Então eu vou dar um tutorial para o tutorial e vou realizar um pedido.
+[89:05 - 89:07] com certeza eles vão ser muito pedidos.
+[89:09 - 89:12] E essa, isso, eu acho, tá vendo aí.
+[89:12 - 89:16] Mas toda função, todo método, estaria em um isolado,
+[89:16 - 89:21] e a meio diminui no método, na minha construção.
+[89:21 - 89:24] A minha construção é o termístico que eu passo aqui.
+[89:26 - 89:28] Qual a vantagem desse aqui?
+[89:29 - 89:30] Separação, né?
+[89:30 - 89:31] Separação e tudo, né?
+[89:31 - 89:34] O que acontece? Eu não vou ter uma função basicamente calma.
+[89:34 - 89:36] Ela está pedido para todo mundo, não.
+[89:36 - 89:38] Eu posso dar o pedido,
+[89:38 - 89:40] ou eu não posso dar o pedido,
+[89:40 - 89:42] o herói não pode dar o pedido,
+[89:42 - 89:44] todo o empanharia está pedido.
+[89:44 - 89:46] Pode conseguir mais facilmente.
+[89:48 - 89:50] É o princípio da simplificação,
+[89:50 - 89:52] que a inclusão de dados depende de um sistema de contexto.
+[89:52 - 89:54] Eu não vou permitir que um fornecedor
+[89:54 - 89:56] realiza o pedido.
+[89:56 - 89:58] Um fornecedor vai ter que ir dada de entrega.
+[89:58 - 90:08] de entrega. E acontece. Ah, se tivesse que fazer a exporação com, se tivesse que fazer
+[90:08 - 90:12] coisa de um livro, em realiza pedido, poderia ir em si aonde?
+[90:12 - 90:15] Na classe. Na classe.
+[90:15 - 90:17] O que é o que é?
+[90:17 - 90:18] O que é?
+[90:18 - 90:19] O que é?
+[90:19 - 90:20] O que é?
+[90:20 - 90:21] O que é?
+[90:21 - 90:22] O que é?
+[90:22 - 90:23] O que é?
+[90:23 - 90:24] O que é?
+[90:24 - 90:25] O que é?
+[90:25 - 90:26] O que é?
+[90:26 - 90:27] O que é?
+[90:27 - 90:28] O que é?
+[90:28 - 90:29] O que é?
+[90:29 - 90:30] O que é?
+[90:30 - 90:31] O que é?
+[90:31 - 90:32] O que é?
+[90:32 - 90:33] O que é?
+[90:33 - 90:34] O que é?
+[90:34 - 90:35] O que é?
+[90:35 - 90:36] O que é?
+[90:36 - 90:37] O que é?
+[90:37 - 90:38] O que é?
+[90:38 - 90:39] O que é?
+[90:39 - 90:40] O que é?
+[90:40 - 90:41] O que é?
+[90:41 - 90:42] O que é?
+[90:42 - 90:43] O que é?
+[90:43 - 90:44] O que é?
+[90:44 - 90:48] Se ele resolve pedir, vai estar lá.
+[90:48 - 90:51] Ao mesmo tempo tem que ter o... saber parar a antena, tem que estalar.
+[90:51 - 90:52] E isso aí?
+[90:52 - 90:53] Sim.
+[90:53 - 90:54] Tivem?
+[90:54 - 90:57] Eles são portão dos leis, rápido, enquanto não esperem nada.
+[90:57 - 91:12] Então será que a regra de negócio é sempre para saber como funciona o comportamento das regras da empresa?
+[91:12 - 91:18] Assim, como se você considerar em preto, você quer saber lá, ah, como se eu não conseguia ler em preto, eu consegui...
+[91:18 - 91:21] Mas qual o negócio mesmo? É tudo em preto, não seria esse negócio, é.
+[91:21 - 91:24] Você vai usar a piscaria, você sabe, meu que lá?
+[91:24 - 91:28] Não é um jogo rasta, é uma pizza.
+[91:28 - 91:30] Mas aí o que acontece?
+[91:30 - 91:32] Para que a pizza aí você tem que ter um...
+[91:32 - 91:34] Sabe o que vai ter?
+[91:34 - 91:36] Tem que ter farinha, queijo, tomate, suspeito...
+[91:36 - 91:40] É como se você vier queende da empresa.
+[91:40 - 91:42] É um justiço que eu penso que é a pizza.
+[91:44 - 91:46] Ou você ia ter sucesso para pizza.
+[91:48 - 91:50] Ela tem vários serviços.
+[91:50 - 91:52] Não é isso, né?
+[91:52 - 91:54] Quero ouvir lá filmes.
+[91:54 - 91:56] Mas são dois jogos agora.
+[91:56 - 91:56] Quê?
+[91:56 - 91:57] Jogos.
+[91:57 - 91:58] Se ele é o QR Code,
+[91:58 - 92:00] celular, esse celular vira o controle.
+[92:00 - 92:02] Mas normalmente a regra que não passa o quê?
+[92:02 - 92:03] Providência.
+[92:03 - 92:04] Providência.
+[92:04 - 92:04] Certo.
+[92:05 - 92:06] É isso.
+[92:06 - 92:07] Por exemplo, ah, mas...
+[92:07 - 92:09] Por exemplo, para a explicação de vender.
+[92:09 - 92:09] É.
+[92:09 - 92:11] Ou a explicação de visualizar lá.
+[92:11 - 92:13] A explicação de vender as coisas, né?
+[92:13 - 92:15] Começando de cantar o tipo de depoição.
+[92:22 - 92:38] Eu vou falar que o termo não tem, não tem, usamos muito, é distanciado. Você distanciou aquele objeto, porque é o distanciado. É criar ele. Você vai ter a classe.
+[92:38 - 92:46] Você vai ter a classe quando você diz assim o objeto foi estanciado, quando você estava
+[92:46 - 92:50] pagando lá, pai, vocês não tinham que juntar um valor na variável?
+[92:50 - 92:51] Sim.
+[92:51 - 92:59] Aquela parte era estanciar, você estava estanciando a variável, mas no pior, estanciar
+[92:59 - 93:03] E se o objeto, por exemplo, é um digador, eu vou estar lá.
+[93:08 - 93:13] Fiquei, tipo, mil, eu posso estar lá.
+[93:15 - 93:16] Não é gigante.
+[93:16 - 93:17] Não.
+[93:17 - 93:18] O que? Para que faz?
+[93:18 - 93:19] É.
+[93:19 - 93:21] Você não vai pagar a mão, não?
+[93:21 - 93:22] Sim.
+[93:22 - 93:23] É, porque eu vou fazer.
+[93:23 - 93:25] Construindo o objeto, né?
+[93:25 - 93:33] A gente estava construindo objetos, por exemplo, o objeto 1 João, o objeto 2 Maria, o objeto 3 Impresital
+[93:33 - 93:38] A gente foi ter vários objetos trabalhando com eles ao mesmo tempo
+[93:38 - 93:46] Você não precisa ter a presa naquela aembeia, aembeia, a requisição, então eu estou esperando o processador, o sistema lá para processar
+[93:46 - 93:50] Aqui a objeto foi criado, exerção e segue vida
+[93:50 - 93:57] E aqui embaixo, é o exapedido ou o mesmo?
+[93:57 - 94:02] É uma função já dele.
+[94:02 - 94:06] O que é o seguinte?
+[94:06 - 94:10] Você tem a função exapedida.
+[94:10 - 94:14] Alguns exapedidos são precisados.
+[94:14 - 94:18] Alguns objetos são precisados, outros podem ter precisado.
+[94:18 - 94:21] Mas basicamente não acontece.
+[94:21 - 94:27] Com a realização pedido, a empresa pode fazer, a maioria pode fazer isso.
+[94:27 - 94:30] Ele já vai estar na construção dele.
+[94:30 - 94:35] Eu posso dizer assim, ah, ela fez o pedido.
+[94:35 - 94:38] Ele faz todo o procedimento que a exerção pediu.
+[94:38 - 94:44] Mas nesse caso aí ela só tem as quatro questões que já desapareceram.
+[94:44 - 94:45] É só um exemplo.
+[94:45 - 94:51] Mas é que vocês têm que entender que vocês estão acostumados a fazer a estrutura.
+[94:51 - 94:56] E a gente igual a zero.
+[94:56 - 94:58] E isso é o que é isso.
+[94:58 - 94:59] Não é um tal.
+[94:59 - 95:02] Vocês estão acostumados a sempre trabalhar com uma variável.
+[95:02 - 95:07] O que acontece? Na forma que eu estou fazendo as asalariáveis, elas vão estar dentro da classe,
+[95:07 - 95:09] postar aqui, precisar ter búlgica.
+[95:09 - 95:14] E vocês vão, aquelas associações que vocês falem para chamar das coisas,
+[95:14 - 95:18] ah, tem que estar no seu lado, estou parado, mas está imposto aqui.
+[95:18 - 95:20] Sim?
+[95:20 - 95:22] Como aqui, já está com a lista?
+[95:22 - 95:23] Uma lista?
+[95:23 - 95:24] Não.
+[95:24 - 95:27] Aí que eu me complico, eu fico pensando o seguinte,
+[95:27 - 95:32] Não, eu estou pensando em isso. Falei lista, eu pensei nas estruturas de dados de lista.
+[95:33 - 95:35] Não sei se você quer dizer.
+[95:37 - 95:39] As estruturas de láfagos que eu tenho que entender aí é composto.
+[95:41 - 95:43] Eu não pensei que não fosse um fight.
+[95:44 - 95:50] E a variável, nesse é, eu não tenho as colinões, as CVF, etc.
+[95:52 - 95:53] O que acontece?
+[95:53 - 95:54] Desce da costa.
+[95:54 - 96:03] O que eu falei muito é assim, ah, eu pedi lógica e sei. Quando eu pedi lógica e sei,
+[96:03 - 96:07] eu tinha uma ferramenta que usava coisas chamadas de estrutura, que era que era uma estrutura.
+[96:07 - 96:13] Dentro dessa estrutura, eu podia colocar um cádito de coisa. Ah, eu tive que trabalhar com arquivo.
+[96:13 - 96:19] Eu tava vendendo esse arquivo, ah, era um mapa. Ah, x, y, uma matriz.
+[96:19 - 96:22] Eu estava falando da sua função de assistentura, porque era o que?
+[96:22 - 96:25] Era mais fácil porque ela transportando a assistentura,
+[96:25 - 96:28] ela fica transportando os dados.
+[96:28 - 96:34] O setembre, essa função, o que aconteceu?
+[96:34 - 96:38] Isso quando a gente passou pelo P.O.O., quando o seu mais mais se desapareceu,
+[96:38 - 96:40] virou uma classe.
+[96:40 - 96:44] Mas a resposta que você estava dizendo, é o começo disso,
+[96:44 - 96:46] tem alguns dos problemas que foram colocados lá.
+[96:46 - 96:49] No Python A, quando você vai criar um...
+[96:49 - 96:54] Você deve ter uma estrutura, você deve trabalhar vários arquivos, vários variáveis juntos.
+[96:56 - 97:00] Enquanto você tem um ato, você vai se fazer transportar e trabalhar com eles.
+[97:03 - 97:05] No P.O, você vai ter lá a classe.
+[97:05 - 97:10] Além de você ter pessoas de baixo, que são os métodos.
+[97:10 - 97:14] É disso que é, por exemplo, a variável tal.
+[97:14 - 97:20] A variável do macro tem que saber qual é o HDX e o HDY, qual o controle que está lá no macro.
+[97:21 - 97:26] Talvez esses objetos da lição dos principais, algo dos hackers.
+[97:29 - 97:31] Ah, não é tão simples assim.
+[98:01 - 98:08] Então é mais fácil, se você quer aquele portão de ferro do firewall, é mais fácil perguntar para o porteiro,
+[98:08 - 98:12] mas enganar ele, porque passar por aquele firewall.
+[98:13 - 98:15] Minha área social, né?
+[98:15 - 98:18] Minha área social, pichos, caramheiros.
+[98:19 - 98:23] O alo mais fraco que tu quer é o sistema para ser humano.
+[98:24 - 98:27] O alo que você faz é prazer em que pego, né?
+[98:27 - 98:33] O álcool mais fraco, o aulo mais fácil, é o ser humano.
+[98:37 - 98:40] Depois que tem que ter compromidade, mano?
+[98:40 - 98:42] Não estou a ver isso, tem vários detalhes, né?
+[98:42 - 98:45] O pessoal de segurança aqui trabalha só com software.
+[98:45 - 98:48] Ele trabalha com software, entreiamento, tudo isso aí.
+[98:48 - 98:52] Fazer o VESI do Vazsílio Domino, a proteção do preguiço.
+[98:52 - 98:55] Mas ela fica só que ver esses todos, né?
+[98:55 - 98:59] Muitas ferramentas que são usadas para estar, são usadas para fazer tudo bem, não é?
+[99:02 - 99:04] Isso, né? O que eu estava dizendo, né?
+[99:04 - 99:07] O OBG é uma lista para atributos, métodos.
+[99:07 - 99:09] Tem alguns que lhes dá mais, né?
+[99:09 - 99:13] É uma lista específica que é a de uma da Constituição Togo.
+[99:13 - 99:15] E vai falar o que queria ir, né?
+[99:15 - 99:16] Mas vamos fazer aqui.
+[99:16 - 99:18] Os atributos, é o quê?
+[99:18 - 99:18] São os dados.
+[99:18 - 99:20] É o qual o objeto sabe.
+[99:20 - 99:21] Ah!
+[99:21 - 99:26] Eu sei meu nome, sem idade, sem meu altura, sem meu peso.
+[99:26 - 99:31] Aqui, na hora que você for distanciar, você tem que definir isso.
+[99:31 - 99:35] Então, você, por exemplo, tem que ter que ter o valor do carro,
+[99:35 - 99:41] tem que ter qual o poder, é branco, é prato, é preto, o modelo, a placa do carro.
+[99:41 - 99:45] Tem que ser tudo isso na hora de criação dele, tem que ser formado.
+[99:45 - 99:49] Algumas das normas diretórias, outras são as vezes distanciadas.
+[99:49 - 99:55] que define quais atributos que a gente vai escolher para modelar objeto é abstração?
+[99:55 - 100:01] No caso, eu estou a se determinar em fácil, né? Aqui você define, ah, meter o nome, se ver,
+[100:01 - 100:05] entender isso. Sim, mas eu tenho que levar em conta o que é relevante para as minhas
+[100:05 - 100:09] regras de negócio. Por exemplo?
+[100:09 - 100:15] Existe, eu só, o dia a dia, eu só vou contar como é candidato. Hoje, a candidato não
+[100:15 - 100:22] Ah, perguntar se sou discriminação com o povo.
+[100:22 - 100:29] Sim, dependendo da regra de negócio se aquela informação é relevante ou não, você pode coletar ou não.
+[100:29 - 100:36] Por exemplo, uma funerária precisaria da data de óbito do indivíduo,
+[100:36 - 100:43] enquanto outro serviço não necessariamente, ou não precisaria.
+[100:43 - 100:47] Metodos, é o comportamento, é o que o objeto faz
+[100:47 - 100:50] É um funções fecha de flores negras
+[100:50 - 100:54] Ah, vou dedicar, acelerar, consultar muitos
+[100:54 - 100:58] Você vai ter todas as trazações que você tem, é fator
+[100:58 - 101:03] Então, você vai dizer assim, ah, o objeto foi financiado, ele já pode executar aquelas ações
+[101:03 - 101:07] Você não precisa ficar achando funções, tudo isso
+[101:07 - 101:10] Quando ele já foi criado, ele já vê aquelas funções de paz
+[101:10 - 101:13] É uma vantagem da sua procedimento.
+[101:14 - 101:19] Tem alguns caracteres que podem ser os pilares do P.O.
+[101:20 - 101:23] Que são basicamente a abstração,
+[101:23 - 101:28] encapsulamento, esperança e polimofismo.
+[101:28 - 101:31] São os pilares que fazem a base do P.O.
+[101:31 - 101:34] Todo mundo sauda bastante.
+[101:34 - 101:46] Vamos falar um pouco sobre a abstração. Por exemplo, a abstração que a gente aconteceu
+[101:46 - 101:55] que foi uma abstraia. E eu falto que ela não está aí. Mas, tira o pé.
+[101:55 - 102:09] Você tem todas as informações do motor, mas o que é que vale a pena?
+[102:09 - 102:17] Você olha o motor, as informações técnicas, ligamento, o que é que você diz o que?
+[102:17 - 102:19] Para mim, é bom, para mim, é bom.
+[102:19 - 102:20] Ah, quanto de cilindradas,
+[102:20 - 102:23] qual são os tipos de motor,
+[102:23 - 102:24] para saber as peças, que é isso.
+[102:26 - 102:28] Essas são as nossas básicas, né?
+[102:28 - 102:31] As nossas mostébicas dependem do como.
+[102:32 - 102:35] Basicamente, eu tenho um objeto real que tem
+[102:35 - 102:38] uma pluralidade de características.
+[102:38 - 102:40] E a abstração me diz
+[102:40 - 102:43] quais dessas características eu vou pinçar
+[102:43 - 102:45] para modelar a minha classe.
+[102:45 - 102:47] Quais que são relevantes.
+[102:47 - 102:59] Por exemplo, só mais uma questão, por exemplo, eu tenho um carro e eu quero fazer um programa que mede a velocidade final do carro.
+[102:59 - 103:05] Talvez a cor do carro não seja importante, então não é um aspecto que eu tenho que colocar lá no meu programa.
+[103:05 - 103:13] Mas se eu estou alugando um carro e o cliente precisa ver o que ele vai alugar, ele precisa saber da cor porque pode escolher.
+[103:13 - 103:18] Pessoa mesmo, um sistema de infelizamento de entregas,
+[103:18 - 103:20] não precisa saber de um interesse.
+[103:20 - 103:24] É um interesse no nome do fórum de pagamento.
+[103:24 - 103:25] Não precisa ser religião.
+[103:25 - 103:27] Se for clínico, acha que é múdico.
+[103:27 - 103:31] Tem que saber, não cura o meu peso, meu histórico médico.
+[103:31 - 103:33] Porque as regras de negócio mudam.
+[103:33 - 103:34] Exatamente.
+[103:34 - 103:34] Perfeito.
+[103:34 - 103:36] Mas ele não importa o interesse.
+[103:38 - 103:40] Ou não importa o fórum de pagamento e as coisas.
+[103:40 - 103:44] Então a abstração e récord de negócio tem uma correlação.
+[103:44 - 104:14] Exatamente, porque é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que
+[104:14 - 104:21] Vocês trabalharam para o enterador ou estão trabalhando para o enterador se mais passado?
+[104:21 - 104:28] O que vocês fizeram? Vocês fizeram o level de meio exícito?
+[104:28 - 104:35] Não, porque não chegam a essa fase, é só a estruturação para o ser do projeto.
+[104:35 - 104:38] Mas aí tem esses detalhes.
+[104:38 - 104:45] O que acontece quando você vai...
+[104:45 - 104:48] A gente não consegue pensar em um objeto logo.
+[104:48 - 104:50] Aí a gente pensa logo no estrutural.
+[104:50 - 104:52] Tem que fazer isso e isso é que você quis.
+[104:52 - 104:54] Aí depois é que você precisa separar.
+[104:54 - 104:56] Pensa aí, ah, eu posso fazer isso e não é objeto.
+[104:56 - 104:58] Não sei quantos objetos.
+[104:58 - 105:00] Então, você precisa separar.
+[105:00 - 105:02] Você precisa separar.
+[105:02 - 105:04] Você precisa separar.
+[105:04 - 105:06] Você precisa separar.
+[105:06 - 105:25] Você que não objece, não se fico em outros objetos, como é que funciona o
+[105:25 - 105:35] Emcapsulamento, esse motivo principal é a vantagem do pior com relação ao colçador
+[105:35 - 105:36] álcool.
+[105:36 - 105:41] Você se pergunta o que é o problema de segurança?
+[105:41 - 105:44] O que é o posto da FI?
+[105:44 - 105:46] Que dados são privados?
+[105:46 - 105:54] Ah, não é clínica médica, histórico médica, pressão álcool, expôs e tudo?
+[106:24 - 106:28] E ele tem que controlar o espelho de peso.
+[106:28 - 106:30] Então, por exemplo, a pessoa.
+[106:30 - 106:33] Eu posso transformar a relação entre eles.
+[106:35 - 106:37] Dou um índice lá.
+[106:37 - 106:41] Isso, um método.
+[106:41 - 106:45] Ele vai fazer o que está em cima de tudo, e eu estou abchando.
+[106:45 - 106:47] Não vai ter nada aqui.
+[106:47 - 106:54] Como esse sistema de efetual aqui, pode ter acesso para os partes de fora.
+[106:54 - 106:58] Então, por questão de segurança, não vai ver.
+[106:58 - 107:01] Os dados primários realmente são capsoados.
+[107:01 - 107:03] Dentro dele, difícil acesso.
+[107:03 - 107:08] Então, você tem tipo de atividade.
+[107:08 - 107:13] Você tem o privete, tem o público e tem o...
+[107:13 - 107:22] O melhor é o que o dado sensível, e os dados sensíveis estão no menos em que as pessoas vão ser melhoradas e controladas.
+[107:22 - 107:27] A questão de segurança mesmo. Hoje, se for indo trabalhar com deslumidor de sócio,
+[107:27 - 107:32] tem que saber qual são os dados sensíveis, para ter o cuidado e restrição.
+[107:32 - 107:39] E basicamente é que o custo não acontece. Qualquer coisa é fora, é na classe.
+[107:39 - 107:43] Não pode acessar esses dados, na corpina nenhuma operação com eles.
+[107:43 - 107:45] Então, eu fico tudo dentro da classe, né?
+[107:45 - 107:46] Com a segurança.
+[107:46 - 107:47] Qualquer acesso, por exemplo.
+[107:47 - 107:49] Ah, então, a função lista é lá.
+[107:49 - 107:50] Eu estou acessado.
+[107:50 - 107:51] Ficou com a bítria.
+[107:51 - 107:56] É isso que eu estou fazendo com o pai, então não entendo isso aí.
+[107:56 - 108:00] Como norma, não tem os programados, eles usam aquele traço embaixo na praga.
+[108:00 - 108:04] Pensa aqui, olha, porque o bóxico sabe que aquela classe não pode ser estanciada.
+[108:04 - 108:06] Não pode ser ela mesma.
+[108:06 - 108:11] Eu disse que vocês não podem ser estacionados, a gente já me diga que está aqui.
+[108:11 - 108:14] Mais pra 7, gente vai ver isso.
+[108:14 - 108:22] Como acontece, alguns objetos são poderes alterados, tem ideia de permissão.
+[108:22 - 108:32] Mas faz você pedir um... ah, quero que a plástica só nos cite a informação sobre o Insta.
+[108:32 - 108:38] Ele faz a solicitação, e lá dentro ele tem a curtação de fã em dia da modificação.
+[108:38 - 108:48] Ele por dentro já autentica e autoriza, se não partir uma solicitação autenticada, ele não autoriza liberar esses dados.
+[108:48 - 108:50] A propriedade vem de um bem saído, né?
+[108:50 - 108:51] Sim.
+[108:51 - 108:55] Ou saído de forma sem sinal, de aprovação, a improvissão e essas coisas.
+[108:55 - 109:00] Eu falei, depois da minha justiça, eu pensava muito,
+[109:00 - 109:30] É lança. Você tem uma classe K. Você pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter um carro, pode ter
+[109:30 - 109:32] E subclassos.
+[109:32 - 109:34] Nesses dois não tem o que falar.
+[109:34 - 109:36] Mas o máximo é o quê? Você criou um classe,
+[109:36 - 109:38] vai ser com um padrão,
+[109:38 - 109:40] e depois pode pegar duas ou duas formações.
+[109:40 - 109:42] Ah, essa é a classe.
+[109:42 - 109:44] Vem de formações dela,
+[109:44 - 109:46] e vou subtraindo,
+[109:46 - 109:48] e vou acrescentando mais que os extras.
+[109:48 - 109:50] A porta normal, a caçada, a lidão,
+[109:52 - 109:54] são características únicas daquela classe.
+[109:54 - 109:56] A base pode dividir outra.
+[109:56 - 109:58] Ela vai aproveitar a meta.
+[109:58 - 110:05] E ao invés de ficar fazendo controle, você tem um adesivo para estar em distante de estar em classe
+[110:05 - 110:13] Nesse caso, carro, caminhão e moto são objetos ou eles poderiam ser classes também?
+[110:13 - 110:14] Que são classes?
+[110:14 - 110:15] Perfeito, perfeito
+[110:15 - 110:19] Claro que você tiver um carro, um novo carro e um carro
+[110:19 - 110:26] Sim, eu tenho uma classe é pai, veículo que determina que tem que ter roda e chacir
+[110:26 - 110:30] mas aí eu tenho a classe filho carro que acrescenta isso um porta malas
+[110:30 - 110:33] os porta malas não tem no caminhão e nem na moto
+[110:33 - 110:39] então posso criar um objeto veículo que eu não estou especificando qual é
+[110:39 - 110:43] ou eu posso criar um objeto carro que já vem com porta malas
+[110:43 - 110:44] exatamente
+[110:44 - 110:47] eu tenho que fazer um bicicleta que não está aqui eu vou com um veículo
+[110:47 - 110:49] e aí o bicicleta
+[110:49 - 110:52] é aquele outro porta malas, eu não gostar certeza
+[110:52 - 110:55] é sempre um perdedinho, depende do qual a informação
+[110:55 - 111:03] Mas se eu for criar um carro sedando, eu vou criar um objeto carro e eu tenho quase
+[111:03 - 111:09] que eu vou criar um objeto veículo também, que vai ficar, quando você forcer um carro
+[111:09 - 111:10] com os dois.
+[111:10 - 111:11] Vou criar os dois objetos.
+[111:11 - 111:16] Depois eu tenho o polimorfismo.
+[111:16 - 111:21] Por exemplo, que é tipo um botão, tem várias sanções.
+[111:21 - 111:27] ligar o sonho, ligar o ar, é o mesmo tipo de pressão diferente
+[111:27 - 111:34] isso aqui é um pouco mais complexo, você pode ter a função total
+[111:34 - 111:37] mas ela faz uma educação diferente em cada tipo
+[111:37 - 111:45] por exemplo, consumo de carro
+[111:45 - 111:54] para o consumo do carro, para o carro tem o consumo, para o caminhão tem outro consumo,
+[111:54 - 112:02] para o moto tem outro consumo, se você está pensando em consumo de carro, 15K é de 1,5K,
+[112:02 - 112:12] É, caminhão, acho que vai quase pro 20. Até diz, diz eu...
+[112:12 - 112:20] A primeira vez que eu tenho um carradiz, eu olhei o automomio do carro e disse que é essa, o tanque tá aqui de roda 1.000 km.
+[112:20 - 112:26] Automomio de um carradiz eu olho e suco. Eu vou fazer 1.000 km.
+[112:26 - 112:28] Não para caminhão, né?
+[112:28 - 112:30] Para caminhão de parede.
+[112:30 - 112:32] É, para caminhão, porque mais isso...
+[112:32 - 112:34] Vai até 35.
+[112:36 - 112:39] Aqui a profissão não vai também nessa questão.
+[112:39 - 112:40] É isso.
+[112:40 - 112:42] Não, não, até não é questão.
+[112:42 - 112:44] Se você está dentro da cidade, fora da cidade,
+[112:44 - 112:47] então ainda vai ter uma questão para ficar ativante.
+[112:49 - 112:52] Mas é que cada pessoa, cada pilota de rolê,
+[112:52 - 112:54] vai ter a característica que tiver precisar dele.
+[112:54 - 112:55] Sim, não é?
+[112:55 - 112:56] Vai ser uma desterinoção.
+[112:56 - 112:59] Porque em cada profissão, esse é o maior profissão,
+[113:29 - 113:34] E isso, iniciar uma variável...
+[113:34 - 113:40] ...fazer as diferenças de tempero, mas é dramático lá.
+[113:40 - 113:45] Como é que funciona o Enrique Zé, como é que funciona o Enludo?
+[113:45 - 113:50] O governo vai fazer o Zé que é assinado.
+[114:29 - 114:36] Eu quero o seu CPR, o meu relato, o meu parque de CPR.
+[114:36 - 114:41] Vou com o objeto cliente, assim, com o objeto de CPR.
+[114:41 - 114:43] Qual o seu CPR? Então é isso.
+[114:43 - 114:45] Vou com o objeto de CPR, o meu CPR.
+[114:45 - 114:47] Eu, se não verais, só desprego o seu CPR,
+[114:47 - 114:50] vai criar com a iniciativa da fiscal.
+[114:50 - 114:52] E vai disso.
+[114:52 - 114:56] Aí eu digo, então, qual é a sua cor?
+[114:56 - 115:01] ou já é um lado de cima, ligado, uma parte de cima dele.
+[115:03 - 115:09] Ah, se você tem a porta de seu pedido,
+[115:09 - 115:16] aí ele tem o seu cópia, o caso do meu corpo, do meu antiguarco,
+[115:16 - 115:21] eu sou do lado de baixo. Mas acontece, alguns dados privados,
+[115:51 - 115:56] exatamente, você tem um sistema, ah, eu quero que o sistema que dá certo para isso
+[115:56 - 115:59] que um sistema para gerar nota para a minha empresa
+[115:59 - 116:02] para usar a API da SEPA, a gente faz isso
+[116:02 - 116:04] para você enviar algumas suções
+[116:04 - 116:07] ela produz, ele dá respostas
+[116:07 - 116:09] é o que me arrumpe essa equipe
+[116:09 - 116:11] o sistema mineral principal, o pai da SEPA
+[116:11 - 116:16] se preciso dessa informação, o objeto ou o público, ele pode dar
+[116:16 - 116:18] se for privado, ele não pode dar
+[116:18 - 116:20] tem que tentar de outra forma
+[116:20 - 116:24] tem um método que é a defundiação de resposta que eu quero.
+[116:26 - 116:31] O juparilente vai levantar o tal, o tal, o tal, o tal, mas eu acho que o trecho tudo mentindo.
+[116:33 - 116:35] Mas eu quero que sofre, que chame segurança.
+[116:36 - 116:42] Para quando isso for, você desenvolve, você desenvolve, para quando tudo é suforçado.
+[116:42 - 116:49] O que é feito?
+[116:49 - 116:52] É ter válvios públicos e garantias.
+[116:52 - 116:53] Como é feito?
+[116:53 - 116:54] O que é feito?
+[116:54 - 116:55] O que é feito?
+[116:55 - 116:56] O que é feito?
+[116:56 - 116:57] O que é feito?
+[116:57 - 116:58] O que é feito?
+[116:58 - 116:59] O que é feito?
+[116:59 - 117:00] O que é feito?
+[117:00 - 117:01] O que é feito?
+[117:01 - 117:02] O que é feito?
+[117:02 - 117:03] O que é feito?
+[117:03 - 117:04] O que é feito?
+[117:04 - 117:05] O que é feito?
+[117:05 - 117:06] O que é feito?
+[117:06 - 117:07] O que é feito?
+[117:07 - 117:08] O que é feito?
+[117:08 - 117:09] O que é feito?
+[117:09 - 117:10] O que é feito?
+[117:10 - 117:11] O que é feito?
+[117:11 - 117:41] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[117:41 - 117:42] Eu não sei isso.
+[117:43 - 117:44] Mas, é...
+[117:45 - 117:47] Conte-se um teste com o que isso traz, alguma vez.
+[117:49 - 117:50] O que eu trabalho com o seu entretico,
+[117:51 - 117:53] é uma atividade, é chamada flóssica.
+[117:55 - 117:56] O que acontece?
+[117:56 - 117:58] Um filósofo é um entretico,
+[117:58 - 117:59] é uma missão lá,
+[117:59 - 118:00] e ele tem que falar, tipo assim,
+[118:01 - 118:02] flores internações,
+[118:02 - 118:03] comer,
+[118:03 - 118:04] dormir,
+[118:04 - 118:05] ou pensar.
+[118:05 - 118:07] Se ele não comer o que ele não tem uma tempo,
+[118:07 - 118:09] veria o que ele morre?
+[118:09 - 118:15] A cada filósofo só tem um gato, ele precisa de dois para comer.
+[118:15 - 118:20] Então se eu tenho seis filósofos, só três para comer, e os outros três tem que ficar pensando
+[118:20 - 118:24] em obter nesse processo de feita, porque a pessoa não precisa de uma tensão,
+[118:24 - 118:27] porque a gente não remorra rodando esse tempo.
+[118:27 - 118:33] O trai está do seguinte, ah, gaste do máximo até 200 filósofos.
+[118:33 - 118:41] Até vezes eu vou falar que vocês olharam o sistema assim, e se eu colocar, e só fazer isso.
+[118:41 - 118:48] Vamos testar aqui. Eu e meu vídeo, eu vou ter mais um zero, e aí eu vou tomar um zero.
+[118:48 - 118:51] Vamos para 20 minhas filósofas.
+[118:53 - 118:59] Na hora que eu der o entre, a máquina parece que ela está boa.
+[118:59 - 119:03] A gente que o traseco traseco traseco termina aí, termina finaliza aqui o...
+[119:04 - 119:06] Claro que não queima a máquina, porque é...
+[119:06 - 119:08] ... de estresse.
+[119:08 - 119:10] Também, 200 pra 20000, né?
+[119:10 - 119:12] É um salto gigante, né?
+[119:12 - 119:13] É, é que é que é...
+[119:13 - 119:15] Já era um mi-sash lá, entendeu?
+[119:15 - 119:17] Porque parece que curtiu, mas é...
+[119:17 - 119:19] Porque então, cada...
+[119:19 - 119:21] ... transição dessa, abriendo o sistema de processamento,
+[119:21 - 119:23] não ia em processamento.
+[119:23 - 119:26] O sistema de processamento está fazendo muitos processamentos.
+[119:26 - 119:28] É aí que eu perguntei as ações.
+[119:28 - 119:32] Aí vai entre mais na história que é o que?
+[119:32 - 119:38] O raio de gente dizer a gente faz uma ação pra usar essa, faz outra,
+[119:38 - 119:41] pra dar a sensação de um ultipassamento.
+[119:41 - 119:49] Mas o... é como se ele fosse acessar 2 mil, 20 mil ações ao mesmo tempo.
+[119:49 - 119:53] E o que acontece? E não o sistema mesmo?
+[119:53 - 119:57] Quando você tem objetos, as omniadas vão ser passadas ao mesmo tempo.
+[119:57 - 119:59] Não vão ser ficar presos naquele...
+[119:59 - 120:05] Ah, tem que esperar fila para executar são...
+[120:09 - 120:15] Aqui é só mais a teoria mesmo que o que é que é como funciona.
+[120:15 - 120:21] Eu mostrei a linha lá, que é a Sanderó, o nascimento dele,
+[120:21 - 120:28] Se mais ou menos foi a mensagem que foi o nascimento, foi a popularização dele.
+[120:28 - 120:37] O Jago mostrou, trouxe no ano 2000, que é conseguiu fazer o seu faz o resto.
+[120:37 - 120:42] Mas vocês têm que entender o que é isso. As mensagens para o nascimento, elas estão acostumadas,
+[120:42 - 120:48] elas têm que ter um passamento com o pé óbvio, porque senão não sobrevive no caso real.
+[120:48 - 120:52] O meu foco para o professor Díaz é o que?
+[120:52 - 120:56] Entender a básica, entender e pegar as funções,
+[120:56 - 121:00] as características de contratar,
+[121:00 - 121:03] tentar fazer vocês pensarem isso.
+[121:03 - 121:04] Sei que é difícil.
+[121:04 - 121:09] Vocês vão ter uma aula comigo duas com o ministro,
+[121:09 - 121:11] que é o S.T.C.
+[121:11 - 121:14] Em uma cadeira com o professor Alexandre,
+[121:14 - 121:18] O professor é um professor que ensinou com a pessoa.
+[121:18 - 121:24] Acho que ensinou com a pessoa, mas ele é um desculpa.
+[121:24 - 121:26] Então essa teoria é pesada.
+[121:28 - 121:30] Essa teoria é pesada?
+[121:30 - 121:32] Com o banco de dados?
+[121:32 - 121:34] Ele quer o professor que trabalha para a bola?
+[121:34 - 121:36] Não.
+[121:36 - 121:38] Ele trabalha no banco da ordem.
+[121:38 - 121:40] O banco do trabalho para a bola?
+[121:40 - 121:42] Não sei o que você quer.
+[121:42 - 121:46] O que eu acho que é um trabalho humano da Leste é...
+[121:46 - 121:47] Ele é...
+[121:47 - 121:50] Ele é diretor do Rubini, né?
+[121:50 - 121:56] Diretor do Rubi de Inovações, Rubini.
+[121:56 - 121:57] O que é?
+[121:57 - 121:58] O Pani.
+[121:58 - 121:59] Ele é o...
+[121:59 - 122:00] É muito bom.
+[122:00 - 122:01] Então, você...
+[122:01 - 122:02] Ele é o...
+[122:02 - 122:03] Ele é o...
+[122:03 - 122:04] Ele é o...
+[122:04 - 122:05] Ele é o...
+[122:05 - 122:06] Ele é o...
+[122:06 - 122:07] Ele é o...
+[122:07 - 122:08] Ele é o...
+[122:08 - 122:09] Ele é o...
+[122:09 - 122:10] Ele é o...
+[122:10 - 122:14] Ajuda-os um pouco, né? Sei que isso não é fácil.
+[122:14 - 122:20] Sei que vocês vão pensar assim, ah, vimos e pedimos, próximo semestre,
+[122:20 - 122:22] ah, tem que poder fazer com a gente pegador, não sei o que,
+[122:22 - 122:27] estou fazendo a função de futurado, porque a gente pensa, e é mais fácil.
+[122:28 - 122:34] Eu quero saber, quando vê um código ver, saber pensar, errar, sinalar,
+[122:34 - 122:37] mas é voltando a isso, como já expliquei.
+[122:37 - 122:41] Eu vou passar a dificuldade para vocês,
+[122:41 - 122:43] a dificuldade seria um tarefa de cático,
+[122:43 - 122:46] não vou comprar a compra sobre a sua forma.
+[122:49 - 122:54] Para isso eu vou fazer as provas de basquete nas atividades.
+[122:56 - 122:58] Se eu quiser fazer provas, essas coisas,
+[122:58 - 123:03] vou passar um projeto, mas o projeto não tem que fazer um relatório,
+[123:03 - 123:05] e depois de eu apresentar isso,
+[123:05 - 123:12] na apresentação eu vou questionar esses vídeos, se mais forçado que eu sou, se eu for fazer as questões, como é que você faz isso?
+[123:12 - 123:14] Ah, é...
+[123:14 - 123:16] É, por um fato.
+[123:16 - 123:22] Se for só pra fazer, não é importante se desviar, pode desviar, mas saiba o que tá pra fazer.
+[123:22 - 123:29] Só pedir, faça o código tal, não coloque, faça o código tal, ah, como é que faz isso?
+[123:29 - 123:32] Mas isso, perguntar o seu crédito e o seu último...
+[123:32 - 123:35] saiba o código de quadro 3, entenda o programa que escolheu fazer aqui,
+[123:35 - 123:38] se tinha outra forma para se fazer.
+[123:40 - 123:43] Entenda qual a lógica dela e tenta fazer com que você...
+[123:43 - 123:45] se ela não for sucedendo.
+[123:45 - 123:47] Mas você só manda as respostas aí, mas tem que terminar.
+[123:47 - 123:50] Eu recomendo alguma coisa para a gente que ele acarque.
+[123:52 - 123:56] Assim, ou eu... eu vejo os livros, você está aqui quando eu coloquei os livros?
+[123:56 - 123:58] da vida têca
+[123:58 - 124:00] não
+[124:00 - 124:02] na bioteca tem um pênozinho de chá
+[124:02 - 124:04] e isso é pra mim vira um pênozinho atual
+[124:04 - 124:06] não sei
+[124:06 - 124:08] se você tá lá com o calor mais enjado
+[124:08 - 124:10] ou se você tem pêdez
+[124:10 - 124:12] vai aparecer isso
+[124:12 - 124:14] eu vou olhar o bíblio
+[124:16 - 124:18] mais uma pergunta
+[124:18 - 124:20] é no tanque tótico
+[124:20 - 124:22] é no caixão
+[124:22 - 124:24] é no caixão da fata formar
+[124:24 - 124:26] Eu não vou dar falta para o meu lado.
+[124:28 - 124:30] Desculpe.
+[124:30 - 124:32] Seguinte.
+[124:32 - 124:34] Eu vou mesmo.
+[124:34 - 124:40] Mas eu vou usar aqui, estar em abóbora, se você for da forma...
+[124:40 - 124:44] É porque esse como problema é estourante por fora.
+[124:44 - 124:48] E ele é como eu disse, é a décima edição.
+[124:48 - 124:55] Na minha época de que eu estava fazendo faculdade, há dez anos atrás isso já existia.
+[124:55 - 125:06] O Vinicius era mais velho do que eu, então a gente tinha uma época dele.
+[125:06 - 125:08] Tem investimentos na internet?
+[125:08 - 125:11] Com um problema de gelato.
+[125:11 - 125:13] É só programar.
+[125:13 - 125:15] É editora Delphi.
+[125:27 - 125:29] Que sistema do S?
+[125:30 - 125:32] O.
+[125:32 - 125:34] O.
+[125:34 - 125:41] Vamos agora pegar os Quenten e te ame aqui.
+[125:41 - 125:44] Tem que avisar.
+[125:44 - 125:50] Sabe usar o pô de Space?
+[125:50 - 125:52] Não usei.
+[125:52 - 125:55] Não usei.
+[125:55 - 125:57] Vamos dar pra você, né?
+[125:57 - 125:59] Vamos dar pra você, né?
+[125:59 - 126:01] Temo 40 minutos pra gente aprender.
+[126:01 - 126:03] Então vamos lá.
+[126:03 - 126:05] Ninguém viu de pouco?
+[126:05 - 126:07] Vamos aproveitar nosso tempo, né?
+[126:07 - 126:09] Aprender, né?
+[126:09 - 126:11] 50 minutos pra aprender, né?
+[126:11 - 126:13] Ah!
+[126:13 - 126:15] Obrigado, Alex.
+[126:15 - 126:17] Obrigado, por você.
+[126:17 - 126:19] Obrigado, por você.
+[126:19 - 126:21] A gente já deu uma...
+[126:21 - 126:23] A gente já deu uma...
+[126:53 - 126:56] Não, pois não a pegar pra ficar nada aí.
+[126:56 - 126:59] Você que tá na casa, deixa eu ver aqui.
+[126:59 - 127:01] Eee, como é que tá a partir?
+[127:01 - 127:04] Eu fui bom com o que eu não consegui, mas tá com a ideia de que eu não moro aqui.
+[127:04 - 127:05] Você vai?
+[127:05 - 127:06] Vai.
+[127:06 - 127:07] Vai.
+[127:07 - 127:08] Vai.
+[127:08 - 127:09] Vai.
+[127:09 - 127:10] Vai.
+[127:10 - 127:11] Vai.
+[127:11 - 127:12] Vai.
+[127:12 - 127:13] Vai.
+[127:13 - 127:14] Vai.
+[127:14 - 127:15] Vai.
+[127:15 - 127:16] Vai.
+[127:16 - 127:17] Vai.
+[127:17 - 127:18] Vai.
+[127:18 - 127:19] Vai.
+[127:19 - 127:20] Vai.
+[127:20 - 127:21] Vai.
+[127:21 - 127:22] Vai.
+[127:22 - 127:24] O que é isso?
+[127:24 - 127:26] O que é isso?
+[127:26 - 127:28] O que é isso?
+[127:28 - 127:30] O que é isso?
+[127:30 - 127:32] O que é isso?
+[127:32 - 127:34] O que é isso?
+[127:34 - 127:36] O que é isso?
+[127:36 - 127:38] O que é isso?
+[127:38 - 127:40] O que é isso?
+[127:40 - 127:42] O que é isso?
+[127:42 - 127:44] O que é isso?
+[127:44 - 127:46] O que é isso?
+[127:46 - 127:48] O que é isso?
+[127:48 - 127:50] O que é isso?
+[127:50 - 127:52] Você sabe o que é o beat?
+[127:52 - 127:54] O beat é o beat.
+[127:54 - 127:56] Ele sabe o que é?
+[127:56 - 127:58] É o que é o beat?
+[127:58 - 128:00] É o que é o beat?
+[128:00 - 128:02] É o beat.
+[128:02 - 128:04] É o beat.
+[128:04 - 128:06] É o beat.
+[128:06 - 128:08] É o beat.
+[128:08 - 128:10] É o beat.
+[128:10 - 128:12] É o beat.
+[128:12 - 128:14] É o beat.
+[128:14 - 128:16] É o beat.
+[128:16 - 128:18] É o beat.
+[128:18 - 128:20] por favor, todos.
+[128:25 - 128:28] Perda a pergunta, você sabe de quem é o GitHub?
+[128:29 - 128:30] É Microsoft.
+[128:35 - 128:39] Git é para o versionamento, o GitHub é um serviço muito mais completo para compartilhamento,
+[128:39 - 128:45] também versionamento online, tracking de issues, um bocado de coisa.
+[128:45 - 128:52] O quarto de coisa, é todo ecossistema, é um ecossistema excelente.
+[128:52 - 128:58] E Linus Thorvas é criador do Linux então, não dá pra dissociar uma coisa da outra.
+[128:58 - 129:00] Você estava vendo um...
+[129:00 - 129:02] Você estava vendo um...
+[129:02 - 129:04] Você estava vendo um...
+[129:04 - 129:06] Você estava vendo um...
+[129:06 - 129:08] Multi-carre.
+[129:08 - 129:10] Multi-carre?
+[129:10 - 129:12] Multi-carre.
+[129:12 - 129:14] Multi-carre?
+[129:14 - 129:16] Você tem um caro e tem vários outros caros.
+[129:16 - 129:18] Aí você tem o pessoal.
+[129:18 - 129:20] Wow, interessante.
+[129:20 - 129:22] Aí você tem algumas funções que eu quero permitir.
+[129:22 - 129:24] Aí você tem algumas funções que eu quero permitir.
+[129:24 - 129:30] É tipo verificação, outras coisas que o sistema faz para você ficar segura.
+[129:30 - 129:33] Sim, sim, por isso que tem muita antishitch.
+[129:33 - 129:35] Você está acessando lá? Isso não permite.
+[129:35 - 129:36] Sim, sim.
+[129:36 - 129:39] Samurai Software permite a comida de uma suções, né?
+[129:39 - 129:41] O pessoal fala muito do antishitch.
+[129:41 - 129:43] Sim, é, é, exato, exato.
+[129:43 - 129:47] Por isso que Linux Gaming não está 100% ainda.
+[129:47 - 129:49] Eu não sei o que isso.
+[129:49 - 129:51] Eu não sei o que isso.
+[129:51 - 129:54] Bras, é do Arthur. Eu uso cashOS em casa.
+[129:54 - 129:55] É uma maravilha.
+[129:55 - 129:59] Não volta pro Windows Link, tá vindo de pau.
+[129:59 - 130:01] Eu entendo.
+[130:01 - 130:04] Só tô retando por causa da função de...
+[130:04 - 130:05] Desfeção.
+[130:05 - 130:07] Porque você não vai no volta.
+[130:07 - 130:08] É sério.
+[130:08 - 130:10] Mas aí é...
+[130:10 - 130:12] Ah, tem o cidadão de um homem.
+[130:12 - 130:13] Todo mundo.
+[130:13 - 130:15] É...
+[130:15 - 130:17] fazer plays indianas
+[130:17 - 130:20] eu te pusei, eu estava vendo
+[130:20 - 130:23] eu prefiro ter problema com isso aí
+[130:23 - 130:26] eu queria ter problema com o X-Port
+[130:28 - 130:30] eu pensei que era aí comigo
+[130:30 - 130:32] eu abri o X-Port e a máquina
+[130:32 - 130:34] eu pensei que era minha máquina
+[130:34 - 130:36] que é 8 GB de RAM e essas coisas
+[130:36 - 130:38] aí quando eu fui, eu fui voltar para o esquadrão
+[130:38 - 130:40] e o X-Port também problema
+[130:40 - 130:42] daí da nação tal
+[130:42 - 130:48] Teve no começo do ano um boco de notas dando problema, tem um delay enorme entre o abril
+[130:48 - 130:54] e no iniciar, digitar e a coisa realmente pesquisar, um sistema todo ferrado, todo ferrado.
+[130:54 - 130:58] Eu vou te contar na lição, eu escrevi um pouco esse, não foi por avisar antes,
+[130:58 - 131:05] quando eu aperto as pessoas erradas, aparece a barra de pesquisar de jeito que eu me bordo.
+[131:05 - 131:11] Perfeita, perfeita. Pra mim eu faço o índio do espaço, aparece a barra e eu ouvo.
+[131:11 - 131:16] É o Magnético Esquídeo, é só com as restrições, as coisas...
+[131:16 - 131:19] O que tem a procurar?
+[131:19 - 131:22] A Lâmite Cadê?
+[131:22 - 131:23] É o Cosmic.
+[131:23 - 131:25] Cosmic? Sim, Cosmic.
+[131:25 - 131:29] Eu também sou o Pedro Auro, Cosmic Nele.
+[131:29 - 131:31] O Instaleo Nele, cara.
+[131:31 - 131:33] O computador de casa está tão bomzinho, tão bomzinho.
+[131:33 - 131:37] O Instaleo Nele, como desktop.
+[131:37 - 131:40] Aí tu colas de anel assim.
+[131:40 - 131:46] e curro para o lado, na vertical. É maravilhoso!
+[131:49 - 131:54] Só o meu moleco toca que ela está ao Windows, mas eu de casa não volto mais para o Windows, nem que me pague.
+[131:56 - 131:58] É isso, bora lá!
+[132:10 - 132:13] Você sabe como criar um novo reposito, sabe?
+[132:25 - 132:27] Você vai para criar?
+[132:40 - 133:10] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[133:10 - 133:12] O que é esse?
+[133:12 - 133:15] Eu vou clicar com uma...
+[133:15 - 133:17] Baixa.
+[133:17 - 133:20] Vou clicar com uma...
+[133:20 - 133:22] Clicar.
+[133:22 - 133:24] Vou clicar com uma...
+[133:24 - 133:26] Clicar.
+[133:26 - 133:28] Vou clicar com uma...
+[133:28 - 133:30] Clicar.
+[133:30 - 133:32] Vou clicar com uma...
+[133:32 - 133:34] Clicar.
+[133:34 - 133:36] Vou clicar com uma...
+[133:36 - 133:40] Eu vou criar esse guijado.
+[133:40 - 133:42] A gente vai conar.
+[133:42 - 133:46] Não, eu vou conar aqui, é só para as aulas que eu vou colocar aqui.
+[133:46 - 133:50] Eu vou adicionar o ídio e principalmente para fazer aqui o gafio,
+[133:50 - 133:54] que é essa aula, faz uma pederação.
+[133:54 - 133:58] Você sabe o que é o ponto de ítimo norte?
+[133:58 - 134:00] Sim.
+[134:00 - 134:04] Aqui é o que eu estou criando no novo...
+[134:04 - 134:05] Repositório.
+[134:05 - 134:06] No novo repositório.
+[134:06 - 134:08] Pitrup.paz.in.
+[134:08 - 134:10] O repositório é o de sub.
+[134:10 - 134:14] A posta de sinal de o REAPLIDM vai ficar saúdo lá.
+[134:14 - 134:16] E o VIT Ignore.
+[134:16 - 134:18] Para aqueles que conhecem,
+[134:18 - 134:21] vocês sabem bastante o ponto de que vai subir e que vai servir.
+[134:21 - 134:23] Que vai servir?
+[134:23 - 134:28] É, basicamente o que eu vou jogar para ele lá para trazer.
+[134:28 - 134:30] Vou executar uma...
+[134:30 - 134:32] Quando você aprender em C
+[134:32 - 134:34] Não sei qual o comprador que vai usar lá
+[134:34 - 134:36] Mas se você se for ir fazendo na casa de vocês
+[134:36 - 134:38] Abriu o bloco de notas
+[134:38 - 134:40] De jeito código
+[134:40 - 134:42] Int main
+[134:42 - 134:44] Int e e doge
+[134:44 - 134:46] STD aiou com Th
+[134:46 - 134:48] Int main
+[134:48 - 134:50] Abchavs
+[134:50 - 134:52] Intf e low-oji
+[134:52 - 134:54] Fecha a, esses chaves
+[134:54 - 134:56] Exilei o programa do low-oji
+[134:56 - 135:08] Vou compilar GCC, se você for no Windows, manda o reload e me encontre o save.
+[135:08 - 135:14] Quando você fizer isso, ele vai compilar, vai criar tipo um arquivo extra, um .clo, né?
+[135:14 - 135:18] E vai aparecer no app.out.
+[135:18 - 135:23] Isso é quando você não faz isso e terminar.
+[135:23 - 135:29] Pessoa, você manda a coutote e ele vai pôr lá pelo ovo.
+[135:29 - 135:33] O que acontece? No coutual é uma população.
+[135:33 - 135:36] Não faz diferença, ninguém vai ler aquilo ali.
+[135:36 - 135:39] Então, você não precisa subir aquilo, se você quiser subir aquilo,
+[135:39 - 135:41] o ritmo é o que você precisa subir.
+[135:41 - 135:44] Então, você vai lá no bitvenor,
+[135:44 - 135:47] vai dar asterisco, coutual.
+[135:47 - 135:50] Tudo que forster isso é tudo que faz coutual,
+[135:50 - 135:58] o outro não mais subiu com o GitHub. Aí você vai aparecer no seu caminho, no seu espaço
+[135:58 - 136:04] lá da campasta, mas você só que tiver o ponto de ser, ou que tiver o que for de importância
+[136:04 - 136:07] mesmo, como foi importância, pode deixar de fora.
+[136:07 - 136:12] Outro exemplo, imagina que tu fez um programa de agenda, certo? Programou uma agenda lá,
+[136:12 - 136:16] ele tem um arquivo externo com os seus contatos, mas tu gostou muito daquele arquivo que programou,
+[136:16 - 136:21] aquele programa que tu fez de agenda e tu quer disponibilizar ele no GitHub, certo?
+[136:21 - 136:24] Mas tu não quer que os teus contatos fiquem disponíveis também.
+[136:24 - 136:30] Então tu coloca os teus contatos no GitHub Ignore, que ele vai dizer, ó, esses arquivos
+[136:30 - 136:34] aqui de contatos, na lista de contatos particular, ela não vai subir.
+[136:34 - 136:38] Mas o resto do programa vai ficar disponível para outras pessoas que se quiserem baixar
+[136:38 - 136:39] e usar.
+[136:39 - 136:44] O GitHub Ignore serve para isso, para você não colocar ou lixo ou coisas pessoais no
+[136:44 - 136:54] para criar um repositor com esse mesmo nome?
+[136:54 - 136:56] É, você quer pancrear ou você se pesquisar?
+[136:56 - 136:58] É, aponente que você se pesquisar.
+[136:58 - 137:00] É, eu vou ter aqui um...
+[137:00 - 137:02] um ano a um cinéstico...
+[137:02 - 137:04] Sim, sim, sim.
+[137:04 - 137:06] Um ano a um cinéstico...
+[137:06 - 137:08] Um ano a um cinéstico...
+[137:08 - 137:10] Quem ficou com a pessoa?
+[137:10 - 137:12] Sim, quando eu vi a gente, eu me decidi de estar com a pessoa...
+[137:12 - 137:14] era só que o M, sabe?
+[137:14 - 137:16] Aqui no ponto M, aí...
+[137:16 - 137:18] é uma prática, você que o botar no Quinting de Nova
+[137:18 - 137:20] e o...
+[137:20 - 137:22] é algo que se deve só ter algum mic de local, sabe?
+[137:22 - 137:26] sem subir, metidando o arrego aí.
+[137:26 - 137:34] Já tem muito do sistema e sem o server, é importante para a aplicação.
+[137:34 - 137:36] Mas o...
+[137:36 - 137:38] O que é o que você pensa aqui?
+[137:38 - 137:40] É o arquivo...
+[137:40 - 137:42] É o arquivo?
+[137:42 - 137:44] Ou é o...
+[137:44 - 137:46] ...a variável MIRMOR.
+[137:46 - 137:48] É o arquivo com o MIRMOR.
+[137:48 - 137:52] É, ele é para aqui, de aqui.
+[137:52 - 137:58] Não é porque assim, tipo, ah, tem um padrão de colocar no bichinho que não olha e o aqui que o povo lembra.
+[137:58 - 138:02] Para não subir no pitiando e não usar para despegar a câmera.
+[138:02 - 138:09] Só que às vezes eu vejo um bichinho que se não me fala que não é algo bom para se fazer, se você quiser.
+[138:09 - 138:10] Mas tem um bichinho de um...
+[138:10 - 138:11] É, há um bichinho.
+[138:11 - 138:15] É, eu não sei o que é que está... o que é esse aqui.
+[138:15 - 138:22] O que é do sistema e é para rodar o acosto espiritual.
+[138:45 - 138:59] aqui você tem a parte de 1, que tem o meio de meio aqui, agora eu quero acessar e fazer deslazações
+[138:59 - 139:08] o que eu vou mostrar para vocês é o cold space, o cold space é o que?
+[139:08 - 139:18] Então, tipo um espaço, é uma máquina, um AI, você pode acessar ela, para ver as ações.
+[139:18 - 139:22] Você tem muito tempo, acho que você tem que ter a hora e com vez.
+[139:26 - 139:29] E é porque, é importante para apertar as ações.
+[139:29 - 139:31] O que vocês podem fazer?
+[139:31 - 139:36] Aqui para a escala, vocês podem fazer o pôr-espeis, quando chegar em casa,
+[139:36 - 139:45] Só fazer um git pull para pegar os dados que estão na marca territual.
+[139:45 - 139:51] Quando eu digo isso, você tem que fazer um git, um push aqui, pegar as coisas que tem no,
+[139:51 - 140:00] que vocês fizeram na marca territual, fazer o push para o repositório, quando você chama o cara para fazer o pull.
+[140:00 - 140:04] Alguém que deu que falei? Alguém não entendeu?
+[140:04 - 140:06] Pode repreender, mas pode repreender.
+[140:06 - 140:08] Vocês sabem o que é o beat push?
+[140:10 - 140:16] O beat push é de viagem, é formação de se você tem aquela máquina, o repouso corre.
+[140:16 - 140:18] Entra em seu circuito.
+[140:30 - 140:32] O que é isso?
+[140:32 - 140:34] O que é isso?
+[140:34 - 140:36] O que é isso?
+[140:36 - 140:38] O que é isso?
+[140:38 - 140:40] O que é isso?
+[140:40 - 140:42] O que é isso?
+[140:42 - 140:44] O que é isso?
+[140:44 - 140:46] O que é isso?
+[140:46 - 140:48] O que é isso?
+[140:48 - 140:50] O que é isso?
+[140:50 - 140:52] O que é isso?
+[140:52 - 140:54] O que é isso?
+[140:54 - 140:56] O que é isso?
+[140:56 - 140:58] O que é isso?
+[140:58 - 141:00] O que é um pôr-de-pê?
+[141:00 - 141:02] O pôr-de-pê isso
+[141:02 - 141:04] Mas como a gente é um marco virtual
+[141:04 - 141:06] Que a gente acessa para um navegador
+[141:06 - 141:08] A prova é marco
+[141:08 - 141:10] Vida a luz do vôdecofíco
+[141:10 - 141:12] Não fiz o vôdecofíco
+[141:12 - 141:14] Não fiz o vôdecofíco
+[141:22 - 141:24] Não fiz o vôdecofíco hoje pra cá
+[141:24 - 141:26] Então não vai ser tão avisado
+[141:26 - 141:32] Só quando eu fizer o vídeo post, ele vai pegar a décima e eu desco o despreito para pegar para cá.
+[141:32 - 141:34] A questão de segurança.
+[141:34 - 141:38] Ah, não para casa, não dá nem atividade.
+[141:44 - 141:48] Quero baixar as coisas que estão na cor fico.
+[141:48 - 141:52] Você vai lá fazer a configuração.
+[141:52 - 141:54] A gente pula.
+[141:54 - 141:58] Ah, não estou usando o terminal.
+[141:58 - 142:03] Estou usando a interface gráfica.
+[142:03 - 142:10] Atualizam lá e quando ele faz as informações, feitos.
+[142:10 - 142:13] Só os focadores já precisam.
+[142:13 - 142:15] É um negócio pra gente ver.
+[142:15 - 142:18] Você deixa de fazer as reações.
+[142:18 - 142:26] Assim, o ambiente visual, um lado que eu já vou usar no programa.
+[142:26 - 142:34] Apesar os cortes aqui, quer sair do bol de space, o repositório, e te puxa.
+[142:34 - 142:36] depois
+[142:36 - 142:38] depois
+[142:38 - 142:40] depois dores
+[142:40 - 142:42] ah
+[142:42 - 142:44] tem umas coisas no recorde, quero baixar na minha casa
+[142:44 - 142:46] posso usar um disco
+[142:46 - 142:48] e vai baixar se for você que tem um landmark
+[142:48 - 142:50] do
+[142:50 - 142:52] recorde do landmark
+[142:52 - 142:54] tá certo?
+[142:54 - 142:56] ah, um
+[142:56 - 142:58] um de rsd
+[142:58 - 143:00] já com o meu best coach
+[143:00 - 143:02] já tava aqui do estalado
+[143:02 - 143:04] Em um terminalzinho do...
+[143:04 - 143:05] do...
+[143:05 - 143:05] do...
+[143:05 - 143:06] de as coisas...
+[143:06 - 143:07] abriu a...
+[143:07 - 143:08] de tipo...
+[143:08 - 143:09] de baixas faldações.
+[143:09 - 143:09] né?
+[143:10 - 143:11] Isso aqui é...
+[143:11 - 143:12] primeira vez...
+[143:12 - 143:13] complicado.
+[143:13 - 143:14] segunda vez...
+[143:14 - 143:14] IDG.
+[143:14 - 143:15] terceira vez...
+[143:17 - 143:18] da fácil de...
+[143:18 - 143:19] quinta vez...
+[143:19 - 143:19] ah...
+[143:19 - 143:20] ah, bom...
+[143:20 - 143:20] mais legal.
+[143:22 - 143:24] É só o estúdio que você quer aprender.
+[143:26 - 143:27] Mas a vantagem daqui é que você se...
+[143:27 - 143:29] deixa tudo lá no...
+[143:29 - 143:30] no plataforma...
+[143:30 - 143:31] tem um histórico...
+[143:31 - 143:36] Você vai mostrar para a gente um exemplo de um relouz em World.
+[143:41 - 143:43] Então, vamos mudar a...
+[143:43 - 143:45] ...inguarda aqui, né?
+[143:45 - 143:47] Ele precisa de uma realidade de forma.
+[143:47 - 143:49] Agora é um cold space.
+[143:49 - 143:51] É, mas eu vou ativar ele aqui, olha.
+[143:51 - 143:54] Eu vi um aqui, nesta talinha aqui, no outro.
+[143:54 - 143:59] Então, o beijo vai ter local, porque ela já tem um cold space aqui.
+[143:59 - 144:08] Tome cuidado, esse oposto não tem, mas se você estiver utilizando, ele vai aparecer no
+[144:08 - 144:12] apresente do espaço, você vai ficar criando o mesmo cotspeito, pode ficar só um,
+[144:12 - 144:20] está utilizando. Aqui eu vou andar a criar e eu acho que vocês vão conhecer quem é
+[144:20 - 144:22] Eu vou lá.
+[144:35 - 144:40] Tu criou Cold Space dentro do repositorio ou dentro da tua conta no GitHub?
+[144:40 - 144:48] Que o Free Space fica a pessoa que te manda, mas tipo, não quer dar marketing, ele fica associado ao repositorio.
+[144:48 - 144:50] Ah, tá. Tipo as inchas.
+[144:50 - 144:55] Vamos dizer que você não fez um video push. Ah, tive problema?
+[144:55 - 144:58] Ah, quando o seu acidente fecha aqui e sai...
+[144:58 - 145:03] Fecha tudo, souber que nem fiz um video push. Você chegue lá, para lá dar no meu rosto, pode.
+[145:03 - 145:05] A água de novo, a máquina virtual.
+[145:05 - 145:07] A micro-space vai estar lá.
+[145:07 - 145:12] Perfeito, não consigo fazer o poll de casa, mas não perco o trabalho.
+[145:12 - 145:14] Excelente.
+[145:48 - 145:50] O que é isso?
+[145:50 - 146:20] Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não
+[146:50 - 146:53] Você pode configurar o labirinto da desktop.
+[146:55 - 146:56] Aqui vem o teste.
+[146:56 - 147:01] Ele vai rodar no desktop da sua máquina,
+[147:01 - 147:04] mas vai executar todas as suas lá no code space.
+[147:06 - 147:09] Vocês se lembram, se mexe passado,
+[147:09 - 147:12] quando pediu para vocês fazerem as máquinas virtuais,
+[147:12 - 147:15] eu pedi os containers, vocês se lembram disso.
+[147:15 - 147:18] Eu falei que era para o ambiente de desenvolvimento.
+[147:18 - 147:19] Falei?
+[147:19 - 147:20] Sim.
+[147:20 - 147:22] O que é o que você pode fazer?
+[147:22 - 147:38] Você pode criar tipo, contêiner na sua máquina, para colocar os ambientes de movimento.
+[147:38 - 147:39] Ah, fazer provavelmente é agradoso.
+[147:39 - 147:42] Carpe rog e o web, essas coisas e tal.
+[147:42 - 147:48] A ligar uma extração que vai ser colocada, faz um conteirazinho, bota essas coisas lá, deixa de salvo.
+[147:49 - 147:53] Boa prática, é o que o marcador hoje usa em dia, tá certo?
+[148:12 - 148:42] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[148:42 - 148:48] O margulho é um núcleo de trânsito para a informação para a computação de computadores.
+[148:53 - 148:55] Fica melhor se você come a se sentir.
+[148:59 - 149:01] Aqui é o espaço.
+[149:02 - 149:04] O explorador de arquivos,
+[149:05 - 149:06] Esquisa,
+[149:07 - 149:08] Controle Antiquático Fonte.
+[149:08 - 149:09] Vocês acham que é esse aqui?
+[149:12 - 149:14] O kit.
+[149:42 - 149:46] tem falta fazer o por que ele faz baixar os arquivos
+[149:48 - 149:52] esse aqui é exemplo que ele vai procurar, ele vai procurar a ebus
+[149:52 - 149:58] ele vai fazer, tem várias funções, tem até o tutorial, ele vai fazer passo a passo
+[149:58 - 150:02] ele vai fazendo passo a passo
+[150:04 - 150:06] aqui são as extensões
+[150:06 - 150:36] Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não
+[150:36 - 150:38] O que é isso?
+[150:38 - 150:40] O que é isso?
+[150:40 - 150:42] O que é isso?
+[150:42 - 150:44] O que é isso?
+[150:44 - 150:46] O que é isso?
+[150:46 - 150:48] O que é isso?
+[150:48 - 150:50] O que é isso?
+[150:50 - 150:52] O que é isso?
+[150:52 - 150:54] O que é isso?
+[150:54 - 150:56] O que é isso?
+[150:56 - 150:58] O que é isso?
+[150:58 - 151:00] O que é isso?
+[151:00 - 151:02] O que é isso?
+[151:02 - 151:04] O que é isso?
+[151:04 - 151:33] Pior que é um caneta.
+[151:33 - 151:54] Aqui é só mais uma vez pra vocês, aqui vai ter todos os meus repositórios, vai ter uns que vai estar assim, João, o Barco, você vê, isso é quando eu faço a minha equipe, ele fez, eu fiz com ele, então a gente fica junto aqui.
+[151:54 - 151:57] Aqui foi o que?
+[152:03 - 152:10] Aqui eu coloquei, então só posso clicar aqui e já vou fazer isso aqui.
+[152:10 - 152:17] Observe aqui, quando eu coloque agora em um space vai ter aqui o moderno.
+[152:17 - 152:20] Os nomes são lá todos, não fui eu escolhi, viu?
+[152:20 - 152:22] O que é isso?
+[152:22 - 152:24] O que é isso?
+[152:24 - 152:26] O que é isso?
+[152:26 - 152:28] O que é isso?
+[152:28 - 152:30] O que é isso?
+[152:30 - 152:32] O que é isso?
+[152:32 - 152:34] O que é isso?
+[152:34 - 152:36] O que é isso?
+[152:36 - 152:38] O que é isso?
+[152:38 - 152:40] O que é isso?
+[152:40 - 152:42] O que é isso?
+[152:42 - 152:44] O que é isso?
+[152:44 - 152:46] O que é isso?
+[152:46 - 152:48] O que é isso?
+[152:48 - 152:52] Aqui vocês podem estar lá também as pôrmidas aqui, tá certo?
+[153:10 - 153:14] Aqui é o terminal, aqui é a parte principal dele.
+[153:18 - 153:20] O que é o que é?
+[153:20 - 153:27] Eu acho que é aqui.
+[153:27 - 153:32] Só que é aqui.
+[153:32 - 153:36] Só que é aqui.
+[153:36 - 153:40] Só que é aqui.
+[153:40 - 153:44] Aqui.
+[153:44 - 153:53] Isso é importante. Eu já me estressei muito por causa de espaço editado.
+[153:53 - 153:58] Eu já me estressei muito por causa de espaço editado.
+[153:58 - 154:03] Eu já me estressei muito por causa de espaço editado.
+[154:03 - 154:08] Então, o meu que tinha que estar configurado para todo o espaço parecia essa bolinha.
+[154:08 - 154:14] Então, é só meu, eu, que eu vou fazer uma gração, que eu me estressei.
+[154:14 - 154:18] Se vocês não se importarem, a foi configurada assim, já tá aí.
+[154:22 - 154:23] Aqui, é o terminal.
+[154:23 - 154:25] É bem distrito, com isso.
+[154:26 - 154:29] Já é só me para dizer que tem, porque se eu colocar um tábio, não acerta.
+[154:31 - 154:35] Aqui é o terminal, esse terminal é o de code space.
+[154:36 - 154:38] Aqui é o aqui, o que a gente...
+[154:38 - 154:45] O que é isso?
+[154:45 - 154:50] É um ganchão, né?
+[154:50 - 154:54] É um ganchão, né?
+[154:54 - 154:58] Ele vai me dar um pouco de espaço.
+[154:58 - 155:02] Ele vai me dar um pouco de espaço.
+[155:02 - 155:06] Aqui ele vai... Aqui ele vai...
+[155:06 - 155:11] Então, se eu olhar um java, um sete, até lá.
+[155:11 - 155:14] Ah, vamos ter algo com pinhice, mas nessa sala.
+[155:14 - 155:21] Esta aula, vamos usar o sábado que se fez.
+[155:21 - 155:23] Ah, pessoal, não quero passar por aqui na máquina.
+[155:23 - 155:28] Olha o brilho, é postado para você aqui, e para o que está a gente de ser aqui, tá certo?
+[155:28 - 155:30] E vai rodar na falta.
+[155:30 - 155:37] Você sabe da qual a ação, sabe?
+[155:37 - 155:41] Bem-vindo deletado, vejo o que?
+[155:41 - 155:44] Laranja, filtre, alteração.
+[155:44 - 155:47] Tá lá, Laranja, né?
+[155:47 - 155:49] Fazer filtre alteração porque eu tenho essa língua.
+[155:49 - 155:54] Aula o músico do filtre, aula o que eu...
+[155:54 - 155:56] O que é isso?
+[155:56 - 155:58] O que é isso?
+[155:58 - 156:00] O que é isso?
+[156:00 - 156:02] O que é isso?
+[156:02 - 156:04] O que é isso?
+[156:04 - 156:06] O que é isso?
+[156:06 - 156:08] O que é isso?
+[156:08 - 156:10] O que é isso?
+[156:10 - 156:12] O que é isso?
+[156:12 - 156:14] O que é isso?
+[156:14 - 156:16] O que é isso?
+[156:16 - 156:18] O que é isso?
+[156:18 - 156:20] O que é isso?
+[156:20 - 156:22] O que é isso?
+[156:52 - 156:56] mas tem várias coisas que eu vou ver hoje
+[156:58 - 157:01] eu sou o irmão Costórico, eu nem vi hoje
+[157:10 - 157:12] tem alguns livros aqui
+[157:12 - 157:14] da parte do DAAB aí
+[157:15 - 157:17] tá vendo aqui o livro que o senhor falou?
+[157:17 - 157:20] 458 reais
+[157:50 - 157:52] Aí tem a base?
+[157:56 - 157:58] Aí que pra base?
+[158:06 - 158:08] Pyrex.
+[158:08 - 158:10] Filosofos.
+[158:10 - 158:12] Quinto.
+[158:20 - 158:24] Não te diga, você não sabe o que é que é que é que é que é.
+[158:24 - 158:27] Você não sabe que é que é.
+[158:27 - 158:30] Você não sabe o que é que é.
+[158:30 - 158:33] Você não sabe o que é que é.
+[158:33 - 158:36] Você não sabe o que é que é.
+[158:36 - 158:39] Você não sabe o que é que é.
+[158:39 - 158:42] Você não sabe o que é que é.
+[158:42 - 158:45] Você não sabe o que é que é.
+[158:45 - 158:48] Você não sabe o que é que é.
+[158:48 - 159:01] Filosofos.
+[159:18 - 159:20] e se ele estiver a dar um eita
+[159:20 - 159:22] e se o povo for muito seguro
+[159:22 - 159:24] então a gente piora pelo que isso
+[159:24 - 159:26] é o que é isso
+[159:26 - 159:28] e aí a parte
+[159:28 - 159:30] é a parte da gente
+[159:30 - 159:32] que é a parte da gente
+[159:32 - 159:34] que é a parte da gente
+[159:34 - 159:36] que é a parte da gente
+[159:36 - 159:38] que é a parte da gente
+[159:38 - 159:40] que é a parte da gente
+[159:40 - 159:42] que é a parte da gente
+[159:42 - 159:44] que é a parte da gente
+[159:44 - 159:46] que é a parte da gente
+[159:46 - 159:50] Para isso, eu tenho que chamar as pessoas de um negócio muito bom.
+[159:50 - 159:51] É muito bom.
+[159:51 - 159:52] É muito bom.
+[159:52 - 159:53] É muito bom.
+[159:53 - 159:54] É muito bom.
+[159:54 - 159:55] É muito bom.
+[159:55 - 159:56] É muito bom.
+[159:56 - 159:57] É muito bom.
+[159:57 - 159:58] É muito bom.
+[159:58 - 159:59] É muito bom.
+[159:59 - 160:00] É muito bom.
+[160:00 - 160:01] É muito bom.
+[160:01 - 160:02] É muito bom.
+[160:02 - 160:03] É muito bom.
+[160:03 - 160:04] É muito bom.
+[160:04 - 160:05] É muito bom.
+[160:05 - 160:06] É muito bom.
+[160:06 - 160:07] É muito bom.
+[160:07 - 160:08] É muito bom.
+[160:08 - 160:09] É muito bom.
+[160:09 - 160:10] É muito bom.
+[160:10 - 160:11] É muito bom.
+[160:11 - 160:12] É muito bom.
+[160:12 - 160:13] É muito bom.
+[160:13 - 160:14] É muito bom.
+[160:14 - 160:15] É muito bom.
+[160:15 - 160:35] e aí
+[160:35 - 160:41] O espaço o World, o espaço, porque ele falou que ele coloca um pontinho ali no meio, entre os espaços,
+[160:41 - 160:49] que ele já brigou muito entre o espaço Itávio, aí no dele aparece assim, esse ponto no meio, mas não tem esse ponto, é um espaço.
+[160:53 - 160:55] Tá, você tá enxergando o ponto?
+[161:05 - 161:07] Com onde não?
+[161:07 - 161:11] Não tem de si que espaço aí.
+[161:11 - 161:15] Se eu quiser um estábio, aceto.
+[161:15 - 161:21] Interessante, se tudo é do estábio, se não fica.
+[161:21 - 161:41] É, tem soluções que a experiência explica.
+[161:41 - 162:11] A gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo, a gente vai fazer um vídeo
+[162:11 - 162:13] O que é isso?
+[162:13 - 162:15] É o que é isso?
+[162:15 - 162:17] É o que é isso?
+[162:17 - 162:19] É o que é isso?
+[162:19 - 162:21] É o que é isso?
+[162:21 - 162:23] É o que é isso?
+[162:23 - 162:25] É o que é isso?
+[162:25 - 162:27] É o que é isso?
+[162:27 - 162:29] É o que é isso?
+[162:29 - 162:31] É o que é isso?
+[162:31 - 162:33] É o que é isso?
+[162:33 - 162:35] É o que é isso?
+[162:35 - 162:37] É o que é isso?
+[162:37 - 162:39] É o que é isso?
+[162:39 - 162:43] A gente tem um canto de milhares, de milhares, de milhares, de milhares.
+[162:43 - 162:45] E a gente tem um canto de milhares, de milhares.
+[162:45 - 162:47] E a gente tem um canto de milhares.
+[162:47 - 162:49] E a gente tem um canto de milhares.
+[162:49 - 162:51] E a gente tem um canto de milhares.
+[162:51 - 162:53] E a gente tem um canto de milhares.
+[162:53 - 162:55] E a gente tem um canto de milhares.
+[162:55 - 162:57] E a gente tem um canto de milhares.
+[162:57 - 162:59] E a gente tem um canto de milhares.
+[162:59 - 163:01] E a gente tem um canto de milhares.
+[163:01 - 163:03] E a gente tem um canto de milhares.
+[163:03 - 163:05] E a gente tem um canto de milhares.
+[163:05 - 163:07] E a gente tem um canto de milhares.

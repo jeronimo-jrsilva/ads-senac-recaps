@@ -1,0 +1,2060 @@
+--- TRANSCRIÇÃO GPU WHISPER: 21-ago-sex.m4a ---
+Duração do Áudio: 133:05 | Tempo de Inferência: 6.38 min (382.6s)
+
+[00:00 - 00:02] Aula de Análise e Desenvolvimento de Sistemas
+[00:30 - 00:35] tirar sua dúvida, você está aqui, tem que estar aqui para poder passar, então, ok?
+[00:35 - 00:41] Para prender, está amassando a tela, para prender.
+[00:41 - 00:42] Obrigado.
+[00:45 - 00:49] Então, aproveita que está aqui para tirar do...
+[00:49 - 00:53] Agora, você se colocar, eu costumo dizer,
+[00:53 - 00:57] que para vocês é a primeira vez que vocês estiveram com o Lívia no semestre passado,
+[00:57 - 00:59] grande, estava a noite, né?
+[00:59 - 01:01] P.I.
+[01:01 - 01:03] É, se vocês se colocarem,
+[01:03 - 01:05] colocarem opinião, a legis de
+[01:05 - 01:07] tirar a ajuda em várias,
+[01:07 - 01:09] várias coisas boas. Ajuda
+[01:09 - 01:11] o professor, porque ele vai saber
+[01:11 - 01:13] mais ou menos o que é que
+[01:13 - 01:15] está sendo entendido, o que não está
+[01:15 - 01:17] sendo entendido. O professor, que não é perfeito,
+[01:17 - 01:19] né? O professor também sabe
+[01:19 - 01:21] disso, e eu, de vocês também,
+[01:21 - 01:23] talvez seja ninguém aqui perfeito.
+[01:23 - 01:25] Eu posso ser feliz
+[01:25 - 01:28] e cara, às vezes eu não sei, eu sei, eu posso, pronto.
+[01:28 - 01:29] Então assim, não tem isso.
+[01:29 - 01:31] Pode ser que eu não tenha sentido ferulina, a explicação.
+[01:31 - 01:33] Então, ajuda o profissão, né?
+[01:33 - 01:35] Ajuda você, ajuda o professor.
+[01:35 - 01:38] E voltando pra você de novo, você treina uma habilidade,
+[01:38 - 01:41] que eu sempre gosto de, desse primeiro dia de aula, ressaltar,
+[01:41 - 01:44] que é importante na sua vida profissional.
+[01:44 - 01:48] Eu vou sempre tentar trazer, como eu falei em 2006,
+[01:48 - 01:51] um pouco dessa experiência de vida que eu tenho,
+[01:51 - 02:01] que é o que é você na empresa, seja na empresa, seja na sua empresa, seja de qualquer
+[02:01 - 02:12] forma que você está dando, normalmente você vai ver que se apresentar, apresentar uma
+[02:12 - 02:18] ideia, apresentar um projeto, apresentar o que você está fazendo, falar sobre o que
+[02:18 - 02:22] Você está fazendo interagir as outras pessoas,
+[02:22 - 02:24] tratar com a gente em baile do cara,
+[02:24 - 02:26] tratar com a gente em grossa.
+[02:26 - 02:38] A área de terí, ela não é uma área que você se prima de relacionar com as outras pessoas.
+[02:38 - 02:43] Pelo contrário, a gente já tem um cliente, não tem jeito.
+[02:43 - 02:46] A gente vai ter que se relacionar com esse cliente.
+[02:46 - 02:48] E ele é o chefe.
+[02:49 - 02:52] O melhor, ele é quem paga.
+[02:53 - 02:55] Ele é o teu...
+[02:57 - 02:59] Direcionador que vai fazer.
+[02:59 - 03:01] Ele que fala linda.
+[03:01 - 03:04] Ele que diz o que ele quer. Então não tem chefe.
+[03:06 - 03:11] Ah não, então não tem nenhuma área da T.I. que eu não fale com ninguém?
+[03:12 - 03:15] Tem áreas que você fala menos e áreas que você fala mais.
+[03:15 - 03:28] de repente, e a gente vai contar um pouquinho dessa história, a área de T.I. ela é muito ampla, muito ampla, você pode trabalhar de diversas formas, tá?
+[03:28 - 03:42] é outra coisa também que quando a gente começa, e aí eu digo a gente porque eu me incluo, porque isso como eu disse pra vocês é muito vivo quando eu comecei a rindo na minha mente, eu não tinha ideia dessa área tão grande, e é verdade, sério?
+[03:42 - 03:44] É... foi uma coisa.
+[03:45 - 03:50] Então, você pode trabalhar sem interagir muito com pessoas.
+[03:50 - 03:56] Pois as principais evoluções na tua carreira,
+[03:56 - 04:01] as principais evoluções da tua empresa, se você for perder duplo,
+[04:01 - 04:06] ou se você for pesquisador, ou ficar de da Caterina,
+[04:06 - 04:09] e variabilmente vai ser se comprando.
+[04:09 - 04:17] O que se você não apresentar suas ideias, se você não se vê, como é que a pessoa vai ter um relacionamento com você?
+[04:17 - 04:29] Então, a história toda pode dizer, aqui, o primeiro de ouvir esse argumento, é o local correto,
+[04:29 - 04:35] E o dia correto, eu vou dar um ver, eu vou colocar um barro adequado para você treinar essa habilidade.
+[04:35 - 04:39] E esse é o tipo de coisa que não nasce com muitos.
+[04:39 - 04:44] Eu não sou assim, eu não sinto bem o esponjo.
+[04:44 - 04:48] Como é que você sabe que isso é importante?
+[04:48 - 04:50] Você sabe o que é importante?
+[04:50 - 04:53] Ou você sabe, ou você mesmo sabe o que é importante no livro?
+[04:53 - 04:57] Se você mesmo sabe o que é importante no livro, esquece, está resolvendo o teu problema.
+[04:57 - 05:01] problema eu vou ser assim não vou entrar em ninguém e vou me ser ir numa função
+[05:01 - 05:06] que não precisa, sabe aqui aqui a chance de você ficar limitado vai ser grande
+[05:06 - 05:10] tá bom uma decisão sua, eu conheço gente que precisa de decisão
+[05:10 - 05:16] eu vou com a linha que eu entendo eu já vi que eu preciso além da técnica
+[05:16 - 05:21] veja além da técnica tá, a técnica acaba sendo a parte mais fácil
+[05:21 - 05:26] bom tempo, além da técnica eu sei que eu preciso me apresentar
+[05:26 - 05:32] Eu estou vendo que o colega tem exposto as ideias dele e o chefe está apuntando ele para cima
+[05:32 - 05:38] e já deu oportunidade e eu não explico, eu sei, mas eu não sou assim.
+[05:38 - 05:48] Eu tenho dificuldade normal, eu não gosto, mas eu também era assim e eu sou assim, eu gosto de ações.
+[05:48 - 05:50] O que você tem que fazer? Você tem que...
+[05:50 - 05:52] É...
+[05:52 - 05:53] Possar.
+[05:53 - 05:55] Você tem que praticar.
+[05:55 - 05:57] Como é que você pratica?
+[05:57 - 05:59] Dando aqui, dando a mão,
+[05:59 - 06:02] você faz a pergunta que está te incomodando.
+[06:02 - 06:04] Entendeu?
+[06:04 - 06:07] Ela não tem nada pra perguntar.
+[06:07 - 06:10] Também não é pra perguntar, só pra perguntar.
+[06:10 - 06:13] Mas o ruim é quando você tem a dúvida, né, Pessoal Jair?
+[06:13 - 06:17] E não pergunta porque, poxa,
+[06:17 - 06:21] estou com vergonha, eu não sei se vai se mexer,
+[06:21 - 06:23] eu não sei o que é que vou achar,
+[06:23 - 06:29] Então eu não vou achar nada, na verdade eu vou achar bom, não vou achar que você está a prestação.
+[06:29 - 06:32] Nem que você não esteja prestando atenção, eu não vou achar que você está a prestação.
+[06:32 - 06:35] Eu não vou achar nada, simplesmente vou achar bom.
+[06:35 - 06:41] Então, eu vou falar isso mais, e se eu não estar mais para trás das outras cadeiras,
+[06:41 - 06:44] geralmente o pessoal fala isso na primeira vez que eu conheço vocês.
+[06:44 - 06:48] Outra e fraqueira de bonas idade, à noite eu já não falei isso porque eu não me iria te escutar.
+[06:48 - 06:51] Então eu vou ficar falando se todo se mexe porque eu encho saco de vocês também.
+[06:51 - 06:54] Então assim, mas é um recado que eu costumo falar pra toda,
+[06:54 - 06:58] eu tomo a nova, que eu conheço, essa jornada aí, 16 anos.
+[06:58 - 07:01] Porque é importante isso, certo?
+[07:01 - 07:07] Os cursos, quem tem, quem tá aqui, tem afinidade,
+[07:07 - 07:11] ou pelo menos entende que tem afinidade com a área margissada,
+[07:11 - 07:15] ou seja, a parte mais objetiva, marginógica,
+[07:15 - 07:24] e menos de relacionamento, menos de gestões pessoais e tal.
+[07:24 - 07:30] Só que é um erro a achar, a reforçar, trabalhar com o TI e trabalhar só com a MAK.
+[07:30 - 07:32] Tá longe disso, certo?
+[07:32 - 07:34] Tá longe disso, por tal.
+[07:34 - 07:39] Só que as alimentas dos cursos de TI, a isso não é uma crítica ao SENAC,
+[07:39 - 07:43] o SENAC até tem uma coisa melhor do que muita faculdade por aí, como já falar,
+[07:43 - 07:53] As emendas dos cursos do meca e tal, e tal, ela tem uma carga muito grande nas cadeiras realmente técnicas, né?
+[07:53 - 07:55] Como deve ser.
+[07:55 - 07:59] Por que você não tem uma diferença com relação a outras faculdades?
+[07:59 - 08:03] Porque ela tem os projetos integradores dentro do primeiro semestre.
+[08:03 - 08:09] Que é o momento em que você vai se relacionar com equímpfes, que vão ter situações de discordância,
+[08:09 - 08:14] situações de negociação, situações que você vai ceder,
+[08:14 - 08:18] situações que o colega não vai querer trabalhar e vai gerar um problema,
+[08:18 - 08:22] situações que você vai ter que se preparar para fazer uma apresentação.
+[08:22 - 08:25] Então, vocês estão vivendo tudo isso, né?
+[08:25 - 08:30] É, isso é um treino ótimo e as outras fábitares, no geral, não tem muito isso.
+[08:30 - 08:34] Eu dou aula um dia e outro faculdade, não tem isso.
+[08:34 - 08:37] A gente primeiro se mexe, vocês já estão se vendo isso.
+[08:39 - 08:41] Bom, galera, alguma dúvida, comentário?
+[08:41 - 08:42] E aí, beleza?
+[08:42 - 08:44] Oi, senhor.
+[08:44 - 08:49] A matéria de senhor mais teórica, e vai ter alguma prática de umidade?
+[08:49 - 08:52] Vamos passar sobre isso agora, o vídeo, tá?
+[08:52 - 08:59] Mas olha, adianto que ela é 70% prática de tempo, então.
+[08:59 - 09:06] e a gente já deve entrar o como qualquer momento, tem um certo momento da cadeira, para a frente, a gente vai...
+[09:06 - 09:12] a aula sai direto da marca, eu vou explicar porquê.
+[09:12 - 09:19] A gente começa... eu ainda vou dar uma contextualizada aqui na matéria,
+[09:19 - 09:22] para que elas vão intervar, lembrem-se de ser no Fedeiro, tem um bom dia.
+[09:22 - 09:24] Vem pra lá, não é pra ir no meio do sol.
+[09:24 - 09:26] Vem pra lá, 10.
+[09:26 - 09:56] É, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é
+[09:56 - 10:03] Já já contextualizar essa cadeira dentro, os cenários no meio de sorte, mas eu vou,
+[10:03 - 10:09] e depois eu vou falar sobre isso aí que você perguntou, sobre a alimenta, como é que a
+[10:09 - 10:12] cadeira funciona, mas como você perguntou eu vou inverter um pouquinho, depois eu
+[10:12 - 10:13] detalho, certo?
+[10:13 - 10:14] Sim.
+[10:14 - 10:18] Como é que a cadeira eu vou mostrar aqui, quando as reacupas me gostam, no lugar onde
+[10:18 - 10:24] E ela tem um artigo que eu vou usar aqui no semestro de pação.
+[10:24 - 10:30] Essa cadeira então ela é nessa proporção, 70, 30.
+[10:30 - 10:37] Então a gente começa com uma necessária multisqualização, tem alguns consejos que
+[10:37 - 10:46] a gente precisa passar, alguns definições, tentar colocar as coisas um pouquinho no lugar,
+[10:46 - 10:50] É uma coisa nova para vocês, é para ser.
+[10:52 - 10:59] Isso começa hoje, talvez nos três alas, mais ou menos isso para que nós fiquemos.
+[11:00 - 11:06] Depois a gente vai começar uma parte que é prática,
+[11:07 - 11:10] mas ela é referente ao que a gente chama de moda elágio.
+[11:11 - 11:12] Eu vou explicar o que é moda elágio.
+[11:12 - 11:14] e a gente vai falar de modelagem hoje,
+[11:14 - 11:16] por pelo menos em linha gerar, certo?
+[11:16 - 11:18] Mas agora,
+[11:18 - 11:20] entenda modelagem como eu não falei aqui na...
+[11:20 - 11:22] Você estava aqui no praí do praí do praí da sala,
+[11:24 - 11:26] entenda modelagem como a cena aquela fase de
+[11:26 - 11:28] transformar
+[11:28 - 11:30] o que o cliente quer
+[11:30 - 11:32] em uma planta.
+[11:32 - 11:34] É lógico.
+[11:34 - 11:36] É lógico, é o modelo.
+[11:36 - 11:38] É lógico a gente vai conversar também sobre isso.
+[11:38 - 11:40] Mas a lógica,
+[11:40 - 11:44] Claro, ali dentro tem uma lógica, mas é uma planta.
+[11:45 - 11:47] Imagina uma planta dessa sala.
+[11:47 - 11:51] Uma planta de elétrica.
+[11:52 - 11:54] Onde é que tem os pontos de eletricidade,
+[11:55 - 11:57] que a altura está desenhando isso.
+[11:58 - 12:00] A modulagem é um desenho disso.
+[12:00 - 12:06] É um desenho que vai representar o que precisa de dados
+[12:06 - 12:08] para aquele teu sistema, certo?
+[12:08 - 12:11] Existe um diagrama, o que é o diagrama?
+[12:11 - 12:13] O diagrama é um tipo de planta.
+[12:14 - 12:17] Diagrama ou modelo, estou falando a mesma coisa,
+[12:17 - 12:20] que representa essa necessidade dos dados.
+[12:21 - 12:23] Então, essa é a segunda parte.
+[12:24 - 12:25] A gente vai pegar um requisito,
+[12:26 - 12:29] que é um requisito, uma necessidade fictícia de um cliente,
+[12:30 - 12:33] e vamos gerar um modelo que atende essa necessidade.
+[12:34 - 12:37] Na terceira etapa, a gente vai materializar.
+[12:37 - 12:44] Essa segunda etapa vai ali, estamos quase chegando aí na V1.
+[12:45 - 12:50] Mas antes, dependendo aqui da turma antes da V1 começar, a gente comece a terceira etapa.
+[12:51 - 13:00] A terceira etapa, ela vai materializar esse modelo, que poderia ser um papel, mas não tem ferramenta para isso, certo?
+[13:01 - 13:04] Materializar esse modelo num banco de dados.
+[13:04 - 13:12] Então ele vai pegar esse modelo e vai transformar em entidades, componentes de um bom tipo de dados,
+[13:12 - 13:13] seja lá que seja o fim dele.
+[13:13 - 13:16] E depois nós vamos trabalhar com esse bom tipo de dados.
+[13:16 - 13:21] Nós vamos ser idados, nós vamos fazer consultas, nós vamos colocar caráter índices, etc.
+[13:21 - 13:29] Então, a partir do trabalho a gente começa a entender o que é a modelagem, já é todo prático.
+[13:29 - 13:34] Tá, é uma modelagem de novo, você pode fazer no papel, na ferrola, na marca.
+[13:34 - 13:41] Mas a parte que vem depois da modelagem que é levar para uma pedaz não tem jeito, tem que ser na marca.
+[13:41 - 13:42] Sério?
+[13:42 - 13:43] Diga aí, cara.
+[13:43 - 13:48] Não, não, era só uma dúvida, mas é a Finipe que pediu para cada...
+[13:48 - 13:49] Legal.
+[13:49 - 13:50] Vamos rolar, galera?
+[13:50 - 13:53] É, Finipe é uma vontade aí para entender a verdade.
+[13:53 - 13:53] Com licença.
+[13:53 - 13:54] Oi.
+[13:54 - 13:57] E aí, que problema você tem que fazer na modelagem?
+[13:57 - 14:10] A modelagem tem vários programas, tem o dry-eye-o, a re-dating.
+[14:10 - 14:15] Draw the bee, o site draw the bee, draw the database.
+[14:15 - 14:19] Eu lhe diria o seguinte, a ferramenta é o menor dos programas.
+[14:19 - 14:22] Ainda é interessante a gente ver logo que você é...
+[14:22 - 14:24] Tem a internet, é online.
+[14:27 - 14:29] É uma coisa que também é importante.
+[14:29 - 14:30] Tem isso?
+[14:30 - 14:31] Isso.
+[14:31 - 14:33] O ex-utroce é uma coisa que eu ia falar aqui novo,
+[14:33 - 14:36] o ex-utroce tá legal porque eu tô puxando,
+[14:36 - 14:38] mas é uma coisa importante.
+[14:38 - 14:39] Olha a perceção aqui.
+[14:39 - 14:43] Uma coisa em tecnologia, eu já falei hoje, mas eu vou repetir.
+[14:43 - 14:46] Mas é uma coisa que isso precisa estar bem entendido
+[14:46 - 14:49] e não vai ser só nessa cadeira que a gente vai falar sobre isso.
+[14:49 - 14:53] A gente vai falar sobre também e outros vídeos.
+[14:53 - 14:56] Peste atenção, em tecnologia, em sistema,
+[14:56 - 15:00] é o que eu gobei a ter, em trabalhar com TI.
+[15:00 - 15:04] Não sei, é a atenção que está causada e é importantíssima.
+[15:04 - 15:08] Você sempre tem que se preocupar com duas coisas.
+[15:08 - 15:15] Entender os conceitos, entender a lógica, quanto for o caso,
+[15:15 - 15:19] caso, que independe de ferramenta, sabe?
+[15:21 - 15:22] Indepente ferramenta.
+[15:23 - 15:27] O que vai acontecer nessa cadeira aqui, independe de ferramenta.
+[15:28 - 15:33] Eu costumo dizer que esse assunto dessa cadeira, ele é atemporal.
+[15:35 - 15:44] Eu tenho um material referente a essa cadeira, que eu estudei em 1992, 90, 90.
+[15:45 - 15:54] ainda se aplica, porque é o método, o método pode mudar pode, mas desde 1990 que ele não
+[15:54 - 16:02] mudou, não tem expectativa de ele mudar esse método dessa cadeira, vamos contar um
+[16:02 - 16:09] pouquinho dessa história também, então assim na sua formação se preocupe sempre
+[16:09 - 16:14] ficou entender os conceitos e esqueçam pouco as ferramentas.
+[16:14 - 16:16] A ferramenta é a parte fácil.
+[16:17 - 16:20] Agora, claro que a ferramenta é importante.
+[16:20 - 16:24] Ferramenta também é necessária porque você vai usar.
+[16:25 - 16:29] Eu, correndo equipes lá no banco, 20 pessoas,
+[16:29 - 16:32] já trabalhei com muita equipe na minha vida, muita gente.
+[16:32 - 16:36] Se tiver uma pessoa que sabe, já ela tome.
+[16:36 - 16:39] E tem outra que não sabe Java mais ou menos.
+[16:39 - 16:45] Mas essa primeira que sabe Java top, não tem um raciocínio lógico tão bom contra outra.
+[16:45 - 16:46] Eu prefiro a outra.
+[16:46 - 16:55] É mais fácil você aprender Java, assim, taxa, do que aprender o raciocínio e a lógica.
+[16:55 - 17:01] E por que eu faço esse comentário também no primeiro dia de aula de relacionamento com vocês?
+[17:01 - 17:03] Porque é muito comum.
+[17:03 - 17:07] E eu passei por isso, tá certo? Eu faço parte desse mundo.
+[17:08 - 17:17] Lá na época, é muito comum a gente achar que conhecer linguagem, conhecer ferramenta.
+[17:19 - 17:22] O problema tá resolvido. Não tá.
+[17:22 - 17:25] E aí, só aí, é porque o mi-fovó é o barulho, então.
+[17:25 - 17:28] Eu tenho um problema de... Eu fiz o quevê no castalho, que sai em pernas.
+[17:28 - 17:32] Eu tenho que estar a escutar, não é fofoqueira, é fofoqueira e passa para frente.
+[17:32 - 17:34] Eu só quero escutar com meu consumo próprio.
+[17:34 - 17:36] Aí eu fico.
+[17:36 - 17:38] Aí eu fico. Então vocês puderem só?
+[17:40 - 17:42] Eu tenho ouvido doetil, cara.
+[17:42 - 17:45] A pessoa para lá no final e eu fico com aquele negócio.
+[17:45 - 17:48] Eu não consigo dormir com televisão, com nada. Eu fico escutando.
+[17:48 - 17:51] Eu vou dar... Eu falei do fora de óculos, né?
+[17:51 - 17:53] Doos, treze anos eu fui daqui pro Rio.
+[17:53 - 17:54] De onde?
+[17:54 - 17:55] Minha família.
+[17:55 - 17:57] Eu não dormi, eu dormi no barulho.
+[17:57 - 18:01] Apesar de que parece um problema, deve ter algum problema.
+[18:01 - 18:04] Não sei lá, não é problema, é característica, né?
+[18:04 - 18:07] TDRH, TDRH pode ser...
+[18:07 - 18:09] Alguém não percebe do...
+[18:09 - 18:11] Não tem gente assim.
+[18:11 - 18:17] Mas bem, então cuidado com essa separação, tá?
+[18:17 - 18:20] Ou que é que, de início, a gente tem a tendência,
+[18:20 - 18:24] que nessa fase a gente correva pela liga do igual.
+[18:24 - 18:26] Qual é o negócio que está aprendendo?
+[18:26 - 18:39] Hoje é Java, hoje é C, hoje é Java, hoje é GodMed, hoje é Python, amanhã eu não sei, mas se você tem os fundamentos da lógica de programação, pode ver o que vem.
+[18:39 - 18:50] Eu trabalhei na minha vida com dezenda de linguagens, toda a vida que eu mudava de emprego, eu mudei muito de emprego porque sei que tem uma quantidade e era na época que não tinha esse trabalho menor.
+[18:50 - 18:54] Vocês estão na época que vai ter muita...
+[18:55 - 18:57] Você trabalha daqui pra qualquer canto novo.
+[19:01 - 19:02] Era uma linguagem nova.
+[19:03 - 19:06] Mas a lógica é a mesma.
+[19:07 - 19:11] Então a pedra é assim, ela se baseia.
+[19:11 - 19:13] Aí ela não é prática? É.
+[19:13 - 19:18] Porque a gente vai usar essa estratégia de modelagem,
+[19:18 - 19:25] como eu disse, ela é a temporal, do jeito que ela é ainda é hoje e não tem no radar como ela vai botar.
+[19:27 - 19:32] Que você materialize qualquer ferramenta. E eu vou, como eu disse até no papel.
+[19:34 - 19:42] E quando a gente for colocar o resultado dessa modelagem no banco de dados, eu tenho usado uma ferramenta online,
+[19:42 - 19:44] O que você faz?
+[19:44 - 19:46] O que você faz?
+[19:46 - 19:50] Eu que invasão a Escara e Sérgio, que é um produto.
+[19:50 - 19:57] Mas existem vários, tem o Construíto, a Escara e Sérgio, tem a Invisão, as pessoas que têm de vanturadas.
+[19:57 - 20:00] O MongoDB, Maria, SQLite.
+[20:00 - 20:08] Mas, senhora, qualquer modelo executa comandos da linguagem SQLite.
+[20:08 - 20:16] A linguagem à esquerda foi feita para ser um padrão de linguagem de manipulação de
+[20:16 - 20:17] bancotidados.
+[20:17 - 20:27] Então todos os fornecedores, pelo menos em tese, deveriam implementar, aceitar essas
+[20:27 - 20:28] citaques padrão.
+[20:28 - 20:35] Mas o que acontece é que por exemplo, a aura contém o produto dela de bancotidados.
+[20:35 - 20:38] As vezes ela implementa o padrão, o que é o padrão?
+[20:38 - 20:42] Se você coloca um comando de ESQM, que é essa linguagem de manipulação,
+[20:42 - 20:47] no padrão internacional ela vai entender e vai executar.
+[20:47 - 20:49] Mas às vezes...
+[20:49 - 20:52] Eu preciso escutar, a gente está falando.
+[20:55 - 20:59] Às vezes as fornecedoras botam um detalhezinho a mais.
+[20:59 - 21:04] Mas, questão de performance, aí se você programa essa linguagem à SQL,
+[21:04 - 21:10] no padrão fora do padrão, aquilo que você fez com a SQL do padrão só executa na
+[21:10 - 21:14] pergunta, se você leva para a SQL em cima, não executa.
+[21:14 - 21:20] Então aqui nós vamos ver o assintax padrão, então ele deve ser, se vai ser por sucesso,
+[21:20 - 21:23] vai ser para o TV, se vai ser interesse, certo?
+[21:23 - 21:28] Mas claro, a gente faz como eu disse, a gente feita com o pai,
+[21:28 - 21:31] cumpre a missão direitinho, é online,
+[21:31 - 21:36] mas se o SQS7 estiver funcionando esse semester, a gente faz no SQS7.
+[21:36 - 21:38] Qual é a vantagem do SQS7?
+[21:38 - 21:42] Eu vou dizer mais para a frente qual é, é uma pequena vantagem,
+[21:42 - 21:46] mas fora essa pequena vantagem, o resto não faz diferença.
+[21:46 - 21:52] Você usar um produto desse com o SQS7,
+[21:52 - 22:00] Tem uns meninos que estão específicos dele, tem a área dele de operação, ok, é a área dele de operação.
+[22:02 - 22:06] O órgão é diferente, o posturo é diferente, o bebê é diferente.
+[22:07 - 22:12] Mas se aprendi isso e se pedi isso, só sabiam de tão as coisas, o dia que o menino faz,
+[22:13 - 22:15] isso é uma parte mais importante, sabe?
+[22:16 - 22:19] Legal, é... vou lá.
+[22:22 - 22:35] É, por que é um desses aplicações que o senhor disse, usando a linguagem padrão, vai funcionar dentro do padrão?
+[22:35 - 22:38] É, deixa o...
+[22:38 - 22:39] Vai dar um no?
+[22:39 - 22:40] Já na ilha.
+[22:40 - 22:41] Vai dar ilha.
+[22:41 - 22:44] Tá, deixa eu fazer um paraço do parâmetro.
+[22:44 - 22:46] Eu sou muito ruim de não.
+[22:46 - 22:48] É verdade que vocês vão ver que eu sou muito ruim de muita coisa, sério?
+[22:48 - 22:56] Eu não falei, né? Sou muito incomodou o Barulho, testes de escuro, eu sou muito decorado, mas às vezes eu tenho medo de esquecer até meu nome, certo?
+[22:56 - 22:57] É sempre cadeia.
+[22:57 - 23:02] E eu disse, eu fui fazer um exame, eu tomo um remédio, não é normal da idade, isso aqui não é um remédio mesmo, não é?
+[23:02 - 23:08] Aí, o Côte de Remédios, eu não me lembrei, eu não tomo remédio, não me lembrava o nome.
+[23:08 - 23:10] Aí, eu saí da...
+[23:10 - 23:13] Eu falei, ah, eu bebei o nome, você não precisa mais, não, você não precisa mais, não.
+[23:13 - 23:15] Então a Gina Aina, e é por isso que eu fico perguntando, né?
+[23:15 - 23:18] Eu não quero ter o nome de vocês. Eu não gosto daquela história de cada um fala,
+[23:18 - 23:22] o que você faz aqui, né? Eu perdo tempo naquela negócio, mas com o tempo a gente vai diferenciar.
+[23:22 - 23:24] Então para você excumir em algum momento, eu esqueci o nome de vocês, tá?
+[23:24 - 23:29] Como são muitos alunos e a minha memória, pra nome é muito ruim.
+[23:29 - 23:32] Então eu acabo às vezes esquecendo. Mas aí, Gina Aina,
+[23:32 - 23:42] eu você perguntou sobre se pode ser qualquer ferramenta, né?
+[23:42 - 23:47] que vai usar, mas sim, pode ser qualquer ferramento, tá certo?
+[23:47 - 23:51] Pode ser ferramento, e você aí vai funcionar.
+[23:51 - 23:53] E no lugar de comentar assim,
+[23:55 - 23:59] vai chegar o tempo normal aqui, e você vai aprender.
+[23:59 - 24:00] O que eu to quer dizer isso?
+[24:01 - 24:05] Muito do que eu trago, pessoal, é coisas que eu passei, né?
+[24:05 - 24:09] Então eu passei situações nessa época, que nesse momento,
+[24:09 - 24:11] que o professor falava isso eu recorria para estudar.
+[24:11 - 24:12] É?
+[24:12 - 24:13] Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não,
+[24:13 - 24:14] não, não, não, não, não, não, não, não, não, não, não, não, não, não, não,
+[24:14 - 24:15] não, não, não, não, não, não, não, não, não, não, não, não, não, não, não,
+[24:15 - 24:16] não, não, não, não, não, não, não, não, não, não, não, não, não, não, não,
+[24:16 - 24:17] não, não, não, não, não, não, não, não, não, não, não, não, não, não, não,
+[24:17 - 24:18] não, não, não, não, não, não, não, não, não, não, não, não, não, não, não,
+[24:18 - 24:27] Eu me lembro quando eu recebi a notícia que tinha sido aprovada para entrar no doutorado,
+[24:27 - 24:33] aí eu era em Iá, minha área é em Iá, do doutorado, então assim eu corri para casa
+[24:33 - 24:39] para pegar o nível de Iá já para começar a estudar, naquela empersteira, né?
+[24:39 - 24:45] Não fazia diferença nenhum aquilo ali, quatro anos para frente, uma tarde, duas horas para
+[24:45 - 24:50] que se estresse. Então é uma menina essa linha. As coisas vão acontecer naturalmente.
+[24:50 - 24:56] O que é que precisa é acompanhar as aulas, é tirar dúvida, toda essa história que eu
+[24:56 - 25:03] comentei de vocês que aí funciona e vai cumprir o que a gente precisa chegar, tá?
+[25:03 - 25:07] Então, a porra vai trazer do tráfego para o corpo.
+[25:07 - 25:14] mas, doutorado é 4 anos, você pode fazer em menos tempo.
+[25:14 - 25:20] Eu fiz e sim, porque eu entrei no banco em 2006 e eu estava no doutorado.
+[25:20 - 25:26] Aí, na verdade, quando eu entrei no doutorado, eu tinha que trabalhar no sistema, né, desenvolver.
+[25:26 - 25:29] Coordenando o projeto e tal.
+[25:29 - 25:35] E só que aí eu achei legal a experiência do mestrado, porque qual é a diferença?
+[25:35 - 25:37] É...
+[25:37 - 25:41] A pesquisa, né, que o mestrado do Tradlis, por bem...
+[25:41 - 25:43] Ele é...
+[25:43 - 25:45] Sempre coisa nova.
+[25:45 - 25:47] O Sol de Chante, tudo bem?
+[25:47 - 25:49] Salve, salve.
+[25:49 - 25:51] O Leandro.
+[25:51 - 25:53] Seu Alunetra, bem?
+[25:53 - 25:55] Legal.
+[25:55 - 25:57] É...
+[25:57 - 25:59] A pesquisa é sempre coisa nova.
+[25:59 - 26:01] Sempre desafio novo.
+[26:01 - 26:03] Estava lá com o sistema...
+[26:03 - 26:11] É, mas às vezes você fica numa empresa, é aquele mesmo sistema, e aí acaba, algumas
+[26:11 - 26:12] vezes fica repetitivo.
+[26:12 - 26:15] E a gente, de TI, é muito incomodável.
+[26:15 - 26:17] Você não manda uma fala geral, você fica com coisa nova.
+[26:17 - 26:20] Aí vem uma tecnologia nova, você fica doido para colocar aquela tecnologia, mas você
+[26:20 - 26:21] trabalha numa empresa que não usa uma tecnologia.
+[26:21 - 26:22] Aí eu mudar de emprego.
+[26:22 - 26:25] Aí eu boto o cara.
+[26:25 - 26:29] Às vezes eu mudava por uma questão financeira, às vezes por questões, às vezes questões
+[26:29 - 26:31] de ambiente, e todo mundo tinha.
+[26:31 - 26:36] Mas aí, pô, vou trabalhar com essa tecnologia. Aí você conhece tudo, aí você vai para a
+[26:36 - 26:44] taxa. Aí a pesquisa, como é que é? A pesquisa você sempre se desafiar. Então, aí em 2005,
+[26:44 - 26:49] eu fazia um fio da doutorada, aí parei tudo, saí da empresa que eu trabalhava, de
+[26:49 - 26:57] edição, só que eu era 36 anos, meu filho nasceu, aí pegou, né, aí, vou dizer, eu
+[26:57 - 27:01] eu não fiz a besteira não, porque o Deus lhe falou isso aqui, mas...
+[27:01 - 27:05] por motivos eu fui fazer o concurso do banco, eu não ia fazer.
+[27:05 - 27:08] No domingo à tarde, minha esposa grávida, eu gripado, o dia das mães,
+[27:08 - 27:11] eu não tinha estudado, tinha tudo para eu fazer.
+[27:11 - 27:14] Aí as mulheres, né, aí eu...
+[27:14 - 27:18] e essa escudeira, e dizer, vá, vá, vá, vá, vá,
+[27:18 - 27:21] ah, não, não, não foi esse negócio, aí passa aí, aí fica, lá se for.
+[27:21 - 27:23] Aí eu bato, lá se for.
+[27:23 - 27:25] Aí acaba que...
+[27:25 - 27:28] vou prometer um pouco a evolução,
+[27:28 - 27:31] eu fiz direitinho, acabei, mas não fui mais para pesquisa,
+[27:31 - 27:32] fiquei no bloco dele.
+[27:32 - 27:36] Acabei na área de inovação, que acaba tendo um tom meio de pesquisa, né?
+[27:36 - 27:39] Mas são quatro anos, porque no doutorado,
+[27:39 - 27:41] você desenvolve um...
+[27:41 - 27:43] contribui com aquele...
+[27:43 - 27:46] com aquele domínio, uma ciência, né?
+[27:46 - 27:50] Então a ideia do doutorado é se procura com as novas, sério?
+[27:50 - 27:52] A gente tem que ficar com a fonteira, né?
+[27:52 - 27:55] Então é, são quatro. Aí eu acabo de ir em cinco.
+[27:55 - 27:57] A gente acaba em três, é difícil, né?
+[27:57 - 28:01] É uma coisa que você precisa ver, olhar a mão, tá?
+[28:01 - 28:07] Mas sobre isso, se tiver que fazer, eu sugiro fazer logo na sequência.
+[28:07 - 28:08] Da graduação.
+[28:08 - 28:11] Aí você tem bensos de compromisso, de cem por mil, você vê.
+[28:11 - 28:13] Tá certo?
+[28:13 - 28:15] É, legal.
+[28:15 - 28:21] Então, nós temos muito que conversar, fique meu vontade mesmo para perguntar.
+[28:21 - 28:23] Pessoal, é...
+[28:25 - 28:27] Deixa eu abrir aqui um esquemazinho.
+[28:29 - 28:35] Eu não vou me estrazem ele aqui junto com vocês, mas eu vou comentar aqui de smash passado para ele.
+[29:15 - 29:19] Quando fica ruim da tela, fica, né?
+[29:19 - 29:21] Aí ele fica.
+[29:21 - 29:23] Aí ele fica.
+[29:23 - 29:25] Aí ele fica.
+[29:25 - 29:29] É só para a gente...
+[29:29 - 29:31] onde essa história toda começa, tá?
+[29:31 - 29:33] Preciso.
+[29:33 - 29:35] Vai se invitar subindo.
+[29:35 - 29:37] Vai se invitar subindo.
+[29:37 - 29:39] Só para ir no dormeiro.
+[29:39 - 29:41] Estópico.
+[29:41 - 29:43] A história toda começa de sistema de informação.
+[29:43 - 29:48] sistema de informação, vocês estão aqui para isso, aqui no dia menos cenário, né?
+[29:48 - 29:52] Repita, esse aqui é um mundo, tá?
+[29:52 - 29:55] trabalhar com PI é um mundo, mas vamos focar num submundo desse mundo
+[29:55 - 29:58] depois a gente fala do outro mundo, tá?
+[30:01 - 30:07] um sistema, independentemente de ter, tem uma coleção de entidades, componentes,
+[30:07 - 30:09] e os funcionários que são bonitos.
+[30:09 - 30:11] Sistema de formação com a coleção de problemas.
+[30:11 - 30:13] Nos pontos, acabou.
+[30:13 - 30:15] E aí na ingenuidade, no primeiro sinal,
+[30:15 - 30:17] então aí, qual a dificuldade de se fazer um programa,
+[30:17 - 30:19] quando o programa acabou, não é?
+[30:19 - 30:21] Calma, que coisa tão simples assim, tá?
+[30:21 - 30:23] É preciso falar da IA, vou falar em algum momento da IA,
+[30:23 - 30:25] sério?
+[30:25 - 30:27] E o risco para vocês da IA, né?
+[30:27 - 30:29] Eu não vou ter que contar essa aula, porque o resto
+[30:29 - 30:31] eu estou muito, porque eu estou falando daqui.
+[30:31 - 30:33] É...
+[30:33 - 30:35] A IA é um risco...
+[30:35 - 30:40] Você já deve ter escutado, é um benefício mas é um risco, mas depois a gente fala sobre ele.
+[30:40 - 30:43] É uma apelação de programas, tá bom?
+[30:43 - 30:47] Isso é uma apelação de programas que se comuniquem, como assim?
+[30:47 - 30:49] Então, como é comunicação de programas?
+[30:49 - 30:52] É o problema de informações, o meio de dados.
+[30:52 - 30:55] Vocês já fizeram, eu acho que é uma informação, né?
+[30:55 - 31:00] Estudaram em bytes, em C, vocês já viram variáveis, vocês já viram função, né?
+[31:00 - 31:07] Está vindo retorno de funções, ele está vindo parâmetros, então os parâmetros é a troca de informações.
+[31:07 - 31:11] Quando você chama uma função e passa um parâmetro, você está passando uma informação.
+[31:11 - 31:15] Quando a função retorna um valor, ela está retornando a informação.
+[31:15 - 31:19] Então essa coleção de problemas, ela troca informações.
+[31:19 - 31:29] Por quê? Porque a funcionalidade do sistema que faz, por exemplo, o registro de uma venda
+[31:29 - 31:36] da atualógica, ela precisa receber a informação no código do vendedor de outro campo, ou
+[31:36 - 31:43] no nome do vendedor, ou no nome da rua. Então, é uma grande coleção de programas que se
+[31:43 - 31:47] e foram ígãos, um meio basicamente disso,
+[31:47 - 31:49] vi o de parâmetro e recebimento de informação.
+[31:49 - 31:53] Vocês viram, claro que isso cria uma complexidade incrível,
+[31:53 - 32:02] porque os sistemas de hoje em dia, eles são muito quebrados,
+[32:02 - 32:06] num sentido assim, são muitos pequenos componentes, tá?
+[32:06 - 32:10] Nem sempre foi assim, nem sempre foi assim.
+[32:10 - 32:13] E aí tem outra história que não vai dar tempo a gente contar.
+[32:13 - 32:18] Não dá pra contar muitas histórias, espero eu não dar pra contar todas as histórias nessa cadeira.
+[32:18 - 32:21] Mas tem outras cadeiras que vão contar outras histórias.
+[32:21 - 32:27] E eu consigo te dizer agora que nem sempre foi assim uma coleção de pequenos modos,
+[32:27 - 32:29] pequenos programas, um coração grande.
+[32:29 - 32:35] E hoje também tem uma coisa que só fiquem muito a dificuldade.
+[32:35 - 32:40] Esses componentes estão distribuídos em várias localidades,
+[32:40 - 32:46] jogaficamente, por meio da comunicação, que se tem em internet, certo?
+[32:46 - 32:50] Então tudo isso traz uma flexibilidade, mas traz uma complexidade também.
+[32:50 - 32:51] É a vida.
+[32:51 - 32:57] A vida é assim, toda vida que se avança alguma coisa, você tem benefício, mas você tem desafio, sabe?
+[32:57 - 32:59] E na tecnologia não é diferente.
+[32:59 - 33:01] É pra gente, vai fazendo muita diferença.
+[33:01 - 33:06] De toda forma, aquilo que eu disse, o conceito é esse.
+[33:06 - 33:10] Se você implementa de um jeito, preventa do outro, tem uma arquitetura A, B, C,
+[33:10 - 33:14] no geral, está valendo o que está fazendo.
+[33:14 - 33:17] Separem o conceito da implementação, sempre para o início.
+[33:17 - 33:21] Quais são os dois indispensáveis componentes para o que é sistema?
+[33:21 - 33:22] Algo de respeitado.
+[33:22 - 33:26] Não faz sentido você falar em sistema de informação,
+[33:26 - 33:29] em sistema de informação, na colação de programas.
+[33:29 - 33:32] Um programa, você já vira o que é, no primeiro semestre,
+[33:32 - 33:35] Então não faz sentido você falar do sistema de informação,
+[33:35 - 33:39] se não for para tratar esses dois elementos.
+[33:39 - 33:45] Algoritmo que são as funcionalidades que os seus programas têm,
+[33:45 - 33:48] funcionalidades são os objetivos de cada programa.
+[33:48 - 33:52] É um programa para calcular um posto das vendas.
+[33:52 - 33:57] É um programa para registrar um atendimento lá no patch.
+[33:57 - 34:01] Os meninas estavam ontem lá, do projeto,
+[34:01 - 34:06] O rejeito é um agendamento de uma consulta de um FED.
+[34:08 - 34:10] É uma funcionalidade, é um algoritmo.
+[34:10 - 34:13] E não tem sentido ter um problema também sem os dados.
+[34:14 - 34:17] Então os dados são outros componentes.
+[34:17 - 34:20] É, é? Todo problema ter sido as componentes.
+[34:21 - 34:26] Essa cadeira não é de algoritmo.
+[34:28 - 34:29] Era com repetidades.
+[34:29 - 34:30] É?
+[34:30 - 34:34] Mais dano rápidas pinceladas em algoritmos.
+[34:34 - 34:38] Só para reforçar algo que eu já falei aqui e agora vou falar de forma mais rápida do que
+[34:38 - 34:39] eu já falei.
+[34:39 - 34:49] Reforço que, cuidado, quando você estiver na jornada de aprender, você capar de elaborar
+[34:49 - 34:50] algoritmos.
+[34:50 - 34:54] Se você elaborar algoritmos, ele agora programas praticamente a mesma coisa.
+[34:54 - 35:04] Se você para, novamente vou falar a parte do rastro sinu lógico, a gente vem à lógica,
+[35:04 - 35:06] a lógica, o que é a lógica?
+[35:06 - 35:13] A lógica é uma sequência de passos racionais que resolve o problema.
+[35:13 - 35:19] Essa sequência de passos faz o meu problema, na computação, é a lógica de progenação.
+[35:19 - 35:26] Ou seja, você vai encadiar, ou seja, você vai ter o primeiro comando, o segundo, o terceiro, numa sequência,
+[35:26 - 35:31] que quando essa sequência de comandos vai executar, ela resolve um problema.
+[35:31 - 35:36] Esse conceito simples, ele independe de qualquer linguagem.
+[35:37 - 35:44] E treinar essa sequência de passos que resolvem um problema, é diferente de treinar um linguagem.
+[35:44 - 35:56] Quando você recebe um problema para resolver, faça um algoritmo para calcular se uma pessoa
+[35:56 - 36:03] pode dirigir, pode votar, o voto é opcional, o voto é obrigatório, esse é o problema.
+[36:03 - 36:10] Você vai entender o problema, primeira etapa do algoritmo, tem que entender o problema.
+[36:10 - 36:12] Esquece a linguagem, entender o problema.
+[36:12 - 36:13] O que é que esse problema quer?
+[36:13 - 36:20] vai entender o problema, você pega cenários, você pega exemplos, a pessoa que tem 13 anos
+[36:20 - 36:28] nem pode voltar nem pode dirigir, então você pega cenários para você entender como é
+[36:28 - 36:34] que funciona, a régua de negócio, você vai trabalhar em diversas situações, em diversas
+[36:34 - 36:42] empresas, você não entende a régua, a gente entende que é uma área que vai trabalhar,
+[36:42 - 36:46] a contabilidade foi de pagamento e você nunca viu isso, você vai ter que entender a regra
+[36:46 - 36:48] aí não estou falando de linguagem
+[36:48 - 36:51] então você vai entender o problema, beleza, entender
+[36:51 - 36:53] depois você entender o problema
+[36:54 - 36:57] esquece um pouquinho aí, você vai
+[36:58 - 37:00] amar uma estratégia
+[37:00 - 37:02] sequência de passo
+[37:02 - 37:04] que resolve esse problema
+[37:04 - 37:06] uma primeira versão é mesmo
+[37:07 - 37:09] com o português
+[37:09 - 37:18] Ah, primeiro o programa deve solicitar a idade, depois ele deve verificar se é menor do que
+[37:18 - 37:24] ele disse, não, é a lógica, em português, se você quiser fazer, então se organizou
+[37:24 - 37:30] as ideias, depois, a máquina não entende o português, ai ai entende, vai deixar ai
+[37:30 - 37:34] fora, vamos ver se é ai, depois a gente fala da ia.
+[37:34 - 37:41] você vai traduzir essa lógica para uma linguagem mais próxima da linguagem que a máquina
+[37:41 - 37:42] entende.
+[37:42 - 37:46] Detalhe, a máquina não entende já, a máquina não entende essa linguagem.
+[37:46 - 37:52] A máquina ainda tem um processo de tradução disso para uma linguagem de máquina, vamos
+[37:52 - 37:54] dizer assim, que ela entende.
+[37:54 - 38:00] Mas bem, então você pode materializar essa lógica, você volou de português mesmo,
+[38:00 - 38:04] Eu posso dizer assim, um carbão, um deser, qualquer coisa.
+[38:04 - 38:08] Então a organização, na tua votação, dá duas estratégias e tá feita.
+[38:08 - 38:10] Você traduz, pode ser com Portugal, sabe?
+[38:10 - 38:12] É um Portugal, é um Portugal.
+[38:12 - 38:15] Aquilo ali é uma transição que vai...
+[38:15 - 38:19] Por que que o português não é adequado?
+[38:19 - 38:24] Porque a linguagem urmana, ela é muito rica.
+[38:24 - 38:27] A linguagem que a Márquina tem, em viáscoas, é muito pobre.
+[38:27 - 38:30] Então é um desafio transformar para esses comandos.
+[38:30 - 38:33] Beleza, esse é o mesmo ponto igual, faz a validação,
+[38:33 - 38:37] funcionou, agora é que você vai traduzir
+[38:37 - 38:40] os centros, javas, o paito, para qualquer um.
+[38:40 - 38:48] Veja, até agora, é a inteligência funcionar.
+[38:48 - 38:53] Pegar isso que você pensou e traduzir com a linguagem,
+[38:53 - 38:55] é robô
+[38:57 - 38:59] você, eu, sou brasileiro
+[38:59 - 39:01] eu falo português
+[39:01 - 39:03] uma pessoa, uma alemão
+[39:03 - 39:05] fala alemão
+[39:05 - 39:07] eu e esse alemão
+[39:07 - 39:09] temos a mesma
+[39:09 - 39:11] mesma raiva
+[39:11 - 39:13] eu sou um seres humanos
+[39:13 - 39:15] nós temos a mesma cédula
+[39:15 - 39:17] ah mas, rapaz
+[39:17 - 39:19] eu sei que pode ser mais entendido que eu
+[39:19 - 39:21] mas no geral nós só temos a mesma biologia
+[39:21 - 39:25] Mas é para entender, não já era, você vai perguntar.
+[39:26 - 39:27] Você não é mesmo?
+[39:27 - 39:31] Então nós temos a mesma mecânica de raciocínio, a mesma capacidade.
+[39:31 - 39:33] Só que ele fala alemão, ele fala o modo mesmo.
+[39:33 - 39:35] Então a linguagem é isso.
+[39:35 - 39:38] A linguagem é só a materialização do teu raciocínio.
+[39:38 - 39:42] No momento em que você pega um problema e corre direto para a máquina,
+[39:42 - 39:46] para codificar, você está juntando dois problemas ao mesmo tempo.
+[39:46 - 39:49] Você ao mesmo tempo que está tendo,
+[39:49 - 39:52] misturando o entendimento do problema,
+[39:52 - 39:53] quando definir a estratégia,
+[39:53 - 39:55] com a avaliação dessa estratégia,
+[39:55 - 39:57] com a citar que está a linguagem.
+[39:57 - 39:59] E a citar que está a linguagem é chata.
+[39:59 - 40:00] Tem um ponto de vírgula,
+[40:00 - 40:02] tem um diabo do ar,
+[40:02 - 40:03] tem o seu queiro,
+[40:03 - 40:05] e aí ela fica aqui cheio no sábio,
+[40:05 - 40:09] que atrapalha o teu raciocínio.
+[40:09 - 40:12] Os programas que vocês vão trabalhar
+[40:12 - 40:14] possivelmente, eles não têm só três situações,
+[40:14 - 40:18] não, ele tem 40 situações, certo?
+[40:18 - 40:23] Se você está trabalhando com o cabo de um fôlego de pagamento, ela tem muitas situações.
+[40:23 - 40:25] Mas a pessoa quer trabalhar só com aplicativo.
+[40:25 - 40:29] As pessoas estão sendo capacitados para trabalhar com grandes sistemas.
+[40:29 - 40:33] Não é com cozinhe pequeno, mas eu quero fazer coisa pequena.
+[40:33 - 40:36] Você vai fazer cozinhe pequeno, aí vale muito fazer coisa pequena.
+[40:36 - 40:44] Mas você está sendo formado para ser uma pessoa que é diferente de quem não passou por aqui.
+[40:44 - 40:51] qualquer para fazer coisas pequenas, talvez não precisasse nem ser passador, certo?
+[40:51 - 40:52] talvez não vamos precisar
+[40:52 - 40:57] bom, mas aí você materializa na ancuagem, depois você vai testar e vai...
+[40:57 - 40:59] jogo
+[40:59 - 41:08] aí é, se você tem um problema e joga na IA, e ela está um pulo para a sua solução
+[41:08 - 41:15] Lembra que até eu chegar no código e depois do código fazer os testes da codificação,
+[41:15 - 41:19] que eu tenho os testes ainda antes no teu projeto, na tua ideia, os testes da coisa
+[41:19 - 41:28] codificada, até eu sair do problema e chegar na coisa pronta, tem todo um processo de
+[41:28 - 41:37] entendimento, tentativa, crescimento, raciocínio, raciocínio, esse é o ponto.
+[41:37 - 41:40] Porque quando você tenta erra, por quê?
+[41:40 - 41:42] Ah, entendi.
+[41:42 - 41:45] Você está crescendo no teu raciocínio.
+[41:46 - 41:50] Aí a te leva, aí a resolve o problema.
+[41:50 - 41:53] Porque ela te leva do problema com o problema pronto.
+[41:53 - 41:56] Quem não quer um problema pronto de forma rápida?
+[41:56 - 41:57] Todo mundo quer.
+[41:57 - 42:02] Só que você está numa fase que você precisa desenvolver o raciocínio.
+[42:02 - 42:10] E no momento em que você sai do problema para a solução pronta, você bypassou todo
+[42:10 - 42:15] o fluxo de tentativa, erro e evolução que desenvolve a tua conquistão.
+[42:15 - 42:21] Eu só pensei, eu resolvi um problema, eu sei, mas tu não cresceu, tu não aprendeu, tu
+[42:21 - 42:23] não desenvolveu um teu raciocínio.
+[42:23 - 42:24] E daí?
+[42:54 - 43:22] Então pessoal olha é o pessoal está dizendo não estou dizendo você não usar aia aia tem
+[43:22 - 43:30] que você deve ser aquele teu amigo sabido. Se você recebe um problema, você não nem
+[43:30 - 43:37] passa nem tenta, e tu pede pra Janaína resolver pra ti, ela resolve e te entrega.
+[43:37 - 43:42] Essa é a Iá. Não quer o que é o que é o que é a Iá?
+[43:42 - 43:47] Você tem um problema, você começa a fazer, dá um erro, tem que ter um problema, nesse
+[43:47 - 43:51] como você está tentando, raciocinando, dentro do ego, está crescendo, está crescendo
+[43:51 - 43:54] agora está enganchado, é eu né minha gente, isso aqui
+[43:54 - 43:58] aí tu pega ajuda naquele ponto, é assim que você tem que usar aia
+[43:58 - 44:02] aia, não tem a janela, mas tem aia, naquele ponto
+[44:02 - 44:05] ai não ajuda aqui, mas depois de você ter tentado, entendeu?
+[44:05 - 44:08] mas por que eu vou tentar se a janela pode me dizer direto
+[44:08 - 44:11] mas se você não tentar, você não cresce
+[44:11 - 44:14] aí todo pequeno desafio tu corre para janela ainda
+[44:14 - 44:16] você está aprendendo alguma coisa ou não?
+[44:16 - 44:18] aprende, alguma coisa
+[44:18 - 44:20] mas não é tão rico quanto
+[44:20 - 44:22] você se esforçar para trás da resolução
+[44:22 - 44:24] entendeu?
+[44:24 - 44:26] em computação nós temos
+[44:26 - 44:28] na mão
+[44:28 - 44:30] o que é como a gente acha problema
+[44:30 - 44:32] em problema que você faz
+[44:32 - 44:34] você pega um exemplo
+[44:34 - 44:36] você diz
+[44:36 - 44:38] eu não gosto de falar, porque hoje em dia tem que ter cuidado com as coisas que a gente fala
+[44:38 - 44:40] mas eu acho que isso não vai
+[44:40 - 44:42] ferir ninguém mesmo porque eu não estou vendo ninguém com essa característica
+[44:42 - 44:46] característica, mas e se tivesse também acho que não ia ter problema? Tem que todas essas
+[44:46 - 44:58] associação existia, existe ainda, mas que é a ação de você fazer um chinêsinho no
+[44:58 - 45:08] código, o que é um chinêsinho no código? A gambiara, a clássica, a gambiara nos salva,
+[45:08 - 45:09] A gambiar é nossa amiga.
+[45:09 - 45:11] A Jutec.
+[45:11 - 45:13] A Jutec é irmão da gambiarra.
+[45:13 - 45:17] A gambiarra do meu é a Jutec, né?
+[45:17 - 45:18] Não, o chinês é o seguinte,
+[45:18 - 45:20] é que não é muito usado esse tema não,
+[45:20 - 45:21] mas o chinês é assim.
+[45:21 - 45:22] Como é que você resolve o problema?
+[45:22 - 45:24] E eu disse pra vocês que vocês têm na mão
+[45:24 - 45:26] a ferramenta, a peso é o problema.
+[45:26 - 45:27] Qual é a ferramenta?
+[45:27 - 45:30] Aí, ó, meu Deus do céu, esquece aí, é assim, ó.
+[45:30 - 45:33] Tu tem um problema, tu fez um problema e o vídeo tá dando errado.
+[45:33 - 45:35] O chinêszinho é você.
+[45:35 - 45:36] E a linha, a linha.
+[45:36 - 45:44] Essa linha, criou variável, show. Essa linha recebeu o deck, beleza. Essa linha testou.
+[45:44 - 45:51] Ah rapaz, em vez de maior, igual o pessoal maior. Achei o E. E por que é chinezinho? Porque você fala assim?
+[45:53 - 45:58] Você fecha os olhos para se concentrar, aí chamar de chinezinho. Isso é clássico, não é o que nem tem não.
+[45:58 - 46:00] O pessoal chama de chinesinho um card isso.
+[46:00 - 46:04] Então você tem na mão a ferramenta.
+[46:04 - 46:07] Basta você ir, passo a passo,
+[46:07 - 46:09] um passo de cada vez.
+[46:09 - 46:11] O que é que esse comando faz?
+[46:11 - 46:13] O que é que esse comando faz?
+[46:13 - 46:15] Entendi, então é um problema.
+[46:15 - 46:18] Quando está na questão também de debugar ali,
+[46:18 - 46:19] o conho de ter a conversão...
+[46:19 - 46:21] O chinesinho é o debugar.
+[46:21 - 46:23] As ferramentas têm o debug.
+[46:23 - 46:26] Mas já na ira às vezes você faz o chinesinho,
+[46:26 - 46:30] Para quem está aprendendo lógica de programação, quando eu falei ali,
+[46:30 - 46:34] tem de problema, faz uma sequência lógica de português, transforma para Portugal.
+[46:34 - 46:39] Ali, o ideal é que você já faça uma validação, às vezes até no papel.
+[46:39 - 46:43] Porque você vai para transformar para mim, vai numa boa.
+[46:43 - 46:47] Aí você vai encher o saco daqueles pontos vírgios, daquelas vírgias,
+[46:47 - 46:50] aqueles negócios, mas aí você bota para um menino fazer e faz.
+[46:50 - 46:54] Porque toda ideia você retirou e debubu.
+[46:54 - 46:58] E aí dá problema lá em nada, é um negócio tão desgraçado que lá dá problema de novo, né?
+[46:58 - 47:01] Mas eu vou pagar vocês pra isso, né?
+[47:01 - 47:04] E aí vem uma coisa assim...
+[47:05 - 47:08] Por isso que você precisa dedicar tempo.
+[47:08 - 47:10] E qual é o problema?
+[47:10 - 47:13] Aí a mágica, ela... você vai...
+[47:13 - 47:17] Eu digo aqui, eu digo na empresa.
+[47:17 - 47:23] As empresas elas estão cada vez mais entendendo que você tem que produzir mais,
+[47:23 - 47:26] Porque tem aiar. Aí os chefes, irmãs, você está demorando.
+[47:26 - 47:28] Faça quatro coisas, vez em duas.
+[47:28 - 47:31] Tem aiar. E você está começando.
+[47:31 - 47:34] Aí, aqui, você tem prazo, você vai ter tarefas.
+[47:34 - 47:36] Você vai deixar passar.
+[47:36 - 47:38] Aí você fica se emenando.
+[47:38 - 47:41] Não, eu vou fazer aiar. Não, eu vou fazer aiar. Aí vai para aiar.
+[47:41 - 47:43] Aí você me diz isso.
+[47:43 - 47:44] É para quem é.
+[47:44 - 47:47] Eu vou meter, Deus, nessa história. Meu Deus, me perdoe.
+[47:47 - 47:49] Eu sei que eu estou errado. Não é eu vou fazer essa mesma.
+[47:49 - 47:50] Aí faz de novo. Me faz de novo.
+[47:50 - 47:55] E faz de novo. Eu estou errado. E depois eu recomendo e faz de novo. Isso aí eu vou procurar.
+[47:55 - 48:02] E aí aquele colega que está gastando mais tempo, a história da garrafa que eu já contava.
+[48:04 - 48:10] E aí olha o besta ali, ele vai passar de você. É uma coisa, é um investimento, sabe?
+[48:10 - 48:15] Então tenha cuidado. Tenha cuidado porque assim, é um canto da cereira.
+[48:15 - 48:19] A história da garrafa, acho que era o meu, o meu, o meu, escuto...
+[48:19 - 48:23] É, dois meninos, acho que eu sei, vindo o MNZ, no internet, um mundo...
+[48:23 - 48:29] Dois meninos, duas sextas, quarenta garrafas.
+[48:30 - 48:34] O desafio é, quem pega todas as outras garrafas e monta na sexta, a primeira.
+[48:35 - 48:40] Ou dá direita, começa a pegar na garrafa, as primeiras.
+[48:41 - 48:44] Sério? Pega a primeira garrafa, pega a télia, não, cara.
+[48:44 - 48:50] para pegar 10 no amenélo no burrinho, de novo, pega a primeira traga, pega a segunda traga,
+[48:50 - 48:59] o da esquerda começou a pegar as gravas, lá tu dá, obviamente que o da direita, no começo
+[48:59 - 49:06] e durante muito tempo, estava em grande vantagem, que talvez até rindo, então se tu dá a esquerda.
+[49:06 - 49:13] Só que com o tempo, quando o da esquerda começou a pegar as gravas mais longe,
+[49:13 - 49:15] e já estava cansado
+[49:15 - 49:17] e o da esquerda
+[49:17 - 49:19] começou de lá para cá
+[49:19 - 49:21] estava pegando as gachas mais perto
+[49:21 - 49:23] o da esquerda passou da direita
+[49:24 - 49:26] é a mesma lógica
+[49:27 - 49:29] vai correr mais rápido
+[49:29 - 49:31] caso da Iá
+[49:31 - 49:33] mas é uma ilusão porque
+[49:33 - 49:35] o qual é o que dá a perder mais tempo
+[49:35 - 49:37] faz esse momento na cabeça
+[49:38 - 49:41] e no futuro você vai usar esses pulos da Iá
+[49:41 - 50:06] mas você sabe o pulo que ele deu, o processo você consegue entender, consegue validar, consegue intervir, consegue ver que não está perfeito, consegue direcionar ela para ter esse pulo mais rápido porque o que está acontecendo é muita gente faz o pulo ou o pulgarado, o pulgarado, o pulgarado, o pulgarado, o pulgarado,
+[50:06 - 50:13] vai ter, acaba perdendo tanto tempo quanto, e as empresas já estão vendo isso, isso custa dinheiro
+[50:13 - 50:20] então assim, eu não vou falar isso mais muitas vezes, só mais umas 48, então tenha cuidado com isso
+[50:20 - 50:25] eu não vou dizer, você faz e ata morto, não, não, você tem que prestar licença
+[50:25 - 50:29] eu sou também uma vítima dessa, eu tenho que fazer uma apresentação lá para o ano
+[50:29 - 50:32] Aí eu toquei na Iá, peguei um documento, toquei na Iá.
+[50:32 - 50:38] A paz ele veio bonito, sei o quê, e com o linguajá que não é meu.
+[50:38 - 50:42] Aquela fome de fala é minha.
+[50:42 - 50:44] Eu disse, eu não vou voltar isso aqui, não.
+[50:44 - 50:50] Eu peguei fazer um feio, faz que seja minha linguagem, aí você ta com o pau, não fala
+[50:50 - 50:53] assim como eu falo, aí braga, fala, não!
+[50:53 - 50:56] Paz, fazia as minhas redes.
+[50:56 - 50:58] tem acontecido muita coisa com ela.
+[50:59 - 51:01] Um outro aspecto que tem
+[51:01 - 51:03] abactado muito
+[51:06 - 51:08] eu não sou um cara assim, inculto demais não, tá?
+[51:08 - 51:10] Eu sou como vocês, normal, tá?
+[51:10 - 51:12] Mas eu não estou lendo aí um livro do
+[51:12 - 51:14] autoroso, como a casa
+[51:14 - 51:16] chamado Don't Toy Abyss, que é um cara famoso,
+[51:16 - 51:18] eu queria me encaixar nessaquele...
+[51:18 - 51:20] Eu igual de letra, eu lendo nessaquele...
+[51:20 - 51:22] Aí eu peguei, a gente recebe esses postes,
+[51:22 - 51:24] e me mandaram uma
+[51:24 - 51:27] com a reportagem desse cara, esse é o todo ao espécie,
+[51:27 - 51:31] quer dizer, o seguinte, olha, é mais válido,
+[51:31 - 51:37] qual longo sentiu mais satisfação no processo,
+[51:37 - 51:43] na navegação do que quando chegou na América?
+[51:46 - 51:53] O processo que ele seguiu foi mais afiante do que tinha criatividade, tinha desafio,
+[51:53 - 51:59] foi mais animador para ele, mais satisfatório do que simplesmente quando ele chegou.
+[52:01 - 52:03] Aí, constantemente, recebi um outro,
+[52:03 - 52:05] ele é um monstro aqui do burco,
+[52:05 - 52:06] que eu não sei o que é que ele manda nessas coisas,
+[52:06 - 52:08] mas ele manda e acaba sendo legal.
+[52:09 - 52:10] O outro do Gandhi, né?
+[52:10 - 52:11] O Gandhi é mais conhecido, né?
+[52:11 - 52:13] O aquele que passa fijo, de antes,
+[52:13 - 52:15] dizendo a mesma coisa.
+[52:16 - 52:18] O que tem a ver com a Engal?
+[52:18 - 52:19] Tem muita gente,
+[52:19 - 52:25] E eu conheci um cara que fez um painel, uma vez no banco, no evento, um...
+[52:25 - 52:30] André Dalólio, eu não estava lhe rando, ele tem um podcast sobre tecnologia bem legal,
+[52:30 - 52:34] o podcast dele, aí ele foi convidado para um painel lá no banco e eu participei da mesa com ele.
+[52:34 - 52:38] E ele me dizia a mesma coisa, isso faz dois anos já, o Zanichano.
+[52:38 - 52:45] Eu não peço pra ir a fazer ele, sabe porque? Porque eu quero ter a satisfação de fazer.
+[52:45 - 52:50] Não é porque ela faz, não é porque aquilo não fui eu que fiz.
+[52:50 - 52:55] E aí está gerando alguns problemas, né?
+[52:55 - 52:58] Pode gerar alguns problemas dentro da empresa.
+[52:58 - 53:00] O que é o desistimo da pessoa.
+[53:00 - 53:02] A pessoa não está usando mais a criatividade, né?
+[53:02 - 53:05] Ela está terceirizando a criatividade.
+[53:05 - 53:07] Mas, porra, o que é que ela faz isso aqui?
+[53:07 - 53:09] É vossa e graça.
+[53:09 - 53:14] Tem empresa contabilizando quantos toques os funcionários usam.
+[53:14 - 53:18] Por que quem está usando pouco toque, está trabalhando um pouco com IAP?
+[53:18 - 53:20] As empresas estão dando um tiro no pé.
+[53:21 - 53:23] Então é uma coisa descalibrada.
+[53:24 - 53:31] Mas a humana é assim, ele descalibra e em algum momento ele normaliza com leis.
+[53:32 - 53:35] Mas o stragg pode ser grande, já ter sido grande.
+[53:35 - 53:40] A ganância do teio dá de construir.
+[53:40 - 53:42] E a ganância a gente está...
+[53:42 - 53:44] Sabe o que é ele?
+[53:44 - 53:45] E aí você se estimula.
+[53:45 - 53:47] Aí o teio de construir.
+[53:47 - 53:48] É isso.
+[53:48 - 53:49] É isso aí, antes.
+[53:49 - 53:50] É isso aí.
+[53:50 - 53:51] E é isso aí.
+[53:51 - 53:52] É isso aí.
+[53:52 - 53:53] É isso aí.
+[53:53 - 53:54] Ganância do teio?
+[53:54 - 53:55] Poxa.
+[53:55 - 53:57] Vamos com o processo.
+[53:57 - 53:59] O que pode ser que eu soube?
+[53:59 - 54:08] E aí a arte para o reiço. Ela te dá os poucos.
+[54:08 - 54:16] Então, pessoal, assim, não conhece eu sabe de vocês por que é minha área. Eu fico até assim para falar isso porque eu falo isso dentro do banco também, né?
+[54:16 - 54:20] Eu sou do área de inovação, sou que eu sou de TI, né?
+[54:20 - 54:23] Mas eu gosto de falar esse tipo de coisa.
+[54:23 - 54:29] Príncipe, legis, leitura, cultura, dança,
+[54:29 - 54:31] mas custo de dança aqui com um...
+[54:33 - 54:36] Leia, sabe?
+[54:36 - 54:39] Ah, eu sou de TI, eu quero só aprender linguagem,
+[54:39 - 54:41] eu quero só aprender...
+[54:41 - 54:43] Legal.
+[54:43 - 54:46] Mas saiba que isso é só uma parte da história.
+[54:46 - 54:49] A outra parte você precisa dar atenção.
+[54:49 - 54:56] Eu não vou te dizer isso, mas eu vou falar isso em algum momento.
+[54:56 - 54:59] Se algum outro se mexe para frente e eu começar a falar isso,
+[54:59 - 55:01] aí você diz assim que eu sou ser afalou.
+[55:01 - 55:03] Você vai falar que eu sou fulano.
+[55:03 - 55:05] Já falou isso.
+[55:05 - 55:09] Mas vamos para a frente aqui, porque eu tenho muitas outras cores mais ao momento.
+[55:09 - 55:11] Então, na linha de algoritmos é isso.
+[55:13 - 55:17] E na linha de sistemas você vai ver em diário de sol.
+[55:17 - 55:21] na linha de dados, que é a própria sacada, é a mesma lógica.
+[55:22 - 55:23] Qual é o...
+[55:23 - 55:27] Vou já mostrar aqui o esquemia, qual é o...
+[55:30 - 55:33] Nosso produto final, nosso produto final
+[55:33 - 55:39] é ter um banco de dados, seja logo que significa isso, mas é simples entender,
+[55:39 - 55:44] um banco de dados é uma área de software
+[55:44 - 55:49] em que tem vários conjuntos de informações que ele atenta.
+[55:49 - 55:51] Vai ver esse conceito melhor na...
+[55:51 - 55:53] A gente abri aqui o material.
+[55:53 - 55:56] Ativemente eram vários arquivinhos, né?
+[55:56 - 55:59] O banco de dados sempre existe na vida? Não, é?
+[55:59 - 56:02] Esse banco de dados, desse modelo que é usado aqui hoje,
+[56:02 - 56:05] que ele se estabeleceu em 1980 pra cá,
+[56:05 - 56:07] é uma coisa atemporal também,
+[56:07 - 56:11] não vejo como mudar daqui pra frente, pode mudar, mas...
+[56:11 - 56:14] Só existe esse tipo de barco de dados? Não, existe outros,
+[56:14 - 56:17] Mas esse que a gente vai ver, que é o banco de dados relacional,
+[56:17 - 56:22] é o que mais domina o mercado, é o que é mais necessário, hoje em dia você aprende.
+[56:24 - 56:29] O banco de dados, então, é uma área, um software,
+[56:29 - 56:32] o banco de dados é um sistema, um sistema de generações de qualidade.
+[56:32 - 56:35] É um sistema também, tem programas,
+[56:35 - 56:38] e nesse sistema, lá dentro, tem as suas tabelas.
+[56:38 - 56:41] Tabelas são os seus conjuntos de informação.
+[56:41 - 56:43] Então, qual é o produto final?
+[56:43 - 56:51] O produto final é você criar tabelas que atendam a necessidade do usuário.
+[56:53 - 56:54] Onde começa?
+[56:55 - 56:57] Sempre o desgraçado, no usuário.
+[56:58 - 57:02] O usuário diz, eu quero, e nós vamos fazer esse fluxo aqui na cadeira.
+[57:04 - 57:09] Eu quero que você faça o sistema que permita emitir um relatório
+[57:09 - 57:17] porque niste as cadeiras, os alunos de cada cadeira no mesmo relatório.
+[57:17 - 57:30] As cadeiras, os alunos que freclaram a cada cadeira, que para cada aluno anota na cadeira.
+[57:30 - 57:34] Em cada semestre, só necessidade dos guapos. Ele diz isso para ti.
+[57:34 - 57:55] Eu falei o fluxo de algoritmo, agora eu falei o fluxo de dados. Você vai entender o que é isso, para entender você faz um exemplo, você pega e faz um desenho desse relatório, simula alguns dados, a gente faz na exceção mesmo, entendi.
+[57:55 - 58:05] Você vai para a segunda etapa, você vai para a etapa de modelagem.
+[58:05 - 58:11] Na modelagem, via de regra, vai acontecer três coisas.
+[58:11 - 58:13] De forma geral.
+[58:13 - 58:22] Primeiro, você vai ter que analisar para atender esse relatório do usuário que conjunto de
+[58:22 - 58:29] informações e aí quando eu falar agora conjuntas informações eu vou falar tabela tabela conjuntas
+[58:29 - 58:35] informações tabela entidade toda a mesma coisa conjuntas informações então eu vou precisar de uma
+[58:35 - 58:42] tabela ou seja de uma conjuntas informações sobre as cadeiras eu vou precisar de uma conjuntas
+[58:42 - 58:51] informações sobre os alunos sobre as notas dos alunos sobre identificar os conjuntas informações
+[58:51 - 58:54] Você começou a modelar essa etapa 2.
+[58:54 - 58:58] Depois você vai identificar, ainda como o pai da modelagem,
+[58:58 - 59:03] em cada conjunto de informações desses, quais são os atributos,
+[59:03 - 59:05] ou cantos, e já é isso.
+[59:05 - 59:08] Na tabela, alunos.
+[59:08 - 59:11] Que informações dos alunos eu preciso.
+[59:11 - 59:15] Ah, eu preciso da matrícula do aluno, é um atributo.
+[59:15 - 59:20] Eu preciso do nome do aluno, é outra tributa.
+[59:20 - 59:24] E o tipo dessa...
+[59:24 - 59:26] Você já ouviu o tipagem?
+[59:26 - 59:28] Isso é a mesma lógica.
+[59:28 - 59:32] Isso aqui é um inteiro, isso aqui é um real, isso aqui é uma característica.
+[59:32 - 59:36] Ainda na modalagem você faz a próxima pergunta.
+[59:36 - 59:38] Que essa é chave.
+[59:38 - 59:42] Como esses dados se relacionam?
+[59:42 - 59:46] Aí você vai tentar identificar o relacionamento entre os dados.
+[59:46 - 59:53] que respondam ou melhor, que permitem emitir aquele requisito, aquele relatório.
+[59:53 - 60:03] Parece que um sistema simples não tem só um relatório, o sistema tem 50 relatórios.
+[60:03 - 60:09] 50 relatórios que geram a necessidade de você ter 80 taberas.
+[60:09 - 60:19] cada tabela 70 tributos, o sistema corporativo, o banco nordeste, cenário, empresas médias,
+[60:19 - 60:27] não são grandes, imagine um sistema da Amazon, o Netflix, eu estou falando para qualquer
+[60:27 - 60:35] sistema, o sistema bom banco nordeste tem aproximadamente 400 sistemas, cada sistema
+[60:35 - 60:42] uma destra tem aproximadamente uns 70 tabelas, cada tabela, 80 tabelas, alguns mais outros
+[60:42 - 60:52] menos, 80 tabelas, cada tabela uns 60 tributos, imagine a complexidade sobre tudo, por isso
+[60:52 - 60:56] é que precisa ser pensado, mas vamos voltar para o nosso mundo, então no termo requisito
+[60:56 - 61:01] dediquem mais tabelas, os atributos e vamos nos perguntar sobre os relacionamentos, a
+[61:01 - 61:04] pegar um requisito para fazer essa construção.
+[61:06 - 61:11] Aí você vai analisar. Bom, alunos do que o usuário quer e alunos do que eu entendia,
+[61:12 - 61:17] você vai falar com ele, certo? Porque ele é que sabe. Outro detalhe, quem sabe é o usuário.
+[61:17 - 61:21] Ah, não, eu tenho certeza que ele não. Mas claro que não, tem nada claro.
+[61:21 - 61:25] Você vai perguntar. Mas é óbvio, não é como é que pode você...
+[61:25 - 61:37] É, um aluno então, eu imaginei que um aluno podia fazer mais de uma cadeira, mas normalmente
+[61:37 - 61:39] assim, vai lá, não é!
+[61:39 - 61:43] E aí, vai mandar o carro mudar?
+[61:43 - 61:48] Então não tem assim, normalmente, você vai lá, confira.
+[61:48 - 61:52] E aí tem gente, usuário, moeducado, bruto, etc.
+[61:52 - 61:55] Aí o cara pode mais claro que é, então achar que era como?
+[61:55 - 61:59] Aí você, ele é seu cliente, você vai ter que manter
+[61:59 - 62:02] aí aquele aspecto relacionamento, ninguém sabe
+[62:02 - 62:05] Ninguém tem direito de ser mais educado com você no degresso
+[62:05 - 62:09] mas você, olha, calma, né, o computador, você tem que ser o que você tem
+[62:09 - 62:12] você não pode se falar, vai gritando por cara
+[62:14 - 62:15] É isso, então você vai relacionar com gente
+[62:15 - 62:19] Então é você, confirma, então você começa a entender os relacionamentos
+[62:19 - 62:31] Vamos lá, uma cadeira, uma cadeira tem quantos professores?
+[62:31 - 62:38] Ah, uma cadeira só tem um professor, ou não, lá ele me disse que uma cadeira pode ter três professores.
+[62:38 - 62:42] Bom, lá é assim, não sei, uma cadeira tem três professores.
+[62:42 - 62:49] Então você até um relacionamento entre a tabela de cadeiras e a tabela de conversões.
+[62:49 - 62:53] Agora você vai analisar o relacionamento entre professores e disciplinos.
+[62:53 - 62:58] Um professor lá só faz os hoministas uma um de suprim.
+[62:58 - 63:00] Sei lá por que.
+[63:00 - 63:02] Então um professor, um professor.
+[63:02 - 63:07] Então você vai fazendo um estudo do relacionamento e das informações.
+[63:07 - 63:11] E você só vai relacionar uma tabela A com a tabela B
+[63:11 - 63:14] se for necessário para responder o requisito.
+[63:17 - 63:22] Você não vai, por exemplo, relacionar aluno com nota
+[63:22 - 63:28] se o requisito dele não quiser que ele se exponha às notas do aluno.
+[63:29 - 63:31] Mas ele tem que querer, mas ele não quer.
+[63:31 - 63:34] Aí ele vai gastar dinheiro, gastar tempo,
+[63:34 - 63:36] ele não quer aquilo ali, e vai fazendo do mesmo jeito.
+[63:36 - 63:40] Não, mas eu acho que ele deveria querer, não, você vai lá e você vai tudo que ele ia,
+[63:40 - 63:45] que mostrando as novas, vocês não pernamo, porque eu tenho outro sistema aí, pronto.
+[63:45 - 63:50] Isso é muito melhor do que você fazer, aí chega lá e diz assim, olha, foi o negócio até melhor pra ti,
+[63:50 - 63:54] eu botei aqui as notas dos alunos, eles são ratinhas, eles não vão pagar por isso não.
+[63:54 - 64:00] Inclusive, tu demorou mais pra fazer isso aqui, eu não disse pra você fazer, então, aí tu se lasque, certo?
+[64:00 - 64:06] Se você tiver a sorte, seu pessoal educado, até que ele vai ter mais cuidado com ti, você sabe?
+[64:06 - 64:08] senão ele vai tentar tornar um pouquinho mais forte.
+[64:08 - 64:12] Então você não se complica, conversa, acessina,
+[64:13 - 64:15] vai tranquilo.
+[64:15 - 64:18] Quando você começar, obviamente você vai ser acompanhado
+[64:18 - 64:21] no cá de gente, vão te orientar, não é assim também,
+[64:21 - 64:23] você não vai, né?
+[64:23 - 64:25] No cá de Leão aqui dentro da minha porta,
+[64:25 - 64:26] te joga e fecha a porta, não, né?
+[64:26 - 64:29] Se não, se você tiver uma empresa que é descendo,
+[64:29 - 64:31] você sai dessa empresa, sério?
+[64:31 - 64:32] É bom, sério.
+[64:32 - 64:33] Mas não é assim que funciona.
+[64:33 - 64:41] Pessoal vai, vai te perguntando, você vai perguntando, você tem o direito de errar, você tá falando, certo?
+[64:41 - 64:45] Mas bem, depois que você identifica os relacionamentos, você faz um modelo.
+[64:45 - 64:49] Existe um assim, um syntax, um padrão.
+[64:49 - 64:53] Esse modelo se chama modelo de entidade e relacionamento.
+[64:53 - 64:57] Esse cara é desde 1980.
+[64:57 - 64:59] Esse cara não tem prazo para mudar.
+[64:59 - 65:05] Ele tem um irmão muito parecido, que é o diagrama de classe, que a gente paguei na
+[65:05 - 65:10] carregade de sol. É mais ou menos a mesma filosofia, apesar do diagrama de classe,
+[65:10 - 65:15] ter outras coisas. Mas é mesma lógica, mais ou menos. Mesma lógica, mesmo raciocínio.
+[65:15 - 65:20] Veja que até agora a gente não ligou a máquina. Tudo isso que eu estou falando, você podia
+[65:20 - 65:25] fazer no papel. Excel é uma ferramenta que ajuda, né? Ferramenta é só para ajudar
+[65:25 - 65:28] operacional, mas tudo isso é a tua cabeça.
+[65:28 - 65:35] Depois que você faz o modelo, aí nós estamos se aproximando da vergonha.
+[65:35 - 65:45] Vamos materializar esse modelo no banco de dados, que aí é onde fortemente toda aula
+[65:45 - 65:47] a gente vai usar o banco de dados.
+[65:47 - 65:48] Então o que vai acontecer?
+[65:48 - 65:52] Vamos pegar o modelo e diz que tem que ter essa tabela.
+[65:52 - 65:56] Show. Como é que eu fio essa tabela do nosso nosso atrâneo como a do nosso que era o sérbio?
+[65:56 - 66:02] E faz isso? Temos diversas situações, diversos sintaxos, mas vamos ver algumas, não dá pra entender todas.
+[66:02 - 66:06] E na verdade nem eu sei todas, mas aí a internet ajuda.
+[66:06 - 66:09] E aí você vai ver essa sintaxa que é aquela tabela.
+[66:09 - 66:13] Ah, esse relacionamento. Ah, essa é a restrição. Então você vai bater ela e vai isso.
+[66:13 - 66:19] Depois nós vamos ser lidados, atualizar dados, excluir dados.
+[66:19 - 66:23] depois na roda consultar, cruzar a informação das tabela.
+[66:23 - 66:26] E aí nós estamos chegando no pássaro na final da cadeira, certo?
+[66:26 - 66:28] Então é essa jornada, veja bem,
+[66:28 - 66:31] onde é que está a parte mais inteligente?
+[66:31 - 66:34] Quando eu falei de algoritmo, onde é que estava a parte mais inteligente?
+[66:34 - 66:40] Entre identificação do problema e elamoração da lógica,
+[66:40 - 66:42] nem que seja importum bom.
+[66:42 - 66:46] Traduzir para o ser, para qualquer um fazer.
+[66:46 - 66:48] Mas você vai fazer também.
+[66:48 - 66:50] Ou queira a gente pagar por isso, certo?
+[66:51 - 66:56] Na lógica de dados, entre entender o problema e chegar lá no modelo.
+[66:56 - 66:59] Aqui está a inteligência, aqui está o projeto.
+[66:59 - 67:02] Você também vai transformar em loja de dados.
+[67:02 - 67:04] Qualquer um podia fazer.
+[67:04 - 67:06] A inteligência está no projeto.
+[67:06 - 67:08] Voltando para a engenharia, onde é que está a inteligência?
+[67:08 - 67:13] A inteligência está entre entender o que você quer dar sala e desenhar as plantas.
+[67:13 - 67:15] E fazer os modelos.
+[67:15 - 67:24] quando a gente está começando a gente pro dia a dia é essa segunda tal
+[67:24 - 67:30] qualquer um que vai ter mais estágio eu quero que vocês podem ficar aqui
+[67:30 - 67:37] é legal você vai, mas você não entra no campo da cereia
+[67:37 - 67:39] caminhe nessa direção
+[67:41 - 67:43] vamos faltar alguns gatos, alguns muracos aqui
+[67:44 - 67:47] e você vai ir para a letra fazendo essa formação do conhecimento
+[67:48 - 67:50] e você está aqui para isso
+[67:51 - 67:53] porque você vai ter vantagem
+[67:53 - 67:55] para as outras por causa disso
+[67:55 - 67:57] senão você está perdendo tempo
+[67:58 - 67:59] e aí de novo
+[67:59 - 68:01] para liberar vocês
+[68:01 - 68:03] se aqui nessa jornada dos dados
+[68:03 - 68:05] tu pega o problema
+[68:05 - 68:07] e joga no chat ele vai te dar um modelo.
+[68:09 - 68:11] E todo esse caminho,
+[68:13 - 68:19] que tem uma série de porém, de detalhes, de dicas,
+[68:21 - 68:22] você e pai passou.
+[68:23 - 68:25] E aí você vem aquela vela justificativa,
+[68:25 - 68:28] tem uma cadeira de fraude, lá tem um...
+[68:28 - 68:31] um detalhe de fraude que é o arraso...
+[68:31 - 69:01] Ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah
+[69:01 - 69:08] inteiro desse jeito, eu acho que não é o mesmo efeito, mas eu não sou muita gente, ok?
+[69:08 - 69:15] Não sou mesmo, mas eu tenho muito estudioso ali, muita faculdade grande, muito
+[69:15 - 69:24] pesquisador, muito corporações dizendo isso, e eu estou trazendo pra vocês porque eu leio eles falando isso.
+[69:24 - 69:32] Apesar de eu concordar plenamente, eu já tinha esse receio há algum tempo.
+[69:32 - 69:40] Se for um pouco mais jovem, pior, então a gente pode estar, você vê que é catastrófico,
+[69:40 - 69:48] só mesmo para se mostrar, a gente pode estar destruindo a humanidade,
+[69:48 - 69:56] de modo está criando o fim do porteiro, mas pessoas não vão ter mais capacidade,
+[69:56 - 70:00] porque a láquica vai substituir a gente no raciocínio.
+[70:00 - 70:06] Isso é por isso que está saindo, está algumas notícias que o queita os filhos são bem
+[70:06 - 70:09] rabásticos dos pais, atualmente.
+[70:09 - 70:11] É nessa língua.
+[70:11 - 70:17] Existe, eu que vou falar agora é uma viagem minha, a gente tem muito viagem,
+[70:17 - 70:21] pode ser, e isso que eu vou falar, eu nunca li em canto nenhum.
+[70:21 - 70:23] Agora, vou falar agora.
+[70:23 - 70:27] Pode ser que a gente esteja criando ou melhor, que esteja surgindo.
+[70:29 - 70:33] Não é uma nova raza, mas é uma mudança com o ser humano,
+[70:33 - 70:39] que não quer dizer que ele seja pior ou melhor, mas ele muda,
+[70:39 - 70:43] ele não tem tanto o que ir, ele tem outra comissão diferente,
+[70:43 - 70:48] mas ele vai ter uma máquina que vai suprir isso de forma plena.
+[70:48 - 70:52] O problema aqui, há uma dúvida se ela vai suprir de forma plena.
+[70:52 - 70:54] O que essa máquina faz é calcular.
+[70:54 - 70:56] Tudo que ela faz é matemática.
+[70:56 - 70:58] Ela não pensa.
+[70:58 - 71:02] Vai ter as histórias dos chips biológicos, que é outra história,
+[71:02 - 71:04] mas ela não pensa.
+[71:04 - 71:07] Então ela é muito pouco que faz, é impressionante o que ela faz.
+[71:07 - 71:09] Realmente é impressionante.
+[71:09 - 71:13] e eu olhando os resultados e vendo a lógica dos algoritmos que eu estudei,
+[71:13 - 71:15] e eu sei como é que chega aqui,
+[71:15 - 71:17] realmente é impressionante,
+[71:17 - 71:21] mas isso é uma parte de uma grande história da capacidade do ser humano.
+[71:21 - 71:25] Esse outro ser humano vai ser diferente,
+[71:25 - 71:27] e mesmo assim vai viver bem,
+[71:27 - 71:29] pode ser, não sei.
+[71:29 - 71:31] Aí eu vou dizer, hoje ela já te fala,
+[71:31 - 71:33] é muito esquisito tudo isso,
+[71:33 - 71:37] então, assim, não adianta muito identificar logo o branco sobre isso,
+[71:37 - 71:42] porque vocês confundam se é Platão ou Socrates, é você que não era discípulo do outro.
+[71:42 - 71:48] Quando supor para o Socrates, fosse o Mestre ou o Platão, e eles discutiam o conhecimento
+[71:48 - 71:52] por meio da conversa. Então não diziam a emeutica.
+[71:52 - 71:56] Emeutica. Emeutica. Emeutica. Conversa.
+[71:56 - 72:02] E aí houve uma evolução tecnológica, começou a aparecer a escrita.
+[72:02 - 72:09] E aí um mestre diz, vamos perder a congnição,
+[72:09 - 72:10] lembra o que o pessoal fala?
+[72:10 - 72:12] Vai prejudicar.
+[72:12 - 72:14] Por que, mestre?
+[72:14 - 72:19] Porque as pessoas, o conhecimento e o desenvolvimento, parece que eu falo aqui, né?
+[72:19 - 72:21] O desenvolvimento e a congnição, etc., etc.
+[72:21 - 72:27] Vem dessa discussão, no momento que a gente vai ler e não vai discutir, a gente perde um pouco desse valor.
+[72:27 - 72:30] Pode até ser verdade, pode não ser, ninguém sabe.
+[72:30 - 72:34] Mas aí vem um contraponto, então toda evolução você vai ficar...
+[72:34 - 72:39] Você vai negar a escrita porque tem esse risco?
+[72:39 - 72:41] Você vai negar e há porque tem esse risco?
+[72:41 - 72:43] As coisas podem se acomodar.
+[72:43 - 72:48] Dialética é quando você conversa para chegar em conclusões.
+[72:48 - 72:51] E é minute que é quando você interpreta os textos.
+[72:51 - 72:53] É pá, platão soca de...
+[72:53 - 72:56] Platão era mestre de sóculo.
+[72:56 - 72:59] Então assim, isso é muito polêmico, né?
+[72:59 - 73:06] Mas nós precisamos nos ader ao que a gente acredita e o que estamos estudando.
+[73:06 - 73:12] Então, para deixar uns falar, a gente repirei.
+[73:12 - 73:15] A hora da América.
+[73:15 - 73:23] A gente fez um barulho aqui, para ficar mais no meio.
+[73:23 - 73:25] Eu não sei o que eu estou fazendo.
+[73:25 - 73:27] Eu não sei o que eu estou fazendo.
+[73:27 - 73:29] Eu não sei o que eu estou fazendo.
+[73:29 - 73:31] Eu não sei o que eu estou fazendo.
+[73:31 - 73:33] Eu não sei o que eu estou fazendo.
+[73:33 - 73:35] Eu não sei o que eu estou fazendo.
+[73:35 - 73:37] Eu não sei o que eu estou fazendo.
+[73:37 - 73:39] Eu não sei o que eu estou fazendo.
+[73:39 - 73:41] Eu não sei o que eu estou fazendo.
+[73:41 - 73:43] Eu não sei o que eu estou fazendo.
+[73:43 - 73:45] Eu não sei o que eu estou fazendo.
+[73:45 - 73:47] Eu não sei o que eu estou fazendo.
+[73:47 - 73:49] Eu não sei o que eu estou fazendo.
+[73:49 - 73:51] Eu não sei o que eu estou fazendo.
+[73:51 - 73:59] Então assim, de toda forma, a despede toda polêmica,
+[73:59 - 74:01] isso e aquilo não é, não é, não é, não é, não é.
+[74:02 - 74:09] A orientação, nesse momento, realmente, seguiu o processo.
+[74:10 - 74:16] Pegar o problema, essa cadeira, jogar no chat, ele gerar um modelo.
+[74:16 - 74:23] você ficar feliz sem saber como é que Colondo chegou na América não fica
+[74:23 - 74:31] se você faz um programa problema faz um problema esquece aí agora um pouquinho
+[74:31 - 74:36] deu certo, você seguiu todo fluxo
+[74:36 - 74:38] Pô, trato, dedete, o que?
+[74:38 - 74:40] Falei com a Junae, a Néira, a Cráá, que tal.
+[74:40 - 74:41] Funcionou.
+[74:43 - 74:48] Se você um programa seu, funcionou e você não sabe por que ele funcionou,
+[74:50 - 74:51] não fique feliz.
+[74:53 - 74:56] Ah, pessoal, mas é porque um chefe funcionou,
+[74:56 - 74:58] eu não entendi ainda por que,
+[74:59 - 75:01] tá difícil, mas eu tenho que entregar, né?
+[75:02 - 75:03] Vai na fé e entrega esse negócio.
+[75:04 - 75:05] Mas não fique feliz.
+[75:06 - 75:11] Você não pode perder o protagonismo de nada.
+[75:11 - 75:14] Você tem que estar entendendo tudo que está fazendo.
+[75:14 - 75:17] Então, se tem alguém que faz com você, show de bola,
+[75:17 - 75:19] como tem que você saiba o que é que ele está fazendo?
+[75:19 - 75:22] Quando a gente tem contrato lá no banco, tem muito contrato,
+[75:22 - 75:26] tem contrato do pônei cedor para tratar de cuidar de um setor.
+[75:26 - 75:29] Aí você não deixa ele fazendo e fica aqui só pegando o resultado, não.
+[75:29 - 75:31] Você tem que saber o que é que ele está fazendo.
+[75:31 - 75:35] Então, assim, a gente não pode perder o protagonismo de nada.
+[75:35 - 75:39] Então a ferramenta que faz com que a gente pede, plantar o giz, a gente tem que ter cuidado com ela.
+[75:39 - 75:44] Então assim, eu acho que é diferente da espeta do Platão da Hermeneu.
+[75:44 - 75:49] Só para contextualizar a história, não existem textos de Platão.
+[75:49 - 75:52] Os textos foram escritos por Sócrates.
+[75:52 - 75:55] Talvez até por causa dessa esfera de pensamento.
+[75:55 - 75:58] Ele não gostava, ele queria ficar batendo papo.
+[75:58 - 75:59] Diga aí.
+[75:59 - 76:05] O seu tal é um sobre a gente, no tempo, que é mais vulgo, né?
+[76:05 - 76:09] Tem um filme que é idiota, idiotracia.
+[76:09 - 76:14] Que é a raça humana que fica representante da mesma.
+[76:14 - 76:19] A gente acaba parando de tomar asa e tomando a gente.
+[76:19 - 76:24] E outras coisas que eu conheci dentro do filme, que a gente vê assim, é indecílio.
+[76:24 - 76:25] É indecílio.
+[76:25 - 76:27] Mas porque o ser humano para de pensar.
+[76:27 - 76:36] Mas isso está sendo muito alertado, as empresas grandes, os grandes, né, Google, a W, eles estão vendo isso.
+[76:36 - 76:43] E aí o pessoal está começando a... Agora, o problema é porque tem muito gente, sempre foi.
+[76:43 - 76:51] E aí tem uma ferramenta que resolve essa urgência. Quando resolve essa urgência, a empresa, já que se resolve, bota mais 8 urgências.
+[76:51 - 76:56] e aí tu vai voltar no ciclo porque o pessoal só quer ganhar dinheiro.
+[76:56 - 76:58] Mas nem isso também, né, professor?
+[76:58 - 77:05] Então, em um caso exemplo, eu preciso de 10 programadores para fazer ali tudo no raciocínio dele.
+[77:05 - 77:11] Se eu... e há muitas empresas onde eu pegue que o programador utilize aia,
+[77:11 - 77:17] então de vez eu pegar 10, eu vou pegar só 5, porque o justo vai ser melhor e vai me dar o mesmo retorno, né?
+[77:17 - 77:19] É isso, é isso.
+[77:19 - 77:25] Eu acho que essa discussão já está aberta há muito tempo,
+[77:25 - 77:27] só que a gente não para para pensar nisso.
+[77:27 - 77:28] É uma intenção.
+[77:28 - 77:32] A Disney tem vários livros que retrasam da mesma discussão.
+[77:32 - 77:37] Por exemplo, aquele filme que o robôzinho pega o lixo e ropa o tempo dele,
+[77:37 - 77:41] o olho também ele está afastando.
+[77:41 - 77:44] A gente só gera lixo, olha, lixo e pensado.
+[77:44 - 77:47] Você dá o perfeito, se estou falando.
+[77:47 - 77:50] E eu tenho assim...
+[77:50 - 77:53] Às vezes eu falo isso aqui também, não é?
+[77:53 - 77:56] A inteligência do ser humano...
+[77:56 - 77:58] Claro que é boa, né?
+[77:58 - 77:59] Mas ela...
+[77:59 - 78:02] Se o ser humano fosse um pouquinho mais boa, era melhor.
+[78:02 - 78:05] Se isso aqui fosse só bicho,
+[78:06 - 78:10] a chance de destruir a terra era quase zero.
+[78:10 - 78:16] O homem é inteligente e ele faz muita coisa com benefício.
+[78:16 - 78:20] Faz muito e eu tenho dúvida se não faz mais com o mal-evisto que com o benefício.
+[78:20 - 78:25] Então se ele fosse um pouquinho menos inteligente, ele destruiria menos,
+[78:25 - 78:28] porque é uma grande contradição, porque os ser humanos são presidíveis,
+[78:28 - 78:31] é presidiero, enriqueza, ganância.
+[78:31 - 78:36] E o modelo, eu sou um bom reto, não é política, não é nada, não é partituado,
+[78:36 - 78:39] pelo amor do Deus, não é isso não, eu estou dizendo é só que
+[78:39 - 78:42] onde é que quer chegar com um tanto de
+[78:43 - 78:46] você vai lá em São Paulo e ele dorme e eu vou para esse
+[78:46 - 78:49] treinamento, mas não se preocupe, seja o feio do teu aqui
+[78:51 - 78:52] sem ter
+[78:52 - 78:56] paz cada, né, prende o cada casa imensa
+[78:56 - 78:57] e o negócio
+[78:57 - 79:00] para, aí você sai de casa
+[79:00 - 79:03] no seu peço, sai ali, o cara vai te mato
+[79:03 - 79:04] com chave
+[79:04 - 79:09] Sabe, um negócio assim, que não tem muita lógica, não tem lógica assim.
+[79:09 - 79:11] Não era pra ter, né?
+[79:11 - 79:13] Acho que era humano, um bicho.
+[79:13 - 79:15] Muito esquisito.
+[79:15 - 79:22] O próprio sistema é que vive, ele depende da ruísta também, né?
+[79:22 - 79:24] Ele depende da...
+[79:24 - 79:25] É?
+[79:25 - 79:26] Do caos.
+[79:26 - 79:28] Depende pra ele, exatamente.
+[79:28 - 79:31] Qual que é esse problema clássico do Nantesco?
+[79:31 - 79:40] Eu estou num banco que visa isso, desenvolveu Nordeste, e tem feito, eu estou lá dentro há 20 anos,
+[79:40 - 79:47] sou da IDTI, estou inovaçando, mas eu vejo, tem muita coisa séria do IDT, pessoal, eu fui da auditoria de IDT,
+[79:47 - 79:55] eu fui da auditoria, mas é de qualquer jeito, tem muito roubo, não é assim, não, mais claro,
+[79:55 - 80:00] forma mais geral já era pra também mais evoluída a educação do Nordeste, os problemas do Nordeste.
+[80:00 - 80:09] E aí eu lá como banco e também como senac, eu estou sempre conversando assim, a inovação
+[80:09 - 80:15] ela é o caminho, vocês, o empreendedorismo, com a pesquisa, aplicada nos problemas, é
+[80:15 - 80:21] um caminho pra ajudar nesse movimento e tem acontecido muito, né? O Nordeste só pede
+[80:21 - 80:23] para o Sudeste em quantidade de startups,
+[80:23 - 80:26] por mais que talvez não tenham uma vida tão longa
+[80:26 - 80:28] quanto os startups do Sul,
+[80:28 - 80:30] então tem muito incentivo para isso.
+[80:32 - 80:36] E assim, qual o próprio risco é vocês que
+[80:38 - 80:41] são a futura geração, porque daqui a 20 anos,
+[80:41 - 80:43] por mais que eu queira, eu vou ter que parar, né?
+[80:43 - 80:47] Vou ter 76 anos, apesar de eu achar isso uma injustiça,
+[80:47 - 80:49] na minha era eu ter 36 anos,
+[80:49 - 80:54] eu não vou dizer nem um palavrão, mas eu tenho que juriar com isso, mas é a vida, não tem
+[80:54 - 80:56] autorização, isso é coisa que está morrido, não é?
+[80:56 - 80:57] Mas morrido.
+[80:57 - 81:01] E eu vou parar aí, mostra a imediativa, vai parar, o fray vai parar, o possoubois vai
+[81:01 - 81:06] parar, porque naturalmente a gente para, mas vocês vão parar.
+[81:06 - 81:13] Então se a gente tem uma geração que não pensa que é refém de um AI, que eles desenvolvem
+[81:13 - 81:19] isso, que tudo que a gente está falando, cara, está bom, está bom.
+[81:19 - 81:21] Então, são vocês, tá?
+[81:21 - 81:23] Propaga isso.
+[81:23 - 81:25] Mas a gente vai ficar filozofando aqui em todo o tempo.
+[81:25 - 81:27] Não, eu gostaria muito, tá?
+[81:27 - 81:29] Mas, infelizmente, nós temos...
+[81:29 - 81:31] Quem vem para o party.
+[81:31 - 81:33] Eu vou lembrar vocês e aí a gente...
+[81:33 - 81:35] ...dez horas continuou, tá?
+[81:35 - 81:37] Beleza.
+[81:39 - 81:41] Aí, Leão, muito sobre isso.
+[81:41 - 81:43] Vocês são...
+[81:43 - 81:45] ...com propure sorte.
+[81:45 - 81:47] O que é o que é o Leão?
+[81:47 - 81:49] E o meu pássaro da minha filha?
+[81:49 - 81:50] Não, não.
+[81:50 - 81:51] Não esqueça.
+[81:51 - 81:52] Leandro.
+[81:52 - 81:53] Leandro.
+[81:53 - 81:54] Leandro.
+[81:54 - 81:55] Leandro.
+[81:55 - 81:56] Leandro.
+[81:56 - 81:57] Leandro.
+[81:57 - 81:58] Leandro.
+[81:58 - 81:59] Leandro.
+[81:59 - 82:00] Leandro.
+[82:00 - 82:01] Leandro.
+[82:01 - 82:02] Leandro.
+[82:02 - 82:03] Leandro.
+[82:03 - 82:04] Leandro.
+[82:04 - 82:05] Leandro.
+[82:05 - 82:06] Leandro.
+[82:06 - 82:07] Leandro.
+[82:07 - 82:08] Leandro.
+[82:08 - 82:09] Leandro.
+[82:09 - 82:10] Leandro.
+[82:10 - 82:11] Leandro.
+[82:11 - 82:12] Leandro.
+[82:12 - 82:13] Leandro.
+[82:13 - 82:14] Leandro.
+[82:14 - 82:15] Leandro.
+[82:15 - 82:16] Leandro.
+[82:16 - 82:18] Ainda ajuda também, sabe?
+[82:18 - 82:20] A memória é assim.
+[82:20 - 82:22] Olha a sério.
+[82:22 - 82:24] Olha a sério.
+[82:24 - 82:26] Olha, você tem melhor.
+[82:26 - 82:28] Eu vou para a própria Alexandre.
+[82:28 - 82:32] Já foi o seu nome? Rafael, Miguel, João, Bruno.
+[82:32 - 82:34] O que é isso?
+[82:34 - 82:36] Felipe?
+[82:36 - 82:38] Felipe.
+[82:38 - 82:40] O que é o que o Felipe diz?
+[82:40 - 82:42] Felipe.
+[82:42 - 82:44] Felipe.
+[82:44 - 82:46] E o...
+[82:46 - 82:48] E o...
+[82:48 - 82:50] E o...
+[82:50 - 82:52] E o...
+[82:52 - 82:54] E o...
+[82:54 - 82:56] E o...
+[82:56 - 82:58] E o...
+[82:58 - 83:00] E o...
+[83:00 - 83:02] Júlia!
+[83:02 - 83:04] É!
+[83:04 - 83:06] É!
+[83:06 - 83:08] É!
+[83:08 - 83:10] É!
+[83:10 - 83:12] É!
+[83:12 - 83:14] e se dava contra o problema.
+[83:14 - 83:18] Se não for a gente, não vai ser a gente.
+[83:18 - 83:20] Vai querer fazer a calma.
+[83:20 - 83:22] Ele não tem o ponto de vista de não querer fazer a alíquina.
+[83:22 - 83:24] Ele não tem o ponto de vista de não querer fazer a alíquina.
+[83:24 - 83:26] Ele não tem o ponto de vista de não querer fazer a alíquina.
+[83:26 - 83:28] Ele não tem o ponto de vista de não querer fazer a alíquina.
+[83:28 - 83:30] Ele não tem o ponto de vista de não querer fazer a alíquina.
+[83:30 - 83:32] Ele não tem o ponto de vista de não querer fazer a alíquina.
+[83:32 - 83:34] Ele não tem o ponto de vista de não querer fazer a alíquina.
+[83:34 - 83:36] Ele não tem o ponto de vista de não querer fazer a alíquina.
+[83:36 - 83:38] Ele não tem o ponto de vista de não querer fazer a alíquina.
+[83:38 - 83:40] Ele não tem o ponto de vista de não querer fazer a alíquina.
+[83:40 - 84:10] É, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é
+[84:10 - 84:11] Vérice?
+[84:11 - 84:12] É o Vérice?
+[84:12 - 84:13] Mateu Vérice?
+[84:13 - 84:14] Mateu
+[84:14 - 84:16] É o serpidolo do serpidolo do Vérice
+[84:16 - 84:18] É, eu também disse que tá de conversão com ele, mas...
+[84:18 - 84:20] É, é o que ele dizia, ó...
+[84:20 - 84:23] Fiquem ontem aí, ó, eles estão melhorando
+[84:23 - 84:24] A Foéu tá aí...
+[84:24 - 84:25] E o Mestre Alpão?
+[84:25 - 84:26] Isso é o Foéu, não, né?
+[84:26 - 84:28] Isso é o Ilianteio, né?
+[84:28 - 84:30] É, o Ilianteio
+[84:30 - 84:31] Ele tá aí, lá dentro
+[84:31 - 84:32] Ele não se sabe, não, acho lá dentro
+[84:32 - 84:34] Não, é o Láécio
+[84:34 - 84:35] Láécio, não, todo
+[84:35 - 84:36] Láécio, não
+[84:36 - 84:37] Vinicius?
+[84:37 - 84:38] Ah, o Láécio
+[84:38 - 84:40] E aí?
+[84:40 - 84:42] É aí.
+[84:44 - 84:46] Só mais o cavalo grande?
+[84:46 - 84:48] É isso, é que não é?
+[84:52 - 84:54] Ah, agora o cavalo grande, não chara.
+[84:54 - 84:56] É nóis que pensou.
+[84:56 - 84:58] Tá?
+[84:58 - 85:00] Tá, vamos jogar mal.
+[85:00 - 85:02] É não?
+[85:02 - 85:04] Na vi.
+[85:04 - 85:06] Pisa pela.
+[85:06 - 85:17] É, pessoal, assim, normalmente a regra é assim, você só tem falta.
+[85:17 - 85:18] Falta.
+[85:20 - 85:22] Com certeza tem prazer.
+[85:23 - 85:26] Se eu não me chamar, sério.
+[85:27 - 85:29] Se eu não chamar, você tem prazer.
+[85:29 - 85:31] Então, eu sei que você vai vir.
+[85:33 - 85:35] Se eu não me chamar, você tem prazer.
+[85:36 - 85:37] Tá bom?
+[85:37 - 85:39] Não gosta de trazer o vídeo mesmo.
+[85:39 - 85:40] Não, não.
+[85:40 - 85:41] Só para você.
+[85:41 - 85:42] Não, não.
+[85:42 - 85:43] Até o fim, né?
+[85:43 - 85:46] Ó, mas para esse sistema funcionar, tem que saber o nome da pessoa que está aqui.
+[85:46 - 85:47] É esse aqui.
+[85:47 - 85:49] Era esse aqui na lei, né?
+[85:49 - 85:52] Não, não.
+[85:52 - 85:54] Não arriscar.
+[85:54 - 85:56] Chama de Júnipe.
+[85:56 - 85:58] Não, eu preciso do primeiro nome, porque aqui é pelo primeiro nome.
+[85:58 - 86:00] Carlos.
+[86:00 - 86:02] Olha lá, também, tu não é louco, Paulo.
+[86:02 - 86:04] De manhã, Carlos.
+[86:04 - 86:06] Carlos Alberto.
+[86:06 - 86:08] Carlos Alberto deu o nome.
+[86:08 - 86:10] Marreira.
+[86:10 - 86:12] Tu é o que você chama o como?
+[86:12 - 86:14] Júnipe.
+[86:14 - 86:16] A gente tem um bote de junho, gente.
+[86:16 - 86:18] A gente tem um bote de junho, gente.
+[86:18 - 86:20] A gente tem um bote de junho, gente.
+[86:20 - 86:22] A gente tem um bote de junho, gente.
+[86:22 - 86:24] A gente tem um bote de junho, gente.
+[86:24 - 86:26] O que é?
+[86:26 - 86:28] O bote de junho, gente.
+[86:28 - 86:30] O que é?
+[86:30 - 86:32] É tipo o exemplo.
+[86:32 - 86:34] É tipo o exemplo.
+[86:34 - 86:36] É tipo o exemplo.
+[86:36 - 86:38] É tipo o exemplo.
+[86:38 - 86:40] É tipo o exemplo.
+[86:40 - 86:42] É tipo o exemplo.
+[86:42 - 86:44] Eu quero que o Brasil tenha um grande trabalho,
+[86:44 - 86:46] e que a gente tenha um grande trabalho,
+[86:46 - 86:48] e que a gente tenha um grande trabalho,
+[86:48 - 86:50] e que a gente tenha um grande trabalho,
+[86:50 - 86:52] e que a gente tenha um grande trabalho,
+[86:52 - 86:54] e que a gente tenha um grande trabalho,
+[86:54 - 86:56] e que a gente tenha um grande trabalho,
+[86:56 - 86:58] e que a gente tenha um grande trabalho,
+[86:58 - 87:00] e que a gente tenha um grande trabalho,
+[87:00 - 87:02] e que a gente tenha um grande trabalho,
+[87:02 - 87:04] e que a gente tenha um grande trabalho,
+[87:04 - 87:06] e que a gente tenha um grande trabalho,
+[87:06 - 87:08] e que a gente tenha um grande trabalho,
+[87:08 - 87:10] e que a gente tenha um grande trabalho,
+[87:10 - 87:12] O que é isso?
+[87:12 - 87:14] O Brasil é o UFO.
+[87:14 - 87:16] O que é isso?
+[87:16 - 87:18] O Brasil é o UFO.
+[87:18 - 87:20] O que é isso?
+[87:20 - 87:22] O que é isso?
+[87:22 - 87:24] O que é isso?
+[87:24 - 87:26] O que é isso?
+[87:26 - 87:28] O que é isso?
+[87:28 - 87:30] O que é isso?
+[87:30 - 87:32] O trabalho?
+[87:32 - 87:34] O que é isso?
+[87:34 - 87:36] O que é isso?
+[87:36 - 87:38] O que é isso?
+[87:38 - 87:41] Eu vou abrir a...
+[87:41 - 87:42] Sô, é...
+[87:42 - 87:47] Se aqui eu normalmente faço a mão aqui, porque eu gosto de construir, mas...
+[87:47 - 87:48] É...
+[87:50 - 87:57] Eu vou aproveitar que já está feito, então você não vai ler tudo não, porque vai esperando eu comentar.
+[87:57 - 87:58] É...
+[87:58 - 88:05] Feita essa primeira contextualização, essas orientações e tudo isso, de uma produtadora.
+[88:05 - 88:08] Aqui, eu vou explicar para você,
+[88:09 - 88:12] é de certa modéria, na 24 horas,
+[88:15 - 88:23] essas contextualizações, aqui vai tentar colocar essa cadeira no processo de desenvolvimento sol.
+[88:25 - 88:34] Existe dentro da grande área de sol, domínio de sol, sistemas, diversos processos.
+[88:34 - 88:45] O mais clássico é o processo de desenvolvimento de software, mas existem outros, existem diversos outros.
+[88:45 - 88:48] Você não precisa trabalhar no processo de desenvolvimento de software.
+[88:48 - 88:54] E o processo de desenvolver software não é só codificando, é, como eu falei na primeira etapa.
+[88:54 - 88:56] É muito mais do que isso.
+[88:56 - 89:01] O que eu falei é até mais importante do que codificar.
+[89:01 - 89:08] Então, mas essa cadeira está dentro, essa cadeira está dentro só do processo de desenvolvimento.
+[89:08 - 89:17] O Banco de Dados tem uma perna também em outros processos de TI, por exemplo, o processo de
+[89:17 - 89:24] operação de TI, que é o dia a dia da execução das rotinas de TI.
+[89:24 - 89:26] Isso não é desenvolvimento de só.
+[89:26 - 89:28] Isso é operação de TI.
+[89:28 - 89:36] E aí lá na operação de TEM tem um cara que cuida da saúde entre aspas dos bancos de dados.
+[89:36 - 89:38] É um especialista de bancos de dados.
+[89:38 - 89:43] Ele fica vendo se o servidor de bancos de dados está muito supercarregado, se está com espaço,
+[89:43 - 89:46] voltina de otimização, então tem uma série de ferramentas.
+[89:46 - 89:48] É uma formação para isso aí.
+[89:48 - 89:50] Não é o objetivo daqui.
+[89:50 - 89:56] O objetivo aqui é inserir os bancos de dados dentro do processo de desenvolvimento de sorte.
+[89:56 - 90:01] Mas você também pode ser uma pessoa de banco de dados que trabalha,
+[90:01 - 90:11] é uma pessoa de dele que trabalha no atendimento de serviços de DI ou de chamados de TDI.
+[90:11 - 90:13] É outra família atual.
+[90:13 - 90:17] Você vai diagnosticar o que está acontecendo, vai olhar o servidor,
+[90:17 - 90:21] ele vai falar com os especialistas de banco de dados, vai tentar resolver.
+[90:21 - 90:24] Não é aqui também essa cadeira.
+[90:24 - 90:38] Essa cadeira é você, é um desenvolvedor de sopa, é um engenheiro do sopa, que durante essa sua jornada você vai precisar modelar e criar os bancos de dados.
+[90:38 - 90:45] E saber comandos que insere em dados, comandos que atualizam dados e todo, comandos que consultam dados.
+[90:45 - 90:50] Então, como desenvolvedor, você vai precisar saber disso, que é onde essa cadeira se insere.
+[90:50 - 90:53] Então, nessa...
+[90:54 - 90:57] Aqui tem um processo de luaumede software.
+[90:57 - 90:59] Um processo de luaumede software.
+[91:00 - 91:03] É uma sequência de atividades que o objetivo é
+[91:04 - 91:06] partir do que o usuário quer, se eu fizer o visito,
+[91:07 - 91:09] e chegar no produto final, que é um sistema constrê-lo.
+[91:10 - 91:12] Esse é um processo. Várias atividades.
+[91:13 - 91:16] Esse processo, ele pode ser organizado de diversas formas.
+[91:17 - 91:19] Muitas formas, certo?
+[91:20 - 91:33] lá em 1970, mais ou menos, a computação ela nasceu aproximadamente em 1940 e 50.
+[91:33 - 91:38] A noção do que é um algoritmo nasceu antes do computador.
+[91:38 - 91:44] A necessidade e a ideia de uma sequência de passo para resolver problemas nasceu dentro da matemática.
+[91:44 - 91:53] A matemática às vezes, lá naquela época, na Oceania de Térrimo, por aí, existiam
+[91:53 - 91:57] métodos matemáticos que, para resolver um problema, você não fazia uma sequência
+[91:57 - 91:59] de passo que resolveu o problema.
+[91:59 - 92:04] Para resolver um problema, você, por exemplo, fazia um caminho indireto.
+[92:04 - 92:07] Você queria provar que essa parede era azul.
+[92:07 - 92:09] Você não provava que ela era azul.
+[92:09 - 92:12] você provava que se ela não fosse azul,
+[92:13 - 92:16] devaria a uma coisa, a uma contradição,
+[92:16 - 92:18] você provava pelo contrário.
+[92:18 - 92:19] Era um prova indireta.
+[92:20 - 92:23] Isso gerou uma série de problemas na matemática.
+[92:24 - 92:27] Terá de haver com a gente mais na origem da computação.
+[92:27 - 92:28] E aí o pessoal diz, não, rapaz,
+[92:28 - 92:30] para eu provar que isso aqui é azul,
+[92:30 - 92:32] eu vou seguir uma sequência de passos,
+[92:32 - 92:34] que eu parto aqui de verdades,
+[92:34 - 92:36] e nessa sequência de passos eu chegue
+[92:36 - 92:38] à conclusão matemática que esse negócio é azul.
+[92:39 - 92:43] E aí foi a origem do algoritmo, da ideia de algoritmo.
+[92:43 - 92:47] Também toda uma história, o febre aí, em cursos mais sentidos,
+[92:47 - 92:50] você vê essa história de encadeira chamada Teoria da Computação.
+[92:50 - 92:52] E é muito bacana, sabe? É muito legal.
+[92:53 - 92:55] Eu tenho até uma revestinha,
+[92:57 - 92:59] como se fosse uma revestinha em quadrinho,
+[92:59 - 93:01] que conta um pouco dessa história, sabe?
+[93:02 - 93:05] Vai bem, e da 1940, 1950, mais ou menos,
+[93:05 - 93:07] aí teve a ideia de criar o hardware, né?
+[93:07 - 93:16] No começo ele era com plug, que você plugava aqui, plugava ali, aquela configuração resolveu um problema muito bem
+[93:16 - 93:24] 1960, veio a ideia 40, 50 de alguns matemáticos, um deles chamado Von Neumann
+[93:24 - 93:28] Dia, pai, trabalha no salas de Tagosso, vamos fazer o seguinte, vamos fazer um rádio
+[93:28 - 93:33] que dentro dele tem um equipamento chamado processador
+[93:33 - 93:38] e nesse processador ele fica ligado a um outro equipamento chamado memória.
+[93:38 - 93:46] E na memória, em vez do programa second prunes, a gente vai lutar o código do problema dentro dessa memória
+[93:46 - 93:49] e aí tem algum unicário, então ele vou lutar essa arquitetura.
+[93:49 - 93:53] Em 1940, nossa sencora arquitetura de von Neumann.
+[93:53 - 93:58] Você vai ver depois. Essa arquitetura é a da hoje. Ela nunca mais mudou.
+[93:58 - 94:03] O que mudou foram evoluções, velocidade, equipamento, mas ainda não mudou.
+[94:03 - 94:09] Eu não vou continuar falando de IA, porque senão a gente vai retuar muito mais.
+[94:09 - 94:14] Por isso que essa máquina não vai substituir um homem da minha opinião, porque ela tem
+[94:14 - 94:15] uma arquitetura que tal curta.
+[94:15 - 94:16] E não que pensa.
+[94:16 - 94:17] Vai dizer aí.
+[94:17 - 94:19] É, isso é capaz de...
+[94:19 - 94:21] Arquitetura de computadores.
+[94:21 - 94:24] Seria outra cadeira de arquitetura de computadores.
+[94:24 - 94:25] Você vai falar um pouquinho disso.
+[94:25 - 94:35] Mas por que eu estou chegando nisso? Porque aí também essa arquitetura e aí eles, a indústria do hardware começou a evoluir muito.
+[94:35 - 94:46] Cada vez mais os próximos chips mais velozes, e aí a indústria do software, penando, penando em sentido.
+[94:46 - 94:53] demorava muito na produção, eu to lá em 1970, não to mais na linguagem de Márquina,
+[94:53 - 95:00] que era uma dificuldade, surgiu Cobol, linguagens antigas que já tinham WIFI, já tinham Wiley,
+[95:00 - 95:08] já tinha espariaves e isso que vocês viram, mas produzir software demorava muito, e aí
+[95:08 - 95:16] E aí criou-se em 1970, 80, uma coisa chamada...
+[95:16 - 95:19] ocorreu uma coisa chamada a crise do software.
+[95:19 - 95:20] Pode pesquisar, não é uma coisa?
+[95:20 - 95:21] Crise do software.
+[95:21 - 95:25] Então a crise do software era esse questionamento mundial de assim...
+[95:25 - 95:28] A página está devorando muito para fazer software.
+[95:28 - 95:30] Era... Não tinha internet, né, pessoal?
+[95:30 - 95:32] É uma coisa de Deus.
+[95:32 - 95:34] Você não era em presa, você fazia uma parte do software,
+[95:34 - 95:37] calculava o disto do CPF.
+[95:37 - 95:42] Você fazia ele e fazia também, e ele fazia, não aproveitava código, não tinha um rico.
+[95:42 - 95:45] Aí, o pessoal diz assim, pera aí, vai ter que estar batizado.
+[95:45 - 95:50] Vamos pensar num processo que foi quando precisaram da engenharia de software.
+[95:50 - 95:56] E normalmente, aí essa engenharia de software, ela evoluiu com tempo.
+[95:56 - 96:05] Se baseou no início, no Baibu, se baseou no início na engenharia tradicional,
+[96:05 - 96:11] A geria tradicional, por isso que chamou a engenharia, só que depois viu-se que essa
+[96:11 - 96:17] geria tradicional aplicada ao software também não era o ideal, mas essa história eu vou
+[96:17 - 96:20] contar na outra cadeira de engenharia de software.
+[96:20 - 96:27] Quando se pensou na geria de software, no geral, ele tem essas fases, tem diversas
+[96:27 - 96:28] variações.
+[96:28 - 96:34] O mais recente é o movimento ágil, vou dar os piscelados aqui apesar de não ser o objetivo
+[96:34 - 96:42] dessa cadeira. Mas, no geral, qualquer processo de desenvolvimento só tem essas fases. Você
+[96:42 - 96:53] faz análise, você faz um projeto, você faz o desenvolvimento, o teste, a implantação
+[96:53 - 96:58] de produção é mantecida. No geral, é assim que funciona.
+[96:58 - 97:03] Eu arquivo o vídeo sobre a criação do...
+[97:03 - 97:05] Deixa eu vou entregar, tá?
+[97:05 - 97:07] Tá de forte a copiar, tá?
+[97:10 - 97:15] O sistema do Linux, acho que era do dono, do Linux.
+[97:15 - 97:17] E ele mostra a mesma coisa.
+[97:17 - 97:24] As pessoas não tinham esse aproveitamento de outras pessoas.
+[97:24 - 97:28] Aí todo mundo mandava a atualização do Linux pra ele,
+[97:28 - 97:35] aí ele tinha que analisar cada atualização e mandar pro servidor.
+[97:35 - 97:44] E depois que ele fez a ligação com outras pessoas ficou muito mais ágil do processo.
+[97:44 - 97:48] É, porque nessa época não tinha esse compartilhamento, né?
+[97:48 - 98:01] E isso, toda vantagem traz porém, em compensação, esse particionamento em pequenos pedaços
+[98:01 - 98:06] de software, você faz uma parte, ele faz uma parte, você se complementa, um pessoal
+[98:06 - 98:10] lá na China faz outra e complementa e isso vai, essa comunicação desses componentes
+[98:10 - 98:17] faz um grande sistema que resolve, isso minimizou esse problema e outros problemas,
+[98:17 - 98:23] deu mais agilidade, em maior velocidade, mais produtividade, mais de compensação,
+[98:23 - 98:26] trouxe mais complexidade, sabe?
+[98:26 - 98:31] Porque se você tem um programa com o bol, que ali faz tudo, não comunica com ninguém,
+[98:31 - 98:37] é muito mais fácil do que aquele programa ser quebrado em 20 partes que precisam se comunicar.
+[98:37 - 98:43] chamar, passar parâmetro, ter retorno, acessar o servidor, questão de segurança, firewall,
+[98:43 - 98:48] toda a arquitetura, tudo que tem vantagens também traz as vantagens, né?
+[98:48 - 98:51] Então você tem que balancear e assim, é assim, vale a pena.
+[98:51 - 98:54] Mas é isso mesmo, essa história.
+[98:55 - 98:59] Mas todas as metodologias, no geral, têm isso.
+[99:00 - 99:06] Aqui não é ter o objetivo de ser exatamente fiel,
+[99:06 - 99:09] É mais uma organização para botar na cabeça da gente aqui.
+[99:09 - 99:14] Há algumas autores, a parte de leito da análise,
+[99:14 - 99:18] eu coloquei aqui a primeira etapa de levantamento e requisito.
+[99:18 - 99:23] Alguns autores colocam o levantamento e requisito fora da análise,
+[99:23 - 99:26] mas para a gente não faz.
+[99:26 - 99:27] Mas o que é levantamento e requisito?
+[99:27 - 99:31] É aquela fase em que você, profissional de técnico,
+[99:31 - 99:33] entende o que o cara quer,
+[99:33 - 99:37] que nós vamos pegar uma definição de um relatório
+[99:37 - 99:39] para fazer toda a construção.
+[99:39 - 99:42] É a fase desafiante.
+[99:42 - 99:47] Tem técnicas específicas, tem diagramas específicas,
+[99:47 - 99:52] metodologias, então, só o assunto da matamento de requisitos,
+[99:52 - 99:54] você pode se especializar nisso,
+[99:54 - 99:56] são pessoas de requisitos.
+[99:56 - 99:59] E a coisa evoluiu para news experience,
+[99:59 - 100:02] de design, então, esse negócio,
+[100:02 - 100:05] Está muito importante e não vai mais voltar atrás.
+[100:05 - 100:12] O cheat, né? O banco tem muita vaga de fábrica e posições que são preenchidas,
+[100:12 - 100:17] principalmente pessoal de UX, porque é o cara que, experiência do usuário,
+[100:17 - 100:22] que é o cara que vê o olhar do usuário, como é que fica fácil, como é que não fica.
+[100:22 - 100:24] Isso é super importante, certo?
+[100:24 - 100:28] Vale bem, então frente aos requisitos, essa cadeira não é de requisita,
+[100:28 - 100:31] não há nenhuma década de requisito, só na Nigéria de Sopre.
+[100:31 - 100:37] Depois que fez o requisito, a gente tem uma descrição de sistema
+[100:37 - 100:41] que na verdade tem as informações necessárias de entrada,
+[100:41 - 100:43] processamento de saída e consultas relatórias.
+[100:43 - 100:48] Então esses requisitos dão essa e esse resultado.
+[100:48 - 100:53] Aqui está em vermelho porque nessa cadeira a gente vai especificar
+[100:53 - 101:00] o relatório cintos, o que ele recebe, o que é que é saído, mas principalmente o que é o modelo do relatório.
+[101:00 - 101:05] É a primeira coisa que a gente vai fazer, depois que a gente passar essa parte de inicio até ontem.
+[101:05 - 101:10] Mas tem outras diagramas e planos e modelos aqui na NAC.
+[101:10 - 101:12] Diagrama de caso de uso, que a gente pode ver aqui.
+[101:19 - 101:23] A outra tarefa, transformar os requisitos em modelos que possam planos, é o que foi feito.
+[101:23 - 101:28] Então na análise você faz uma série de outros modelos, lembra da planta?
+[101:28 - 101:32] É uma série de outras plantas daquela.
+[101:32 - 101:36] Então tem um diagrama de classe, um diagrama de sequência, de atividade, de estado.
+[101:36 - 101:39] Eu só preciso fazer todos, não.
+[101:39 - 101:43] Você vai fazer aqueles que são necessários para aquele projeto.
+[101:43 - 101:44] Como é que eu vou saber?
+[101:44 - 101:47] A empresa tem os critérios.
+[101:47 - 101:51] Sim, mas se eu tiver com o ponto próprio, você vai conhecer os diagramas,
+[101:51 - 101:58] a cadeira de gélia de sorte vai ver para que ele serve e você vai decidir se para que ele tem o projeto
+[101:58 - 102:04] vai sentido ou não vai sentido é necessário necessário e se eu errar se errar você aprende
+[102:04 - 102:08] você vai lá, você vai ver no fato e assim que a vida funciona, você precisa testar com isso
+[102:08 - 102:10] Sra. Dan
+[102:14 - 102:20] Vai bem, então nessa cadeira a gente vai ter uma descrição do sistema, está muito forte
+[102:20 - 102:24] Eu diria que a gente vai ter a descrição de um relatório, se a gente conseguir até um sistema melhor,
+[102:24 - 102:28] se a gente conseguir com um relatório fazer toda a jornada, a super bem-paco.
+[102:29 - 102:33] E nós vamos fazer um modelo de entidade em relacionamento.
+[102:33 - 102:37] A modelo de entidade em relacionamento, que é a modelagem,
+[102:39 - 102:46] eu já comentei com vocês, é aquele momento em que a gente transforma a necessidade do usuário do clientele.
+[102:46 - 102:59] A necessidade dos guardas, a gente vai transformar em um diagrama que tem uma sintaxe, uma notação,
+[102:59 - 103:08] caixinhas são tabelas, certas são relacionamentos, os ângulos são atributos de relacionamento,
+[103:08 - 103:19] Existe uma sintax, um modelo é uma linguagem, a planta de uma sala é uma linguagem, eu falo
+[103:19 - 103:25] português e falo alemão, mas aquela planta saiu um padrão que eu entendo que entende,
+[103:25 - 103:31] é a mesma lógica aqui, é um padrão que serve para se comunicar, a China, o Brasil, a gente
+[103:31 - 103:34] vai olhar aquilo ali e vai entender a mesma coisa.
+[103:34 - 103:42] Então, o modelo de relacionamento, só realizando, mas vai aparecer daqui a pouco, vai aparecer muito na fé, não se preocupa com isso.
+[103:42 - 103:53] Você vai identificar as tabelas, os atributos, os típicos de atributos, nos relacionamentos e os dados que aparecem na primeira parte da aula,
+[103:53 - 103:58] que atendem aquela descrição de suscritos. Isso é um bonito.
+[103:58 - 104:06] Vamos trabalhar nisso depois da parcidinha teórica, talvez até as beradas da V1.
+[104:06 - 104:12] Vamos com cuidado, vendo a evolução, quanto mais rápido a gente for, mais longe a gente vai.
+[104:12 - 104:16] A gente tem um mínimo que tem que alcançar, a gente vai alcançar sem mínimo.
+[104:16 - 104:19] Se a gente alcançar sem mínimo logo, a gente avança mais, tá certo?
+[104:19 - 104:22] Vai depender muito aqui da resposta.
+[104:22 - 104:24] Então aqui acabou a análise.
+[104:24 - 104:31] É uma boa análise, claro que aqui é um processo de imunidade, mas eu deixei vermelha que você refere essa cadeira, uma forma geral.
+[104:31 - 104:34] Depois da análise vem um projeto.
+[104:34 - 104:42] No projeto você fez uma série de diagramas na análise, diagrama de sequência, diagrama de atividade, modelo de identidade e relacionamento.
+[104:42 - 104:45] No projeto você vai refinar esse diagrama.
+[104:45 - 104:51] O que é refinar? Validar, complementar, ao ver se está faltando alguma coisa você vai fazer um detalhamento maior.
+[104:51 - 104:56] também você vai fazer o projeto de delas, arquitetura, sistemas, servidores,
+[104:56 - 104:58] toda parte mais física.
+[104:58 - 105:03] A jornada é, saia do conceitual, missão, o que é que ele quer,
+[105:03 - 105:09] quebre essa solicitação em diversas partes por leu do diagrama
+[105:09 - 105:17] e depois materialize isso em programas, em tabelas, em servidores.
+[105:17 - 105:20] Esse é o caminho que isso aqui está tirando.
+[105:21 - 105:29] Se você do requisito pula para entrega, você bypassa tudo isso e a gente já conversou sobre
+[105:29 - 105:30] se você consegue conhecer isso.
+[105:30 - 105:37] Você tem grande chance de entregar um produto que não atende, porque o sistema é uma quantidade
+[105:37 - 105:42] muito grande de pequenos detalhes, diferente uma sala dessa aqui, que tem detalhes mas
+[105:42 - 105:44] não tem como um sistema.
+[105:44 - 105:51] mais corporativos que tem 500 funções, 80 tabelas, cada tabela com 70 tributos.
+[105:51 - 105:55] Então é uma coisa que você tem que tratar com respeito, né?
+[105:55 - 106:02] As vezes que eu faço o passo vai calmo, vai fazendo de forma mais pensada,
+[106:02 - 106:03] que esse deve te pegar.
+[106:03 - 106:04] O bicho entra em domo, certo?
+[106:04 - 106:09] Então vamos lá, aí no projeto aqui em Verneiro já chega de domo essa cadeira.
+[106:09 - 106:15] A gente vai elaborar os scripts, que são os comandos de criação e manutenção das tabelas,
+[106:15 - 106:21] com base do modelo. Então o modelo tem uma tabela de funcionário, que tem esses atributos desse tipo.
+[106:21 - 106:26] A gente vai ver no esquerdo que comando é isso que cria essa tabela.
+[106:26 - 106:28] E aí vamos começar a executar na marca.
+[106:29 - 106:31] Criação dessas tabelas dos modelos.
+[106:31 - 106:37] Depois a gente vai fazer as ações de ensinais das consultas.
+[106:39 - 106:44] A gente vai ser em dados aqui nas tabelas e vai fazer as primeiras versões de consultas.
+[106:44 - 106:47] Existe um pulmão do clássico chamado Select.
+[106:47 - 106:50] Select é a consulta do SQL.
+[106:50 - 106:57] Qualquer servidor de bancos de dados e qualquer produto de bancos de dados é o Select que faz consultas.
+[106:57 - 107:03] Mas aqui, vindo para o desenvolvimento, a hora que você codifica, a gente não vai codificar nada.
+[107:03 - 107:07] e vai dessa cadeira. A gente vai refinar, você refinaria essas consultas,
+[107:07 - 107:12] você iria fazer esses inscribes de incessão exclusão opideite,
+[107:12 - 107:14] nós estamos aqui no desenvolvimento.
+[107:14 - 107:16] É onde a cadeira mais ou menos acaba.
+[107:16 - 107:20] Mas sabendo que no processo dos momentos soltos,
+[107:20 - 107:23] veja, esses vermelhos são os momentos ditados.
+[107:23 - 107:27] Tudo que não está em vermelho são momentos de algoritmos,
+[107:27 - 107:29] do sistema.
+[107:29 - 107:31] Isso iria ser para essa composição.
+[107:31 - 107:35] Depois você vai fazer... Aqui você faz seus testes,
+[107:35 - 107:40] mas outras equipes fazem testes também do que você desenvolveu.
+[107:40 - 107:43] Depois tem uma equipe que vai implantar em produção,
+[107:43 - 107:48] que é implantar em produção, vai pegar todo esse teu pacote de programas,
+[107:48 - 107:54] scriptes, tudo que você criou e vai copiar e executar em outra área,
+[107:54 - 107:58] quando você virou para replicar isso tudo pra cá.
+[107:58 - 108:01] Porque ali é um área de desenvolvimento, você pode fazer o que você quiser.
+[108:01 - 108:06] Aqui, está valendo. Aqui o usuário vai começar a dar real.
+[108:07 - 108:11] A gente é na questão de cático, na questão de técnico.
+[108:11 - 108:16] Se você nessa fase de modelagem, não faz uma modelagem bem pensada,
+[108:16 - 108:21] quando chegar lá, o usuário, ou lá na entrega,
+[108:22 - 108:26] pode ser que for de funcionalidade, pode ser que tenha uma reissedição que não atenda,
+[108:26 - 108:30] ainda pode ser que a performance seja baixa
+[108:31 - 108:35] então por isso que todo esse processo tem que ser bem pensado
+[108:35 - 108:40] bem testado, essa validação é do usuário e sua
+[108:40 - 108:43] o usuário tem que botar a mão dele em turma
+[108:43 - 108:46] você fez para ele, tem que validar
+[108:46 - 108:50] às vezes os usuários assim, não precisa dar uma alíquina em você, não, não, eu quero ser valida
+[108:50 - 108:54] e aí você vota a culpa até no processo, não, eu acho que nem precisa de validade
+[108:54 - 108:58] mas o processo quer, né, rapaz, o meu chefe quer que seja valido, é que vai me validar.
+[108:58 - 109:05] Porque esse ideia é erro, que acontece, ele vai dizer, foi tudo, esse masto, um valedor,
+[109:05 - 109:09] lamentado, né, se der tudo certo é tudo um meguinho, mas esse ideia ele vai te abusar,
+[109:09 - 109:14] certo? Então assim, olha, eu acho até besteira, mas o processo requer que é equivalente,
+[109:14 - 109:17] você tem que valer, mas eu não quero validar, você tá bom, então eu vou falar aqui do
+[109:17 - 109:22] meu chefe, rapaz, você não tem que sentir esse pouco de ninguém, certo?
+[109:22 - 109:29] A melhor coisa que tem essa técnica é o que é o que coordena todo esse turno aqui.
+[109:29 - 109:34] Foi quando eu transitei ali em 2002, 2013, ele coordena tudo isso aqui.
+[109:34 - 109:40] Quem executa isso aqui são especialistas nessas funções, mas eles são de perfil técnico, né?
+[109:40 - 109:45] Então ele é superior, tem essa capacidade, mas eles seguem orientações.
+[109:45 - 109:47] Eu vou fazer isso porque eu vou não fazer.
+[109:47 - 109:53] E aí, por que é bom ter esse tipo de atividade não coordenador?
+[109:53 - 109:55] Porque você não tem disposto de ninguém.
+[109:55 - 109:56] Você mandou fazer isso?
+[109:56 - 109:58] Eu tenho que fazer isso de jeito que eu vou fazer isso de jeito.
+[109:58 - 109:59] Ah, você não quer que eu faça?
+[109:59 - 110:00] Não, não tem problema.
+[110:00 - 110:01] Tranquilo, você não se...
+[110:01 - 110:04] Eu vou falar que o chefe, o caralho aí está dizendo que eu não vou fazer não.
+[110:04 - 110:06] O gerente está aí, mas você quer ganhar mais, tá certo?
+[110:06 - 110:10] Por isso que é ruim você se tornar gerente.
+[110:10 - 110:14] Tudo que tem no atarde tem desvantagem.
+[110:14 - 110:24] Você começa a ganhar mais, mas traz uma série de problemas que é gente, prazo, recurso, entrega, o que ele que responde.
+[110:24 - 110:26] Você ganha mais por isso.
+[110:28 - 110:30] O que eu falo que não vai ter essa parte da partiticação?
+[110:30 - 110:32] Essas partitões da partitização seriam o quê?
+[110:32 - 110:34] Programação mesmo.
+[110:34 - 110:36] Algoritmo, homologico.
+[110:36 - 110:38] Mas aí o que não?
+[110:38 - 110:40] Você vai ter essa cadeira.
+[110:40 - 110:42] Aqui é o processo geral e vermelho dessa cadeira.
+[110:42 - 110:48] dessa cadeira, uma escura de outras cadeiras. Você viu lá em Python, né? Acho que tem
+[110:48 - 110:50] uma cadeira de orientação, objeto e banco de dados.
+[110:50 - 110:54] E que viu Python, ele está vendo já, ou não sei.
+[110:54 - 110:57] Pois é, mas tem uma cadeira que é orientação, objeto e banco de dados, né?
+[110:57 - 110:59] É, em C.
+[110:59 - 111:02] E vai diferenciar essas duas cadeiras, está certo?
+[111:02 - 111:07] Essa daqui a gente vai usar um de rede do banco de dados.
+[111:07 - 111:17] Vamos fazer tudo nele. A cadeira de orientação, objeto e quantidade, você vai codificar um programa e vai fazer a conexão com o banco de dados.
+[111:17 - 111:31] Mas o banco de dados vai estar criado, modelado com essa cadeira. E aqui no teu programa você vai fazer os comandos de exceção, de exclusão, mas que aqui nessa outra cadeira, de orientação e quantidade.
+[111:31 - 111:34] E na nossa, a gente vai fazer direto na ferramenta, sabe?
+[111:34 - 111:36] Mas é o mesmo inserte que você vai colocar lá.
+[111:36 - 111:37] Eu já estou perguntando.
+[111:37 - 111:41] Anticorps do Impli, é a idade do integrador?
+[111:41 - 111:42] Deve.
+[111:43 - 111:49] Na verdade, a idade do pagão integrador é você usar o conhecimento de todas as cadeiras.
+[111:49 - 111:53] Aí vai depender muito do professor, do coordenador.
+[111:53 - 111:55] Você precisa...
+[111:55 - 112:02] Todas as cadeias têm que constar, ou não, uma, duas, aí vai ser que você vai conversar.
+[112:02 - 112:07] Mas essa daqui, você vai ter lá um projeto, uma especificação do seu projeto,
+[112:07 - 112:10] que é que você vai desenvolver, mas você faz a outra laje.
+[112:10 - 112:16] A moderagem completa, não, o cara faz uma parte, que usa o conhecimento.
+[112:16 - 112:24] Bom, aí, enquanto em produção, que é esse processo de pegar tudo aqui,
+[112:24 - 112:29] o Leandro é quem pega todo esse material, não é o desenvolvedor, né?
+[112:29 - 112:32] Veja, cada um desse aqui é um perfil, tá?
+[112:32 - 112:35] Um cara entre os requisitos é um perfil, né?
+[112:35 - 112:41] Um cara de projetista, um arquiteto que faz esses diagramas.
+[112:41 - 112:44] Aí tem o desenvolvedor, tem um cara...
+[112:44 - 112:51] Tem um cara especialista em fazer mulheres de arrasamento ou de validar isso.
+[112:51 - 112:55] Tem um cara codificador, que é o que tem mais saída.
+[112:55 - 113:00] Tem um pessoal específico para teste, tem um pessoal específico para produção.
+[113:00 - 113:05] E a manutenção é revetor nesse ciclo no momento que precisa fazer evolução em um sistema.
+[113:05 - 113:10] Isso é uma parte da história. A nossa parte dessa cadeira é dos vencedores.
+[113:10 - 113:16] dentro desse processo mais antes depois eu dissonho isso pra vocês
+[113:16 - 113:23] pessoal, a gente isso é considerado um nacional, eu queria mostrar mais uma coisa só que tava previsto pra vocês
+[113:26 - 113:30] aqui em cima tem o seguinte, eu falei só pra esse pra cá
+[113:30 - 113:35] eu falei pra vocês que o processo de desenvolvimento de software no geral
+[113:35 - 113:42] No geral, ele tem análise, requisito, que dá dentro de análise, alguns botões dentro,
+[113:42 - 113:47] fora vamos colocar dentro, requisito dentro de análise, o projeto, implementação.
+[113:47 - 113:49] Não tem só esses três.
+[113:49 - 113:58] Lá em 1970 e 1980, quando se baseou na engenharia tradicional, se imaginou o seguinte, vamos
+[113:58 - 114:00] fazer análise completa.
+[114:00 - 114:08] Então, o seu sistema ou usuário quer 50 relatórios, 50 consultas, 50 fornsanardadas, sei lá, um cara de coisa que ele quer.
+[114:08 - 114:11] Vou me entender tudo isso, tudo.
+[114:11 - 114:18] Depois que a gente entender tudo isso, vamos fazer o projeto relacionado a tudo isso que eu entendi.
+[114:18 - 114:19] Certo?
+[114:19 - 114:26] Então, eu vou entender todos os requisitos, eu vou fazer todos os diagramas de todos os requisitos,
+[114:26 - 114:29] depois eu vou detalhar tudo isso no projeto,
+[114:29 - 114:32] depois com a camada isso eu vou implementar tudo.
+[114:32 - 114:35] Isso era um modelo chamado cascada.
+[114:35 - 114:37] Você fazia tudo, todo o rei genal, todos os rei quisitos,
+[114:37 - 114:40] todos os diagramas, depois validava tudo, tudo,
+[114:40 - 114:42] depois fazia tudo.
+[114:42 - 114:44] Só ia para a próxima fase quando a camada se anterior.
+[114:44 - 114:46] Parecia uma coisa razoável,
+[114:46 - 114:48] mas o geraria é assim, né?
+[114:48 - 114:50] Você faz o projeto todo, você não faz metade da cara,
+[114:50 - 114:52] depois ela não faz, vai dar muito comum, né?
+[114:52 - 114:54] Faz a caça inteirada e depois faz o telhado, não.
+[114:54 - 114:57] tem um problema que já peste, certo?
+[114:57 - 115:02] Nenhum desses modelos de desenvolvimento de software, eles sumirem todos,
+[115:02 - 115:08] então aí você aplica conforme a adherência, tá?
+[115:08 - 115:10] Esse projeto, não, esse projeto não dá pra ser,
+[115:10 - 115:12] essa começa e começa a ser outra, não é?
+[115:12 - 115:16] A empresa vai ter essas normas, essa experiência pra direcionar.
+[115:16 - 115:22] Vai bem, tava dando muito problema porque o cara passava muito tempo aqui fazendo análise,
+[115:22 - 115:27] analis, posto de diagrama, nessa sorte, quando ele entregava o cara, ele diz assim
+[115:27 - 115:32] a coisa dessa régua, ele vai mudar, a parte do que demorou tanto
+[115:32 - 115:36] o cara começava a usar e diz assim, esse era o que eu queria
+[115:36 - 115:42] aí até ele ficar com raio, o cara que tu não sabe o que tu quer, apanhar uma confusão
+[115:42 - 115:47] aí eles mudaram, eles fizeram assim, não, vamos fazer o seguinte
+[115:47 - 115:54] Vamos pegar os requisitos, se esses são 5, se esses são 60, vamos pegar 20.
+[115:54 - 115:55] Qual o critério?
+[115:55 - 115:57] Na hora em que você pega os 20 mais complexos.
+[115:57 - 115:59] Mas em casa e casa.
+[115:59 - 116:01] Vamos pegar um subcojúndice requisito.
+[116:01 - 116:06] E vamos fazer todo o entendimento dos requisitos, todo o análise, o projeto de
+[116:06 - 116:09] apresentação e para esses 20 requisitos eu te entrego.
+[116:09 - 116:19] No lugar de 8 meses que era o cascado, reduziu para a cada 2 meses você tem um entrega.
+[116:19 - 116:28] Já melhorou, porque era mais rápida, mas mesmo assim dá há muito problema.
+[116:28 - 116:35] Porque tanto cascada, esse segundo se chama, interativa sem o N, interativa incremental.
+[116:35 - 116:38] porque iterar significa significante.
+[116:38 - 116:40] Na primeira interação, no primeiro significante,
+[116:40 - 116:42] eu faço isso aqui,
+[116:42 - 116:43] eu te entrego.
+[116:43 - 116:45] Só que continuou o problema, sabe por que?
+[116:45 - 116:46] Porque é o significante.
+[116:46 - 116:48] Toda o cascata como o iterativo,
+[116:48 - 116:50] não, isso aqui está diferente,
+[116:50 - 116:52] aqui era assim que funcionava.
+[116:52 - 116:53] Eu sinto contigo,
+[116:53 - 116:55] eu me digo o que é, eu sou teio do negócio,
+[116:55 - 116:57] me despecifico, eu ficava aqui duas, três semanas,
+[116:57 - 116:58] eu estou tão valido,
+[116:58 - 117:00] eu faço o diagrama de requisito,
+[117:00 - 117:02] tu vai embora,
+[117:02 - 117:03] eu vou para teir.
+[117:03 - 117:08] E aí eu vou começar a fazer o projeto, até eu te entrego.
+[117:08 - 117:10] Claro que aqui tem algumas interações,
+[117:10 - 117:12] se a gente for necessária também não é,
+[117:12 - 117:14] caso se passem por lá.
+[117:14 - 117:17] Mas eu não ficava junto de ti.
+[117:17 - 117:22] Quando eu entregava, às vezes atrasava,
+[117:22 - 117:24] até ainda não dizia o que estava atrasando,
+[117:24 - 117:26] é...
+[117:27 - 117:29] porque não queria demonstrar a fragilidade,
+[117:29 - 117:31] porque eu não besteirava, não era?
+[117:31 - 117:32] E...
+[117:32 - 117:40] Se você tem um problema, encontrou um problema técnico, você chega e diz, eu estou com um problema.
+[117:40 - 117:46] Não estou conseguindo ver isso aqui, eu estou tentando, dá uma satisfação, porque o cara não diria nada, atrasa,
+[117:46 - 117:48] e o cara pensa, não está enrolando.
+[117:50 - 117:53] Então esse relacionamento era sempre muito complicado.
+[117:54 - 117:56] E aí não resolveu ainda com o tempo.
+[117:56 - 118:01] Quando entregava o usuário de novo, agora que eu comecei a usar, eu tive uma ideia.
+[118:02 - 118:05] Você não pode vestir ideia de novo, cara.
+[118:05 - 118:08] Passamos três semanas aqui com a Santa, tu entende?
+[118:10 - 118:13] Aí a Thais, estou com o seguinte, aí nós estamos no...
+[118:13 - 118:18] Isso aqui mais ou menos, não sei se eu estou inteira, aqui 90, 2000, alguma coisa.
+[118:18 - 118:22] Aí a Thais assim, rapaz, sabe da coisa?
+[118:22 - 118:25] Tem nada errado, os caras têm ideia não, ó.
+[118:25 - 118:27] Sabe da coisa?
+[118:27 - 118:30] É difícil dele saber tudo que ele quer aqui.
+[118:30 - 118:35] É quando ele vai usar que ele tem ideia mesmo, não morre ninguém.
+[118:35 - 118:39] Foi quando começou o movimento chamado ágil.
+[118:39 - 118:43] O ágil não é o sentido que vai resolver mais rápido.
+[118:43 - 118:51] O ágil é no sentido de que mais frequentemente o usuário vai ter as entregas.
+[118:51 - 118:58] Até em grande muito tempo ela foi soberana.
+[118:58 - 119:00] O que é que eu ia dizer?
+[119:00 - 119:03] A própria Déia é a tampa da cruxa.
+[119:03 - 119:06] A bala é com a toquena e com essa história do mundo.
+[119:06 - 119:13] Você achava que todo o resto era só pede para a juíza, mas todo o resto era burba.
+[119:13 - 119:18] Você só achava, não queria dizer que as fragilidades, não queria dizer que o que estava com dificuldade.
+[119:18 - 119:22] Queria às vezes saber mais do que o negócio.
+[119:22 - 119:27] E aí ela se tocou e não pode dar errado, cara.
+[119:27 - 119:29] Vamos jogar junto.
+[119:29 - 119:32] Mas de outra vez, essa briga não vai dar em nada.
+[119:32 - 119:34] Ninguém tá ganhando com essa briga.
+[119:34 - 119:36] Foi com esse movimento ágil que já aconteceu.
+[119:36 - 119:38] Meninas gerais, mas é mais o seguinte.
+[119:38 - 119:42] A equipe agora é composta de TI e negócio.
+[119:42 - 119:45] Você e negócio, é aí negócio.
+[119:45 - 119:49] É a pessoa que vai para o local, que vai para o local.
+[119:49 - 119:51] Você é negócio, é negócio.
+[119:51 - 119:53] É a pessoa que vai ficar junto com o Teiro.
+[119:53 - 119:55] A Geraldo, ele vai para cá,
+[119:55 - 119:57] você vai ficar atravado.
+[119:57 - 119:59] Não, eu venho só de vez em quando.
+[119:59 - 120:01] Não, não, você vai sair daí.
+[120:01 - 120:03] Não vai ficar.
+[120:03 - 120:05] Aí precisa, precisa, precisa.
+[120:05 - 120:07] Você vai ficar aqui com o Teiro.
+[120:07 - 120:09] Vocês vão formar um time,
+[120:09 - 120:11] que é a estado de spread.
+[120:11 - 120:13] É, não é bonito, né?
+[120:13 - 120:15] Que fala de spread,
+[120:15 - 120:17] você quer, você não sabe o que é isso.
+[120:17 - 120:18] Então, eu vou em cima.
+[120:18 - 120:19] Pior que tem que falar, né?
+[120:19 - 120:22] Porque você vai por aí, todo mundo se quer, tem que...
+[120:22 - 120:25] Vamos falar.
+[120:25 - 120:27] Eu tenho que fazer um burbê, né?
+[120:27 - 120:29] Você tem que só falar em filme mesmo, né?
+[120:29 - 120:31] Isso vai.
+[120:31 - 120:33] Isso vai.
+[120:33 - 120:35] Vou falar mais sentidos, cara.
+[120:35 - 120:38] Vai sentidos, vai ser sentidos.
+[120:38 - 120:40] É que tu acha, né?
+[120:40 - 120:41] Vai, né?
+[120:41 - 120:43] Aí já acaba acostumado.
+[120:43 - 120:44] Vai bem.
+[120:44 - 120:46] Aí, geralmente, tá aqui.
+[120:46 - 120:55] mudou. Esses requisitos eram extensos.
+[120:55 - 121:00] Colçou, joga tudo fora das metodologias? Não, essas metodologias, inclusive, vocês vão
+[121:00 - 121:06] aprender de agrama de caso de uso, especificação de caso de uso, de agrama, tudo isso é varem,
+[121:06 - 121:13] mais suavizados. Olha, dependendo da situação, vamos fazer requisitos mais simples, história
+[121:13 - 121:20] do usuário. E vamos fazer o seguinte, o cara que não requisito medicinas é meio impreciso
+[121:20 - 121:25] sobre o que o usuário quer, mas eu não estou aqui junto, então eu te digo que eu quero
+[121:25 - 121:30] que o negócio, que você rapidamente desenvolve e eu rapidamente valido, porque rapidamente
+[121:30 - 121:36] eu já te corrigo, rapidamente eu já tenho ideias e rapidamente tu repaz. Olha aí, mas
+[121:36 - 121:42] agora deixa eu dizer pra ti, eu soltei agora o meu negócio, como esse ritmo desse jeito,
+[121:42 - 121:45] Nós vamos evoluindo na qualidade, tá certo?
+[121:45 - 121:51] Como assim? É assim, é o que eu vou te entregar uma coisa feia, completa,
+[121:51 - 121:57] às vezes até nem muito rápida, de performance, mas eu vou te ajudar.
+[121:58 - 122:01] Tão bem? Tão bem?
+[122:02 - 122:03] Tão junto?
+[122:03 - 122:10] Não é minha equipe, só que tudo que tem vontade tem desvantamento.
+[122:10 - 122:12] Esse movimento também,
+[122:12 - 122:14] todos esses diagramas,
+[122:14 - 122:15] todo esse projeto,
+[122:15 - 122:16] todo esse pensamento,
+[122:16 - 122:17] tem um fim.
+[122:17 - 122:19] Ele tem um fim de fazer a coisa bem feita,
+[122:19 - 122:20] é minha alcastrada,
+[122:20 - 122:22] e ele é válido,
+[122:22 - 122:23] eu sei que eu vejo ainda.
+[122:23 - 122:24] Com as situações,
+[122:24 - 122:27] você pode fazer de um jeito mais rágio, rávio.
+[122:28 - 122:30] Mas ele tem um fim também de documentar,
+[122:30 - 122:32] documentar o sistema,
+[122:32 - 122:34] porque ali nos diagramas,
+[122:34 - 122:37] você vê a organização do sistema detalhamente.
+[122:37 - 122:40] com o ágil e subiu que foi atropelado
+[122:40 - 122:42] porque o rito é
+[122:42 - 122:46] e a paiva era bem assim, tu me entregou, vamos fazer essa tia, você já mexe
+[122:46 - 122:52] aí tem resto de tabela que você criou, que você não usa mais, tem tabela que morreu, tem canto sobrando, fica uma confusão
+[122:52 - 122:58] tanto é que tem uma fase no ágil que é a refatoração, que é o momento de assim, para para te organizar bagunça
+[122:58 - 123:01] quem é que diz que para? ninguém para
+[123:01 - 123:04] então assim, tudo que tem que matar, tem que matar, vão para a frente
+[123:04 - 123:11] Então, o seguinte, agora nós estamos em interações mais breves, 15 dias, de valor.
+[123:11 - 123:14] Então, melhorou muito.
+[123:14 - 123:22] A Reboque disso, para isso que funcionava, era uma série de mudanças na arquitetura dos sistemas,
+[123:22 - 123:30] microserviços, os ambientes da odd pontina, aqueles docker, tiveram que remodelar,
+[123:30 - 123:35] de modelar, repensar arquitetura de um bocado de coisa, a forma de novas ferramentas de testes
+[123:35 - 123:37] automatizados porque era tudo muito rápido.
+[123:37 - 123:40] Imagine também que doais várias regras de trabalho também.
+[123:40 - 123:46] Regras de trabalho, uma mudança, as empresas, aí...
+[123:46 - 123:52] Olha, pessoal, que atenção aqui, esse móvel aqui, aqui são empresas tradicionais.
+[123:52 - 123:54] Quem chegou aqui?
+[123:54 - 123:57] As nativas digitais, vai fúdia.
+[123:57 - 124:27] um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober, um ober
+[124:27 - 124:29] Aqui, olha, como é bom!
+[124:30 - 124:31] Não é com essa nova arquitetura, não é?
+[124:31 - 124:33] Foi rápida, né?
+[124:33 - 124:35] Aí os caras, ó, aí chega e ele volta,
+[124:35 - 124:37] chega para ter o queita-vala daquele jeito.
+[124:37 - 124:38] As meus amigos,
+[124:38 - 124:42] você tem aqui 400 sistemas com outra arquitetura.
+[124:42 - 124:44] Para isso aqui ser pleno,
+[124:44 - 124:47] você tinha que transformar isso tudo para essa nova arquitetura.
+[124:47 - 124:49] Deve dar causa se esse cara vai entender isso.
+[124:49 - 124:50] Ele quer porque quer.
+[124:50 - 124:52] Aí você, enquanto não haja,
+[124:52 - 124:54] só para dizer,
+[124:54 - 124:56] você não quer, eu vou fazer.
+[124:56 - 124:57] Vem pra cá, tu fica ali.
+[124:58 - 125:01] Bota aqui essa carinha de ajo, mais por trás.
+[125:02 - 125:03] Uma coisa capêca.
+[125:04 - 125:05] É a vida, né? Lamentável.
+[125:06 - 125:08] Vira que segue, vamos para a frente.
+[125:08 - 125:11] Aí, até o rio era isso, tinha mais interações.
+[125:13 - 125:15] Isso que nós estamos falando de bactidades acontece.
+[125:16 - 125:17] Essa metodologia aqui, aqui.
+[125:18 - 125:21] Em todas as eras você tem que pensar no modelar, você tem que pensar no requisito.
+[125:21 - 125:24] Pensar um pouco no relacionamento.
+[125:24 - 125:32] A diferença é, aqui você pensava no todo, aqui você pensava numa parte que estava sendo desenvolvida,
+[125:32 - 125:39] a modelagem é frente àquela parte, aqui uma parte menor da modelagem, você não se viu, mas a modelagem nunca deixou de ser,
+[125:39 - 125:44] é essa santo, sério? E a tal daí, a vaga, um santo tudo aqui?
+[125:44 - 125:48] Mas não, como é que você acha que tem várias apelinhas?
+[125:48 - 125:53] A PNIN se que eu estou falando é anato, projeto e implementação, sério?
+[125:53 - 125:56] Ou é a PNIN de funcionar da NINOSERRA?
+[125:57 - 126:01] Pessoal, aqui só para gente fechar, aqui tem um exemplo clássico.
+[126:01 - 126:08] Então vamos ver uma sequência de cenários de esse historiator.
+[126:08 - 126:11] Isso aqui é do nosso livro, depois eu abri o bibliografio,
+[126:11 - 126:14] eu tenho um livro, a gente vai usar algumas partes do livro.
+[126:14 - 126:19] e o disponibilizar SPDF é um livro clássico, bem conceitual,
+[126:19 - 126:21] pois é que a gente vai usar assim no que deve,
+[126:21 - 126:23] mas depois não é um pra prática que é melhor.
+[126:23 - 126:28] As fases do Brian Bautidás, especificação e adesivos,
+[126:28 - 126:33] depois se faz um projeto conceitual, que é uma modelagem mais genérica,
+[126:33 - 126:38] depois um sedetário, essa modelagem, um outro diagrama um pouco mais específico,
+[126:38 - 126:42] e o projeto físico é a criação específica das tabelas e tal,
+[126:42 - 126:44] Esse é o fluxo que a gente comenta.
+[126:44 - 126:48] E aqui eu trago com uma sequência de erros.
+[126:48 - 126:51] Só o pai dos trais, tudo o que nós estamos falando,
+[126:51 - 126:54] é um erro bem simples, é uma sequência bem simples,
+[126:54 - 126:56] mas só o pai dos trais.
+[126:56 - 126:59] O R é iniciado na definição incompleta feita pelo usuário.
+[126:59 - 127:02] Suponha que ele tenha dito, ele não tenha dito
+[127:02 - 127:06] que dois ou mais funcionários não podem ter o mesmo CPEF.
+[127:07 - 127:09] Suponha que isso é uma coisa muito desconhecida.
+[127:39 - 127:43] O requisito tem de perguntar para o pior às pós direitos.
+[127:43 - 127:47] O pior esqueceu de dizer essa restrição.
+[127:47 - 127:50] Essa é cinto, mas, por exemplo, ficando.
+[127:50 - 127:54] Você não é no negócio, você não entende a regra, você não tem obrigação a entender,
+[127:54 - 127:56] obrigação a entender, mas você tem obrigação de perguntar.
+[127:56 - 128:02] Você não deve na exerção, eu acho que é aquilo que eu não vou perguntar, o pai
+[128:02 - 128:09] pergunta, é melhor você achar das repensas, perguntar tudo o que você não perguntar,
+[128:09 - 128:11] e acontecer essa sequência de índios.
+[128:11 - 128:13] Então, suponha aqui, ele não disse.
+[128:13 - 128:15] E dois CPFs,
+[128:15 - 128:18] o CPF é o único para cada pessoa,
+[128:18 - 128:20] porque ele não disse, um usuário,
+[128:20 - 128:21] ou piô, ou um senti.
+[128:21 - 128:24] Como consequência, o mudeiro não deixou
+[128:24 - 128:27] de se registrar, receta ao lado.
+[128:27 - 128:30] Pessoal, isso aqui é o mudeiro.
+[128:30 - 128:33] É o diagrama, é o mudeiro e traiacionamento.
+[128:33 - 128:36] Isso aqui são as tabelas,
+[128:36 - 128:41] esse aqui são os atributos, esse aqui são os elas-pametas, vai ver direitinho isso aqui, né?
+[128:43 - 128:46] Esse tracinho aqui é pelo Dava Veta em CPF.
+[128:47 - 128:53] Esse tracinho no modelo, ele indica que esse CPF só pode ser de um único pessoal.
+[128:54 - 128:59] Como o usuário não falou isso, o cara que fez o modelo não ficou em esse tracinho.
+[129:00 - 129:05] Porque o cara que faz o modelo, o cara que faz a planta, ele se baseia no que o cara pede.
+[129:06 - 129:11] O cara não pediu uma afiação do arquiteto, o cara que falou que não pode afiação.
+[129:11 - 129:15] O arquiteto faz esse papel do requisito.
+[129:15 - 129:19] A paz aqui eu estou vendo que é quente, não é aquele um arquiteto mais continuado, não?
+[129:19 - 129:23] Aí o cliente assim, claro, tem nada a clara.
+[129:23 - 129:29] Aí você diz, não é, eu sei que você está a clara, eu só estou com a fama dele, está nada a clara.
+[129:29 - 129:33] Aí é que está a experiência do arquiteto, a experiência...
+[129:33 - 129:40] Cara, normalmente, na estação dela, é perfeita a matemática, não, não.
+[129:40 - 129:42] É um papel que a vida se vê.
+[129:42 - 129:47] Pelo menos no ágil, rapidamente você tem como validar, certo?
+[129:47 - 129:51] Rápidamente você entrega e diz aí, mas cadê o ar condicionado na engenharia? Não dá, né?
+[129:51 - 129:53] Por isso que se esgarrou da engenharia.
+[129:53 - 129:57] Rápidamente você entrega e diz aí, mas cadê o negócio? Que negócio?
+[129:57 - 130:01] Não, mas tem que ter que ter o total da venda.
+[130:01 - 130:03] Aí você pensa, não pediu fordade,
+[130:03 - 130:05] aí você diz, não, é verdade, eu esqueci,
+[130:05 - 130:06] mas não pediu, sabe?
+[130:06 - 130:09] Você tem que adivinhar com o cara até, mas é a vida.
+[130:10 - 130:12] Vamos para a frente.
+[130:12 - 130:15] Bem, aí o novo Dervo não colocou isso aqui.
+[130:15 - 130:20] Como consequência, o cara que foi criar as bases,
+[130:20 - 130:23] o inscrição de criação, não colocou essa restrição.
+[130:23 - 130:27] Porque você pode fazer essa restrição dentro da criação da base.
+[130:27 - 130:30] O mesmo CPF é muito ruim.
+[130:32 - 130:35] Como o usuário não disse, como o cara que foi o modelo não registrou,
+[130:35 - 130:40] o cara que criou a base, o objeto lógico, o objeto físico,
+[130:40 - 130:43] o cara que criou a base não colocou essa restrição.
+[130:43 - 130:48] Foi por desenvolvedor. Essa restrição pode também ser feita lá no código, no Java.
+[130:48 - 130:53] O cabo aqui olhou o modelo e disse, não tem nada aqui de restrição.
+[130:53 - 130:56] Não contou essa restrição também no código.
+[130:56 - 131:00] Aí quando o usuário foi tentar, ele diz,
+[131:00 - 131:05] ah, deixa eu fazer um teste aqui, deixa eu botar um CPF do Alexandre também aqui pro Leana.
+[131:05 - 131:07] É, mas deu...
+[131:09 - 131:11] Não pode ter dois CPF do mesmo pessoal.
+[131:11 - 131:14] Membro de CPF pra duas pessoas.
+[131:14 - 131:17] Aí também, né, a bola aqui, tu não falou nada, fuleiro.
+[131:19 - 131:21] A história do Chino, cara, é tão...
+[131:21 - 131:22] É, não, é, é...
+[131:22 - 131:24] Sobentamente, é, sobentamente.
+[131:24 - 131:25] Não, é TVP também, né?
+[131:25 - 131:34] Quando era aquela fase de especificação bem detalhada, tinha lá o documento, a especificação da réve de negócio, tudo detalhado, tá aqui, ó.
+[131:34 - 131:37] Você assinou aqui, você disse, não, não, você disse, né?
+[131:37 - 131:41] Não, rapaz, eu acho que você acabou esquecendo aqui, tá?
+[131:41 - 131:44] Vai pegar o dia, às vezes a réve de negócio é um gravado, né?
+[131:44 - 131:52] No ágil, como a especificação, em alguns momentos, no uso de detalhamento do requisito, caso de uso, tá um técnico?
+[131:52 - 131:55] Fica mais solto, mas vocês estão junto.
+[131:55 - 131:58] Vocês são da MemeKick, vocês têm o mesmo proposto.
+[131:58 - 132:00] Essa é a mudança da filotrafia do África.
+[132:00 - 132:02] Nós estamos juntos, aqui nós não somos inimigos.
+[132:02 - 132:04] Até antes do Ásica nós éramos inimigos.
+[132:05 - 132:07] Agora nós somos da MemeKick.
+[132:07 - 132:09] Essa é a grande diferença.
+[132:09 - 132:11] Isso é? Isso é funcionado.
+[132:11 - 132:13] Se funcionar até nós somos amigos.
+[132:13 - 132:15] Se não funcionar.
+[132:15 - 132:17] Pessoal, agora é isso.
+[132:17 - 132:20] O cardíneo de formação era o negócio de as gravas,
+[132:20 - 132:22] vocês escutam tudo, né?
+[132:22 - 132:29] Nós temos aqui, apaga só as partes que não podem, nós temos aqui um ser gravante.
+[132:29 - 132:41] Vamos para essa jornada, espero que vocês aproveitem, e a gente vai dentro desse modelo
+[132:41 - 132:47] ágil, você ajudando, entendendo a dificuldade, e vendo por onde é que é.
+[132:47 - 132:49] A espinha do alçal é isso, tudo que eu falei.
+[132:50 - 132:51] A gente vai pra frente.
+[132:51 - 132:52] Beleza?
+[132:53 - 132:53] Show guy!
+[132:53 - 132:54] Isso!
+[132:54 - 132:56] É a chamada eu já fiz, né?
+[132:58 - 133:00] Deixa eu ver só o que começa aqui, o arreum de uma boa.
+[133:01 - 133:01] Vixe.
+[133:05 - 133:05] Nada boa.
