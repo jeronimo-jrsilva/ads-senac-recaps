@@ -57,6 +57,9 @@ def extract_frontmatter_and_content(md_text):
     return {}, md_text
 
 def pandoc_markdown_to_html(md_text):
+    # Remover caixas pretas de auditoria interna se existirem
+    md_text = re.sub(r'>\s*\[!abstract\]-?\s*📦\s*CAIXA PRETA.*?(?=\n\n|\n[^\>]|$)', '', md_text, flags=re.DOTALL | re.IGNORECASE)
+    
     callout_pattern = r'>\s*\[!(tip|note|important|warning|caution|abstract|info|question|quote|bug)\]\s*(.*?)(?=\n\n|\n[^\>]|$)'
     def replace_callout(match):
         c_type = match.group(1).lower()
