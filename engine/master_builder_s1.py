@@ -15,7 +15,7 @@ SEMANAL_DIR = VAULT_ROOT / "02_Cérebro/📖 Estudos/01_Graduação/01_Semestre/
 
 PORTAL_DIR.mkdir(parents=True, exist_ok=True)
 
-# Cores refinadas para 2026.1 (Arquitetura em Azul Royal/Índigo em vez de amarelo)
+# Cores refinadas para 2026.1 (Arquitetura em Azul Royal em vez de amarelo)
 DISC_STYLES = {
     "Arquitetura": {"name": "Arquitetura de Computadores", "short": "ARQ", "color": "#60a5fa", "bg": "rgba(96, 165, 250, 0.12)", "border": "rgba(96, 165, 250, 0.4)", "tag": "tag-arq", "order": 1, "prof": "Thyago"},
     "Lógica": {"name": "Lógica de Programação em Python", "short": "LOG", "color": "#06b6d4", "bg": "rgba(6, 182, 212, 0.12)", "border": "rgba(6, 182, 212, 0.4)", "tag": "tag-log", "order": 2, "prof": "Nator Junior"},
@@ -114,8 +114,50 @@ def get_label(num_str):
         return f"Aula {int(num_str):02d}"
     return num_str
 
+def clean_glossary_definition(raw_def):
+    wiki_url = ""
+    # 1. HTML link: <a href="(url)">...</a>
+    m_html = re.search(r"<a\s+[^>]*href=['\"](https?://[^'\"]*wikipedia\.org[^'\"]*)['\"][^>]*>.*?</a>", raw_def, re.IGNORECASE)
+    if m_html:
+        wiki_url = m_html.group(1).strip()
+        raw_def = raw_def[:m_html.start()] + raw_def[m_html.end():]
+        
+    # 2. Markdown link [Wikipedia](url) ou [Wikipédia](url)
+    if not wiki_url:
+        m_md = re.search(r"\[(?:Wikipedia|Wikip[eé]dia|Wiki)\]\((https?://[^\s]+)\)", raw_def, re.IGNORECASE)
+        if m_md:
+            wiki_url = m_md.group(1).strip()
+            raw_def = raw_def[:m_md.start()] + raw_def[m_md.end():]
+
+    # 3. Qualquer link markdown residual com wikipedia
+    if not wiki_url:
+        m_md_any = re.search(r"\[[^\]]*\]\((https?://[^\s]+?wikipedia\.org[^\s]*)\)", raw_def, re.IGNORECASE)
+        if m_md_any:
+            wiki_url = m_md_any.group(1).strip()
+            raw_def = raw_def[:m_md_any.start()] + raw_def[m_md_any.end():]
+
+    # 4. URL solta
+    if not wiki_url:
+        m_url = re.search(r"https?://[^\s]+?wikipedia\.org[^\s]*", raw_def, re.IGNORECASE)
+        if m_url:
+            wiki_url = m_url.group(0).rstrip(".)")
+            raw_def = raw_def[:m_url.start()] + raw_def[m_url.end():]
+
+    # Limpeza refinada do texto da definição
+    raw_def = re.sub(r"<[^>]+>", " ", raw_def)
+    raw_def = re.sub(r"\[\s*\]|\(\s*\)", "", raw_def)
+    raw_def = re.sub(r"\s*\)\s*\.", ".", raw_def)
+    raw_def = re.sub(r"\s*\]\s*\.", ".", raw_def)
+    raw_def = re.sub(r"\s*;\s*\.", ".", raw_def)
+    raw_def = re.sub(r"\s+", " ", raw_def).strip()
+    raw_def = raw_def.rstrip(" .);,")
+    if raw_def:
+        raw_def += "."
+        
+    return raw_def, wiki_url
+
 def build():
-    print(f"🚀 Invocando Motor Master S1 (2026.1) com Tema Dark Charcoal + Dourado Nobre...")
+    print(f"🚀 Invocando Motor Master S1 (2026.1) com Glossário Borda Nítida e Wikipedia Formatada...")
     
     tpl = """<!DOCTYPE html>
 <html lang="pt-br">
@@ -465,13 +507,13 @@ def build():
     css_path = ENGINE_DIR / "styles.css"
     master_css = css_path.read_text(encoding="utf-8") if css_path.exists() else ""
     
-    # CSS Customizado com Tema Dark Charcoal + Dourado Nobre (#d4af37)
+    # CSS Customizado com Tema Dark Charcoal + Dourado Nobre (#d4af37) e Bordas Nítidas nos Cards do Glossário
     extra_css = """
     :root {
         --bg: #0d0d0f !important;
         --card: #151518 !important;
         --border: #26262b !important;
-        --accent: #d4af37 !important; /* Dourado Nobre Metálico */
+        --accent: #d4af37 !important;
         --accent-glow: rgba(212, 175, 55, 0.4) !important;
     }
 
@@ -729,6 +771,69 @@ def build():
         border-bottom-style: solid !important;
     }
 
+    /* --- GLOSSÁRIO COM BORDA NÍTIDA & DELIMITADORA --- */
+    .glossary-grid {
+        display: grid !important;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)) !important;
+        gap: 16px !important;
+        margin-top: 20px !important;
+    }
+    .glossary-item {
+        background: #141417 !important;
+        border: 1px solid #2d2d34 !important;
+        border-radius: 12px !important;
+        padding: 20px 22px !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: space-between !important;
+        transition: all 0.2s ease !important;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.3) !important;
+    }
+    .glossary-item:hover {
+        border-color: #d4af37 !important;
+        background: #18181d !important;
+        transform: translateY(-2px) !important;
+        box-shadow: 0 8px 25px rgba(0,0,0,0.5) !important;
+    }
+    .glossary-term {
+        font-size: 1.1rem !important;
+        font-weight: 800 !important;
+        color: #fff !important;
+        margin-bottom: 8px !important;
+        display: block !important;
+        letter-spacing: -0.3px !important;
+    }
+    .glossary-def {
+        font-size: 0.88rem !important;
+        color: #c4c4cc !important;
+        line-height: 1.55 !important;
+        margin-bottom: 16px !important;
+        flex-grow: 1 !important;
+    }
+    .glossary-footer {
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: center !important;
+        border-top: 1px solid #27272a !important;
+        padding-top: 12px !important;
+        gap: 8px !important;
+        flex-wrap: wrap !important;
+    }
+    .action-btn {
+        background: #202025 !important;
+        color: #a1a1aa !important;
+        border: 1px solid #33333d !important;
+        padding: 4px 10px !important;
+        border-radius: 6px !important;
+        font-size: 0.72rem !important;
+        font-weight: 700 !important;
+        cursor: pointer !important;
+        transition: all 0.15s !important;
+    }
+    .action-btn:hover {
+        background: #d4af37 !important;
+        color: #000 !important;
+    }
     .wiki-btn {
         background: rgba(212, 175, 55, 0.15) !important; color: #d4af37 !important;
         border: 1px solid rgba(212, 175, 55, 0.4) !important; font-weight: 700 !important;
@@ -834,13 +939,11 @@ def build():
             disc_raw = meta.get("disciplina", "Geral")
 
             # 🛑 REGRA DE EXCLUSÃO DE CONFORMIDADE DA RAIANE:
-            # Manter no DOM/visualização APENAS as aulas com Prof. Tibério (a partir de 16/04/2026 / Aula 06)
             if "conformidade" in disc_raw.lower():
                 if file.name.lower() in [
                     "conformidade_01.md", "conformidade_02.md", "conformidade_03.md",
                     "conformidade_feriado_jose.md", "conformidade_04.md", "conformidade_05_lei_felca.md"
                 ] or (date_str and date_str < "2026-04-16"):
-                    # Não entra no DOM de 2026.1
                     continue
 
             # Feriados puros não entram no DOM como aula regular (ficam só no calendário)
@@ -884,20 +987,12 @@ def build():
                         m_term = re.match(r'[-*]\s*\*\*([^*]+)\*\*:\s*(.*)', line)
                         if m_term:
                             t = m_term.group(1).strip()
-                            d = m_term.group(2).strip()
-                            
-                            # Extrair URL da Wikipedia
-                            wiki_url = ""
-                            m_wiki = re.search(r'\[(?:Wikipedia|Wiki)\]\((https?://[^\s\)]+)\)', d, re.IGNORECASE)
-                            if m_wiki:
-                                wiki_url = m_wiki.group(1)
-                                d = re.sub(r'\[(?:Wikipedia|Wiki)\]\([^\)]+\)', '', d).strip()
-                            d = re.sub(r'\s*\)\s*\.', '.', d).strip()
-                            d = re.sub(r'\s*\.', '.', d).strip()
+                            raw_def = m_term.group(2).strip()
+                            clean_def, wiki_url = clean_glossary_definition(raw_def)
                                 
                             slug = slugify(t)
                             if slug not in global_glossary:
-                                global_glossary[slug] = {"term": t, "def": d, "wiki": wiki_url, "sources": []}
+                                global_glossary[slug] = {"term": t, "def": clean_def, "wiki": wiki_url, "sources": []}
                             elif wiki_url and not global_glossary[slug].get("wiki"):
                                 global_glossary[slug]["wiki"] = wiki_url
                                 
@@ -908,7 +1003,7 @@ def build():
                             search_index.append({
                                 "id": "glossary", "title": f"Glossário: {t}", "disc": "Glossário",
                                 "short": "GLOSS", "color": "#d4af37", "bg": "rgba(212,175,55,0.15)", "border": "#d4af37",
-                                "text": f"{t} - {d}", "date": ""
+                                "text": f"{t} - {clean_def}", "date": ""
                             })
 
             lesson_obj = {
@@ -1004,18 +1099,15 @@ def build():
                 "label": f"{l['short']} • {get_label(l['num'])}"
             }
 
-    # Glossário Final com Botão Wikipedia Explícito
+    # Glossário Final com Botão Wikipedia Formatado Uniformemente
     glossary_html = ""
     for k in sorted(global_glossary.keys(), key=lambda x: normalize_sort(global_glossary[x]["term"])):
         g = global_glossary[k]
-        clean_def = g["def"].strip()
-        if clean_def and not clean_def.endswith('.'): clean_def += "."
-        
         g['sources'].sort(key=lambda x: x['date'])
         ps = g['sources'][0] if g['sources'] else None
         source_btns = f"<button class='action-btn' onclick=\"showSection('{ps['id']}')\">{ps['name']}</button>" if ps else ""
         wiki_btn = f"<a href='{g['wiki']}' target='_blank' class='action-btn wiki-btn'>Wikipedia ↗</a>" if g.get("wiki") else ""
-        glossary_html += f"<div class='glossary-item' id='term-{slugify(g['term'])}'><span class='glossary-term'>{g['term']}</span><div class='glossary-def'>{clean_def}</div><div class='glossary-footer'><div style='display:flex;gap:8px'>{source_btns}</div>{wiki_btn}</div></div>"
+        glossary_html += f"<div class='glossary-item' id='term-{slugify(g['term'])}'><span class='glossary-term'>{g['term']}</span><div class='glossary-def'>{g['def']}</div><div class='glossary-footer'><div style='display:flex;gap:8px'>{source_btns}</div>{wiki_btn}</div></div>"
 
     # --- CALENDÁRIO 2026.1 (Fevereiro a Junho 2026) ---
     month_selector_html = '<div class="month-selector">'
@@ -1052,7 +1144,6 @@ def build():
                     cal_grid += f'<div class="{cls}"><span class="day-number">{d_num}</span></div>'
                     
         cal_grid += '</div>'
-        # Only active month has display: block, others display: none
         display_style = "display: block;" if is_active else "display: none;"
         calendar_views_html += f'<div id="month-m{m}" class="calendar-view {"active" if is_active else ""}" style="{display_style}">{cal_grid}</div>'
 
@@ -1074,7 +1165,7 @@ def build():
     out_file = PORTAL_DIR / "Recap_Master_S1.html"
     out_file.write_text(final_html, encoding="utf-8")
 
-    print(f"🎉 Recap_Master_S1.html com tema Dourado e Conformidade filtrada gerado com sucesso!")
+    print(f"🎉 Recap_Master_S1.html gerado com sucesso!")
 
 if __name__ == "__main__":
     build()

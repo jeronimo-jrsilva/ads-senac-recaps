@@ -109,8 +109,50 @@ def get_label(num_str):
         return f"Aula {int(num_str):02d}"
     return num_str
 
+def clean_glossary_definition(raw_def):
+    wiki_url = ""
+    # 1. HTML link: <a href="(url)">...</a>
+    m_html = re.search(r"<a\s+[^>]*href=['\"](https?://[^'\"]*wikipedia\.org[^'\"]*)['\"][^>]*>.*?</a>", raw_def, re.IGNORECASE)
+    if m_html:
+        wiki_url = m_html.group(1).strip()
+        raw_def = raw_def[:m_html.start()] + raw_def[m_html.end():]
+        
+    # 2. Markdown link [Wikipedia](url) ou [Wikipédia](url)
+    if not wiki_url:
+        m_md = re.search(r"\[(?:Wikipedia|Wikip[eé]dia|Wiki)\]\((https?://[^\s]+)\)", raw_def, re.IGNORECASE)
+        if m_md:
+            wiki_url = m_md.group(1).strip()
+            raw_def = raw_def[:m_md.start()] + raw_def[m_md.end():]
+
+    # 3. Qualquer link markdown residual com wikipedia
+    if not wiki_url:
+        m_md_any = re.search(r"\[[^\]]*\]\((https?://[^\s]+?wikipedia\.org[^\s]*)\)", raw_def, re.IGNORECASE)
+        if m_md_any:
+            wiki_url = m_md_any.group(1).strip()
+            raw_def = raw_def[:m_md_any.start()] + raw_def[m_md_any.end():]
+
+    # 4. URL solta
+    if not wiki_url:
+        m_url = re.search(r"https?://[^\s]+?wikipedia\.org[^\s]*", raw_def, re.IGNORECASE)
+        if m_url:
+            wiki_url = m_url.group(0).rstrip(".)")
+            raw_def = raw_def[:m_url.start()] + raw_def[m_url.end():]
+
+    # Limpeza refinada do texto da definição
+    raw_def = re.sub(r"<[^>]+>", " ", raw_def)
+    raw_def = re.sub(r"\[\s*\]|\(\s*\)", "", raw_def)
+    raw_def = re.sub(r"\s*\)\s*\.", ".", raw_def)
+    raw_def = re.sub(r"\s*\]\s*\.", ".", raw_def)
+    raw_def = re.sub(r"\s*;\s*\.", ".", raw_def)
+    raw_def = re.sub(r"\s+", " ", raw_def).strip()
+    raw_def = raw_def.rstrip(" .);,")
+    if raw_def:
+        raw_def += "."
+        
+    return raw_def, wiki_url
+
 def build():
-    print(f"🚀 Invocando Motor Master S2 (2026.2) com Barra Superior Horizontal Perfeita...")
+    print(f"🚀 Invocando Motor Master S2 (2026.2) com Bordas Nítidas nos Cards do Glossário...")
     
     tpl = """<!DOCTYPE html>
 <html lang="pt-br">
@@ -460,7 +502,7 @@ def build():
     css_path = ENGINE_DIR / "styles.css"
     master_css = css_path.read_text(encoding="utf-8") if css_path.exists() else ""
     
-    # CSS Customizado com Top App Bar horizontal em 1 linha e Trilhas/Timeline perfeitas
+    # CSS Customizado com Top App Bar, Trilhas e Bordas Nítidas nos Cards do Glossário
     extra_css = """
     /* --- TOP APP BAR UNIFICADA (1 LINHA HORIZONTAL) --- */
     .app-header {
@@ -698,7 +740,7 @@ def build():
     }
     .timeline-mini-pill:hover { transform: translateY(-1px); filter: brightness(1.25); }
 
-    /* Termos do Glossário no Texto (Dourado/Âmbar de Alta Legibilidade) */
+    /* Termos do Glossário no Texto */
     .term-link {
         color: #fbbf24 !important;
         text-decoration: none !important;
@@ -714,6 +756,69 @@ def build():
         border-bottom-style: solid !important;
     }
 
+    /* --- GLOSSÁRIO COM BORDA NÍTIDA & DELIMITADORA --- */
+    .glossary-grid {
+        display: grid !important;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)) !important;
+        gap: 16px !important;
+        margin-top: 20px !important;
+    }
+    .glossary-item {
+        background: #141417 !important;
+        border: 1px solid #2d2d34 !important;
+        border-radius: 12px !important;
+        padding: 20px 22px !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: space-between !important;
+        transition: all 0.2s ease !important;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.3) !important;
+    }
+    .glossary-item:hover {
+        border-color: var(--accent) !important;
+        background: #18181d !important;
+        transform: translateY(-2px) !important;
+        box-shadow: 0 8px 25px rgba(0,0,0,0.5) !important;
+    }
+    .glossary-term {
+        font-size: 1.1rem !important;
+        font-weight: 800 !important;
+        color: #fff !important;
+        margin-bottom: 8px !important;
+        display: block !important;
+        letter-spacing: -0.3px !important;
+    }
+    .glossary-def {
+        font-size: 0.88rem !important;
+        color: #c4c4cc !important;
+        line-height: 1.55 !important;
+        margin-bottom: 16px !important;
+        flex-grow: 1 !important;
+    }
+    .glossary-footer {
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: center !important;
+        border-top: 1px solid #27272a !important;
+        padding-top: 12px !important;
+        gap: 8px !important;
+        flex-wrap: wrap !important;
+    }
+    .action-btn {
+        background: #202025 !important;
+        color: #a1a1aa !important;
+        border: 1px solid #33333d !important;
+        padding: 4px 10px !important;
+        border-radius: 6px !important;
+        font-size: 0.72rem !important;
+        font-weight: 700 !important;
+        cursor: pointer !important;
+        transition: all 0.15s !important;
+    }
+    .action-btn:hover {
+        background: var(--accent) !important;
+        color: #000 !important;
+    }
     .wiki-btn {
         background: rgba(56, 189, 248, 0.1) !important; color: #38bdf8 !important;
         border: 1px solid rgba(56, 189, 248, 0.3) !important; font-weight: 700 !important;
@@ -738,16 +843,16 @@ def build():
     pre code, code.sourceCode, .sourceCode span {
         font-family: 'JetBrains Mono', monospace !important;
     }
-    span.kw, code span.kw { color: #ff7b72 !important; font-weight: 700 !important; } /* keywords (public, class, int, return) */
-    span.dt, code span.dt { color: #79c0ff !important; font-weight: 600 !important; } /* datatypes (String, float, char) */
-    span.st, code span.st { color: #a5d6ff !important; } /* strings ("...") */
-    span.co, code span.co { color: #8b949e !important; font-style: italic !important; } /* comments (// ...) */
-    span.fu, code span.fu { color: #d2a8ff !important; font-weight: 600 !important; } /* functions (printf, scanf, ligar) */
-    span.dv, span.fl, span.bn, code span.dv, code span.fl { color: #ffa657 !important; font-weight: 600 !important; } /* numbers (0, 10, 8.75) */
-    span.op, code span.op { color: #79c0ff !important; } /* operators (&, &&, ||, =, +) */
-    span.pp, code span.pp { color: #ff7b72 !important; font-weight: 600 !important; } /* preprocessor (#include) */
-    span.cf, code span.cf { color: #ff7b72 !important; font-weight: 700 !important; } /* control flow (if, else) */
-    span.va, code span.va { color: #e6edf3 !important; } /* variables */
+    span.kw, code span.kw { color: #ff7b72 !important; font-weight: 700 !important; }
+    span.dt, code span.dt { color: #79c0ff !important; font-weight: 600 !important; }
+    span.st, code span.st { color: #a5d6ff !important; }
+    span.co, code span.co { color: #8b949e !important; font-style: italic !important; }
+    span.fu, code span.fu { color: #d2a8ff !important; font-weight: 600 !important; }
+    span.dv, span.fl, span.bn, code span.dv, code span.fl { color: #ffa657 !important; font-weight: 600 !important; }
+    span.op, code span.op { color: #79c0ff !important; }
+    span.pp, code span.pp { color: #ff7b72 !important; font-weight: 600 !important; }
+    span.cf, code span.cf { color: #ff7b72 !important; font-weight: 700 !important; }
+    span.va, code span.va { color: #e6edf3 !important; }
 
     /* Modal de Busca */
     .search-modal-backdrop {
@@ -788,7 +893,7 @@ def build():
     
     .term-flash { animation: flashHighlight 1.5s ease; }
     @keyframes flashHighlight {
-        0% { background: rgba(245, 158, 11, 0.35); }
+        0% { background: rgba(56, 189, 248, 0.35); }
         100% { background: transparent; }
     }
     """
@@ -843,20 +948,12 @@ def build():
                         m_term = re.match(r'[-*]\s*\*\*([^*]+)\*\*:\s*(.*)', line)
                         if m_term:
                             t = m_term.group(1).strip()
-                            d = m_term.group(2).strip()
-                            
-                            # Extrair URL da Wikipedia
-                            wiki_url = ""
-                            m_wiki = re.search(r'\[(?:Wikipedia|Wiki)\]\((https?://[^\s\)]+)\)', d, re.IGNORECASE)
-                            if m_wiki:
-                                wiki_url = m_wiki.group(1)
-                                d = re.sub(r'\[(?:Wikipedia|Wiki)\]\([^\)]+\)', '', d).strip()
-                            d = re.sub(r'\s*\)\s*\.', '.', d).strip()
-                            d = re.sub(r'\s*\.', '.', d).strip()
+                            raw_def = m_term.group(2).strip()
+                            clean_def, wiki_url = clean_glossary_definition(raw_def)
                                 
                             slug = slugify(t)
                             if slug not in global_glossary:
-                                global_glossary[slug] = {"term": t, "def": d, "wiki": wiki_url, "sources": []}
+                                global_glossary[slug] = {"term": t, "def": clean_def, "wiki": wiki_url, "sources": []}
                             elif wiki_url and not global_glossary[slug].get("wiki"):
                                 global_glossary[slug]["wiki"] = wiki_url
                                 
@@ -867,14 +964,15 @@ def build():
                             search_index.append({
                                 "id": "glossary", "title": f"Glossário: {t}", "disc": "Glossário",
                                 "short": "GLOSS", "color": "#38bdf8", "bg": "rgba(56,189,248,0.1)", "border": "#38bdf8",
-                                "text": f"{t} - {d}", "date": ""
+                                "text": f"{t} - {clean_def}", "date": ""
                             })
 
             lesson_obj = {
                 "id": lesson_id, "file": file.name, "meta": meta, "html_raw": html_raw,
                 "title": meta.get("titulo", file.stem), "disc": disc_name, "prof": meta.get("professor", "Docente"),
                 "date": date_str, "wd": wd, "num": lesson_num, "short": short_disc, "cls": disc_meta["tag"],
-                "color": disc_meta["color"], "bg": disc_meta["bg"], "border": disc_meta["border"]
+                "color": disc_meta["color"], "bg": disc_meta["bg"], "border": disc_meta["border"],
+                "order": disc_meta.get("order", 99)
             }
             lessons.append(lesson_obj)
             if date_str: all_lessons_by_date[date_str] = lesson_obj
@@ -923,6 +1021,7 @@ def build():
             <div class='timeline-mini-pills'>{mini_pills_html}</div>
         </div>"""
 
+    # Ordenar por dia da semana
     discipline_view_html = "<details class='collapsible-section' open><summary>Trilhas de Aprendizado (2026.2)</summary><div class='collapsible-content'><div class='discipline-tracks'>"
     
     sorted_disc_names = sorted(
@@ -954,18 +1053,15 @@ def build():
                 "label": f"{l['short']} • {get_label(l['num'])}"
             }
 
-    # Glossário Final com Botão Wikipedia Explícito
+    # Glossário Final com Botão Wikipedia Formatado Uniformemente
     glossary_html = ""
     for k in sorted(global_glossary.keys(), key=lambda x: normalize_sort(global_glossary[x]["term"])):
         g = global_glossary[k]
-        clean_def = g["def"].strip()
-        if clean_def and not clean_def.endswith('.'): clean_def += "."
-        
         g['sources'].sort(key=lambda x: x['date'])
         ps = g['sources'][0] if g['sources'] else None
         source_btns = f"<button class='action-btn' onclick=\"showSection('{ps['id']}')\">{ps['name']}</button>" if ps else ""
         wiki_btn = f"<a href='{g['wiki']}' target='_blank' class='action-btn wiki-btn'>Wikipedia ↗</a>" if g.get("wiki") else ""
-        glossary_html += f"<div class='glossary-item' id='term-{slugify(g['term'])}'><span class='glossary-term'>{g['term']}</span><div class='glossary-def'>{clean_def}</div><div class='glossary-footer'><div style='display:flex;gap:8px'>{source_btns}</div>{wiki_btn}</div></div>"
+        glossary_html += f"<div class='glossary-item' id='term-{slugify(g['term'])}'><span class='glossary-term'>{g['term']}</span><div class='glossary-def'>{g['def']}</div><div class='glossary-footer'><div style='display:flex;gap:8px'>{source_btns}</div>{wiki_btn}</div></div>"
 
     # --- CALENDÁRIO 2026.2 (Com display isolado de cada mês) ---
     month_selector_html = '<div class="month-selector">'
@@ -1002,7 +1098,6 @@ def build():
                     cal_grid += f'<div class="{cls}"><span class="day-number">{d_num}</span></div>'
                     
         cal_grid += '</div>'
-        # Only active month has display: block, others display: none
         display_style = "display: block;" if is_active else "display: none;"
         calendar_views_html += f'<div id="month-m{m}" class="calendar-view {"active" if is_active else ""}" style="{display_style}">{cal_grid}</div>'
 
