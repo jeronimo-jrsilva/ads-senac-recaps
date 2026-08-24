@@ -955,8 +955,44 @@ def build():
             letter-spacing: 0.5px !important;
             margin-top: 2px !important;
         }
-        #search-modal > div { width: 94% !important; max-height: 85vh !important; }
-        .search-modal-header { padding: 12px 14px !important; }
+        /* Header & Search Button on Mobile */
+        .app-header {
+            padding: 8px 10px !important;
+            margin-bottom: 16px !important;
+            gap: 8px !important;
+            justify-content: space-between !important;
+            flex-wrap: nowrap !important;
+        }
+        .brand {
+            font-size: 0.92rem !important;
+            gap: 5px !important;
+            flex-shrink: 0 !important;
+        }
+        .brand-icon { font-size: 1rem !important; }
+        .brand-title { font-size: 0.88rem !important; }
+        .brand-badge { font-size: 0.65rem !important; padding: 1px 5px !important; }
+        .header-actions {
+            gap: 6px !important;
+            flex-shrink: 0 !important;
+            align-items: center !important;
+        }
+        .search-trigger-btn {
+            padding: 6px 10px !important;
+            font-size: 0.75rem !important;
+            gap: 5px !important;
+            border-radius: 6px !important;
+        }
+        .search-placeholder { display: none !important; }
+        .kbd-shortcut { display: none !important; }
+        .semester-pills { padding: 2px !important; gap: 2px !important; }
+        .sem-link { padding: 4px 8px !important; font-size: 0.72rem !important; }
+
+        /* Search Modal on Mobile */
+        .search-modal-backdrop { padding: 15px 10px 0 10px !important; }
+        .search-modal-box { width: 100% !important; max-width: 100% !important; border-radius: 12px !important; }
+        .search-input-wrapper { padding: 12px 14px !important; gap: 8px !important; }
+        #search-input { font-size: 0.95rem !important; }
+        .search-results-list { max-height: 65vh !important; padding: 6px !important; }
         .search-result-item { padding: 10px 12px !important; }
         .search-result-title { font-size: 0.85rem !important; }
         .search-result-snippet { font-size: 0.75rem !important; }
