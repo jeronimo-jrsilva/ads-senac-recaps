@@ -916,6 +916,45 @@ def build():
     }
 
     @media (max-width: 768px) {
+        .hero-header-row {
+            flex-direction: column !important;
+            align-items: stretch !important;
+            gap: 14px !important;
+            padding-bottom: 16px !important;
+            margin-bottom: 16px !important;
+        }
+        .hero-brand-col {
+            width: 100% !important;
+            text-align: left !important;
+        }
+        .hero-title {
+            font-size: 1.35rem !important;
+            margin-bottom: 4px !important;
+        }
+        .hero-subtitle {
+            font-size: 0.7rem !important;
+            letter-spacing: 1px !important;
+        }
+        .stats-cards-col {
+            display: grid !important;
+            grid-template-columns: repeat(3, 1fr) !important;
+            gap: 8px !important;
+            width: 100% !important;
+        }
+        .stat-card {
+            min-width: 0 !important;
+            padding: 10px 4px !important;
+            border-radius: 8px !important;
+            text-align: center !important;
+        }
+        .stat-value {
+            font-size: 1.25rem !important;
+        }
+        .stat-label {
+            font-size: 0.62rem !important;
+            letter-spacing: 0.5px !important;
+            margin-top: 2px !important;
+        }
         #search-modal > div { width: 94% !important; max-height: 85vh !important; }
         .search-modal-header { padding: 12px 14px !important; }
         .search-result-item { padding: 10px 12px !important; }

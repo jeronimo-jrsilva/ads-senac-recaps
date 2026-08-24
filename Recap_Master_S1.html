@@ -156,19 +156,19 @@ body {
 .day-btn:hover { background: #30363d; color: var(--accent); }
 
 /* Stats Bar */
-.stats-bar { display: flex; gap: 15px; margin-bottom: 35px; flex-wrap: wrap; }
+.stats-bar { display: flex; gap: 15px; margin-bottom: 35px; flex-wrap: wrap; width: 100%; }
 .stat-card { 
     background: var(--card); 
     border: 1px solid var(--border); 
-    padding: 18px; 
+    padding: 18px 14px; 
     border-radius: 14px; 
     flex: 1; 
-    min-width: 150px;
+    min-width: 0;
     text-align: center; 
     box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 .stat-value { font-size: 1.8rem; font-weight: 800; color: var(--accent); display: block; }
-.stat-label { font-size: 0.75rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px; margin-top: 4px; }
+.stat-label { font-size: 0.72rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px; margin-top: 4px; font-weight: 700; }
 
 /* Lesson Card */
 .lesson-card {
@@ -1164,6 +1164,45 @@ th {
     }
 
     @media (max-width: 768px) {
+        .hero-header-row {
+            flex-direction: column !important;
+            align-items: stretch !important;
+            gap: 14px !important;
+            padding-bottom: 16px !important;
+            margin-bottom: 16px !important;
+        }
+        .hero-brand-col {
+            width: 100% !important;
+            text-align: left !important;
+        }
+        .hero-title {
+            font-size: 1.35rem !important;
+            margin-bottom: 4px !important;
+        }
+        .hero-subtitle {
+            font-size: 0.7rem !important;
+            letter-spacing: 1px !important;
+        }
+        .stats-cards-col {
+            display: grid !important;
+            grid-template-columns: repeat(3, 1fr) !important;
+            gap: 8px !important;
+            width: 100% !important;
+        }
+        .stat-card {
+            min-width: 0 !important;
+            padding: 10px 4px !important;
+            border-radius: 8px !important;
+            text-align: center !important;
+        }
+        .stat-value {
+            font-size: 1.25rem !important;
+        }
+        .stat-label {
+            font-size: 0.62rem !important;
+            letter-spacing: 0.5px !important;
+            margin-top: 2px !important;
+        }
         #search-modal > div { width: 94% !important; max-height: 85vh !important; }
         .search-modal-header { padding: 12px 14px !important; }
         .search-result-item { padding: 10px 12px !important; }

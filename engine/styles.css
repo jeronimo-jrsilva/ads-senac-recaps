@@ -148,19 +148,19 @@ body {
 .day-btn:hover { background: #30363d; color: var(--accent); }
 
 /* Stats Bar */
-.stats-bar { display: flex; gap: 15px; margin-bottom: 35px; flex-wrap: wrap; }
+.stats-bar { display: flex; gap: 15px; margin-bottom: 35px; flex-wrap: wrap; width: 100%; }
 .stat-card { 
     background: var(--card); 
     border: 1px solid var(--border); 
-    padding: 18px; 
+    padding: 18px 14px; 
     border-radius: 14px; 
     flex: 1; 
-    min-width: 150px;
+    min-width: 0;
     text-align: center; 
     box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 .stat-value { font-size: 1.8rem; font-weight: 800; color: var(--accent); display: block; }
-.stat-label { font-size: 0.75rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px; margin-top: 4px; }
+.stat-label { font-size: 0.72rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px; margin-top: 4px; font-weight: 700; }
 
 /* Lesson Card */
 .lesson-card {
