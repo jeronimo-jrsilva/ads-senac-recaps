@@ -686,6 +686,10 @@ th {
     }
 
     /* Month selector & Calendar */
+    .collapsible-content {
+        padding: 10px 4px !important;
+    }
+
     .month-selector {
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
@@ -702,8 +706,19 @@ th {
         flex-shrink: 0;
     }
 
+    .calendar-wrapper {
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 4px;
+    }
+
     .calendar-grid {
-        gap: 3px;
+        display: grid !important;
+        grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+        gap: 3px !important;
+        width: 100% !important;
+        min-width: 300px !important;
     }
 
     .calendar-header-day {
@@ -715,6 +730,8 @@ th {
         min-height: 46px;
         padding: 3px 2px;
         border-radius: 5px;
+        min-width: 0 !important;
+        overflow: hidden;
     }
 
     .day-number {
@@ -726,6 +743,9 @@ th {
         padding: 1px 2px;
         letter-spacing: 0;
         margin-top: 2px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
 
     /* Glossary */
@@ -1154,17 +1174,35 @@ th {
     }
 
     @media (max-width: 768px) {
-        .stats-bar {
+        .hero-header-row {
+            flex-direction: column !important;
+            align-items: stretch !important;
+            gap: 14px !important;
+            padding-bottom: 16px !important;
+            margin-bottom: 16px !important;
+        }
+        .hero-brand-col {
+            width: 100% !important;
+            text-align: left !important;
+        }
+        .hero-title {
+            font-size: 1.35rem !important;
+            margin-bottom: 4px !important;
+        }
+        .hero-subtitle {
+            font-size: 0.7rem !important;
+            letter-spacing: 1px !important;
+        }
+        .stats-cards-col {
             display: grid !important;
             grid-template-columns: repeat(3, 1fr) !important;
             gap: 8px !important;
-            margin-bottom: 18px !important;
             width: 100% !important;
         }
         .stat-card {
             min-width: 0 !important;
             padding: 10px 4px !important;
-            border-radius: 10px !important;
+            border-radius: 8px !important;
             text-align: center !important;
         }
         .stat-value {
@@ -1175,6 +1213,7 @@ th {
             letter-spacing: 0.5px !important;
             margin-top: 2px !important;
         }
+
         /* Header & Search Button on Mobile */
         .app-header {
             padding: 8px 10px !important;
@@ -1220,6 +1259,15 @@ th {
         .glossary-item { padding: 14px 16px !important; }
         .glossary-term { font-size: 1rem !important; }
         .glossary-def { font-size: 0.84rem !important; }
+
+        /* Calendar & Collapsible on Mobile */
+        .collapsible-content { padding: 10px 4px !important; }
+        .cal-filter-bar { overflow-x: auto !important; -webkit-overflow-scrolling: touch !important; flex-wrap: nowrap !important; padding-bottom: 6px !important; }
+        .cal-filter-btn { white-space: nowrap !important; flex-shrink: 0 !important; }
+        .calendar-wrapper { width: 100% !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important; padding-bottom: 6px !important; }
+        .calendar-grid { display: grid !important; grid-template-columns: repeat(6, minmax(0, 1fr)) !important; gap: 3px !important; width: 100% !important; min-width: 300px !important; }
+        .calendar-day { min-height: 46px !important; padding: 3px 2px !important; min-width: 0 !important; overflow: hidden !important; }
+        .cal-tag { font-size: 0.52rem !important; padding: 1px 2px !important; white-space: nowrap !important; overflow: hidden !important; text-overflow: ellipsis !important; }
     }
     
     </style>

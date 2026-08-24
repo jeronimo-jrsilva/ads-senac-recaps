@@ -1000,6 +1000,15 @@ def build():
         .glossary-item { padding: 14px 16px !important; }
         .glossary-term { font-size: 1rem !important; }
         .glossary-def { font-size: 0.84rem !important; }
+
+        /* Calendar & Collapsible on Mobile */
+        .collapsible-content { padding: 10px 4px !important; }
+        .cal-filter-bar { overflow-x: auto !important; -webkit-overflow-scrolling: touch !important; flex-wrap: nowrap !important; padding-bottom: 6px !important; }
+        .cal-filter-btn { white-space: nowrap !important; flex-shrink: 0 !important; }
+        .calendar-wrapper { width: 100% !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important; padding-bottom: 6px !important; }
+        .calendar-grid { display: grid !important; grid-template-columns: repeat(6, minmax(0, 1fr)) !important; gap: 3px !important; width: 100% !important; min-width: 300px !important; }
+        .calendar-day { min-height: 46px !important; padding: 3px 2px !important; min-width: 0 !important; overflow: hidden !important; }
+        .cal-tag { font-size: 0.52rem !important; padding: 1px 2px !important; white-space: nowrap !important; overflow: hidden !important; text-overflow: ellipsis !important; }
     }
     """
     

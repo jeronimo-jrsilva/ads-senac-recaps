@@ -206,8 +206,8 @@ def build():
                             <div class="hero-subtitle">Análise e Desenvolvimento de Sistemas • 2º Semestre</div>
                         </div>
                         <div class="stats-cards-col">
-                            <div class="stat-card"><span class="stat-value">2</span><span class="stat-label">Semanas</span></div>
-                            <div class="stat-card"><span class="stat-value">10</span><span class="stat-label">Aulas</span></div>
+                            <div class="stat-card"><span class="stat-value">{{TOTAL_SEMANAS}}</span><span class="stat-label">Semanas</span></div>
+                            <div class="stat-card"><span class="stat-value">{{TOTAL_AULAS}}</span><span class="stat-label">Aulas</span></div>
                             <div class="stat-card"><span class="stat-value">{{TOTAL_TERMOS}}</span><span class="stat-label">Termos</span></div>
                         </div>
                     </div>
@@ -898,17 +898,35 @@ def build():
     }
 
     @media (max-width: 768px) {
-        .stats-bar {
+        .hero-header-row {
+            flex-direction: column !important;
+            align-items: stretch !important;
+            gap: 14px !important;
+            padding-bottom: 16px !important;
+            margin-bottom: 16px !important;
+        }
+        .hero-brand-col {
+            width: 100% !important;
+            text-align: left !important;
+        }
+        .hero-title {
+            font-size: 1.35rem !important;
+            margin-bottom: 4px !important;
+        }
+        .hero-subtitle {
+            font-size: 0.7rem !important;
+            letter-spacing: 1px !important;
+        }
+        .stats-cards-col {
             display: grid !important;
             grid-template-columns: repeat(3, 1fr) !important;
             gap: 8px !important;
-            margin-bottom: 18px !important;
             width: 100% !important;
         }
         .stat-card {
             min-width: 0 !important;
             padding: 10px 4px !important;
-            border-radius: 10px !important;
+            border-radius: 8px !important;
             text-align: center !important;
         }
         .stat-value {
@@ -919,6 +937,7 @@ def build():
             letter-spacing: 0.5px !important;
             margin-top: 2px !important;
         }
+
         /* Header & Search Button on Mobile */
         .app-header {
             padding: 8px 10px !important;
@@ -964,6 +983,15 @@ def build():
         .glossary-item { padding: 14px 16px !important; }
         .glossary-term { font-size: 1rem !important; }
         .glossary-def { font-size: 0.84rem !important; }
+
+        /* Calendar & Collapsible on Mobile */
+        .collapsible-content { padding: 10px 4px !important; }
+        .cal-filter-bar { overflow-x: auto !important; -webkit-overflow-scrolling: touch !important; flex-wrap: nowrap !important; padding-bottom: 6px !important; }
+        .cal-filter-btn { white-space: nowrap !important; flex-shrink: 0 !important; }
+        .calendar-wrapper { width: 100% !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important; padding-bottom: 6px !important; }
+        .calendar-grid { display: grid !important; grid-template-columns: repeat(6, minmax(0, 1fr)) !important; gap: 3px !important; width: 100% !important; min-width: 300px !important; }
+        .calendar-day { min-height: 46px !important; padding: 3px 2px !important; min-width: 0 !important; overflow: hidden !important; }
+        .cal-tag { font-size: 0.52rem !important; padding: 1px 2px !important; white-space: nowrap !important; overflow: hidden !important; text-overflow: ellipsis !important; }
     }
     """
     
@@ -1181,6 +1209,9 @@ def build():
     final_html = final_html.replace("{{GLOSSARY_HTML}}", glossary_html)
     final_html = final_html.replace("{{NAV_MAP_JSON}}", json.dumps(nav_map, ensure_ascii=False))
     final_html = final_html.replace("{{SEARCH_INDEX_JSON}}", json.dumps(search_index, ensure_ascii=False))
+    total_aulas = sum(len(w['lessons']) for w in weeks_lessons_raw)
+    final_html = final_html.replace("{{TOTAL_SEMANAS}}", str(len(weeks_lessons_raw)))
+    final_html = final_html.replace("{{TOTAL_AULAS}}", str(total_aulas))
     final_html = final_html.replace("{{TOTAL_TERMOS}}", str(len(global_glossary)))
 
     out_file = PORTAL_DIR / "Recap_Master_S2.html"

@@ -678,6 +678,10 @@ th {
     }
 
     /* Month selector & Calendar */
+    .collapsible-content {
+        padding: 10px 4px !important;
+    }
+
     .month-selector {
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
@@ -694,8 +698,19 @@ th {
         flex-shrink: 0;
     }
 
+    .calendar-wrapper {
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 4px;
+    }
+
     .calendar-grid {
-        gap: 3px;
+        display: grid !important;
+        grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+        gap: 3px !important;
+        width: 100% !important;
+        min-width: 300px !important;
     }
 
     .calendar-header-day {
@@ -707,6 +722,8 @@ th {
         min-height: 46px;
         padding: 3px 2px;
         border-radius: 5px;
+        min-width: 0 !important;
+        overflow: hidden;
     }
 
     .day-number {
@@ -718,6 +735,9 @@ th {
         padding: 1px 2px;
         letter-spacing: 0;
         margin-top: 2px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
 
     /* Glossary */
