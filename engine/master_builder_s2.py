@@ -896,6 +896,18 @@ def build():
         0% { background: rgba(56, 189, 248, 0.35); }
         100% { background: transparent; }
     }
+
+    @media (max-width: 768px) {
+        #search-modal > div { width: 94% !important; max-height: 85vh !important; }
+        .search-modal-header { padding: 12px 14px !important; }
+        .search-result-item { padding: 10px 12px !important; }
+        .search-result-title { font-size: 0.85rem !important; }
+        .search-result-snippet { font-size: 0.75rem !important; }
+        .glossary-grid { grid-template-columns: 1fr !important; gap: 12px !important; }
+        .glossary-item { padding: 14px 16px !important; }
+        .glossary-term { font-size: 1rem !important; }
+        .glossary-def { font-size: 0.84rem !important; }
+    }
     """
     
     combined_css = master_css + "\n" + extra_css
@@ -1117,8 +1129,10 @@ def build():
     out_file = PORTAL_DIR / "Recap_Master_S2.html"
     out_file.write_text(final_html, encoding="utf-8")
     
-    # Mirror para index.html
+    # Mirror para portal/index.html e raiz do repositório (GitHub Pages)
     (PORTAL_DIR / "index.html").write_text(final_html, encoding="utf-8")
+    (REPO_ROOT / "Recap_Master_S2.html").write_text(final_html, encoding="utf-8")
+    (REPO_ROOT / "index.html").write_text(final_html, encoding="utf-8")
 
     print(f"🎉 Recap_Master_S2.html gerado com sucesso!")
 
