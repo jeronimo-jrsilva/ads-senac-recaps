@@ -1155,8 +1155,13 @@ def build():
     for k in sorted(global_glossary.keys(), key=lambda x: normalize_sort(global_glossary[x]["term"])):
         g = global_glossary[k]
         g['sources'].sort(key=lambda x: x['date'])
-        ps = g['sources'][0] if g['sources'] else None
-        source_btns = f"<button class='action-btn' onclick=\"showSection('{ps['id']}')\">{ps['name']}</button>" if ps else ""
+        seen_src_ids = set()
+        unique_sources = []
+        for s in g['sources']:
+            if s['id'] not in seen_src_ids:
+                seen_src_ids.add(s['id'])
+                unique_sources.append(s)
+        source_btns = "".join([f"<button class='action-btn' onclick=\"showSection('{s['id']}')\">{s['name']}</button>" for s in unique_sources])
         wiki_btn = f"<a href='{g['wiki']}' target='_blank' class='action-btn wiki-btn'>Wikipedia ↗</a>" if g.get("wiki") else ""
         glossary_html += f"<div class='glossary-item' id='term-{slugify(g['term'])}'><span class='glossary-term'>{g['term']}</span><div class='glossary-def'>{g['def']}</div><div class='glossary-footer'><div style='display:flex;gap:8px'>{source_btns}</div>{wiki_btn}</div></div>"
 
