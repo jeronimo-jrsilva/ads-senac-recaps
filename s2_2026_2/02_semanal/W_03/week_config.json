@@ -1,4 +1,4 @@
 {
-  "title": "Semana 3: Alocação de Memória em POO, Modularização em C e Carreira",
-  "text": "Aprofundamento na mecânica de alocação de memória (Stack vs. Heap em Java), engenharia de modularização com headers em C, modelagem conceitual de Banco de Dados com Engenharia de Software, e mentoria estratégica de currículo com o Senac Carreiras."
+  "title": "Semana 3: Alocação de Memória em POO, Modularização e Prática em C, e Dados",
+  "text": "Semana dedicada à modelagem prática: consultoria individual em Projeto Integrador 3, alocação de memória e ciclo de vida de instâncias na JVM (Stack vs. Heap em POO), modularização e prática intensiva de algoritmos e laços aninhados em C, e fundamentos de Engenharia de Software aplicados a Bancos de Dados Relacionais."
 }
