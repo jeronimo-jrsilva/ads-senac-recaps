@@ -1,4 +1,4 @@
 {
-  "title": "Semana 3: Alocação de Memória em POO, Modularização e Prática em C, e Dados",
-  "text": "Semana dedicada à modelagem prática: consultoria individual em Projeto Integrador 3, alocação de memória e ciclo de vida de instâncias na JVM (Stack vs. Heap em POO), modularização e prática intensiva de algoritmos e laços aninhados em C, e fundamentos de Engenharia de Software aplicados a Bancos de Dados Relacionais."
+  "title": "Semana 3: Alocação em POO, Laços for em C e Engenharia de Dados",
+  "text": "Semana focada na prática e consolidação: mentoria de bancada em Projeto Integrador 3, alocação de memória na JVM (Stack vs. Heap em POO), domínio e exercícios práticos do laço for e algoritmos em C, e Engenharia de Software aplicada a Bancos de Dados Relacionais."
 }
