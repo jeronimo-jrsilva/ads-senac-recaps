@@ -1,0 +1,955 @@
+--- TRANSCRIÇÃO GPU WHISPER: 2026-08-27 Quinta (Voz 260827_190011.m4a) ---
+Duração: 73:27 | Tempo de Inferência: 3.35 min (201.1s)
+
+[00:00 - 00:10] Eu falei a nota. Eu falei a nota.
+[00:10 - 00:18] Mas qualquer coisa que vocês forem lembrando, vocês podem perguntar, qual é?
+[00:18 - 00:21] É, é uma formação muito bonita.
+[00:21 - 00:26] A gente pode colocar os seus picados como baixo a carrosa.
+[00:26 - 00:30] Como assim, baixo a carrosa?
+[00:30 - 00:37] É, porque eu gosto de uso que ele tem 6 horas de duração.
+[00:37 - 00:40] Se for relevante, pode colocar?
+[00:40 - 00:45] Se for relevante para aquela vara, é assim.
+[00:45 - 00:55] O que é o papel do currículo? É importante que vocês toquem toda a informação que seja pertinente para aquela vada.
+[00:55 - 01:08] Outro eu comentei que, por exemplo, tem um currículo com várias, não só informações, mas várias experiências.
+[01:08 - 01:26] E você mantém esse currículo em geralzão, eu gosto de chamar geralzão, mas à medida que você foi encaminhando para um perfil que você também atenda ao requisito, você só prepare esse currículo com as informações relevantes para que ela vá dar.
+[01:26 - 01:41] Ah, eu fui pronto. Eu tenho casos aqui no rei de uma pessoa que tem uma baita experiência como cozinheiro.
+[01:41 - 01:45] E quando foi mais ou menos em 2024,
+[01:47 - 01:53] ele recebeu um parente que veio do interior, porque estava com o CA,
+[01:53 - 01:56] teve que fazer um tratamento e ficou na casa dele,
+[01:56 - 02:01] e aí ele teve que cuidar desse parente dele.
+[02:01 - 02:05] Na época a gente estava caminhando, de cozinheiro para ele,
+[02:05 - 02:09] e eles não dão na mão que eu vou dar um tempo, aí eles foram com a expressão, beleza.
+[02:09 - 02:14] Acabou que essa pessoa, como ele teve que cuidar, faleceu.
+[02:14 - 02:21] Mas ele se identificou também com essa área, com a área da saúde, ou seja, ele é com o
+[02:21 - 02:28] dinheiro de profissão, teve que com a situação da vida cuidar desse tio dele e ele teve que
+[02:28 - 02:31] fazer um curso de cuidador aqui no CELAC.
+[02:31 - 02:36] E aí ele disse, dono Amonico, eu também tenho interesse de ser encaminhado para várias
+[02:36 - 02:39] Cuidado do senhor, o nome dele é Marcos Lázaro.
+[02:39 - 02:41] Eu disse que beleza são marcos.
+[02:41 - 02:46] Agora quando nós fomos entrem ao senhor para uma vaga de cuidados,
+[02:46 - 02:53] no seu currículo ele vai estar com informações relacionadas a cuidados.
+[02:53 - 02:57] E o senhor pode colocar, a experiência pode ser,
+[02:57 - 03:00] não foi cuidados digamos, com carteira assinada,
+[03:00 - 03:03] mas o senhor, naquele período o senhor cuidou de uma pessoa.
+[03:03 - 03:08] Então é uma experiência? É, não deixa de ser uma experiência.
+[03:08 - 03:11] E aí, para que esse público dele ficasse mais rico,
+[03:11 - 03:17] ele coloca a informação de que ele fez o custo de cuidado.
+[03:17 - 03:22] Porque quando você reúne a prática com a teoria,
+[03:22 - 03:25] gente, isso é magnífico.
+[03:26 - 03:30] Porque quem está na faculdade, por exemplo,
+[03:30 - 03:35] Você vê na faculdade, o menoposto, toda parte teórica.
+[03:35 - 03:39] E quando você tem a oportunidade, aquilo que você vê em sala de aula, você praticar,
+[03:39 - 03:46] gente, isso é maravilhoso, porque você está vendo isso de forma literalmente prática.
+[03:46 - 03:48] Você vai sentir mais seguro.
+[03:48 - 03:54] Tanto é que quando o professor está ministrando uma aula, que você já começa a praticar,
+[03:54 - 03:57] isso facilita, inclusive, o aprendizado.
+[03:57 - 04:08] Então quando o professor deu aquela sugestão ontem, eu falei até para o aprendiz que trabalha comigo, que também está fazendo análise no movimento sistema, eu dei a sua dica para ele já hoje a tarde.
+[04:08 - 04:22] É, Erick, ontem um professor ensala até disse isso, que antes mesmo da próxima disciplina você já passou já buscando pesquisar esse molho que eu estou fazendo exatamente isso.
+[04:22 - 04:26] Gente, a curiosidade é importante.
+[04:26 - 04:32] importante. Pra quê? Pra que você não fique esperando. Porque às vezes o que é que acontece
+[04:32 - 04:37] com o aluno? Porque eu também sou aluno. Aluno também. Então às vezes o aluno acaba
+[04:37 - 04:43] ocupando a instituição, acaba ocupando o professor, não. O papel do professor, o papel
+[04:43 - 04:49] da instituição é inortear. Mas o seu desenvolvimento é o único exclusivamente
+[04:49 - 04:59] Seu? É sua responsabilidade de botar o conhecimento na cabeça de vocês.
+[04:59 - 05:05] Então, algum homem tem que ter essa curiosidade de precisar.
+[05:05 - 05:11] O máximo que a gente pode fazer é tentar despertar o interesse de vocês.
+[05:11 - 05:18] A gente faz piadinha, faz umas coisas que vão tentar estimular, mas se não vem de dentro, aí é muito...
+[05:18 - 05:22] Não há de alunos. E aí é tal coisa que ela conhece minhas também.
+[05:22 - 05:31] E não sejam alunos somente aqui, de bilô, de mesa, de sala de aula. Não!
+[05:31 - 05:38] Certo? Pesquisa em fulsa, meu filho, eu tô com o filho que tá, a Marneu fica da tecnologia, né?
+[05:38 - 05:42] Eu também disse fulsa para os outros. Mas para esse, principalmente para esse Marneu,
+[05:42 - 05:45] porque ele ia estar mais disto, mais distante, lá em Rússia.
+[05:45 - 05:47] Então, quando ele passou no vestibular,
+[05:47 - 05:49] que foi pra lá,
+[05:49 - 05:51] eu disse pra ele, Lucas,
+[05:52 - 05:54] colhe nos professores.
+[05:54 - 05:56] Ele compre, colhe nos professores.
+[05:56 - 05:59] Quem não é visto não é lembrado.
+[05:59 - 06:03] Então, assim, se envolvam em projetos na faculdade,
+[06:03 - 06:07] se envolvam em monitorias na faculdade,
+[06:07 - 06:10] porque, porque na hora que apareceu uma bolsa,
+[06:10 - 06:15] de quem é que o professor vai lembrar daquele aluno interessado?
+[06:15 - 06:19] na hora que o professor recebeu uma indicação de colega
+[06:19 - 06:22] porque a gente aparece, aparece mesmo
+[06:22 - 06:26] colega assim rapaz, eu estou com uma faga que você tem alguém pra indicar
+[06:26 - 06:29] o professor lembra daquele aluno
+[06:29 - 06:31] isso é fato, tá?
+[06:31 - 06:37] e ninguém vai indicar alguém que você realmente não conheça
+[06:37 - 06:41] Porque você indicar a pessoa e literalmente você assinar um chat em branco.
+[06:42 - 06:44] Eu me indico qualquer.
+[06:44 - 06:46] Eu estou na terceira faculdade.
+[06:46 - 06:51] A minha primeira experiência de faculdade foi uma.
+[06:51 - 06:54] Eu só passei pela faculdade.
+[06:54 - 06:56] Eu não aproveitei, eu não aproveitei.
+[06:56 - 06:58] Até muitas vezes pela porque é muito jovem.
+[06:58 - 06:59] Exatamente.
+[06:59 - 07:02] A segunda já foi completamente diferente.
+[07:02 - 07:05] Já tinha um relacionamento mais próximo dos professores.
+[07:05 - 07:10] Já não tinha certos recenhos quando mais jovem eu tinha.
+[07:10 - 07:15] Nessa terceira, então, pelo amor de Deus, eu estou todo solto lá dentro daqueles que
+[07:15 - 07:16] eu naquilo eu tenho.
+[07:16 - 07:17] É a maturidade que é muito importante.
+[07:17 - 07:21] Todo mundo conhece, eu entro em tudo que é sala, saem cheios, sabe como é, não tem
+[07:21 - 07:25] mais mesmo de nada, mas é comer o bem dos meus colegas também.
+[07:25 - 07:29] Então, me interessa tentar fazer as coisas a melhor maneira possível.
+[07:29 - 07:32] Eu sei que a hora que surge é uma oportunidade por lá.
+[07:32 - 07:34] Pelo menos lembrar de mim não.
+[07:34 - 07:41] Exato o vídeo. E assim, professor, né? Quando o professor dá essas dicas, quando o professor
+[07:41 - 07:47] indica material para vocês que estudarem, gente, é o melhor. Eu sei que às vezes tem
+[07:47 - 07:53] aluno que acha ruim. Ah, professor não quer, fica babinando até, mas porque? Porque tudo
+[07:53 - 07:59] que o professor quer é o satisfeito de medo. Gente, não queriam ser profissionais a Arroz
+[07:59 - 08:03] Arroz com feijão, qualquer um faz.
+[08:03 - 08:10] Antigamente, um vitado que dizia assim, você passa do limão uma limonada?
+[08:10 - 08:13] Não, eu faço um limonado, não.
+[08:13 - 08:16] Você passa do limão, sabe o que?
+[08:16 - 08:20] Um suco não é limonado, você passa do limão, um mousse.
+[08:20 - 08:24] O mousse é muito melhor, o bolo, entendeu?
+[08:24 - 08:34] Então, veja o que você pode incrementar na turma, que é que você pode vitaminar na sua carreira.
+[08:34 - 08:41] Porque nós não falamos somente de carreira profissional, a gente está falando de um bem pessoal.
+[08:41 - 08:47] Porque não tem como você crescer profissionalmente, se você também não crescer profissionalmente como pessoa.
+[08:47 - 08:53] Até porque, como eu falei, o mercado reúne dois pilares.
+[08:53 - 09:00] Pécnico e comportamental. Não adianta eu investir só no técnico, se eu não invisto no meu comportamental.
+[09:00 - 09:09] 95% das deprições nas empresas estão ligadas diretamente a comportamento.
+[09:09 - 09:16] O técnico e a empresa, no processo evitivo, se tira uma pessoa técnicamente muito boa,
+[09:16 - 09:25] E uma outra, comportamentamente muito boa, que atenta os requisitos em relação à missão, visão, valores e cultura da empresa,
+[09:25 - 09:32] e a entender que essa pessoa tem abertura e a vontade de ser trabalhada, eles não aposta aqui.
+[09:32 - 09:38] Não adianta eu ter o técnico, mas se eu não sou uma pessoa que tem uma boa capacidade em relacionar,
+[09:38 - 09:44] se sou uma pessoa que não aceita feedback, se sou uma pessoa que não está aberta para aprender,
+[09:44 - 09:50] Porque essa pessoa vai infernizar o ambiente organizacional e eu vou perder gente.
+[09:50 - 09:53] E isso eu continuo tocando com a empresa.
+[09:53 - 10:01] Quando eu perco alguém que eu vou repôr essa vaga, eu vou perder no mim uns 6 meses.
+[10:01 - 10:03] É o período de adaptação.
+[10:03 - 10:08] 6 meses para uma empresa é muito tempo.
+[10:08 - 10:13] 6 meses eu posso perder excelentes profissionais pela pessoa sobrecabe.
+[10:13 - 10:17] Então eu preciso, independente do carro ou com a empresa,
+[10:17 - 10:19] eu preciso entender de gente.
+[10:20 - 10:24] Aquele perfil que o gestor tinha que entender só de números.
+[10:24 - 10:26] Perfeito, tem que entender.
+[10:26 - 10:29] Mas não adianta eu entender de números,
+[10:29 - 10:31] se eu não sei dar um feedback,
+[10:31 - 10:35] se eu não sei conversar com o meu colaborador,
+[10:35 - 10:40] se eu não sei me informar como é que eu vou desligá-lo,
+[10:40 - 10:47] Se eu não consigo acompanhar, então tudo isso se faz necessário.
+[10:47 - 10:53] Na empresa que eu trabalhei em 2007, nós fizemos uma verdadeira revolução.
+[10:53 - 10:58] Porque tudo era responsabilidade do RH. Então quer que a gente ouvia?
+[10:58 - 11:05] Ah, mas eu contratei ela, tá? Porque vocês mandaram contratar, mas ela não tem o perfil.
+[11:05 - 11:11] Erramos durante muito tempo não somar, mas o erradar de modo geral nas ofrezas errou muito,
+[11:11 - 11:14] porque só quem aprovava era a gente.
+[11:14 - 11:19] Ninguém sentava para ouvir o gestor, para convidar o gestor para entrevistar.
+[11:19 - 11:22] Ele tinha mais conhecimento de causa para o melhor perfil.
+[11:22 - 11:29] E aí quer desenhamos todo o processo e aí literalmente ensinamos o gestor a entrevistar,
+[11:29 - 11:33] a demitir, a acompanhar, a dar fonte vergo,
+[11:33 - 11:35] com mudança de cultura,
+[11:35 - 11:38] e com o papel da HHI,
+[11:38 - 11:42] a gente apenas atuar de forma estratégica.
+[11:42 - 11:46] Nós estamos entrando com a toda nossa parte técnica
+[11:46 - 11:48] apresentando a parte concorda metáfora.
+[11:48 - 11:51] Gente, isso daí foi fulindo.
+[11:51 - 11:55] Isso diminui consideradamente os índices de cautatividade,
+[11:55 - 11:57] abscenteísmo, entendeu?
+[11:57 - 12:02] porque a gente está falando de comportamento.
+[12:02 - 12:05] A gente só faz uma intervenção da dois facinhos para a traça,
+[12:05 - 12:07] quando você falou de teoria em prática.
+[12:07 - 12:13] Sim, na faculdade a gente tem mais teoria do que no técnico, por exemplo,
+[12:13 - 12:15] que é muito mais voltado para a prática.
+[12:15 - 12:18] Mas também existe muita questão do professor.
+[12:18 - 12:25] Isso, estimular de trazeis todos de casa, culturistas, visitas técnicas.
+[12:25 - 12:29] E é hoje mesmo, parece que as coisas se entremeiam.
+[12:29 - 12:32] Eu estava falando com o colarameu, que ele está com dificuldade na mediciclina,
+[12:32 - 12:35] porque o professor é muito prático.
+[12:35 - 12:39] Ele vai direto para o código e mostra as coisas no código,
+[12:39 - 12:44] mas há teoria por trás da memória disciplina de oratação de objetos.
+[12:44 - 12:48] Há teoria por trás, ele meio que passou por cima.
+[12:48 - 12:52] Ele falou um pouquinho da primeira aula, é isso, é isso, a observação encapsulada.
+[12:52 - 12:56] por exemplo, o polimorfismo e o orçamento, e aí o orçamento passou, vamos em um ponto código.
+[12:56 - 13:05] E aí fica muito difícil de gente entender, parece que a gente fica só copiando código, sem entender o que está fazendo.
+[13:05 - 13:11] Então ele fala em caturro, não, no momento em que a gente vai parar, ele vai estudar isso, o que ele quer, e vai entender,
+[13:11 - 13:13] e aí a coisa vai ficar mais fácil.
+[13:13 - 13:15] Porque não você entende?
+[13:15 - 13:20] Entende, o que é encapsulamento, a abstração, onde estão aqueles conceitos no código,
+[13:20 - 13:22] você para de pensar por que isso vai aqui,
+[13:22 - 13:26] qual a diferença entre atributo e béculo,
+[13:26 - 13:28] você começa a entender isso.
+[13:28 - 13:31] Você para de gastar a energia para decorar.
+[13:31 - 13:32] Pensa.
+[13:33 - 13:37] Quando você faz algo que você nem consegue entender,
+[13:37 - 13:41] os lindos, os gargalos, por isso,
+[13:41 - 13:43] você vai conseguindo assimilar,
+[13:43 - 13:45] conseguir fazer realmente,
+[13:45 - 13:49] Quando você vê uma situação, você consegue...
+[13:49 - 13:53] Realmente repetir aquilo que você estudou.
+[13:55 - 13:56] Então vamos lá.
+[13:56 - 13:59] E no currículo, o que é que eu preciso é britar.
+[13:59 - 14:01] Primeiro, não posso fazer de qualquer jeito.
+[14:02 - 14:03] A gente sabe o homem.
+[14:03 - 14:05] Quando você vai para uma festa, por exemplo.
+[14:05 - 14:10] Quando você vai encontrar aquela menina, aquele menino, aquela pessoa, você quer conquistar.
+[14:10 - 14:13] Você não se prepara, é um homem.
+[14:13 - 14:18] Então o micro plantenta é a mesma forma, eu preciso preparar.
+[14:18 - 14:25] E eu preciso tomar alguns cuidados, nunca coloque jamais informação falsa.
+[14:25 - 14:31] Por que? Ah, mas eu quero tanta essa vara, estar pedindo esse requisito,
+[14:31 - 14:33] eu vou colocar o que eu quero conseguir.
+[14:33 - 14:38] De repente, se você consegue ser aprovado, com certeza vão me cobrar.
+[14:38 - 14:40] Porque eu estava lá no requisito.
+[14:40 - 14:45] E aí o que acontece, na hora você vai dizer, não, não, não, não, não, nem já perdi.
+[14:45 - 14:48] Isso é o que? Desomesticante.
+[14:48 - 14:55] Certo? Cuidado com erro gramatical. Pode parecer roubagem, mas não é.
+[14:55 - 15:01] Tem dúvida em uma palavra. Pesquisa do mundo. Tá certo?
+[15:01 - 15:06] Ah, mas eu acho que assim, não a achologia não funciona.
+[15:06 - 15:22] Veja realmente como é que faz, porque quando você pensa e cuidado, você também está demonstrando a competência de atenção, de zero, de cuidado, de detalhe, tá certo?
+[15:22 - 15:35] E se for uma competência essencial para aquele cargo, a questão da atenção concentrada, quando você já não pensa aqui, já pode contar de forma negativa.
+[15:35 - 15:43] Porque todo carro tem as competências essenciais e aquelas competências secundárias.
+[15:43 - 15:45] Certo, o divino?
+[15:45 - 15:48] Como profissional de RH.
+[15:48 - 15:51] Certo, então existem lá competências essenciais.
+[15:51 - 15:53] O que é competência essencial?
+[15:53 - 15:57] Aquela que não pode deixar de ter.
+[15:57 - 16:03] É requisito, realmente é necessário para aquele carro.
+[16:03 - 16:14] Por exemplo, o motorista de caminhão, uma competência essencial, é a habitação D ou E, se for motorista de caminhão.
+[16:14 - 16:19] Ele pode ter uma habitação B? Não, de jeito nenhum.
+[16:19 - 16:26] Aí eu vou trazer exemplo de outra parede. Caminhão, motorista de caminhão de resíduo sólido.
+[16:26 - 16:30] Esse caminhão que coleta o nosso lixo três vezes na semana.
+[16:30 - 16:34] Lá no Bucomarquismo, uma competência é essencial para quem é motorista.
+[16:35 - 16:37] Além da carteira.
+[16:37 - 16:38] D.O.E.
+[16:38 - 16:41] Sabe com a competência que ninguém mais gira que seja.
+[16:41 - 16:43] Liderança.
+[16:43 - 16:50] Aí pergunta, por que o motorista de comando de lixo tem que ter liderança?
+[16:50 - 16:57] Porque ele tem três pessoas que são subordinadas a ele, quem são os três garins.
+[16:57 - 17:01] Porque ele responde com merda diária, ele e os três garins.
+[17:01 - 17:10] Porque o fiscal não tem como estar o tempo todo na rota com o motorista e com os coletores.
+[17:10 - 17:14] Quem é que faz esse papel, esse meio de campo, é o motorista?
+[17:14 - 17:20] Então, preciso ter um motorista que tem uma boa capacidade de liberança
+[17:20 - 17:24] para poder segurar, para poder motivar...
+[17:24 - 17:30] A gente sabe que a motivação é a caixa interna, mais uma pessoa que tem esse curso.
+[17:30 - 17:36] Então, por exemplo, se eu tinha uma pessoa que tinha habilitação de, mas não tinha liberança, tinha como.
+[17:36 - 17:40] Porque isso me trazia um problema no dia a dia.
+[17:40 - 17:42] Ele ia ser realmente um traseco-íris.
+[17:43 - 17:45] Pelo mesmo, não manda a ele.
+[17:45 - 17:46] Entendeu?
+[17:46 - 17:49] E isso aí, foco. Muita gente pergunta.
+[17:49 - 17:52] Foto somente se avarra solicitar.
+[17:54 - 17:59] E se você conheceria foto, lembre que o currículo é um documento profissional.
+[17:59 - 18:02] Então não posso inserir qualquer foto.
+[18:02 - 18:09] Ah, eu estava lá praia, estava lá na balada, achei tão massa, né? Tão bacana a minha foto? Não.
+[18:09 - 18:15] É uma foto próxima. Então, de preferência só dar aqui pra cá, tá?
+[18:15 - 18:19] Uma foto que seja descrétida, porque você veja uma foto, tá?
+[18:19 - 18:23] Lembrando que os poderes do campo já vem com um caizinho pra foto, tá?
+[18:23 - 18:24] É.
+[18:25 - 18:29] Pra atenção salaria, somente se avaga solicitar.
+[18:29 - 18:32] Isso é um negócio que é possível.
+[18:32 - 18:37] O valor vai quando você protege o gano, você protege o margina.
+[18:37 - 18:39] Aí você que dá o primeiro, o homem já perdeu.
+[18:41 - 18:43] Mas o que você pode fazer?
+[18:43 - 18:45] Você não vai estar vado?
+[18:45 - 18:47] Pesquisa quanto é que vai ficar.
+[18:47 - 18:47] A média.
+[18:47 - 18:49] A média, tá?
+[18:49 - 18:55] Agora você só insere a informação realmente se pedir.
+[18:55 - 18:56] Ai meu Deus, estou aqui.
+[18:57 - 18:59] Já vou voltar a lixo?
+[18:59 - 19:16] Deus é, por quê? Toda empresa trabalha com pede salarial e se aquele pede salarial que você informar estiver muito acima do que o recrutador pode negociar contigo na entrevista,
+[19:16 - 19:22] ele praticamente vai estar descartado, porque ele vai ver que não, ele não abre em um circuito.
+[19:22 - 19:27] Reparecia profissional e pessoal, somente também na entrevista.
+[19:27 - 19:33] Antigamente as pessoas colocavam um currículo, um monte de uma série de telefones e contatos.
+[19:33 - 19:35] Gente, não precisa.
+[19:35 - 19:44] Todas essas informações na entrevista, no final, o reputador pode solicitar a você esses números de detalhe.
+[19:44 - 19:52] Quando você informar o contato de alguém, é interessante que você também antes ou mesmo depois,
+[19:52 - 19:54] converse com essa pessoa.
+[19:54 - 20:00] Digam, eu posso ver um processo eletivo, pode ser o seu contato, ou se alguém ligar,
+[20:00 - 20:02] para que? Para deixar a pessoa de sobreaviso.
+[20:02 - 20:11] Para de repente ela não ser tomada de surpresa, então é importante também você ter esse cuidado.
+[20:11 - 20:13] Não.
+[20:13 - 20:18] Certo? Descrição subjetiva e muitos adjetivos.
+[20:18 - 20:24] É aquela situação de as pessoas enchem um texto já elaborado, preparado,
+[20:24 - 20:26] pesquisado, que voa em um chat, você vê?
+[20:26 - 20:31] Você vai colocar, tá? Então, evitem também.
+[20:31 - 20:33] Pode até usar um chat que, de repente, para melhorar,
+[20:33 - 20:35] não entende que você tenha um livro,
+[20:35 - 20:39] mas não para ser aquela coisa que não cabe a chato.
+[20:39 - 20:44] motivo de desligamento, também não precisa você colocar no seu rico
+[20:44 - 20:48] isso é conversado também no momento da entrevista
+[20:48 - 20:54] e com rico informar ao longo de tempo, com o vado, desonérgio, o pessoal exagerar
+[20:54 - 20:57] até aqui tá ok?
+[20:57 - 20:58] estou claro?
+[20:58 - 20:59] perguntas ou não?
+[20:59 - 21:00] podemos continuar?
+[21:00 - 21:02] sim ou não?
+[21:02 - 21:03] sim
+[21:03 - 21:04] é?
+[21:04 - 21:08] Corrível por e-mail.
+[21:08 - 21:15] Às vezes acontece, a empresa não tem a sua plataforma mais direciona que você tem para encaminhar um e-mail.
+[21:15 - 21:28] Como eu mencionei, salvo o currível em PDF, defina o assunto, porque o RH não trabalha somente com aquela vaga que você está se candidatando.
+[21:28 - 21:31] Geralmente ele tem outros processos adetivos.
+[21:31 - 21:36] Então coloca lá, Vada Shades, vai acosentar as cantas da câmera.
+[21:36 - 21:41] Que o bom trejo de apresentação e agradecimento,
+[21:41 - 21:46] temos esse aqui, onde a pessoa se recompo a recrutadora,
+[21:46 - 21:51] ela informou o nome dela, a vaga que ela estava se cantando,
+[21:51 - 21:56] era pra auxiliar de saúde local, e olha só aqui aquela apresentação.
+[21:56 - 22:04] O resumo profissional é que ela já foi formando, que ela é auxiliar de saúde local, aquis já são as palavras-chaves.
+[22:04 - 22:09] Que você pode, de repente, colocar isso para o tênis lá no currículo.
+[22:09 - 22:16] Ela informou que tem uma experiência e a incluímos requisitos da varda que ela cumpria.
+[22:16 - 22:21] Aí ela já foi chamando a atenção do recrutador.
+[22:21 - 22:26] de detalhe, ela disse que eu estou pulsando o último período no curso de saúde vécnico,
+[22:26 - 22:28] então, percina.
+[22:28 - 22:32] Quando ela traz essa informação, o último período, porque?
+[22:33 - 22:39] Da mesma forma se você estiver pulsando com a faculdade, diga qual período que você está pulsando.
+[22:39 - 22:47] Porque o recrutador, ele, como já tem o perfil desenhado, ele sabe exatamente
+[22:47 - 22:53] quais atividades serão necessárias para que esse candidato
+[22:53 - 22:56] realize e ele se aprovada.
+[22:56 - 22:58] Então, se você está ainda terminado pelo buco,
+[22:58 - 23:04] ele vai saber quais as disciplinas você está vendo
+[23:04 - 23:07] e que podem ser relevantes para aquela atividade
+[23:07 - 23:09] se você for candidato à escolha.
+[23:10 - 23:14] Então, era de sempre, o meu curlíquo para mim candidato
+[23:14 - 23:44] x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x, x
+[23:44 - 23:52] para preparar o currículo, se é, vales preparar o e-mail, define o assunto e esqueça de mandar o currículo, acontece, acontece.
+[23:53 - 24:04] E, não menos importante, planeje o acompanhamento. Envi o currículo por e-mail, acompanha a tua caixa de e-mail.
+[24:05 - 24:12] Porque pode ocorrer, daquele mesmo dia ou no dia seguinte, você ser convidado para participar do processo de atingir.
+[24:12 - 24:18] de repente mandou pela manhã e a empresa mandou a mensagem te convocando a tarde
+[24:18 - 24:24] você só foi acessar a tua caixa no dia seguinte já foi
+[24:24 - 24:32] outro detalhe importantíssimo você foi chamado para a entrevista confirmou que
+[24:32 - 24:39] vai e por algum motivo de força maior não pode comparecer gente entre em
+[24:39 - 24:48] contato com o erragada pela empresa. Se recebeu por e-mail, explica um tipo. Isso demonstra
+[24:48 - 24:56] uma atitude respeitosa e de comprometimento. Eu diria mais, não só em relação a entrevista
+[24:56 - 25:02] e a RH, qualquer compromisso que você tenha, que você não vai comparecer, avisa assim
+[25:02 - 25:07] que você sabe que não vai comparecer. Às vezes só dá pra avisar em cima da hora.
+[25:07 - 25:09] Eu pedeu o fulô, não estava isso, desculpa, não?
+[25:09 - 25:11] Mas ele justifica, é.
+[25:11 - 25:15] Não, não vou chegar. Às vezes a pessoa sabe duas semanas antes, cara, desculpa, não fui o teu
+[25:15 - 25:17] aniversário porque eu tinha um dentista marcado.
+[25:17 - 25:19] Olha, que nome elezor.
+[25:19 - 25:25] Aí vocês podem perguntar, mais única, por que que é isso importante?
+[25:25 - 25:28] Ele já é importante, aí eu falo como é magada.
+[25:28 - 25:35] Porque quando você falta um processo errativo, você não justifica, qual é a leitura que a gente faz?
+[25:35 - 25:42] É, que bom que nem compareceu, porque se nem para entrevista justificou, imagina se
+[25:42 - 25:46] tivesse sido contratado quando faltasse me justificar nada.
+[25:46 - 25:54] Olha só, porque quando você está entrevistando o candidato, a parte da tua fala a gente já
+[25:54 - 26:00] vai começando a imaginar as situações que você vai viver na empresa porque a gente
+[26:00 - 26:05] Você já sabe que possíveis dificuldades, desafios...
+[26:05 - 26:08] Essa pessoa vai enfrentar dentro daquele carro.
+[26:08 - 26:12] Então a gente já consegue ali imaginar.
+[26:12 - 26:15] Muitas vezes você até vê aquela situação.
+[26:15 - 26:18] E, de repente, nesse mesmo processo...
+[26:18 - 26:23] A gente consegue identificar se você tem até um perfil para além daquele carro.
+[26:23 - 26:28] Essa pessoa é potencial para uma vaga que eu vou ver aqui.
+[26:28 - 26:30] Não se engano.
+[26:30 - 26:35] Nós vamos fazendo todas essas leituras no processo eletivo.
+[26:35 - 26:37] Aí talvez você também diga,
+[26:37 - 26:40] Ah, Mônica, tudo bem. Então, eu tenho que fazer isso,
+[26:40 - 26:43] mas quanto os processos eletivos eu participo,
+[26:43 - 26:45] eu nunca recebi um retorno.
+[26:45 - 26:47] É horrível isso.
+[26:47 - 26:53] Eu como errar, eu acho isso um atitude extremamente desrespeitosa.
+[26:53 - 26:56] Porque uma pessoa que está no processo eletivo,
+[26:56 - 26:58] Ela está lixando expectativas.
+[26:58 - 27:00] Então assim, eu pessoalmente,
+[27:00 - 27:03] eu reproco quem faz isso.
+[27:04 - 27:08] Por isso que, quando eu realizava as intervinas,
+[27:08 - 27:12] como eu sabia do volume de trabalho que eu tinha,
+[27:12 - 27:16] como eu sabia que eu não tinha braços suficientes,
+[27:16 - 27:20] nem um equipe suficiente, capaz de dar o retorno
+[27:20 - 27:23] para aquele volume de seleção que eu tinha,
+[27:23 - 27:32] Eu ali já sinalizava, eu já estabelecia, mas detalhe, se você estabelece uma data, enquanto derraga, compra.
+[27:32 - 27:38] Então se eu estabelecer aquela data, olha, se até quando dá, até o dia, eu não consegui.
+[27:38 - 27:46] Você não recebe a nossa ligação, entenda, que é porque você não avançou para o processo de efetiva, mas também tem outro detalhe.
+[27:46 - 27:56] muitas vezes ocorrem situações na empresa onde houve uma mudança de repente de planejamento
+[27:56 - 28:03] e a vaga foi suspensa, enfim, acontecem todas essas situações nos partigores também,
+[28:03 - 28:13] mas não se preocupem se o outro não faz, faça sua parte, não se baseem pelo outro
+[28:13 - 28:15] mas é por você.
+[28:15 - 28:17] Insiste o LinkedIn
+[28:17 - 28:19] que não se encontra no LinkedIn
+[28:19 - 28:21] aproveita, triunfa no LinkedIn
+[28:21 - 28:23] o LinkedIn é a maior rede
+[28:23 - 28:25] de datação profissional
+[28:25 - 28:27] muitas empresas utilizam o LinkedIn
+[28:27 - 28:29] detalhe o LinkedIn
+[28:29 - 28:31] é diferente do Instagram
+[28:31 - 28:33] o LinkedIn poste somente
+[28:33 - 28:35] informações referentes
+[28:35 - 28:37] à tua vida profissional
+[28:37 - 28:39] então participou de uma
+[28:39 - 28:41] palestra, foi ao fórum
+[28:41 - 28:47] Enfim, fez o projeto de integração com o Instagram, gente.
+[28:47 - 28:50] O Instagram não tem o linkadinho, perdão.
+[28:50 - 28:51] Não tem o linkadinho.
+[28:51 - 28:55] É uma forma de você dar visibilidade à tua vida profissional.
+[28:55 - 29:00] Porque na hora que alguém for pesquisar lá o cargo X,
+[29:00 - 29:07] e você incluir lá, que você tem interesse de ser encaminhado,
+[29:07 - 29:11] de ser vírgula por essa vaga, lá eles vão ver as suas publicações e tudo isso,
+[29:11 - 29:20] O Limpedim vai abrir essas portas, detalhe também no Limpedim, siga aqueles profissionais
+[29:20 - 29:27] vendo o seguimento que você deseja seguir, siga aquelas empresas, é uma forma de você
+[29:27 - 29:32] conhecer esses profissionais, ver o movimento do mercado em relação a o seguimento que
+[29:32 - 29:39] você pretende atuar e também como é o comportamento desses profissionais, as ditas que eles dão
+[29:39 - 29:44] em relação a isso. Então é ótima oportunidade você fazer o network.
+[29:46 - 29:59] E aqui no modelo básico mesmo, sério, de currido com algumas, digamos assim, alguns requiseiros,
+[29:59 - 30:05] top um melhor de sempre, sempre coloca um nome completo, é terrível, quando a gente pega um currido
+[30:05 - 30:09] Pega um currinho que a pessoa bota, mas ali é doado, por exemplo.
+[30:09 - 30:11] Ali é doado, ele diz.
+[30:11 - 30:14] Então, nome completo.
+[30:14 - 30:26] Detalhe, utiliza uma fonte aqui, onde ela possa se destacar em relação às outras informações que tem ocorrido.
+[30:26 - 30:34] Então, é uma fonte muito exagerada? Não, mas uma fonte que possa destacar os problemas.
+[30:34 - 30:35] Inmediatamente.
+[30:35 - 30:40] Aqui eu coloquei na nacionalidade porque tem pessoas que não são brasileiras.
+[30:40 - 30:46] Então se de repente a pessoa de uma outra nacionalidade pode colocar,
+[30:46 - 30:49] mas se você é brasileiro não precisa.
+[30:49 - 30:53] Isto é do civil, não é necessário, tá certo?
+[30:53 - 30:58] Idade, porque é que a gente recomenda, se for pra vaga de jovem aprendiz.
+[30:58 - 31:10] Porque quando você com a idade isso nos ajuda, enquanto o recrutador faz a triagem por conta da faixa tária que é prevista pela lei das mensagens, tá?
+[31:10 - 31:16] O endereço pode colocar completo não necessariamente, você pode colocar o barco.
+[31:16 - 31:22] Porque isso também ajuda o recrutador na atriagem dos curríveis.
+[31:22 - 31:28] Até para que a gente possa ter uma ideia, uma mensuração de deslocamento,
+[31:28 - 31:34] se de repente você é de calcar, ele avaga, sei lá, para que irá descer.
+[31:34 - 31:38] Então tudo isso, o recrutador, ele também vai analisando.
+[31:38 - 31:39] Isso é?
+[31:39 - 31:44] Para quê? De repente a pessoa diz que aceita, mas depois de uns dois meses,
+[31:44 - 31:46] já desiste pela questão do deslocamento.
+[31:46 - 31:51] Então, todas essas questões de recrutador também vai amavizando
+[31:51 - 31:55] o seu contato, o seu e-mail e o entendimento.
+[31:55 - 31:58] O objetivo sempre vai ser
+[31:58 - 32:03] dessa forma atuar como o cabo da vara que você está se adigatando.
+[32:03 - 32:06] É aquele texto, certo?
+[32:06 - 32:10] E a gente vê muitas vezes aí, aquilo que não diz nada.
+[32:10 - 32:12] E aqui eu resumo.
+[32:12 - 32:15] ser bem-vente àquele que nós vimos agora.
+[32:15 - 32:19] Ah, mônica, mas eu não tenho experiência nenhuma.
+[32:19 - 32:22] Quer ser encaminhar pra vaga de jovens aprendizinhos
+[32:22 - 32:25] e não com o objetivo de atuar como jovens aprendizinhos.
+[32:25 - 32:27] Simples e sim.
+[32:27 - 32:29] A gente já sabe que se é como jovens aprendizinhos,
+[32:29 - 32:31] se você não teve experiência,
+[32:31 - 32:32] pode se colocar,
+[32:32 - 32:35] quer atuar como jovens aprendizinhos.
+[32:35 - 32:38] Desejo, acho que é minha primeira experiência,
+[32:38 - 32:40] aproximar simples.
+[32:40 - 32:44] mas diga o experiência e faça o mesmo no breve
+[32:44 - 32:51] qual é a propriedade, quando tem que você tem a livre experiência, tá certo?
+[32:51 - 32:54] porque que são as palavras fechadas
+[32:54 - 32:58] e aí você inclui os requisitos de trabalho que você adente
+[32:58 - 33:00] formação atadente, tá ok?
+[33:00 - 33:04] se você tem graduação, se está fazendo pós-graduação
+[33:04 - 33:07] se está fazendo isso no médio, se possui esse numério
+[33:07 - 33:12] Se tiver na faculdade aquilo que eu mencionei, diga qual semestre você está.
+[33:14 - 33:16] E previsão de termina, ok?
+[33:17 - 33:19] Então, aqui é formação atadeira.
+[33:21 - 33:26] Experiência profissional, nome da empresa, sempre começando pela última.
+[33:27 - 33:33] Mônica já trabalhei em dez empresas, não para colocar as dez. Coloque as três últimas.
+[33:33 - 33:39] A experiência profissional foi colocada no mesmo não-sembro...
+[33:39 - 33:41] De carteira assinada?
+[33:41 - 33:44] Não, de forma legítima, de forma legítima de praia.
+[33:44 - 33:46] Pode, pode colocar.
+[33:46 - 33:53] É, é uma dúvida minha também, porque assim, quando eu já fui produtor de muita coisa,
+[33:53 - 33:56] então quando me cai de lado para a barra de professora,
+[33:56 - 34:02] eu coloco as coisas que eu ensinei que não necessariamente estão alinhadas com aquilo da proposta da barra.
+[34:02 - 34:06] mas você vai para uma vaga de programador, por exemplo,
+[34:06 - 34:09] muitas vezes eu não falo que eu sou professor de dança.
+[34:09 - 34:11] Porque não é relevante?
+[34:11 - 34:15] É, porque é bem distante, não tem nada que conecte.
+[34:15 - 34:19] Me diz algo, me diz um caso só para eu entender melhor.
+[34:19 - 34:23] Não, eu sou bom. Eu quero iniciar na área de programação,
+[34:23 - 34:25] e é o que eu não estou conseguindo.
+[34:25 - 34:27] Só que eu não tenho experiência nessa área,
+[34:27 - 34:29] que tem experiência em outras áreas.
+[34:29 - 34:30] Que outras áreas?
+[34:30 - 34:38] Eu já fui prescindamente da parte da sua, já fui, o que mais?
+[34:38 - 34:44] Sou o senhor do Cidade de Mundo, sou o senhor do Cidade de Mundo.
+[34:44 - 34:50] Pronto, você pode colocar aquelas que você tem que conversa de alguma forma, com a vaga.
+[34:50 - 34:56] Agora, quando for aqui, você pode também, de repente, colocar.
+[34:56 - 35:00] Atua ele também como frente. Você entender ele?
+[35:00 - 35:02] O permissão de nada mais.
+[35:02 - 35:07] Mas, assim, aquele preferência coloca até a tela que você entende que conversa.
+[35:07 - 35:10] Tá? Então, ele precisa colocar essa de frente.
+[35:10 - 35:14] Porque não tem nada a ver com você?
+[35:14 - 35:16] Não, não tem nada a ver com você.
+[35:16 - 35:17] Ah, sério?
+[35:17 - 35:18] Tá bom?
+[35:18 - 35:19] Sim.
+[35:19 - 35:25] Porque, por exemplo, essa de programador, a testa do assistente já de feitiço, tá sério?
+[35:25 - 35:32] certo, ela tem um certo embasamento porque como assistente administrativo,
+[35:32 - 35:39] a exemplo do programador, porque às vezes a pessoa diz assim, ah, uma competência
+[35:39 - 35:44] para um competência estado para quem é programador é o quê? É a questão do
+[35:44 - 35:49] planejamento da organização do raciocínio lógico, que também faz parte da
+[35:49 - 35:52] de administração.
+[35:52 - 35:58] Programação, quando a gente fala, programação inclusive é uma competência também.
+[35:58 - 36:04] Tem gente que acha que programação é das competências que estavam no mercado de trabalho.
+[36:04 - 36:09] Tem pessoas que acham que a competência de programação, como também relacionamente
+[36:09 - 36:16] com o pessoal, acha que está ligada somente à área da tecnologia e não está.
+[36:16 - 36:23] A capacidade de programação e a capacidade de você conseguir reunir ideias,
+[36:23 - 36:29] de você colocar, é organizar a tua rotina,
+[36:29 - 36:33] de você ter uma boa capacidade de planejamento,
+[36:33 - 36:35] de você encontrar soluções,
+[36:35 - 36:41] que tudo isso faz parte do dia-a-dia de quem trabalha com a administração.
+[36:41 - 36:53] Eu preciso organizar a minha rotina de trabalho, fazer um planejamento, também definir a questão de prioridade, de tempo, certo?
+[36:53 - 36:55] Então é isso.
+[36:55 - 37:06] Você disse que chegou e que estava com a Excel também, e Excel está ali, está na fronteira para chegar a uma programação mais tradicional.
+[37:06 - 37:13] quando eu for escondado por uma pessoa, eu vou colocar o meu tempo concordando de escola
+[37:13 - 37:16] porque lá a administrava, tinha liderança e também...
+[37:16 - 37:17] Isso.
+[37:17 - 37:19] São coisas que podem acrescentar.
+[37:19 - 37:26] Se você entende que o que você fazia de alguma forma tem relação, tem correlação,
+[37:26 - 37:34] conversa com esses requisitos, com esse carno, então coloque.
+[37:34 - 37:35] Tá?
+[37:35 - 37:42] Agora, olha como é que eu vou saber isso pelos requisitos e também para o que você estudar.
+[37:42 - 37:53] Vamos perceber. Então, vamos me dar empresa um mês e um ano, que você iniciou o mesmo ano que você saiu.
+[37:53 - 38:00] Ou então você está trabalhando para colocar o mesmo início, você iniciou e colocava o ano.
+[38:00 - 38:04] Não precisa colocar um dia ou mesmo um ano, só um mês, um ano.
+[38:04 - 38:12] Um carro e aqui de forma breve, sítio que você faz nesse carro.
+[38:12 - 38:20] Gente, isso aqui é maravilhoso como você sica, pelo menos em duas minhas, ou três minhas no máximo.
+[38:20 - 38:24] O que você faz? O que isso traz luz para nós, recrumpador.
+[38:24 - 38:28] Quando você sepça aqui, a gente vai exatamente saber
+[38:28 - 38:33] Ah, ele faz, ela faz isso aqui, é o que a gente realmente nesse fato também
+[38:33 - 38:40] vão ter essas atividades, porque faria mundo de empresa para empresa com ele
+[38:40 - 38:46] Então quando você faz isso aqui, você está trazendo uma informação importante para nós, sabe?
+[38:48 - 38:52] Se tiver participado de algum projeto, se tiver que você perceber
+[38:52 - 38:59] que você fez de alguma forma, trouxe algum novo pra empresa, trouxe algum resultado
+[38:59 - 39:07] a completa que destaca. Maravilhoso isso aqui. Se você, acho que foi ela, né, que perguntou
+[39:07 - 39:14] do idioma, pode também colocar aqui. Se for colocar algum idioma, é importante que você
+[39:14 - 39:22] diga o nome do curso e o nível de doença. Se você só fala ou se você só estreja.
+[39:22 - 39:29] importante. A instituição é a data de conclusão também, certo?
+[39:29 - 39:36] Aqui é de diferente que isso aqui. Aqui é o teu nível de instrução. Aqui são as
+[39:36 - 39:42] qualificações e setificações que você tem. Por exemplo, o curso que vocês
+[39:42 - 39:47] estão fazendo aqui vai ficar aqui. Vai dizer qual é o curso? A instituição
+[39:47 - 39:49] Cargo horário
+[39:49 - 39:53] Cargo horário é ponto chá
+[39:53 - 39:59] Porque pela cargo horário tem como a gente ter noção
+[39:59 - 40:00] Certo?
+[40:00 - 40:04] Do teu nível de aprofundamento
+[40:04 - 40:05] Certo?
+[40:05 - 40:08] Dentro desse curso que você realizou
+[40:08 - 40:11] Aí a gente tem que ser no lugar que você tem
+[40:11 - 40:12] Exatamente
+[40:12 - 40:14] Aí você te perfeito
+[40:14 - 40:18] E se você tem um trecho de colheres diferentes, ou pode colocar...
+[40:18 - 40:20] Pode, e deve colocar.
+[40:20 - 40:22] Pode, e deve colocar.
+[40:22 - 40:26] E aí você pode citar a carburária de cada um também.
+[40:26 - 40:28] É importante.
+[40:28 - 40:32] Porque tem uns níveis também, né?
+[40:32 - 40:35] Cargurária total e o ano de conclusão.
+[40:35 - 40:39] Mônica, eu posso colocar um curso que vai estar em abamento?
+[40:39 - 40:40] Tá.
+[40:40 - 40:43] Mas aí você vai colocar a previsão de termo.
+[40:43 - 40:45] É assim que você tem a habilitação.
+[40:45 - 40:47] Na mesma forma que você estiver fazendo,
+[40:47 - 40:51] o ensino velho, o facultado, o qual você fica.
+[40:51 - 40:53] É importante essa informação.
+[40:53 - 40:55] E nesse campo,
+[40:55 - 40:57] informações adicionais,
+[40:57 - 40:59] é tudo aquilo que você olha e diz,
+[40:59 - 41:01] poxa, amigo, eu tenho mais uma informação,
+[41:01 - 41:03] mas eu não consigo encaixar.
+[41:03 - 41:05] Por exemplo, se você tem habilitação,
+[41:05 - 41:07] por exemplo,
+[41:07 - 41:11] se você tem disponibilidade só para um determinado período,
+[41:11 - 41:17] Se você tem disponibilidade para a região metropolitana, se você tem disponibilidade
+[41:17 - 41:23] para viajar ou não, se tem que voltar para viajar, põe isso aqui.
+[41:23 - 41:31] Se você participa de algum projeto de voluntariado, aproveita e coloca.
+[41:31 - 41:40] Essa questão do voluntariado também é muito bacana, porque o voluntariado remete
+[41:40 - 41:50] aquela atitude de ser uma pessoa que tem a questão do social, da empatia muito amorada.
+[41:50 - 41:55] Uma pessoa que tem ali uma boa capacidade de desenvolver projetos,
+[41:55 - 42:02] de repreender uma pessoa que tem uma capacidade de liberar, de trazer ideias, inovação,
+[42:02 - 42:06] que tem atitude respeitosa, trabalha em equipe,
+[42:06 - 42:17] Ou seja, é uma excelente oportunidade que muitas vezes pode ser diferencial entre
+[42:17 - 42:21] dois traditados que estão em pé de verdade.
+[42:21 - 42:26] Então muitas vezes pode ser realmente diferencial.
+[42:26 - 42:38] Se for uma empresa, por exemplo, que ela tem como uma das ações desenvolvidas à questão social,
+[42:38 - 42:42] isso é patrolo para a superfície. Pode ter certeza.
+[42:42 - 42:47] Porque tem empresas que trabalham também com as questões sociais.
+[42:47 - 42:52] E aí o que ela quer é, ah, vontade a uma, e a gente tem um projeto aqui.
+[42:52 - 42:58] Essa pessoa que dera em frente pode ser bastante útil aqui na empresa,
+[42:58 - 43:01] incluindo comitxt, comitx.
+[43:05 - 43:08] Até aqui, ok?
+[43:08 - 43:11] Duvidas? Não, podemos prosseguir.
+[43:11 - 43:15] Em previa de emprego, né? Vamos lá.
+[43:15 - 43:18] Pré-paço.
+[43:18 - 43:24] Mas é só a preparação do que eu vou vestir? Claro que não.
+[43:24 - 43:32] Que você vai vestir faz parte. Mas existem outros atributos também que eu preciso me preparar.
+[43:32 - 43:35] Onde a gente falou muito, porque em alto?
+[43:35 - 43:38] Alto o quê? Conheço mesmo.
+[43:38 - 43:42] Não há pra onde isso? Primeira preparação é essa.
+[43:42 - 43:49] Liste o que você tem de qualidade e ponha do lado, tente lembrar em que
+[43:49 - 43:55] momentos essa qualidade você conseguiu colocar em prática.
+[43:55 - 44:00] Porque na hora que o recrutador vai perguntar pra ti, você está me dizendo que tem aqui uma
+[44:00 - 44:06] pessoa que sabe se comunicar bem, bacana realmente pra esse carro, a gente precisa de
+[44:06 - 44:11] pessoas que têm essa habilidade se comunicar, mas você pode me citar aqui uma
+[44:11 - 44:17] situação onde a tua comunicação mesmo você sendo um bom comunicador onde de
+[44:17 - 44:24] repente a tua comunicação ela foi mal interpretada e como foi que você conseguiu
+[44:24 - 44:30] lidar com essa situação com tornar essa situação?
+[44:30 - 44:37] Olha só o fator que esse reputador está pedindo. Ali ele quer saber a tua
+[44:37 - 44:47] A tua capacidade de resolver problemas, a tua capacidade de enfrentar conflitos, a tua capacidade de pessoação e de negócio assim.
+[44:48 - 44:53] Porque no dia de você vai lidar com pessoas que vão pensar de farei de você.
+[44:54 - 44:58] E aí você vai dizer, não, a minha ideia está certo, você não.
+[44:59 - 45:00] Olha só.
+[45:00 - 45:08] Então, quando você apresenta as suas qualidades, em que momento essas qualidades apareceram,
+[45:08 - 45:16] você está dizendo que você é uma pessoa que se conhece e você sabe exatamente como
+[45:16 - 45:18] vai lidar nas situações.
+[45:18 - 45:25] Mas também, quando você citar aquele ponto que você entende que não é uma qualidade,
+[45:25 - 45:30] é um ponto fraco, não diga somente o ponto fraco.
+[45:30 - 45:32] Qual é a cereja do voo aqui?
+[45:32 - 45:37] Diga o que você está fazendo para melhorar esse aspecto.
+[45:37 - 45:48] E se você já está fazendo algo, diga que ganhos você já conseguiu observar.
+[45:48 - 45:53] No que foi que você incluíva e já evoluiu em relação a isso?
+[45:53 - 46:06] Porque isso demonstra que você é uma pessoa que faz essa análise, que você é uma pessoa que tem essa capacidade de análise crítica.
+[46:06 - 46:29] Não é crítica, não é somente de criticar, digamos assim, a aponta ao erro, não é isso, mas é uma capacidade realmente de você analisar os prós e contras e, pela lei, uma capacidade de desenvolver o plano, uma ação para que você possa, de forma mais assertiva, evoluir.
+[46:29 - 46:41] Então, quando você traz isso, você está demonstrando a sua capacidade de proatividade, de encontrar alternativas.
+[46:41 - 46:43] Então, vamos lá.
+[46:43 - 46:47] Além do conhecimento, faz que exista um de empresa.
+[46:47 - 46:54] Não vá fazer entrevista sem antes, nem se dar o trabalho de nenhum e pesquisar o que a empresa faz.
+[46:54 - 46:58] quanto tempo está no mercado, quantos funcionários ela tem,
+[46:58 - 47:01] qual é a missão, a visão, os valores.
+[47:01 - 47:07] Será que aqueles valores que a empresa possui, você também se identifica com esses valores?
+[47:07 - 47:13] Você consegue se enxergar lá dentro, se for a pessoa aprovada?
+[47:13 - 47:20] Treina bastante alto com esse objetivo, para conseguir aumentar quais os motivos
+[47:20 - 47:22] Mas falam o nome disso.
+[47:22 - 47:26] Que fazem você se a pessoa acerta pra acelular.
+[47:26 - 47:29] Ah, mas é porque eu tô precisando do emprego.
+[47:29 - 47:31] Todo mundo que tá ali precisa.
+[47:31 - 47:33] Não tem a dúvida.
+[47:33 - 47:35] Quem tá ali precisa.
+[47:35 - 47:37] E não se engano.
+[47:37 - 47:41] Que o recrutador vai se comover com a tua historinha.
+[47:41 - 47:42] Mas eu tô...
+[47:42 - 47:43] Não.
+[47:43 - 47:49] Recrutador, gente, ele tem que usar a razão.
+[47:49 - 47:53] e também a emoção. Não vale só a emoção.
+[47:53 - 47:58] Por experiência própria, quando eu usei só a emoção,
+[47:58 - 47:59] eu me dei mal.
+[47:59 - 48:03] Me lembro como se fosse hoje, porque a gente é raga,
+[48:03 - 48:05] então o coração também é o meu modo.
+[48:05 - 48:09] Foi numa grande enchente que na época teve em Calcaia,
+[48:09 - 48:13] e teve uma pessoa da Prefeitura Assistência Social,
+[48:13 - 48:15] eu não faço a secretaria de Assistência Social,
+[48:15 - 48:17] foi na empresa que eu trabalhei,
+[48:17 - 48:22] e pediu que a gente arranjasse uma vaga para onde o senhor,
+[48:22 - 48:25] que ele tinha sete filhos da história podinha,
+[48:25 - 48:30] sete filhos, perdeu o casa, perdeu tudo,
+[48:30 - 48:32] manhã uma casa, enfim.
+[48:33 - 48:37] E estava literalmente passando a dificuldade tremenda.
+[48:37 - 48:41] E lá em Calcá, e a novidade que eu tinha, nós não tínhamos mais vaga,
+[48:41 - 48:43] mas a gente tinha uma vaga no zero.
+[48:43 - 48:48] E eu cheguei com o meu chupé e visou o mundo. Ele era paul.
+[48:48 - 48:55] E eu disse, tal onde está com essa situação? Eu vi aqui a ciência social da Secretaria da Ciência Social de Calcá.
+[48:55 - 48:59] E foi assim, não está abaixo, esse mundo não quer mais que saque para a gente não tem valiação.
+[48:59 - 49:02] Não, a gente não tem valiação. Mas a gente tem os héberos.
+[49:02 - 49:05] Como é que eu vou levar uma pessoa daqui para o hébito?
+[49:05 - 49:07] Enfim...
+[49:08 - 49:10] Movei uns céus e pernas...
+[49:10 - 49:11] Cé...
+[49:12 - 49:15] E conseguimos a vaga para ele...
+[49:15 - 49:17] Lá no Elzepe...
+[49:17 - 49:19] Na época aqui do Elzepe...
+[49:19 - 49:21] Fez até uma vaquinha para comprar...
+[49:21 - 49:24] Um boutijão de gás para ele...
+[49:24 - 49:25] Gente...
+[49:25 - 49:26] Movemos tudo...
+[49:26 - 49:28] O pouco que ele tinha...
+[49:28 - 49:29] A família, a empresa...
+[49:29 - 49:31] Até levou no pão da empresa...
+[49:31 - 49:33] Ai, minha gente...
+[49:33 - 49:40] A pessoa, o abençoado, ainda num período de experiência na planta.
+[49:41 - 49:46] Ele, com fada ao meio da empresa, chegou num restaurante, começou a pedir dinheiro,
+[49:47 - 49:49] e estava num código de condutor da empresa que era proibido.
+[49:50 - 49:54] Ai, quando ele gestou, meu supervisor morre, e quem era mesmo, na sala?
+[49:55 - 49:56] Ai, eu fui.
+[49:57 - 49:59] Eu lembro de Fulandica, eu lembro.
+[49:59 - 50:05] Aí quando ele fez assim, eu digo, ai Paulo, não diz o que foi, eu pensei o pior. Aconteceu
+[50:05 - 50:10] alguma coisa com ele? Aconteceu o que foi? Pensando que era acidente, eu não...
+[50:10 - 50:15] O único que eu senti ali. O que foi que eu te falei naquele dia? Ligar ai Paulo, o que
+[50:15 - 50:23] foi? Você é muito emoção, muito coração, porque o coração deixa eu não dar. Aí eu
+[50:23 - 50:32] Ai meu Deus, ai disse o nome que ele estava pedindo de não acreditar, não acreditar, não acreditar, não acreditar de matar a ordem.
+[50:32 - 50:41] Resumindo, conversamos com ele, temos a divertência e tal, mas acabou que esse comportamento ele se repetiu e a gente que mora em 30 dias já se ligou.
+[50:41 - 50:45] Enfim, tá?
+[50:45 - 50:55] Vamos lá, em caso de seleção presencial, saia de casa mais cego, veja a questão de deslocamento, se tu vai de Uber, enfim, tá?
+[50:55 - 50:57] Pra não chegar atrasado.
+[50:57 - 51:01] Seleção virtual entra no limite mais cedo, que eu mencionei antes.
+[51:01 - 51:09] Veja se tá tudo funcionando bem, conversa com as pessoas da saia, pelo amor de Deus, se prepare como se fosse entre vídeo presencial.
+[51:09 - 51:11] Lembra da meninazinha do Paulinho?
+[51:11 - 51:14] É, pelo amor de Jesus Cristo.
+[51:14 - 51:16] Tem uma boa noite de som.
+[51:16 - 51:19] Esse é difícil, tantos símbolos para a intervenção.
+[51:19 - 51:25] Mas é preciso, eu sei que é difícil, mas existem técnicas de gestão da emoção.
+[51:25 - 51:29] Que você pode precisando de trabalho.
+[51:29 - 51:31] Ok?
+[51:31 - 51:34] Porque com uma boa noite de som é interessante?
+[51:34 - 51:38] Porque você não vai ficar lá muito agitado?
+[51:38 - 51:48] você de repente não vai ficar bocejando, tá certo? Ou se de repente você trabalha no fundo da noite, a vaga de manhã, tá?
+[51:48 - 51:54] Vai com uma outra roupa para a bola botar ou por cima ou trocar para no ir para o farmamento.
+[51:54 - 52:02] E até mesmo inscrito para o recrutador, o vento, interesse, trabalha, mas você passa a noite também trabalhando,
+[52:02 - 52:09] o que aí o recrutador até vai entendendo algumas situações.
+[52:09 - 52:12] Se é a primeira vez que você vai participar,
+[52:12 - 52:14] é de dar aqui um momento a obrigada.
+[52:14 - 52:17] Primeiro mês que eu vou passar um processo acelerativo.
+[52:17 - 52:22] Eu gosto sempre de perguntar, porque a gente vai dar alguns descontos,
+[52:22 - 52:25] porque a gente vai deixando a pressão um pouco mais adontária,
+[52:25 - 52:28] porque a gente é incrível e está a um bate-pá.
+[52:28 - 52:33] Então é importante que você vá trabalhando essa questão do nervosismo.
+[52:33 - 52:41] Então quando você se conhece, isso vai dando mais segurança, vai ir tranquilizando também.
+[52:41 - 52:42] Certo?
+[52:43 - 52:49] Aí o México com minas leves, se você comeu de repente uma feijoada.
+[52:49 - 52:52] E aí, que é incrível, que é a tarde.
+[52:52 - 52:57] E essa feijoada não cai muito bem, você fica ali se compor sendo.
+[52:57 - 53:02] Acabamos fazendo uma boa entrevista, acontece, acontece gente.
+[53:02 - 53:07] Acontece, vocês não tem noção que eu já vivenciei?
+[53:07 - 53:14] Ser me errar de tudo, eu já vivenciei, porque vocês puderem imaginar.
+[53:14 - 53:19] Até uma pessoa não veio da entrevista, abrindo a mochila que oferece em uma revista da RON.
+[53:19 - 53:30] Você é curto, mas o curto não foi comigo, foi com a amiga, o cara estava com ela e o curto saiu na pele, só estava eles dois na sala.
+[53:30 - 53:39] E o cara disse, não fui eu, ela disse, foi você, que estava aí no seu, aqui atrás do seu lado, só na sala estava você e eu.
+[53:39 - 53:46] E aí ela não deixou ele sair, chamou uma pessoa, uma analista do setor do trago, e disse, corre aqui que eu estou em uma situação aqui.
+[53:46 - 53:52] Aí a pessoa tem moldes que não estava com o celular, o tempo que ela se virou, ele pegou o celular
+[53:52 - 53:57] E ela disse, você está com o celular, rapaz, devolva o celular na doutora?
+[53:57 - 54:00] Aí ele foi devolvar o celular
+[54:00 - 54:07] Gente, é o que vocês puder imaginar o RH fácil de lidar pra gente se reunir
+[54:07 - 54:14] Preparo se acontece a doença, se possível, ímplim com rico, leves o legal com lença
+[54:14 - 54:16] Você vai fazer um tema, também.
+[54:16 - 54:18] Ah, o mestreiro de enrouteiro.
+[54:18 - 54:20] Um tema às vezes pode ser que...
+[54:20 - 54:24] De repente, é um teste que está fazendo para fazer que eu venha contigo.
+[54:24 - 54:28] Fora em uma currículo por miséria e corte.
+[54:28 - 54:32] Nunca na vida façam isso.
+[54:32 - 54:34] Levem o nível.
+[54:34 - 54:36] Quando você faz isso,
+[54:36 - 54:40] está demonstrando que você tem relaxamento.
+[54:40 - 54:42] Tá?
+[54:42 - 54:48] Seja você mesmo, derrunte interesse, infocação, derrunte paixão pelo propósito da empresa
+[54:48 - 54:52] Se você realmente se identifica com a empresa, tá?
+[54:52 - 54:55] Antes de falar, tem segurança e cuidado.
+[54:55 - 55:01] Veja qual é a mensagem que você quer deixar se você tem dúvidas, pergunte.
+[55:01 - 55:03] Tá certo?
+[55:03 - 55:10] As roupas, pésquise sobre a forma de se vestir da empresa, meninos, nada tipo, camisa de time.
+[55:10 - 55:14] Veja a questão da barba, a questão da unha, tá certo?
+[55:14 - 55:16] Não precisa de todo empacotado não.
+[55:16 - 55:20] Pense e come que as pessoas geralmente se vestem lá, tá?
+[55:20 - 55:25] Meninas, nada de ir com roupa colada, nada de ir com alcinha,
+[55:25 - 55:29] com roupa curta, o que é que tem que chamar atenção?
+[55:29 - 55:35] É você, as suas características e não o que você tá mexendo, certo?
+[55:35 - 55:38] Vou usar perfume, meninos e meninas também.
+[55:38 - 55:43] Cuidado com a questão do exagerar, para não ser nada muito exagerado.
+[55:43 - 55:47] questão de neve e joterias também.
+[55:47 - 55:53] Gente, coisas realmente assim, mais, digamos assim, mais discretas.
+[55:53 - 55:54] Tá legal?
+[55:54 - 55:55] Ok?
+[55:55 - 55:58] Maquiagem da mesma forma.
+[55:58 - 56:03] E o que é aqui o repuntador quer saber a tua história?
+[56:03 - 56:08] Ele quer saber exatamente um pouco da tua história.
+[56:08 - 56:14] O que é que você fez, o que é que você faz, como é que você se enxerga daqui a dois, três anos?
+[56:14 - 56:16] Qual é o teu planejamento de futuro?
+[56:16 - 56:20] O que é que você está fazendo para alcançar os seus objetivos?
+[56:20 - 56:26] E você aqui pode dizer como é que você espera contribuir com a empresa ocupando aquele carro?
+[56:26 - 56:35] Mas também como é que você espera que a empresa de alguma forma vá contribuir para que você alcança os seus objetivos?
+[56:35 - 56:39] e você vai ter que ver o que você pesquisou.
+[56:39 - 56:44] Se você for em projeto, conta o que a gente investiu.
+[56:44 - 56:53] Sicação tarefa, ação que o resultado que você perde dentro do exemplo que você está vendo,
+[56:53 - 56:54] do exemplo real.
+[56:54 - 57:03] E o projeto integrador é uma excelente oportunidade de você apresentar as suas competências,
+[57:03 - 57:06] técnicas e comportamentais.
+[57:06 - 57:07] Tá certo?
+[57:08 - 57:12] Seus pontos forças que eu já falei pra vocês, tá certo?
+[57:12 - 57:13] Ok?
+[57:13 - 57:18] Se tiver alguma pergunta, você passa para o recrutador.
+[57:18 - 57:22] E aqui tem um vídeozinho, deixa eu ver se dá certo o que...
+[57:25 - 57:27] Como é que faz aqui?
+[57:27 - 57:28] A primeira tá...
+[57:28 - 57:30] A primeira tá aberturada.
+[57:30 - 57:32] e uma luz e é só aqui.
+[57:32 - 57:35] Mas então, a gente vai ver aqui no ondo.
+[57:36 - 57:37] Aí, vamos colocar só o último,
+[57:37 - 57:38] o trabalho só para eles dele.
+[57:38 - 57:40] Ah, para, deixa eu falar.
+[57:40 - 57:41] Já me perguntaram várias vezes
+[57:41 - 57:43] como se comportar em entrevistas com eles.
+[57:43 - 57:45] E eu sempre disse o seguinte,
+[57:45 - 57:48] primeiro você tem que se trajar adequadamente
+[57:48 - 57:51] a um diverso ambiente para o qual você quer trabalhar.
+[57:51 - 57:52] Para de atribuir o entrevista,
+[57:52 - 57:54] o emprego de vergonha, xinéu,
+[57:54 - 57:56] se você for trabalhar no banco, por exemplo,
+[57:56 - 57:59] se for trabalhar em uma loja de material de surf,
+[57:59 - 58:07] Eu quero só dar um exagero exemplo para explicar como a pessoa tem que estar adequada à empresa que ela vai trabalhar.
+[58:07 - 58:12] Ontem dois, ser natural, ser verdadeiros, falar sempre tudo aquilo que você pensa.
+[58:12 - 58:17] Estudar o negócio da empresa, qual qual você pretende colaborar,
+[58:17 - 58:19] ou para qual você pretende trabalhar.
+[58:19 - 58:25] Entender o negócio dessa empresa, do mercado dessa empresa para que qualquer pergunta que seja feita a você naquela entrevista,
+[58:25 - 58:30] que a entrevista você possa, pelo menos, ter uma posição e possa responder porque não
+[58:30 - 58:34] tem coisa pior para o entrevistador que está dando emprego, saber que a pessoa não sabe
+[58:34 - 58:38] do que se trata, não estudou o assunto, o tema de interesse daquele momento.
+[58:38 - 58:43] Então, você estando adequadamente trajado, você sendo natural, não tente parecer aquilo
+[58:43 - 58:44] que você não é.
+[58:44 - 58:49] As pessoas percebem isso facilmente, seja verdadeiro, seja igualzinho na tua entrevista
+[58:49 - 58:53] emprego com você, com as pessoas que você conversa com seu amigo, normalmente seu pai
+[58:53 - 58:57] e as pessoas em casa, essa vai ser a grande chance que você vai ter
+[58:57 - 59:01] e sempre uma de causa da primeira grande impressão
+[59:01 - 59:03] para que você possa se encontrar na frente da gente.
+[59:04 - 59:05] Pronto.
+[59:05 - 59:08] Foi de forma muito breve, mas que ele dá,
+[59:08 - 59:10] esse é o Roberto Luches,
+[59:10 - 59:13] ele dá essa dica que é importante,
+[59:13 - 59:17] quando você vai participar de um processo seletivo.
+[59:18 - 59:19] Perguntas.
+[59:19 - 59:29] E o sucesso, essa frase do Robert Cove, é a suma de pequenos esforços repetidos dia
+[59:29 - 59:30] após dia.
+[59:30 - 59:41] Então, sempre, o esforço não é uma receita, vamos dizer assim, mas o esforço é uma demonstração
+[59:41 - 59:49] de que você é uma pessoa que está buscando esse crescimento, seja na vida pessoal, seja
+[59:49 - 59:57] na vida profissional, as coisas sem esforço a gente não consegue valorizar. Quando você
+[59:57 - 60:07] tem ali o esforço, você vai ter uma história para contar. E assim, o que é que de fato
+[60:07 - 60:14] prende? O que é que de fato arrasta? São as histórias. Então, quando nós falamos
+[60:14 - 60:22] que o entrevista é toda em base comportamental, é porque o teu comportamento, a possibilidade
+[60:22 - 60:29] dele se repetir posteriormente é muito grande, tem uma máxima que diz assim, comportamento
+[60:29 - 60:36] passado prediz o futuro, eu concordo e ao mesmo tempo eu discordo, eu concordo no
+[60:36 - 60:43] sentido de que há assim essa possibilidade dele se repetir, mas isso não quer dizer
+[60:43 - 60:48] necessariamente que a pessoa vai agir sempre daquela forma, porque quando eu
+[60:48 - 60:55] ingesso isso eu tô digamos assim, praticamente dizendo que a pessoa não vai mudar
+[60:55 - 61:02] e não. Tem pessoas que de repente tiveram determinado comportamento, mas que elas
+[61:02 - 61:06] conseguiram refletir, enxergar e mudar sua história.
+[61:06 - 61:08] E isso é bacana.
+[61:08 - 61:13] Então o comportamento de fato hoje, ele é fundamental.
+[61:13 - 61:21] E quando você consegue identificar as suas qualidades, consegue identificar aquilo que não é uma qualidade,
+[61:21 - 61:28] mas é algo que você entende que de certa forma lhe prejudica nas suas relações interpessoais,
+[61:28 - 61:32] não fique de braço cruzado, faça alguma coisa.
+[61:32 - 61:41] Porque nós somos contratados nas empresas independente do cargo que eu ocupo para trazer solução.
+[61:41 - 61:45] Ninguém é contratado para não trazer solução.
+[61:45 - 61:50] O auxiliar de serviços gerais, qual é a solução que ele tem de trazer para a empresa?
+[61:50 - 61:52] Qual é, gente?
+[61:52 - 61:55] Quer que o auxiliar de serviços gerais faça?
+[61:55 - 61:58] É o tenso do cliente, do empresa.
+[61:58 - 62:06] Se ele não fizer isso vai ser um problema? Vai! Então independente do cargo nós
+[62:06 - 62:13] somos contratados para trazer uma solução. E se eu não consigo lidar com os meus
+[62:13 - 62:20] problemas, se eu não consigo avançar, dar um passo na direção de resolver um
+[62:20 - 62:26] problema pessoal, eu vou ter dificuldade de resolver um problema no ambiente de
+[62:26 - 62:35] trabalho, mas quando eu tenho essa capacidade, eu percebo o problema, eu procuro ali uma solução,
+[62:35 - 62:43] eu vou ter muito mais facilidade. Então é por isso que as entrevistas elas são baseadas na teoria
+[62:43 - 62:51] comportamental, porque a partir do olhar de como o indivíduo se enxerga e também como é que o
+[62:51 - 62:59] indivíduo enxerga o mundo e isso tudo vai conversando no nosso dia de
+[62:59 - 63:01] sério?
+[63:03 - 63:07] Teu atinguado, eu agradeço a você.
+[63:07 - 63:13] Se tiverem mais dúvidas, fiquem à vontade para perguntar, nós estamos aqui
+[63:13 - 63:22] aqui é pra servir. Então qual é o papel do redes? Servir. Nós só estamos aqui porque
+[63:22 - 63:31] existem alunos, porque existem ex-alunos e graças a Deus existe agora o público, porque
+[63:31 - 63:39] é uma das coisas que nos afligia muito, né? Muito mesmo, ela disse meu Deus tem vaga aqui,
+[63:39 - 63:43] A gente só pode oferecer para alunos e alunos.
+[63:43 - 63:49] E muitas vezes a gente conhecia pessoas que estavam desempregadas.
+[63:49 - 63:52] Gente, isso doía.
+[63:52 - 63:56] Doía, porque era um pai de família, uma mãe de família, era um jovem.
+[63:56 - 64:01] E eu digo, gente de Deus, a gente não pode caminhar.
+[64:01 - 64:03] E eu ficava, eu e as meninas, né?
+[64:03 - 64:06] A gente ficava com o coração apertado.
+[64:06 - 64:09] E a gente, de meu Deus, mais vai ter o dia que a gente vai poder.
+[64:09 - 64:16] Quando a gente soube esse ano que podia, que a Federação do Comércio, que a Presidência diz
+[64:16 - 64:20] Não, agora vai se abertar o público.
+[64:20 - 64:26] Gente, você não tem noção na nossa alegria, porque digo meu Deus do céu, né?
+[64:26 - 64:30] Por isso, divulguem a plataforma, tá?
+[64:30 - 64:36] Quando a gente fala em emprego, a gente tá falando de dignidade humana.
+[64:36 - 64:39] e só sabe o que é isso que já passou.
+[64:40 - 64:45] Eu já passei por isso e é horrível.
+[64:45 - 64:49] As contas chegam, isso acaba com a nossa autoestima,
+[64:49 - 64:52] isso aferta a família.
+[64:52 - 64:56] E se você não tiver uma base familiar bem estruturada,
+[64:56 - 65:01] gente isso acaba com casamento, isso acaba com os filhos,
+[65:01 - 65:05] É devastador, é devastador.
+[65:05 - 65:09] Então se vai... É devastador. Você não dorme bem.
+[65:09 - 65:11] Você não come bem.
+[65:11 - 65:13] Quem vai comer bem, dorme bem.
+[65:13 - 65:16] Sabendo que tem conta pra você pagar, não tem.
+[65:16 - 65:21] E essa é a realidade de muita gente, muita gente mesmo.
+[65:21 - 65:27] Então se você tem ali a oportunidade de divulgar, gente não custa nada.
+[65:27 - 65:35] Não custa absolutamente nada. Hoje a gente está trabalhando, mas você não sabe.
+[65:35 - 65:43] E só para finalizar eu digo isso por experiência própria. Eu trabalhei 23 anos nessa empresa e quando eu saí de lá,
+[65:43 - 65:51] foi um momento muito difícil, porque a maior renda era minha, entendeu? Não saí.
+[65:51 - 65:56] foi incompetência da Mônica, não foi por uma questão contratual, não foi só eu que saí,
+[65:56 - 66:02] eu fui a última, eu ainda tive que entrevistar as mais de 100 pessoas que entrevistaram
+[66:02 - 66:09] e eu tive que enquanto erragar, apoiar essas pessoas, dar uma força, dar uma mensagem de ânimo, entendeu?
+[66:09 - 66:15] E assim encontrar forças e isso era que bom que a empresa estava tendo essa atitude respeitosa.
+[66:15 - 66:19] E eu estava naquele barco também, mas para mim foi difícil.
+[66:19 - 66:25] Eu tinha 52 anos de idade, a primeira coisa que eu pensei não foi encontrar ninguém que vá me empregar.
+[66:25 - 66:28] Olha o modelo mental que eu tinha.
+[66:28 - 66:34] E aí o que foi que aconteceu comigo, eu tive que me reinventar, me derredescobrir.
+[66:34 - 66:36] Me saculejaram, inseriu.
+[66:36 - 66:40] Me saculejaram mesmo, literalmente, uma grande amiga minha, me saculejaram e disse,
+[66:40 - 66:45] ''Mas tu tá olhando só pra cá, olha o que tu sabe, tu pode aplicar em outras áreas.''
+[66:45 - 66:49] E aí eu fui literalmente pra sala de aula, mas antes disso,
+[66:49 - 66:50] Eu fui fazer o quê?
+[66:50 - 67:00] Eu fui ser vendedora de tecido, sem conhecer tecido, naquelas usei avelhinho 6 horas da manhã, abordando os feirantes.
+[67:01 - 67:03] Tive que fazer isso.
+[67:03 - 67:10] Me foi uma experiência dolorosa, mas foi boa, porque eu descobri o quê? Caramba!
+[67:10 - 67:18] E aí eu pensei, rapaz, quando eu estava vendendo as vagas, apresentando as vagas da empresa,
+[67:18 - 67:21] para os candidatos eu estava fazendo o quê? Vendendo!
+[67:21 - 67:26] Quando eu estava apresentando o projeto para os meus restores, o que eu estava fazendo? Vendendo!
+[67:26 - 67:29] Tudo é o olhar que a gente desenvolve.
+[67:29 - 67:33] Mas para isso eu tive uma rede de apoio.
+[67:33 - 67:41] Tive meu marido, tive meus filhos e tive os poucos e verdadeiros amigos.
+[67:41 - 67:48] Porque você quer conhecer alguém, é quando você está passando uma dificuldade que está do teu lado.
+[67:48 - 67:53] E isso para mim foi um aprendizado gigante.
+[67:53 - 68:01] Porque eu disse, senhor, eu tive a oportunidade de sentir na pele, porque muita gente passa.
+[68:01 - 68:06] E um tempo depois, onde é que o senhor vai me colocar?
+[68:06 - 68:17] em uma área exatamente de empregabilidade, onde eu senti na pele o que muita gente do
+[68:17 - 68:20] Banco de Aportounidade do Reis está nos buscando.
+[68:20 - 68:30] Então quando você passa por isso, você entende, você olha diferente, você se compromete,
+[68:30 - 68:37] você se compadrece, você ressigui e fica, aí você entende o que aquele pai, o que aquela mãe está
+[68:37 - 68:43] passando, você não está ali somente para ganhar o seu dinheiro, você não está ali somente para
+[68:43 - 68:51] cumprir aquela atividade, tem propósito, tem sentido e assim tudo que eu fiz na minha vida, eu vejo
+[68:51 - 68:57] na minha profissão como a missão, como propósito, porque se eu não acreditar, se gente, no que eu
+[68:57 - 69:00] Eu faço, pode ter certeza que eu não estava aqui.
+[69:00 - 69:03] Porque eu não sou uma pessoa de fazer algo que eu vou fazer.
+[69:03 - 69:08] Eu sou uma pessoa que eu faço aquilo que eu acredito.
+[69:08 - 69:12] Se eu não acreditar, pode ter certeza que eu não faço.
+[69:12 - 69:15] Quer dizer, Monica, tu vai a partir de amanhã,
+[69:15 - 69:19] a gente quer ficar contigo no semáquem, mas tu vai para a área financeira.
+[69:19 - 69:21] Muito obrigada.
+[69:21 - 69:23] Agradeço, mas eu não quero.
+[69:23 - 69:28] porque não é a minha área, não é...
+[69:28 - 69:34] Eu ia morrer de tédio e ainda ia causar o prejuízo na impressão que eu nem ia vender.
+[69:34 - 69:39] Mas é isso, então a mensagem que eu tenho pra dizer pra vocês é essa, certo?
+[69:39 - 69:43] Acreditem vocês, não parem de estudar.
+[69:43 - 69:48] Se você tem ali algum modelo mental, dá o que você não acredita,
+[69:48 - 69:52] de alguma coisa que você ouviu, alguém que disse alguma coisa pra você,
+[69:52 - 69:58] Você não é capaz de... Gente, é uma pensamento, é uma ideia da pessoa, não é sua.
+[69:58 - 70:02] De repente, é uma crença dela, não é sua.
+[70:02 - 70:05] Você não sabe que essa pessoa já vivenciou,
+[70:05 - 70:08] mas de repente ela está falando isso pra ti.
+[70:08 - 70:10] Mas você se conhece, tá?
+[70:10 - 70:14] E como dizia minha avó, nunca deixe ninguém pegar você aqui.
+[70:14 - 70:18] Tá certo? Você é motorista do seu destino, tá?
+[70:18 - 70:25] E em tudo, só para fechar mesmo, em tudo coloquem Deus à frente.
+[70:25 - 70:34] Em tudo, em todas as áreas da sua vida, pessoal, profissional, familiar, financeira.
+[70:34 - 70:38] Ele é o Senhor de todas as coisas.
+[70:38 - 70:44] O tempo difícil que eu passei e que eu ainda passei em algumas situações,
+[70:44 - 70:47] é Ele, é Ele que me sustenta.
+[70:47 - 70:56] E é incrível como ele vai mostrando e vai ainda dando pra gente anjos que vão nos ajudando.
+[70:56 - 70:59] Então ele é o senhor de todas as coisas.
+[70:59 - 71:01] A última palavra sempre a ver.
+[71:01 - 71:08] Se você tem alguma coisa pra decidir, não decida no imposto.
+[71:08 - 71:11] Pare, sente, reze, pergunte.
+[71:11 - 71:18] sem o... essa é a melhor solução. Me mostro, ele vai mostrar com toda a certeza.
+[71:18 - 71:22] E Deus abençoe a vocês mais uma vez.
+[71:22 - 71:28] Muito obrigada, galera. Salve esse número aí. Salve no celular de vocês.
+[71:28 - 71:33] Não deixe a gente procurar, vocês podem ter a sorte de ter de ser atendido pela Mônica.
+[71:33 - 71:40] Se não forem por ela, vão ser por outras pessoas muito contententes e muito interessadas
+[71:40 - 71:48] e nos ajudar. Então agarrem as oportunidades que a gente tem aqui. Não deixem de salvar
+[71:48 - 71:54] esse celular e mais ainda de entrar em contato. Amanhã, se cheirar um pouco mais cedo,
+[71:54 - 71:59] vamos até o pato lá no nosso horário, marca e vai.
+[71:59 - 72:00] Certo?
+[72:00 - 72:01] Hoje está bom, pois...
+[72:01 - 72:02] Hoje é a cumple da telefona.
+[72:02 - 72:04] Muito obrigada, gente.
+[72:04 - 72:04] Obrigado.
+[72:04 - 72:06] Gente, obrigada.
+[72:06 - 72:07] Tiramos a nossa foto.
+[72:07 - 72:09] Eu não recebi a foto, eu quero ver essa foto.
+[72:09 - 72:11] Eu vou, vou tentar.
+[72:11 - 72:14] Eu vou fazer uma dajeira, não me enlouquei.
+[72:14 - 72:14] Tchau, gente.
+[72:14 - 72:16] Beijo, tchau.
+[72:29 - 72:59] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[72:59 - 73:01] e aí
+[73:01 - 73:03] e aí
+[73:03 - 73:05] e aí
+[73:05 - 73:07] e aí
+[73:07 - 73:09] e aí
+[73:09 - 73:11] e aí
+[73:11 - 73:13] e aí
+[73:13 - 73:15] e aí
+[73:15 - 73:17] e aí
+[73:17 - 73:19] e aí
+[73:19 - 73:21] e aí
+[73:21 - 73:23] e aí
+[73:23 - 73:25] e aí
+[73:25 - 73:27] e aí

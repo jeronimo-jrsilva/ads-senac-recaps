@@ -1,0 +1,2858 @@
+--- TRANSCRIÇÃO GPU WHISPER: 2026-08-25 Terça - POO (Voz 260825_081506.m4a) ---
+Duração: 193:29 | Tempo de Inferência: 7.96 min (477.6s)
+
+[00:00 - 00:02] Bom dia!
+[00:30 - 00:32] Não são, mas não são.
+[00:33 - 00:35] Quem é o Mouraerran faz?
+[00:35 - 00:41] Ela mantém os dados que não são permanentes.
+[00:41 - 00:42] Não são permanentes.
+[00:42 - 00:48] Essa cadeira, você sabe que ela tem uma parte reservada para permanentes,
+[00:48 - 00:50] que basicamente é um banco de dados.
+[00:51 - 00:53] Não é minha função explicar banco de dados.
+[00:53 - 00:57] O professor Alexandre tem um conhecimento absurdo de banco de dados.
+[00:57 - 01:07] mas eu peguei toda a parte de persistência, joguei para o final do semestre para ver se tem a teoria quando a gente chegar lá
+[01:07 - 01:18] mas se não quer dizer que a gente não precisa ter noção de como é que os objetos, atributos, eles são alocados, se não me modem
+[01:18 - 01:25] Fazer a pergunta para vocês aqui, como é que está a ser? Está tranquilo?
+[01:25 - 01:28] Está aí, mas não é muito importante.
+[01:28 - 01:30] Aí, momento, está aí.
+[01:30 - 01:36] O que é que vocês acham que é um negócio difícil?
+[01:36 - 01:41] A gente fica em cima do vídeo e diz que quanto mais a gente se aprofunda nela,
+[01:41 - 01:44] mais coisas a gente vai ver que...
+[01:44 - 01:50] Como é que é possível? Como é que se pode quebrar em C?
+[01:50 - 01:52] Como é que se pode quebrar em C?
+[01:57 - 01:58] É que é a boca.
+[01:59 - 02:00] É o quê?
+[02:00 - 02:02] É o C.
+[02:02 - 02:04] C é na fresca.
+[02:04 - 02:08] O C é no que você faz, não vai fechar o C, você pode quebrar.
+[02:08 - 02:12] Quando você consegue quebrar em C, consegue quebrar em C?
+[02:14 - 02:20] Porque tudo elas têm que querer ou não é a variável, tem que declarar um tipo da variável
+[02:20 - 02:23] pra poder dar continuidade, tem que ser as coisas bem...
+[02:23 - 02:25] Vocês estão como entender, que sim táxia.
+[02:25 - 02:27] Eu de sim táxia é uma coisa.
+[02:27 - 02:30] Qual é o pior tipo de erro? O erro de sim táxia ou eredilógica?
+[02:30 - 02:32] Não, não.
+[02:32 - 02:38] Por quê? Porque às vezes funciona, mas não do jeito que a gente queria.
+[02:38 - 02:41] Da realidade ou do que eles desejosam.
+[02:41 - 02:51] Quando tudo funciona, mas a coisa é totalmente diferente, e você não consegue identificar nada.
+[02:51 - 02:57] Quando ele aparece um ano silencioso, é vontade de chorar.
+[02:57 - 03:00] É vontade de chorar porque ele não aparece, né?
+[03:00 - 03:03] Você não sabe onde falar o erro.
+[03:03 - 03:07] Mas o ser não tem a locação dinâmica de memória, né?
+[03:07 - 03:16] A gente tem que dizer o tamanho da variável, o quanto vai ocupar, quando a gente vai usar o charlo.
+[03:16 - 03:19] Se não existisse, por que tem o malock em C?
+[03:19 - 03:22] Ah, o Vinicius falou do malock.
+[03:22 - 03:27] Malock, demora a location. Se não existisse isso.
+[03:27 - 03:33] Mas não é dinâmico, a gente tem que botar no código, a gente tem que especificar.
+[03:33 - 03:35] ou não?
+[04:03 - 04:05] vai copiar e relocar a memória lá.
+[04:05 - 04:10] E no último caso, existiam as estruturas de dados fantásticas,
+[04:10 - 04:16] e faz fantásticas chamadas listas e cadeadas.
+[04:20 - 04:22] É basicamente o quê?
+[04:22 - 04:24] É o...
+[04:24 - 04:26] Amigos ação.
+[04:26 - 04:30] Quando eu olhei para ela, que eu olhei, que eu entendi onde isso, quando você é muito clarelo,
+[04:30 - 04:32] Eu pensei...
+[04:32 - 04:34] Arranjo tecno
+[04:34 - 04:38] O Arranjo tecno que Deus o pigreço, pessoal,
+[04:38 - 04:40] Bota até hoje em dia
+[04:40 - 04:44] E basicamente é a forma de você alocar as coisas de forma...
+[04:44 - 04:46] Dinâmica
+[04:46 - 04:50] É o início que vai dar isso aí
+[04:50 - 04:52] Não sei se ele vai conseguir chegar a me distintar de aras, mas...
+[04:52 - 04:54] É legal
+[04:54 - 04:56] Você não chega de cheio
+[04:56 - 05:06] Mas vamos falar aqui sobre IPO. Eu vou dar aqui um conceito, normalmente as vezes vocês
+[05:06 - 05:15] E é claro que vão ver em cima, que é o endereço.
+[05:17 - 05:19] O endereço de memória.
+[05:21 - 05:28] Alguém tem não assado o que é, eu soube isso, a pessoa soube isso.
+[05:28 - 05:46] O Vinicius falou levemente quando a gente usa um scanF, um scanF lá no C, pra ler uma variável, a gente tem que usar o símbolo do e-commercial pra apontar o endereço daquela memória, né, pra ele gravar aquela variável.
+[05:46 - 05:49] Mas foi só isso que ele falou, ele não se aprofundou.
+[05:51 - 05:53] Eu não queria traumatizar vocês.
+[05:54 - 05:56] Não, mas duas primeiras semanas.
+[05:58 - 06:04] Quando a gente começa a trabalhar com a emora, a gente vai ver um conceito chamado ponteiro.
+[06:04 - 06:05] Sim.
+[06:05 - 06:14] Quando entra em ponteiro, você abre até que agora você está com um doido de cabeça nos taxas.
+[06:14 - 06:18] Na hora que você abre a porta do ponteiro, você olha e diz assim...
+[06:18 - 06:20] O calço chegou.
+[06:20 - 06:22] Você quer um calço?
+[06:22 - 06:24] É bom.
+[06:24 - 06:27] Aí, o que é o ponteiro?
+[06:27 - 06:31] Ele vai apontar com o endereço de memória.
+[06:36 - 06:38] A definição dele é simples.
+[06:38 - 06:41] Ele vai simplesmente apontar com o endereço de memória.
+[06:42 - 06:47] Agora, como se fosse um cháfo.
+[06:47 - 06:48] O que é que é cháfo?
+[06:48 - 06:49] Ah, é para a porta.
+[06:50 - 06:53] Agora, esse tipo de cháfo que existe, o que você pode fazer com ela?
+[06:53 - 07:00] O que vai lá àquela fita desolante?
+[07:00 - 07:03] Você pode ser considerado desolante?
+[07:03 - 07:06] O pessoal faz uma...
+[07:06 - 07:09] Vem lá, vende.
+[07:09 - 07:11] O que é que vai acontecer aqui?
+[07:11 - 07:24] Ciclo de vida, o que é que vocês acham ciclo de vida de amareado?
+[07:24 - 07:29] Ciclo de vida, amareado.
+[07:29 - 07:31] O começo meio.
+[07:31 - 07:34] Até o momento que ela é despejada.
+[07:34 - 07:40] Então vamos ter assim.
+[07:40 - 07:42] A Java é um linguagem mais nova do que a outra.
+[07:42 - 07:44] É um linguagem mais nova.
+[07:44 - 07:46] Tem uns 30 anos, né?
+[07:46 - 07:48] Então já tem alguns.
+[07:48 - 07:50] Nasceu com eles.
+[07:50 - 07:52] Olha o Java aqui.
+[07:52 - 07:54] Então já tem alguns tratativos.
+[07:54 - 07:56] Outras masitinhas não têm.
+[07:56 - 07:58] Tem uns que se preocupam.
+[07:58 - 08:00] Mas inclusive da o quê?
+[08:00 - 08:02] Inicializar o Java.
+[08:02 - 08:04] Porque o Java é de prostanciar.
+[08:04 - 08:06] É basicamente o nosso privilho.
+[08:10 - 08:22] E nós distanciamos, criamos essa variável, depois que ela é criada, a gente vai executar
+[08:22 - 08:30] sua escolha, vai executar o que ela tem que fazer e depois disso ela é descartada.
+[08:30 - 08:32] Quando você chega no final do programa,
+[08:32 - 08:34] zero, zero.
+[08:37 - 08:39] O que acontece?
+[08:41 - 08:44] Em Java, quando você zero,
+[08:44 - 08:46] ele tem um sistemazinho que vai apagar.
+[08:48 - 08:51] Pesistência, a gente vai ver um pouco mais da frente.
+[08:51 - 08:53] Eu quero, antes de chegar em banco de dados,
+[08:53 - 08:57] quero ver se vocês conseguem sobreviver ao arquivo.
+[08:57 - 09:10] sobrevivei um arquivo, trabalhar com arquivos, por caso importar um arquivo de ssv ou exportar
+[09:10 - 09:19] ssv, só deixar salto. Eu digo isso porque trabalhar com arquivos não é uma coisa simples,
+[09:19 - 09:24] Se você faz uma configuração errada, vocês têm que pensar que é outra coisa.
+[09:30 - 09:34] No caso, a gente usa um local como trabalhar com arquivo.
+[09:34 - 09:38] Ele fala que o arquivo não sabe também onde ele é, ele leia o arquivo.
+[09:38 - 09:45] Você leia o arquivo, depois está no RAM, mas depois vão uma loja que sim para trabalhar com ele.
+[09:45 - 09:52] Mas eu vou dizer que o que acontece?
+[09:52 - 09:59] Alguns endódias antigas não têm esse cuidado.
+[09:59 - 10:04] Então, por exemplo, você aloca um variável.
+[10:04 - 10:10] Se o programa termina e você não desaloca, vai enchendo.
+[10:10 - 10:12] Você já mora errado lá.
+[10:15 - 10:17] O que acontece para a gente vai trabalhar com o PEO?
+[10:18 - 10:21] Nós temos dois, a gente vai separar a memória em dois e uns partes.
+[10:22 - 10:28] Um, vai ser o stack, que é uma fila, e o outro rápido.
+[10:31 - 10:35] Que é basicamente um amazemento.
+[10:35 - 10:43] Fego para vocês, alguém já passou uma tarde no escritório?
+[10:43 - 10:55] Se você precisa de algum documento, tem aquelas estantes e está lá, você consegue acessar facilmente?
+[10:55 - 10:57] O que você tem? O que você tem?
+[10:57 - 10:59] O que você tem na sua sala?
+[10:59 - 11:01] A sua sala é sábio. Vamos dizer que é tudo em uma sala só.
+[11:01 - 11:03] O que eu faço? Você sabe no pico?
+[11:03 - 11:09] Agora vamos dizer que a empresa lá...
+[11:09 - 11:11] Exatamente.
+[11:11 - 11:13] Você usa o arquivo.
+[11:13 - 11:15] Vamos dizer que lá você tem a empresa.
+[11:15 - 11:19] Que em ano e ano ela faz um alímpio nos documentos.
+[11:19 - 11:23] Ah, esses documentos, esse ano pega, guarda e manda para o depósito.
+[11:23 - 11:27] e você vai ter um depósito, fica do outro lado da rua
+[11:29 - 11:33] aí você pisa para essa formação, vai lá e diz assim
+[11:33 - 11:36] ah, tem que ir lá no depósito para que essa formação
+[11:36 - 11:40] e lá vai ter um espaço bem maior, um esteránsalo
+[11:40 - 11:44] e a gente também não pode alocar muita coisa
+[11:44 - 11:49] e lá vai um depósito de meses que você pode alocar o que você quiser
+[11:49 - 11:51] É um contato.
+[11:53 - 11:55] O que a gente pode dizer aqui?
+[11:55 - 11:57] O que seria o Stark?
+[11:57 - 12:00] Stark seria basicamente a linha de produção.
+[12:00 - 12:04] Aquilo que é rápido, você precisa ser triste e a sensação está aqui.
+[12:04 - 12:06] Executa e tal e tal e tal.
+[12:07 - 12:09] Fica mais fácil.
+[12:10 - 12:16] O ciclo de vida de uma variável, de uma variável de um real que seriam.
+[12:16 - 12:24] ele basicamente a gente teve a criação, a execução, e eu finalmente...
+[12:24 - 12:26] não fugava o nome disso aqui, é...
+[12:26 - 12:29] GARBLAT GARBLAT Collect
+[12:29 - 12:35] e basicamente vai pegar lá o que não estiver mais
+[12:35 - 12:40] alocado, endedeçado, então você precarce o mesmo frente, né?
+[12:40 - 12:42] é apagado
+[12:42 - 12:52] Eu pergunto para vocês, vocês criaram um objeto na aula passada?
+[12:52 - 13:00] Criam os alfossos, aqui ele foi basicamente uma atividade salva.
+[13:00 - 13:06] Quando vocês vão para o mercado de trabalho, vocês acham que um objeto, quando você se for criar um objeto,
+[13:06 - 13:12] Ele vai ser simples, vai ser daquele tamanho ou vai ser maior?
+[13:12 - 13:14] Simulamente será maior.
+[13:14 - 13:15] Será maior?
+[13:15 - 13:21] Vocês acham que ficar aqui, você vai ficar lá colocando vários objetos.
+[13:21 - 13:25] A gente precisa colocar ele num estático, que é limitado?
+[13:25 - 13:27] Possivelmente não.
+[13:27 - 13:34] A maioria dos obsesiosos que são criados, eles vão por rígido, o objeto símbolo.
+[13:34 - 13:37] E é o depósito da Póra da Pouca.
+[13:37 - 13:39] O outro pode alocar as suas coisas lá.
+[13:39 - 13:41] Isso, tudo dentro da memória rã.
+[13:41 - 13:44] Dentro da memória rã, a gente vai ter um queiro.
+[13:51 - 13:56] A gente vai separar uma área pequena para o estáque e uma área grande para o rio.
+[13:56 - 13:58] Acho que esse é o meu peão.
+[14:34 - 14:41] Vou ter aqui a memória.
+[14:41 - 14:54] Vou pegar esse parche aqui, colocar o está, e aqui vou colocar o hit.
+[14:54 - 15:00] Meus objeços, vou colocar os acados aqui.
+[15:00 - 15:10] Ela pergunta, se o Stark é mais rápido, mas os objetos não podem ficar aqui, eu vou
+[15:10 - 15:13] colocar no Stark, vamos dizer que aqui eu tenho o meu mês.
+[15:13 - 15:20] Você vai ficar encarregando se tem um...
+[15:20 - 15:29] O sistema ficaria rodando, mas quando eu quiser, uma informação sobre os objetos, como ele estaria.
+[15:32 - 15:37] É a mesma coisa que a gente vai pegar um computador que vai deixar ele mais rápido,
+[15:37 - 15:43] ele gosta de poder escolher o sistema e deixar a gave para segurar a informação.
+[15:50 - 15:56] O que é que eu vou deixar aqui na estática?
+[15:56 - 15:58] Os ponteiros.
+[15:58 - 16:00] O que é que eu não falei?
+[16:00 - 16:03] Aqui ele vai contar para os rimp.
+[16:03 - 16:06] Para onde está os...
+[16:06 - 16:09] Para onde está os rimp nos compor, pelos objetos.
+[16:09 - 16:11] Então para mim vai saber o que?
+[16:11 - 16:13] Eu chegar no... Eu aqui...
+[16:13 - 16:15] Ah, a informação está na...
+[16:15 - 16:17] Na sessão 3 lá do...
+[16:17 - 16:18] Parágrafo.
+[16:18 - 16:25] Exatamente. Aí está lá no instante 4, no corredor 6.
+[16:25 - 16:28] Ou seja, chega lá e pega e se for no santo.
+[16:28 - 16:34] Então você guarda só os endereços no stack e aí você consegue certa velocidade para acessar no rio.
+[16:34 - 16:36] Exatamente.
+[16:36 - 16:42] Isso aqui, essa lógica, vem de ser, são de nomais antigos, né?
+[16:42 - 16:47] Quando a gente for ver, tem que trabalhar com o poder, por vocês, por viver com o teorias das coisas,
+[16:47 - 16:58] você vai ter um arquivo lá, você pega esse endereço e esse arquivo, você não vai ficar transportando esse arquivo para o parque da memória para lá para cá
+[16:58 - 17:08] e você transporta, então o que acontece é que o professor não estava satisfeito, que começaram com o texto, a conta do texto
+[17:08 - 17:10] Aí apareceu a imagem.
+[17:10 - 17:11] Aí não pode...
+[17:11 - 17:13] O que é a imagem, não pode contar a dúvida?
+[17:15 - 17:18] Mas é a estrutura da imagem.
+[17:19 - 17:21] Zero e um, zero e um, o que é de como?
+[17:21 - 17:22] De um binário.
+[17:23 - 17:24] De um binário?
+[17:24 - 17:25] Mais...
+[17:26 - 17:28] Vamos dizer que um array aqui, né?
+[17:28 - 17:30] A reia aqui, né?
+[17:37 - 17:40] Temos a reia, que é basicamente uma linha.
+[17:41 - 17:44] Como é o... como se desse o mundo entrou?
+[17:44 - 17:47] Você vai ter uma linha ou você vai ter várias linhas?
+[17:47 - 17:49] É, eu fico mesmo com a não.
+[17:50 - 17:51] Um dia, pera.
+[17:51 - 17:52] É?
+[17:52 - 17:54] Você subiu de matriz?
+[17:54 - 18:05] Quando a gente começa a trabalhar com as imagens, a gente vai trabalhar com o Matriz.
+[18:05 - 18:07] Você sabe a tirar um dole?
+[18:07 - 18:08] Ele é o que faz o bolo?
+[18:08 - 18:11] Se a gente chegou e esse oenê, ele fez a campagem.
+[18:11 - 18:12] Ele é oenê?
+[18:12 - 18:15] Basicamente, o Imágio é o Matriz.
+[18:15 - 18:23] Então, quando você trabalha com esse aqui, a gente tem esse endereço,
+[18:53 - 18:57] Então, o ponteiro é um selevatório.
+[18:57 - 19:00] E assim, por diante.
+[19:00 - 19:03] E assim, por diante.
+[19:03 - 19:06] Tá, parei no ponteiro. O ponteiro de ponteiro eu vou ter que estudar.
+[19:06 - 19:08] Mas, pra gente...
+[19:08 - 19:10] Você tem que entender o que?
+[19:10 - 19:12] Exatamente.
+[19:12 - 19:15] Porque vai um...
+[19:15 - 19:17] 49,95...
+[19:17 - 19:20] O que acontece?
+[19:20 - 19:25] para a gente aqui a memória agora
+[19:27 - 19:31] a gente vai ficar só com os futeiros dos nossos objetos
+[19:39 - 19:43] então aqui fica mais rápido o sistema acessar os objetos
+[19:50 - 20:20] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[20:50 - 20:53] O rosto teria um tal de um campo de gente em um alho.
+[20:53 - 20:56] O restaurante, ele é mesmo lá.
+[20:56 - 20:59] Ele tem tudo, acho difícil dizer, né?
+[20:59 - 21:03] O grande desculpe que está a ver com o almeio para que ele não está baixo.
+[21:03 - 21:07] O almeio é o mesmo, assim. É uma coisa simples.
+[21:08 - 21:13] A gente vê, os ponteiros guardam os tecles e nesse répovo é guardado pelo...
+[21:13 - 21:14] O objeto.
+[21:14 - 21:15] O objeto.
+[21:15 - 21:16] É?
+[21:16 - 21:20] e baixar o que é esse não, porque eu não sei o que você vê
+[21:20 - 21:22] eu sei o que é isso
+[21:22 - 21:26] assim, tanto o stack quanto o beat, você falou que fica na minha borahana
+[21:26 - 21:28] porque isso fica na minha borahana
+[21:28 - 21:31] mas eles têm velocidade de acesso diferente isso
+[21:31 - 21:35] o que acontece, é mais fácil você acessar uma linha de comando
+[21:35 - 21:37] ou um objeto com várias liens
+[21:37 - 21:40] não, uma linha, mas eu estou dizendo assim
+[21:40 - 21:42] não, você quer um passamento
+[21:42 - 21:44] não pensando em condenar os objetos
+[21:44 - 21:52] mas pensando nesses conceitos de mass tech e hip, eles são partes físicas diferentes,
+[21:52 - 21:56] são transístrias diferentes, eles estão mais perto do barramento.
+[21:56 - 22:02] A mesma memória é só que seria exceção diferente, o stack é menor que o hip.
+[22:02 - 22:06] O que é menor? O que é mais fácil de procurar um mais menor?
+[22:06 - 22:12] A lógica eu entendi, eu só não sei se é só não contar.
+[22:12 - 22:16] Claro, sabe se é tipo, ele vai ao memório e reserva aquilo ali.
+[22:16 - 22:22] Quando a gente instala ali no que, por exemplo, a gente coloca uma parte para a suite, outra parte para a suite,
+[22:22 - 22:27] é um swap, parte para o sistema operacional para o armazenamento, a gente coloca uma parte que
+[22:27 - 22:31] é mais rápida para um, mais divisões para o outro, né?
+[22:31 - 22:36] Eu estava pensando que fosse alguma coisa nesse esquema, mas não, a memória é uma coisa uniforme,
+[22:36 - 22:38] mas ainda assim, que a parte mais...
+[22:38 - 22:42] O sistema para o sinal vai controlar o memória.
+[22:42 - 22:45] Eu até falei por exemplo, ah, vai lotando.
+[22:45 - 22:50] Por exemplo, se eu tiver um programa lá em C e eu for colocando variáveis,
+[22:50 - 22:55] nunca fechar, vai enchendo e fechar o programa, se eu não fechar, estouraria.
+[22:55 - 23:00] Isso ocorria antigamente. Hoje em dia, quando você fecha um programa,
+[23:00 - 23:03] o sistema para sinal já faz o apanheirador limpo.
+[23:03 - 23:09] Já faz o gerensamento geral de tudo.
+[23:09 - 23:15] Isso acontece mais antigamente quando você pega um do XP.
+[23:15 - 23:20] Mas aí no caso, você vai ter o seu operacional e ele vai dizer assim,
+[23:20 - 23:23] ah, essa área aqui é reservada para dar programa.
+[23:23 - 23:29] Aí lá naquela área reservada, o próprio JOV já vai dizer assim,
+[23:29 - 23:34] Essa aqui é a área reservada por o HIP, essa é a área exata por HISTEC.
+[23:34 - 23:36] Teve uma coisa chamada de fila.
+[23:36 - 23:41] O HISTEC e o HIP são unições lógicas, eles não são de pessoas físicas, então.
+[23:41 - 23:41] Exatamente.
+[23:41 - 23:42] Ok.
+[23:44 - 23:48] Isso, eu vou falar, tenho que entrar e falar um pouco sobre...
+[23:50 - 23:51] Fica adiado.
+[23:53 - 23:55] Você quer perguntar se fica adiado?
+[23:55 - 23:56] É basicamente o quê?
+[23:56 - 24:02] Ah, você tem uma rail, tem aquele fixe, você não consegue aumentar mais.
+[24:04 - 24:05] Fica cardiada, e passa com o ticket.
+[24:05 - 24:06] Ele vai ir na ponta do outro lugar.
+[24:06 - 24:10] Vai a ponta, e na memória você vai dizer, a ponta pela lá, a ponta pra cá.
+[24:10 - 24:14] Mas é você não sabe, quando você quer usar um busco, você tem que sair.
+[24:14 - 24:17] Sim, percorrendo o caminho inteiro.
+[24:17 - 24:19] Vai que é o último lá.
+[24:19 - 24:20] Aham, entendi.
+[24:21 - 24:22] Obrigado, Tizê.
+[24:26 - 24:28] É basicamente a pilha, né?
+[24:28 - 24:31] Quem vai guardar isso, vai variar os locais,
+[24:31 - 24:33] o motivo daqui tudo que é rápido.
+[24:33 - 24:36] Toda aquela informação, tipo em contagiou lá que você precisa fazer,
+[24:36 - 24:40] você coloca no meio um loop e essas coisas, você bota tudo lá.
+[24:42 - 24:46] Acesse o rápido, o trago, você vai estar executando aqui,
+[24:46 - 24:48] você vai conseguir pegar a informação.
+[24:48 - 24:50] O que é o que é?
+[24:50 - 24:52] É o que é?
+[24:52 - 24:54] Basicamente é um melhor momento.
+[24:54 - 24:56] Vocês não chegaram a ver estrutura de dados,
+[24:56 - 24:58] então eu posso cobrar muito.
+[24:58 - 25:00] Sim, sim.
+[25:00 - 25:02] Mas é o que?
+[25:02 - 25:04] O último é o primeiro a sair.
+[25:04 - 25:06] Minha pilha de louco, sim.
+[25:06 - 25:08] Não sou bem a pilha que você vai fazendo.
+[25:08 - 25:10] Que é a base?
+[25:10 - 25:12] Eu pego a foto pra vocês.
+[25:12 - 25:14] Ah, porque isso aí é...
+[25:14 - 25:16] Mas...
+[25:16 - 25:21] Eu tenho muito isso aqui. O último vai entrar a primeira saída.
+[25:21 - 25:26] O senhor é operacional? Pense em alguma coisa assim que funciona assim.
+[25:26 - 25:28] Não?
+[25:28 - 25:30] Isso é o princípio.
+[25:30 - 25:35] Você pode estar em distrito, no nosso ambiente, do elevador.
+[25:35 - 25:40] Tá. Você fez um código, escreveu código todinho.
+[25:40 - 25:44] Vou fazer as outras ações.
+[25:44 - 25:45] Quebrou.
+[25:45 - 25:47] Qual é a sua primeira ação?
+[25:48 - 25:50] Você tem um código?
+[25:50 - 25:52] Não.
+[25:52 - 25:54] Depois você passa disso.
+[25:54 - 25:57] Você estava rodando.
+[25:57 - 25:59] Você precisou alteração.
+[25:59 - 26:00] Quebrou.
+[26:00 - 26:01] O que você faz?
+[26:01 - 26:03] Teclado automático.
+[26:03 - 26:07] Você vai fazer.
+[26:07 - 26:09] Você vai lá, vai no cúpero Z.
+[26:09 - 26:17] Você vai voltando, vai encontrar os eus e vai tirando da filha lá, fazendo alterações.
+[26:19 - 26:21] O outro eus e esse modelo.
+[26:21 - 26:23] E por aí vai, tem vários outros modelos, né?
+[26:23 - 26:28] Tem que ter um peso automático, se você conseguir, depois termina, é líquido, né?
+[26:29 - 26:33] O rívio, ele vai largar as instâncias, os dinâmicas, pelo objeto de reais.
+[26:33 - 26:36] Basicamente você vai ter aquele objeto com várias coisas.
+[26:36 - 26:42] Se você ver o que aconteceu na aula passada, o Abijado tem separado em dois partes, o pai são
+[26:44 - 26:46] Quem está lembrado?
+[26:46 - 26:48] Obrigado, você está até arreglado o carro
+[26:48 - 26:49] O quê?
+[26:49 - 26:51] Até arreglado o carro, essas coisas assim
+[26:51 - 26:53] A classe que é o móvel, hein?
+[26:53 - 27:00] Teta classe, você vai ter um parte lá, primeiro que a gente faz e a segunda
+[27:00 - 27:02] A tributa?
+[27:02 - 27:04] Metros.
+[27:04 - 27:06] Metros.
+[27:06 - 27:08] Metros.
+[27:08 - 27:10] Metros.
+[27:10 - 27:12] Metros.
+[27:12 - 27:14] É assim, muda os números, mas você é...
+[27:14 - 27:16] para fazer essa solução,
+[27:16 - 27:18] mas o que é que tem que deixar os números novos.
+[27:18 - 27:20] Velocidade.
+[27:20 - 27:22] Ligeramente mais lento,
+[27:22 - 27:24] você vai transportar um...
+[27:24 - 27:26] um grande quantidade de dados.
+[27:26 - 27:28] Então, muito mais silêncio
+[27:28 - 27:30] e se você trabalha para aquilo ali.
+[27:32 - 27:35] É um espaço baixo estruturado de um e um, principalmente.
+[27:35 - 27:37] Então, por exemplo, se tem um espaço grandão,
+[27:37 - 27:41] vai alocar daquele espaço para aportar objeto tal, objeto tal, objeto tal,
+[27:41 - 27:44] vai organizando dependendo do tipo de espaço que tem.
+[27:46 - 27:49] Então, o que é que ele acaba muito rápido?
+[27:49 - 27:51] Como uma derada aqui?
+[27:51 - 27:54] Exatamente, ele vai ser aqui uma coisa para ser rápido.
+[27:54 - 27:57] Meio o que acontece, você não consegue guardar um objeto nele.
+[27:57 - 28:00] Por isso eu falei de endereço, por isso eu falei de pontejo.
+[28:00 - 28:02] Porque o Leibman é fácil de fechar, você pegar o endereço,
+[28:02 - 28:07] ter uma linha de comandante, o objeto ou o carro
+[28:07 - 28:10] está guardado naquele endereço.
+[28:10 - 28:13] Então, você não vai lá e quer fazer alguma ação,
+[28:13 - 28:15] quer fazer alguma coisa,
+[28:15 - 28:17] e vai lá e o endereço se pega.
+[28:17 - 28:18] É muito mais rápido.
+[28:19 - 28:22] O que acontece? Quando a gente começa a trabalhar com o Leibman,
+[28:22 - 28:23] vocês já estão fazendo esse programa assim,
+[28:23 - 28:25] é simples, estão no pensador.
+[28:25 - 28:28] A maior hora que a gente começa a pegar o fórum dos mais robustos, principalmente em C.
+[28:28 - 28:31] Ah, em C tem gente que fez o...
+[28:31 - 28:33] que já fez Doom.
+[28:33 - 28:36] Fez essa proposição do Doom.
+[28:36 - 28:38] Mas aí o que acontece?
+[28:38 - 28:41] A pessoa tem que passar um mapa pra ele.
+[28:41 - 28:44] Passa o mapa, sobe lá.
+[28:44 - 28:47] Ele tem que ler essas coisas, né?
+[28:47 - 28:51] E o arquivo do mapa, ele tem que trabalhar com ele.
+[28:51 - 28:57] Então aqui você não vai ficar pegando o arquivo do tamanho do lado dele para ficar transportado de um lado com outra memória.
+[28:57 - 29:04] Esse consome. Mas se você pegar o endereço daquele mapa, o mapa está salvando a parte do documento.
+[29:04 - 29:09] Documentos, barras, mapas, aquele que é o meu que a gente tem.
+[29:09 - 29:12] Os diretórios que a gente vai.
+[29:12 - 29:17] Ele pega aquele endereço lá, que ele está salvando lá e fica transportando esse endereço para sempre abaixo.
+[29:17 - 29:22] Acho que é muito mais rápido, muito mais rápido do que trabalhar o mapa inteiro.
+[29:22 - 29:28] Eu digo isso, mas tem gente que não sabe brincar e quando faz as coisas em C, faz um D,
+[29:28 - 29:32] ele bota a função jogar em Rage.
+[29:32 - 29:35] Aí, fala do seu.
+[29:35 - 29:39] Se você procurar um Vithyug, procurar um...
+[29:39 - 29:44] Leições de bumbum, cubo 3D, online...
+[29:44 - 29:46] Não sei, outra pessoa faz isso.
+[29:54 - 29:56] Limpeza, coletor de lixo.
+[29:56 - 30:00] Pergunte pra vocês, como é que vocês acham que coletor de lixo funciona?
+[30:00 - 30:10] O colegão de lixo vai verificar os objetos que não são mais utilizados e apagados.
+[30:10 - 30:14] Tem perigo de amar um objeto que a gente está utilizando?
+[30:14 - 30:15] Não.
+[30:15 - 30:16] Por quê?
+[30:16 - 30:24] Eu acho que o problema é que seria acessado em todos os espaços
+[30:24 - 30:31] seria acessado quando você acessou um passo, assim, para o nome de ser
+[30:31 - 30:37] A organização dele seria a culpa, tipo, ah, o que machina ele é esse um tipo aqui
+[30:37 - 30:43] Então, é como se tivesse aquela informação, ah, já que você estava acessando essa coisa
+[30:43 - 30:45] Você vê se você sai para parar e não...
+[30:45 - 30:47] Eu acho que não pode entrar aqui.
+[30:47 - 31:17] Eu acho que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é
+[31:17 - 31:19] Você vai pegar a informação que você digita lá.
+[31:20 - 31:23] Botou informação no scan, o que eu só não fez.
+[31:23 - 31:25] Começou a trabalhar com aquilo ali.
+[31:25 - 31:27] Nunca mais tinha o que eu ia usar.
+[31:27 - 31:32] Quando tinha 30, 40 minutos, o problema de vocês é curto.
+[31:32 - 31:36] Não é um problema que vai rodar por dois meses, três meses.
+[31:38 - 31:40] Mas, pego o volar e não...
+[31:41 - 31:44] 20 minutos você vai usar o scan, e eles executam as ações.
+[31:44 - 31:51] O coletor de bicho funciona de forma assim.
+[31:51 - 31:54] Você se lembra o que tem que usar aqui, o alho?
+[31:54 - 31:56] O indereço.
+[31:56 - 32:00] Enquanto tiver um indereço para o objeto,
+[32:00 - 32:02] ele está ativo.
+[32:02 - 32:04] Mas no momento para ser assim,
+[32:04 - 32:09] para assar o indereçamento, o objeto está lá sem indereço, sem conexão,
+[32:09 - 32:13] O indereçamento, o objeto está lá sem indereço, sem conexão.
+[32:13 - 32:15] É, é um outro jeito.
+[32:15 - 32:17] É que é isso.
+[32:17 - 32:21] O que acontece? Agora você tem uma pessoa contando pra você.
+[32:21 - 32:23] Claro que essa pessoa pode contar.
+[32:23 - 32:28] E nesse cenário o voltar novamente não consegue depois, né?
+[32:28 - 32:33] É, porque é um processo automático, mas sempre é como em uma outra vez.
+[32:33 - 32:36] Só por isso você tirar o indereço.
+[32:36 - 32:37] Tentatamente, né?
+[32:37 - 32:40] É porque você é certo em vocês.
+[32:40 - 32:48] É mais fácil você apagar um endereço, porque você ir lá no objeto e pagar tudo.
+[32:48 - 32:52] Porque aqui você acontece.
+[32:52 - 32:57] E você tem um comando que eu odeio, se chama Filipe.
+[32:57 - 33:00] É só uma palavra freio.
+[33:00 - 33:04] Mas é o fone de que você trabalha com memória em C.
+[33:04 - 33:06] A gente começa a me calmar mais chamado Memo Relique.
+[33:10 - 33:13] Você roda o programa, roda com a verificação de memórias.
+[33:14 - 33:16] Aí diz, você tem o Memo Relique.
+[33:17 - 33:20] Lá no canto. É o veículo, eu vou lá, dou o frio no Memo Relique.
+[33:20 - 33:22] Aí quando você roda o programa de novo, vai aparecer o erro.
+[33:23 - 33:24] Você deu frio demais.
+[33:27 - 33:29] É o que eu não me caneram.
+[33:29 - 33:30] Uu, eu não sei.
+[33:31 - 33:33] A loja a gente usa, é um...
+[33:34 - 33:44] Você tem que saber a linha correta, o momento exato, porque se não for, o rosto da fria demais ou a água não mora demais
+[33:49 - 33:52] Mas eu falei que o que acontece?
+[33:52 - 34:00] Em ser como você tem acesso a parte de máquinas, a gente memória essas coisas, você tem que ter muito cuidado
+[34:00 - 34:02] Porque o...
+[34:02 - 34:04] ...estando de segurança mesmo...
+[34:04 - 34:07] ...o maior de invasões ocorre com a memória dele.
+[34:07 - 34:10] O pessoal dá um overflow de memória...
+[34:10 - 34:16] ...e com aquele overflow de memória, eles acessam a parte da memória do programa.
+[34:16 - 34:19] O overflow é sobre a carga.
+[34:19 - 34:23] E sobre a carga é aquela parte da memória...
+[34:23 - 34:28] ...até entra na parte da memória que estava reservada para o programa.
+[34:30 - 34:47] Os tipos fermentíveis, inteiro, double, eles trafegam pela Stark, são cópias interais,
+[34:47 - 34:56] basicamente são muito rápidos, e fica, basicamente, muito mais, como eu diria, estrutando, basicamente
+[35:26 - 35:31] Então ele precisaria de um sete?
+[35:31 - 35:33] Não, não.
+[35:33 - 35:36] Aproveitou na criação?
+[35:36 - 35:40] Exatamente, não. Aproveitou na criação e não precisou mudar.
+[35:40 - 35:45] Porque você fica lá com o estado de contatímulos já teve.
+[35:45 - 35:47] Então a gente não precisaria de um sete entre eles.
+[35:47 - 35:49] Um alto incremento?
+[35:49 - 35:51] Exatamente. Você teria...
+[35:51 - 35:55] Você poderia até mesmo fazer a lógica.
+[35:55 - 36:06] A pergunta é aqui. Quem é que é lá no Facebook? Recebeu lá o propaganda de IA.
+[36:06 - 36:10] Você nem se usa no Facebook?
+[36:10 - 36:11] O Facebook, não vai ser.
+[36:11 - 36:13] Cara, usa o Facebook ainda, será?
+[36:13 - 36:17] Usa. O Facebook, o Facebook é o Facebook Instagram aí?
+[36:17 - 36:19] Ah, você. Fala Instagram, é para o resto.
+[36:19 - 36:21] É, que não sonha.
+[36:21 - 36:28] É tudo a mesma empresa, não é uma boa entidade, né?
+[36:28 - 36:34] Então você é a minha aquela palavra agente, sabe o que é agente, sabe?
+[36:34 - 36:37] A gente sabe.
+[36:37 - 36:43] Mas eu perdo pra vocês. Eu vou lá, criei no objeto.
+[36:51 - 36:55] E o meu objeto, para fazer as coisas.
+[37:01 - 37:03] E o meu objeto aqui.
+[37:06 - 37:09] Quando eu quiser, quando ele fizer som isso,
+[37:10 - 37:13] e aí o objeto, por exemplo, para se incrementar,
+[37:13 - 37:17] vou lá, passar, e então, com o dite comparado.
+[37:17 - 37:29] 0, e toda pequena variação, vai querendo mais um, mas para 0, seria automático, não seria?
+[37:29 - 37:30] Não seria.
+[37:30 - 37:32] Não poderia ser uma automação já?
+[37:32 - 37:35] Não seria tipo um agente que ficaria automáticamente?
+[37:35 - 37:36] Sim.
+[37:36 - 37:40] Eu vou pensar em você, o quanto mais você automatizar, menos ver que você vai ter.
+[37:40 - 37:41] Sim, sim.
+[37:41 - 37:45] O marido diz a qual é quando está vindo a sua mão.
+[37:47 - 37:49] Cadastra errada, etc.
+[37:52 - 37:57] Então, poderíamos dizer que aqueles objetos que a gente vê lá na alia,
+[37:57 - 38:00] aqueles agentes que a gente vê na alia, seria um objeto?
+[38:04 - 38:05] Sim.
+[38:05 - 38:07] O que é esse aí?
+[38:07 - 38:11] É esse o seguinte, ele vai ter lá os atributos dele e os metodos dele.
+[38:11 - 38:14] Vamos dizer que você tem um agente para vendas.
+[38:14 - 38:17] Ele vai ter lá os atributos, ah, venda tal, venda tal.
+[38:17 - 38:21] Ele vai ter os metodos, fazer verificação e tudo, né?
+[38:21 - 38:25] Ele vai ter uma estrutura mais robusta do que o top de as que a gente tem.
+[38:25 - 38:28] Mas ele vai trabalhar com os atributos e os metodos.
+[38:28 - 38:33] Quando a gente fala que o mercado usa, fala disso.
+[38:33 - 38:35] Isso.
+[38:40 - 38:44] Porque basicamente você tem um estruturado e você não consegue suportar aquela quantidade de fluxo.
+[38:46 - 38:49] Aí você trabalha... Ah, tem um 10 da gente aqui.
+[38:49 - 38:53] Tem 10 objetos que tem uns parâmetros de diferença.
+[39:03 - 39:06] Passagem de referência por objetos.
+[39:06 - 39:10] Vou dar aquela para vocês.
+[39:10 - 39:16] Vocês esqueceram, mas na aula passada eu não pedi para vocês fazerem uma classe.
+[39:16 - 39:19] Eu pedi para vocês fazerem duas. Vocês estão lembrados?
+[39:19 - 39:21] A apresentação da aula passada.
+[39:21 - 39:27] Eu pedi para vocês fazerem ativo TI e ximálvia.
+[39:27 - 39:31] A gente só pediu ativo TI, só ainda tem que fazer o ativo TI.
+[39:31 - 39:40] mas foi ideal porque acontece quando a gente vai fazer o chamado você vai ter lá um chamado
+[39:40 - 39:48] é o chamado quando você tem o chamado você tem que colocar o activo porque não tem
+[39:48 - 39:53] vamos dizer que no notebook lá você cadastra o notebook e o notebook não é feito
+[39:53 - 40:02] Quando eu vou ter o ativo daquela linha em notebook, o status dele está ok.
+[40:02 - 40:07] Quando eu abrir o chamar, eu tenho que mudar o status.
+[40:07 - 40:21] Então, vamos dizer que eu tenho um objeto do chamado 01 lá.
+[40:21 - 40:23] e dentro dele tem um ativo
+[40:27 - 40:33] Quando eu for lá no ativo, eu vou mudar os status dele para ativo, para imanutação
+[40:33 - 40:35] Como é que você acha que faço isso?
+[40:36 - 40:37] Incerto
+[40:37 - 40:38] O que?
+[40:38 - 40:39] Incerto
+[40:39 - 40:42] Pode ser incerto, mas já pense assim na questão da máquina
+[40:43 - 40:47] Eu tenho um objeto chamado, eu tenho um objeto coativo
+[40:47 - 40:53] Eu tenho dois objetos, eles não tem que se comunicar entre eles.
+[40:53 - 40:56] Como é que eu acho que vai fazer essa comunicação?
+[40:56 - 41:01] Quando eu vou passar a informação lá do MEN, chego ao chamado, o chamado diz
+[41:01 - 41:05] ah, tem que alterar os status do objeto do ativo lá.
+[41:05 - 41:09] Como é que tu acha que ele faz esse alvo?
+[41:09 - 41:14] Esse alvo de informação, porque ele vai ter que ir lá no ativo, ir chamando,
+[41:14 - 41:16] Eu tenho um chamado aqui.
+[41:16 - 41:17] É outro jeito.
+[41:17 - 41:19] Eu vou ter que usar o chamado de status.
+[41:19 - 41:21] E é para o status menor.
+[41:21 - 41:22] É um endereço de fome dele?
+[41:22 - 41:23] Exatamente.
+[41:24 - 41:26] É muito mais fácil você ir para o fome.
+[41:26 - 41:30] Eu não endereço fome dele porque você tem que sair procurando a informação do ativo.
+[41:31 - 41:32] Então acontece.
+[41:32 - 41:35] Quando eu criei lá a classe do chamado,
+[41:35 - 41:37] eu vou botar lá o ativo TI.
+[41:37 - 41:41] E aquele livro é um endereço que vai apontar para o ativo que quiser.
+[41:44 - 41:48] Vocês entendem que estou falando aqui? Não, não é?
+[41:48 - 41:51] Praticamente isso que acontece.
+[41:51 - 41:55] Nessa aula aqui, eu não vou falar muito sobre o lógico de programação mesmo.
+[41:55 - 41:58] Eu estou falando mais sobre o funcionamento dessa lógica na máquina.
+[41:58 - 42:00] É o endereçamento.
+[42:00 - 42:02] É nosso queixo.
+[42:02 - 42:05] O queixo é endereçamento, é importante que vocês tenham noção
+[42:05 - 42:08] quando vocês não fazem programas mais longas.
+[42:08 - 42:11] E a resposta é que vocês não são para carregar.
+[42:11 - 42:21] Se você tiver um objeto lá, dentro daquele boto, eu tiver outros objetos, é do enderecimento.
+[42:21 - 42:27] Eu não vou simplesmente alocar naquele... Eu não vou ter um objeto, dentro desse objeto eu vou ter outros objetos.
+[42:27 - 42:31] Eu não vou botar lá dentro, eu vou ter os endereços e outros objetos.
+[42:31 - 42:42] E o que acontece quando eu tiver esses objetos, eu usar esse direcimento, quando eu alterar alguma coisa lá no que eu quiser, vai ser alterado com um padrão.
+[42:44 - 42:53] Então, se eu usar o chamado para alterar os status do ativo DI, ele vai lá no ativo DI e vai alterar aqueles status.
+[42:53 - 42:58] Eu estou falando que tudo isso acontece,
+[42:58 - 43:00] eu tenho que se resitarem em eles e vocês usarem o clima
+[43:00 - 43:03] usar um objeto para alterar outro objeto,
+[43:03 - 43:05] sem vocês nos rever.
+[43:05 - 43:08] Mas é uma questão de lógica,
+[43:08 - 43:12] um problema de lógica que pode aparecer quando você se for em programar mesmo.
+[43:12 - 43:14] É certo?
+[43:14 - 43:18] Me confunde por causa do cápsula.
+[43:18 - 43:21] É, é privado, mas...
+[43:21 - 43:29] que a gente não teria essa possibilidade de comunicação, mas com endereço eu bulo isso, eu posso...
+[43:29 - 43:34] Não, porque quem vai alterar vai ser o certo, lá do gênero.
+[43:34 - 43:35] Ah, tá, tá.
+[43:35 - 43:38] Vai ser o exterior, o exterior.
+[43:38 - 43:39] Exatamente.
+[43:40 - 43:44] Mas aqui é a teoria, a gente vai voltar para a prática.
+[43:51 - 44:03] Aqui é o nosso BASCICRO DE VIDO, que é o objetivo de um local.
+[44:03 - 44:07] Aqui a gente vai ter o nosso querido em dereço de memória.
+[44:07 - 44:10] Você chega a ver o dereço de memória mesmo?
+[44:10 - 44:12] Não, percunte como.
+[44:12 - 44:14] O que aconteceu?
+[44:14 - 44:15] Eu estava mexendo, não sei.
+[44:15 - 44:18] Como toda boa pessoa, eu mandei fazer alguma coisa.
+[44:18 - 44:21] E ele escreveu o endereço de memória da variável.
+[44:21 - 44:24] É o ali pra que ele quis, se eu quisesse, não tinha setado.
+[44:26 - 44:30] Mas o endereço de memória vai sair lá, vai sair em hex decimal.
+[44:32 - 44:36] Quando ele tiver atingo, ele vai ter as conicações que a gente está aqui,
+[44:36 - 44:40] metodua, metodube, ele vai adiantar os metodos.
+[44:40 - 44:44] Depois que termina tudo, que ela for um banana, que ela tinha isolado,
+[44:44 - 44:49] que você que usar a gente vai tratar tudo como um nó
+[44:49 - 44:54] ah, vai tratar tudo como é que fica assim, fica isolado
+[44:54 - 44:57] vai por lixo
+[44:57 - 45:00] o que acontece?
+[45:00 - 45:06] até mesmo quando está ao redizando o secadeiro para vocês
+[45:06 - 45:12] pensamos que dizer, ah, como você não coloca para vocês trabalham com arquivo cura
+[45:12 - 45:20] Eu quero que vocês vejam a necessidade de persistência, porque basicamente a gente vai ficar
+[45:20 - 45:23] usando as atividades, se você só tem que ficar preenchido alguns objetos.
+[45:23 - 45:29] No futuro, quando cansamos a gente forar para persistência, vocês vão ver as portas
+[45:29 - 45:40] de iguas de dados, salões e arquivos.
+[45:40 - 45:44] Todo mundo entendeu o ciclo aqui de um objeto, entendeu?
+[45:45 - 45:49] O correto seria o quê? Quando a gente trabalha com problemas fazemos lançados.
+[45:49 - 45:53] Quando você chega aqui, ele geralmente é colocado em um bantilhado,
+[45:53 - 45:55] que é salvado nas formações, né?
+[45:56 - 45:58] Aí ele vai salvar aquele...
+[45:59 - 46:01] formação daquele banco,
+[46:01 - 46:03] pegar tripulose lá todo dia, e você se salvou lá.
+[46:04 - 46:06] Mas é que tem que fazer um ano.
+[46:07 - 46:09] Tem que fazer um ano então, o que acontece?
+[46:09 - 46:16] Se você ficar só acumulando objetos, aumentando o consumo de RAM, isso vai ir mais de uma aguenta.
+[46:24 - 46:27] Quando ele está de lixo, o que ele vai fazer?
+[46:27 - 46:32] Ele vai ver que ele está agudando o que não tem mais lá a conexão.
+[46:33 - 46:36] Ele vai somente ir bem lá, jogando lixo.
+[46:36 - 46:43] Você é charco, já usa script, que já usa o mapa de vituais, é automático.
+[46:43 - 46:46] Toda a sugestão é isso que eu tô machucando.
+[46:46 - 46:48] Você... Não é.
+[46:48 - 46:53] Então você tem que fazer, tem que usar o meu querido free.
+[46:54 - 46:57] Já levei hoje já do free.
+[46:57 - 47:00] Ah, aí tem que ser já automático.
+[47:00 - 47:01] É, porque eu vou...
+[47:01 - 47:08] Só que é o início, se fosse com o miolo eu já ia mandar para você só fazer alguma coisa com memória para vocês verem como o trabalho de sua tia é.
+[47:09 - 47:11] Você tem que ver isso?
+[47:11 - 47:17] É, eu acho que você não... como você tem que ver lógica aí, e a estrutura de nada é complicada, né?
+[47:17 - 47:22] Mas o memório ali, né? Tem que sempre ter cuidado.
+[47:22 - 47:30] Qualquer eus de memória, qualquer software que tiver eus de memória tem que ser caso mais rápido que possível.
+[47:30 - 47:33] Como eu falei, não é só questão de segurança.
+[47:33 - 47:41] Muitos programas que bulam a segurança, que eu não uso a memória.
+[47:41 - 47:48] Um ano que acho que muita gente conhece, é o uso de extravamento de salto, que é o de sals.
+[47:48 - 47:57] Apega o Nintendo Switch aí, o pessoal dá um curto para sobrecarregar o sistema, para
+[47:57 - 48:00] ter acesso aos avis para instalar as coisas.
+[48:00 - 48:30] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[48:30 - 48:37] Aqui basicamente o que eu estava falando.
+[48:37 - 48:43] Vamos dizer que você tem aqui o conteúdo, ativa o TI, morri, e o conteúdo chamado.
+[48:43 - 48:51] Você vai ter a conexão em que você escuta o tipo no chibulto, que é um novo chamado.
+[48:51 - 48:56] Quando você vai ser na sua nave ativa, por exemplo, estou lá o nome,
+[48:56 - 49:00] Já vai fazer o endereçamento para ele.
+[49:02 - 49:12] Então quando quiser fazer, por exemplo, alterar alguma coisa dele, ele vem aqui, pega o endereço dele, e eu já chamo o método dele aqui.
+[49:13 - 49:16] Então basicamente seria o que? Seria um comando.
+[49:23 - 49:25] Seria um comando tipo assim.
+[49:26 - 49:52] com o metrô, com o sete, o estado.
+[49:52 - 49:56] e aí você passaria a sua passando.
+[50:00 - 50:02] Mas como eu já teria o chamado aqui,
+[50:03 - 50:08] teria um método chamado para acessar o endereço da memória dele,
+[50:08 - 50:14] que eu não estava achando que ia chamar um método do AtivTI.
+[50:16 - 50:18] Quando eu saber aqueles lentes de comando,
+[50:18 - 50:19] Você quer ponto?
+[50:19 - 50:20] Você quer ponto?
+[50:20 - 50:22] Aqui vai entrando dentro de outros métodos para chamar as coisas.
+[50:22 - 50:23] A ligação entre eles.
+[50:23 - 50:26] Fica claro isso aqui?
+[50:26 - 50:27] É.
+[50:27 - 50:28] O que acontece?
+[50:28 - 50:30] Fico claro isso aqui.
+[50:39 - 50:41] O que acontece?
+[50:42 - 50:49] Essa ligação, quando você faz essa despliegação, é um trabalho mais de gênero de solto.
+[50:50 - 50:54] Você precisa organizar com essas despliegações, não tentar sobregargar o sistema.
+[50:58 - 51:08] Por exemplo, o tcham, o tcham é chamado getOtivo, setStatus, em mantecão.
+[51:08 - 51:16] Eu vou usar o comando do chamado lá, vou passar aqui o em mantecão, ele vai lá e vibra
+[51:16 - 51:27] para cá. E quando eu fico a transformar o pet status, ele deve o primil no meu intenção.
+[51:27 - 51:34] A variável notch recebe a mudança, como ambas têm frequências e a ponta com o mesmo
+[51:34 - 51:42] endereço, vai alterar essa tensão. Eu falei de variáveis globais ao passado, falei,
+[51:42 - 51:46] que não é muito indicado se utilizar para as mudanças.
+[51:46 - 51:51] Aqui você usa o endereçamento para mudar a informação de outros objetos.
+[51:53 - 51:56] Assim, é uma coisa que você tem que ter cuidado.
+[51:56 - 52:03] Se um método de algum objeto altera aquela informação e depois você quer pegar essa informação,
+[52:03 - 52:06] pode acabar dando conflito.
+[52:06 - 52:13] Então você tem um cuidado quando você faz essas ligações, tem noção de quais as ligações, que podem existir em um outro.
+[52:28 - 52:31] O que acontece se você está emaginando na RAM?
+[52:31 - 52:34] Todas as vezes a gente vai trabalhar.
+[52:36 - 52:38] Então, os apagados.
+[52:38 - 52:42] Vocês estão fazendo os arquivos que estão nos códigos, né?
+[52:42 - 52:46] Está lá com o auto-sapes configurado.
+[52:46 - 52:51] Vocês não têm noção de como é boa essa função.
+[52:51 - 52:58] É principalmente quando você usar um programa traqueado, dá um algum problema.
+[52:58 - 53:05] Eu quando comecei a trabalhar com código, estava usando um laboratório que usava um Dreamweaver
+[53:05 - 53:10] da Dovo, para fazer site.
+[53:10 - 53:13] Aí não tinha vergonha de craquear.
+[53:13 - 53:17] Nem pra de preto.
+[53:17 - 53:19] Precisa.
+[53:19 - 53:27] ou isso quando eu falo que não tinha, não tinha bescoo, não era curte a nada
+[53:27 - 53:32] ou era isso, era o Wackplank de 5gb que a máquina chorava pra abrir
+[53:32 - 53:38] Wackplank você falou que não estava, mas abriu qualquer coisa dele
+[53:38 - 53:40] O que é isso?
+[53:40 - 53:42] É o que é isso?
+[53:42 - 53:44] É o que é isso?
+[53:44 - 53:46] É o que é isso?
+[53:46 - 53:48] É o que é isso?
+[53:48 - 53:50] É o que é isso?
+[53:50 - 53:52] É o que é isso?
+[53:52 - 53:54] É o que é isso?
+[53:54 - 53:56] É o que é isso?
+[53:56 - 53:58] É o que é isso?
+[53:58 - 54:00] É o que é isso?
+[54:00 - 54:02] É o que é isso?
+[54:02 - 54:04] É o que é isso?
+[54:04 - 54:06] É o que é isso?
+[54:06 - 54:11] esse quebraça alguma coisa é no peixe de
+[54:11 - 54:14] é com medo né
+[54:14 - 54:18] treinamento auto save quando eu vi auto save no vascoge
+[54:18 - 54:20] coisa linda
+[54:20 - 54:22] amamem
+[54:22 - 54:24] porque
+[54:24 - 54:28] você disse isso aqui não pode acontecer
+[54:28 - 54:30] ah, para que você está pro...
+[54:30 - 54:33] até me contar lá no vascoge fazendo alguma coisa
+[54:33 - 54:35] Quem é que por exemplo já tentou rodar um...
+[54:35 - 54:36] Não tá...
+[54:36 - 54:39] Não voltou o opcê, fez alguma operação e...
+[54:39 - 54:42] E no profissional, aconsova-se lá, não salvei.
+[54:42 - 54:43] Foi ele.
+[54:44 - 54:46] Minha cor ligeiramente.
+[54:48 - 54:50] Basicamente, isso aqui é por causa...
+[54:50 - 54:52] É, a parte que mais falta que eu estivesse tendo ele no final...
+[54:52 - 54:54] Desculpa se a gente vai ver persistência.
+[54:55 - 54:56] Qualquer coisa que eu e isso...
+[54:56 - 54:58] Qualquer outra que a gente faça...
+[54:58 - 55:00] Vem ver quando.
+[55:03 - 55:13] Você já decorou as regras de bit?
+[55:13 - 55:17] Não, é a bit.
+[55:17 - 55:19] A bit.
+[55:19 - 55:21] A bit.
+[55:21 - 55:23] A bit.
+[55:23 - 55:25] A bit for.
+[55:25 - 55:27] A bit a bit.
+[55:27 - 55:29] A bit com bit.
+[55:29 - 55:31] A bit for.
+[55:31 - 56:01] E a gente pode fazer um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo de um vídeo
+[56:01 - 56:03] Você vai fazer o trabalho da quarta vez, vai?
+[56:03 - 56:05] Trabalho.
+[56:05 - 56:07] Não é integrado com a curva.
+[56:07 - 56:09] O Gui tirou que você vai fazer um projeto.
+[56:09 - 56:13] Criar um preste para você, um preste para a curva.
+[56:13 - 56:15] Fazer uns próticos.
+[56:15 - 56:17] Depois juntar.
+[56:17 - 56:19] Depois juntar, você vai ser...
+[56:19 - 56:21] Não esperar mais.
+[56:21 - 56:23] Depois é só juntar?
+[56:23 - 56:25] É.
+[56:25 - 56:27] É.
+[56:27 - 56:29] Se eles não mexeram do mesmo aqui, não tem problema.
+[56:29 - 56:36] É ruim que ele criei ao sem ele.
+[56:36 - 56:39] Porque eu fico nesse set.
+[56:39 - 56:45] Primeira vez que eles vão juntar dois projetos, um sem artesia do Portem,
+[56:45 - 56:47] você não sabe onde é o que dá ele.
+[56:47 - 56:50] Quando você está no beat, ele vai te dar um carnaval.
+[56:50 - 56:52] Vai te dizer, esse arquivo aqui.
+[56:52 - 56:55] O que se altera, o que não foi e vai explicando.
+[56:55 - 56:57] Apenas por aqui.
+[56:57 - 56:59] Isso.
+[56:59 - 57:01] Um pouco.
+[57:01 - 57:03] Um pouco.
+[57:03 - 57:05] Um pouco.
+[57:05 - 57:07] Você apanha aqui.
+[57:07 - 57:09] Você pode usar o...
+[57:09 - 57:11] Você pode usar o...
+[57:11 - 57:13] O que você come?
+[57:13 - 57:15] Não, não é para barcar.
+[57:15 - 57:17] É para fazer barcar.
+[57:17 - 57:19] Para dar um lugar aqui.
+[57:19 - 57:21] Para dar um lugar aqui.
+[57:21 - 57:23] É só o penho aqui.
+[57:23 - 57:25] Combite isso aqui.
+[57:25 - 57:27] Combite aqui.
+[57:27 - 57:29] O que você acha?
+[57:29 - 57:31] O que você acha?
+[57:31 - 57:33] A gente vai só ver.
+[57:33 - 57:35] Você vai ver como ela está comendo.
+[57:35 - 57:37] Só para ver se ela está comendo.
+[57:37 - 57:39] Você vai ver como ela está comendo.
+[57:39 - 57:41] Você vai ver como ela está comendo.
+[57:41 - 57:43] Você vai ver como ela está comendo.
+[57:43 - 57:45] Você vai ver como ela está comendo.
+[57:45 - 57:47] Você vai ver como ela está comendo.
+[57:47 - 57:49] Você vai ver como ela está comendo.
+[57:49 - 57:51] Você vai ver como ela está comendo.
+[57:51 - 57:53] Eu acho que é muito fácil.
+[57:53 - 57:55] É muito fácil.
+[57:55 - 57:57] É muito fácil.
+[57:57 - 57:59] É muito fácil.
+[57:59 - 58:01] É muito fácil.
+[58:01 - 58:03] É muito fácil.
+[58:03 - 58:05] É muito fácil.
+[58:05 - 58:07] É muito fácil.
+[58:07 - 58:09] É muito fácil.
+[58:09 - 58:11] É muito fácil.
+[58:11 - 58:13] É muito fácil.
+[58:13 - 58:15] É muito fácil.
+[58:15 - 58:17] É muito fácil.
+[58:17 - 58:19] É muito fácil.
+[59:19 - 59:26] O programa pode ser um patar, o programa é um lado de várias excluentes, certo?
+[59:26 - 59:29] É claro que é com a versão específica.
+[59:41 - 59:44] Se tiver com a tal, com certeza.
+[59:44 - 59:48] está tempo de embalhar?
+[59:48 - 59:50] na verdade eu vou fazer
+[59:50 - 59:52] derrubo
+[59:52 - 59:56] você lembra desses mais?
+[59:56 - 59:58] não
+[59:58 - 60:00] não
+[60:00 - 60:02] não
+[60:02 - 60:04] você quer ver o que eu fiz?
+[60:04 - 60:06] quer ver o que você quer?
+[60:06 - 60:08] não sei
+[60:08 - 60:10] pronto, o que eu vou fazer hoje?
+[60:10 - 60:14] A gente volta no 9 e meia.
+[60:22 - 60:25] Professor, a matéria de hoje eu vou ter que ser um cara a estudar.
+[60:26 - 60:29] Tem umas coisas que eu entendi, mas ela não senti minha toda um.
+[60:31 - 60:34] Vocês estenderem, né? Aqui, quem vai trabalhar, a gente com o pote.
+[60:34 - 60:35] Sim.
+[60:35 - 60:37] Porque vai provar o pote, que é a sua segunda, a nossa segunda, né?
+[60:37 - 60:38] Aham.
+[60:38 - 60:48] Aqui eu estou dando o nome do meu objeto, então quando eu fizer isso, servidor inibitivo,
+[60:48 - 60:52] tem passadas informações, o que vai acontecer?
+[60:52 - 60:59] Eu vou ter lá o meu rípo, eu vou criar meu objeto servidor, com as informações do que?
+[60:59 - 61:06] um código de patrimônio, modelo e status ativo.
+[61:07 - 61:12] Coseguem fazer essa situação?
+[61:12 - 61:18] Basicamente no meu stack eu vou ter o endereço e o servidor e quando eu quiser o número
+[61:18 - 61:26] de patrimônio, ele já vai pegar o endereço dele, vai usar o método papel getCódigo
+[61:26 - 61:28] e empremina.
+[61:28 - 61:30] Modelo, servidor, ponto modelo.
+[61:30 - 61:32] Eu basicamente uso o nome do objeto.
+[61:52 - 61:54] Ponto.
+[61:54 - 62:01] E aqui vai ver.
+[62:01 - 62:12] É assim que você quer refluxar os métodos.
+[62:12 - 62:14] E aqui vai ver.
+[62:14 - 62:17] Aqui, esse aqui vai alterar os status.
+[62:17 - 62:19] Aqui eu vou usar um sete,
+[62:19 - 62:21] sempre deu 0.7 status.
+[62:21 - 62:25] Eu não tenho retorno, não retorno a nada, não preciso associar nada ainda.
+[62:26 - 62:34] Então só fazer chamar essa opção, depois de chamar esse método, eu mando ele imprimir o que ele sai.
+[62:43 - 62:45] Tá lindo isso aqui, tá?
+[62:45 - 62:47] Vou refazer isso hoje em hoje.
+[62:48 - 62:49] Não?
+[62:49 - 62:51] para o chamado?
+[62:51 - 62:53] para o chamado
+[62:53 - 62:55] para o seu
+[62:55 - 62:57] para o seu
+[62:57 - 62:59] para o seu
+[62:59 - 63:01] pode tentar deixar um 5 minuto
+[63:01 - 63:03] para a gente tentar fazer
+[63:03 - 63:05] se quiser deixar um 5 minuto
+[63:05 - 63:07] para a gente tentar fazer também
+[63:07 - 63:09] para que se destruir o local de chamão
+[63:09 - 63:11] né?
+[63:13 - 63:15] 10 horas a começo
+[63:15 - 63:17] tá
+[63:17 - 63:19] Ah, escreve aí.
+[63:47 - 64:00] Pessoal lembrando, todos os códigos que eu faço eu sempre subo com o hit hub, então se você ressagear o hit hub, vai ter os códigos que eu já mostrei hoje, tá certo?
+[64:07 - 64:14] Como eu passei, eu queria finalizar a semana sem internet, eu não consegui subir o terminal de atividade de vocês ainda, tá certo?
+[64:14 - 64:17] Você é reino, pessoal. Não é um pai, pode não, não acho.
+[64:18 - 64:21] Então, isso não, porque eu estou estressado com você aqui.
+[64:22 - 64:23] É da SED.
+[64:23 - 64:28] Quando você expôs onde estiver trabalhando o remoto, o nosso nível cai.
+[64:28 - 64:32] Como é que faz? A gente tem que dar uma entrega, a energia que é nática.
+[64:32 - 64:33] É, o meu ódio.
+[64:33 - 64:38] Se a gente trabalhar o meu ódio, se a gente clara com o sábado, então é uma coisa que...
+[64:38 - 64:40] O que é isso aí?
+[64:40 - 64:43] A gente é parada, a gente é parada também
+[64:43 - 64:45] Os dados novos, por exemplo
+[64:45 - 64:48] Realmente é gente do notebook, é verdade
+[64:48 - 64:50] A gente tem uma bateria
+[64:50 - 64:52] E como isso, é...
+[64:52 - 64:54] Eles se dá muito os dados novos
+[64:54 - 64:55] Eu que to...
+[64:55 - 64:57] Devo um nos dados novos?
+[64:57 - 64:58] Sim, sim
+[64:58 - 64:59] Vem, vem, vem, vem
+[64:59 - 65:00] Deve dar um logo, um logo assim
+[65:00 - 65:01] O quê?
+[65:01 - 65:03] Vou dar um logo um logo de Jair
+[65:03 - 65:05] Não, eu já...
+[65:05 - 65:07] Passei a gente...
+[65:07 - 65:11] Eu estou pensando em um toco de internet lá em casa, você achava?
+[65:11 - 65:12] Internet, qual é?
+[65:12 - 65:13] TechSnatch
+[65:13 - 65:14] TechSnatch?
+[65:15 - 65:17] Era o único fíbril que tinha lá em casa
+[65:18 - 65:19] Eu moro na casa do túnel
+[65:20 - 65:24] Na melhor parte, por lá que a internet chegou
+[65:24 - 65:26] Eu vou saber o cabo logo lá do lado
+[65:27 - 65:29] Mais dois mil por mês, que é dois, né?
+[65:30 - 65:31] O mais simples
+[65:32 - 65:33] Não, porra
+[65:33 - 65:36] Paga lá o prenso lá em casa, paga um cabinho boninho, né?
+[65:37 - 65:42] Mas eu já já já já teve fibra da... Eu vejo toda a sua fibra passando.
+[65:42 - 65:48] Eu vejo fibra da claro passando, tipo da tim passando, do amarelo passando, tudo passa lá em...
+[65:48 - 65:53] É bem esquina, nem um... só nem um chá.
+[65:53 - 65:56] Mas qualquer manutenção que tem lá na região...
+[65:56 - 66:05] Eu falo isso, mas semana reprasada eu passei três dias na internet também.
+[66:05 - 66:07] Não deixa eu cair, viu?
+[66:07 - 66:09] Não deixa eu cair, não.
+[66:11 - 66:13] Não quero isso pra...
+[66:15 - 66:19] Pra definir um atributo como uma referência, um objeto.
+[66:20 - 66:23] Isso não é inteiro, isso não é texto.
+[66:23 - 66:25] Isso aqui é um atrasse?
+[66:26 - 66:27] Isso inteiro?
+[66:27 - 66:29] Isso é um exadecindão?
+[66:31 - 66:34] Ele é o próprio objeto?
+[66:34 - 66:36] Tira a tua conta aí.
+[66:36 - 66:38] Por evento.
+[66:38 - 66:40] Ativista aí.
+[66:40 - 66:42] Eu estou colocando tudo todo aqui.
+[66:44 - 66:46] Já trigoso geralmente de colocar com...
+[66:48 - 66:50] Fizados.
+[66:50 - 66:52] Porque não tem período de chamar eles.
+[66:52 - 66:54] Qualquer que chamara deles tem que ser feito entre meia Gathe.
+[66:56 - 66:58] Gathe é de certo.
+[66:58 - 67:00] O que é isso?
+[67:00 - 67:02] O que é isso?
+[67:02 - 67:04] O que é isso?
+[67:04 - 67:06] O que é isso?
+[67:06 - 67:08] O que é isso?
+[67:08 - 67:10] O que é isso?
+[67:10 - 67:12] O que é isso?
+[67:12 - 67:14] O que é isso?
+[67:14 - 67:16] O que é isso?
+[67:16 - 67:18] O que é isso?
+[67:18 - 67:20] O que é isso?
+[67:20 - 67:22] O que é isso?
+[67:22 - 67:24] O que é isso?
+[67:24 - 67:26] O que é isso?
+[67:56 - 67:57] Eu jupei.
+[67:58 - 67:59] Por quê?
+[67:59 - 68:02] É fazer com que as pessoas que podem ver,
+[68:02 - 68:03] em teoria, né?
+[68:03 - 68:07] Seria a pessoa que criou o ticket, que abriu o ticket,
+[68:07 - 68:11] e a pessoa que o suporte que vai responder.
+[68:11 - 68:15] Uma verdade, agora a gente fala com as que o bústulos tem que ir lá.
+[68:15 - 68:19] Se você quiser sucessar eles, de outro lugar tem que ser tudo.
+[68:19 - 68:21] Um de mais.
+[68:21 - 68:33] Realmente toda a tua preta sobre o parlamento do GP é roubar o...
+[68:33 - 68:39] ...gene do GP.
+[68:39 - 68:45] Foi do com aquele...
+[69:45 - 70:15] E aí você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come, você come
+[70:15 - 70:17] O que é isso aí?
+[70:17 - 70:19] É o que é isso aí?
+[70:19 - 70:21] Vai tomar um momento, vamos ver se vai tomar um momento.
+[70:21 - 70:23] Vai tomar um momento.
+[70:23 - 70:25] Vai tomar um momento.
+[70:25 - 70:27] O que é isso aí?
+[70:27 - 70:29] Vai tomar um momento.
+[70:29 - 70:31] Vai tomar um momento.
+[70:31 - 70:33] Vai tomar um momento.
+[70:33 - 70:35] Vai tomar um momento.
+[70:35 - 70:37] O que é isso aí?
+[70:37 - 70:39] Vai tomar um momento.
+[70:39 - 70:41] Vai tomar um momento.
+[70:41 - 70:43] Vai tomar um momento.
+[71:43 - 71:45] O que é isso?
+[71:45 - 71:47] É o que é isso?
+[71:47 - 71:49] É o que é isso?
+[71:49 - 71:51] É o que é isso?
+[71:51 - 71:53] É o que é isso?
+[71:53 - 71:55] É o que é isso?
+[71:55 - 71:57] É o que é isso?
+[71:57 - 71:59] É o que é isso?
+[71:59 - 72:01] É o que é isso?
+[72:01 - 72:03] É o que é isso?
+[72:03 - 72:05] É o que é isso?
+[72:05 - 72:07] É o que é isso?
+[72:07 - 72:09] É o que é isso?
+[72:09 - 72:11] É o que é isso?
+[72:11 - 72:41] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[72:41 - 72:45] Eu não sei como é, mas eu estou faltando.
+[72:45 - 72:49] A minha interação é assim como está sendo a minha.
+[72:49 - 72:51] Não é?
+[72:51 - 72:53] Não é?
+[72:53 - 72:55] Você já falou que você é o que?
+[72:55 - 72:57] Eu acho que é.
+[72:57 - 72:59] É?
+[72:59 - 73:01] Não, eu perdi a segunda onda, porque eu te perdo.
+[73:01 - 73:03] Eu não posso ver se eu perdo.
+[73:05 - 73:07] Você não passa a tronca, eu perdo.
+[73:07 - 73:09] Eu perdo.
+[73:09 - 73:11] O que é isso?
+[73:11 - 73:13] Você não pode...
+[73:13 - 73:15] Quarte-se...
+[73:15 - 73:17] Você não sabe se é o que é isso?
+[73:17 - 73:19] Você não sabe se é o que é isso?
+[73:19 - 73:21] Você não sabe o que é isso?
+[73:21 - 73:23] Você não sabe como é que faz?
+[73:23 - 73:25] É tudo foto, tudo inserido.
+[73:25 - 73:27] Nossa que sim!
+[73:27 - 73:29] Olha o que é isso?
+[73:29 - 73:31] É isso, é tudo foto, tudo inserido.
+[73:31 - 73:33] E o que é isso?
+[73:33 - 73:35] Vai sair de aqui...
+[73:35 - 73:37] Vai sair de aqui...
+[74:07 - 74:37] Não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu falei aqui ó, eu não sei o que é que eu
+[74:37 - 74:41] O íntimo não, o íntimo também não.
+[75:07 - 75:09] E aí, vamos lá.
+[75:09 - 75:12] Agora, você está na diária, o correto aí...
+[75:12 - 75:14] O que foi?
+[75:14 - 75:16] O pessoal estiga diferente, né?
+[75:16 - 75:18] O pessoal estiga mais leis,
+[75:18 - 75:20] é o caso que ele não é um tipo.
+[75:20 - 75:23] O string é um tipo,
+[75:23 - 75:25] é o caractere, que é só um indetro.
+[75:25 - 75:27] Bem, o pessoal do mundo,
+[75:27 - 75:32] o verdade é que se não estiver sendo leis do lateral,
+[75:32 - 75:34] é ser chamado de iMark, né?
+[75:34 - 75:35] O quê?
+[75:35 - 75:41] Não usado, se não for usado, para você fazer o consultor, faz tudo isso.
+[75:51 - 75:53] 10 a 9.
+[75:57 - 75:59] Como é que ficou?
+[75:59 - 76:01] Uma paiva.
+[76:01 - 76:03] Até saiu de contar as almas.
+[76:03 - 76:05] O que é isso?
+[76:05 - 76:07] É o que é isso?
+[76:07 - 76:09] É isso que é isso?
+[76:09 - 76:11] É isso que é isso?
+[76:11 - 76:13] É isso que é isso?
+[76:13 - 76:15] É isso que é isso?
+[76:15 - 76:17] É isso que é isso?
+[76:17 - 76:19] É isso que é isso?
+[76:19 - 76:21] É isso que é isso?
+[76:21 - 76:23] É isso que é isso?
+[76:23 - 76:25] É isso que é isso?
+[76:25 - 76:27] É isso que é isso?
+[76:27 - 76:29] É isso que é isso?
+[76:29 - 76:31] É isso que é isso?
+[76:31 - 76:33] O que é isso?
+[76:33 - 76:35] O que é isso?
+[76:35 - 76:37] O que é isso?
+[76:37 - 76:39] O que é isso?
+[76:39 - 76:41] O que é isso?
+[76:41 - 76:43] O que é isso?
+[76:43 - 76:45] O que é isso?
+[76:45 - 76:47] O que é isso?
+[76:47 - 76:49] O que é isso?
+[76:49 - 76:51] O que é isso?
+[76:51 - 76:53] O que é isso?
+[76:53 - 76:55] O que é isso?
+[76:55 - 76:57] O que é isso?
+[76:57 - 76:59] O que é isso?
+[76:59 - 77:01] O que é isso?
+[77:01 - 77:03] O que é isso?
+[77:03 - 77:05] O que é isso?
+[77:05 - 77:07] O que é isso?
+[77:07 - 77:09] O que é isso?
+[77:09 - 77:11] O que é isso?
+[77:11 - 77:13] O que é isso?
+[77:13 - 77:15] O que é isso?
+[77:15 - 77:17] O que é isso?
+[77:17 - 77:19] O que é isso?
+[77:19 - 77:21] O que é isso?
+[77:21 - 77:23] O que é isso?
+[77:23 - 77:25] O que é isso?
+[77:25 - 77:27] O que é isso?
+[77:27 - 77:29] Ela é no plano.
+[77:29 - 77:31] Ela é no plano.
+[77:31 - 77:33] Ela é no plano.
+[77:33 - 77:35] Ela é no plano.
+[77:35 - 77:37] Ela é no plano.
+[77:37 - 77:39] Ela é no plano.
+[77:39 - 77:41] Ela é no plano.
+[77:41 - 77:43] Ela é no plano.
+[77:43 - 77:45] Ela é no plano.
+[77:45 - 77:47] Ela é no plano.
+[77:47 - 77:49] Ela é no plano.
+[77:49 - 77:51] Ela é no plano.
+[77:51 - 77:53] Ela é no plano.
+[77:53 - 77:55] Ela é no plano.
+[77:55 - 77:57] O que é isso?
+[77:57 - 77:59] O que é isso?
+[77:59 - 78:01] O que é isso?
+[78:01 - 78:03] O que é isso?
+[78:03 - 78:05] O que é isso?
+[78:05 - 78:07] O que é isso?
+[78:07 - 78:09] O que é isso?
+[78:09 - 78:11] O que é isso?
+[78:11 - 78:13] O que é isso?
+[78:13 - 78:15] O que é isso?
+[78:15 - 78:17] O que é isso?
+[78:17 - 78:19] O que é isso?
+[78:19 - 78:21] O que é isso?
+[78:21 - 78:23] O que é isso?
+[78:23 - 78:26] A gente pode entender o que está acontecendo.
+[78:34 - 78:36] Você é uma aprenda agora, não é?
+[78:38 - 78:40] Obrigado, eu vou pedir.
+[78:41 - 78:42] Você está pedindo?
+[78:44 - 78:46] Estou pedindo TI.
+[78:47 - 78:49] O que acontece aqui?
+[78:49 - 78:50] Não me diga.
+[78:50 - 79:06] Eu pedi o ativo TI, basicamente o endereço, mas por código é basicamente como se fosse uma variável, uma tributa.
+[79:06 - 79:15] Aqui vai ter esse nome, que vai nos copiar o tamanho do seu nome.
+[79:15 - 79:22] As coisas são o string, o string é basicamente um array de caracteres.
+[79:22 - 79:24] Por isso é já o mesmo nome.
+[79:24 - 79:27] O correio que me é só o caracter, que é só um litro.
+[79:27 - 79:38] são os 4 tributos que a gente foi só esse pedaço, tudo bem
+[79:38 - 79:41] você sabe o que é o bolha?
+[79:41 - 79:43] verdadeiro falso
+[79:43 - 79:50] é o tipo, é um gênero, um quadro falso
+[79:50 - 79:52] O que é isso?
+[79:52 - 79:54] É isso que é o que é isso?
+[79:54 - 79:56] É isso que é o que é isso?
+[79:56 - 79:58] É isso que é isso?
+[79:58 - 80:00] É isso que é isso?
+[80:00 - 80:02] É isso que é isso?
+[80:02 - 80:04] É isso que é isso?
+[80:04 - 80:06] É isso que é isso?
+[80:06 - 80:08] É isso que é isso?
+[80:08 - 80:10] É isso que é isso?
+[80:10 - 80:12] É isso que é isso?
+[80:12 - 80:14] É isso que é isso?
+[80:14 - 80:16] É isso que é isso?
+[80:16 - 80:18] É isso que é isso?
+[80:18 - 80:20] O que ele tem aí?
+[80:20 - 80:22] São variáveis, né?
+[80:40 - 80:42] Tem que colocar esse em cima, hein?
+[80:42 - 80:44] Não, só tava em cima.
+[80:44 - 80:46] Aí, então, pô.
+[80:46 - 80:48] O que é isso?
+[80:48 - 80:50] O que é isso?
+[80:50 - 80:52] O que é isso?
+[80:52 - 80:54] O que é isso?
+[80:54 - 80:56] O que é isso?
+[80:56 - 80:58] O que é isso?
+[80:58 - 81:00] O que é isso?
+[81:00 - 81:02] O que é isso?
+[81:02 - 81:04] O que é isso?
+[81:04 - 81:06] O que é isso?
+[81:06 - 81:08] O que é isso?
+[81:08 - 81:10] O que é isso?
+[81:10 - 81:12] O que é isso?
+[81:12 - 81:14] O que é isso?
+[81:14 - 81:16] Eu vou fazer o papo para ele.
+[81:16 - 81:18] Eu vou fazer o papo para ele.
+[81:18 - 81:20] Não, por favor.
+[81:20 - 81:22] É, por favor.
+[81:22 - 81:24] Você está bom.
+[81:24 - 81:26] É, por favor.
+[81:26 - 81:28] Calma.
+[81:30 - 81:32] Vamos encher ele.
+[81:34 - 81:36] Vamos encher ele.
+[81:36 - 81:38] Você pode saber o que é que é.
+[81:38 - 81:40] Então...
+[81:40 - 81:42] Vamos encher ele.
+[82:12 - 82:14] O que é isso?
+[82:14 - 82:16] O que é isso?
+[82:16 - 82:18] O que é isso?
+[82:18 - 82:20] O que é isso?
+[82:20 - 82:22] O que é isso?
+[82:22 - 82:24] O que é isso?
+[82:24 - 82:26] O que é isso?
+[82:26 - 82:28] O que é isso?
+[82:28 - 82:30] O que é isso?
+[82:30 - 82:32] O que é isso?
+[82:32 - 82:34] O que é isso?
+[82:34 - 82:36] O que é isso?
+[82:36 - 82:38] O que é isso?
+[82:38 - 82:40] O que é isso?
+[83:10 - 83:12] A gente vai ver.
+[83:12 - 83:14] A gente vai ver.
+[83:14 - 83:16] A gente vai ver.
+[83:16 - 83:18] A gente vai ver.
+[83:18 - 83:20] A gente vai ver.
+[83:20 - 83:22] A gente vai ver.
+[83:22 - 83:24] A gente vai ver.
+[83:24 - 83:26] A gente vai ver.
+[83:26 - 83:28] A gente vai ver.
+[83:28 - 83:30] A gente vai ver.
+[83:30 - 83:32] A gente vai ver.
+[83:32 - 83:34] A gente vai ver.
+[83:34 - 83:36] A gente vai ver.
+[83:36 - 83:38] A gente vai ver.
+[83:38 - 83:40] É pra tirar o olho, né?
+[83:40 - 83:42] É pra tirar o olho.
+[84:08 - 84:10] Poxx!
+[84:10 - 84:12] Um!
+[84:12 - 84:14] Impote!
+[84:14 - 84:16] Não, só tome daqui!
+[84:16 - 84:18] Porto, singulando.
+[84:18 - 84:20] É!
+[84:20 - 84:22] Sim, pô!
+[84:22 - 84:24] Poxx!
+[84:24 - 84:26] Poxx!
+[84:26 - 84:28] Poxx!
+[84:28 - 84:30] Isso é para botar aqui sem pote?
+[84:30 - 84:32] É, só tome por lá que você se erra aqui.
+[84:32 - 84:34] Sem pote!
+[84:34 - 84:36] Ok!
+[84:36 - 84:38] O que é isso?
+[84:38 - 84:40] O que é isso?
+[84:40 - 84:42] O que é isso?
+[84:42 - 84:44] O que é isso?
+[84:44 - 84:46] O que é isso?
+[84:46 - 84:48] O que é isso?
+[84:48 - 84:50] O que é isso?
+[84:50 - 84:52] O que é isso?
+[84:52 - 84:54] O que é isso?
+[84:54 - 84:56] O que é isso?
+[84:56 - 84:58] O que é isso?
+[84:58 - 85:00] O que é isso?
+[85:00 - 85:02] O que é isso?
+[85:02 - 85:04] O que é isso?
+[85:04 - 85:06] O que é isso?
+[85:06 - 85:08] O que é isso?
+[85:08 - 85:10] O que é isso?
+[85:10 - 85:12] O que é isso?
+[85:12 - 85:14] O que é isso?
+[85:14 - 85:16] O que é isso?
+[85:16 - 85:18] O que é isso?
+[85:18 - 85:20] O que é isso?
+[85:20 - 85:22] O que é isso?
+[85:22 - 85:24] O que é isso?
+[85:24 - 85:26] O que é isso?
+[85:26 - 85:28] O que é isso?
+[85:28 - 85:30] O que é isso?
+[85:30 - 85:32] O que é isso?
+[85:32 - 85:34] e aí
+[85:34 - 85:36] e aí
+[85:36 - 85:38] e aí
+[85:38 - 85:40] e aí
+[85:40 - 85:42] e aí
+[85:42 - 85:44] e aí
+[85:44 - 85:46] e aí
+[85:46 - 85:48] e aí
+[85:48 - 85:50] e aí
+[85:50 - 85:52] e aí
+[85:52 - 85:54] e aí
+[85:54 - 85:56] e aí
+[85:56 - 85:58] e aí
+[85:58 - 86:00] e aí
+[86:00 - 86:04] Eu vou criar mais um metro aqui para disputar.
+[87:00 - 87:30] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[87:30 - 87:55] Vamos lá, aqui eu fiz os atributos, construtor, na explicação lá, o aberto já veio com
+[87:55 - 87:57] Então, eu não preciso passar, já com o quadrão.
+[87:58 - 88:02] Então, eu só preciso passar o ID desse missão, eu ativo.
+[88:03 - 88:05] E ele também vai criar um método para fechar.
+[88:05 - 88:07] O que pode fechar chamado.
+[88:08 - 88:11] Que é basicamente, para ele trocar de merda dele para falso.
+[88:14 - 88:15] Todo o interior daqui para cá?
+[88:17 - 88:18] Certo.
+[88:19 - 88:19] E aí?
+[88:21 - 88:22] O que está indo aqui, Tito?
+[88:22 - 88:52] Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não
+[89:22 - 89:24] Eu não sei o que é isso.
+[89:24 - 89:26] Eu não sei o que é isso.
+[89:26 - 89:28] Eu não sei o que é isso.
+[89:28 - 89:30] Eu não sei o que é isso.
+[89:30 - 89:32] Eu não sei o que é isso.
+[89:32 - 89:34] Eu não sei o que é isso.
+[89:34 - 89:36] Eu não sei o que é isso.
+[89:36 - 89:38] Eu não sei o que é isso.
+[89:38 - 89:40] Eu não sei o que é isso.
+[89:40 - 89:42] Eu não sei o que é isso.
+[89:42 - 89:44] Eu não sei o que é isso.
+[89:44 - 89:46] Eu não sei o que é isso.
+[89:46 - 89:48] Eu não sei o que é isso.
+[89:48 - 89:50] Eu não sei o que é isso.
+[90:20 - 90:22] meu tá aí dentro da costa
+[90:22 - 90:24] O que é isso?
+[90:24 - 90:26] O que é isso?
+[90:26 - 90:28] O que é isso?
+[90:28 - 90:30] O que é isso?
+[90:30 - 90:32] O que é isso?
+[90:32 - 90:34] O que é isso?
+[90:34 - 90:36] O que é isso?
+[90:36 - 90:38] O que é isso?
+[90:38 - 90:40] O que é isso?
+[90:40 - 90:42] O que é isso?
+[90:42 - 90:44] O que é isso?
+[90:44 - 90:46] O que é isso?
+[90:46 - 90:48] O que é isso?
+[90:48 - 90:50] O que é isso?
+[90:50 - 90:52] O que é isso?
+[90:52 - 90:54] O que é isso?
+[90:54 - 90:56] O que é isso?
+[90:56 - 90:58] O que é isso?
+[90:58 - 91:00] O que é isso?
+[91:00 - 91:02] O que é isso?
+[91:02 - 91:04] O que é isso?
+[91:04 - 91:06] O que é isso?
+[91:06 - 91:08] O que é isso?
+[91:08 - 91:10] O que é isso?
+[91:10 - 91:12] O que é isso?
+[91:12 - 91:14] O que é isso?
+[91:14 - 91:16] O que é isso?
+[91:16 - 91:18] O que é isso?
+[91:48 - 91:50] E o que é isso?
+[91:50 - 91:52] O que é isso?
+[91:52 - 91:54] O que é isso?
+[91:54 - 91:56] O que é isso?
+[91:56 - 91:58] O que é isso?
+[91:58 - 92:00] O que é isso?
+[92:00 - 92:02] O que é isso?
+[92:02 - 92:04] O que é isso?
+[92:04 - 92:06] O que é isso?
+[92:06 - 92:08] O que é isso?
+[92:08 - 92:10] O que é isso?
+[92:10 - 92:12] O que é isso?
+[92:12 - 92:14] O que é isso?
+[92:14 - 92:16] O que é isso?
+[92:46 - 92:50] Eu não endereço desse objeto aqui.
+[92:50 - 92:58] Você quiser fazer uma tensão lá, mudar de status, se você puder, ele já vai alterar.
+[93:10 - 93:12] Vamos agora?
+[93:16 - 93:18] e aí
+[93:18 - 93:20] e aí
+[93:20 - 93:22] e aí
+[93:22 - 93:24] e aí
+[93:24 - 93:26] e aí
+[93:26 - 93:28] e aí
+[93:28 - 93:30] e aí
+[93:30 - 93:32] e aí
+[93:32 - 93:34] e aí
+[93:34 - 93:36] e aí
+[93:36 - 93:38] e aí
+[93:38 - 93:40] e aí
+[93:40 - 93:42] e aí
+[93:42 - 93:44] e aí
+[93:44 - 93:47] O cara está correndo.
+[93:54 - 93:55] Eu achava que...
+[93:55 - 94:00] A gente vai ver aquele mesmo, um arquivo, um lente, um fórdio, né?
+[94:00 - 94:02] É, aqui eu vou escrever um outro momento.
+[94:02 - 94:04] Ah, isso é.
+[94:04 - 94:15] Aí colocou aqui um asterisco barra, né?
+[94:15 - 94:22] É, um que bate barra a barra, ou o barro asterisco, aí vai tranchar o tempo de fechar,
+[94:22 - 94:24] que é o asterisco barra.
+[94:24 - 94:27] Esse é esse tipo de comentário.
+[94:27 - 94:30] Mas tem quanto a um de aducar no final do vídeo só?
+[94:30 - 94:37] No caso eu coloco o tal de outra cara até o invalho.
+[94:45 - 94:48] Porque se você tem esse modelo aqui que é o barra barra,
+[94:48 - 94:51] tem esse que é o barra chelíssimo.
+[94:51 - 95:01] Você vai aproveitar aí.
+[95:01 - 95:04] Eu deixo para o negócio apagar cortes.
+[95:04 - 95:06] O que é isso?
+[95:06 - 95:08] O que é isso?
+[95:08 - 95:10] O que é isso?
+[95:10 - 95:12] O que é isso?
+[95:12 - 95:14] O que é isso?
+[95:14 - 95:16] O que é isso?
+[95:16 - 95:18] O que é isso?
+[95:18 - 95:20] O que é isso?
+[95:20 - 95:22] O que é isso?
+[95:22 - 95:24] O que é isso?
+[95:24 - 95:26] O que é isso?
+[95:26 - 95:28] O que é isso?
+[95:28 - 95:30] O que é isso?
+[95:30 - 95:32] O que é isso?
+[96:02 - 96:04] O que é isso?
+[96:04 - 96:06] O que é isso?
+[96:06 - 96:08] O que é isso?
+[96:08 - 96:10] O que é isso?
+[96:10 - 96:12] O que é isso?
+[96:12 - 96:14] O que é isso?
+[96:14 - 96:16] O que é isso?
+[96:16 - 96:18] O que é isso?
+[96:18 - 96:20] O que é isso?
+[96:20 - 96:22] O que é isso?
+[96:22 - 96:24] O que é isso?
+[96:24 - 96:26] O que é isso?
+[96:26 - 96:28] O que é isso?
+[96:28 - 96:30] O que é isso?
+[96:30 - 96:34] aqui ó
+[96:34 - 96:38] e
+[96:38 - 96:42] importe a última escana
+[96:42 - 96:46] exatamente, aqui é pra usar a função escana
+[96:46 - 96:50] a informação é isso que indica
+[96:50 - 96:54] é igual a escana pra lá do circo
+[96:54 - 96:58] por logo esses dois, um pra...
+[96:58 - 97:00] A gente pode deixar...
+[97:00 - 97:02] ...tá lá na mais...
+[97:02 - 97:04] ...esse local, não.
+[97:04 - 97:06] O mesmo que você está com parte, você separar.
+[97:06 - 97:08] Mas o importante é só...
+[97:08 - 97:10] ...e focar...
+[97:10 - 97:12] ...e a gente...
+[97:12 - 97:14] ...pô, tá boi de...
+[97:14 - 97:16] ...e isso.
+[97:58 - 98:03] A peixe 1 é só para ficar mostrando na tela.
+[98:08 - 98:09] Está tudo comentável.
+[98:10 - 98:15] Eu não pensei que estava abrindo e ele foi cheio, não é?
+[98:16 - 98:17] Não, ele é constituido.
+[98:17 - 98:19] Mas é porque está na linha...
+[98:20 - 98:22] Se quer ir para a peixe 1...
+[98:23 - 98:24] Eu sou bem, está naquele...
+[98:24 - 98:28] E o seu falso caiu, porque é vontade.
+[98:28 - 98:32] É porque eu não gosto de veracote, que vai que precisa de alguma coisa.
+[98:34 - 98:36] É questão pessoal mesmo, né?
+[98:36 - 98:38] É bom, cara.
+[98:38 - 98:40] Confinho que...
+[98:40 - 98:42] Confinho você, meu chefe.
+[98:42 - 98:48] Eu não confio em você, eu confio em um clínico.
+[98:48 - 98:50] O que está lá com os comentários?
+[98:50 - 98:51] Você não ia?
+[98:57 - 98:59] Parece que você está fazendo mal dos bêis que eu...
+[98:59 - 99:01] O que é isso?
+[99:01 - 99:03] Era para dar para aqui, de correto?
+[99:03 - 99:04] É o que é isso?
+[99:04 - 99:06] Era para dar para aqui, de correto?
+[99:06 - 99:07] É o que é isso?
+[99:07 - 99:09] Ah, estou com um olho aqui de lá, é?
+[99:09 - 99:10] O que é isso?
+[99:10 - 99:11] O que é isso?
+[99:11 - 99:12] Ah, estou com um olho aqui de lá, é?
+[99:12 - 99:13] O que é isso?
+[99:13 - 99:14] O que é isso?
+[99:14 - 99:15] O que é isso?
+[99:15 - 99:16] O que é isso?
+[99:16 - 99:17] O que é isso?
+[99:17 - 99:18] É isso?
+[99:18 - 99:19] É isso?
+[99:19 - 99:20] É isso?
+[99:20 - 99:21] É isso?
+[99:21 - 99:22] É isso?
+[99:22 - 99:23] É isso?
+[99:23 - 99:24] É isso?
+[99:24 - 99:25] É isso?
+[99:25 - 99:26] É isso?
+[99:26 - 99:27] É isso?
+[100:27 - 100:29] Então tem barra?
+[100:29 - 100:32] É porque abriu, ele só está vendo aquele alíolo.
+[100:32 - 100:36] O primeiro você coloca a asterite, é barra asteritica.
+[100:36 - 100:39] Aí você entra com asteritica para o baixo, entendeu?
+[100:39 - 100:41] Mais em cima alíolo.
+[100:43 - 100:46] Aquei o ver, asteritica para o baixo.
+[101:27 - 101:29] Eu estou muito esperto.
+[101:33 - 101:35] Você está apentado?
+[101:35 - 101:37] Eu estou aqui.
+[101:39 - 101:41] E o mundo do corpo é sobroso.
+[101:43 - 101:45] Calma.
+[101:45 - 101:47] Calma.
+[101:47 - 101:49] E aí que eu não cheguei a ver nada.
+[101:49 - 101:51] O que é isso?
+[101:51 - 101:53] O que é isso?
+[101:53 - 101:55] O que é isso?
+[101:55 - 101:57] O que é isso?
+[101:57 - 101:59] O que é isso?
+[101:59 - 102:01] O que é isso?
+[102:01 - 102:03] O que é isso?
+[102:03 - 102:05] O que é isso?
+[102:05 - 102:07] O que é isso?
+[102:07 - 102:09] O que é isso?
+[102:09 - 102:11] O que é isso?
+[102:11 - 102:13] O que é isso?
+[102:13 - 102:15] O que é isso?
+[102:15 - 102:17] O que é isso?
+[102:17 - 102:19] É simples.
+[102:19 - 102:21] É que exame a prescrição dele.
+[102:21 - 102:23] É assim.
+[102:23 - 102:27] Então vai ligar aqui, eu te lutei e ele te lutei.
+[102:27 - 102:29] E eu te lutei.
+[102:29 - 102:31] E eu te lutei.
+[102:31 - 102:33] Ah!
+[102:33 - 102:35] Vai ficar bem.
+[102:35 - 102:37] Vai ficar bem.
+[102:37 - 102:39] Vai ficar bem.
+[102:39 - 102:41] Fecha o valor do programa.
+[103:11 - 103:13] O que é isso?
+[103:13 - 103:15] O que é isso?
+[103:15 - 103:17] O que é isso?
+[103:17 - 103:19] O que é isso?
+[103:19 - 103:21] O que é isso?
+[103:21 - 103:23] O que é isso?
+[103:23 - 103:25] O que é isso?
+[103:25 - 103:27] O que é isso?
+[103:27 - 103:29] O que é isso?
+[103:29 - 103:31] O que é isso?
+[103:31 - 103:33] O que é isso?
+[103:33 - 103:35] O que é isso?
+[103:35 - 103:37] O que é isso?
+[103:37 - 103:39] O que é isso?
+[103:39 - 103:46] ele diz exatamente o que é que a gente faz com que a gente não atua muito em relação a esse tipo de problemas
+[103:46 - 103:54] Eu estava tendo erro de compilação aqui, mas é tão preciso, a gente tem que fazer as coisas tão regradas
+[103:54 - 104:03] que a mensagem de erro na compilação joga exatamente aonde você foi, é só botar qual foi o erro
+[104:03 - 104:11] botado no mesmo do Get aqui para pegar o FALSE depois que fechar o XALADO
+[104:11 - 104:15] que não tinha colocado um coleana e aí não estava conseguindo copilar agora foi
+[104:21 - 104:25] o cara é o anti-incentivo, aqui estou no lado
+[104:25 - 104:27] eu estou tentando cara
+[104:27 - 104:29] vai o que?
+[104:29 - 104:31] a gente vai te trocar por isso
+[104:33 - 104:35] É, tem cem, mas...
+[104:35 - 104:37] É, tem a tranca.
+[104:37 - 104:39] É, depois só usada na cama, só que...
+[104:39 - 104:43] Tá, agora a tranca, só que você pode achar o pilário.
+[104:43 - 104:45] É, assim...
+[104:45 - 104:47] Mas agora quem faltou, vai ser mais perigoso.
+[104:47 - 104:49] Quem faltou um, tem isso.
+[104:49 - 104:51] Você...
+[104:51 - 104:55] É, mentalmente, mentalmente, faltou, sabe?
+[104:55 - 104:57] Você, eu te dão por cento.
+[104:57 - 104:59] Quando você é, mãe, realmente com o...
+[104:59 - 105:01] Não, eu não tenho por cento.
+[105:01 - 105:03] O cheiro do rio é um pouco mais alto.
+[105:03 - 105:05] O cheiro do rio é um pouco mais alto.
+[105:05 - 105:07] O cheiro do rio é um pouco mais alto.
+[105:07 - 105:09] O cheiro do rio é um pouco mais alto.
+[105:09 - 105:11] O cheiro do rio é um pouco mais alto.
+[105:11 - 105:13] O cheiro do rio é um pouco mais alto.
+[105:13 - 105:15] O cheiro do rio é um pouco mais alto.
+[105:15 - 105:17] O cheiro do rio é um pouco mais alto.
+[105:17 - 105:19] O cheiro do rio é um pouco mais alto.
+[105:19 - 105:21] O cheiro do rio é um pouco mais alto.
+[105:21 - 105:23] O cheiro do rio é um pouco mais alto.
+[105:23 - 105:25] O cheiro do rio é um pouco mais alto.
+[105:25 - 105:27] O cheiro do rio é um pouco mais alto.
+[105:27 - 105:29] O cheiro do rio é um pouco mais alto.
+[105:29 - 105:31] O que é isso?
+[105:31 - 105:33] O que é isso?
+[105:33 - 105:35] O que é isso?
+[105:35 - 105:37] O que é isso?
+[105:37 - 105:39] O que é isso?
+[105:39 - 105:41] O que é isso?
+[105:41 - 105:43] O que é isso?
+[105:43 - 105:45] O que é isso?
+[105:45 - 105:47] O que é isso?
+[105:47 - 105:49] O que é isso?
+[105:49 - 105:51] O que é isso?
+[105:51 - 105:53] O que é isso?
+[105:53 - 105:55] O que é isso?
+[105:55 - 105:57] O que é isso?
+[105:57 - 105:59] O que é isso?
+[105:59 - 106:01] Meu Deus!
+[106:01 - 106:03] O que é isso?
+[106:03 - 106:05] O que é isso?
+[106:05 - 106:07] O que é isso?
+[106:07 - 106:09] O que é isso?
+[106:09 - 106:11] O que é isso?
+[106:11 - 106:13] O que é isso?
+[106:13 - 106:15] O que é isso?
+[106:15 - 106:17] O que é isso?
+[106:17 - 106:19] O que é isso?
+[106:19 - 106:21] O que é isso?
+[106:21 - 106:23] O que é isso?
+[106:23 - 106:25] O que é isso?
+[106:25 - 106:27] O que é isso?
+[106:27 - 106:29] O que é isso?
+[106:29 - 106:31] O que é isso?
+[106:31 - 106:33] O que é isso?
+[106:33 - 106:35] O que é isso?
+[106:35 - 106:37] O que é isso?
+[106:37 - 106:39] O que é isso?
+[106:39 - 106:41] O que é isso?
+[106:41 - 106:43] O que é isso?
+[106:43 - 106:45] O que é isso?
+[106:45 - 106:47] O que é isso?
+[106:47 - 106:49] O que é isso?
+[106:49 - 106:51] O que é isso?
+[106:51 - 106:53] O que é isso?
+[106:53 - 106:55] Eu não sei.
+[106:55 - 106:57] Eu sei, meu.
+[106:57 - 106:59] Pfft.
+[106:59 - 107:01] Ah, isso tá bem.
+[107:07 - 107:09] Pronto.
+[107:09 - 107:11] Eu tô sentindo.
+[107:11 - 107:13] É a troca de um ponte.
+[107:13 - 107:15] Eu vou botar pra lá para você.
+[107:15 - 107:17] Olha.
+[107:17 - 107:19] Ahahahah.
+[107:19 - 107:21] Tu comentar um ponte?
+[107:51 - 107:54] Você não pegava, você pegava essa tecnologia.
+[107:54 - 107:56] Você não pegava essa tecnologia.
+[107:56 - 107:58] Você não pegava essa tecnologia.
+[107:58 - 108:00] Você não pegava essa tecnologia.
+[108:00 - 108:02] Você não pegava essa tecnologia.
+[108:02 - 108:04] Você não pegava essa tecnologia.
+[108:04 - 108:06] Você não pegava essa tecnologia.
+[108:06 - 108:08] Você não pegava essa tecnologia.
+[108:08 - 108:10] Você não pegava essa tecnologia.
+[108:10 - 108:12] Você não pegava essa tecnologia.
+[108:12 - 108:14] Você não pegava essa tecnologia.
+[108:14 - 108:16] Você não pegava essa tecnologia.
+[108:16 - 108:18] Você não pegava essa tecnologia.
+[108:18 - 108:20] Você não pegava essa tecnologia.
+[108:20 - 108:22] Muito muito.
+[108:22 - 108:24] Muito muito.
+[108:24 - 108:26] Muito muito.
+[108:26 - 108:28] Tem muito que ó...
+[108:28 - 108:30] Algumitre.
+[108:30 - 108:34] Sempre tem apenas um problema com você.
+[108:36 - 108:40] É como se você tinha que ir para a frente.
+[108:40 - 108:44] Já, agora só para o buraco.
+[108:44 - 108:46] Eu não sei.
+[108:46 - 108:49] É um dia que eu estou lá com a mão de um cara.
+[108:54 - 108:56] A Juni sai do lado dele.
+[108:58 - 109:00] Eu me tranco, o cara se perde.
+[109:00 - 109:02] Vai, vai.
+[109:04 - 109:06] Calma, Juni.
+[109:06 - 109:08] Me escrevi tudo assim.
+[109:08 - 109:10] Calma, Juni.
+[109:14 - 109:16] O que é isso?
+[109:16 - 109:18] O que é isso?
+[109:18 - 109:20] O que é isso?
+[109:20 - 109:22] O que é isso?
+[109:22 - 109:24] O que é isso?
+[109:24 - 109:26] O que é isso?
+[109:26 - 109:28] O que é isso?
+[109:28 - 109:30] O que é isso?
+[109:30 - 109:32] O que é isso?
+[109:32 - 109:34] O que é isso?
+[109:34 - 109:36] O que é isso?
+[109:36 - 109:38] O que é isso?
+[109:38 - 109:40] O que é isso?
+[109:40 - 109:42] O que é isso?
+[109:42 - 109:44] O que você acha?
+[109:44 - 109:46] O que você acha?
+[109:46 - 109:48] O que você acha?
+[109:48 - 109:50] O que você acha?
+[109:50 - 109:52] O que você acha?
+[109:52 - 109:54] O que você acha?
+[109:54 - 109:56] O que você acha?
+[109:56 - 109:58] O que você acha?
+[109:58 - 110:00] O que você acha?
+[110:00 - 110:02] O que você acha?
+[110:02 - 110:04] O que você acha?
+[110:04 - 110:06] O que você acha?
+[110:06 - 110:08] O que você acha?
+[110:08 - 110:10] O que você acha?
+[110:10 - 110:12] mas dava a aula que eu fazia.
+[110:12 - 110:14] Eu aprendi a lançar no Rio de Janeiro,
+[110:14 - 110:16] a fazer os da aula.
+[110:16 - 110:19] Aqui é a Beiala Cadana,
+[110:19 - 110:21] que é lá na...
+[110:21 - 110:23] Fakilândia.
+[110:23 - 110:26] Beiala, aqui caixinho, na Space.
+[110:26 - 110:29] É aqui que tem a luz de uma lá.
+[110:29 - 110:31] Eu não sabia o nome.
+[110:31 - 110:33] Eu...
+[110:33 - 110:36] Eu acho que no jogo não tem o que dizer, pera.
+[110:36 - 110:38] Tem, tem uma lição de chave,
+[110:38 - 110:42] Eu cheguei da aula de ramada.
+[110:42 - 110:45] Quanta?
+[110:45 - 110:48] Do...
+[110:48 - 110:50] Do homem em papelê.
+[110:50 - 110:52] Quer aprender tudo isso?
+[110:52 - 110:54] Esposo ou...
+[110:54 - 110:56] É muito sozinho.
+[110:56 - 110:58] Beleza?
+[110:58 - 111:00] Quer fazer?
+[111:00 - 111:02] Você...
+[111:02 - 111:04] Pode ficar tranquilo para os dois.
+[111:04 - 111:06] Sabe o que isso?
+[111:06 - 111:08] É assim que eu gosto.
+[111:08 - 111:10] É seguro da pessoa porque tem isso.
+[111:10 - 111:12] É só ter isso.
+[111:12 - 111:14] Esqueci uma pequena hora e foi lá.
+[111:14 - 111:16] Porque lá uma pista escondida.
+[111:16 - 111:18] É uma escondida escondida.
+[111:18 - 111:20] É uma escondida escondida.
+[111:20 - 111:24] Mas aí é um jeito que eu tenho que entender.
+[111:36 - 111:38] Eu não achei que...
+[111:43 - 111:46] Eu não sei, então eu não quis ver mais confusos pra vocês.
+[111:46 - 111:48] Cata mais?
+[111:48 - 111:50] A Pai deixou.
+[111:50 - 111:52] Ah, funciona, eu vou mexer mais...
+[111:52 - 111:54] Já, o senhor não é aqui.
+[111:54 - 111:58] Não, gente, o que eu fiz eu não vou mexer mais aqui.
+[111:58 - 112:00] Mas não, então...
+[112:00 - 112:02] Mas vamos, vamos, vamos.
+[112:02 - 112:04] Você tem que ter sucesso, né?
+[112:04 - 112:06] Valeu, Pepe. É vocês.
+[112:06 - 112:08] Gente, tem dois variáveis.
+[112:08 - 112:10] Com o mesmo tempo, tem que ter cuidado.
+[112:12 - 112:14] No caso aqui, eu só tem o ideativo e troquei ali.
+[112:14 - 112:16] Ideativo.
+[112:18 - 112:20] Você está com o mesmo ideio.
+[112:20 - 112:22] Várias câmeras.
+[112:22 - 112:24] Ah, então é o chato do problema.
+[112:24 - 112:26] Porque agora tem um ideio do chamado.
+[112:28 - 112:30] Ah, então, para reaproveitar o código.
+[112:30 - 112:32] Eu não sei o que então, mas pode ser.
+[112:32 - 112:34] Pai, está fazendo um scan agora.
+[112:40 - 112:41] Abre o rio.
+[112:45 - 112:48] Eu não quero ir na chave, meu Deus, na chave.
+[112:50 - 112:51] Eu não quero ir na chave.
+[112:56 - 112:57] Eu não quero ir na chave.
+[112:57 - 112:59] Eu posso falar aqui?
+[113:00 - 113:05] Se eu confie em um inventivo, eu vou dar ativo.
+[113:05 - 113:10] Eu não sei o que é, mas eu vou dar ativo.
+[113:10 - 113:13] Não, eu vou dar ativo.
+[113:13 - 113:16] Depois eu vou dar ativo.
+[113:16 - 113:19] Vou dar ativo.
+[113:19 - 113:22] Vou dar ativo.
+[113:22 - 113:25] Vou dar ativo.
+[113:25 - 113:28] Vou dar ativo.
+[113:58 - 114:28] Ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah
+[114:28 - 114:32] Se isto é em ponto altos, print a linha.
+[114:32 - 114:38] Vocês se sejam quando imprimem uma linha.
+[114:38 - 114:40] Quer que eu faça a linha?
+[114:40 - 114:42] Barra a linha.
+[114:42 - 114:44] Por quê?
+[114:44 - 114:46] Para saber a próxima linha.
+[114:46 - 114:48] L&N, linha nova.
+[114:48 - 114:50] É para quebrar a linha.
+[114:50 - 114:54] É para não ter que escrever o barra a linha.
+[114:54 - 115:01] Aqui eu preciso entrar o print e o ggd, basicamente está no mesmo alinho.
+[115:15 - 115:22] Aqui eu venho inteiro, basicamente eu limpo ele para ficar com a sujeira de inteiro,
+[115:22 - 115:26] trocando inteiro com o stream
+[115:28 - 115:31] depois é o system.print, a gente corta de patrimônio
+[115:31 - 115:36] aqui eu pego normalmente, é um tipo de stream, corte de patrimônio
+[115:36 - 115:41] P2NextLine, mesma coisa, system.print, forma o modelo do ativo
+[115:41 - 115:44] stream, modelo igual P2NextLine
+[115:44 - 115:48] system.out.print, informa os status
+[115:48 - 115:50] e aqui vai os status
+[115:52 - 115:55] Basicamente vai aparecer o que?
+[115:55 - 115:58] Cadastro de ativo TI, vai quebrar a linha,
+[115:58 - 116:01] que é o de ativo IND, e o de IND,
+[116:01 - 116:05] vai apertar aí, ele vai salvar ele aqui,
+[116:05 - 116:07] e ele vai passar para as próximas linhas.
+[116:13 - 116:15] O que eu fiz para o cadastro de ativo TI,
+[116:15 - 116:18] eu vou fazer o ativo cadastro chamado.
+[116:22 - 116:52] Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não
+[116:52 - 117:02] para a linha, para evitar que as pessoas querem escrever no barra-end, o boto é ali, ele vai escrever essa linha e que vai para a próxima.
+[117:02 - 117:12] Aí o print, só o print digitado e o identativo, eu vou digitar o identivo, vou deixar que eles fazem espaço, esperando que eles tenham coisa.
+[117:12 - 117:18] O print é ok, é quebra de linha e o print é só para escrever na linha.
+[117:22 - 117:30] Estados ali é o... é a variável.
+[117:30 - 117:32] Estados ali no estado.
+[117:32 - 117:34] Estados que é uma configuração,
+[117:34 - 117:36] daquela função para ficar sólida,
+[117:36 - 117:38] para ter uma função clínica.
+[117:38 - 117:40] A gente olha e se...
+[117:40 - 117:42] se... se...
+[117:42 - 117:44] E a gente...
+[117:44 - 117:46] e se... e se...
+[117:46 - 117:48] O que é isso?
+[117:48 - 117:50] O que é isso?
+[117:50 - 117:52] O que é isso?
+[117:52 - 117:54] O que é isso?
+[117:54 - 117:56] O que é isso?
+[117:56 - 117:58] O que é isso?
+[117:58 - 118:00] O que é isso?
+[118:00 - 118:02] O que é isso?
+[118:02 - 118:04] O que é isso?
+[118:04 - 118:06] O que é isso?
+[118:06 - 118:08] O que é isso?
+[118:08 - 118:10] O que é isso?
+[118:10 - 118:12] O que é isso?
+[118:12 - 118:14] O que é isso?
+[118:44 - 118:46] Eu acho que está só sugerindo.
+[118:46 - 118:47] O que?
+[118:47 - 118:48] O que é isso?
+[118:48 - 118:49] O que é isso?
+[118:49 - 118:51] Não, não.
+[118:51 - 118:52] O que é isso?
+[118:52 - 118:53] Não, não.
+[118:53 - 118:55] Você trocava a gira.
+[118:55 - 118:58] Você dormeça as fases dele.
+[118:58 - 119:00] Você tem que concordar.
+[119:00 - 119:02] Você tem que concordar.
+[119:02 - 119:04] Você tem que ver o que é erro.
+[119:04 - 119:06] Você concorda em licenciado.
+[119:06 - 119:08] Oh, espero.
+[119:08 - 119:12] Oh, ali no topo, nos uns quatro são quase dois mil.
+[119:12 - 119:42] A gente vai ver o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é
+[119:42 - 119:44] O que é o seu?
+[119:44 - 119:46] O que é o seu?
+[119:46 - 119:48] O que é o seu?
+[119:48 - 119:50] O que é o seu?
+[119:50 - 119:52] O que é o seu?
+[119:52 - 119:54] O que é o seu?
+[119:54 - 119:56] O que é o seu?
+[119:56 - 119:58] O que é o seu?
+[119:58 - 120:00] O que é o seu?
+[120:00 - 120:02] O que é o seu?
+[120:02 - 120:04] O que é o seu?
+[120:04 - 120:06] O que é o seu?
+[120:06 - 120:08] O que é o seu?
+[120:08 - 120:10] O que é o seu?
+[120:10 - 120:13] Ativei com a parte da coletiva maior.
+[120:13 - 120:15] A gente tem um pouco de sinal.
+[120:15 - 120:17] Eu acho que o dedo é bem alto.
+[120:17 - 120:19] Você tem um pouco de sinal.
+[120:19 - 120:21] Você tem um pouco de sinal.
+[120:21 - 120:23] Você tem um pouco de sinal.
+[120:23 - 120:25] Você tem um pouco de sinal.
+[120:25 - 120:27] Você tem um pouco de sinal.
+[120:27 - 120:29] Você tem um pouco de sinal.
+[120:29 - 120:31] Você tem um pouco de sinal.
+[120:31 - 120:33] Você tem um pouco de sinal.
+[120:33 - 120:35] Você tem um pouco de sinal.
+[120:35 - 120:37] Você tem um pouco de sinal.
+[120:37 - 120:39] Você tem um pouco de sinal.
+[120:39 - 120:41] O que você acha?
+[120:41 - 120:43] Me fala ou não?
+[120:43 - 120:45] Me fala ou não?
+[120:45 - 120:47] Super, não.
+[120:52 - 120:54] É só uma merenda deles.
+[121:09 - 121:11] O que é isso?
+[121:11 - 121:13] O que é isso?
+[121:13 - 121:15] É o primeiro que eu vou fazer
+[121:15 - 121:17] É o primeiro que eu vou fazer
+[121:17 - 121:19] É o primeiro que eu vou fazer
+[121:19 - 121:21] É o primeiro que eu vou fazer
+[121:21 - 121:23] É o primeiro que eu vou fazer
+[121:23 - 121:25] É o primeiro que eu vou fazer
+[121:25 - 121:27] É o primeiro que eu vou fazer
+[121:27 - 121:29] É o primeiro que eu vou fazer
+[121:29 - 121:31] É o primeiro que eu vou fazer
+[121:31 - 121:33] É o primeiro que eu vou fazer
+[121:33 - 121:35] É o primeiro que eu vou fazer
+[121:35 - 121:37] É o primeiro que eu vou fazer
+[121:37 - 121:39] E aí
+[121:39 - 121:41] E aí
+[121:41 - 121:43] E aí
+[121:43 - 121:45] E aí
+[121:45 - 121:47] E aí
+[121:47 - 121:49] E aí
+[121:49 - 121:51] E aí
+[121:51 - 121:53] E aí
+[121:53 - 121:55] E aí
+[121:55 - 121:57] E aí
+[121:57 - 121:59] E aí
+[121:59 - 122:01] E aí
+[122:01 - 122:03] E aí
+[122:03 - 122:05] E aí
+[122:05 - 122:07] O que é isso?
+[122:10 - 122:13] O chamado suporte é o nome do arquivo, não?
+[122:13 - 122:15] É, ele está recorrendo essa classe.
+[122:15 - 122:17] Eu...
+[122:17 - 122:19] Eu não me acho mais...
+[122:19 - 122:21] Eu não me errei.
+[122:27 - 122:29] Ah, tem um traiinho no lado.
+[122:31 - 122:33] O que é isso?
+[123:03 - 123:05] O que está acontecendo?
+[123:05 - 123:07] O que está acontecendo?
+[123:07 - 123:09] O que está acontecendo agora aqui?
+[123:09 - 123:11] O que está acontecendo aqui?
+[123:11 - 123:13] O que está acontecendo aqui?
+[123:13 - 123:15] O que está acontecendo?
+[123:15 - 123:17] Eu executo o mesmo encontro.
+[123:17 - 123:19] O que está acontecendo?
+[123:19 - 123:21] Eu desenho o...
+[123:21 - 123:23] O que está acontecendo?
+[123:23 - 123:25] O que está acontecendo?
+[123:25 - 123:27] O que está acontecendo aqui?
+[123:27 - 123:31] Não, só estou ficando aqui, porque está parecendo bem claro.
+[124:01 - 124:04] Então a gente começa a...
+[124:05 - 124:08] O seguinte, é se contar a boa e contar a super, para dar super...
+[124:08 - 124:10] Vocês estão fazendo...
+[124:10 - 124:11] Isso, né?
+[124:11 - 124:12] Isso, isso, isso.
+[124:12 - 124:13] Já está fazendo isso?
+[124:15 - 124:16] Aqui o asco, o espalho.
+[124:16 - 124:18] Um, três...
+[124:18 - 124:19] Vamos lá.
+[124:19 - 124:20] Bota no velho.
+[124:20 - 124:23] Beleza, aqui eu entendo que tem um difícil passo, porque o seu espalho já vem só.
+[124:24 - 124:27] A espalho foi o código do David, assim.
+[124:27 - 124:28] A lógica do código.
+[124:28 - 124:29] Não, não é.
+[124:29 - 124:31] Mas você só não faz?
+[124:31 - 124:35] Esse é um print.
+[124:35 - 124:37] É um print alívio, vai quebrar a linha.
+[124:37 - 124:45] Esse vai escrever isso aqui para pegar a informação do inteiro aqui.
+[124:45 - 124:52] E isso aqui, eu repito, a única coisa que você tem que ter cuidado aqui é porque isso é um inteiro.
+[124:52 - 124:57] Como é um inteiro eu tenho que fazer essa limpeza de banco para não ficar de muedo.
+[124:57 - 125:02] Mas se você pegar do estrígue, é a mesma coisa, a mesma coisa, a mesma coisa.
+[125:06 - 125:08] Aqui vai ser um pouco de troca da estandinha de formações,
+[125:08 - 125:10] o que é um objeto fazer coisa diferente.
+[125:10 - 125:11] Constrado.
+[125:12 - 125:13] O que acontece?
+[125:13 - 125:17] Uma flexidade aumenta e vem de um centro trabalhando como um variável,
+[125:17 - 125:19] um trabalho como um objeto.
+[125:19 - 125:22] Um objeto é um conjunto de variáveis.
+[125:22 - 125:24] Você tem vários atributos.
+[125:24 - 125:29] e por ter vários atributos eu vou ter que fazer, repetir várias vezes a sessão.
+[125:29 - 125:34] Ah, não sei, eu faço, porque eu vou botar lá o cpf,
+[125:34 - 125:38] e lá com o stream cpf, é só vender o cpf.
+[125:38 - 125:40] Aí vai ver que você tem 9 distos,
+[125:40 - 125:42] você tem a formatação,
+[125:42 - 125:47] que quando você quer escrever, você pega um disto separadamente.
+[125:47 - 125:48] Sim.
+[125:48 - 125:50] Você pede o seu põeiro e não o final do põeiro,
+[125:50 - 125:52] só pra me finalizar, por favor.
+[125:52 - 125:54] Eu estou com a segunda da minha educação.
+[125:54 - 125:56] A gente está com a segunda.
+[125:56 - 125:58] Aí, Pelo, isso vai mudar.
+[125:58 - 126:00] Pronto.
+[126:00 - 126:02] Eu tenho muito sentido isso.
+[126:02 - 126:04] E aí tem esse...
+[126:04 - 126:06] O problema maior pra mim é isso.
+[126:06 - 126:08] É isso.
+[126:08 - 126:10] Se você está tudo aqui separado, é um problema.
+[126:10 - 126:12] É isso.
+[126:12 - 126:14] É esses problemas.
+[126:14 - 126:16] Mas de pagar, o normal é o rápido.
+[126:16 - 126:18] É isso.
+[126:18 - 126:20] O maior é o mais lindo.
+[126:20 - 126:22] O que é isso?
+[126:22 - 126:24] É o pagamento.
+[126:24 - 126:26] É o normal.
+[126:26 - 126:28] É o simbio.
+[126:28 - 126:30] Ah, eu acho que estou usando a faculdade.
+[126:30 - 126:32] A interprensa vai ser uma coisa.
+[126:32 - 126:34] Mas desse tipo de cortes,
+[126:34 - 126:36] eu estou falando com vocês.
+[126:36 - 126:38] Eu vou passar a atividade.
+[126:38 - 126:40] Aí sim, a gente está de cinto.
+[126:40 - 126:42] Então vocês não vão me desmitir.
+[126:42 - 126:44] É isso que eu não vou deixar esse clima.
+[126:44 - 126:46] Não, não.
+[126:46 - 126:48] Não, não.
+[126:48 - 127:18] É um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar que é um lugar
+[127:18 - 127:21] Muito quieto aqui, a gente vai matar a luz.
+[127:21 - 127:23] A gente vai ter que ir aqui, a gente vai ver.
+[127:23 - 127:25] A gente vai ter que ir aqui, a gente vai ver.
+[127:25 - 127:27] A gente vai ter que ir aqui, a gente vai ver.
+[127:27 - 127:29] Tá ligado, né?
+[127:59 - 128:01] O que é isso?
+[128:01 - 128:03] O que é isso?
+[128:03 - 128:05] O que é isso?
+[128:05 - 128:07] O que é isso?
+[128:07 - 128:09] O que é isso?
+[128:09 - 128:11] O que é isso?
+[128:11 - 128:13] O que é isso?
+[128:13 - 128:15] O que é isso?
+[128:15 - 128:17] O que é isso?
+[128:17 - 128:19] O que é isso?
+[128:19 - 128:21] O que é isso?
+[128:21 - 128:23] O que é isso?
+[128:23 - 128:25] O que é isso?
+[128:25 - 128:27] O que é isso?
+[128:27 - 128:29] Eu estou pegando um... Ele está... Ele está...
+[128:29 - 128:31] Ele está... Ele está... Ele está...
+[128:31 - 128:33] Ele está... Ele está...
+[128:33 - 128:35] Ele está aparecendo, eu acho que...
+[128:35 - 128:37] Ele está aparecendo lá aqui...
+[128:37 - 128:39] Ele está aparecendo...
+[128:39 - 128:41] Ele está aparecendo...
+[128:41 - 128:43] Ele está aparecendo...
+[128:43 - 128:45] Ele está aparecendo...
+[128:45 - 128:47] Ele está aparecendo...
+[128:47 - 128:49] Ele está aparecendo...
+[128:49 - 128:51] Ele está aparecendo...
+[128:51 - 128:53] Ele está aparecendo...
+[128:53 - 128:55] Ele está aparecendo...
+[128:55 - 128:57] Vem ver aqui.
+[128:57 - 128:59] Já estava subindo.
+[128:59 - 129:01] Mas você não sabe o que é isso.
+[129:01 - 129:03] Olha o pau ali.
+[129:03 - 129:05] Garçado, garçado, né?
+[129:05 - 129:07] Que gente...
+[129:07 - 129:09] Você não sabe o que é isso.
+[129:09 - 129:11] Você não sabe o que é isso.
+[129:11 - 129:13] Você não sabe o que é isso.
+[129:13 - 129:15] Você não sabe o que é isso.
+[129:15 - 129:17] É, o bolo vem calando, né mano?
+[129:17 - 129:19] Não, não.
+[129:19 - 129:21] Vem calando na reação, né?
+[129:21 - 129:23] É, viu.
+[129:23 - 129:25] e aí
+[129:25 - 129:27] e aí
+[129:27 - 129:29] e aí
+[129:29 - 129:31] e aí
+[129:31 - 129:33] e aí
+[129:33 - 129:35] e aí
+[129:35 - 129:37] e aí
+[129:37 - 129:39] e aí
+[129:39 - 129:41] e aí
+[129:41 - 129:43] e aí
+[129:43 - 129:45] e aí
+[129:45 - 129:47] e aí
+[129:47 - 129:49] e aí
+[129:49 - 129:51] e aí
+[129:51 - 129:56] Não é isso aí, é na roga.
+[129:56 - 129:58] É só conseguir uma parada só.
+[129:58 - 130:01] Até pronto, meu amigo.
+[130:01 - 130:03] É isso aí, tá quebrado.
+[130:03 - 130:05] Cara, quebrou e pôr.
+[130:05 - 130:07] Sem nem ter inscrito.
+[130:07 - 130:09] Tem mais!
+[130:09 - 130:11] É isso aí, tá quebrado.
+[130:11 - 130:13] Faz parte.
+[130:13 - 130:15] Não é quebrado.
+[130:15 - 130:17] Ainda lá tá a cara pra deda.
+[130:17 - 130:24] Se você tem um clínico, você tem um adigndo, você tem um adigndo.
+[130:24 - 130:27] Você tem um adigndo, você tem um adigndo.
+[130:27 - 130:31] Você tem um adigndo, você tem um adigndo.
+[130:31 - 130:33] Você tem um adigndo, você tem um adigndo.
+[130:33 - 130:35] Você tem um adigndo, você tem um adigndo.
+[130:35 - 130:37] Você tem um adigndo, você tem um adigndo.
+[130:37 - 130:39] Você tem um adigndo, você tem um adigndo.
+[130:39 - 130:41] Você tem um adigndo, você tem um adigndo.
+[130:41 - 130:43] Você tem um adigndo, você tem um adigndo.
+[130:43 - 130:45] Você tem um adigndo, você tem um adigndo.
+[130:45 - 130:47] É, mas aqui com você é igual a...
+[130:47 - 131:17] Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não
+[131:17 - 131:20] A pergunta é isso do Córbio, então é de...
+[131:23 - 131:25] É de cima, vocês entendem?
+[131:25 - 131:27] Você tem que ver o que é mais fácil, né?
+[131:29 - 131:30] Os caras entrem de praí.
+[131:30 - 131:32] Vale, eles me dizem que é de cima.
+[131:33 - 131:34] É isso aqui.
+[131:34 - 131:35] Ah, de cima é fácil, mesmo.
+[131:36 - 131:38] Só tenho que dizer, eu não estou a puxar nada.
+[131:38 - 131:40] Eu estou falando de massa, não.
+[131:40 - 131:42] Eu não posso falar qual problema.
+[131:42 - 131:44] Eu peguei ali com massa e depois...
+[131:44 - 131:50] aqui, essa aqui, o que eu faço com essa ativolina?
+[131:50 - 131:53] você faz...
+[131:53 - 131:56] eu não chamado, estou estancendo o chamado
+[131:56 - 131:59] eu estou tentando, eu não posso
+[131:59 - 132:01] isso que acontece?
+[132:01 - 132:04] é muito códico que vocês estão se assustando
+[132:04 - 132:09] pode bom, a galera está achando graça aí, tá se assustando?
+[132:09 - 132:11] o que acontece com essa ativolina?
+[132:11 - 132:17] Essa é a sua linha, é uma de mais complicadas, eu pego o estado de equipamento, o estado de váxio que?
+[132:17 - 132:30] Eu uso o chamado, chamado.getArta, a team relacionado, eu vou lá no meu get aqui, pego o...
+[132:30 - 132:41] Quando eu pego isso aqui, a team relacionada, vou voltar para a team relacionada, o que acontece aqui?
+[132:41 - 132:50] Quando eu venho aqui, no chamado suporte, eu vou botar equipamento, que é o basicamente que é atriativo.
+[132:50 - 132:56] Vamos dizer que é o multibuque, essas coisas, ele já vai saber qual é o equipamento.
+[132:56 - 132:59] Quando eu pego aqui o racionado, ele já vai dizer,
+[132:59 - 133:02] ah, o endereço é esse aqui, é um equipamento.
+[133:02 - 133:04] Aí ele me joga, o endereço lá,
+[133:04 - 133:06] e a ponta pro endereço do equipamento.
+[133:06 - 133:09] Aí tu tem um equipamento,
+[133:09 - 133:11] tu tem um gatskystaff,
+[133:11 - 133:12] pra dar do...
+[133:13 - 133:15] Tá, tu tem um gatskystaff aqui, que tem.
+[133:15 - 133:19] Exatamente. Aí eu vejo aqui o gatskystaff.
+[133:26 - 133:28] Não é que eu não estou preparando sua formação.
+[133:34 - 133:36] É, eu só levo o taco.
+[133:36 - 133:38] Ah, claro, tá.
+[133:40 - 133:42] Mas o que é a família de comandos mais?
+[133:42 - 133:44] Eu vou chamar um objeto.
+[133:46 - 133:48] Chama um objeto.
+[133:48 - 133:50] Eu vou lá de lá até aí.
+[133:52 - 133:54] Eu vou lá, nem santo objeto.
+[133:54 - 134:02] Eu uso o chamado para acessar o objeto ativo, o equipamento,
+[134:02 - 134:04] e ele pegar os chatos deles.
+[134:04 - 134:07] Está ativo, está em mantecão, está quebrado.
+[134:07 - 134:09] Basicamente é isso.
+[134:09 - 134:12] Que horas são aí?
+[134:12 - 134:15] Dois para as nuvens.
+[134:15 - 134:17] Você ainda tem dois minutos de horas.
+[134:17 - 134:19] Quer continuar?
+[134:19 - 134:22] Vai agitar mais uns quatro minhas e vai estar com o sono ao alto.
+[134:22 - 134:24] A gente tem mais uns 10 ali.
+[134:24 - 134:25] Mentira.
+[134:25 - 134:26] Mas, a gente não sabe.
+[134:26 - 134:28] Encerrando é o que faz no Espírito.
+[134:30 - 134:32] A gente complica isso para a próxima aula.
+[134:32 - 134:34] Para que a gente continua.
+[134:34 - 134:35] É sério.
+[134:35 - 134:37] Esse projeto que eu quero...
+[134:37 - 134:40] É para continuar com você,
+[134:40 - 134:41] para continuar o semestre, né?
+[134:41 - 134:43] Mas eu quero que você
+[134:43 - 134:45] você ajeite as atividades hoje para vocês.
+[134:45 - 134:46] Pago.
+[135:16 - 135:18] Eu acho que isso é bem...
+[135:18 - 135:20] Isso é um extremo, é?
+[135:20 - 135:24] Ah, eu lembrei de uma pessoa que você vai se vertir lá.
+[135:24 - 135:26] É isso aí, gente.
+[135:26 - 135:28] É isso aí, gente.
+[135:28 - 135:30] É isso aí, gente.
+[135:30 - 135:32] Agora, gente.
+[135:32 - 135:34] Agora, gente.
+[135:34 - 135:36] Agora, gente.
+[135:36 - 135:38] É isso aí, gente.
+[135:38 - 135:40] É isso aí, gente.
+[135:40 - 135:42] É isso aí, gente.
+[136:12 - 136:14] A gente vai ser 5,5,00, hein?
+[136:14 - 136:16] Aí, aí, aí.
+[136:16 - 136:18] Ah, tu achou isso, caramba?
+[136:18 - 136:20] É muito álbum, mesmo.
+[136:20 - 136:22] Vai tomar o chefe, cara.
+[136:24 - 136:26] Já deixou o pixão na tela?
+[136:26 - 136:28] Você tem prontinho?
+[136:28 - 136:30] Agora você depois eu passo o pixão aqui, ó.
+[136:30 - 136:32] Pixão aqui, ó.
+[136:32 - 136:34] Puxo.
+[136:34 - 136:36] Marginho, levinhato, tal cabelo.
+[136:36 - 136:38] Puxo.
+[136:38 - 136:40] Puxo.
+[136:40 - 136:42] Marinho, levei água para o cabelo.
+[136:42 - 136:44] É, tio, falar de descrata.
+[136:44 - 136:46] O que está acontecendo? É aqui atrás de pouco.
+[136:46 - 136:48] Como assim, mano? Eu não sou esse...
+[136:48 - 136:50] Eu me tiro por cada...
+[136:50 - 136:52] É cara dele, assim.
+[136:52 - 136:54] Vem de lá, porra.
+[136:54 - 136:58] Você terminava no 20 e não ia contratar a sua hora.
+[136:58 - 137:00] E agora que ela prestei só 8, pra...
+[137:00 - 137:02] Preste tudo?
+[137:02 - 137:04] Mas sabe que eu estará aqui?
+[137:04 - 137:06] Se eu sei qual é o cabelo?
+[137:06 - 137:08] Eu me ensinava, não é só a hora.
+[137:08 - 137:10] Ele falou que ia fazer isso.
+[137:10 - 137:13] Ele falou que ia fazer isso, feio.
+[137:18 - 137:20] Aprendi que eu não sei ler.
+[137:30 - 137:34] Mais de 15 anos de profissão para perguntar se eu sei qual tal eu vou fazer no final.
+[137:38 - 137:40] Você veio daí, né?
+[137:40 - 137:42] É, eu não gostei dessa câmera de tudo também, não?
+[137:42 - 137:44] É, presta atenção, cara.
+[137:44 - 137:47] Vou deixar essa câmera aqui só quando a gente tem, né?
+[137:47 - 137:48] Você sabe de onde é a última linha?
+[137:48 - 137:49] Oi.
+[137:49 - 137:50] Aqui é a última linha, você entendeu?
+[137:50 - 137:51] Sim.
+[137:51 - 137:53] É...
+[137:53 - 137:56] Eu consegui fazer hardcoded, né?
+[137:56 - 137:59] Na outra aula você fez hardcoded, né?
+[137:59 - 138:06] Você colocou o ativo e o equipamento todo lá dentro do código, né?
+[138:06 - 138:10] Aí tá, a toda tudo funcionou inclusive o chamado.
+[138:10 - 138:18] Aqui onde foi pra colocar tudo com scanner, a parte do ativo funcionou.
+[138:18 - 138:20] Valeu, a parte do ativo funcionou.
+[138:20 - 138:26] Rafael, a parte do ativo que chamou o chamado não consegui debugar.
+[138:26 - 138:29] Alguma coisa tá errada ali no meu.
+[138:29 - 138:31] O clube não tá completo, né?
+[138:31 - 138:36] O problema foi que eu se dei pra vir, não fui nos pontos.
+[138:36 - 138:39] Eu acho que a outra é por isso que eu estou aqui.
+[139:09 - 139:11] Está para lá, não?
+[139:11 - 139:13] Está a relação...
+[139:13 - 139:15] ...mas que a gente está aqui.
+[139:15 - 139:17] Mas que sai para, porque eu estou aqui, vou fazer...
+[139:17 - 139:19] ...e o resto vai puxando.
+[139:19 - 139:21] Então, é...
+[139:21 - 139:23] ...a função está pegando a função.
+[139:23 - 139:25] O...
+[139:25 - 139:27] ...o que é que a gente está fazendo é dele.
+[139:27 - 139:29] O que é que a gente está fazendo é dele?
+[139:29 - 139:31] É basicamente um fato que...
+[139:31 - 139:33] ...a gente tem que puxar.
+[139:33 - 139:35] Quando é que a gente está apresenta, dá para fazer...
+[139:35 - 139:37] ...a gente vai chegar aonde?
+[139:37 - 139:41] Aquele ali mandou lá no grupo.
+[139:41 - 139:43] Aquele ali saiu em HTML.
+[139:43 - 139:45] Tá contado os autos ali.
+[139:45 - 139:47] Tá contado os autos ali.
+[139:47 - 139:49] Tá contado os autos ali.
+[139:49 - 139:51] Tá muito.
+[139:51 - 139:53] Tá com a HTML.
+[139:53 - 139:55] Tá com a HTML.
+[139:55 - 139:57] Tá com a HTML.
+[139:57 - 139:59] Tá com a HTML.
+[139:59 - 140:01] Tá com a HTML.
+[140:01 - 140:03] Tá com a HTML.
+[140:03 - 140:05] Tá com a HTML.
+[140:05 - 140:07] O que é isso?
+[140:07 - 140:09] O que é isso?
+[140:09 - 140:11] O que é isso?
+[140:11 - 140:13] O que é isso?
+[140:13 - 140:15] O que é isso?
+[140:15 - 140:17] O que é isso?
+[140:17 - 140:19] O que é isso?
+[140:19 - 140:21] O que é isso?
+[140:21 - 140:23] O que é isso?
+[140:23 - 140:25] O que é isso?
+[140:25 - 140:27] O que é isso?
+[140:27 - 140:29] O que é isso?
+[140:29 - 140:31] O que é isso?
+[140:31 - 140:33] O que é isso?
+[140:33 - 140:38] Aí depois você vai falar da verdade da minha casa pra nós fazer.
+[140:38 - 140:40] Tem que passar, né?
+[140:40 - 140:41] Tem quase, hein?
+[140:41 - 140:42] Tem.
+[140:42 - 140:43] Tem um jogo pra mim.
+[140:43 - 140:44] Até amanhã.
+[140:44 - 140:47] Até amanhã é mais tarde.
+[140:47 - 140:49] É mais tarde.
+[140:49 - 140:51] Vai ser.
+[141:03 - 141:05] Agora que eu tava com a casa com a pessoa?
+[141:08 - 141:09] Roxo.
+[141:10 - 141:11] Roxo?
+[141:11 - 141:12] Não, a casa é...
+[141:12 - 141:13] Minha.
+[141:13 - 141:15] Não tem um fã.
+[141:15 - 141:16] É, é.
+[141:16 - 141:18] Mas foi a mágica, né?
+[141:18 - 141:19] É.
+[141:19 - 141:20] É.
+[141:20 - 141:21] E aí, que vai cá entrar aí?
+[141:21 - 141:22] Não, não, não.
+[141:22 - 141:23] É isso.
+[141:23 - 141:24] Mas foi a mágica.
+[141:24 - 141:26] Oi, oi, oi, oi, oi, oi.
+[141:26 - 141:27] Foi.
+[141:27 - 141:29] E aí, não perguntei se o senhor era o meu.
+[141:59 - 142:06] O que está falando nisso?
+[142:06 - 142:11] O que está falando nisso?
+[142:11 - 142:15] O que está falando nisso?
+[142:15 - 142:20] O que está falando nisso?
+[142:20 - 142:25] O que está falando nisso?
+[143:55 - 143:57] Eu acho que é isso que ele está passando.
+[143:57 - 144:02] É, a forma da modularização, né?
+[144:02 - 144:07] A gente dividia as coisas com seus arquivos específicos.
+[144:07 - 144:11] Eu me lembro que ele falou que a gente tem que ter um arquivo para cada classe.
+[144:11 - 144:12] É.
+[144:12 - 144:14] Um arquivo para cada classe.
+[144:14 - 144:15] É.
+[144:15 - 144:17] Um arquivo para cada classe.
+[144:17 - 144:18] É.
+[144:18 - 144:22] Lembrando que ele falou que a gente tem que ter um arquivo para cada classe.
+[144:22 - 144:26] É, um arquivo para cada classe.
+[144:26 - 144:32] Então a gente tem uma classe de ativos, uma classe de chamados.
+[144:32 - 144:36] E aí tem mais um arquivo que é para rodar um programa de verdade, é o MEN.
+[144:36 - 144:42] Aí cada classe, ela pode gerar tantos objetos para o forno.
+[144:42 - 144:44] Ah, assim, assim.
+[144:44 - 144:50] Ah, é por isso que ele mandou um membro aqui?
+[144:50 - 144:52] É isso, é isso.
+[144:52 - 144:54] O MEN, ele só tá...
+[144:54 - 144:56] O MEN chega e pergunta, tá classe,
+[144:56 - 144:58] como é que eu faço um objeto no teu tipo?
+[144:58 - 145:01] Não, fazer um objeto tipo ativo TI,
+[145:01 - 145:04] ele vai precisar do número de indicação,
+[145:04 - 145:07] do código do patrimônio, da marca,
+[145:07 - 145:10] e do problema que ele tem, ou do status dele.
+[145:10 - 145:14] e os carros dele, o meio vai lá e pelo fundo
+[145:14 - 145:21] e o gelo que ele gava, pega a direita e o gelo
+[145:21 - 145:26] e vai rolar no meio, para que ele consiga voltar
+[145:26 - 145:37] e vai agir naquele tipo, imagina que o meio é um comerciante
+[145:37 - 145:42] O cara fica no malcão da panaria.
+[145:42 - 145:49] Aí o ativo T.I. vai ser o cara que faz bolo.
+[145:49 - 145:58] E o chamado vai ser o cara que faz, sei lá, rosquinha.
+[145:58 - 146:00] Outra receita.
+[146:00 - 146:08] Então toda vez que numém alguém pedia alguma coisa de bolo, ele tem que se referir ao cara que faz bolo.
+[146:08 - 146:09] Ai, gente!
+[146:09 - 146:11] Ó, preciso de um bolo. Ah, que que eu preciso fazer?
+[146:11 - 146:15] Vou lá, parinha, fermento, sequer, sequer. Aí, pra rostinho, preciso de que?
+[146:15 - 146:17] Tá, isso, isso, isso aqui.
+[146:17 - 146:21] Ah, isso aqui está com, tipo, navegar de larguinho, né?
+[146:21 - 146:26] Isso, tipo, se chamar uma coisa da TTI, foi chamar uma outra coisa de bolo.
+[146:26 - 146:44] Aqui a gente pode chamar uma variável de um ou de outro, ou o que me confundiu ali no meio da aula, é que a gente tem esses dois arquivos aqui.
+[146:44 - 146:52] A princípio eles não se conversam, mas na última linha que ele estava colocando ele estava pedindo uma coisa de um através do outro.
+[146:52 - 146:54] Ah, que era o...
+[146:54 - 146:55] O que eu falei, não é?
+[146:55 - 146:56] Isso.
+[146:56 - 146:57] Que era por causa da gente que...
+[146:57 - 146:58] A gente que...
+[146:58 - 146:59] Aquele digitivo...
+[146:59 - 147:01] Aquele digitivo não era...
+[147:01 - 147:02] Era a gente...
+[147:02 - 147:04] Era inteiro e não podia ser calcificado muito
+[147:04 - 147:06] como o string da nossa calada.
+[147:06 - 147:07] Isso.
+[147:07 - 147:09] Tanto que ele usou um...
+[147:09 - 147:10] Um...
+[147:10 - 147:11] Um coloio erro pra conseguir,
+[147:11 - 147:12] pra conseguir fazer aquilo ali.
+[147:12 - 147:14] De que usar um...
+[147:14 - 147:15] Se quiser...
+[147:15 - 147:16] Se quiser usar um...
+[147:16 - 147:17] Um...
+[147:17 - 147:18] Um carname.
+[147:18 - 147:19] Alô e óbio.
+[147:19 - 147:21] e botar o...
+[147:21 - 147:22] o...
+[147:22 - 147:23] o...
+[147:23 - 147:24] o idêno meio
+[147:24 - 147:25] entre as balas
+[147:25 - 147:26] para que ele possa ser...
+[147:26 - 147:27] você quase dá com o spring
+[147:27 - 147:29] aí fica o spring, evolui o off
+[147:29 - 147:30] e...
+[147:30 - 147:31] aí de...
+[147:31 - 147:32] ativa
+[147:34 - 147:35] Boa!
+[147:35 - 147:36] É isso aí de spring não
+[147:36 - 147:37] É, por causa que ele falou
+[147:37 - 147:38] dá um cabe aí, aí eu...
+[147:38 - 147:39] eu vi o pôr no campo do cabe
+[147:39 - 147:40] Ah, você tá só com o cabe
+[147:40 - 147:41] É, eu aprendi
+[147:41 - 147:42] Ah...
+[147:42 - 147:43] Ah, é, para a sua nova inscrição
+[147:43 - 147:44] eu quero chamar isso aí já...
+[147:44 - 147:45] até na próxima vez
+[147:45 - 147:47] É, mas...
+[147:47 - 147:48] Mas é isso?
+[147:48 - 147:55] Eu sei que se a gente perguntar pra ele, se dá pra ele, se tem tempo, o tempo também, o tempo é assim, o tempo é fácil,
+[147:55 - 148:03] se você pegar um lugar inteiro, não, não é claro, se você pegar um stream e que joga ele com um homem inteiro,
+[148:03 - 148:05] eu sei que se a gente perguntar isso pra ele.
+[148:05 - 148:07] É, deve dar pra fazer o caço.
+[148:07 - 148:09] É, pra fazer a troca.
+[148:09 - 148:18] no JavaScript, o JavaScript pode transitar entre número de um string, número de um número no labor
+[148:18 - 148:20] Sim, sim
+[148:20 - 148:22] A senhora de sotaíto é uma forma legal, ó
+[148:22 - 148:25] O cara que nos tem que olhar a geração taita e agora isso
+[148:25 - 148:27] É um sotaíto
+[148:27 - 148:29] O que você vai falar?
+[148:29 - 148:32] Java tá muito tido, cara, porque é muito tido
+[148:32 - 148:34] A senhora de sotaíto, o que você vai falar?
+[148:34 - 148:35] O que você vai falar?
+[148:35 - 148:36] O que você vai falar?
+[148:36 - 148:37] O que você vai falar?
+[148:37 - 148:52] É que o desafiador é difícil, que o desafiador é difícil que ainda não te tem estimulado.
+[148:52 - 148:55] Sim, que ainda não tem aprendido.
+[148:55 - 149:01] Eu estou pensando que se não a pausa não vai para o parque de alunos, eu vou pegar o mel, você não vai.
+[149:01 - 149:06] Eu tenho que eu quero que você ficar no aningles só, Príncipe.
+[149:06 - 149:09] O projeto já deu mais de um livro ao mesmo tempo.
+[149:09 - 149:10] Mais de um livro?
+[149:10 - 149:12] Era dois, três livros ao mesmo tempo, já.
+[149:12 - 149:14] Já, então eu tenho que preparar.
+[149:14 - 149:17] Então você consegue aprender dois livros ao mesmo tempo uma boa.
+[149:17 - 149:20] Mas eu tenho que separar os livros.
+[149:20 - 149:23] Eu acho que eu consegui ver...
+[149:23 - 149:27] Eu consegui ver Javra e Python.
+[149:27 - 149:29] Só que eu não consegui ver sempre.
+[149:29 - 149:33] É tipo... É muito separado essas três coisas.
+[149:33 - 149:35] Por causa de um reino, eu não vejo a Viscrit.
+[149:35 - 149:36] Agora não...
+[149:36 - 149:37] Quanto isso mesmo?
+[149:37 - 149:38] Então tipo...
+[149:38 - 149:44] Eu peguei a Javascript, HTML, CSS, Python, Java...
+[149:44 - 149:45] No...
+[149:45 - 149:48] O meu Python, ele tá parado agora.
+[149:48 - 149:49] Meu Python não...
+[149:49 - 149:50] Não... não... não... não...
+[149:50 - 149:52] Não toco nele, isso é um senso passado.
+[149:52 - 149:56] De noite, nas aulas do México, HTML, CSS e Javascript.
+[149:56 - 150:00] E aqui, na faculdade, é C e Java.
+[150:00 - 150:01] C e Java?
+[150:01 - 150:04] Então eu tô fazendo uma labarismo aí com C.
+[150:04 - 150:11] A hora que precisar de Python ou do Python, tem jeito.
+[150:11 - 150:13] Aí a gente se interroge e vai.
+[150:13 - 150:16] A gente tem a voz que está só olhando do Python, né?
+[150:16 - 150:17] Sim.
+[150:17 - 150:21] Então, é só fazer o tipo, ali, tu quiser gerar um português,
+[150:21 - 150:26] fazer um português e derrubar ela.
+[150:26 - 150:30] É só que é a questão de desinterrojar mesmo.
+[150:30 - 150:31] Sim, sim.
+[150:31 - 150:36] tem que separar de mexer no JavaScript, que é duas semanas e eu não me lembro como fazer as coisas
+[150:36 - 150:39] aí eu olho, ah, cai assim, passa
+[150:39 - 150:46] eu acho que eu me daria melhor com JavaScript, porque eu faço que eu goste de gente que JavaScript é a JavaScript, tá ligado?
+[150:46 - 150:51] tipo, quando há um preto, eu gostei de usar como o S&Log, e não só do S&Log, é o meu raciocinco
+[151:21 - 151:28] e já estava junto com o Python, ou qualquer coisa assim, um pequeno desafio para ti.
+[151:28 - 151:34] Pega um programa que estou já fez em Python, escreve-o na linguagem que quiser estudar.
+[151:34 - 151:38] Ah, quero estudar C. Eu quero estudar C.
+[151:38 - 151:43] Você não é espaçado, eu fiz uma calculadora, eu fiz uma agenda, fiz uma lista de contatos.
+[151:43 - 151:47] Vou fazer isso em C, adoro. Vou fazer isso em Java agora.
+[151:47 - 151:49] É bom, né?
+[151:51 - 152:01] Eu também, mas eu quero ver se você está adorando os seus autoridades.
+[152:01 - 152:07] Eu não sei se alguém consegue adorar a Vinclo Manson.
+[152:07 - 152:11] Cara, eu adorei o que ele falou hoje de stack, de heap.
+[152:11 - 152:15] Eu sempre ouço falar, nunca tinha me aprofundado.
+[152:15 - 152:20] Hoje ele deu uma clareza, mas eu vou estudar por conta.
+[152:20 - 152:25] Eu também já tinha escutado, mas nunca saberei o que fazer.
+[152:25 - 152:36] Aí eu aprendi que o Fébico, a Stack ela armazena, ela guarda as variáveis,
+[152:36 - 152:39] e o RIP ele...
+[152:39 - 152:47] O Stack ele guarda os endereços, guarda os ponteiros para onde estão os objetos,
+[152:47 - 152:55] O Jets ficou morando no HIP. O Stack tem um tamanho pequeno, mas ele é muito rápido.
+[152:55 - 152:59] E o HIP tem um tamanho maior, mas é na lenta.
+[152:59 - 153:02] Exatamente. Um é a...
+[153:02 - 153:04] A...
+[153:04 - 153:08] Uma é o motor esportivo, o outro é o caminhão.
+[153:08 - 153:09] É...
+[153:09 - 153:11] Um esportivo não consegue morar muita coisa.
+[153:11 - 153:14] Tanto que não dá pra salvar muita coisa dentro do Stack, né?
+[153:14 - 153:16] Não. Não.
+[153:16 - 153:23] Por isso que tem aquele esquema dele, deixar no stack só aquele que está ativo.
+[153:23 - 153:26] O mesmo que esteja ativo ele liga lá no stack.
+[153:26 - 153:29] Como é que como a gente consegue contar isso dentro do...
+[153:29 - 153:35] Cara, eu acho que o Gávago já faz isso sozinho.
+[153:35 - 153:40] Talvez você, a gente tenha um controle pra gente fazer isso.
+[153:40 - 153:47] Então, tipo, a gente não lembra, mas tem que ver se o expo é que você já, né?
+[153:47 - 153:48] Não.
+[153:48 - 153:52] Mas tem que ser um consideramento de activo.
+[153:52 - 153:58] Se o processo de investimento avançar bastante em ser, talvez a gente mexe em um pg.
+[153:58 - 154:00] Mas eu acho difícil também.
+[154:00 - 154:05] É bem difícil, por causa do que eu disse, é que a gente pega tudo o básico primeiro.
+[154:05 - 154:10] Ele não está passando um ano e um ano só, como se você tivesse, porque ele está aqui.
+[154:10 - 154:15] Se o Beli está com muita grana, ele vai a gente devolver, vai a gente de tudo o que você faz, e ele aprende a promocionar.
+[154:15 - 154:19] O Tiberi está medendo louco, está querendo nem saber.
+[154:19 - 154:23] Tá adorando, meu Deus, tá adorando.
+[154:23 - 154:27] Ele não anda, ele fala, ele tá pedindo pra você, tá pedindo pra você passar.
+[154:27 - 154:29] É.
+[154:29 - 154:31] Eu acho que vai dar aqueles anos que ele aprendeu.
+[154:31 - 154:35] Ele falou isso no primeiro silêncio, é tipo, a melhor forma de você aprender é você
+[154:35 - 154:38] fazer uma coisa grande e fazer o seu projeto.
+[154:38 - 154:41] Eu falei pra ele, eu aprendo que é uma coisa que faz o seu projeto.
+[154:41 - 154:45] Dando que ele me possa on-dive, não faz, então quero que a gente desenvolvme o e-vive
+[154:45 - 154:50] e o projeto que eu tenho pra fazer, eu espero aprender de um grande mesmo.
+[154:50 - 154:54] Pra que eu faça o e-vive e fazer o seu projeto.
+[154:54 - 154:56] Pra eu ficar no seu projeto.
+[154:56 - 155:01] É um dos meninos que falou dos meninos tétricos, o Thiago Colombo, na aula também.
+[155:01 - 155:05] Você conseguir pegar um problema grande, um problema complexo.
+[155:05 - 155:06] É para ele.
+[155:06 - 155:07] Exato.
+[155:07 - 155:15] E dar uma acertada quebrasse problema em vários caquinhos, e conseguir analisar cada um deles.
+[155:15 - 155:17] E é mais um problema?
+[155:17 - 155:19] É muito legal, é muito legal.
+[155:19 - 155:26] E assim, o sentido que está no sínio, que a gente aprende da programação na ciência,
+[155:26 - 155:30] também se faz muito isso, ele se arpeita na vida real, assim, é uma coisa.
+[155:30 - 155:31] Exatamente.
+[155:31 - 155:32] Vai ver que a gente está fazendo um problema da vida.
+[155:32 - 155:36] Exatamente, porque ele é de fora, ele é de pessoa de cor-receita, ele consegue,
+[155:36 - 155:42] consegue, tipo, se desenvolver mais, tem muito que eu pensamento de que eu falo,
+[155:42 - 155:51] Eu vou começar isso aqui, isso aqui, isso aqui, isso aqui e para fazer isso aqui eu tenho que separar o almoço aqui
+[155:51 - 155:54] O espúgio é muito melhor, é muito melhor
+[155:54 - 155:56] É mais que a voz que eu tenho que fazer
+[155:58 - 156:02] Eu não sei que eu posso aprimar, parece que o raciocínio me deu
+[156:02 - 156:06] A gente está ativando sempre do dia, né, quer?
+[156:06 - 156:08] O quanto tal?
+[156:18 - 156:20] O que você fez, Fisca?
+[156:21 - 156:23] Como você vira a professora de Fisca?
+[156:24 - 156:28] Eu fui uma das bocas alunas de Fisca, mas a minha intenção nunca foi ser professora.
+[156:29 - 156:31] A minha intenção era ser pesquisador.
+[156:32 - 156:34] Então eu fui um mestrado com o Doutor Arado.
+[157:04 - 157:06] capítulo de liga também
+[157:06 - 157:08] e eles estão tirando o seu dedo
+[157:08 - 157:10] e justamente por causa disso
+[157:10 - 157:12] de um momento que eu conheci a dança
+[157:12 - 157:14] abandonei o doutorado
+[157:14 - 157:16] fui dançar
+[157:16 - 157:18] fui fazer graduação e dança
+[157:18 - 157:20] de dar aula de dança
+[157:20 - 157:22] naquele momento minha vida era aquilo
+[157:22 - 157:24] sério
+[157:26 - 157:28] a ideia é continuar atando
+[157:28 - 157:30] cara eu estou um pouco afastado
+[157:30 - 157:32] da dança, eu ainda gosto bastante
+[157:32 - 157:35] mas eu estou afastado das práticas.
+[157:35 - 157:37] Eu estou ficando aqui, galera.
+[157:37 - 157:41] É assim, ganhar vida com dança é bastante difícil.
+[157:41 - 157:49] Então, o meu objetivo é conseguir no emprego, na condição que eu quero,
+[157:49 - 157:51] e depois eu volto para a dança como hobby,
+[157:51 - 157:54] e não com a obrigação de vender dinheiro para aquilo.
+[157:54 - 157:57] Só que só para você não abrir a plaga de dinheiro.
+[157:57 - 158:00] Aí é mais banho.
+[158:00 - 158:05] Ah, que capaz de um momento de ir para o Zoléadelo, vai com muito dificuldade.
+[158:05 - 158:11] É, a gente se desgasta, tem que dar muito braço a torcer.
+[158:11 - 158:14] Como é que você foi ao Zoléadelo? Era a Alna?
+[158:14 - 158:15] A Alna mesmo.
+[158:15 - 158:18] Eu estava a Alna em uma academia de Névis Monde de Malar,
+[158:18 - 158:21] um paralelo aqui a a de Zimbabagã,
+[158:21 - 158:25] veio a Alna para que o Lângela, a Zoléadela era a Mar.
+[158:25 - 158:29] Então, eu acho que é justamente a que estava a fazer com a minha sonida.
+[158:29 - 158:33] A movimentação não foi para treinar ninguém para movimentação
+[158:33 - 158:35] É, nem participei, não gosto
+[158:35 - 158:37] Mas já coreografei em casamento
+[158:37 - 158:40] Já coreografei em peças indianas de empresa
+[158:40 - 158:42] Nossa, você não é ser máximo
+[158:42 - 158:44] Ah, não, é bacana
+[158:45 - 158:47] Foi uma época legal de ouvir
+[158:48 - 158:49] Ah, passou
+[158:53 - 158:55] Você fica aprendendo a dançar
+[158:55 - 158:59] Eu estou com a câmera que ele se passa em lá da estrutura
+[158:59 - 159:00] Você está treinando?
+[159:00 - 159:01] Eu estou
+[159:09 - 159:11] Nossa, não está esculpando, não é?
+[159:11 - 159:13] Não, eu passo por aqui
+[159:13 - 159:17] Eu passo por aqui, eu passo por aqui, eu passo por aqui, eu passo por aqui
+[159:17 - 159:18] Ah, limpa
+[159:25 - 159:27] O que é isso?
+[159:27 - 159:29] O que é isso?
+[159:29 - 159:31] O que é isso?
+[159:31 - 159:33] O que é isso?
+[159:33 - 159:35] O que é isso?
+[159:35 - 159:37] O que é isso?
+[159:37 - 159:39] O que é isso?
+[159:39 - 159:41] O que é isso?
+[159:41 - 159:43] O que é isso?
+[159:43 - 159:45] O que é isso?
+[159:45 - 159:47] O que é isso?
+[159:47 - 159:49] O que é isso?
+[159:49 - 159:51] O que é isso?
+[159:51 - 159:53] O que é isso?
+[159:53 - 159:55] O que é isso?
+[159:55 - 159:57] O que é isso?
+[159:57 - 159:59] O que é isso?
+[159:59 - 160:01] O que é isso?
+[160:01 - 160:03] O que é isso?
+[160:03 - 160:05] O que é isso?
+[160:05 - 160:07] O que é isso?
+[160:07 - 160:09] O que é isso?
+[160:09 - 160:11] O que é isso?
+[160:11 - 160:13] O que é isso?
+[160:13 - 160:15] O que é isso?
+[160:15 - 160:17] O que é isso?
+[160:17 - 160:19] O que é isso?
+[160:19 - 160:21] O que é isso?
+[160:21 - 160:51] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[160:51 - 160:57] Eu acho que semana estava embelezando os exercícios que ele veio me entregar.
+[160:58 - 161:00] É, é um exercício que eu fiz hoje.
+[161:01 - 161:05] Eu fiz três só, eu não fiz quase uns cinco ainda.
+[161:06 - 161:08] Eu consegui me travesse naquele de notas.
+[161:09 - 161:13] Eu consegui fazer todos em aula, aí em casa eu só abri bonito.
+[161:14 - 161:15] Foi um perigoso, né?
+[161:17 - 161:19] A gente anda a apresentação.
+[161:19 - 161:26] É basicamente a mesma coisa, mas não é um dos de tempo.
+[161:26 - 161:28] Basicamente a mesma coisa.
+[161:28 - 161:33] Vai dividindo e vai pede a terra do resto.
+[161:33 - 161:37] O balão inteiro é divisão a longo de novos.
+[161:37 - 161:40] O resto é o que sobra para tudo o que vem no próximo.
+[161:49 - 162:19] Ainda é uma coisa que eu acho que é a maior nota para dar um 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5
+[162:19 - 162:31] e pega o resto da divisão por 50 e isso é sobrado e dividir por 20
+[162:31 - 162:33] Peguei, peguei, peguei.
+[162:33 - 162:38] Vamos supor que ele é sacar R$245.
+[162:38 - 162:43] Pega R$245 de vídeo por 50, para detectar.
+[162:43 - 162:48] R$245, 50.
+[162:50 - 162:53] Quantas notas de 50 cabem?
+[162:53 - 162:54] Ah, quantas notas?
+[162:54 - 162:57] 50, 100, 150, 200.
+[162:57 - 162:59] Se eu colocar mais uma pasta,
+[162:59 - 163:03] Então, vai ter 4,50. Qual é o resto dessa divisão?
+[163:03 - 163:05] O que sobra se tirar os R$ 200?
+[163:07 - 163:09] Os R$ 245,00?
+[163:09 - 163:11] Sobra 45,00. Então, o que isso?
+[163:11 - 163:12] 45,00.
+[163:12 - 163:14] Eu vou dividir por 20.
+[163:14 - 163:15] Há quantas notas?
+[163:15 - 163:16] Duas.
+[163:16 - 163:18] Quanto sobra? 5?
+[163:18 - 163:21] Ah, e tem 5,00. Então, desce que sobrou todo mundo lá em baixo.
+[163:21 - 163:22] Tem.
+[163:22 - 163:24] Ah, e tem 5,00.
+[163:24 - 163:27] E a gente pode fazer, então, as duas operações que a gente tem.
+[163:27 - 163:31] E você, a divisão de 1% que é o resto?
+[163:31 - 163:35] O meu péssaro, meu píssaro...
+[163:35 - 163:41] Ah, 50, só meia, 50, aí dá pra dizer que eu vou lá pra esse rato de 4, 50, 4, 50, aí em baixo,
+[163:41 - 163:45] pra esse rato de 2, 20, esse rato de 2, 20, aí lá...
+[163:45 - 163:49] Primeiro eu calculava tudo e aí no final, você ia...
+[163:49 - 163:55] Ó, você vai receber tantas horas de 50, tantas horas de 20, tantas horas de 10, tantas horas de 5...
+[163:55 - 164:07] A ver os galólogos daquela do nos segundos.
+[164:07 - 164:09] Vem na lógica.
+[164:09 - 164:11] Segundo?
+[164:11 - 164:13] Segundo.
+[164:13 - 164:24] O usuário entra com o valor em segundos e ele tem que devolver a resposta em semanas, horas, dias, minutos.
+[164:24 - 164:31] Minutos, dias, horas, minutos, segundos. É o mesmo raciocínio.
+[164:31 - 164:34] A quadra não é simples.
+[164:34 - 164:38] Não é a quadra, a simbólica do ano-bisesta.
+[164:38 - 164:40] Não é o minuto.
+[164:40 - 164:47] Tem duas relacionadas a tempo, uma do ano-bisesta e a outra é dos segundos.
+[164:54 - 164:56] O que é isso?
+[164:56 - 164:58] O que é isso?
+[164:58 - 165:00] O que é isso?
+[165:00 - 165:02] O que é isso?
+[165:02 - 165:04] O que é isso?
+[165:04 - 165:06] O que é isso?
+[165:06 - 165:08] O que é isso?
+[165:08 - 165:10] O que é isso?
+[165:10 - 165:12] O que é isso?
+[165:12 - 165:14] O que é isso?
+[165:14 - 165:16] O que é isso?
+[165:16 - 165:18] O que é isso?
+[165:18 - 165:20] O que é isso?
+[165:20 - 165:22] O que é isso?
+[165:22 - 165:24] O que é isso?
+[165:24 - 165:26] O que é isso?
+[165:26 - 165:28] O que é isso?
+[165:28 - 165:30] O que é isso?
+[165:30 - 165:32] O que é isso?
+[165:32 - 165:34] O que é isso?
+[165:34 - 165:36] O que é isso?
+[165:36 - 165:38] O que é isso?
+[165:38 - 165:40] O que é isso?
+[165:40 - 165:42] O que é isso?
+[165:42 - 165:44] O que é isso?
+[165:44 - 165:46] O que é isso?
+[165:46 - 165:48] O que é isso?
+[165:48 - 165:50] O que é isso?
+[166:20 - 166:22] O que é isso?
+[166:22 - 166:24] É o que é isso?
+[166:24 - 166:26] É o que é isso?
+[166:26 - 166:28] É o que é isso?
+[166:28 - 166:30] É o que é isso?
+[166:30 - 166:32] É o que é isso?
+[166:32 - 166:34] É o que é isso?
+[166:34 - 166:36] É o que é isso?
+[166:36 - 166:38] É o que é isso?
+[166:38 - 166:40] É o que é isso?
+[166:40 - 166:42] É o que é isso?
+[166:42 - 166:44] É o que é isso?
+[166:44 - 166:46] É o que é isso?
+[166:46 - 166:48] É o que é isso?
+[166:48 - 166:50] O que é isso?
+[166:50 - 166:52] É o que é isso?
+[166:52 - 166:54] É o que é isso?
+[166:54 - 166:56] É o que é isso?
+[166:56 - 166:58] É o que é isso?
+[166:58 - 167:00] É o que é isso?
+[167:00 - 167:02] É o que é isso?
+[167:02 - 167:04] É o que é isso?
+[167:04 - 167:06] É o que é isso?
+[167:06 - 167:08] É o que é isso?
+[167:08 - 167:10] É o que é isso?
+[167:10 - 167:12] É o que é isso?
+[167:12 - 167:14] É o que é isso?
+[167:14 - 167:16] É o que é isso?
+[167:16 - 167:18] O que é isso?
+[167:18 - 167:20] O que é isso?
+[167:20 - 167:22] O que é isso?
+[167:22 - 167:24] O que é isso?
+[167:24 - 167:26] O que é isso?
+[167:26 - 167:28] O que é isso?
+[167:28 - 167:30] O que é isso?
+[167:30 - 167:32] O que é isso?
+[167:32 - 167:34] O que é isso?
+[167:34 - 167:36] O que é isso?
+[167:36 - 167:38] O que é isso?
+[167:38 - 167:40] O que é isso?
+[167:40 - 167:42] O que é isso?
+[167:42 - 167:44] O que é isso?
+[168:14 - 168:16] Você não sabe que a ligação é bem linda, você não sabe.
+[168:16 - 168:18] Você não sabe que a ligação é bem linda, você não sabe.
+[168:18 - 168:20] Você não sabe que a ligação é bem linda, você não sabe.
+[168:20 - 168:22] Você tem que esperar a cena de que vem para receber, então...
+[168:22 - 168:24] Tá de boa, tá de boa.
+[168:24 - 168:26] É, logo mais em passamento pegado.
+[168:26 - 168:28] Vamos todo para casa agora.
+[168:44 - 168:46] O que é isso?
+[168:46 - 168:48] O que é isso?
+[168:48 - 168:50] O que é isso?
+[168:50 - 168:52] O que é isso?
+[168:52 - 168:54] O que é isso?
+[168:54 - 168:56] O que é isso?
+[168:56 - 168:58] O que é isso?
+[168:58 - 169:00] O que é isso?
+[169:00 - 169:02] O que é isso?
+[169:02 - 169:04] O que é isso?
+[169:04 - 169:06] O que é isso?
+[169:06 - 169:08] O que é isso?
+[169:08 - 169:10] O que é isso?
+[169:10 - 169:12] O que é isso?
+[169:12 - 169:14] O que é isso?
+[169:14 - 169:16] O que é isso?
+[169:16 - 169:18] O que é isso?
+[169:18 - 169:20] O que é isso?
+[169:20 - 169:22] O que é isso?
+[169:22 - 169:24] O que é isso?
+[169:24 - 169:26] O que é isso?
+[169:26 - 169:28] O que é isso?
+[169:28 - 169:30] O que é isso?
+[169:30 - 169:32] O que é isso?
+[169:32 - 169:34] O que é isso?
+[169:34 - 169:36] O que é isso?
+[169:36 - 169:38] O que é isso?
+[169:38 - 169:40] O que é isso?
+[169:40 - 169:42] O que está a ver?
+[169:42 - 169:44] O que está a ver?
+[169:44 - 169:46] O que está a ver?
+[169:46 - 169:48] O que está a ver?
+[169:48 - 169:50] O que está a ver?
+[169:50 - 169:52] O que está a ver?
+[169:52 - 169:54] O que está a ver?
+[170:10 - 170:12] O que é isso?
+[170:12 - 170:14] O que é isso?
+[170:14 - 170:16] O que é isso?
+[170:16 - 170:18] O que é isso?
+[170:18 - 170:20] O que é isso?
+[170:20 - 170:22] O que é isso?
+[170:22 - 170:24] O que é isso?
+[170:24 - 170:26] O que é isso?
+[170:26 - 170:28] O que é isso?
+[170:28 - 170:30] O que é isso?
+[170:30 - 170:32] O que é isso?
+[170:32 - 170:34] O que é isso?
+[170:34 - 170:36] O que é isso?
+[170:36 - 170:38] O que é isso?
+[174:38 - 174:40] O que é isso?
+[174:40 - 174:42] O que é isso?
+[174:42 - 174:44] O que é isso?
+[174:44 - 174:46] O que é isso?
+[174:46 - 174:48] O que é isso?
+[174:48 - 174:50] O que é isso?
+[174:50 - 174:52] O que é isso?
+[174:52 - 174:54] O que é isso?
+[174:54 - 174:56] O que é isso?
+[174:56 - 174:58] O que é isso?
+[174:58 - 175:00] O que é isso?
+[175:00 - 175:02] O que é isso?
+[175:02 - 175:04] O que é isso?
+[175:04 - 175:06] O que é isso?
+[175:36 - 175:38] O que é isso?
+[175:38 - 175:40] O que é isso?
+[175:40 - 175:42] O que é isso?
+[175:42 - 175:44] O que é isso?
+[175:44 - 175:46] O que é isso?
+[175:46 - 175:48] O que é isso?
+[175:48 - 175:50] O que é isso?
+[175:50 - 175:52] O que é isso?
+[175:52 - 175:54] O que é isso?
+[175:54 - 175:56] O que é isso?
+[175:56 - 175:58] O que é isso?
+[175:58 - 176:00] O que é isso?
+[176:00 - 176:02] O que é isso?
+[176:02 - 176:04] O que é isso?
+[176:04 - 176:06] O que é isso?
+[176:06 - 176:08] O que é isso?
+[176:08 - 176:10] O que é isso?
+[176:10 - 176:12] O que é isso?
+[176:12 - 176:14] O que é isso?
+[176:14 - 176:16] O que é isso?
+[176:16 - 176:18] O que é isso?
+[176:18 - 176:20] O que é isso?
+[176:20 - 176:22] O que é isso?
+[176:22 - 176:24] O que é isso?
+[176:24 - 176:26] O que é isso?
+[176:26 - 176:28] O que é isso?
+[176:28 - 176:30] O que é isso?
+[176:30 - 176:32] O que é isso?
+[179:02 - 179:04] O que é isso?
+[179:04 - 179:06] O que é isso?
+[179:06 - 179:08] O que é isso?
+[179:08 - 179:10] O que é isso?
+[179:10 - 179:12] O que é isso?
+[179:12 - 179:14] O que é isso?
+[179:14 - 179:16] O que é isso?
+[179:16 - 179:18] O que é isso?
+[179:18 - 179:20] O que é isso?
+[179:20 - 179:22] O que é isso?
+[179:22 - 179:24] O que é isso?
+[179:24 - 179:26] O que é isso?
+[179:26 - 179:28] O que é isso?
+[179:28 - 179:30] O que é isso?
+[179:30 - 179:32] O que é isso?
+[179:32 - 179:34] O que é isso?
+[179:34 - 179:36] O que é isso?
+[179:36 - 179:38] O que é isso?
+[179:38 - 179:40] O que é isso?
+[179:40 - 179:42] O que é isso?
+[179:42 - 179:44] O que é isso?
+[179:44 - 179:46] O que é isso?
+[179:46 - 179:48] O que é isso?
+[179:48 - 179:50] O que é isso?
+[179:50 - 179:52] O que é isso?
+[179:52 - 179:54] O que é isso?
+[179:54 - 179:56] O que é isso?
+[179:56 - 179:58] O que é isso?
+[179:58 - 180:00] O que é isso?
+[180:00 - 180:02] O que é isso?
+[180:02 - 180:04] O que é isso?
+[180:04 - 180:06] O que é isso?
+[180:06 - 180:08] O que é isso?
+[180:08 - 180:10] O que é isso?
+[180:10 - 180:12] O que é isso?
+[180:12 - 180:14] O que é isso?
+[180:14 - 180:16] O que é isso?
+[180:16 - 180:18] O que é isso?
+[180:18 - 180:20] O que é isso?
+[180:20 - 180:22] O que é isso?
+[180:22 - 180:24] O que é isso?
+[180:24 - 180:26] O que é isso?
+[180:26 - 180:28] O que é isso?
+[180:28 - 180:30] O que é isso?
+[180:30 - 180:32] O que é isso?
+[180:32 - 180:34] O que é isso?
+[180:34 - 180:36] O que é isso?
+[180:36 - 180:38] O que é isso?
+[180:38 - 180:40] O que é isso?
+[180:40 - 180:42] O que é isso?
+[180:42 - 180:44] O que é isso?
+[180:44 - 180:46] O que é isso?
+[180:46 - 180:48] O que é isso?
+[180:48 - 180:50] O que é isso?
+[180:50 - 180:52] O que é isso?
+[180:52 - 180:54] O que é isso?
+[181:54 - 181:56] O que é isso?
+[181:56 - 181:58] É o papai aqui
+[181:58 - 182:00] O papai aqui
+[182:00 - 182:02] O papai aqui
+[182:02 - 182:04] O papai aqui
+[182:04 - 182:06] O papai aqui
+[182:06 - 182:08] O papai aqui
+[182:08 - 182:10] O papai aqui
+[182:10 - 182:12] O papai aqui
+[182:12 - 182:14] O papai aqui
+[182:14 - 182:16] O papai aqui
+[182:16 - 182:18] O papai aqui
+[182:18 - 182:20] O papai aqui
+[182:20 - 182:22] O papai aqui
+[183:22 - 183:52] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[183:52 - 183:54] O que é isso?
+[183:54 - 183:56] Não, não é isso.
+[183:56 - 183:58] Não, não é isso.
+[184:02 - 184:04] Não é uma moça de pano?
+[184:04 - 184:06] Não.
+[184:06 - 184:08] É uma moça de pano.
+[184:08 - 184:10] Não é?
+[184:10 - 184:12] Não.
+[184:22 - 184:52] O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o
+[184:52 - 184:54] e aí
+[184:54 - 184:56] e aí
+[184:56 - 184:58] e aí
+[184:58 - 185:00] e aí
+[185:00 - 185:02] e aí
+[185:02 - 185:04] e aí
+[185:04 - 185:06] e aí
+[185:06 - 185:08] e aí
+[185:08 - 185:10] e aí
+[185:10 - 185:12] e aí
+[185:12 - 185:14] e aí
+[185:14 - 185:16] e aí
+[185:16 - 185:18] e aí
+[185:18 - 185:20] e aí
+[185:20 - 185:22] o que é isso?
+[185:23 - 185:25] de novo de novo
+[185:50 - 186:02] Vamos, meu filho, vamos!
+[186:02 - 186:06] Não falha, não falha!
+[186:20 - 186:21] Aí, foi.
+[186:23 - 186:24] Apareceu aí?
+[186:24 - 186:25] Pegou.
+[186:28 - 186:29] Feito, feito.
+[186:29 - 186:30] Muito obrigado.
+[186:30 - 186:31] Muito obrigado.
+[186:31 - 186:33] Um bom dia e até a próxima.
+[186:33 - 186:34] Até a próxima.
+[187:20 - 187:22] O que é isso?
+[187:22 - 187:24] O que é isso?
+[187:24 - 187:26] O que é isso?
+[187:26 - 187:28] O que é isso?
+[187:28 - 187:30] O que é isso?
+[187:30 - 187:32] O que é isso?
+[187:32 - 187:34] O que é isso?
+[187:34 - 187:36] O que é isso?
+[187:36 - 187:38] O que é isso?
+[187:38 - 187:40] O que é isso?
+[187:40 - 187:42] O que é isso?
+[187:42 - 187:44] O que é isso?
+[187:44 - 187:46] O que é isso?
+[187:46 - 187:48] O que é isso?
+[188:48 - 188:50] O que é isso?
+[188:50 - 188:52] O que é isso?
+[188:52 - 188:54] O que é isso?
+[188:54 - 188:56] O que é isso?
+[188:56 - 188:58] O que é isso?
+[188:58 - 189:00] O que é isso?
+[189:00 - 189:02] O que é isso?
+[189:02 - 189:04] O que é isso?
+[189:04 - 189:06] O que é isso?
+[189:06 - 189:08] O que é isso?
+[189:08 - 189:10] O que é isso?
+[189:10 - 189:12] O que é isso?
+[189:12 - 189:14] O que é isso?
+[189:14 - 189:16] O que é isso?
+[189:46 - 189:56] ...
+[189:56 - 190:06] ...
+[191:06 - 191:11] ...
+[191:11 - 191:16] ...
+[191:16 - 191:21] ...
+[191:21 - 191:26] ...
+[191:26 - 191:31] ...
+[193:01 - 193:03] O que é isso?
+[193:03 - 193:05] O que é isso?
+[193:05 - 193:07] O que é isso?
+[193:07 - 193:09] O que é isso?
+[193:09 - 193:11] O que é isso?
+[193:11 - 193:13] O que é isso?
+[193:13 - 193:15] O que é isso?
+[193:15 - 193:17] O que é isso?
+[193:17 - 193:19] O que é isso?
+[193:19 - 193:21] O que é isso?
+[193:21 - 193:23] O que é isso?
+[193:23 - 193:25] O que é isso?
+[193:25 - 193:27] O que é isso?
+[193:27 - 193:29] O que é isso?

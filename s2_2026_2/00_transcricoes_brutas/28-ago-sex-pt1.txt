@@ -1,0 +1,1624 @@
+--- TRANSCRIÇÃO GPU WHISPER: 2026-08-28 Sexta Parte 1 (Voz 260828_081814.m4a) ---
+Duração: 123:51 | Tempo de Inferência: 5.62 min (337.4s)
+
+[00:00 - 00:11] A gente está em uma fase de concentração, essa fase deve demorar mais uma aula, o máximo.
+[00:11 - 00:15] Depois a gente vai começar a prática.
+[00:15 - 00:20] E aí, aqui expõe as linhas gerais.
+[00:20 - 00:23] Como é que vão ser essas práticas?
+[00:23 - 00:29] e insere essas práticas, que são essas partes em vermelho
+[00:30 - 00:34] dentro de um processo de engenharia de software.
+[00:34 - 00:36] O processo de engenharia de software é um processo
+[00:37 - 00:41] que determina ou pelo menos orienta como você deve desenvolver software.
+[00:46 - 00:48] Então, desenvolver software não é.
+[00:48 - 00:56] Logo após entender ou escutar o que o usuário pediu, cliente, direto para a marca.
+[00:56 - 01:06] Não é assim, e tem todo um rito, tem diversas formatações, mas no geral, todos esses ritos seguem essas etapas
+[01:06 - 01:09] e foi isso que a gente viu um pouco na aula passada.
+[01:09 - 01:17] Então, vamos dar uma passada rápida no que a gente viu na aula passada e continuar essa conceituação para, então, a gente começar a parte prática.
+[01:17 - 01:21] Bom, esse rito, esse processo, ele tem como a gente falou,
+[01:21 - 01:26] no geral, essas fases podem variar um pouco,
+[01:26 - 01:31] mas elas normalmente não existem,
+[01:31 - 01:35] mas a fase de análise, projetos, movimento,
+[01:35 - 01:38] teste, varidação, implotações, introduções,
+[01:38 - 01:39] mantém com não atenção.
+[01:40 - 01:45] E leva a construção desde o que o usuário quer,
+[01:45 - 01:49] que é esse levantamento de riquezito não faz parte dessa cadeira
+[01:51 - 01:57] mas é bom dia, então tem técnicas específicas como a gente falou, existem estratégias específicas
+[01:57 - 02:06] existem métodos específicos e seguindo aí sim nessa cadeira não que a gente vá descrever um sistema
+[02:06 - 02:11] Você vai descrever um sistema lá na cadeira de PIM,
+[02:11 - 02:15] você vai continuar o sistema da semestra anterior,
+[02:15 - 02:17] vai resolver a cabina com você.
+[02:18 - 02:20] Mas nessa cadeira, isso aqui está em vermelho,
+[02:20 - 02:23] porque a despeita de descrever um sistema,
+[02:23 - 02:27] a gente vai definir um requisito.
+[02:27 - 02:29] Requisito ter uma necessidade de usuário,
+[02:29 - 02:32] uma necessidade nesses nossos casos de fictícia.
+[02:32 - 02:34] Nesses nossos casos vai ser bem simples,
+[02:34 - 02:36] vai ser a especificação de relatório.
+[02:36 - 02:38] que é especificação de relatório.
+[02:38 - 02:42] Imaginemos o que o usuário, que é um relatório,
+[02:42 - 02:49] que liste as cadeiras, os professores, os alunos e a nota,
+[02:49 - 02:50] num mesmo de um relatório.
+[02:50 - 02:53] A gente vai começar com esse requisito bem simples.
+[02:53 - 02:58] Então, a primeira coisa que a gente vai fazer,
+[02:58 - 03:01] se a gente conseguir evoluir, a gente pode expandir isso
+[03:01 - 03:02] para mais requisitos,
+[03:02 - 03:09] Mas para a gente seguir de uma forma que a gente veja tudo no nível de profundidade,
+[03:09 - 03:11] que permita a gente discutir direitinho os desafios,
+[03:13 - 03:15] a gente começa com um requisito bem simples.
+[03:16 - 03:19] Lembrando aqui que um sistema basicamente é
+[03:19 - 03:22] entradas, processamento e saída.
+[03:23 - 03:25] E a saída consulta e relatorca.
+[03:25 - 03:26] Então é isso que o sistema faz.
+[03:26 - 03:29] Qualquer sistema tem a entrada de dados, que é o do campo,
+[03:29 - 03:38] Qualquer sistema, processa esses dados que é processar, faz algum cálculo, toma alguma decisão,
+[03:38 - 03:43] qualquer sistema dá resultado, pode ser qualquer sistema de verdade.
+[03:43 - 03:48] Aiá, aiá, isso aqui também.
+[03:48 - 03:54] Então, o que eu gosto de dizer sobre aiá é que o lado bom da aiá que não tem nenhum
+[03:54 - 04:00] um mistério, ele é um algoritmo como é um sistema como qualquer outro, tem entrada
+[04:00 - 04:07] e o processamento é saído. Só que é um algoritmo, é um programa muito bem planejado,
+[04:07 - 04:13] não é um foco aqui dessa cadeira e outras cadeiras de arte vai, se a gente se encontrante
+[04:13 - 04:23] vai poder conversar sobre isso. Só um detalhe sobre essa questão de esse modelo de sistema,
+[04:23 - 04:26] Até por conta desse movimento da IA,
+[04:26 - 04:28] quem, se hoje ou de hoje, amanhã, está valendo?
+[04:30 - 04:33] Vou justificar que eu atrasei o carguesco, mas contribuiu.
+[04:33 - 04:35] Mas, não justifica, claro.
+[04:36 - 04:38] Tem se desenvolvido,
+[04:38 - 04:40] depois eu posso passar para vocês,
+[04:40 - 04:41] eu ganho dessas referências,
+[04:42 - 04:43] pesquisas,
+[04:44 - 04:45] que
+[04:46 - 04:49] modificam essa arquitetura da máquina.
+[04:49 - 04:50] A gente começou, na hora passada,
+[04:50 - 04:51] com essa arquitetura da máquina,
+[04:51 - 04:56] Ela já foi definida, pensada, a mais de 80 anos.
+[04:56 - 04:59] O que é a arquitetura da máquina?
+[04:59 - 05:02] Como é que os componentes eletrônicos estão organizados?
+[05:02 - 05:07] Essa máquina, assim como qualquer outra, no geral tem uma CPU,
+[05:07 - 05:11] que é uma unidade de processamento que faz cálculo intimético e lógico.
+[05:11 - 05:13] Unidade central de processamento.
+[05:13 - 05:17] Que é a amazena. Ela tem nessa unidade,
+[05:17 - 05:20] que é uma unidade de processamento, não é amazena, ela é secota comandos.
+[05:20 - 05:28] Tem uma memória, chamada memória volátil, memória RAM, que é a masena dada dos seus programas.
+[05:28 - 05:35] Tem barramentos que são via de comunicação antonica, e a memória CPU.
+[05:35 - 05:41] E tem registradores que são espaços de memória mais rápidos.
+[05:41 - 05:46] Para formar geral essa arquitetura dessa máquina, no formar geral tem outros componentes.
+[05:46 - 05:48] É isso. Só que...
+[05:48 - 05:49] Vunonima, né?
+[05:49 - 05:50] Vunonima.
+[05:50 - 05:53] É a arquitetura de Vunonima, um matemático.
+[05:53 - 05:55] A descrição do Miguel era 1946.
+[05:55 - 05:56] Ele propôs isso.
+[05:56 - 06:01] E ele propôs porque ele não era assim quando a gente fala ele, mas era um grupo, né?
+[06:01 - 06:05] Porque antes disso, programar era pulgando, né?
+[06:05 - 06:10] Quando a pessoa se tomava, assim, e derrotou, você pulgou um fio aqui, pulgou um fio aqui,
+[06:10 - 06:11] então era assim.
+[06:11 - 06:15] Então aquela configuração era para resolver um problema.
+[06:15 - 06:24] E era muito trabalhoso, obviamente, um pouco potencial, um pouco potencial baixo.
+[06:24 - 06:30] E aí o Vanouya ensinou, rapazes, o novo programado desse jeito, fisicamente.
+[06:30 - 06:34] Imaginá-lo, acho, tudo, uma arquitetura que traga o programa, uma matéria da mágica.
+[06:34 - 06:39] Mas essa, não é a... no sentido dessa cadeira, você vai ver esse arquiteto entre computadores,
+[06:39 - 06:46] de um tipo, ela está evoluindo para ter uma arquitetura biológica.
+[06:46 - 06:49] O que seria essa arquitetura biológica?
+[06:49 - 06:56] É um computador cujos chips, as unidades de processamento,
+[06:56 - 07:01] restam a biologia, celos com eletról.
+[07:01 - 07:04] Se isso for por aí, e é isso que eu estava lendo,
+[07:04 - 07:14] e tem gente aí nós poderemos imaginar um tipo de sistema que se semeia ser humano.
+[07:14 - 07:18] Esse que a gente está vendo ele é puramente matemático.
+[07:18 - 07:22] Apesar de que é muito genioso, né?
+[07:22 - 07:23] Assim é muito genial.
+[07:23 - 07:26] Ele é o que o pessoal fala assim.
+[07:26 - 07:32] Do precisa a gente voar como pombo para poder voar.
+[07:32 - 07:41] A gente simula o voo do pão, olha, a gente, o neguite simula o voo do pão, a gente voa de uma forma diferente dos pombos, mas a gente voa.
+[07:41 - 07:48] Então, essa máquina, ela não pensa igual ao ser humano, né?
+[07:48 - 07:52] Mas ela simula o pensamento ser humano, você pensa que está falando com o ser humano.
+[07:53 - 07:58] Mas ela vai ficar limitada, isso dei há 20 anos que eu falo isso.
+[07:58 - 08:03] Ela vai ficar limitada, porque ela só calcula e a nossa mente não só calcula.
+[08:03 - 08:07] A nossa mente tem outras habilidades que não são matemáticas.
+[08:07 - 08:10] Mas um computador biológico pode ser aquele...
+[08:11 - 08:14] Vai passar isso e isso tem acontecido.
+[08:14 - 08:15] Mas diga lá, se a gente continuar.
+[08:15 - 08:18] O biológico seria mais rápido, pãe?
+[08:19 - 08:22] Ele é um outro tipo de objetivo.
+[08:22 - 08:26] Na verdade, não dá nem pra dizer ainda, porque isso não está em laboratório, sabe?
+[08:26 - 08:33] Eu acredito que ele não seria, mas ele teria uma capacidade que o quântico não terá,
+[08:33 - 08:41] porque o quântico nada mais é do que escalar, o que é que é escalar, aumentar a capacidade que esses já têm.
+[08:41 - 08:45] O único que o quântico faz, quer dizer, é a única coisa,
+[08:45 - 08:52] mas é uma coisa muito poderosa, é que ele paraleliza o processamento, isso é?
+[08:52 - 08:54] Isso é uma diferença muito grande.
+[08:54 - 08:56] Deixa eu ver aqui um exemplo.
+[08:58 - 09:07] Se você sair daqui para uma cidade no Rio Grande do Sul e quiser saber qual é a rota,
+[09:07 - 09:13] vamos supor de cada cidade para cada cidade você tem algum benefício, sei lá,
+[09:13 - 09:15] uma venda que você vai fazer, certo?
+[09:15 - 09:20] Então, a quantidade de possibilidades que você tem de sair daqui para Rio Grande do Sul,
+[09:20 - 09:27] do Sul, considerando todos os possíveis caminhos, se você fizer um programa para
+[09:27 - 09:34] deixar eu medir esse caminho, deu 10 pontos, deixa eu medir esse caminho, somando todos
+[09:34 - 09:38] os 15 pontos, deixa eu medir esse caminho, o que é medir esse caminho?
+[09:38 - 09:43] Eu vou somando cada trecho que eu ganho, sabe?
+[09:43 - 09:50] Dependendo dessa quantidade de possibilidades, você leva 20 anos para decidir, porque esse
+[09:50 - 09:55] Esse computador faz essa arquitetura, faz o processamento serial.
+[09:55 - 09:58] Ele faz primeiro isso, depois esse, depois esse.
+[09:58 - 10:00] A medida que você usa alguma inteligência,
+[10:00 - 10:04] a inteligência tem que ter cuidado com esse tempo, inteligência,
+[10:04 - 10:07] alguma estratégia, que tinha meorística, alguma lógica,
+[10:07 - 10:11] que diga, eu vou desconsiderar todas essas, eu vou por essa aqui.
+[10:11 - 10:14] O que é que o Cântico faz? Ele faz o todo mundo paralelo.
+[10:14 - 10:21] Então, coisas que sairiam em 20 anos vai sair em...
+[10:21 - 10:24] ...moloras.
+[10:24 - 10:27] E o grande expoente do quântico, assim, dá...
+[10:27 - 10:31] Então, assim, é todo problema que vale a pena você usar o computador quântico.
+[10:31 - 10:36] Só normalmente, problemas que têm essa quantidade de combinações,
+[10:36 - 10:38] é a serem tratadas, certo?
+[10:38 - 10:40] O jogo de xadrez é outro.
+[10:40 - 10:43] Se a máquina ao jogar xadrez, ela fosse ver
+[10:43 - 10:49] todas as possíveis jogadas dela e a partir das possíveis jogadas dela assimolaço todas as
+[10:49 - 10:56] possíveis jogadas do outro e as possíveis jogadas dela né até o checkmate ela ia passar
+[10:56 - 11:03] milhões de anos para fazer a jogada como quanto isso vai ser paralelo então o quanto ele vai
+[11:03 - 11:10] continuar fazendo cálculo e aí volta pro mesmo problema a nossa mente não faz só cálculo a
+[11:10 - 11:13] A gente tem muito mais do que só fazer calco, né?
+[11:13 - 11:17] Quando a gente negocia, quando a gente tem senso crítico, quando a gente...
+[11:20 - 11:22] Pondera, quando a gente tem sentimento,
+[11:22 - 11:25] então tudo isso são características que muitos entendem
+[11:26 - 11:28] e que não é a partir da matemática, sabe?
+[11:29 - 11:30] E essa máquina só faz calcular.
+[11:31 - 11:33] E o gônico também só vai fazer calcular.
+[11:33 - 11:38] Então vai trazer uma habilidade talvez, esse computador, né?
+[11:38 - 11:46] com o carácter de ideologia, de ele estar aqui e ele começar a observar e evoluir
+[11:46 - 11:51] na sua inteligência, se bem lente a gente.
+[11:51 - 11:57] Se botar uma criança aqui, ela evolui, presta atenção, experimentando.
+[11:57 - 12:05] Ela não vai ficar batendo nessa cabeça, nessa porta para sair.
+[12:05 - 12:10] Ela vai observar, ela pode até bater uma vez, mas a segunda ela vai observar que a gente faz assim
+[12:10 - 12:13] e ela mesmo vai aprender. A máquina não.
+[12:15 - 12:22] Temos essa cartão da alta cidade, tem de como poder demonstrar isso, né?
+[12:22 - 12:24] Tem diversas, tá?
+[12:24 - 12:26] Vamos ver o que é...
+[12:26 - 12:28] Ó, hein?
+[12:30 - 12:32] Ó, hein? Quatro real.
+[12:32 - 12:34] Tem diversas. Tem diversas.
+[12:34 - 12:43] Esse tipo de coisa é um assunto vinculado a RIA também, mas há um assunto da computação
+[12:43 - 12:44] chamada grafos, né?
+[12:44 - 12:48] Então tem diversos algoritmos e estudos e isso.
+[12:48 - 12:54] Isso é uma coisa muito desafiadora porque tem muitas informações no mundo que são
+[12:54 - 12:56] conectadas por diversos caminhos, né?
+[12:56 - 13:02] E, por exemplo, a rede social é uma conexão de grafos.
+[13:02 - 13:04] muita gente conectando com muita gente.
+[13:04 - 13:06] Mas vamos voltar para cá.
+[13:06 - 13:10] Então, depois na análise, veja,
+[13:10 - 13:12] essa cadeira são os 11.5, mas eu estou...
+[13:12 - 13:14] a gente expandiu na aula passada.
+[13:14 - 13:16] Você tem um diagrama de casos de uso,
+[13:16 - 13:18] você tem outros diagramas,
+[13:18 - 13:20] você vai ver...
+[13:20 - 13:22] normalmente não.
+[13:22 - 13:25] Você vai ver na cadeira de projeto de software funcional,
+[13:25 - 13:28] que é a cadeira que foca mais na energia de software.
+[13:28 - 13:31] E nessa fase de análise,
+[13:31 - 13:34] que a gente faz o modelo de entidade e relacionamento.
+[13:34 - 13:37] O modelo de entidade e relacionamento é de ver nessa cadeira.
+[13:37 - 13:40] Então só já lembrando que é o modelo de entidade e relacionamento.
+[13:40 - 13:42] O modelo de entidade e relacionamento...
+[13:42 - 13:44] Eu só vou fazer aqui, só.
+[14:01 - 14:27] Bom dia.
+[15:01 - 15:13] Então, o modelo de entidade e relacionamento, depois que você escuta ou entende o que o
+[15:13 - 15:21] usuário quer, relatório que liste as cadeiras, seus professores, seus alunos e as notas
+[15:21 - 15:23] dos alunos na cadeira.
+[15:23 - 15:25] Você quer esse relatório?
+[15:25 - 15:28] Você vai fazer essa moda lágrima.
+[15:28 - 15:35] E aí essa modelagem basicamente é o seguinte, você vai identificar quais são os conjuntos
+[15:35 - 15:39] de informações que a gente chama de tabelas ou entidades.
+[15:39 - 15:44] Ah, então eu vou precisar de uma tabela de funcionário, de professores, uma tabela
+[15:44 - 15:51] de alunos, uma tabela de notas, uma tabela de cadês.
+[15:51 - 15:56] Você identifica para cada tabela dessa quais são os atributos e os tipos do atributo.
+[15:56 - 16:08] a tabela de alunos, tem que ter o nome do aluno, a matricula do aluno, a matricula do aluno, ela é numérica, ela é afonomérica, tudo isso em função da definição dos requisitos que o usuário deu.
+[16:09 - 16:24] Se o usuário diz, aqui na minha faculdade a matrícula é só número, mas você cria na modela ágil, um atributo, um campo, a guardar essa matrícula na tabela de alunos, o nome é.
+[16:24 - 16:33] Ele decide a ele, mas eu acho melhor colocar o fenomérico, não, mas você tem que viver com ele, né?
+[16:33 - 16:36] Ele que diz, olha o número, porque você colocar o fenomérico?
+[16:36 - 16:39] Ah, não, porque normalmente não, normalmente não.
+[16:39 - 16:44] Você pode até entender que o fenomérico seria melhor por algum motivo, então você volta lá falar com ele
+[16:44 - 16:48] e diz, olha, não é melhor o fenomérico, porque o cara desse motivo, outro.
+[16:48 - 16:51] E o motivo não é, porque normalmente o pessoal faz isso, não é motivo.
+[16:51 - 16:53] Você tem que ter uma motivação.
+[16:53 - 16:56] Então o soltório diz o seguinte, ele é quem determina as regras.
+[16:56 - 16:59] Você tem abertura como personal de TI,
+[16:59 - 17:04] e se você conhecer esse negócio que você está automatizando,
+[17:04 - 17:06] você tem abertura para fazer sugestões.
+[17:06 - 17:09] Mas a palavra final é dele, tá certo?
+[17:09 - 17:11] E se você for dom da sua própria empresa,
+[17:11 - 17:13] que tiver de envolver na sua própria solução,
+[17:13 - 17:17] você vai ouvir o mercado, tá?
+[17:17 - 17:25] Não sei se cometer com vocês, eu não fui ainda bem porque o sinal estava faltando aula, mas semana passada foi para o startup Summit.
+[17:25 - 17:37] Sata Catarina, hoje não dá mais fácil escrever, mas as palestras online, elas estarão disponíveis online, né?
+[17:37 - 17:44] E tem uma palestra hoje que é de um cara chamado Uri Lavini, acho que é isso.
+[17:44 - 17:46] Ele é um dos fundadores do Waze,
+[17:46 - 17:50] ele vendeu o Waze por um bilhão de dólares.
+[17:50 - 17:53] Ele também fundou outra empresa,
+[17:53 - 17:56] que ele vendeu também por um bilhão de dólares.
+[17:56 - 18:03] E ele nessa palestra, ele vai falar algo que tem a ver com isso tudo nós estamos falando,
+[18:03 - 18:06] ele escreveu um livro chamado,
+[18:06 - 18:08] o título do livro é,
+[18:08 - 18:10] Se Apaixona Isso Pelo Problema,
+[18:10 - 18:12] E Não Pela Solução.
+[18:12 - 18:19] E ele, eu li recentemente, eu tenho que ter também a reportagem, que ele vai lançar um
+[18:19 - 18:29] outro startup, que é um startup de treinamento, em que ele vai ensinar em vários módulos,
+[18:29 - 18:32] junto com outros profissionais, um desafio de empreender.
+[18:32 - 18:40] Eu não sei direito quanto é que vai ser esse acesso a esse material, mas não deve ser
+[18:40 - 18:44] barato, mas deve ser um material muito rico para quem quer empreender.
+[18:44 - 18:48] E por que eu estou falando isso aqui? Quer que tenha a ver com isso?
+[18:48 - 18:56] Quando eu falei, se você vai fazer um sistema para o mercado, você tem que ouvir o mercado
+[18:56 - 19:03] para os seus clientes. Ah não, mas eu entendo que vão gostar disso aqui, porque eu já
+[19:03 - 19:12] trabalhei nessa área e eu gostava, essa funcionalidade me atendia, mas será que atende mesmo? A gente
+[19:12 - 19:23] saiu para trabalho do banco, do Nordeste lá tem uma área de inovação que também trata
+[19:23 - 19:33] muito dessa questão do emprendedorismo e o banco tem investe, né, poder de fundos em
+[19:33 - 19:42] empresas startups, né, mas quem faz a análise se startup A, B, C merece esse dinheiro e
+[19:42 - 19:47] é dinheiro grande, né, dinheiro assim, um milhão, dois bilhões, startups que já têm
+[19:47 - 19:54] algo mais evoluído. Quem decide se vai investir na startup ao BC não é o banco, é um gestor
+[19:54 - 19:59] que o banco escolheu e esse gestor às vezes a gente participa e tal, o critério dele
+[19:59 - 20:04] exatamente é esse. Por mais que você ache que sua ideia é muito boa, ele vai perguntar
+[20:04 - 20:09] quem é que está sem dormir por conta dessa sua ideia aí, quem é que está esperando
+[20:09 - 20:14] isso muito. Então não adianta muito você tomar decisões, por mais que você ache que
+[20:14 - 20:18] é super adequado. Então voltando para cá, não adianta muito,
+[20:18 - 20:25] não é o caminho você colocar na modelagem certas informações que você acha que talvez
+[20:25 - 20:31] vá precisar. O cara pediu um relatório que tenha professor, cadeira, aluno e nota. Aí
+[20:31 - 20:42] você cria também na modelagem outras tabelas, por exemplo, tabela de administradores, da
+[20:42 - 20:44] a faculdade, porque ela não pediu isso.
+[20:44 - 20:46] Ah, mas futuramente não vai pedir.
+[20:46 - 20:47] Então funciona assim.
+[20:47 - 20:51] Se você consegue colocar mais,
+[20:51 - 20:54] sempre adjudicar os seus prazos, a qualidade,
+[20:54 - 20:57] aí é um problema que você decide só.
+[20:57 - 20:59] Mas você não vai poder colocar algo a mais
+[20:59 - 21:02] que o cara não pediu e depois dizer que atrasou,
+[21:02 - 21:04] porque você colocou algo a mais que você decidiu colocar.
+[21:04 - 21:07] Ele vai dizer, eu não pedi de fazer isso, você faz isso.
+[21:07 - 21:09] Então tem que ter esse bom senso, certo?
+[21:09 - 21:11] Então essa modelagem, ela define isso.
+[21:11 - 21:17] mas ela define, além dos estastaberas, dos atributos, uma coisa importantíssima.
+[21:17 - 21:23] Por isso é que ele é chamado modelo relacional, que é o relacionamento das informações.
+[21:23 - 21:27] Aí é onde precisa parar para pensar mais.
+[21:27 - 21:34] O relacionamento das informações, e vou dar só um exemplo, porque a gente vai ver depois,
+[21:34 - 21:43] na prática, a gente precisa das cadeiras, dos professores dessas cadeiras.
+[21:43 - 21:48] Então o relacionamento vai atrás de responder esse tipo de pergunta.
+[21:48 - 21:53] Uma cadeira, tem quantos professores ministrando?
+[21:53 - 22:02] E sempre que vem à mente, é óbvio a resposta, não venha a resposta óbvia pra você.
+[22:02 - 22:06] É muito comum que uma cadeira só tenha um professor,
+[22:06 - 22:11] mas pode ser que o sistema que você tem a desenvolver
+[22:11 - 22:13] para uma certa faculdade não seja assim.
+[22:13 - 22:15] Então tudo tem que ser confirmado.
+[22:15 - 22:21] Então a cadeira da minha faculdade pode ter até três professores,
+[22:21 - 22:24] é o relacionamento às informações.
+[22:24 - 22:26] E aí você faz depois a pergunta inversa.
+[22:26 - 22:31] Um professor pode estar ministrando mais de uma cadeira,
+[22:31 - 22:36] É óbvio, não existe nada óbvio.
+[22:36 - 22:41] Pode ser o caso de cada professor soltar em algum momento em uma única cadeira, pode
+[22:41 - 22:46] ser o caso de uma faculdade que um professor pode estar em mais de uma cadeira.
+[22:46 - 22:49] Então isso é o relacionamento.
+[22:49 - 22:51] É isso que dá trabalho.
+[22:51 - 23:02] Porque esse relacionamento ele está próximamente ligado à definição do negócio, daquela
+[23:02 - 23:06] faculdade e cada um pode ter suas particularidades.
+[23:06 - 23:07] Onde é que começa a complicar?
+[23:07 - 23:12] Quando você for fazer um sistema que vai atender a diversas faculdades.
+[23:12 - 23:19] Então seu modelo tem que ser flexível de um jeito que se ele chegar numa faculdade
+[23:19 - 23:25] que tem um relacionamento 1 para 1, uma cadeira só um professor,
+[23:25 - 23:28] e um professor em várias cadeiras, funcione,
+[23:28 - 23:32] e que tenha N para N, uma cadeira com N professores,
+[23:32 - 23:36] um professor em N cadeiras, também funciona.
+[23:36 - 23:41] Isso, quando você vai fazer um sistema que vai ter pro objetivo
+[23:41 - 23:44] ser vendido para diversos clientes, que é a grande parte do sistema,
+[23:44 - 23:49] para quem trabalha para o mercado,
+[23:49 - 23:55] Isso traz uma complexidade na modelagem, mas isso traz uma complexidade também na lógica.
+[23:55 - 24:01] Lembra que a gente falou na ultima passada, eu vou já relembrar que você tem dois grandes mundos.
+[24:01 - 24:06] Você tem um mundo da lógica, do algoritmo, que não é essa cadeira,
+[24:06 - 24:10] e você tem um mundo da lógica dos dados, que é essa cadeira.
+[24:11 - 24:16] Quando você faz um sistema genérico, você também traz dificuldade na lógica do algoritmo,
+[24:16 - 24:18] que ele tem que ser flexível também.
+[24:19 - 24:22] Então, isso é o que vai acontecer na Nanda Lágem.
+[24:23 - 24:25] Beijo bem.
+[24:26 - 24:29] Uma empresa, aí eu vou trazer de novo,
+[24:29 - 24:31] ou para minha experiência do Banco do Nordeste.
+[24:31 - 24:33] Mas isso aplica a diversas empresas.
+[24:33 - 24:35] Eu estou no Banco PN 2006,
+[24:35 - 24:39] mas trabalho dessa área vai muito tempo.
+[24:39 - 24:42] E essa área dessa cadeira,
+[24:42 - 24:45] ela é muito importante.
+[24:45 - 24:47] Então, desenvolvimento desse sistema, certo?
+[24:47 - 24:51] E beija bem, nós não estamos falando de nenhuma,
+[24:51 - 24:55] nenhuma tecnologia, termo de ferramenta.
+[24:55 - 24:59] Como eu falei na ano passado, isso aqui é atemporal, isso aqui daqui a...
+[24:59 - 25:05] Se não mudar, não criar um novo paradigma, daqui a 15 anos, tudo isso que eu estou falando tem verdade.
+[25:05 - 25:09] Eu já comentei com vocês, já tenho uma postura de 1990,
+[25:09 - 25:13] escrita a mão, para o professor Araújo, como eu tenho com vocês,
+[25:13 - 25:17] que é uma referência, ele está quase se aposentando já, ou não, está aposentado já,
+[25:18 - 25:25] que ainda é válido hoje em dia, porque isso aqui é conceitual, isso aqui é entender o relacionamento
+[25:25 - 25:31] entre os dados, isso nunca mais mudou, isso é? Por que? Porque é o modelo vigente, esse modelo
+[25:31 - 25:37] de relacionamento, existe, sempre foi assim, não, para trás eram outros modelos, mas é o que
+[25:37 - 25:42] que domina a parte do mercado.
+[25:42 - 25:50] E só para a gente sair desse ponto, os sistemas, eles...
+[25:50 - 25:54] Em casa, eles põem-se, põem-se, é possível?
+[25:54 - 25:57] Eu tenho ela, ela é menor, mano.
+[25:57 - 25:59] Eu posso disponibilizar do seu irmão.
+[25:59 - 26:04] O seu irmão não quer, porque ela é escrita a mão, pessoal, sério?
+[26:04 - 26:06] Eu acho até que eu tenho um digitar aqui.
+[26:06 - 26:11] Você é tão de professor, mas você pega e não diz que foi o que veio.
+[26:11 - 26:15] Porque, poxa, o pessoal confunde muito,
+[26:15 - 26:17] o meu entendimento é de muitos.
+[26:17 - 26:24] Não confunda tecnologias que avançam ferramentas, isso é super vago,
+[26:24 - 26:27] não confunda isso com conceitos.
+[26:27 - 26:32] A gente conversou na aula passada, esses dois mundos eles andam em paralelo.
+[26:32 - 26:36] Existem domínios que você está sendo treinado e será
+[26:36 - 26:38] na, nos conceitos,
+[26:38 - 26:41] que é que vai te capacitar
+[26:42 - 26:44] a, pode vir a ferramenta que for,
+[26:44 - 26:45] tu vai se adaptar.
+[26:46 - 26:48] Porque se tu for treinado, doente ferramenta,
+[26:49 - 26:50] tu vai ficar
+[26:50 - 26:52] refenda aquela ferramenta.
+[26:53 - 26:54] Então você,
+[26:54 - 26:56] tem que equilibrar certas coisas.
+[26:56 - 26:58] Ferramenta é o mestre de obra.
+[26:59 - 27:01] Sem nenhum demeto, mestre de obra é um técnico.
+[27:02 - 27:07] Engenheiro de software é o engenheiro, é o cara que pensa na solução.
+[27:07 - 27:10] Então, se você está sendo treinado para ser esse engenheiro,
+[27:10 - 27:13] independentemente das técnicas aqui que vão mudar.
+[27:14 - 27:20] Então, ela é manual e ela tem muito mais coisa do que a gente vai ver,
+[27:20 - 27:25] mas ela é uma boa referência, mas é nessa linha de conceito.
+[27:25 - 27:33] E eu ia dizer o seguinte, os sistemas empresariais corporativos, novamente reforço, você não
+[27:33 - 27:39] está aqui na faculdade para fazer pequenos aplicativos, que também é válido.
+[27:39 - 27:44] Você está aqui para trabalhar e ser capaz de desenvolver grandes projetos.
+[27:44 - 27:46] Se envolver em grandes projetos.
+[27:46 - 27:50] E grandes projetos, aí eu volto de novo a falar do Banco Nordeste.
+[27:50 - 27:55] um banco com um banco nordeste que é um banco médio, o banco nordeste tem 7 mil funcionários,
+[27:55 - 28:01] tem 300 agências no Nordeste, Nordes Subedition, Nordemínio e Gerais, que área de atuação.
+[28:01 - 28:05] Mesmo comparado com o Banco do Brasil, muito tal, o cobradeste mais do Banco do Bado do
+[28:05 - 28:10] Banco Nordeste tem aproximadamente 300 sistemas.
+[28:10 - 28:19] Cada sistema desse utiliza, acessa aproximadamente umas 80 tabelas, cada tabela tem 50 a 60
+[28:19 - 28:25] campos. Então todas essas taberas, todas não, mas muitas delas se relacionam. Então esse
+[28:25 - 28:34] mudeiro é enorme, certo? Significa o seguinte, que entre transformar a necessidade de uma
+[28:34 - 28:42] área do banco, do cenário, num modelar, você tem que analisar tudo isso que eu estou falando.
+[28:42 - 28:50] Não dá para você ir fazendo de qualquer jeito, porque senão vai ficar a chance de você perder alguma informação,
+[28:50 - 28:56] ou não entender algo, ou não incluir algum relacionamento que seja necessário muito alto.
+[28:57 - 29:01] É como se fosse fazer um prédio sem fazer um projeto.
+[29:02 - 29:07] A chance de cair também era alta, pode não cair, mas se cair mata a gente.
+[29:07 - 29:14] Por que um projeto, um prédio, não se faz sem essa fase de pensar, de planejar?
+[29:14 - 29:19] Porque quando o prédio desse é construído sem esse planejamento, se cai e morre em gente.
+[29:19 - 29:21] Só que o sistema é muito fácil.
+[29:21 - 29:26] Você, ao receber a demanda, corre para a máquina e faze.
+[29:26 - 29:27] Porque não morre ninguém.
+[29:27 - 29:28] Aparentemente, né?
+[29:28 - 29:31] Dá pedindo o sistema até morre, mas no geral não morre.
+[29:31 - 29:34] Você vai perder dinheiro, você vai ter problema de imagem,
+[29:34 - 29:36] você vai ter problema de performance,
+[29:36 - 29:41] Você vai ter um problema de qualidade porque não vai atender o usuário, mas não morre ninguém.
+[29:41 - 29:45] Então tem essa tendência a seguir esse câmbio.
+[29:45 - 29:46] Beleza?
+[29:46 - 29:54] Então a gente depois viu, tem uma parte do projeto que você refina os diagramas, tem vários outros
+[29:54 - 29:57] diagramas que a gente fala aqui porque é de outra cadeira.
+[29:57 - 30:06] Você, na fase de projeto, projeta a arquitetura do sistema, que são os componentes, os servidores,
+[30:06 - 30:08] quais são as tecnologias, as comunicações estão,
+[30:08 - 30:13] a fase de projetos de genéia de software se aproxima da solução.
+[30:13 - 30:15] Não ser refina como eu falei, mas nessa cadeira
+[30:16 - 30:19] a gente vai começar a elaborar os scripts
+[30:19 - 30:22] que materializam esse modelo.
+[30:22 - 30:25] Esse modelo é um modelo que você faz em outra ferramenta,
+[30:25 - 30:26] pode até fazer no papel,
+[30:26 - 30:29] mas tem ferramentas que ajudam você a fazer a mão delágete
+[30:29 - 30:32] e depois vamos entender como a gente cria essas tabelas
+[30:32 - 30:36] e esses relacionamentos dentro do banco de dados.
+[30:36 - 30:38] Depois a gente faz as versões inicial das consultas,
+[30:38 - 30:40] aí vem o desenvolvimento.
+[30:40 - 30:43] E no projeto geral, se você começa a codificar,
+[30:43 - 30:46] aqui a gente vai refinar mais essas consultas
+[30:46 - 30:51] e ver outros comandos de incessão, alteração de dados.
+[30:52 - 30:56] Apesar de parecer uma coisa bem simples, dura,
+[30:56 - 30:58] você mexe em todo.
+[30:58 - 31:01] Então, foi isso. Eu vou disponibilizar isso aqui para vocês.
+[31:01 - 31:03] Foi isso que a gente viu, a gente viu isso aqui também.
+[31:03 - 31:12] e essas fases, elas vêm evoluindo na geria de software, antigamente você fazia todos os requisitos, completo tudo,
+[31:12 - 31:23] depois você fazia o projeto de tudo, ou seja, você fazia a modelagem de todas as tabela, então a chance de isso estar errado também era muito alta.
+[31:23 - 31:34] Eles mudaram isso, esse que tinha mudado a passagem, estou falando rápido, a API, nas projáteas de implementação, para ciclos.
+[31:34 - 31:42] Primeira interação, primeiro ciclo, faz tudo, mas você não faz de todo o sistema, você faz de uma parte dos requisitos.
+[31:42 - 31:46] Mas ela me melhorou, minimizou alguns problemas.
+[31:46 - 31:54] mais recentemente o segue quebrou mais ainda esse tempo em pequenas entregas que aí é dentro do movimento ágil
+[31:54 - 32:00] que também vai ver em outras cadeiras, mas de uma forma ou de outra, você tem esses ritos
+[32:00 - 32:06] andares, projeto, alimentação e aí as que se segue, certo?
+[32:06 - 32:09] outra coisa que a gente viu na ano passado, é...
+[32:09 - 32:13] e foi aí a gente fechou, ai, então de outra forma
+[32:13 - 32:19] Aqui é até um recosto do slide que a gente vai já começar a usar.
+[32:20 - 32:24] O A especificação do banco de dados então, parte do análise de requisitos.
+[32:25 - 32:28] O projeto conceitual é a primeira versão em que a gente viu o relacionamento
+[32:28 - 32:31] entre as tabelas, em que tem os atrivutos.
+[32:32 - 32:36] O projeto lógico, esse grande projeto de relacionamento,
+[32:36 - 32:42] ele é modificado sob alguns aspectos, traz mais algumas informações,
+[32:42 - 32:47] a gente vai ver depois, e o projeto físico já é materializando isso na base de dados.
+[32:47 - 32:52] Então esse é o caminho das fases de um projeto de banco de dados.
+[32:52 - 32:58] E aqui tem, a gente comentou também sobre uma sequência de erros que pode acontecer
+[32:58 - 33:00] quando esse fluxo não é respeitado.
+[33:00 - 33:07] Rapidamente, o EOS emissia na definição completa do usuário.
+[33:07 - 33:12] suponho que o usuário não disse que duas ou mais pessoas não podem ter um ímpe de seu perfe
+[33:12 - 33:15] suponho que isso seja uma coisa que você não conhece
+[33:15 - 33:20] o usuário não disse isso, ele não disse isso por diversos motivos
+[33:20 - 33:23] dentro dos quais normalmente ele não sabe o que é pra dizer
+[33:23 - 33:29] então cabe você fazer as perguntas certo
+[33:29 - 33:35] você já é o desafio também, mas já é muito da experiência e da metodologia que você usa
+[33:35 - 33:40] Bom, mas ele não falou, você também não se tocou, foi para a frase de Modelade, na Ritimbê,
+[33:40 - 33:43] isso aqui é um desenho do modelo, tá?
+[33:44 - 33:49] A gente viu que esses retangos são as tabelas, os lojangos são os relacionamentos,
+[33:49 - 33:56] esses círculos são os atributos, existem outras, outras, outros padrões, né?
+[33:56 - 33:59] Esse até eu acho muito complicado, porque desenho é muito,
+[33:59 - 34:03] mas aqui você vê todo o relacionamento e as informações,
+[34:03 - 34:05] tudo que o seu sistema vai ter que tratar.
+[34:05 - 34:12] Quando você sai dessa modelagem, você sai com um entendimento muito bom do que o sistema deve fazer.
+[34:12 - 34:14] Daí para frente vai ficar tudo muito mais fácil.
+[34:14 - 34:20] Mas bem, o usuário não falou, o cara que modelou não botou esse tracinho.
+[34:20 - 34:22] Aqui não está dando para ver, mas aqui tem CPF.
+[34:22 - 34:24] Então o que é que acontece? Obrigado.
+[34:24 - 34:26] Aí o que é que acontece? O cara não botou esse tracinho.
+[34:26 - 34:30] Esse tracinho ele fala, ele diz o seguinte, olha,
+[34:30 - 34:51] O CPF é um atributo, se você não colocar um tracinho, quem fulei esse modelo é o Pa.
+[34:51 - 34:57] Na tabela, o funcionário, o CPF,
+[34:58 - 35:02] um registro de um funcionário que tem um CPF
+[35:02 - 35:04] não pode ter mais nenhum outro registro com esse mesmo CPF.
+[35:05 - 35:06] Esse tracinho comunica isso.
+[35:07 - 35:09] Então, um modelo é uma linguagem universal.
+[35:10 - 35:12] Se você saber português, inglês, alemão,
+[35:13 - 35:15] se todo mundo está usando o mesmo padrão de modelo,
+[35:15 - 35:17] todo mundo vai saber que esse tracinho significa isso.
+[35:18 - 35:20] Mas se você não botar esse tracinho, o que é que acontece?
+[35:20 - 35:24] Quem for criar a base de dados não vai colocar essa restrição.
+[35:25 - 35:29] Porque o cara que for criar, muitas vezes são pessoas diferentes,
+[35:29 - 35:33] ele olha aqui que foi modelado e diz que vou criar essa tabela de funcionários
+[35:33 - 35:40] sem nenhuma restrição com relação à duplicidade do CPF.
+[35:40 - 35:44] Você pode configurar esse tipo de restrição na criação da base
+[35:44 - 35:48] ou você pode fazer esse tipo de restrição no seu código.
+[35:48 - 35:55] O cara não faz isso porque ele não sabia o que ia fazer, o erro continua, o cara que
+[35:55 - 35:59] vai desenvolver e também que dá uma olhada no modelo, o codificador diz que não tem
+[35:59 - 36:02] nenhuma restrição aqui na tabela dos funcionários.
+[36:02 - 36:07] Ele também não vai botar nenhuma trava no código checando se aquela inclusão de
+[36:07 - 36:11] funcionário não vai botar um cps duplicado.
+[36:11 - 36:15] O erro vai em frente até que chega para o usuário e a primeira coisa que ele vai
+[36:15 - 36:20] vai testar se pode ou não botar dois sobrestos de bancada.
+[36:20 - 36:22] Mas com a qual ele nem falou.
+[36:22 - 36:24] A primeira é com a qual ele bate em cima.
+[36:24 - 36:28] E ainda vai dizer assim, uma absurda, pois você não tem colocado essa chacade.
+[36:28 - 36:34] E acompanha a recepção, por mais que esse dia você não falou, mas não justifica.
+[36:34 - 36:39] Então isso aqui é uma saco, esse dia é um bem clássico, é um exemplo bem pequeno,
+[36:39 - 36:43] mas que na prática é muito comum.
+[36:43 - 36:46] E tudo vem aqui do problema de comunicação.
+[36:46 - 36:50] Claro que aqui, nessa sequência,
+[36:50 - 36:54] o usuário, a depender da metodologia,
+[36:54 - 36:59] ele é chamado a validar o que está acontecendo.
+[36:59 - 37:02] No método AGE, que são ciclos muito curtos
+[37:02 - 37:04] de análise e desenvolvimento,
+[37:04 - 37:07] ele está inclusive do teu lado.
+[37:07 - 37:15] no ciclo, no metodologia que ele não fica junto de ti, tem mais risco desse tipo de quanto acontecer
+[37:15 - 37:20] mas mesmo em qualquer metodologia ele é chamado a validar, então quando você faz o modo
+[37:20 - 37:27] vamos fazer aqui os requisitos, que é essa fase A, você entendeu, aí você volta para eles, olha isso, muito bem
+[37:27 - 37:36] você faz a modela A, ele realmente não entende esse, a partir aqui do B são padrões que ele não entende
+[37:36 - 37:40] mas muitos já entendem, então você pode validar com ele, é isso mesmo.
+[37:40 - 37:43] Então, qual é o grande erro de quem trabalha com o TI?
+[37:43 - 37:52] É conversar com o usuário, achar que entendeu, e só voltar a falar com ele lá na entrega.
+[37:52 - 37:59] A chance de você ir perpetuando erros e desentendimentos é muito alta.
+[37:59 - 38:04] Principalmente se for um processo que você não conhece.
+[38:04 - 38:12] E o profissional de TI, ele é naturalmente um profissional multidisciplinar.
+[38:12 - 38:18] Ele conhece o rito, vocês estão aprendendo um aqui, mas vai aplicar esse rito em diversos
+[38:18 - 38:27] domínios, comutabilidade, for de pagamento, vendas, sistema de ecomas, domínios que você
+[38:27 - 38:28] nunca viu na vida.
+[38:28 - 38:30] Você vai aprender lá.
+[38:30 - 38:34] Então, a chance de você não conhecer muita coisa é muito alta.
+[38:34 - 38:38] A menos que for, por exemplo, uma coisa que você criou, né?
+[38:38 - 38:42] Quando eu falei, os pajates intergadores são inters de vocês, vocês se conhecem aquilo ali.
+[38:42 - 38:45] E aí fica um pouco mais fácil, porque vocês mesmo estão definindo.
+[38:45 - 38:51] Mas aí cai um outro problema, escutar quem vai comprar, ver se é isso mesmo que ele quer.
+[38:51 - 38:57] Bom, pessoal, isso foi mais ou menos o que a gente viu, mas era importante a gente voltar.
+[38:57 - 39:04] Eu queria expandir mais um pouco isso aqui, não?
+[39:04 - 39:11] Aqui a gente viu também, mas vocês têm uma cadeira de banco de dados,
+[39:11 - 39:17] orientação a objetos, acessão do banco de dados, é isso?
+[39:17 - 39:22] E vocês têm essa cadeira, modelagem, normalização de banco de dados.
+[39:22 - 39:25] E aí ontem eu expliquei com o pessoal da noite,
+[39:25 - 39:28] fiz uma nota de aula que eu vou compartilhar com vocês também
+[39:28 - 39:32] porque eu já intervou em 9 e 6
+[39:32 - 39:35] que eu vou compartilhar com vocês também
+[39:35 - 39:38] que é para diferenciar essas duas cadeiras
+[39:38 - 39:43] na verdade são duas formas diferentes
+[39:43 - 39:46] são duas formas complementares
+[39:46 - 39:48] que você trabalhar com o banco de dados
+[39:48 - 39:50] essa cadeira
+[39:50 - 39:59] Ela faz toda essa modelagem, cria as tabelas dessa capacidade de trabalhar com o banco de dados,
+[39:59 - 40:09] mas ela usa como ferramenta a interface do sistema gerenciador de banco de dados.
+[40:09 - 40:14] Porque a interface é uma perna, uma funcionalidade desse sistema.
+[40:14 - 40:21] sistema. A gente tem usado o Ano Compalho mesmo na internet, não vai fazer diferença
+[40:21 - 40:25] pra gente não. Você dá certo os olhos que ela serve e te usa também. Pode ser qualquer
+[40:25 - 40:29] ferramenta. Todas as vezes que a gente vai falar, se aplica a qualquer ferramenta. O
+[40:29 - 40:36] que diferencia uma ferramenta do outro são as opções do menu. Nessa ferramenta eu
+[40:36 - 40:43] visualizo os bancos de dados usando esse botão. Nessa outra tem aquele botão, é só a operação.
+[40:43 - 40:45] Mas isso é besteira pra gente.
+[40:45 - 40:50] Mas qualquer uma você vai materializar tudo isso que a gente tá fazendo.
+[40:50 - 40:59] Então, na cadeira de banco de dados, orientação, objeto com banco de dados, você vai usar o teu código,
+[40:59 - 41:04] normalmente acho que é Java, pra conectar a barba de dados.
+[41:04 - 41:10] Então eu fiz esse esqueminho aqui na mão mesmo que eu tinha lá ontem,
+[41:10 - 41:16] Vou usar, tenho que fazer de novo aqui pra você e depois eu disponibilizo pra vocês, tá?
+[41:16 - 41:20] Então é mais ou menos assim, vamos começar aqui por baixo, ó.
+[41:22 - 41:28] SGBD é um sistema gerenciador de bancos de dados, um sistema.
+[41:28 - 41:36] Então já sabe o seguinte, esse sistema ele é uma coleção de programas, sério.
+[41:36 - 41:46] Normalmente esses sistemas são de uma genialidade incrível, muitos deles são inscritos em C,
+[41:46 - 41:52] a linguagem C é uma linguagem muito poderosa, em que sentido?
+[41:52 - 41:56] Ela é uma linguagem que tem uma performance muito alta, por que?
+[41:56 - 42:02] porque ela trabalha no código que ela gera,
+[42:02 - 42:05] ele trabalha numa velocidade muito alta
+[42:05 - 42:10] porque ele é muito próximo das características do processador, sabe?
+[42:10 - 42:15] Diferente do Java que tem uma camada intermediária, uma máquina virtual,
+[42:15 - 42:17] diferente do Python que é interpretado,
+[42:17 - 42:21] o C é poderoso porque ele tem essa
+[42:21 - 42:26] essa característica de trabalhar com funcionalidades,
+[42:26 - 42:30] com característica muito próxima do componente da máquina.
+[42:30 - 42:34] Você também é muito poderoso porque ele tem comandos e funções
+[42:34 - 42:37] que acessam recursos da máquina,
+[42:37 - 42:39] que muitas vezes outras linguagens não têm.
+[42:39 - 42:41] Por que você foi feito para isso?
+[42:41 - 42:45] Você não foi feito para desenvolver uma foda de pagamento,
+[42:45 - 42:47] não foi feito para o transporte,
+[42:47 - 42:50] não foi feito para desenvolver um sistema cadêmetro,
+[42:50 - 42:55] que ele foi feito para trabalhar na maior parte das vezes com esse tipo de coisa.
+[42:55 - 43:00] Então o C, o Windows, o Linux, desenvolvido de C.
+[43:00 - 43:01] Quer, não é?
+[43:01 - 43:02] Quer, não é?
+[43:02 - 43:03] Quer, não é?
+[43:03 - 43:04] Quer, não é?
+[43:04 - 43:05] Quer, não é?
+[43:05 - 43:06] Quer, não é?
+[43:06 - 43:07] Quer, não é?
+[43:07 - 43:08] Quer, não é?
+[43:08 - 43:09] Quer, não é?
+[43:09 - 43:10] Quer, não é?
+[43:10 - 43:11] Quer, não é?
+[43:11 - 43:12] Quer, não é?
+[43:12 - 43:13] Quer, não é?
+[43:13 - 43:14] Quer, não é?
+[43:14 - 43:15] Quer, não é?
+[43:15 - 43:16] Quer, não é?
+[43:16 - 43:17] Quer, não é?
+[43:17 - 43:18] Quer, não é?
+[43:18 - 43:19] Quer, não é?
+[43:19 - 43:20] Quer, não é?
+[43:20 - 43:27] sua carreira, né? Então é porque ele é uma linguagem toda organizada, é uma
+[43:27 - 43:38] linguagem que faz você ter contato com a parte mais básica dos comandos de
+[43:38 - 43:42] programação. O pai, tu é mais complicado pra quem tá começando, é nem complicado.
+[43:42 - 43:48] Talvez não seja tanto ideal porque ele já, dependendo como professor vinista,
+[43:48 - 43:50] mas os professores aqui com certeza vão ter esse cuidado,
+[43:50 - 43:54] ele deixa algumas operações
+[43:54 - 43:57] encapsuladas. O que é isso?
+[43:57 - 43:59] O que é encapsular a operação?
+[43:59 - 44:00] Você...
+[44:00 - 44:03] Não sei se você vira o vetor ou vira o vetor, né?
+[44:03 - 44:04] Vetor?
+[44:04 - 44:06] Variável vetor, não?
+[44:06 - 44:09] Veto é um variável, você sabe o que é, né?
+[44:09 - 44:10] É uma variável?
+[44:10 - 44:12] Uma variável e uma armazena é um valor.
+[44:12 - 44:13] Você sabe?
+[44:13 - 44:15] Um vetor é também uma variável,
+[44:15 - 44:17] só que ele veja variar um valor,
+[44:17 - 44:24] ele armazena 15 valores, na mesma variável. Então, se imaginam um Veto A que tem 15 valores,
+[44:24 - 44:32] um Veto B que tem 15 valores. Se você quiser copiar esses 15 valores do Veto A por Veto
+[44:32 - 44:38] B, para quem está começando o ideal é fazer um comando de repetição, vocês já viram
+[44:38 - 44:44] né, o FOL, o AILE, fazer um comando de repetição, que pegue esse primeiro valor do Veto A, bote
+[44:44 - 44:48] no primeiro valor do vetor bem, segundo por segundo, terceiro por terceiro, ok?
+[44:48 - 44:50] Já te atendo.
+[44:50 - 44:55] No paito você pode fazer assim, mas para quem está começando é desejado fazer assim
+[44:55 - 45:01] para aprender bem com o mando de repetição, atender bem que é vetor, entender bem a característica,
+[45:01 - 45:08] isso tem que ser consequência lá da frente, ou você pode pegar só o A e atribuir para o B.
+[45:08 - 45:11] Com o único com o mando, sem fazer nenhum loop.
+[45:11 - 45:14] E aí você bypass uma série de conhecimentos.
+[45:14 - 45:16] Então tem que ter cuidado quando vai começar.
+[45:16 - 45:19] Ou você não, não tem como você fazer dessa forma mágica, certo?
+[45:20 - 45:23] Porque o pai foi feito para facilitar a vida mais para frente.
+[45:23 - 45:24] Diga lá.
+[45:24 - 45:27] É, uma lista audicionária com o Petro.
+[45:27 - 45:29] Entendi.
+[45:29 - 45:33] Tipo, você fala que o Petro é um aparelhante que armazena vários valores, né?
+[45:33 - 45:35] Uma lista audicionária com o parê com isso?
+[45:35 - 45:36] Com lista audicionária?
+[45:36 - 45:39] Não, uma lista audicionária com o pai.
+[45:39 - 45:42] que tem vários valores, contaria como vetor?
+[45:42 - 45:49] É, contaria como vetor, só que uma lista ou mencionário, ele tem funcionalidade, você pode trabalhar de cima dela,
+[45:49 - 45:57] que vai facilitar, é porque assim, o conceito de lista, ela tem outros, outros, outros características, né?
+[45:57 - 46:04] Pode ser uma lista encadeada, pode ser uma lista, é que permita o acesso direto à informação, por exemplo,
+[46:04 - 46:10] Se você implementa uma lista em cima do C, você vai ter que colocar a lógica de como encontrar o elemento.
+[46:10 - 46:16] Normalmente no linguagem como o parque, encontrar o elemento em uma lista, você tem comandos que vai direto em contra.
+[46:16 - 46:20] Por trás tem essa implementação que você pô, entendeu?
+[46:20 - 46:29] Mas bem, voltando para cá, o que eu queria dizer é que essas linguagens, esse software, eles são chamadas de software básicos, né?
+[46:29 - 46:35] e tem que ter cuidado porque não é básico, porque eles são simples, não, pelo contrário, isso é mais complicado, tá?
+[46:35 - 46:39] E muitas vezes o C é a fonte desse só.
+[46:39 - 46:45] Ah, bem, não ir voltando pra cá, desempilhando mais ainda, então o SGVD é um sistema,
+[46:45 - 46:47] uma série de programas, tá certo?
+[46:47 - 46:50] Mas pra básicos inteiros, é necessário.
+[46:50 - 46:56] É básico, é necessário, mas também, necessário, mas também de fundamento,
+[46:56 - 47:04] de suporte, um solta de rei, um solta de e-mail, um solta que gerencia o seu operacional,
+[47:04 - 47:10] solta o passo, já o de fundamento, que suporta toda a operação, mas de base, é, é, é sentido
+[47:10 - 47:11] ver, certo?
+[47:11 - 47:19] Então, gerenciador porque ele gerencia bancos de dados, e aí, entenda isso aqui como sendo
+[47:19 - 47:26] um servidor, uma máquina, entenda esse negócio aqui como sendo uma área que tem vários bancos
+[47:26 - 47:34] de dados dentro de um SGPD tem versos bancos de dados, tem um banco de dados aqui, eu não
+[47:34 - 47:39] botei a figurinha, tem um banco de dados para a contabilidade, para o sistema de contabilidade,
+[47:39 - 47:46] tem um banco de dados aqui para o sistema de vendas e considerando isso aqui um servidor
+[47:46 - 47:55] imagina uma empresa que tem 150 servidores desses, cada servidor desse tem 30 bancos
+[47:55 - 48:02] de dados, claro que hoje em dia esses servidores, esses bambos de dados podem estar na nuvem,
+[48:02 - 48:08] mas não muda nada que eu estou falando, é só a questão de onde é que está a tua
+[48:08 - 48:09] informação.
+[48:09 - 48:13] Então é uma complexidade muito alta.
+[48:13 - 48:18] Bom, mas esses sistemas de bambos de dados, esses sistemas de herenciador, então aqui
+[48:18 - 48:23] colocando as duas cadeiras, essa é a nossa cadeira, a gente vai trabalhar a modelagem,
+[48:23 - 48:29] a notação das tabelas, popular as tabelas, esse termo popular significa inserir, alterar,
+[48:29 - 48:34] excluir, fazer a notação das tabelas, fazer consultas etc.
+[48:34 - 48:41] E a gente, como eu falei, vai usar em pé fácil do SGVD, não vai fazer toda essa, por
+[48:41 - 48:43] esse caminho.
+[48:43 - 48:48] Mas lá na outra cadeira, você vai desenvolver aplicações e nessa aplicação você vai
+[48:48 - 48:51] fazer a conexão com a SGVD.
+[48:51 - 48:58] Olha até essa aí conhecida, com esses bancos de dados que você criou nessa cadeira.
+[48:58 - 49:05] Lá na outra cadeira, os comandos de inserção de dados que opulam as tabelas de consulta,
+[49:05 - 49:11] principalmente as de os dois últimos, eles vão ser executados a partir do teu código,
+[49:11 - 49:13] mas usando a mesma sintáxida aqui.
+[49:13 - 49:21] Um comando de consulta, padrão de todos os bancos de dados, qualquer fornecedor é um select.
+[49:21 - 49:24] Aqui na mão você treina bastante o select.
+[49:24 - 49:29] Esse mesmo select você executa de dentro do teu cônthimo.
+[49:29 - 49:33] Então lá na alta cadeira não é para,
+[49:33 - 49:39] tem que ficar mais, isso tá bem alinhado, não é para o professor trabalhar, modelar,
+[49:39 - 49:45] entrar em detalhe dos comandos, aqui não vão ver isso.
+[49:45 - 49:48] Ele vai eventualmente falar um pouco mais de um comando ou outro,
+[49:48 - 49:52] mas o detalhamento é mais nessa cadeira.
+[49:52 - 49:58] Lá ele vai de orientar como colocar aqui dentro da aplicação a conexão,
+[49:58 - 50:03] como é que você executa esses comandos que populam os dados
+[50:03 - 50:07] que fazem com a sua da partir da sua aplicação, certo?
+[50:07 - 50:15] E aí, só para a gente complementar, você como profissional de desenvolvimento, você
+[50:15 - 50:19] vai usar as duas ferramentas, como assim?
+[50:19 - 50:26] Durante a fase de desenvolvimento, você usa a interface da SGVB para criar tabelas,
+[50:26 - 50:28] você cria as tabelas aqui.
+[50:28 - 50:36] O teu código criar as tabelas é mais difícil, é mais raro você fazer uma aplicação
+[50:36 - 50:41] que seja, tenha flexibilidade desde sua aplicação,
+[50:41 - 50:44] submeter comandos de criação de tabelas.
+[50:45 - 50:46] Pode acontecer? Pode.
+[50:47 - 50:50] Se for um sistema com muita flexibilidade,
+[50:50 - 50:52] um sistema que atende, por exemplo, cliente no mundo todo,
+[50:52 - 50:54] aí existe sistema desse jeito.
+[50:54 - 50:58] São sistemas que você dá a opção para o usuário
+[50:58 - 51:00] de criar tabelas para armazenar informações
+[51:00 - 51:01] que são específicas deles,
+[51:02 - 51:06] e se relacionar com informações que vem no pacote do sol.
+[51:06 - 51:09] pode ser que isso aconteça, mas não é muito comum, certo?
+[51:09 - 51:13] Então, é comum que a...
+[51:13 - 51:16] como para evitar isso aqui, em pavalo,
+[51:16 - 51:21] que a criação das tabelas, que é a representa da modalagem,
+[51:21 - 51:23] você não faz aqui dentro.
+[51:23 - 51:25] O produto da modalagem que é a criação das tabelas,
+[51:25 - 51:27] relacionamento, você faz aqui dentro.
+[51:28 - 51:31] Essa criação das tabelas é muito comum,
+[51:31 - 51:34] seja feita aqui, mesmo você desenvolvedor.
+[51:34 - 51:41] Agora, quando você está desenvolvendo, você vai ter a necessidade de ter selects,
+[51:41 - 51:45] comandos de incessão, que antes de você trazer aqui para dentro do teu código,
+[51:45 - 51:47] você teste aqui na interface.
+[51:47 - 51:51] Então, você vai na interface e deixa eu ver se esse select está bem pensado.
+[51:51 - 51:53] Faz o select, ah, galera.
+[51:53 - 51:56] Se eu ver se esse incessante está legal, você teste tudo aqui.
+[51:56 - 51:59] Porque fica mais fácil do que testar daqui.
+[51:59 - 52:02] Porque testar a tua aplicação, tu vai ter que concluir lá,
+[52:02 - 52:06] ter que passar com a série de etapas, executar até chegar no seu select.
+[52:06 - 52:08] Então, geralmente tu faz da partida aqui.
+[52:08 - 52:11] Depois que tiver tudo valentado, você vai pra cá.
+[52:11 - 52:17] Só mais um comentário. Essas consultas que atendem a necessidade do usuário,
+[52:17 - 52:20] muitas vezes, pra nossa consulta aqui da nossa prática,
+[52:20 - 52:25] ela vai trabalhar com 3 ou 4 tabetas.
+[52:25 - 52:28] 3 ou 4 tabetas. Vai resolver nosso problema.
+[52:28 - 52:37] Mas existem consultas necessárias às sistemas que trabalham com 15 tabelas, certo?
+[52:37 - 52:48] Então, a orientação é você ir construindo isso, já tinha tempo, é você ir construindo
+[52:48 - 52:51] isso de forma paulatina.
+[52:51 - 52:57] É uma consulta que vai pegar informações de 20 tabelas, uma única consulta, certo?
+[52:57 - 53:00] para atender uma certa funcionalidade da tua aplicação.
+[53:00 - 53:04] Então você vem aqui, as tabelas já estão criais, você vai elaborar essa consulta.
+[53:04 - 53:07] Como você vai elaborar essa consulta, você vai compondo.
+[53:07 - 53:12] Primeiro você relaciona duas tabelas, depois você aumenta para 3, depois para 6, depois para 7.
+[53:12 - 53:20] Em tecnologia, em sistema, sempre evite sair do momento entre
+[53:20 - 53:24] você entender o que tem que fazer, para entregar o que está feito,
+[53:24 - 53:26] sentou aqui, entendeu?
+[53:26 - 53:30] e já parte direto para fazer a coisa completa
+[53:30 - 53:32] normalmente
+[53:32 - 53:34] é muito difícil
+[53:34 - 53:36] e a possibilidade de ser habitual
+[53:36 - 53:39] entre você entender e ter a coisa feita
+[53:39 - 53:44] você entende que vai quebrando em pequenos evoluções
+[53:44 - 53:47] e cada evolução dessa você vai
+[53:47 - 53:50] testando e corrigindo
+[53:50 - 53:52] para no final você ter a coisa completa
+[53:52 - 54:00] Lembra dos meninos das garrafas que eu falei, você tem a impressão de que se senta e já
+[54:00 - 54:04] parte para fazer a solução completa, você está ganhando tempo, está pegando as garrafas
+[54:04 - 54:10] mais perto, mas você está perdendo tempo, porque como você não foi constituindo a
+[54:10 - 54:17] forma incremental e já tirando erros dessas etapas intermediárias, quando você escreve
+[54:17 - 54:25] coisa completa, a chance de dar erro é muito alta, porque tem muita situação.
+[54:25 - 54:32] E para você tirar os erros todos de uma vez, ver ele tirando parte a parte, também não
+[54:32 - 54:33] vai demorar mais tempo.
+[54:33 - 54:38] Então você vai acabar perdendo o menino que pegou as garrafas lá no final, certo?
+[54:38 - 54:41] É sobre o salé, que não tem direito.
+[54:41 - 54:43] O salé é que é o comando de consulta.
+[54:43 - 54:55] O que ela consulta? Você não criou as bases de dados, criou as tabelas de alunos, funcionários, alunos, professores e notas,
+[54:55 - 55:06] e outras as tabelas para atender o usuário. O select é o comando que permite você selecionar ou melhor,
+[55:06 - 55:08] recuperar as informações das taberas, ok?
+[55:10 - 55:12] E aí retorna para o usuário.
+[55:13 - 55:14] Natalia, na interface.
+[55:14 - 55:16] Ou no teu programa, tá bom?
+[55:16 - 55:18] Vamos ver isso aí, tá?
+[55:18 - 55:21] É patronizado, só que ele tem uma série de opções.
+[55:21 - 55:23] A gente não vai ver todos os que ele não está tendo,
+[55:23 - 55:25] a gente vai ver as mais usuárias, tá bom?
+[55:26 - 55:30] Tá claro que é a diferença das duas cadeiras, beleza?
+[55:30 - 55:32] Então se o professor começava a falar modelar,
+[55:32 - 55:34] ele falou, ei, pera aí, comanda falar comigo,
+[55:34 - 55:39] para a gente equalizar, mas a gente conversa aqui também com eles e a coisa vai se apender.
+[55:39 - 55:40] Tá?
+[55:40 - 55:41] É...
+[55:41 - 55:43] Aqui também eu vou disponibilizar para vocês.
+[55:43 - 55:47] E pessoal, a gente vai então...
+[55:47 - 55:51] Acho que tem esse outro material, mas esse outro aqui é mais...
+[55:51 - 55:54] Isso aqui também te falou, né?
+[55:54 - 55:57] Aqui é o Coração de Pernas.
+[55:57 - 56:01] Qualquer assistente tem ou tem esses dois aspectos, falamos naquela passada.
+[56:01 - 56:04] A gente não falou muito disso aqui, mas vamos falar ainda.
+[56:04 - 56:08] Mas antes do surgimento dos bancos dados, você tinha diversos arquivos separados.
+[56:09 - 56:12] Bancos de dados relacionados surgiu quando?
+[56:12 - 56:14] 1980, 1988.
+[56:15 - 56:20] Quero problema, veja, isso é aqui o Amarelo, tem as mesmas informações do arquivo.
+[56:20 - 56:21] Amarelo é o mais à frente.
+[56:22 - 56:26] E esses dados eram duplicados, eram... eram... eram redundantes.
+[56:28 - 56:29] Isso fazia muito problema.
+[56:29 - 56:38] Se por um acaso, se mexesse nesses dados, você tinha que mexer também, os programas
+[56:38 - 56:42] eram muito ligados aos arquivos, como assim?
+[56:42 - 56:46] Hoje em dia você faz um programa em Java e você tem aqui o Bautidados.
+[56:46 - 56:50] Você pode mexer na estrutura do Bautidados, o que é mexer na estrutura do Bautidados?
+[56:50 - 56:55] É você criar novos campos, criar novas tabelas sem precisar mexer no código.
+[56:55 - 56:56] Sabe?
+[56:56 - 56:58] As coisas são independentes.
+[56:58 - 57:01] Aqui você faz a conexão e usa o que você precisa.
+[57:01 - 57:04] Você pode evoluir o banco de dados sem mexer no código.
+[57:04 - 57:09] Antes do banco de dados, a definição dos arquivos estava dentro do programa.
+[57:09 - 57:14] Então, se você mexia na estrutura do arquivo, você tinha que mexer no programa.
+[57:14 - 57:21] E aí isso trazia um problema de agilidade dos voos médicos só.
+[57:21 - 57:25] Além dessa replicação de informações aqui.
+[57:25 - 57:30] Então, vão te dar o veio para organizar e melhorar essa situação.
+[57:31 - 57:33] Mas a gente vai voltar a falar sobre isso.
+[57:33 - 57:37] Então, tem esse material aqui também que eu não disponibilizar.
+[57:37 - 57:41] E a gente vai começar agora, pessoal.
+[57:41 - 57:43] A última é a água.
+[57:43 - 57:53] Antes da gente, efetivamente, começar a meter a lã na massa.
+[57:53 - 57:55] Muito do que... deixa eu saber que não é mais que isso.
+[57:55 - 57:57] Tem aqui uns...
+[57:57 - 57:59] Ah, esse aqui porque foi rompo.
+[58:00 - 58:01] Não tem.
+[58:14 - 58:16] O pessoal vai alvar aqui o...
+[58:18 - 58:19] O seu salamento.
+[58:53 - 58:58] Então eu tenho esse livro, mas assim, se você acompanhar o que vai ser conversado,
+[58:58 - 59:00] para a prova, para ser atendizado, vai ser suficiente.
+[59:00 - 59:03] Posso disponibilizar para quem quiser o livro,
+[59:03 - 59:05] quiser complementar com a leitura.
+[59:05 - 59:08] A gente vai usar só esse início de um livro,
+[59:08 - 59:11] claro que o livro também se aplica ao resto da cadeira,
+[59:11 - 59:14] mas a gente vai ver mais na prática esses conceitos.
+[59:14 - 59:15] E muito do que a gente falou aqui,
+[59:15 - 59:17] do que está aqui a gente já falou.
+[59:17 - 59:20] Então aquilo que for mais já falado, eu vou passar mais rápido,
+[59:20 - 59:24] aquilo que não, eu vou demorar mais um pouco.
+[59:24 - 59:26] Então vamos lá.
+[59:26 - 59:30] As aplicações de bancos de dados tradicionais,
+[59:30 - 59:32] o que se chama tradicional ou não tradicional?
+[59:32 - 59:38] As tradicionais, elas se aplicam a informações,
+[59:38 - 59:41] a maior parte das vezes que são textos ou números,
+[59:41 - 59:44] que é o que a gente vai trabalhar aqui.
+[59:44 - 59:48] Existem bancos de dados que já trabalham com informações
+[59:48 - 59:50] que não são textos e números.
+[59:50 - 59:58] de edição, áudios, imagens, vídeos, e aí você pode ter a seguinte dúvida, tá?
+[59:58 - 60:03] Essa modelagem, isso tudo que a gente vai ver aqui, se for um banco de dados que não
+[60:03 - 60:10] seja só texto em números, tudo isso que a gente vai ver aqui, se aplica, se aplica.
+[60:10 - 60:22] Porque quando você decide para atender o usuário que vai ter o primeiro campo dentro da tua tabela de funcionários,
+[60:22 - 60:29] que é o CPF do professor, o segundo campo que é o nome do professor, texto e número,
+[60:29 - 60:35] mais um terceiro campo, na bola delas você decide que vai ser uma foto do professor.
+[60:35 - 60:43] Você tem o primeiro campo que é do tipo texto, o nome, o segundo campo que é do tipo numérico, cpf,
+[60:43 - 60:47] e o terceiro campo que é do tipo imagem, a foto.
+[60:47 - 60:55] Isso não muda o raciocínio da modelagem, a tipagem que você está usando.
+[60:55 - 61:01] Pode ser um vídeo, pode ser qualquer coisa, é só um tipo diferente de dados.
+[61:01 - 61:03] Então, para a gente, tanto faz, tá?
+[61:03 - 61:06] Se a gente trabalhar só com o teste número,
+[61:06 - 61:09] se você precisar trabalhar com outros tipos de dados aqui,
+[61:09 - 61:11] com o dívida, como ele está falando,
+[61:11 - 61:13] tanto faz.
+[61:13 - 61:17] Não vai ter diferença em tudo que a gente vai falar aqui, tá?
+[61:17 - 61:21] Só que o conteúdo do lugar de seu número vai ser um vídeo.
+[61:21 - 61:23] Não tem diferença.
+[61:23 - 61:24] Tá claro isso?
+[61:24 - 61:26] Ah, mas eu quero trabalhar com ele, tanto faz, cara.
+[61:26 - 61:28] Assim, para essa cadeira, tanto faz, né?
+[61:28 - 61:35] O mundo dessa cadeira é o mundo de dar a fundamentação básica para fazer modelagens
+[61:35 - 61:39] e materializar essas modelagens no banco de dados.
+[61:39 - 61:45] E saber extrair informações que são celulares desses bantidados, cruzando informações.
+[61:45 - 61:53] E tem também sistemas, outro tipo de sistema também, que tem informações geográficas.
+[61:53 - 61:56] Trabalhei com esse tipo de sistema também.
+[61:56 - 62:01] E é bem interessante porque ele possibilita que você inclua na tua tabela
+[62:01 - 62:09] campos que têm a latitude e longitud de uma certa localização.
+[62:11 - 62:18] E aí eu lembro do sistema do COPS, que é o gravinho de atendimento de espaços,
+[62:18 - 62:24] Você ligava o PSIOPS, o sistema identificava, né,
+[62:24 - 62:28] através da base da empresa de telefonia.
+[62:28 - 62:31] Qual era o número do telefone?
+[62:31 - 62:36] E o sistema identificava no mapa, no Ceará, de onde é que tava ligando.
+[62:38 - 62:41] Pra que, para atendente, aí o cara começava a falar, né,
+[62:41 - 62:45] olha, eu tô aqui na UDOTA e via lá o telefone,
+[62:45 - 62:54] onde, sendo ligado lá de Maracanaui. Então tudo indicava que era trote. Mas também
+[62:54 - 63:03] tinha outros usos. O sistema, dado aquela localização, aquela latitude, longitude da
+[63:03 - 63:10] ligação, o sistema localizava, mostrava no mapa as viaturas que estavam ali próximas.
+[63:10 - 63:15] Para o cara que manda a viatura para a ocorrência, clicar na viatura e manda ela ir para lá.
+[63:15 - 63:27] Então esse tipo de sistema, nos registros do banco de dados, nas tabelas, muitas vezes, a ocorrência, tem a latitude e longitude, são dois campos que indicam o dia que foi a ocorrência.
+[63:29 - 63:36] O registro de movimentação dos carros tem a latitude e longitude de cada posicionamento do carro, para saber por onde ele andou.
+[63:36 - 63:45] Novamente é um sistema que além de informações tradicionais, te dá a possibilidade de criar
+[63:45 - 63:52] campos que têm essa tipagem, guardar a latitude e a longitud geográfica.
+[63:52 - 63:56] Mas é um tipo como qualquer, que vai fazer diferença, isso é?
+[63:56 - 63:57] Para a gente.
+[63:57 - 64:04] É isso, é um parêntese sobre essa época do ciórdio, isso foi em 2000, já faz um
+[64:04 - 64:08] um pouquinho de tempo, mas como eu disse pra vocês, é muito rápido e impressionante de
+[64:08 - 64:09] ser rápido.
+[64:09 - 64:13] Eu me fom de um dia desse, faz 25 anos, mais bem.
+[64:13 - 64:21] Tanto é que na época você tinha que ter cuidado, mas você está lá na lagoa redonda,
+[64:21 - 64:28] e os seus pais moram lá no meu zébio, sei lá, lá no Moodubi, que seja qualquer canto
+[64:28 - 64:29] longe.
+[64:29 - 64:30] Qual é a orientação?
+[64:30 - 64:33] Se você liga, se você soube que está tendo assalto lá na casa do seu pai, alguém avisou
+[64:33 - 64:40] por algum motivo. Você liga, você diz olha, eu estou ligando da lagoa redonda, você
+[64:40 - 64:44] estava mais... porque eu estou sabendo que está tendo a saltar do mundo do bem. Então
+[64:44 - 64:51] você já avisava, porque senão eles vão achar que é tróxico. E 70% na época, sei como
+[64:51 - 64:58] é que está hoje, faz muito tempo, das ocorrências eram tróxicos. E às vezes o atendente ficava
+[64:58 - 65:02] Enrollando, tinha telefone público, não é? Não tem mais, né?
+[65:02 - 65:05] Então, o pessoal ligava telefone público.
+[65:05 - 65:08] Já tinha celular, mas a tecnologia da época não...
+[65:08 - 65:10] Eu acho que não consegue ainda não.
+[65:10 - 65:12] Não conseguia saber exatamente qual era o celular.
+[65:12 - 65:14] Eu conseguia saber qual era a região que estava ligando, né?
+[65:14 - 65:18] Porque as torres da do celular, da comuníquia, o que eu queria.
+[65:18 - 65:21] Mas, bem, às vezes o atendente ficava enrollando ali.
+[65:21 - 65:23] Diga mais informação para quê?
+[65:23 - 65:26] Para, como sabia a posição geográfica,
+[65:26 - 65:33] O atendente passava para a polícia, aí a polícia ia até aquela posição e prendia
+[65:33 - 65:35] o cara, que é crime, né?
+[65:35 - 65:39] E a gente escutava na gravação, o cara sendo preso, né?
+[65:39 - 65:45] Mas atrapalha muito, porque muitas ocorrências eram trotes.
+[65:45 - 65:48] E esse sistema geográfico ajudava nessa identificação, tá?
+[65:48 - 65:53] Então, não muda nada com essa cadeira, mas é importante saber que tem essa possibilidade.
+[65:53 - 65:56] Eu não comentei com vocês, deixa eu voltar aqui pra cá.
+[65:56 - 65:58] Deixa eu dar parte de cheio.
+[66:05 - 66:09] Então o desenvolvedor trabalha nesse ambiente,
+[66:10 - 66:14] testando os seus comandos,
+[66:14 - 66:17] testando o que você vai ser feito,
+[66:17 - 66:22] depois o desenvolvedor transfere pra cá,
+[66:22 - 66:30] Eventualmente, pode se continuar fazendo consultas, exploráticas na bactedata, a auditoria de
+[66:30 - 66:37] TAY, por exemplo, usa muita sem terfase, porque aqui as consultas elas estão pré-programadas
+[66:37 - 66:41] dentro do teu código, pessoas de funcionalidades que o teu código terá.
+[66:41 - 66:48] Mais uma recuperação de informações, a única vez que eu quero recuperar, as últimas
+[66:48 - 66:56] médias dos alunos da cadeia de batidados dos anos 2013 a 2014.
+[66:56 - 67:06] Uma coisa muito explorática, você faz a consulta direta aqui, porque aqui dentro não tem programado.
+[67:06 - 67:13] Então acaba sendo usado aí, é o grande parte de vocês vai trabalhar desse jeito, mas só
+[67:13 - 67:17] aproveitando essa figurinha para expandir para outras funções.
+[67:18 - 67:23] A modelagem, o desenvolvedor, o projetista, na verdade,
+[67:23 - 67:26] dentro do desenvolvimento ele pensa nessa modelagem.
+[67:26 - 67:31] Mas muitas vezes isso está meio que mudando,
+[67:31 - 67:32] mas não era para estar mudando,
+[67:32 - 67:34] é uma coisa que está acontecendo aí,
+[67:34 - 67:35] mas depois de poder comentar.
+[67:35 - 67:37] Muitas vezes nas empresas,
+[67:37 - 67:39] como esses modelos existem,
+[67:40 - 67:43] incorporando muitas tabelas e muitos relacionamentos,
+[67:43 - 67:49] Existem profissionais dentro da empresa, empresas grandes, que entendem esse relacionamento,
+[67:49 - 67:53] que tem esse modelo bem controlado.
+[67:53 - 67:59] E você, desenvolvedor, decidiu, por exemplo, criar, havia necessidade de criar uma tabela
+[67:59 - 68:01] de professores.
+[68:01 - 68:08] De repente, nesse grande modelo que atende a diversos sistemas da empresa, já tem informação
+[68:08 - 68:12] de vendedor, de professor, que você nem sabia.
+[68:12 - 68:15] Então, corre o risco de isso ser mal pensado.
+[68:15 - 68:22] E quando você vem da metodologia ágil, que determina, orienta que rapidamente você
+[68:22 - 68:28] evolua, valide, evolua, valide, evolua, a chance de você criar coisas mal planejadas
+[68:28 - 68:29] é muito alta.
+[68:29 - 68:32] Mas ela não diz para você não planejar.
+[68:32 - 68:37] Ela diz para você respeitar ou melhor, ter cuidado com aquilo que é mais complexo, aquilo
+[68:37 - 68:38] que é menos complexo.
+[68:38 - 68:41] Porque foi mais complexo você tem que usar esses ritmos.
+[68:41 - 68:44] e em fome nos complexos você vai fazer de forma mais rápida.
+[68:44 - 68:47] Mas ela diz também o seguinte, em alguns momentos,
+[68:47 - 68:51] nesse fluxo, porque ele é muito dinâmico,
+[68:51 - 68:53] para e para organizar a casa.
+[68:53 - 68:57] Esse ato se chama refatorar, para e para organizar.
+[68:57 - 68:59] E é isso também um problema,
+[68:59 - 69:04] porque mexer no que está funcionando é muito pouco provável.
+[69:04 - 69:08] Então tem esse dilema do ágil, mas vamos voltar para cá.
+[69:08 - 69:17] Então, você pode atuar como esvovedor, dessa forma que eu estou falando, pega os comandos,
+[69:17 - 69:23] testa aqui, implica na sua aplicação, você pode trabalhar na modelagem, você como esvovedor
+[69:23 - 69:29] você pode fazer a sua contribuição, mas normalmente tem pessoas especialistas nessa
+[69:29 - 69:33] modelagem, se não tiver você mesmo vai fazer, certo?
+[69:33 - 69:36] Ou é o projetista, o projetivo, da bebida e a empresa.
+[69:36 - 69:40] Agora, você pode ser um profissional, não tem nessa figura,
+[69:41 - 69:48] eu vou colocar em teva, que vai ficar acompanhando a performance
+[69:49 - 69:52] dessa servidor, que é o pessoal da operação,
+[69:53 - 69:56] que é um cara que conhece bem esses programas,
+[69:56 - 70:00] que monitoram o banco de dados, é o outro perfil.
+[70:00 - 70:03] A formação específica disso, esse cara não desigual.
+[70:03 - 70:12] Você pode ser um profissional que se der problema aqui na aplicação, que gerou dados
+[70:12 - 70:20] errados, esse outro profissional tem acesso aqui direto na base e modificar a base, claro,
+[70:20 - 70:23] com todos os critérios de segurança e autorização.
+[70:23 - 70:30] Então, e foi aqui onde eu comentei com vocês que eu parei os siopes, que eu apaguei o
+[70:30 - 70:33] porcentagem de Santa Clara todo, do ano todo,
+[70:33 - 70:34] mas pra comentar com vocês, né?
+[70:34 - 70:35] Isso aqui?
+[70:35 - 70:36] Vou até...
+[70:36 - 70:38] Não, né? Então, comentem depois do intervalo.
+[70:38 - 70:39] É...
+[70:39 - 70:41] Não, mas é importante pra vocês terem cuidado.
+[70:41 - 70:44] É, então, o pessoal da operação também,
+[70:44 - 70:46] eventualmente, mexe na base de dados.
+[70:46 - 70:48] Mas qual são os nomes?
+[70:48 - 70:49] É...
+[70:49 - 70:51] Querem dizer?
+[70:51 - 70:55] Tem vários nomes, mas normalmente se chama o pessoal de suporte,
+[70:55 - 70:57] o pessoal de operação, o pessoal de...
+[70:57 - 71:00] manutenção, depende da empresa, sério.
+[71:00 - 71:06] Normalmente, no banco, por exemplo, chamam o pessoal de operação, operação de infraestrutura.
+[71:06 - 71:09] O pessoal que fica ali acompanhando a operação.
+[71:09 - 71:11] Deu o problema de performance?
+[71:11 - 71:13] Esse pessoal aqui é que atua.
+[71:13 - 71:17] Tem um dado errado, esse pessoal ajeita.
+[71:17 - 71:21] E depois diz que o pessoal do desenvolvimento é o problema está gerendo um dado errado.
+[71:21 - 71:23] Por que ele atua direto aqui?
+[71:23 - 71:25] Porque às vezes é o gente.
+[71:25 - 71:28] Então, eu vou voltar logo a esse caso dos COPS.
+[71:28 - 71:31] Não, deixa eu contar depois do intervalo que tem um aspecto que eu preciso aproveitar.
+[71:31 - 71:33] Tá, então tem esse nó.
+[71:33 - 71:35] E tem outros profissionais, né?
+[71:35 - 71:42] Tem um profissional que eu vou botar aqui também na fronteira, que é...
+[71:42 - 71:47] Tem muitas consultas que tem nessa região aqui como sendo a alta gestão.
+[71:47 - 71:53] Por exemplo, a alta gestão ela requer informações gerenciais com solidades.
+[71:53 - 72:01] Então, eu quero saber, por exemplo, agora qual é o total de ventas em todas as filiais
+[72:01 - 72:06] de um certo produto no último mês.
+[72:06 - 72:10] Esse gestor, ele precisa disso no momento.
+[72:10 - 72:15] Se ele tiver que usar uma consulta dentro de uma aplicação que vem consolidar, tudo
+[72:15 - 72:18] isso aqui vai demorar.
+[72:18 - 72:28] Então muitas vezes existe um processo interno, um outro programa, que diariamente ou numa
+[72:28 - 72:35] certa frequência, como lá toda noite, esse programa ler essas informações e consolida
+[72:35 - 72:43] em uma outra massa de dados, já de forma agrupada, para que esse gestor, quando precisar,
+[72:43 - 72:45] ela vai nessa informação consolidar.
+[72:45 - 72:47] Então isso é um outro profissional.
+[72:47 - 72:49] É o profissional de BI.
+[72:49 - 72:51] E aí é do analista de dados,
+[72:51 - 72:53] o cientista de dados.
+[72:53 - 72:56] Toda essa turma que está aqui,
+[72:59 - 73:01] eles dependem
+[73:01 - 73:03] dessa base
+[73:03 - 73:06] de chão de fábrica, a gente está bem estruturado.
+[73:06 - 73:09] Não adianta você ter cientista de dados, analista de dados,
+[73:09 - 73:11] pessoas de BI,
+[73:11 - 73:13] trabalhando aqui na consolidação
+[73:13 - 73:15] e na inteligência das informações,
+[73:15 - 73:19] porque esse trabalho vai necessariamente requerem
+[73:19 - 73:21] que essa base esteja bem estruturada.
+[73:21 - 73:24] Se isso aqui não estiver estruturado,
+[73:24 - 73:25] isso aqui não consegue trabalhar.
+[73:25 - 73:30] Então, por que que estou falando isso também?
+[73:30 - 73:33] A venda de você trabalhar como
+[73:33 - 73:35] é um funcionário de viagem,
+[73:35 - 73:37] um funcionário de anarrilados,
+[73:37 - 73:38] gesso de dados,
+[73:38 - 73:40] nesse mundo da aplicação,
+[73:40 - 73:41] que não é o mundo dessa cadeira.
+[73:41 - 73:49] Se você começa por aqui sem entender aqui o chão de fábrica e essa cadeira, você
+[73:49 - 73:54] tem a grande chance de não conseguir atuar aqui como deveria, porque você não conhece
+[73:54 - 73:55] os fundamentos.
+[73:55 - 74:03] E a venda de você começar por aqui é muito alta, porque começar por aqui dá muito dinheiro,
+[74:03 - 74:08] você não entende nada de modo lar, você não entende nada do que está por trás.
+[74:08 - 74:11] Então tem que ter cuidado com esse canto da cereia também.
+[74:11 - 74:15] Tem muito canto da cereia, porque o pessoal quer vender pra HNA, sabe?
+[74:15 - 74:17] É a mesma coisa de IA.
+[74:17 - 74:24] Você começar a estudar IA, ciência de dados, IA, ferramentas, sem saber o que está por trás da IA,
+[74:24 - 74:33] sem saber o que está na lógica dos algoritmos, na matemática, um pouco da matemática que está por trás,
+[74:33 - 74:38] você também vai ficar meio cego e vai ficar meio robotizado com o que você vai fazer.
+[74:39 - 74:41] Então, por exemplo, a cadeira de Iá aqui eu dava,
+[74:42 - 74:46] aqui no cenário aqui não vai poder ser muito assim para o carro do tempo.
+[74:46 - 74:50] A gente pegava os algoritmos mais clássicos de Iá
+[74:50 - 74:56] e entendia um pouco da matemática idológica que estava por trás dele.
+[74:57 - 74:59] Então, você criava o fundamento.
+[74:59 - 75:04] Mas você come a estar criando aqui um fundamento, uma solidariedade, você criava um fundamento de IA, certo?
+[75:05 - 75:12] E isso é importante para você entender a lógica da IA, né?
+[75:12 - 75:18] Então, da Peleno, cuidado com esses caminhos muito fáceis, tá?
+[75:18 - 75:23] E aí tem a IA, a própria IA ajudando a trazer um caminho fácil que é perigoso, diz aí.
+[75:23 - 75:53] Por exemplo, é importante sempre estudar, que é a gente para acalmar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para estudar, para
+[75:53 - 75:58] como é que se recupera, pra que você faz isso? O que é uma expressão lógica? Pra que é
+[75:58 - 76:02] aquela série? Como é que ela funciona? Uma expressão aritmética é mais fácil, porque
+[76:02 - 76:09] a matemática a gente trabalha. O que é um comando de seleção? O que é um sírio, um
+[76:09 - 76:15] élson? O que é uma repetição? Qual que tá de parado? Tudo isso que eu tô falando não
+[76:15 - 76:19] é linguagem, não é jarba, não é ser, isso são os conceitos. Depois você materializa
+[76:19 - 76:29] qualquer linguagem. Então, cuidado com a fobação de vai passar etapas, porque senão você
+[76:29 - 76:37] vai fazer uma evolução, você vai trilhar uma evolução sem ter a base teórica. Normalmente
+[76:37 - 76:43] não funciona, vindo os ídios das garrafas vai passar de você, você tem a impressão
+[76:43 - 76:48] você não está perdendo tempo, mas você não está perdendo tempo, você está ganhando tempo, sério?
+[76:48 - 76:53] Ah pessoal, 9h30, 8h35 a gente volta aí em 20 minutos, ó!
+[76:53 - 76:54] Beleza!
+[76:55 - 76:58] Vou cuidar aqui para fazer o repasso de sinalzinho.
+[77:02 - 77:06] Não te dá muito grato, ajuda na tomada de decisão?
+[77:06 - 77:09] Eu vou meter aqui a atapação de aula.
+[77:09 - 77:12] Isso, muito feliz, é, você projetou, mas tudo bem.
+[77:12 - 77:17] Aqui tem a parte de operação, aqui tem as aplicações que geram esses data e RALSA,
+[77:17 - 77:23] são outros tipos de aplicações de BI, de estação de informações, né?
+[77:23 - 77:31] E aqui nessa grande fronteira, usando todo esse aparato, temos gestores, alta gestão,
+[77:31 - 77:35] cientistas de dados, para que isso tudo esteja bem preparado.
+[77:35 - 77:37] E a própria LH, certo?
+[77:37 - 77:38] Então, certo.
+[77:38 - 77:41] Vamos te dar esse grande mundo, tá?
+[77:41 - 77:47] O mundo que o desenvolvedor atuando aqui, nessa parte, e nessa parte também.
+[77:47 - 77:49] E o...
+[77:49 - 77:53] Pode ser o desenvolvedor que faz modelagem, pode ser especialista,
+[77:53 - 77:57] um especialista se tiver na empresa, pode ser uma pessoa de projeto.
+[77:57 - 77:59] O ideal é que tenha alguém com essa capacidade.
+[77:59 - 78:03] Ah, no banco tinha uma pessoa, mas ele fazia de modo informal.
+[78:03 - 78:09] A gente, como desenvolvedor aqui nos projetos, decidia que precisava de algumas tabelas,
+[78:09 - 78:10] novas, de alguns relacionamentos.
+[78:10 - 78:18] E a melhor forma de fazer isso, a gente tinha, o desenvolvedor tem uma opinião, tem um entendimento,
+[78:18 - 78:24] mas a gente às vezes levava o pessoal aqui, na verdade era um cara que nem está lá mais,
+[78:24 - 78:27] que ele tinha essa capacidade de ajudar nessa modalagem, sabe?
+[78:27 - 78:31] É um cara com um perfil que tem sumido um pouco das empresas nesse cara,
+[78:31 - 78:33] mas há de que eu não concordava muito,
+[78:35 - 78:37] vou dar uma tutorial até comentar sobre isso.
+[78:37 - 78:39] Mas bem,
+[78:40 - 78:43] tecnologia de tempo real e de outro das ativas
+[78:43 - 78:45] não tem muito o que mudar.
+[78:45 - 78:47] Hoje em dia,
+[78:47 - 78:49] é tudo de tempo real,
+[78:51 - 78:53] mas
+[78:53 - 78:55] é interessante constar aqui
+[78:55 - 78:57] porque existem sim aplicações,
+[78:57 - 78:59] muitas aplicações
+[78:59 - 79:02] que não trabalham em tempo real.
+[79:02 - 79:04] Quer tempo real online, né?
+[79:04 - 79:09] Você está aqui, acessa as informações porque tem que ser recuperada informação agora,
+[79:09 - 79:12] resolver um problema agora, uma informação atualizada.
+[79:14 - 79:16] Muito dessa fronteira aqui,
+[79:18 - 79:20] essa fronteira, esse mundo aqui,
+[79:20 - 79:25] normalmente essa consolidação, ela se refere ao dia anterior.
+[79:25 - 79:28] Ou se refere às últimas três horas.
+[79:28 - 79:31] de três horas para trás, porque são processos
+[79:31 - 79:34] essa consolidação aqui que não dá tanto a ver,
+[79:34 - 79:36] mas lá você vai ver porque ela projetou,
+[79:36 - 79:38] ela consolera e demora,
+[79:38 - 79:39] ela vai consolidando,
+[79:39 - 79:42] então ela não é, essas consultas aqui,
+[79:42 - 79:46] muitas vezes, elas não são em tempo real,
+[79:46 - 79:49] pode ser dessa consolidação,
+[79:49 - 79:51] mas ela pode também pegar aqui de tempo real.
+[79:51 - 79:53] Nosso mundo é esse aqui,
+[79:53 - 79:57] nós temos todos esses outros mundos que você pode vir trabalhar.
+[79:58 - 80:04] É um grande banco de dados, mas o ponto de vista que eu imagino,
+[80:04 - 80:09] se um banco for uma empresa como CEMAR, que já tem diversos sistemas,
+[80:09 - 80:12] sei lá, 20, 30 sistemas por vários bancos de dados,
+[80:12 - 80:15] por vários assistentes, imaginários.
+[80:15 - 80:19] Então, uma coisa importante de entender é o seguinte,
+[80:19 - 80:24] qual é o grande alvo, já comentamos aqui,
+[80:24 - 80:26] o grande alvo de desenvolver o sistema
+[80:26 - 80:32] E consequentemente fazer um sistema que atenda funcionalmente o usuário,
+[80:32 - 80:40] que o sistema tenha relatórios, consultas, funcionalidades que resolvem o problema dele.
+[80:40 - 80:42] É isso, é isso que você tem que fazer.
+[80:42 - 80:45] Isso se chama requisitos funcionais, certo?
+[80:45 - 80:50] Vai ver lá a Ingerient Software na disciplina de requisitos, etc.
+[80:50 - 80:57] Existem requisitos não funcionais, que não se relacionam diretamente com o negócio dele.
+[80:57 - 81:04] Um requisito não funcionar, por exemplo, é a performance, a performance, o tempo de resposta.
+[81:04 - 81:16] Ações aqui, uma aplicação, de dê na aplicação, me dê aqui as vendas do mês de março de 2014.
+[81:16 - 81:21] o que é que se espera aqui, devolva num tempo razoável, né?
+[81:21 - 81:25] Tem algumas funcionalidades que tem que ser de imediato,
+[81:25 - 81:29] a gente está vendo, o cliente está ali na frente, tem que ser de imediato.
+[81:29 - 81:32] Tem algumas que dá para esperar um pouco mais de tempo.
+[81:32 - 81:36] Então cada funcionalidade tem também requisitos não funcionais, né?
+[81:36 - 81:37] De performance e tal.
+[81:37 - 81:40] Por que eu estou trazendo isso nesse momento?
+[81:40 - 81:48] Performa-se o liberto de dados, ele depende, como muita coisa inteira, de dois componentes,
+[81:48 - 81:49] em linhas gerais.
+[81:49 - 81:55] Não é o próprio hardware, memória, capacidade de processamento do servidor, né?
+[81:55 - 82:01] E aí toda essa história dos datascentes, toda essa história do recurso que aí requer,
+[82:01 - 82:03] qualquer tal, recurso e servidor.
+[82:03 - 82:07] Mas é importante você saber que não é só isso.
+[82:07 - 82:12] E você, claro que a potência do servidor, a potência da transversão,
+[82:12 - 82:18] esse pessoal aqui da operação, esse pessoal aqui da operação,
+[82:18 - 82:22] está aqui monitorando, fazendo ajuste fino,
+[82:22 - 82:30] utilizando rotinas, usando essa parte dos programas que possivelita isso,
+[82:30 - 82:34] esse pessoal da operação, é necessário.
+[82:34 - 82:38] Ah, precisa aumentar a capacidade do meu servidor, né?
+[82:38 - 82:44] Você for da nuvem, isso é mais fácil, tudo isso, tá valendo, isso é super tinhente.
+[82:44 - 82:46] Isso é uma parte da história.
+[82:46 - 82:51] Mas a outra parte da história é você ter uma boa modelagem.
+[82:51 - 82:57] Porque a boa modelagem ela vai ajudar também na perfocação, certo?
+[82:57 - 83:03] Porque a depender de como as tabelas, as informações estão se relacionando,
+[83:03 - 83:13] Ajudará as rotinas de otimização dos servidores e dos sistemas de envenenciador de maturados
+[83:13 - 83:16] até um melhor resultado.
+[83:16 - 83:23] Outro aspecto, redundância, se você tem informação muito duplicada, isso corre o risco de recuperar
+[83:23 - 83:24] informações erradas.
+[83:24 - 83:31] Então, a perfora, se atender bem ao usuário é atender a informação que ele quer com
+[83:31 - 83:36] com segurança no tempo certo, principalmente.
+[83:36 - 83:42] E atender no tempo certo com segurança requer hardware, requer monitoramento,
+[83:42 - 83:43] mas requer também modelagem.
+[83:43 - 83:48] Requer você criar as tabelas relacionamente corretas.
+[83:50 - 83:52] Você pode ter máquina, a gente falou em computação quântica,
+[83:52 - 83:55] que na força bruta faz as coisas rápidas.
+[83:55 - 84:02] Mas, em um extremo assim, muito, deixando a computação quântica de lado, porque ela
+[84:02 - 84:09] é muito específica para problemas que têm essas combinações, mas mesmo os servidores,
+[84:09 - 84:15] sem ser computação quântica muito potentes, lá no extremo, a depender do problema, computadores
+[84:15 - 84:21] super potentes, a depender do problema, pode ser que ele demore séculos para resolver.
+[84:21 - 84:27] Não vai ser problema assim que a gente vai se encontrar todo dia, mas volta a falar,
+[84:27 - 84:32] vocês estão sendo treinados para ter um horizonte muito amplo.
+[84:32 - 84:35] Ah não, eu quero um horizonte muito pequeno também, se apreta.
+[84:35 - 84:36] O que eu quero dizer?
+[84:36 - 84:43] Você bota um computador no super computador, para ele, por exemplo, fazer alguma consolidação
+[84:43 - 84:50] de informações aqui, vai fazer esse processamento, essas aplicações para gerar esse Data Warehouse,
+[84:50 - 84:57] esses consolidadores, dependendo dessa quantidade de informações, pode ser que demore muito tempo,
+[84:57 - 85:01] se os relacionamentos, se o teu projeto não tiver sido bem feito.
+[85:01 - 85:08] AIA, aia é a minha homologica, porque é que demanda tanto tempo, tanta água, tanta energia,
+[85:08 - 85:16] porque aia só dá esse resultado porque ele pega, aia ela tá bem aqui,
+[85:16 - 85:25] Os alwejos de ar pegam uma quantidade muito representativa de diversos servidores do
+[85:25 - 85:32] mundo todo, o Shot Pt, as LLMs fizeram isso, que é para treinar e ar, seja lá o que significa
+[85:32 - 85:36] treinar e ar, porque não é dessa cadeira, pode ficar em outra, como no momento que
+[85:36 - 85:38] eu estou falando.
+[85:38 - 85:44] E generalizar regras, porque é generalizar regras, ele vê que grande, maior parte das
+[85:44 - 85:52] vezes nos textos quando você faz, quando você tem uma frase. Eu estudo no cenário,
+[85:52 - 85:58] portanto eu sou um, muitas vezes esse tipo de situação, a palavra que vem não é
+[85:58 - 86:05] um jogador de futebol, não é um astronauta. Muitas vezes esse tipo de formatação de
+[86:05 - 86:11] frase ele generalizou porque ele processou toda essa quantidade enorme de dados, grande
+[86:11 - 86:16] 100% de ser um aluno, então ele faz assim, ele é estatístico, é probabilístico, não
+[86:16 - 86:19] tem nada de pensamento ali, ele não sabe nem o que está...
+[86:19 - 86:23] Ele não tem sentido nem dizer se ele sabe ou não sabe, é matemática, aquilo é o
+[86:23 - 86:24] mundo, certo?
+[86:24 - 86:25] E o que ele quer dizer?
+[86:25 - 86:31] Então esses algoritmos que fazem essas generalizações, eles processam uma quantidade enorme de dados,
+[86:31 - 86:35] então por mais que eles sejam potentes, demandam muito tempo.
+[86:35 - 86:41] Mas se a organização dos dados não tivesse sido bem feita, vai demorar mais tempo aí,
+[86:41 - 86:50] tem um pequeno complicado. Os bancos de dados, normalmente os sistemas usam, são estruturados,
+[86:50 - 86:56] tabelas, colunas, que a gente vai trabalhar, mas existem também informações desestruturadas,
+[86:56 - 87:08] são PDFs, documentos, vídeos, a parte, informações de IoT, de sensores, então tudo são informações
+[87:08 - 87:10] que ele também considera.
+[87:10 - 87:15] Isso traz uma capacidade para complicar a maior.
+[87:18 - 87:21] E aí chegou aqui no SGB desde a conversão bastante,
+[87:21 - 87:23] a coleção de programa.
+[87:23 - 87:25] Então eu vou pular porque eu já falei.
+[87:26 - 87:28] Até aqui também já falou.
+[87:31 - 87:33] Metadatos a gente não falou.
+[87:33 - 87:35] Eu vou só dar uma piscelada sobre metadatos
+[87:35 - 87:37] porque a gente vai voltar a falar com mais cuidado
+[87:37 - 87:38] mais para frente.
+[87:38 - 87:46] Metadados não é algo que é assim fundamental, não é algo que você usa todo dia, mas é
+[87:46 - 87:48] importante você saber que existe.
+[87:48 - 87:56] E eu vou dizer porque, quando você cria, eu vou deixar de contar esse roteiro para simplificar
+[87:56 - 88:02] essa é a última vez que você tem um requisito, você entende esse requisito, vamos a uma estratégia,
+[88:02 - 88:04] você faz a modelagem, o relacionamento,
+[88:04 - 88:07] e você decide, no seu projeto,
+[88:07 - 88:09] criar essas tabelas com esses relacionamentos.
+[88:09 - 88:10] Beleza.
+[88:10 - 88:12] Quando você vai criar essas tabelas,
+[88:12 - 88:14] você executa comandos,
+[88:14 - 88:16] você vai aprender,
+[88:16 - 88:19] o comando se chama CreateTable,
+[88:19 - 88:20] nada mais intuitivo,
+[88:20 - 88:22] CreateTable você vai criar tabela.
+[88:22 - 88:24] Quando você cria essa tabela,
+[88:24 - 88:26] porque você precisa atender esse requisito,
+[88:26 - 88:28] o próprio SGD,
+[88:28 - 88:35] esse GVD cria outras tabelas, que se chamam tabelas de metadados.
+[88:35 - 88:42] Essas tabelas de metadados, esse termo meta é informação sobre informação.
+[88:42 - 88:48] Então, essa tabela de metadados são tabelas que têm informações sobre as tuas tabelas.
+[88:48 - 88:55] Então, essas tabelas têm, por exemplo, ela tem, por exemplo, até que eu fiz uma notazinha
+[88:55 - 89:02] ideal, vou tentar recuperar ali. Ela tem por exemplo, se tu criou 15 tabelas, cada uma
+[89:02 - 89:09] com 10 campos, numa tabela de metadatos do SGPD tem todos esses campos, todas essas tabelas,
+[89:09 - 89:16] todos os tipos que você criou. Então ele armazena as informações das tuas estruturas, das tuas
+[89:16 - 89:23] tabelas, nas tabelas dele. E aí para que ele faz isso? O sistema gerenciador de bandidos
+[89:23 - 89:25] é uma coleção de programas.
+[89:25 - 89:28] E uma das funções desses programas é
+[89:28 - 89:32] otimizar as consultas. Então ele tem otimizadores internos.
+[89:32 - 89:34] Isso aqui fica transparente pra gente.
+[89:34 - 89:36] Então esses otimizadores, muitas vezes,
+[89:36 - 89:39] eles usam essas informações dos metadata.
+[89:39 - 89:41] Mas você pode usar também.
+[89:41 - 89:44] No seu programa, na sua aplicação,
+[89:44 - 89:47] você pode ter acesso a esses metadata.
+[89:47 - 89:50] Então assim na sua aplicação,
+[89:50 - 89:54] você pode ter acesso, os metadados são tabelas aqui do quanto de dados.
+[89:54 - 90:01] Então, por exemplo, se você quiser fazer uma aplicação que cria alguma funcionalidade,
+[90:01 - 90:06] que mostra quais são os campos que existem na tua tabela de vendedores, tá?
+[90:06 - 90:13] Onde é que você vai recuperar esses campos? Você vai recuperar de uma tabela de metadados.
+[90:13 - 90:17] Porque lá tem informações sobre suas tabelas.
+[90:17 - 90:21] dados sobre dados, é para dados, certo?
+[90:21 - 90:23] Então, eventualmente, isso pode ser útil.
+[90:23 - 90:25] Lá tem, por exemplo, todos os índices.
+[90:25 - 90:30] Lá tem os usuários, quem acessa o que, então tem...
+[90:30 - 90:35] É um conjunto de informações que podem ser úteis na clafificação.
+[90:35 - 90:38] Não é muito comum você usar, mas é importante você saber que existe.
+[90:38 - 90:43] Fiquei a sonheira aqui, um exemplo, uma notazinha de óculos que eu fiz.
+[90:43 - 90:46] A gente vai ver isso com mais cuidado mais para frente.
+[91:13 - 91:33] Ok, vamos voltar a falar sobre isso, mas fica essa a intuição.
+[91:33 - 91:39] Manipulação, consulta, atualização de multidados, a gente falou bastante, capacidade
+[91:39 - 91:41] sem suma para gerar relatores.
+[91:41 - 91:47] Uma coisa que já comentei também, mas só voltando, a uma importância da Banco de Dados
+[91:47 - 91:53] é diversos usuários poderem programar e acessar as informações simultaneamente.
+[91:53 - 91:56] Então, retomando.
+[91:56 - 92:04] Você vai desenvolver um sistema de vendas, você precisa de uma tabela de funcionários
+[92:04 - 92:08] por algum motivo, porque por exemplo, no seu sistema de vendas você precisa saber qual
+[92:08 - 92:12] vai a função daquele funcionário dentro da empresa
+[92:12 - 92:14] para saber se ele pode autorizar a venda ou alguma coisa estiva.
+[92:14 - 92:16] A funcionalidade do sistema diventa,
+[92:16 - 92:19] mas precisa de informação sobre algumas informações sobre funcionários.
+[92:19 - 92:21] Você não vai criar a tabela de funcionário.
+[92:21 - 92:28] Você vai conversar com o responsável pelo sistema de recursos humanos,
+[92:28 - 92:30] que lá tem uma tabela de funcionários,
+[92:30 - 92:33] e você vai dizer, olha, eu preciso acessar no meu sistema
+[92:33 - 92:36] as suas informações de funcionários.
+[92:36 - 92:41] Antes você não tinha esse compartilhamento, era pelo menos mais difícil.
+[92:41 - 92:48] Então o responsável pelo sistema de RH vai te dar acesso.
+[92:48 - 92:51] Ele tem esse poder.
+[92:51 - 92:55] Então ele possibilita isso.
+[92:55 - 93:02] O programa de aplicação acessar o bump de dados, já falamos.
+[93:02 - 93:04] com o outro já falamos também, tá?
+[93:04 - 93:08] Essa aqui a gente já comentou com vocês, tá?
+[93:08 - 93:11] Conceito de transação, taquinhasuzinho,
+[93:11 - 93:13] é algo que a gente também vai ver na prática,
+[93:13 - 93:16] mas assim como o Metadados dá um...
+[93:16 - 93:18] um... um overview agora,
+[93:18 - 93:20] mas já fica agorrada.
+[93:20 - 93:22] É... e aí eu reforço,
+[93:22 - 93:24] nada disso que eu tô falando
+[93:24 - 93:27] é de um fornecedor X, Y, Z,
+[93:27 - 93:29] isso é padrão dos bancos de dados.
+[93:29 - 93:31] Todos os fornecedores de implementos
+[93:31 - 93:35] implementar, né? Algum ou outra talvez, não sei se eu não consegui exercir todos os
+[93:35 - 93:39] implementos, mas esse é o padrão. São os conceitos que todos deveriam
+[93:39 - 93:42] implementar, normalmente todos os implementos, os grandes implementos.
+[93:42 - 93:47] Qual é o conceito de transação? Aqui fala o seguinte,
+[93:47 - 93:50] pode fazer que alguns dados sejam lidos e outros acabados o ponto de verdade, mas
+[93:50 - 93:54] principalmente é segura. Conjunto de ações atômicas aplicáveis no meu
+[93:54 - 93:58] da proteção de sistemas, proteção de seguras.
+[93:58 - 94:04] Deixe-me explicar o que é esse ações atômicas.
+[94:04 - 94:10] Você pode trabalhar na incessão de dados, atualização de dados,
+[94:10 - 94:15] por meio de transação ou sem transação.
+[94:15 - 94:18] Como é que funciona isso?
+[94:18 - 94:23] Suponha que existe uma necessidade do usuário fazer o seguinte.
+[94:23 - 94:37] Por algum motivo do negócio dele, ele tem 15 mil vendedores, tem muitos vendedores e ele só quer cadastrar um vendedor na tabela de vendedores,
+[94:38 - 94:44] se tiver uma venda para aquele vendedor.
+[94:44 - 94:49] Então, ele não quer fazer o cadastro de vendedor sem ter nenhuma venda para aquele vendedor.
+[94:49 - 94:52] A partir do momento que ele faz a primeira venda,
+[94:52 - 94:54] ele tem o cadastro realizado, sabe?
+[94:54 - 94:56] Está claro?
+[94:58 - 94:59] Aqui é a bicho.
+[94:59 - 95:00] Ó, vai ficar o...
+[95:00 - 95:02] É a regra dele, tá?
+[95:02 - 95:04] Você pode até entender...
+[95:04 - 95:07] Olha, fulano, será que faz sentido isso?
+[95:07 - 95:08] Não é melhor ser cadastro.
+[95:08 - 95:10] Não, eu quero isso...
+[95:10 - 95:12] Ele é quem manda, ele é quem paga,
+[95:12 - 95:15] ele é quem tem o direito de pedir daquele jeito.
+[95:15 - 95:17] Ele tem até o direito depois de mudar, sabe?
+[95:17 - 95:25] mas é assim que funciona, você pode, olha normalmente, mas se ele disser assim que eu
+[95:25 - 95:29] quero é assim que você vai fazer, assim que você vai modelar, então tem essa regra que
+[95:29 - 95:39] você tem que cumprir, se inserir uma informação na tabela de vendedores, é só se tiver uma
+[95:39 - 95:44] venda para aquele vendedor, então duas tabelas, vendedores e divendres, tá claro?
+[95:44 - 95:52] do jeito que a gente faz sem transação como é que é você no teu programa e
+[95:52 - 95:58] alguma linha do teu programa você insere o vendedor e alguma outra linha
+[95:58 - 96:02] do teu código você vai inserir a venda para aquele vendedor
+[96:02 - 96:08] se você não usa o conceito de transação quando você inserir o vendedor
+[96:08 - 96:19] deu um problema, sei lá, faltou energia, travou, ele série o vendedor e não deu tempo da aplicação e seria a venda.
+[96:20 - 96:27] A base de dados vai ter o vendedor sem venda, ou seja, você não atendeu o requisito do usuário.
+[96:27 - 96:32] Por que aconteceu um imprevisto?
+[96:32 - 96:41] O controle de transação, e aí que ele se refere aqui a ações atômicas, ele ajuda
+[96:41 - 96:44] você a não cair nesse risco.
+[96:44 - 96:48] Uma forma é você não usar transação, porque você corre esse risco, entrou vendedor sem
+[96:48 - 96:49] entrar a ver.
+[96:49 - 96:54] Outra forma é você usar transação, quando você usar transação, como é que funciona?
+[96:54 - 96:58] você informa para o banco de dados, tem um comando específico chamado BigIntransaction.
+[96:58 - 97:02] Você informa, pode ser de dentro da sua aplicação, pode ser lá pela interface.
+[97:02 - 97:06] Você informa, o banco de dados, inicia uma transação.
+[97:06 - 97:10] Aí eles já sabem o que vai fazer da seguinte forma.
+[97:10 - 97:18] Se inicia a transação, você coloca um incerte do vendedor, você submete um incerte da venda.
+[97:18 - 97:22] Só depois que você disser para ele.
+[97:22 - 97:26] Finalize, que é o comit, finalize, comite lá no gate também,
+[97:26 - 97:27] é o mesmo sentido.
+[97:28 - 97:30] Ele pega e faz as duas ao mesmo tempo.
+[97:32 - 97:33] Ou ele faz as duas e não faz nenhuma.
+[97:34 - 97:37] Você abriu a transação,
+[97:38 - 97:39] fez o primeiro inserte,
+[97:40 - 97:42] faltou energia, o próprio banco de dados,
+[97:43 - 97:45] desfaz a primeira transação.
+[97:47 - 97:48] Ele fica responsável por isso.
+[97:48 - 97:57] Então ele evita que fique inconsistente conforme a regra dos válvios, é?
+[97:57 - 98:12] Outra situação, você vai, para ver meu figurinho, você é uma pessoa que trabalha aqui na operação,
+[98:12 - 98:22] Esse pessoal da operação resolve problemas diretamente na base da produção, certo?
+[98:22 - 98:32] Por algum motivo a tua aplicação atualizou um percentual de recolhimento de impostos
+[98:32 - 98:35] das vendas do mês passado.
+[98:35 - 98:39] Um erro aqui na aplicação gerou essa inconsistência na massa.
+[98:39 - 98:49] E tá, agora não tem como esperar, vai entrar aqui um processamento e vai consolidar esses impostos pagos,
+[98:49 - 98:58] recolhidos, errado. Então esse pessoal da operação, alguém identificou do negócio, esse pessoal da operação é acionado para
+[98:58 - 99:08] modificar as taxas de acolhimento de impostos do mês passado, de uma certa filial, beleza?
+[99:08 - 99:14] E tem que fazer ali agora, porque o gerente aqui está precisando agora.
+[99:14 - 99:19] Depois o pessoal aqui remete ao pessoal de desenvolvimento para tirar o erro.
+[99:19 - 99:23] Então não dá para esperar o erro, mas porque o erro já está na base de dados.
+[99:23 - 99:24] Show.
+[99:24 - 99:29] Esse pessoal aqui que tem acesso direto, e toda empresa tem esse pessoal que trabalha com
+[99:29 - 99:33] incidentes, é considerado incidente, é que apaga o fogo, depois você vai ver a causa
+[99:33 - 99:36] do incidente, do fogo.
+[99:36 - 99:39] e esse pessoal tem acesso a mexer direto na mágica de produção.
+[99:43 - 99:49] E aí, suponha que quando ele foi atualizar a taxa de imposto,
+[99:49 - 99:52] que era para atualizar só do mês passado,
+[99:52 - 99:55] ele errou o comando, né?
+[99:55 - 99:58] O comando de update que a gente vai ver aqui,
+[99:58 - 100:01] submeteu aqui a partida da interface, né?
+[100:01 - 100:03] Ele usa aqui a interface.
+[100:03 - 100:16] O presidente vem de submetê-lo atualizando, só daquela e-mail, só daquela filial, ele errou, errou no filter e atualizou de todas as filiais dos últimos 10 anos.
+[100:16 - 100:29] antes dele ter um ataque cardíaco, se ele faz esse comando de atualização, tendo aberto
+[100:29 - 100:38] uma transação, abre a transação, faz o comando de atualização, checa, se ele identificar
+[100:38 - 100:48] um erro ele comanda. Desfácil. O PopBug de Dato desfaça tudo. É um comando chamado
+[100:48 - 100:58] rollback. Se ele não usa o controle de transação, faz esse update e não tem mais volta.
+[100:58 - 101:02] Não, pera, isso eu nunca tinha visto, isso é novo.
+[101:02 - 101:08] A transação te permite voltar no tempo, no banco de dados.
+[101:08 - 101:10] Contar um ebeacabe.
+[101:10 - 101:11] Não é ebeacabe.
+[101:11 - 101:15] Quando você abre a transação e faz uma atualização,
+[101:15 - 101:18] ele guarda no área, a temporada, a dele interna.
+[101:18 - 101:20] Você precisa fazer nada.
+[101:20 - 101:22] Ele mesmo tem esse controle.
+[101:22 - 101:24] A gente vai fazer aqui na prática.
+[101:24 - 101:27] Você abre a transação, dá um update,
+[101:27 - 101:34] Ele atualiza, você dá um select, tá atualizado, fiz uma coisa errada, rollback.
+[101:34 - 101:37] Ele pega e desfaz internamente.
+[101:37 - 101:39] Você tem uma janela de tempo pra fazer isso?
+[101:39 - 101:40] Não.
+[101:41 - 101:44] Só tem um problema, eu caí nesse problema.
+[101:45 - 101:48] É, com o meu segundo grande trauma com a mão de dados, sabe?
+[101:48 - 101:51] Aí tem vários traumas da carreira, todo mundo tem trauma.
+[101:51 - 101:56] Eu apaguei as dadas da Santa Clara, e eu também fiz um besteiro que eu vou contar pra vocês.
+[101:56 - 102:01] Fazer o que acontece à besteira é isso, é importante ser do da transação, sério?
+[102:02 - 102:05] Um dia desse lá no banco, tá, o backup.
+[102:05 - 102:10] Se você não usa a transação e faz essa atualização que não era para ter feito,
+[102:10 - 102:13] aí sim você vai ter que pegar o backup e voltar.
+[102:13 - 102:17] Só que às vezes o backup desse, de tanto ser gijo, demora um dia para retornar.
+[102:17 - 102:19] E aí você para operação, eles causam problema na nada.
+[102:19 - 102:24] Então, esse pessoal que trabalha direto aqui atuando,
+[102:26 - 102:29] entenhas pessoal e tem que ter muito cuidado.
+[102:30 - 102:31] Estava muito atenção no que estava falando.
+[102:31 - 102:33] Eu deixei um lá no Banca Paró,
+[102:33 - 102:34] os dados da tabela toda.
+[102:35 - 102:36] Os casos, o problema da nada.
+[102:37 - 102:41] Mas acontece, não pode ser uma coisa tão frequente.
+[102:42 - 102:43] É, rotineira.
+[102:46 - 102:49] Ainda mais hoje, no dirrito mais acelerado de desenvolvimento.
+[102:49 - 102:52] E onde é que eu parei a polícia do Estado Serágio?
+[102:52 - 102:56] 2002, 2001, eu trabalhava no Ceops.
+[102:56 - 103:00] E além de trabalhar aqui, essa parte,
+[103:00 - 103:05] era um sistema comprado, então a gente não tinha muita liberdade para mexer na aplicação.
+[103:05 - 103:10] Mas a gente eventualmente criava umas tabelas, mas eu trabalhava muito aqui,
+[103:10 - 103:14] monitorando, era o Baso de Dados, era um SGB de DDo da Aura,
+[103:14 - 103:18] e eu trabalhava tanto na monitoramento da performance,
+[103:18 - 103:21] como também trabalhava eventualmente direto na Baso,
+[103:21 - 103:25] porque a aplicação, uma situação rara e outra gerava um dado errado.
+[103:25 - 103:34] de lado e de lado. E aí não era muito comum, mas aconteceu de eu ter que atuar aqui para
+[103:34 - 103:40] atualizar os dados de uma correncia, não era nem o que era, foi muito tempo, 26 anos,
+[103:40 - 103:49] sei lá, de 5 anos, parece que foi o mesmo tempo. Só que alguns bancos de dados, quando
+[103:49 - 103:56] quando você abre a transação, pelo menos o óreco era assim, ele loca, aquela tabela que você está mexendo,
+[103:56 - 104:05] quer loca, ele bloqueia, ninguém, um banco de dados desse aqui eu já fiz uma aplicação, mas tem em algum momento
+[104:05 - 104:12] centenas de aplicações acessando ele, muitas instâncias, vários usuários usando o sistema
+[104:12 - 104:19] assaçando ao mesmo tempo. Ele gerencia toda essa concorrência. Inclusive tem, vou ter
+[104:19 - 104:23] aqui estratégia de você pegar esse bump de dados e replica ele aqui, para não se alcançar
+[104:23 - 104:28] para se inclusive era assim. E essas duas bases elas ficam sincronizadas, elas têm o mesmo dado.
+[104:28 - 104:35] Se uma cair, a outra suma. Além disso, para aplicação é como se fosse uma só, e um
+[104:35 - 104:40] software gerencia, esse está muito sobrecarregado, passa para o outro.
+[104:40 - 104:44] Ah, bem, o ano que eu tinha essa característica, eu fui fazer uma atualização,
+[104:44 - 104:50] abrir a transação por segurança, dei um apedente e ele loucou a tabela.
+[104:50 - 104:57] Significou que todas as instâncias do Italiatendimento, o pessoal que recebia a ligação,
+[104:57 - 105:02] travou, porque eu não liberei a tabela, só que eu não me toquei.
+[105:02 - 105:07] Assim, lá no senhor você vai comer aqui, é toda empresa, tem um plano B, né?
+[105:07 - 105:17] Não pode ficar, a empresa não pode ficar exclusivamente dependente da TI, do sistema de informar,
+[105:17 - 105:20] porque se der problema, ele tem que ter uma saída, tem que ter um plano B.
+[105:20 - 105:24] E lá tinha um plano B, quando o sistema travava,
+[105:25 - 105:34] distribuía-se umas fichinhas, papel, você tinha aqui o setor de atendimento, que eram civis,
+[105:34 - 105:37] e tinha que ir na outra sala os militares.
+[105:37 - 105:39] Militar, bom, ele seguiu.
+[105:39 - 105:42] Aqui eu sejo atendido, registrado no sistema,
+[105:42 - 105:45] ele lá olhava e despachava as viaturas,
+[105:45 - 105:48] e era a parte militar, a parte de atendimento.
+[105:48 - 105:53] Quando isso travava, esse pessoal, o sistema travou no papel,
+[105:53 - 105:57] corria alguém lá, entregava, a pessoa, curradi, tal, tal.
+[105:59 - 106:02] E aí eu fiz esse comando, não me toquei, parou tudo,
+[106:02 - 106:03] eu sabia do procedimento,
+[106:03 - 106:06] E eu fiquei ali, né? Aí começou a ver aquele negócio,
+[106:06 - 106:08] eu disse a pai está tendo algum problema,
+[106:08 - 106:10] o pessoal começou a correr com os papéis,
+[106:10 - 106:13] e aí eu...
+[106:13 - 106:14] Aí eu...
+[106:14 - 106:15] Aí eu...
+[106:15 - 106:18] Aí eu sorri, aí fiquei por ali, né?
+[106:18 - 106:21] Piu, voltou, então tá bom.
+[106:21 - 106:23] Ninguém viu.
+[106:23 - 106:24] Ninguém viu.
+[106:24 - 106:26] Depois de um tempo eu comecei a contar isso,
+[106:26 - 106:27] a Ratiã, a Tama.
+[106:27 - 106:29] Aí eu aguardo e trazei isso porque,
+[106:29 - 106:32] se você vier um dia trabalhar nessa fronteira,
+[106:32 - 106:35] Tenha cuidado. Se você trabalha aqui,
+[106:35 - 106:37] você vai ao auditoria e tem, eu trabalho há um bom tempo
+[106:37 - 106:39] no auditoria e tem lá do banco,
+[106:39 - 106:42] em que a auditoria faz muitas consultas,
+[106:42 - 106:46] porque nos dados tem muitas indícios de fraude,
+[106:46 - 106:49] indícios de problemas, então faz muita consulta.
+[106:49 - 106:50] E eu não avalo fazer consulta,
+[106:50 - 106:53] e tava, né, porque eu tô batendo assim.
+[106:53 - 106:56] É muito legal, é uma forma diferente de programar,
+[106:56 - 106:58] mas vamos para a frente.
+[106:58 - 107:06] Se você trabalha aqui fazendo consultas ou trabalha aqui apurando informações para
+[107:06 - 107:16] consolidar ou mesmo aplicações, esse pessoal que monitora a performance, quando você submete
+[107:16 - 107:23] uma consulta, esporádica, pois eu preciso recuperar as informações em todas as agências
+[107:23 - 107:29] do banco nos últimos 3 anos, é uma consulta que tem, vai demorar muito tempo, que ele
+[107:29 - 107:34] vai coletar aqui o local de informação e você pode fazer essa consulta de um modo
+[107:34 - 107:39] não otimizado e o que é que acontece?
+[107:39 - 107:44] Pode aumentar aqui a sobrecarga do processador, pode ter um pessoal monitorando, tem software
+[107:44 - 107:48] monitorando ele, é uma coleção de programas.
+[107:48 - 108:18] no mesmo contexto o próprio monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento do monitoramento
+[108:18 - 108:27] Fremio OQ, ex-ambientes, tem os bancos de dados. Aqui, tu mexe à vontade. Faz, testa, valida, fechou.
+[108:27 - 108:36] Transfere todos esses binários, criam todas as taberas em outro servidor. Servidor de teste.
+[108:36 - 108:43] Aí um equipe de teste vai testar, ainda são dados não reais. Às vezes você traz os dados reais
+[108:43 - 108:49] para ajudar os testes. Testou, você vai para outro servidor. Esse outro servidor, o pessoal da operação
+[108:49 - 108:56] aqui já ajuda. Esse outro servidor, é o servidor que permite o usuário vir e fazer os testes,
+[108:56 - 109:03] validação, homologação. Depois é que você vai para o servidor de produção, que são os dados reais
+[109:03 - 109:12] do dia a dia. Você trabalha lá, desenvolve mesmo. E aí, eventualmente, chega o prediz assim, toma aqui
+[109:12 - 109:21] aqui a senha de produção, porque aqui dentro do banco de dados você tem usuário de que
+[109:21 - 109:27] tem acesso a cada um dos servidores ou a esse, toma aqui o usuário que tem acesso lá a
+[109:27 - 109:33] base de produção, porque eventualmente tu quer consultar direto ou eventualmente tu
+[109:33 - 109:35] precisa, você diz sabe o que?
+[109:35 - 109:45] Não queira, somente ser seu usuário, tiver acesso para atualizar, para excursir, mesmo
+[109:45 - 109:47] que não tenha.
+[109:47 - 109:54] Você consultar informações que você não deve e já pode causar problema, certo?
+[109:54 - 110:00] Não achar que você está estudando privacidade, uma série de outras questões, se você submete
+[110:00 - 110:06] consulta, que compromete, vai te causar problema. Então assim, desenvolvedor, esse pessoal aqui
+[110:06 - 110:16] tem nada que ficar acessando essa base de produção. Mas tem tanta coisa que pode acontecer, às
+[110:16 - 110:22] vezes você tem aqui na sua aplicação que está dando erro, que só dá erro lá no servidor
+[110:22 - 110:29] de quando a sua aplicação está executando online e produção. E você simula esse mesmo erro na
+[110:29 - 110:31] a base de desenvolvimento e não dá.
+[110:31 - 110:34] Pois são muitos cenários.
+[110:34 - 110:37] Aí você copia a base pra cá.
+[110:37 - 110:42] Não é fácil, porque as bases são muito relacionadas com outras diversas bases.
+[110:42 - 110:46] É difícil você montar o mesmo cenário em desenvolvimento.
+[110:46 - 110:52] Aí você não consegue achar o erro dessas bases de desenvolvimento.
+[110:52 - 110:56] Aí, excepcionalmente, você pega sua aplicação,
+[110:56 - 110:58] todas as autorizações possíveis de uma forma temporária
+[110:58 - 111:01] e faz ela conectar com a base de produção.
+[111:02 - 111:05] Mas é para ser a exceção da exceção.
+[111:06 - 111:08] Que aí você ajudar a identificar o meio.
+[111:08 - 111:12] Uma outra situação é que a sua aplicação pode acessar a produção.
+[111:12 - 111:15] Eventualmente você está trabalhando no sistema,
+[111:15 - 111:20] que o teu sistema se comunica com os serviços externos.
+[111:20 - 111:24] Lá o serviço está da TAPREGO, o serviço da Polícia Federal, sei lá.
+[111:24 - 111:28] E esse ambiente de desenvolvimento, ele não tem essas conexões.
+[111:28 - 111:34] Aí você eventualmente vai ter que em algum momento testar lá a produção, sabe?
+[111:34 - 111:35] Também não é o desejado.
+[111:35 - 111:38] Por uma hora da história, não é muito comum você desenvolver,
+[111:38 - 111:40] ter acesso aos dados de produção.
+[111:40 - 111:42] E nem queira, sabe?
+[111:42 - 111:46] A auditoria do TI, ela tem acesso.
+[111:46 - 111:50] E a gente faz select direto na base.
+[111:50 - 111:52] Mais uma coisa que eu sempre questionei.
+[111:52 - 111:56] Quando você está na fase de elaborar o seu projeto,
+[111:56 - 111:58] aqui nessa fase aqui,
+[112:00 - 112:02] quando você está na fase de elaborar o seu projeto,
+[112:22 - 112:31] Aqui, é que você vai fazer as consultas mesmo, mas aqui quando está implantado em produção,
+[112:31 - 112:33] aqui as consultas devem executar em produção.
+[112:33 - 112:40] Quando você está aqui no projeto, o ideal é que você execute em base de teste, em
+[112:40 - 112:47] base, pode até copiar a consulta, porque nessa fase você está testando, valendo a
+[112:47 - 112:50] lógica da sua consulta.
+[112:50 - 112:56] Quando você não tem um ambiente que permita isso, como é o caso da auditoria, você não
+[112:56 - 113:02] tem como primeiro fazer um teste na sua consulta.
+[113:02 - 113:07] Quando você faz a consulta, você submete direto em produção.
+[113:07 - 113:16] E eu contei para vocês que a metodologia é em consultas enormes, mexendo em 15 tabelas.
+[113:16 - 113:20] Então você faz duas taberdas, depois mais quatro, depois mais cinco.
+[113:20 - 113:23] Então mesmo em produção você vai fazendo essa composição.
+[113:23 - 113:30] Outra dica, preciso recuperar as informações do ano todo de três ou cinquenta agências.
+[113:30 - 113:36] Você testa o primeiro para dois meses com duas agências.
+[113:36 - 113:43] Porque a lógica de recuperar quatro ou cinquenta agências provavelmente é a mesma lógica
+[113:43 - 113:45] em recuperar para duas.
+[113:45 - 113:48] E essa dica serve também para algoritmo.
+[113:48 - 113:51] Você vai ter que fazer o processamento,
+[113:51 - 113:53] cometer mais ou menos o que é um vetor,
+[113:54 - 114:00] o processamento para somar os números que estão em um vetor.
+[114:01 - 114:04] Um vetor de 4 milhões de posições.
+[114:05 - 114:08] O vetor é uma variável que tem várias posições dentro dela.
+[114:10 - 114:11] Você vai fazer essa lógica.
+[114:11 - 114:16] Quando você for testar, você teste aqui um vetor de cinco posições, porque se ele
+[114:16 - 114:23] somar certo consigo, provavelmente ele vai somar com certo para quatro milhões.
+[114:23 - 114:30] Última dica vai nos sentirem em frente, sempre em daí use o provavelmente, certo?
+[114:30 - 114:35] Nunca diga certeza, a gente não vai ter certeza de tudo, aí isso vai sugerir, então você
+[114:35 - 114:39] vai ter grandes possibilidades de que vai dar certo.
+[114:39 - 114:41] E aí você vai usar o raciocínio.
+[114:41 - 114:50] Bom, essa situação de cinco elementos é semelhante a 4 milhões.
+[114:50 - 114:54] A menos de performance, a lógica não tem mudança.
+[114:54 - 114:59] Então você tem que ter esse raciocínio, porque às vezes tem mudança, mas normalmente não tem.
+[114:59 - 115:01] Então serve pra cada vez.
+[115:01 - 115:07] Então você vai fazer consulta direto da base porque tem que ser por algum motivo, então
+[115:07 - 115:14] você vai com o ponto devagarinho, aumentando o intervalo de dados devagarinho, com o ponto
+[115:14 - 115:16] devagarinho de forma controlada.
+[115:16 - 115:26] Então, isso vai manter a pressão mental e também até o emprego.
+[115:26 - 115:28] E aí?
+[115:39 - 115:41] Uau!
+[115:42 - 115:44] Vem, vou play.
+[115:56 - 116:06] O que é a ideia?
+[116:06 - 116:08] A ideia.
+[116:08 - 116:12] O que é a ideia?
+[116:12 - 116:14] O que é a ideia?
+[116:14 - 116:16] A ideia.
+[116:16 - 116:18] O que é a ideia?
+[116:18 - 116:20] A ideia.
+[117:20 - 117:26] Essa importância da transação a gente vai ver na prática um pouco mais pra frente, tá?
+[117:26 - 117:30] É... o característico importante também...
+[117:50 - 118:01] Você que já falei, quando você tinha o desenvolvimento tradicional, antes dos pães de dados, a
+[118:01 - 118:08] estrutura da tua tabela, que é a estrutura da tabela, que campos ele tem, que tipo, estava
+[118:08 - 118:18] dentro do programa, então você evoluir a definição da sua arquitetura, da sua modelagem, passava
+[118:18 - 118:24] necessariamente para mexer nos programas. Então, esse acoplamento ele
+[118:24 - 118:29] ele ajuda o cargo. Aqui tem um exemplo, mais um exemplo a gente vai trabalhar na
+[118:29 - 118:36] prática, tá? Isso aqui meio que resume aquela figura que eu fiz, né? Você tem aqui
+[118:36 - 118:43] o SGVD, dentro dele você tem software programas que você consulta programas,
+[118:43 - 118:50] Aqui tem a sua aplicação que faz a conexão e para fazer esse processamento ele pega
+[118:50 - 118:56] as bases de dados, como também pega os metadados eventualmente.
+[118:56 - 119:06] Que é esse caminho aqui que a gente comentou, essa aplicação vai ganhar aqui as informações.
+[119:06 - 119:16] Aqui é exemplo de consultas, vou passar aqui rápido, são só exemplos de consultas.
+[119:16 - 119:22] Perales de todas as aplicações, está o nome dos alunos, nesse domínio, mas vamos ter o nosso domínio próprio.
+[119:22 - 119:30] E aí chega aqui, quando a gente chegou ontem, chega no mesmo canto, que é o fluxo de desenvolvimento
+[119:30 - 119:35] o projeto de bump status que a gente trabalhou também lá no nota de aula né
+[119:35 - 119:39] é que mostrando aquele exemplo você entende ou você quiser, você faz o
+[119:39 - 119:44] poder conceitual, os relacionamentos, atributos, depois você faz uma especificação
+[119:44 - 119:48] lógica que aí já muda um pouco mas muda muito pouca estrutura vou deixar para
+[119:48 - 119:52] mostrar isso na prática depois do projeto física quando você começa a criar
+[119:52 - 119:56] essas estruturas começa materializar isso
+[119:56 - 119:59] Beleza galera? Beleza
+[119:59 - 120:01] Esse é o nosso mundo.
+[120:01 - 120:06] Ah, pessoal, comentei com o Geronimo e infelizmente eu tenho a terceira etapa do treinamento sexta
+[120:06 - 120:07] que vem, tá?
+[120:07 - 120:10] Então, não vi ele.
+[120:10 - 120:15] É chato, mas assim, de qualquer maneira traz informação para vocês, mas vai ser a
+[120:15 - 120:17] última, tá?
+[120:17 - 120:22] Esse treinamento era para ser em julho, atrasou, não foi culpa minha, tanto é que eu não
+[120:22 - 120:23] gosto de faltar.
+[120:23 - 120:24] Não está previsto.
+[120:24 - 120:30] Na verdade está previsto eu ainda fazer um outro treinamento do Garny mas não pega a sexta-feira, tá tranquilo.
+[120:30 - 120:32] É segunda-feira e sexta-feira, já só passaram a segunda-feira.
+[120:32 - 120:35] Vocês estão livres, peço desculpa assim.
+[120:35 - 120:40] Vou deixar uma tarefa, normalmente um outro professor ouvinha mais complicado.
+[120:40 - 120:45] Entrar remoto também, às vezes lá as agendas se estendem.
+[120:45 - 120:50] De manhã então nem dá porque tem preocupação de manhã, quando é a noite até a gente pode imaginar.
+[120:50 - 120:55] Eu devo deixar uma tarefa para vocês, para a gente trabalhar dentro desse contexto,
+[120:55 - 120:58] porque a gente já está vendo. Deve ser a última.
+[120:58 - 121:01] A menos que alguém diga, você tem que ir.
+[121:01 - 121:06] Esse treinamento é importante tanto para o SINAC como para o BAM,
+[121:06 - 121:12] porque ele está visitando ambientes de gestão de inovação,
+[121:12 - 121:16] que o SINAC em algum momento deve seguir por aí.
+[121:16 - 121:25] A ambient gestão de inovação é juntar a força de vocês com caminhos de empreendedorismo,
+[121:25 - 121:30] com laboratórios, com clientes, todo mundo dentro de um mesmo ecossistema.
+[121:30 - 121:33] Então é um caminho com senac.
+[121:33 - 121:37] Provavelmente algum um uniforme já tem isso, a federal já tem isso, em algum momento
+[121:37 - 121:38] o senac também vai evoluir.
+[121:38 - 121:40] de qualquer forma tem esse...
+[121:41 - 121:43] OREM, então assim, não é passeio, não é...
+[121:44 - 121:46] Não é nada disso, é nesse contexto, tá?
+[121:46 - 121:49] Então é a última etapa, vai ser aqui em Recife, no Porto Digital.
+[121:50 - 121:52] 15 e 6, então eu vou...
+[121:53 - 121:57] Quando perder essa aula quarta, eu vou de madrugada e volto no Sábio.
+[121:58 - 122:00] Então 15 e 6, tá?
+[122:00 - 122:02] E aí a gente fica assim, tá bom?
+[122:05 - 122:07] Deixa eu ver aqui na plataforma, ah...
+[122:07 - 122:11] Eu tenho aqui a listinha, vocês disseram da outra vez.
+[122:13 - 122:14] Acho que essa listinha aqui, né?
+[122:17 - 122:18] Veja o povo.
+[122:18 - 122:19] Nós aqui a noite.
+[122:22 - 122:23] Pegar aqui o mestre aqui, um, logo.
+[122:23 - 122:25] Começa aí, um, por favor.
+[123:07 - 123:11] Não foi a primeira vez que eu ouvi, não vai ser outra.
+[123:11 - 123:13] Tá de boa.
+[123:15 - 123:18] Outro mês a gente volta conversando com o Bruno,
+[123:18 - 123:20] onde quiser ver ele.
+[123:20 - 123:21] Você segue muito a olho.
+[123:21 - 123:23] Pegava, né, que eu vou dar um disco lá.
+[123:23 - 123:26] Mas obviamente, eu vou ficar bem.
+[123:26 - 123:28] Eu sei que eu sou...
+[123:28 - 123:51] Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não

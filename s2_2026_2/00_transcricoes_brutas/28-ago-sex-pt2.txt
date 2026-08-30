@@ -1,0 +1,950 @@
+--- TRANSCRIÇÃO GPU WHISPER: 2026-08-28 Sexta Parte 2 (Voz 260828_112309.m4a) ---
+Duração: 61:21 | Tempo de Inferência: 2.94 min (176.3s)
+
+[00:00 - 00:30] C++, Sistemas, Estruturas de Dados, ponteiros, alocação dinâmica, malloc, structs, modularização,
+[00:30 - 00:39] porque assim, nos princípios da didática, se você não conseguir explicar de maneira simples, você não está conseguindo explicar
+[00:39 - 00:43] então ele não começou falando para a gente o que é uma variável, entendeu?
+[00:43 - 00:46] ele não começou falando para a gente o que é uma função
+[00:46 - 00:48] eu tentei escolher minha surpresa e não consegui
+[00:48 - 00:50] ele não conseguiu
+[00:50 - 00:52] Eu sempre consegui um...
+[00:52 - 00:55] Porque ele coloca, tipo assim, o exemplo.
+[00:55 - 00:57] Vou fazer aqui pra vocês.
+[00:57 - 01:00] Ele faz o exercício e aí, tipo assim, tem comando que a gente não faz a menor ideia.
+[01:00 - 01:04] Aí ele já foi pra parte do exemplo sem explicar o básico.
+[01:04 - 01:06] Aí eu acho que é isso que tá confundindo.
+[01:06 - 01:08] Aí ele fica muito perdido.
+[01:08 - 01:10] E aí ele fica todo hora...
+[01:10 - 01:12] E aí, o que eu tenho que entender.
+[01:12 - 01:17] A função do input mesmo, eu vim de saber de fato que ela era hoje só.
+[01:17 - 01:18] É.
+[01:18 - 01:22] E é incrível como é um problema que permeia todas as áreas, né?
+[01:22 - 01:27] Quando ele ensinava a dança era a mesma coisa, tinha professores que só mostrava um movimento e faz igual.
+[01:27 - 01:33] Tá, mas um dia que tá meu peso, pra onde que vai minha perna, pra onde que tá meu braço, pra um dia com o conduzo.
+[01:33 - 01:36] Porque primeiro a gente tem que entender o porquê daqui, né?
+[01:36 - 01:37] Exato.
+[01:37 - 01:43] Então acho que o grande problema não é muito como ele tá passando a disciplina, né?
+[01:43 - 01:47] É mais porque não é um disciplino de Python.
+[01:47 - 01:51] É uma disciplina de dashboard e uma disciplina de lógica de relação.
+[01:51 - 01:52] E ele usa Python.
+[01:52 - 01:53] Isso, isso.
+[01:53 - 01:57] Então ele faz que a gente fantasia dizer que não é curso de Python.
+[01:57 - 01:58] É proposta, não?
+[01:58 - 02:03] O que eu entendi, que eu entendi, é que a proposta dele era que, cara, se você não sabe nada de Python,
+[02:03 - 02:06] o Python tu vai ter que ir buscar do zero.
+[02:06 - 02:09] Porque ele tá só utilizando a linguagem de Python pra...
+[02:09 - 02:13] E aí na aula ele tenta colocar uma coisa de cada vez,
+[02:13 - 02:16] mas talvez fique meio confuso pra maioria das pessoas.
+[02:16 - 02:18] É, pra quem nunca teve contato.
+[02:18 - 02:20] É, eu até entendo.
+[02:20 - 02:22] O que ele explica, entendeu?
+[02:22 - 02:28] O meu único problema, de fato, não é a lógica, não é entender o que é as coisas.
+[02:28 - 02:30] É só a escrita do próprio Tibério.
+[02:30 - 02:34] Tá, a gente vai chegar aí, mas tem que passar por essa parte.
+[02:34 - 02:36] Tem que passar pelo conceito alto, porque
+[02:36 - 02:38] eu vou dar o exemplo do próprio Tibério.
+[02:38 - 02:40] O Tibério é outro cara que é muito prático.
+[02:40 - 02:44] A aula que ele tá dando de programação orientado do objeto e Java pra gente,
+[02:44 - 02:51] ele mencionou na primeira aula sobre abstração em capsuleamento, polimorfismo e hierarquia,
+[02:51 - 02:54] hierança, mas só mencionou.
+[02:54 - 02:56] É um coisa que a gente sabe que existe.
+[02:56 - 02:59] E aí ele aplica isso no código, mas ele não para para dizer,
+[02:59 - 03:02] ó galera, aqui tem um capsuleamento, vocês não estão vendo isso aqui, né?
+[03:02 - 03:07] E aí a galera fica perdida porque está aplicando os conceitos sem saber.
+[03:07 - 03:11] Então ficam copiando o código frenéticamente sem entender o que é cada linha, a sintaxe...
+[03:11 - 03:21] A sintaxe de Java é mais pesada que a de Python, você escreve mais no Java para dizer a mesma coisa que você queria dizer no Python, então a senhora está um pouco assustada.
+[03:21 - 03:27] Mas é essa ideia, a gente tem que compreender da onde a gente está partindo.
+[03:27 - 03:36] Então vamos começar falando sobre isso. Tem mais alguma dificuldade diferente que ele queria falar, que ele expôr nesse momento.
+[03:36 - 03:43] Beleza, vamos começar falando sobre isso também. Acho que o conceito mais
+[03:43 - 03:46] fundamental, os conceitos mais fundamentais que a gente precisa são
+[03:46 - 03:51] conceito de algoritmo e conceito de variável. Algoritmo, alguém sabe me dizer o que quer?
+[03:51 - 03:59] É uma sequência de passos finitos, ordenado, que determina uma ação, específico
+[03:59 - 04:04] com o problema de programação. Perfeito, você quer dizer para alguém como é que se
+[04:04 - 04:10] faz uma tarefa. É importante tanto aquilo que você diz quanto a ordem, por isso que
+[04:10 - 04:15] algo ordenado. E aquilo tem que ter um fim também, você não pode ficar dizendo pra
+[04:15 - 04:21] pessoa corrigindo o tempo todo e mandando cada vez umas instruções. Então principalmente
+[04:21 - 04:29] existem as afirmações, as ações e existe a ordem. É muito comum a gente comparar algoritmo
+[04:29 - 04:35] com receita. Você não pode botar o bolo no forno primeiro e depois quebrar os ovos e
+[04:35 - 04:40] misturar com a farinha. Você não vai ter um bolo no final. Então, algoritmo é isso,
+[04:40 - 04:45] a gente vai usar todo o tempo de programação. Tempo todo, se a gente não entender o algoritmo
+[04:45 - 04:49] a gente não vai para frente. Por quê? Porque a gente começa aprendendo programação estruturada.
+[04:49 - 04:54] O que é programação estruturada? Ele vai executar a primeira linha, ele vai executar
+[04:54 - 04:58] a segunda linha, ele vai executar a terceira linha, ele vai executar a quarta linha. A
+[04:58 - 05:01] Minha lógica é que ela tem que estar bem encadeada.
+[05:01 - 05:04] Se eu não declarar que existe a variável X,
+[05:04 - 05:07] eu estou tentando usar ela sem ter dito
+[05:07 - 05:10] ó, existe uma variável X e o valor dela é 16.
+[05:10 - 05:11] Acho que foi isso, o caso.
+[05:11 - 05:15] Aí eu não vou conseguir, meu programa vai dar erro.
+[05:15 - 05:20] Então tem que entender que a coisa segue uma estrutura.
+[05:20 - 05:24] Tranquilo aí? Alguma dúvida? Não?
+[05:24 - 05:28] Certo. O segundo conceito é o conceito de variáveis.
+[05:28 - 05:29] Certo?
+[05:29 - 05:32] O variável é definido por três coisas.
+[05:32 - 05:37] A variável tem um nome, a variável tem um valor e a variável tem um tipo.
+[05:37 - 05:40] O que é a variável?
+[05:40 - 05:45] É alguma coisa que eu estou modelando ali dentro do meu computador.
+[05:45 - 05:50] Eu tenho um programa que ele calcula o índice de massa corporal de alguém.
+[05:50 - 05:51] Certo?
+[05:51 - 05:52] Certo pra isso.
+[05:52 - 05:57] aí eu tenho que entrar com a altura e o peso da pessoa e eu vou calcular o emc
+[05:58 - 05:59] então viu?
+[06:01 - 06:01] então viu?
+[06:01 - 06:03] sim, beleza
+[06:03 - 06:10] vamos supor que eu vou chamar a altura da pessoa lá no meu programa de H
+[06:10 - 06:13] H vai ser a altura e o peso vai ser W
+[06:14 - 06:14] certo?
+[06:14 - 06:24] Cada uma dessas três coisas, tanto a altura, quanto o peso, quanto o IMC, são variáveis.
+[06:24 - 06:30] São coisas que eu estou modelando ali dentro, que eu peguei do mundo real e coloquei dentro do meu programa.
+[06:30 - 06:34] Quais são esses três atributos?
+[06:34 - 06:37] O nome, o valor e o tipo.
+[06:37 - 06:39] O nome é o que eu estou chamando.
+[06:39 - 06:45] Ah, eu peguei um número lá a 180 centímetros, 163 centímetros.
+[06:45 - 06:48] No meu programa, isso é a altura.
+[06:48 - 06:51] No meu programa, eu disse que a altura é H.
+[06:51 - 06:53] H é o nome da variável.
+[06:55 - 06:57] Qual é o valor dessa variável?
+[06:57 - 06:59] É o número que eu peguei.
+[06:59 - 07:03] Essa pessoa tem 1,63, essa pessoa tem 1,80.
+[07:04 - 07:07] Esse é o valor que está armazenado ali dentro da variável.
+[07:07 - 07:09] E qual é o tipo da variável?
+[07:09 - 07:11] Ah, vai ser um tipo número.
+[07:11 - 07:14] Ah, o número quebrado é um tipo float.
+[07:15 - 07:16] A gente vai
+[07:16 - 07:20] entrar um pouco mais nos tipos mais tarde.
+[07:20 - 07:23] Por enquanto, eu quero que vocês
+[07:23 - 07:27] lembrem que a variável sempre tem que ter três coisas.
+[07:27 - 07:29] Ela sempre vai ter três coisas.
+[07:29 - 07:32] Tipo, nome e valor.
+[07:33 - 07:37] Muitas vezes quando eu defino a variável, só para o programa saber que ela existe,
+[07:37 - 07:41] eu posso não definir como um valor e depois eu entrar com o input para o usuário
+[07:41 - 07:47] digitar qual vai ser o valor, qual vai ser o valor daquela variável, mas se eu for
+[07:47 - 07:50] usar ela em algum momento ela vai ter um valor.
+[07:50 - 07:56] Tranquilo aí? Imagino que a variável é uma caixinha, certo? Tem uma caixinha.
+[07:56 - 08:03] Aí você tem o valor que está dentro dessa caixinha, você tem uma etiqueta aqui com
+[08:03 - 08:09] um nome da caixinha e você tem o tipo de coisas que aquela caixinha pode guardar.
+[08:09 - 08:13] Essa caixinha só guarda metal, então você tenta colocar um negócio de plástico que
+[08:13 - 08:14] ela não vai aceitar.
+[08:14 - 08:21] Essa guarda coisas orgânicas, então você tenta colocar um copo que ela não vai aceitar.
+[08:21 - 08:24] Entendido esse conceito?
+[08:24 - 08:32] Beleza, então quando a gente começa a estruturar nosso programa a gente tem que ter ideia
+[08:32 - 08:40] disso. Eu tenho problema para resolver. Quais são as variáveis que eu vou precisar?
+[08:40 - 08:47] Como é que eu vou identificar os tipos que elas usam? Qual a sequência lógica
+[08:47 - 08:52] para resolver esse problema? Antes de pensar, escreve código. Qual é a sequência
+[08:52 - 08:56] de passos que eu tenho que fazer esse problema? Eu tenho que fazer essa
+[08:56 - 09:04] solução. Eu quero ir no banco que fica do outro lado da rua. Eu tenho que pegar o elevador,
+[09:04 - 09:09] descer ou andar, sair do cenarque, esperar o cenar fechar, atravessar a rua, pipipi,
+[09:09 - 09:15] papapó. Ah não, mas peraí, o elevador está quebrado, então vou pela escada. Vou pela
+[09:15 - 09:20] escada, passo ali. Ah não, mas está tendo alguma coisa ali que eu não posso atravessar
+[09:20 - 09:25] a rua aqui, eu tenho que ter uma volta. São outras considerações, mas eu tenho que ter
+[09:25 - 09:31] a clareza dos passos que eu vou executar até chegar na minha solução
+[09:31 - 09:33] o programa é basicamente isso
+[09:33 - 09:37] eu sei falar o que eu preciso fazer para executar
+[09:37 - 09:41] mas a máquina não fala a mesma língua que eu
+[09:41 - 09:43] e vem as linguagens de programação
+[09:43 - 09:45] eu tenho que conversar com ela
+[09:45 - 09:51] em Python, eu tenho que conversar com ela em C, eu tenho que conversar com ela em Java
+[09:51 - 09:56] Na verdade eu vou falar com o programa e o programa vai se comunicar com a máquina em binário.
+[09:56 - 09:58] A gente não sabe falar binário.
+[09:58 - 10:02] Mas vocês estão fazendo os cálculos de binário aí que eu estou sabendo.
+[10:02 - 10:07] Vocês preferem escrever um programa em binário ou em Python?
+[10:07 - 10:10] Python não consegui escrever mais de binário.
+[10:10 - 10:12] Pois é.
+[10:12 - 10:14] Deu para entender isso aqui galera.
+[10:14 - 10:15] Sim.
+[10:15 - 10:16] Beleza.
+[10:16 - 10:20] Que tipos de exemplos vocês já viram em aula?
+[10:20 - 10:23] porcentagem, imagem, lucro.
+[10:23 - 10:24] Tá.
+[10:24 - 10:27] De variáveis, float, inteiros.
+[10:27 - 10:28] Beleza.
+[10:28 - 10:30] Só isso que eu acho.
+[10:30 - 10:31] Beleza.
+[10:31 - 10:32] O que é o float mesmo?
+[10:32 - 10:34] É o número quebrau.
+[10:34 - 10:36] É, vamos.
+[10:36 - 10:38] Vamos aqui em 2,3.
+[10:38 - 10:43] O íntimo é o número inteiro, tipo 5.000, 1.200, 100, 100.
+[10:43 - 10:47] Vamos estabelecer uma coisa aqui.
+[10:47 - 10:55] é durante os nossos estudos eu vou falar algumas mentiras para vocês que lá na frente eu vou
+[10:55 - 11:01] desmascarar essas mentiras é como quando a gente está aprendendo matemática no ensino fundamental
+[11:01 - 11:09] olha se você tem três laranjas você não pode subtrair cinco laranjas não dá é impossível
+[11:09 - 11:16] é você chega na outra série não existem os números negativos você pode subtrair os cinco
+[11:16 - 11:23] 3. E igual o Tiber, outro e fez 5 mais 4, o A7, a gente ficou porra, aí está isso.
+[11:23 - 11:28] Sente mais 4 menos 7. É, é, é, eu sei.
+[11:28 - 11:32] Pior que depois que ele mostrou o quadro até indivíduo quando teve a assistida.
+[11:32 - 11:40] Mas depois, antes de ver. Pois é, então, aí você vai para a matemática de vetores,
+[11:40 - 11:47] você vai lá em física, começa a estudar os vetores e você vai ver que 1 mais 1 dá qualquer número entre
+[11:47 - 11:53] menos 2 e 2. Você não sabe o sentido vetor, você não sabe se está projetando para algum lugar, leia
+[11:53 - 11:58] discossenos e tudo mais. Quer dizer, existe uma maturidade para a gente entender no próximo passo.
+[11:58 - 12:03] Então algumas coisas eu vou falar aqui, não, é sempre assim, nunca existe o sempre.
+[12:03 - 12:09] Aí depois a gente vai ver, não, pera, é assim, era assim naquele momento. A partir de agora a gente entende
+[12:09 - 12:15] pode ser diferente e vai certo? Para responder a pergunta sobre os tipos de variáveis,
+[12:15 - 12:20] primeiro vamos falar das variáveis numéricas, a gente tem os números inteiros,
+[12:20 - 12:26] assim como a gente aprendeu lá como crianças, quantas maçãs eu tenho aqui,
+[12:26 - 12:36] eu tenho quatro maçãs, oito melancias, três uvas, são números que a gente não está
+[12:36 - 12:42] dividindo, porque eles não tem infração, é um número inteiro e para a computação isso é muito importante
+[12:42 - 12:50] porque o computador só usa números inteiros, ele só sabe usar números inteiros. Pior, ele só sabe usar
+[12:50 - 13:01] dois números inteiros, um e zero. Abafocaso não sai daqui isso. Tudo que a gente faz é só maquiagem,
+[13:01 - 13:03] só aparência.
+[13:03 - 13:09] Então, a gente tem o conjunto de números inteiros.
+[13:09 - 13:13] Se a gente quiser um número fracionado, se a gente quiser um número convírgula, a
+[13:13 - 13:15] gente vai chamar ele de outra coisa.
+[13:15 - 13:21] A gente vai chamar de float ou double, dependendo do negócio de programação ou dependendo
+[13:21 - 13:26] se você quer mais precisão na mantista ou no expoente, enfim.
+[13:26 - 13:28] Isso é mais pra área de ciência, né?
+[13:28 - 13:34] Quando você lida com uma precisão muito grande, certo?
+[13:34 - 13:39] A gente tem outro tipo de variável que são caracteres.
+[13:40 - 13:45] Ah, um B, um L, um asterisco.
+[13:46 - 13:49] A gente tem outro tipo que são as strings.
+[13:49 - 13:52] Strings, o que é? É um conjunto de caracteres.
+[13:52 - 14:01] é um nome, é um endereço, é um telefone, pô, chama, o telefone não é número?
+[14:02 - 14:10] agora tu me pegou, pera aí, o telefone é número, é frase, é um conjunto de número, tá?
+[14:10 - 14:18] meu telefone é sei lá, 85998764532
+[14:18 - 14:27] Vale mais a pena armazenar isso como número ou como string, como uma linha de texto?
+[14:27 - 14:29] Como número?
+[14:29 - 14:30] Porquê?
+[14:30 - 14:31] Porque ele é número.
+[14:31 - 14:38] Não, como linha de texto eu acredito, porque ele é um conjunto, ele só significa o que ele significa porque ele tá junto.
+[14:38 - 14:41] Eu não vou fazer nenhuma operação com o número de telefone.
+[14:41 - 14:45] Ah não, vamos pegar o número de telefone dele, somar com dela e dividir pelo dele para ver o que dá.
+[14:45 - 14:47] Não cara, não faz sentido.
+[14:47 - 14:48] Ah, não entendo.
+[14:48 - 14:51] vou armazenar se eu preciso operar em cima deles.
+[14:53 - 14:57] Se eu preciso fazer alguma conta, no caso da gente calcular o IMC,
+[14:57 - 15:00] tenho lá a altura do indivíduo, 1,77.
+[15:00 - 15:02] Eu armazendo isso como um número com string.
+[15:04 - 15:06] Como um número, porque eu vou usar na conta, vou dividir.
+[15:07 - 15:11] Se eu armazenar isso com string, vai dar certo.
+[15:12 - 15:13] Mas eu tenho endereço de alguém.
+[15:13 - 15:19] Ah, mora na DomManuel número 390.
+[15:19 - 15:20] Esse 390.
+[15:20 - 15:22] Paramazeno como número ou como string?
+[15:22 - 15:24] Como string.
+[15:24 - 15:30] Não vou fazer conta, não faz sentido pegar a raiz do endereço de alguém.
+[15:30 - 15:35] Então, documento, número de documento, também.
+[15:35 - 15:39] Se eu vou fazer aquele cálculo de verificação do CPF, aí sim faz sentido pegar como número.
+[15:39 - 15:42] mas se eu for pegar como dado, né?
+[15:42 - 15:44] E é por isso que a gente tem os tipos.
+[15:44 - 15:49] Cada tipo vai permitir que eu faça ou que eu não faça alguma coisa, né?
+[15:49 - 15:53] E lá nos primórdios da programação,
+[15:53 - 15:57] você armazenar uma coisa na memória era muito cara.
+[15:57 - 16:01] Era muito cara, era dinheiro que você tava perdendo.
+[16:01 - 16:06] Então você armazenar poucos bits ou poucos bytes pro inteiro
+[16:06 - 16:13] ou muito mais bytes para um float fazer a maior diferença. Chegava no final do mês
+[16:13 - 16:20] lá bateu orçamento, estamos vazando dinheiro aí. Hoje não faz tanta diferença, mas ainda
+[16:20 - 16:28] é importante a gente ter essa distinção em números inteiros e racionais, porque
+[16:28 - 16:32] quando a gente for iterar lá nos nossos fornos, nossos y, naqueles nossos
+[16:32 - 16:38] estruturas de repetição e isso vai ser importante certo então falei de inteiro
+[16:38 - 16:48] tranquilo falei de float tranquilo falei de char e string tranquilo e string geralmente
+[16:48 - 16:55] o que a gente ensina né porque a hoje em dia memória aquela memória que a gente
+[16:55 - 16:59] está usando não é mais tão cara mas antigamente cada caracterezinho custava
+[16:59 - 17:06] alguma coisa. Então você identificar uma coisa só com uma letrinha ou com um nome completo
+[17:06 - 17:11] fazia diferença no seu programa. Hoje não faz mais, hoje a gente vai direto para a string,
+[17:11 - 17:16] mas quando você no semestre que vem e forem ver C e o C é lá dos primórdios, lá de
+[17:16 - 17:24] quando era menino, o C ele faz isso, ele não tem uma string, você tem que montar a string,
+[17:24 - 17:27] tem tantos caracteres que você pode gastar.
+[17:27 - 17:30] Mais do que isso, a auditoria chega e fala,
+[17:30 - 17:32] tá gastando demais aí.
+[17:32 - 17:34] Aí vai ocupar a memória demais.
+[17:34 - 17:37] Chega no fim do veio, tu usou dois float e quebra a empresa.
+[17:37 - 17:40] Exato, exato. Vai ser descontado pelo salário, esse float aí.
+[17:40 - 17:43] Nossa senhora.
+[17:43 - 17:44] Certo?
+[17:44 - 17:49] Stream, char, a gente também tem os boleanos.
+[17:49 - 17:51] Leandro dos boleanos.
+[17:51 - 17:53] O boleano é verdadeiro ou falso?
+[17:53 - 17:55] Só pode assumir esses dois valores.
+[17:55 - 17:57] Ou é verdadeiro, ou é falso.
+[17:57 - 17:59] Ou é true, ou é falso.
+[17:59 - 18:01] Isso também serve para a gente,
+[18:01 - 18:03] para validações,
+[18:03 - 18:05] para, quando a gente faz
+[18:05 - 18:07] testes lógicos,
+[18:07 - 18:09] operadores relacionais, enfim.
+[18:09 - 18:11] A resposta sempre faz
+[18:11 - 18:13] ser verdadeiro ou falso.
+[18:13 - 18:15] Quando a gente tem um estruturo
+[18:15 - 18:17] condicional, um estruturo de
+[18:17 - 18:19] decisão, ela sempre faz executar
+[18:19 - 18:26] executar aquilo se for verdadeira. Aí se aquela outra condição for verdadeira, se não,
+[18:26 - 18:30] quer dizer, tudo aquilo foi falso, aí vai executar a próxima, mas a gente vai entrar
+[18:30 - 18:35] em isso daí depois. Gente, dúvidas, observações...
+[18:35 - 18:38] Cri, cri, cri, cri, cri...
+[18:38 - 18:40] Você tá tranquilo, tá tranquilo, tá tranquilo?
+[18:40 - 18:42] Tá tranquilo? Ótimo.
+[18:42 - 18:45] Ótimo, que bom, que bom.
+[18:45 - 18:50] Então a gente tem os tipos, a variável, a gente tem os nomes, a variável, a gente tem os valores.
+[18:50 - 18:56] A gente tem o algoritmo. No princípio, no começo, a gente só tem isso.
+[18:56 - 19:01] A partir disso, como é que eu vou estruturar um programa?
+[19:01 - 19:05] Vamos continuar usando esse exemplo do cálculo do IMC.
+[19:05 - 19:08] Bom, vocês já me disseram que eu preciso de quantas variáveis?
+[19:08 - 19:09] Dois.
+[19:09 - 19:10] Dois?
+[19:10 - 19:11] Três.
+[19:11 - 19:12] Três.
+[19:12 - 19:13] Altura.
+[19:13 - 19:16] porque 12 porque 3
+[19:16 - 19:21] porque a gente já sabe como calcula o emc
+[19:21 - 19:23] a gente precisa transmitir isso para a página
+[19:23 - 19:27] você vai calcular multiplicando ou dividindo ou somando esses valores
+[19:27 - 19:28] são três
+[19:28 - 19:33] sim, eu preciso de três porque eu preciso das duas que eu vou coletar e do resultado também
+[19:33 - 19:39] assim, eu poderia fazer só com duas e substituir
+[19:39 - 19:41] fazer uma gambiarra lá
+[19:41 - 19:43] Agora a gente vai dizer que a altura vai ser o resultado...
+[19:43 - 19:45] Tá, tudo dia, na hora...
+[19:45 - 19:47] Ah, quando a memória da caça esquece aqui, ó...
+[19:47 - 19:49] A memória não é mais cara, não, tá?
+[19:49 - 19:51] A primeira...
+[19:51 - 19:53] Ah, não, pior que agora, tá cara.
+[19:53 - 19:55] Pior que agora tá cara.
+[19:55 - 19:59] Não, mas agora a gente tá pagando por 16 GB de memória, caramba.
+[19:59 - 20:01] Meu primeiro computador não tinha um GB, cara.
+[20:01 - 20:03] 512 GB de memória, pô...
+[20:05 - 20:07] Gis vendo, né?
+[20:07 - 20:12] O Windows 95, já me falou?
+[20:12 - 20:16] Meu primeiro computador desktop foi de 1997.
+[20:16 - 20:19] O primeiro desktop que tinha lá em casa foi este ano, 97.
+[20:19 - 20:20] Foi um...
+[20:20 - 20:21] Eu jogava Sonic.
+[20:21 - 20:22] Pente um boi.
+[20:22 - 20:25] Início, programas, jogos, pananas...
+[20:25 - 20:26] Pante.
+[20:26 - 20:27] Pante.
+[20:27 - 20:28] Certo?
+[20:28 - 20:34] Então, precisar de três variáveis.
+[20:34 - 20:36] Vamos usar três porque a gente está podendo.
+[20:36 - 20:43] A gente tem memória para gastar, estamos podendo armazenar mais 32 kb de variável.
+[20:43 - 20:46] Então a gente tem essas três variáveis.
+[20:46 - 20:50] Quais são as três informações que a gente precisa pegar?
+[20:50 - 20:51] Ou as duas informações que a gente precisa pegar?
+[20:51 - 20:53] Autor e peso.
+[20:53 - 20:54] Autor e peso.
+[20:54 - 20:59] Quals deviam ser os tipos dessas variáveis?
+[20:59 - 21:00] Numéricas.
+[21:00 - 21:04] Numéricas, ótimas, mas mais específico.
+[21:04 - 21:05] Float.
+[21:05 - 21:11] float, porque pode ser um valor quebrado, né? Se eu tivesse fazendo um senso, né?
+[21:11 - 21:16] Ah, eu vou em várias casas e vou ver o número de... de... de...
+[21:16 - 21:20] pessoas que têm cada família, o número de filhos que cada casal tem.
+[21:20 - 21:23] Para ir sentido usar float?
+[21:23 - 21:25] Cara, eu tenho 2.37 filhos.
+[21:25 - 21:26] 2.37 filhos.
+[21:26 - 21:29] 2.37 filhos, tá aqui, ó.
+[21:29 - 21:31] Aí é meio, filho.
+[21:31 - 21:35] Mas se eu for calcular a média...
+[21:35 - 21:37] desses filhos ou a média dessas
+[21:37 - 21:39] dessas casas
+[21:39 - 21:41] aí faz sentido ter float
+[21:41 - 21:43] porque se uma casa tem três e outra tem dois
+[21:43 - 21:45] a média vai ter c e meio
+[21:45 - 21:47] mas aí é uma média
+[21:47 - 21:49] já é um cálculo dele invado
+[21:49 - 21:51] daquilo
+[21:51 - 21:53] então eu tenho que me ligar
+[21:53 - 21:55] de como eu vou declarar aquelas variáveis
+[21:55 - 21:57] para o meu programa fazer sentido
+[21:57 - 21:59] se eu não parar e pensar
+[21:59 - 22:01] pera aí
+[22:01 - 22:03] o professor colocou que
+[22:03 - 22:10] e o valor do quadro tem que ser float, mas precisa mesmo?
+[22:20 - 22:26] Se for escrita, a gente vai usar o string. O string é para coisas escritas,
+[22:26 - 22:29] coisas que eu tenho que digitar.
+[22:29 - 22:30] Ah sim, eu entendi, entendi.
+[22:30 - 22:35] Tu falou da questão da gente colocar números como float ou como stream, né?
+[22:35 - 22:37] Isso, a gente tem que identificar.
+[22:37 - 22:38] Uma coragem que abre uma vida.
+[22:38 - 22:39] Tá tudo bem, cara?
+[22:39 - 22:40] Frio.
+[22:40 - 22:41] Ele vai pedir pra aumentar.
+[22:41 - 22:42] Ah.
+[22:42 - 22:44] A pessoa não confriu, gente?
+[22:44 - 22:45] Eu tô de boassa.
+[22:45 - 22:46] Eu tô de boassa.
+[22:46 - 22:47] Eu tô de boassa.
+[22:47 - 22:48] Eu tô de boassa.
+[22:48 - 22:50] É, eu não tenho filho não.
+[22:50 - 22:53] Olha, a Morenza da Catarim, galera, era muito diferente.
+[22:53 - 22:56] Era um quatro-meso do ano, uns nove graus vinhos, era muito bom.
+[22:56 - 22:57] Eu adorava.
+[22:57 - 22:58] Eu era da serra, né?
+[22:58 - 23:01] Eu já peguei 10, foi por que?
+[23:01 - 23:02] E a salsa...
+[23:02 - 23:04] Santa Catarina, não sei como é que é nada.
+[23:04 - 23:09] Passear com cachorro, 9 horas da manhã, que era com essa média de temperaturas.
+[23:11 - 23:17] Eu me lembro, morando em Porto Alegre, acordando de sair de casa com 4 graus de moto.
+[23:17 - 23:26] Aí chegando no meio dia, 32 graus, aí tu começa a tirar aquele monte de casado e o nariz sempre escorrendo, horrível.
+[23:26 - 23:30] Se não gostam de ficar para o Dora recebendo mensagem, vai ficar frio mesmo.
+[23:30 - 23:31] É extremo.
+[23:32 - 23:35] É porque nós também a perra é de uma, né, da minha direção.
+[23:35 - 23:38] A baixa de um e a baixa de outro.
+[23:38 - 23:39] É, de quem?
+[23:39 - 23:40] Eu acho que está menos frio.
+[23:40 - 23:42] Não está tranquilo. Vai dar.
+[23:42 - 23:43] Certesas?
+[23:43 - 23:44] Certesas.
+[23:44 - 23:46] Aqui também não está nem perguntado se está lá.
+[23:46 - 23:49] É, porque está fora do caminho.
+[23:49 - 23:50] Está.
+[23:50 - 23:51] Você quer dar?
+[23:51 - 23:53] Eu não tenho que atrapalhar.
+[23:53 - 23:54] Sim, pessoal.
+[23:54 - 24:04] Existe o string e o float. O string, o float, o int e o boller. O int é para o inteiro.
+[24:04 - 24:10] É o número de fios que ele tem aqui. Vamos chegar lá.
+[24:10 - 24:12] Vamos chegar lá.
+[24:16 - 24:19] Beleza, então tem que ter essas três variáveis.
+[24:20 - 24:25] A altura tem que ser float, o peso tem que ser float, e o emc tem que ser float.
+[24:25 - 24:26] Float também.
+[24:26 - 24:30] Nesse caso, todas elas são float, certo?
+[24:30 - 24:34] Tá, vocês já ouviram falar a expressão hard coded.
+[24:35 - 24:38] Hard coded traduzindo é a cor final.
+[24:38 - 24:45] Seria mais como um código inflexível.
+[24:45 - 24:48] Vamos não exemplo assim.
+[24:48 - 24:50] Eu tenho esse programa para calcular o IMC.
+[24:50 - 24:59] Mas dentro do programa eu já coloco que a altura é 1,73 e que o peso é 68 quilos.
+[24:59 - 25:01] O usuário não pode mudar aquilo.
+[25:01 - 25:03] Isso está hard-coded.
+[25:03 - 25:05] Isso está embutido ali no programa.
+[25:05 - 25:06] Uma definição, né?
+[25:06 - 25:09] E eu não consigo mudar de fora.
+[25:09 - 25:12] Então eu posso falar que ele é código definido.
+[25:12 - 25:19] Isso, isso. Eu como programador tenho superpoderes de chegar lá, abrir o código fonte e mudar aquilo.
+[25:19 - 25:25] Quando a gente programa geralmente não é assim, a gente quer que existam usuário e que o usuário vai lá,
+[25:25 - 25:31] vai lá e coloca as informações elevantes para ele ou para aquele caso.
+[25:31 - 25:33] Então aí que a gente entra no input.
+[25:33 - 25:40] o input faz o quê? Ele abre o espaço pra dizer ó, eu cheguei até aqui, mas agora eu preciso de um
+[25:40 - 25:48] DAB aqui, tu tem que me fornecer, certo? Por boas práticas vocês não vão ver validação ainda,
+[25:48 - 25:56] né? Vocês vão ver lá depois, por boas práticas é interessante, antes a gente pedir um DAB
+[25:56 - 26:00] para a gente colocar aquele print, lembra do print?
+[26:00 - 26:07] print, printf, enfim, é, colocar um print dizendo para o usuário que dado que ele tem que colocar.
+[26:07 - 26:12] Encirar sua altura, em centímetros.
+[26:12 - 26:15] Pô, eu quero que a pessoa só coloque, tipo,
+[26:15 - 26:17] a pessoa tem um e oitenta.
+[26:17 - 26:24] que todo mundo fica meio perdido, que é abrir aspas, digite o seu nome, é isso que ele tá, é o input.
+[26:24 - 26:25] Não, eu disse, eu sei.
+[26:25 - 26:30] Digite o seu nome, essa é mensagem que a pessoa vai aparecer lá, né?
+[26:30 - 26:33] Digite o seu nome, aí tu vai digitar o nome, ou o número.
+[26:33 - 26:35] Mas quando vai pro print?
+[26:35 - 26:41] Quando vai pro print, tu também tem a oportunidade de colocar o que tu quiser, entendeu?
+[26:41 - 26:46] Tipo, tu abre aspas e escreve do jeito que tu quiser, por exemplo, e entra maiúsculo, minúsculo, ananandana.
+[26:46 - 26:55] A Leia se confundiu na hora que estava explicando pra gente, porque estava falando na chave como se fosse colcheite, entendeu?
+[26:55 - 27:00] Colcheite, a gente usa palista, a Leia estava usando chave que é pra chamar variável.
+[27:00 - 27:02] Aí a Leia se confundiu.
+[27:02 - 27:04] Respiram, respirem.
+[27:04 - 27:06] Respiram, respiram.
+[27:08 - 27:13] Não chegamos nesse nível ainda, vamos aqui ó, baby steps.
+[27:13 - 27:18] Baby steps, certo? Sem botar a carroça na frente dos dois.
+[27:18 - 27:22] A Lísta que é uma lista, que é um dicionário, que hoje ele jogou a carroça muito à frente
+[27:22 - 27:24] do mundo e tudo.
+[27:24 - 27:29] E hoje aqui a gente não vai ver nem lista, nem dicionário, nem nada disso.
+[27:29 - 27:32] Vamos por partes, vamos ativar a tarde.
+[27:32 - 27:35] Mas é tudo a fazer isso aí, porque a gente já vai ter o...
+[27:35 - 27:39] Para mim eu gosto, porque é tipo eu vejo um negócio diferente, eu sou muito curiosa,
+[27:39 - 27:40] eu vou lá atrás.
+[27:40 - 27:47] Inclusive, antes de ver o negócio da lista, eu tive que aprender porque eu fui fazer o negócio das notícias, né?
+[27:47 - 27:54] Mas eu sou muito curiosa, então pra mim essa didática funciona muito, porque eu vejo uma coisa que eu não sei, eu vou muito atrás, entendeu?
+[27:54 - 27:58] Mas pra alguns pessoas não, funciona, né?
+[27:58 - 27:58] É, é.
+[27:58 - 28:01] Mas pra mim é que não tem o tempo, gente, pai.
+[28:01 - 28:03] A curiosidade vai levar vocês muito longe.
+[28:03 - 28:05] A gente tem, de 2 horas até 2 horas da manhã.
+[28:05 - 28:07] 9 horas da noite a 2 horas da manhã.
+[28:07 - 28:09] O que você faz? Noite até assim da manhã, é?
+[28:09 - 28:11] O que eu faço?
+[28:11 - 28:13] Eu faço a dor de uma fina.
+[28:13 - 28:15] Uriosidade, interesse.
+[28:15 - 28:17] Levo vocês muito longe.
+[28:17 - 28:19] Levo vocês muito longe.
+[28:19 - 28:21] Enfim, a gente tem as três variáveis.
+[28:21 - 28:23] A gente já sabe o tipo dessas variáveis.
+[28:23 - 28:25] Só que a gente não quer deixar a hard-coded.
+[28:25 - 28:27] A gente não quer deixar isso embutido no programa.
+[28:27 - 28:29] A gente quer abrir para o usuário digital.
+[28:29 - 28:31] Então a gente vai colocar o input.
+[28:31 - 28:33] A gente vai colocar o input.
+[28:33 - 28:35] A gente vai colocar o input.
+[28:35 - 28:37] A gente vai colocar o input.
+[28:37 - 28:41] o usuário digitar. Então a gente vai colocar o input, o input ele vai capturar
+[28:41 - 28:48] aquele que o usuário digita. Mas é bom a gente dizer, meu querido, digita isso.
+[28:48 - 28:51] E digita desse jeito. É o que o usuário vai...
+[28:51 - 29:02] Porque você pode botar lá, digite soltura. A pessoa coloca minha altura é...
+[29:02 - 29:09] Coloca digite soltura somente números ou digite soltura em centímetros.
+[29:09 - 29:12] Se a pessoa tem 1,83 ela vai colocar 1,83.
+[29:12 - 29:15] Cara que trabalha com o público tem muito problema com isso.
+[29:15 - 29:21] Se você declarou como float, lembra que o float do Python não usa vírgula.
+[29:21 - 29:24] Ele não usa vírgula, ele diz o ponto.
+[29:24 - 29:31] Então você vai ter que botar lá, digite soltura, exemplo 1,57.
+[29:31 - 29:34] Não coloca sentinho, senão a pessoa vai lá com o que eu senti.
+[29:34 - 29:37] Não coloca metro, porque a pessoa vai lá colocar metro.
+[29:37 - 29:42] Aí você está dando mais trabalho pra você, porque você vai ter que limpar isso tudo antes de calcular.
+[29:42 - 29:46] E mesmo assim vai acontecer. Eu mesmo assim vai dar errado.
+[29:46 - 29:50] Quando é porcentagem? Eu sempre transformo em decimal zero ponto alguma coisa.
+[29:50 - 29:53] Porque eu vi que porcentagem não é por... sem.
+[29:53 - 29:59] Quando tu quer uma porcentagem de alguma coisa, quando tu quer uma porcentagem de alguma coisa,
+[29:59 - 30:01] tu vai sempre dividir por 100.
+[30:01 - 30:05] Aí por isso que lá aparece lá 15%.
+[30:05 - 30:06] É só mudar as casas.
+[30:06 - 30:07] É isso aí.
+[30:07 - 30:10] Você está falando que todos as vezes a gente vai ser transformação, né?
+[30:10 - 30:11] Nunca usa a porcentagem.
+[30:11 - 30:12] 10%.
+[30:12 - 30:13] 0.10.
+[30:13 - 30:14] Mas sempre é...
+[30:14 - 30:17] Porque se você usar 10, a gente vai tipo, tá pra pra isso.
+[30:17 - 30:20] A porcentagem é tranquilo, depois a gente...
+[30:20 - 30:22] Se der tempo hoje a gente vai pra lá.
+[30:22 - 30:25] Não sei se vocês tem compromisso.
+[30:25 - 30:28] Cara, eu estou solto aqui.
+[30:28 - 30:31] Eu tenho terapia mais forte.
+[30:31 - 30:33] Mas eu não estou no horário.
+[30:33 - 30:36] Eu estou com o solto, mas só duas horas.
+[30:36 - 30:38] Vamos sabe, vamos sabe.
+[30:38 - 30:39] Beleza.
+[30:39 - 30:41] Agora eu acho que eu confio.
+[30:41 - 30:43] É esse o lugar aqui do clipe.
+[30:43 - 30:45] Próxima vez eu sento aqui.
+[30:45 - 30:49] Mas aí é direto também.
+[30:49 - 30:51] Não, mas aqui dá pra montar, tá de casar.
+[30:51 - 30:52] Beleza.
+[30:52 - 30:54] Próxima vez então todo mundo de casar.
+[30:54 - 30:55] Acho que todo mundo de casar.
+[30:55 - 30:57] Já colocar na bolsa mesmo.
+[30:57 - 30:58] É...
+[30:58 - 31:03] Então a gente não quer deixar a hardware, é bom, é boa prática só.
+[31:03 - 31:04] Puxa, puxa.
+[31:04 - 31:09] É boa prática a gente informar bem pro usuário aquilo que ele quer a gente digitar.
+[31:09 - 31:15] E mesmo assim ele pode botar a informação, o que não tem nada a ir na Jornal é mais contigo.
+[31:15 - 31:20] Nesse momento, vocês não viram validação, vocês não viram trichate, vocês não viram
+[31:20 - 31:23] como tratar erros.
+[31:23 - 31:25] Em algum momento, vocês vão ver.
+[31:25 - 31:27] Mas não é para ver nesse momento.
+[31:27 - 31:34] Então, para garantir que o programa de vocês use, que o usuário chegue lá e consiga digitar
+[31:34 - 31:41] os dados para não dar um crash, não ficar pendurado o programa, boas práticas informem.
+[31:41 - 31:42] Sim.
+[31:42 - 31:48] Tipo, por exemplo, quando eu coloco o input e coloco o digit aqui, um exemplo, o seu nome,
+[31:48 - 31:57] ele vai digitar entre aspas ou aquela frase que eu coloquei entre aspas vai aparecer para ele, ele vai colocar depurdo.
+[31:57 - 32:03] Tá, o input, ele tem uma característica, ele tem um cacuete.
+[32:03 - 32:07] Ele sempre pega a informação com o string.
+[32:07 - 32:13] Sempre, sempre, sempre, sempre. Tomando o input e fazer alguma coisa, ele traz uma string.
+[32:13 - 32:18] Cara, eu queria um número, ele traz uma string, não tem. É particular dele.
+[32:18 - 32:29] Por isso que a gente faz o casting. Casting é isso, é você pegar um tipo de variável e transformar no outro tipo.
+[32:29 - 32:36] Isso é um string, eu vou transformar num float ou no inteiro.
+[32:36 - 32:39] Então tem a capacidade de fazer isso.
+[32:39 - 32:43] Ah, então vou utilizar para transformar o input nisso?
+[32:43 - 32:45] Ah, entende, entende.
+[32:45 - 32:47] É isso.
+[32:47 - 32:55] O input ele vai capturar como string, mas aí você, na mesma linha, já pode transformar em float.
+[32:55 - 33:02] Se ele quisesse fazer mais didático, ele primeiro ia capturar e podia mostrar o tipo desse variável
+[33:02 - 33:08] A gente tem um comando que pode imprimir na tela para dar um print no tipo da variável
+[33:08 - 33:13] O input capturou, capturou com o tipo string
+[33:13 - 33:18] A gente transformou de string para float, enfim
+[33:18 - 33:22] Aí depois a gente verifica de novo. Ah, olha só, essa variável agora é
+[33:22 - 33:26] inteiro o float, o que a gente transformou. Então,
+[33:26 - 33:30] primeiro é pegar o Python. Input sempre pega como
+[33:30 - 33:34] texto. Sempre pega como stream. Se você esquecer
+[33:34 - 33:38] de converter, você vai pegar, sei lá,
+[33:38 - 33:42] 10 mais 10 igual
+[33:42 - 33:46] a 1010.
+[33:46 - 33:55] Você vai estar somando isso, que você vai estar concatenando, você vai estar pegando uma e juntando com a outra, 5 mais 5 vai estar 55.
+[33:55 - 34:01] Porque não é uma operação matemática, ele só está juntando caractéias.
+[34:01 - 34:04] Suave aí?
+[34:04 - 34:06] Suave, né?
+[34:06 - 34:09] Suave no que aconteceu, é o momento, é o momento.
+[34:09 - 34:13] Não, da sua avança, a avança, a nossa sangria, desculpa, a sua sangria.
+[34:13 - 34:17] Na GMC hoje que não tava com foi?
+[34:17 - 34:22] Gente, é porque eu vou tomar voltando de um momento muito pouco, aí não sei o que tá, mas eu sei.
+[34:22 - 34:24] É, por isso que eu não tô fazendo tanto.
+[34:24 - 34:27] Eu vou pegar a dica dela, eu vou só dormir, vai ser muito...
+[34:27 - 34:31] Ela é o reforço, né? Muitas coisas, ela é mulher de conhecimento, graças a ela que tá aqui, né?
+[34:31 - 34:33] Meu chefe do meu pai, eu não.
+[34:33 - 34:35] Sabrindo, eu me despado, eu me só duas horas da manhã.
+[34:35 - 34:36] É...
+[34:36 - 34:41] A lida de sala está em baça, não é?
+[34:41 - 34:43] A lida de sala é lá, né?
+[34:43 - 34:45] Sabia que ela pode, mas era na minha cara.
+[34:45 - 34:46] É...
+[34:46 - 34:48] Ó, sabrinho, o resolvo é o...
+[34:48 - 34:51] Se fosse a Natalia para segurar, tinha jogado uma menina no cadê.
+[34:51 - 34:55] Pronto, show. Eu esqueci o nome do outro.
+[34:55 - 34:57] Extreme 1, o que é de número?
+[34:57 - 34:59] O Int ou Float.
+[34:59 - 35:01] O Int inteiro Float é o...
+[35:01 - 35:03] Sensacionais, né?
+[35:03 - 35:33] É o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é
+[35:33 - 35:35] no tipo que a gente quer.
+[35:35 - 35:37] Até aí, tranquilo?
+[35:37 - 35:39] Próximo passo seria o quê?
+[35:39 - 35:42] Pediu outro dado do usuário.
+[35:42 - 35:44] A gente pediu um.
+[35:44 - 35:46] Com a mesma educação, com a mesma polidez.
+[35:46 - 35:51] Senhor usuário, por favor, digita agora o seu peso, meu querido.
+[35:51 - 35:54] Peso em quilos, ponto grama.
+[35:54 - 35:56] Ah, tá aqui um exemplo.
+[35:56 - 35:58] É a do Nuno.
+[35:58 - 36:02] 83.5, não coloca quilograma, o que ele vai ser um condi.
+[36:02 - 36:03] É bonito.
+[36:03 - 36:06] A vitória vai lá e digita.
+[36:06 - 36:08] Por último, não.
+[36:08 - 36:10] Depois a gente tem que fazer o quê?
+[36:10 - 36:11] A gente só.
+[36:11 - 36:13] Não, tem que calcular.
+[36:13 - 36:14] Calcular.
+[36:14 - 36:18] Seria bom se a gente calculasse antes de botar o print com resultado.
+[36:18 - 36:20] Porque a princípio não dá pra nada.
+[36:20 - 36:22] Eu falo que é do input, tá?
+[36:22 - 36:27] Então vamos ser um pouquinho direto.
+[36:27 - 36:35] aqui input aí eu vou colocar ele vai ele vai me trazer o dado pronto eu expliquei
+[36:35 - 36:40] o que ele tem que colocar lá beleza aí um exemplo peso e altura aí ele colocou
+[36:40 - 36:47] os dois dados aí quando eu for quando eu for somar multiplicar esses dados não sei
+[36:47 - 36:52] eu vou ter como como vai ser o código que eu vou usar tá
+[36:52 - 36:55] Vou entender o conceito primeiro e depois ver o código.
+[36:55 - 37:04] Quando você pede para o usuário um valor, o que ele está alterando uma variável?
+[37:04 - 37:07] Lembra que a variável tem três coisas, conheçam?
+[37:07 - 37:11] Que é o nome, o tipo e o resultado.
+[37:11 - 37:14] Está falando mais resultado.
+[37:14 - 37:16] Valor.
+[37:16 - 37:26] O valor. Quando a gente declara uma variável, a gente diz lá int alguma coisa, float alguma
+[37:26 - 37:31] coisa, a gente está declarando o tipo. Então, geralmente o programador que vai decidir
+[37:31 - 37:37] qual o tipo da variável. O programador também vai decidir qual é o nome. Só o valor da
+[37:37 - 37:41] variável que a gente vai dizer, tá, já fiz dois terços de trabalho, chegou o usuário
+[37:41 - 37:46] e aí coloca a seletia do bolo, faz a última parte.
+[37:46 - 37:54] Então, a gente tinha nossa caixinha de variáveis que já tem um nome e que já aceita só um determinado tipo.
+[37:54 - 38:00] O usuário foi lá e colocou o valor.
+[38:00 - 38:03] Isso para as duas variáveis que a gente tinha.
+[38:03 - 38:04] Então agora elas são completas.
+[38:04 - 38:07] Então tem nome, tem valor e tem tipo.
+[38:07 - 38:15] O próximo passo seria fazer a conta. Calcular o IMC. Pegar a altura e dividir pelo peso. Eu acho que é isso.
+[38:15 - 38:16] Não lembro.
+[38:16 - 38:18] A altura vezes o peso ao quadrado.
+[38:18 - 38:21] Isso. Perfeito. A altura vezes o peso ao quadrado.
+[38:21 - 38:24] Ahaliais ao contrário. É peso sobre a altura ao quadrado.
+[38:24 - 38:25] Enfim.
+[38:25 - 38:30] Eu estou sem internet aqui. Depois se quiserem que a gente se quiserem a forma.
+[38:30 - 38:33] A gente coloca aqui de boa.
+[38:33 - 38:34] Chapo, não.
+[38:34 - 38:35] É coisa de tudo.
+[38:35 - 38:39] Bocas ficadas não é tromboso, não?
+[38:39 - 38:44] Dividindo o peso pela altura em metros e quatro anos.
+[38:44 - 38:45] É peso por altura.
+[38:45 - 38:46] Peso por altura só.
+[38:46 - 38:50] Em MC, peso dividido por altura vezes altura.
+[38:50 - 38:52] Pesas à altura?
+[38:52 - 38:54] A altura é o quadrado, né?
+[38:54 - 38:55] É a altura quadrada.
+[38:55 - 38:57] Certo, isso aqui é o INC.
+[38:57 - 38:58] O segundo.
+[39:00 - 39:02] O cara tem uma tacanetinha, não?
+[39:02 - 39:04] Preparado.
+[39:04 - 39:07] Hoje eu quero que professores, às vezes não sei.
+[39:10 - 39:12] Beleza, a gente tem que fazer essa conta.
+[39:13 - 39:14] Oxa, mas...
+[39:14 - 39:17] Eu não sei como colocar isso aqui no pai tão fácil.
+[39:17 - 39:19] Assim, no papel?
+[39:20 - 39:22] No papel consigo fazer.
+[39:26 - 39:28] Dá para ver melhor?
+[39:28 - 39:29] Dá para ver melhor.
+[39:29 - 39:31] No papel consigo fazer.
+[39:31 - 39:36] Então vou fazer o seguinte, vou fazer um programa que pega esse dado de altura e peso,
+[39:36 - 39:42] aí ele manda uma mensagem para mim, eu faço um papel e devolvo para o programa e ele dá resposta.
+[39:43 - 39:44] Não, né?
+[39:44 - 39:47] A gente vai colocar isso aqui dentro do programa.
+[39:48 - 39:53] Tem como colocar uma fração dentro do programa?
+[39:53 - 39:55] Desse tipo aqui não tem.
+[39:55 - 40:00] Então vamos falar um pouquinho de operadores aritméticos.
+[40:00 - 40:02] O que são operadores aritméticos?
+[40:02 - 40:05] São símbolos que vão dar o...
+[40:05 - 40:08] Mais ou menos multiplicar, dividir...
+[40:08 - 40:10] Conta. Continha.
+[40:10 - 40:14] Mais ou menos multiplicação de visão, tem módulo também que pega o resto.
+[40:14 - 40:17] E ele não para nada, e a gente descobriu o barra-barra.
+[40:17 - 40:19] Vai ver.
+[40:19 - 40:22] Isso, uma sigla...
+[40:25 - 40:28] que talvez você já tenha visto, talvez não,
+[40:28 - 40:32] que nos ajuda a encadear essas informações.
+[40:32 - 40:37] Por exemplo, eu tenho altura dividido pelo peso vezes o peso.
+[40:37 - 40:43] Isso aqui no parque eu vou escrever assim, isso aqui vai ser igual ao peso, perdão,
+[40:43 - 40:45] asterisco, como é?
+[40:45 - 40:47] Barra...
+[40:47 - 40:48] Barra de visão.
+[40:48 - 40:54] Barra, H, asterisco, H.
+[40:55 - 41:06] Faz diferença se eu multiplicar o H e depois pegar o W e dividir ou se eu dividir isso aqui e depois multiplicar?
+[41:06 - 41:10] Faz ou não faz?
+[41:10 - 41:13] Faz não.
+[41:13 - 41:23] Se eu colocar um parênteses aqui, é o que eu estou fazendo.
+[41:23 - 41:30] Isso vai ser igual a isso? Não. Ou não? Não vai, não vai. Então a gente tem uma
+[41:30 - 41:37] ordem de prioridade quando a gente fala de operações aritméticas,
+[41:37 - 41:42] matemáticas aritméticas. O que é essa ordem de prioridade? É o tal do Pendas.
+[41:42 - 41:49] Eu nem conheci essa essa sigla e aprendi o professor do cenário passado.
+[41:49 - 41:51] Esse número é o quadrado, é isso?
+[41:51 - 41:53] Isso.
+[41:53 - 41:57] Eu acho que no vídeo ontem que colocava dois asteriscos, né?
+[41:57 - 42:03] A teoria é até sempre, porque eu faço tempo todo assistindo vídeo, mas eu não sei.
+[42:03 - 42:05] Mas eu lembro que eu falo, é isso.
+[42:05 - 42:07] Pode multiplicar ele por ele mesmo, me dá no mesmo.
+[42:07 - 42:09] Pode botar do lado, mas eu entendi de tudo os vezes.
+[42:09 - 42:17] Uma dúvida, se ele tiver tipo, W barra HH, se o 2H tiver entre parênteses,
+[42:17 - 42:19] Primeiro vai fazer esse resultado para depois fazer isso.
+[42:19 - 42:21] É isso que eu vou falar.
+[42:21 - 42:24] A gente tem um tal do Pendas, fica isso.
+[42:24 - 42:34] Quarenta exis, expoentes, policiais, multiplicação, dimissão, adição, subtração.
+[42:34 - 42:37] É essa a ordem que a gente vai seguir.
+[42:37 - 42:40] Então se eu tiver isso aqui...
+[42:41 - 42:43] É que nem faz um no papel.
+[42:44 - 42:46] Com isso aqui...
+[42:46 - 42:52] Primeiro resolvo o parâmetro e depois vou para a multiplicação.
+[42:52 - 43:06] No caso, isso aqui surgiu quando a Sabrina falou que era por h².
+[43:06 - 43:08] Sabrina falou, tá falado?
+[43:08 - 43:13] Sabrina falou, tá falado. Então dividindo pela altura ao quadrado.
+[43:13 - 43:18] Eu que me distrair coloquei H vezes H.
+[43:18 - 43:22] Ou seja, mandando o mesmo tipo de...
+[43:22 - 43:24] Só para ter uma diferença.
+[43:24 - 43:29] Ou seja, eu preciso da sautura ao quadrado.
+[43:29 - 43:36] Eu não preciso dividir o peso pela altura e depois fazer uma outra operação.
+[43:36 - 43:39] É uma mesma, pelo beijo. Não sei.
+[43:39 - 43:49] Vamos ver aqui, mas eu sei que se eu tiver a altura e eu não sei que existe o operador que leva ao quadrado,
+[43:49 - 43:56] se eu estou ali nas quatro operações básicas, primeiro eu tenho que fazer essa multiplicação,
+[43:56 - 43:59] aí depois eu tenho que pegar isso aqui e dividir.
+[43:59 - 44:04] Então, a minha expressão lá teria que ser...
+[44:04 - 44:19] Isso aqui, com parênteses aqui. Quando o IMC for calculado, primeiro ele vai multiplicar os H.
+[44:19 - 44:23] Aí ele vai pegar o peso e dividir para aquela altura.
+[44:23 - 44:35] Porque na matemática, se eu fizer isso aqui, h, w dividido por h, eu teria que multiplicar por 1 sobre h pra dar a mesma coisa.
+[44:36 - 44:40] Aí a gente já começa a complicar na matemática e não precisa complicar aqui.
+[44:40 - 44:42] Então vocês fingem que não viram isso.
+[44:43 - 44:44] Tá?
+[44:44 - 44:45] E não tem de...
+[44:45 - 44:46] Não tem de entender.
+[44:46 - 44:49] É só pra dizer que foi diferente.
+[44:49 - 44:52] Porque senão a gente vai entrar muito em matemática e não é o objetivo.
+[44:52 - 45:00] O que eu sei é que eu preciso fazer uma operação antes da outra, só que eu só consigo escrever a minha equação nessa ordem.
+[45:00 - 45:04] Se eu não posso mudar a ordem que eu estou escrevendo, eu tenho que mudar a ordem de execução.
+[45:04 - 45:08] Eu tenho que fazer com que isso seja executado primeiro.
+[45:08 - 45:16] Então, primeiro aparente, depois expoente, depois multiplicação, divisão, adição e substratação.
+[45:16 - 45:34] Então, tem as alturas, multipliquei, cheguei lá que o meu IMC é igual a alguma coisa.
+[45:34 - 45:38] Mas não pode que eu coloquei IMC?
+[45:38 - 45:44] Agora, vamos supor que eu defini o nome da variável como IMC.
+[45:44 - 45:49] ou definir o nome da variável como...
+[45:49 - 45:51] É, o nome da variável pode ser qualquer coisa, mano.
+[45:51 - 45:54] Pode ser, tipo, A, B, C, entendeu?
+[45:54 - 45:56] Defini o nome da variável como expedito.
+[45:56 - 46:03] Mas qual é a boa prática em relação a você nomear variáveis?
+[46:03 - 46:10] Geralmente, os alunos, nós, assim, nós somos preguiços.
+[46:10 - 46:15] A gente quer colocar uma letra para variável e pronto, acabou.
+[46:15 - 46:20] Ah, isso aqui é W, isso aqui é H, isso aqui é A, B, C e acabou.
+[46:20 - 46:23] Meu programa está feito de roda, nunca mais vou lá para isso.
+[46:23 - 46:26] No mundo real, não é assim.
+[46:26 - 46:31] No mundo real, não é só você que vai ler o seu código.
+[46:31 - 46:35] Se você está acabando uma empresa, uma equipe, outras pessoas também vão ler o seu código.
+[46:35 - 46:38] E elas precisam entender o que é aquela variável.
+[46:38 - 46:41] Então a recomendação é usar nomes descritivos.
+[46:41 - 46:46] Ao invés de W eu poderia usar peso...
+[46:47 - 46:50] Altura... Altura...
+[46:50 - 46:53] E o MC poderia ser IMC.
+[46:55 - 46:59] É o poder ser por instenso índice ver massa corporal.
+[46:59 - 47:04] Sem espaços e sem começar com números.
+[47:04 - 47:06] Mas eu posso colocar um Derland.
+[47:06 - 47:07] Pode.
+[47:07 - 47:11] De preferência sem assentos também.
+[47:11 - 47:15] E são boas práticas como a gente vai dar o nome da variável.
+[47:15 - 47:17] Variável tem três coisas, quais são elas?
+[47:17 - 47:19] Nome, tipo, valor.
+[47:19 - 47:21] Beleza, afiados.
+[47:21 - 47:23] Afiados.
+[47:23 - 47:29] Então, a recomendação é que o nome da variável seja algo descritivo, algo claro.
+[47:29 - 47:35] Porque o programa que você fez hoje, você pega daqui a uma semana,
+[47:35 - 47:37] Não consegue saber o que são as coisas.
+[47:37 - 47:44] Porque você não documentar, se você não deixar explícito, não deixar claro, você mesmo não consegue entender.
+[47:44 - 47:46] Imagina o professor.
+[47:46 - 47:49] Mas eu não dá pra jogar.
+[47:49 - 47:53] Imagina o professor. O professor está mais treinado pra isso.
+[47:53 - 47:55] Porque são ambos fazendo isso.
+[47:55 - 47:59] Se puder poupar trabalho do professor também, a gente agradece.
+[47:59 - 48:03] Certo, então. Calcolei meu MC. Deu resultado lá.
+[48:03 - 48:07] Acabou o programa, posso fechar ele para casa?
+[48:07 - 48:09] Não, tem que pintar, né?
+[48:09 - 48:11] Exutado.
+[48:11 - 48:17] Agora eu tenho que exibir para o usuário porque ele quer saber.
+[48:17 - 48:22] Ele tinha um problema, meu problema é saber o índice de massa corporal, tem um programa
+[48:22 - 48:26] que faz isso, se ele cálculo a resposta e fica com ele, não está certo.
+[48:26 - 48:31] O último que eu preciso é colocar na tela, que a gente faça um comandinho chamado?
+[48:31 - 48:32] Pris.
+[48:37 - 48:42] Ou seja, a gente partiu de um problema, calculava o IMC.
+[48:43 - 48:46] A gente sabe que existe uma fórmula para fazer isso.
+[48:47 - 48:51] A gente sabe que para fazer essa fórmula, a gente precisa de alguns valores.
+[48:52 - 48:56] A partir disso a gente pensou, tá, a gente precisa de três variáveis,
+[48:56 - 49:00] A gente precisa de todas as variáveis sendo tipo float.
+[49:00 - 49:03] Depois que a gente definisse que existem essas variáveis,
+[49:03 - 49:05] a gente precisa pedir para o usuário duas delas,
+[49:05 - 49:09] a terceira a gente vai calcular e no final a gente vai exibir.
+[49:09 - 49:11] Ah sim, quando a gente for pedir as variáveis,
+[49:11 - 49:14] a gente vai pedir que o usuário digiste do modo correto,
+[49:14 - 49:17] senão vai dar problema.
+[49:18 - 49:20] Essa é a estrutura que a gente tem que seguir,
+[49:20 - 49:22] por isso que a gente fala de algoritmos.
+[49:22 - 49:32] se a gente escreve um programa que faz isso, a instrução é uma importa, o que eu tenho que fazer é importa, mas a ordem também é importante
+[49:37 - 49:49] se eu pedir o peso, pedir a altura e depois já pular para mostrar o índice de massa corporal, não estou resolvendo problema, porque eu nem calculei
+[49:49 - 49:53] Eu preciso calcular. Quando a gente para para pensar, cara, isso é óbvio.
+[49:53 - 49:56] Esse barbudo está falando esses negócios aí, perdoe meu tempo de tempo.
+[49:56 - 49:59] Só que na correria a pessoa estava...
+[49:59 - 50:05] Só que se a gente não parar e pensar, e se acostumar, e se habituar a esse modo de pensar,
+[50:05 - 50:09] a coisa não vai. Certo? Duvidas aí?
+[50:09 - 50:10] Não.
+[50:10 - 50:11] Tá muito boa?
+[50:11 - 50:12] Muito boa.
+[50:12 - 50:14] Tá.
+[50:14 - 50:17] Vamos pensar uma melhoria para esse programa. Vocês têm tempo ainda?
+[50:17 - 50:19] Por que se deixava?
+[50:19 - 50:21] É alguns minutos.
+[50:21 - 50:23] A gente vai já estar 12 e meia na época.
+[50:23 - 50:25] Eu não sei nem que horas são.
+[50:25 - 50:27] Eu acho que 12 minutos eu não consigo não.
+[50:27 - 50:29] São 12?
+[50:29 - 50:31] Eu não sei.
+[50:31 - 50:33] Então não vem.
+[50:33 - 50:35] Vai roxo, vai.
+[50:35 - 50:37] Vamos começar então.
+[50:37 - 50:39] Se não der para terminar, a gente não termina.
+[50:39 - 50:41] Vamos supor que o MC
+[50:41 - 50:45] tenha diferentes faixas.
+[50:45 - 50:53] Se o IMC está acima de um valor, ele exibe uma mensagem e se ele está abaixo de um valor, ele exibe outra mensagem.
+[50:53 - 50:58] Padrão e sobrepeso, por exemplo, normalmente é assim que eles dizem.
+[50:58 - 50:59] Perfeito, perfeito.
+[50:59 - 51:09] Então, se está até certo valor, muito bem, parabéns, continue se cuidando, você é lindo.
+[51:09 - 51:16] Se estiver acima, você também é lindo, mas cuide seu peso, se é limite melhor, faça mais exercícios, certo?
+[51:16 - 51:24] E ele tem que decidir se ele vai escolher uma mensagem ou outra.
+[51:24 - 51:26] Como é que ele vai decidir? De forma leatória?
+[51:26 - 51:27] Não, quase ao final.
+[51:27 - 51:29] Ele vai dar um limite, né?
+[51:29 - 51:35] Ele vai escanear o rosto da pessoa e vai dizer, eu não gostei desse cara não, vou botar aqui.
+[51:35 - 51:38] A gente vai botar o quê?
+[51:38 - 51:45] Um limite numérico, para ele definir se vai dizer uma mensagem, se não outra.
+[51:45 - 51:49] Isso, a gente vai ter que ter uma estrutura de decisão.
+[51:49 - 51:55] O programa vai poder decidir se ele mostra uma mensagem ou outra.
+[51:55 - 51:57] Mas ele decidir isso da cabeça dele?
+[51:57 - 52:05] Não, a gente precisa de alguma coisa para comparar, para saber se ele vai pela esquerda ou pela direita.
+[52:05 - 52:11] Ah, só para, eu acho que para deixar entendido, tipo, a gente deu um print aí, né?
+[52:11 - 52:15] Ele disse, ah, vamos printar. E aí, printou o IMC, né?
+[52:15 - 52:20] Depois que ele printou o IMC, a gente está querendo uma melhoria no programa, né?
+[52:20 - 52:21] Isso.
+[52:21 - 52:24] Que é dizer alguma coisa. Vocês acham que a gente coloca essa melhoria.
+[52:24 - 52:29] melhoria antes do print ou depois do print eu não faz diferença não como ele
+[52:29 - 52:35] diz faz diferença mas o local do onde você vai colocar é como você quer dizer
+[52:35 - 52:40] né como você lembra que é arrodemado né a gente tem que ter uma ordem
+[52:40 - 52:44] cronológica para o programa entender se que ele o que tu quer que ele faça né
+[52:44 - 52:48] aí se eu colocar antes aí
+[52:48 - 52:52] Imagina, estou lá, escrevendo o código, estou colocando isso, não aconteceu.
+[52:52 - 52:56] Aí, pera, pera, gente, só tentar que o Sinonça não pegue, não.
+[52:56 - 53:06] Se eu coloco antes da MC, ele vai me dar a resposta, mas ele vai falar uma coisa depois,
+[53:06 - 53:09] que é o que ele está pesando ou não, eu estou certo, estou errado.
+[53:09 - 53:16] Vamos pensar primeiro na decisão, depois a gente vai pensar e encaixar aqui, mas ótima
+[53:16 - 53:23] uma reflexão, certo? Então, o que eu tenho é eu preciso decidir a mensagem que eu vou
+[53:23 - 53:32] informar e isso vai ser baseado na comparação entre o MC que eu valgo leio e um padrão.
+[53:32 - 53:40] Vamos supor que o padrão seja 50, certo? Se for maior que 50, uma mensagem maior que
+[53:40 - 53:42] 50 ou menor ou igual a 50.
+[53:42 - 53:45] A 50 tem que estar incluído de alguma forma.
+[53:48 - 53:53] A gente faz isso usando os operadores relacionais.
+[53:54 - 53:55] O que são os operadores relacionais?
+[53:55 - 53:57] Tem que ser muito fácil.
+[53:57 - 54:00] Os operadores relacionais são aqueles que...
+[54:04 - 54:06] Menor que, maior que, igual.
+[54:07 - 54:09] São aqueles que você pega uma coisa,
+[54:10 - 54:13] Aí você pega outra e você compara as duas.
+[54:14 - 54:17] Essa aqui é maior que essa aqui.
+[54:17 - 54:21] Essa aqui é igual a essa. Essa é diferente dessa.
+[54:21 - 54:30] O resultado de uma operação de comparação, de uma operação relacional, vai ser o quê?
+[54:34 - 54:35] Lerno?
+[54:36 - 54:37] Boa.
+[54:37 - 54:53] uma operação relacionada ela sempre vai resultar o true ou false
+[54:53 - 54:57] por isso que a gente definiu lá no começo que existem variáveis boleanas
+[54:57 - 55:24] Então calculei meu emc, meu próximo passo é comparar o emc é maior que 50, o emc é menor ou igual a 50
+[55:24 - 55:37] Se isso aqui for verdadeiro, eu vou ter a mensagem 1.
+[55:37 - 55:43] Se for falso, eu não sei o que dizer.
+[55:43 - 55:47] Cô, de que você está muito sobrepeso, etc.
+[55:47 - 55:57] Se for falso ou se isso for verdadeiro, porque é a mesma coisa, e isso ser verdadeiro equivale a isso ser falso ou isso ser falso equivale a isso ser verdadeiro
+[56:00 - 56:02] Entendeu? Beleza?
+[56:02 - 56:10] Então se isso for verdadeiro eu tenho a mensagem 2
+[56:10 - 56:17] Mas eu consigo falar na mensagem 2, na programação, dizer que tá gudo, tá mágico.
+[56:17 - 56:20] É, se você é programador rude...
+[56:21 - 56:25] Não recomendo, acho que mulheres não vão usar teu aplicativo.
+[56:25 - 56:27] Não, só quis.
+[56:27 - 56:32] Eu só quis entender, rapaz.
+[56:33 - 56:35] Não ia focar na coisa assim.
+[56:35 - 56:37] Não sei, vai aqui.
+[56:37 - 56:40] Ou seja, pode mas não pode.
+[56:40 - 56:46] É isso. E como é que a gente faz as estruturas de decisão?
+[56:46 - 56:51] Tem a palavra e a mágica lá que é o if.
+[56:51 - 56:58] A gente tem o if, a gente tem alguma coisa aqui, e a gente tem um bloco de código aqui.
+[56:58 - 57:04] Python é uma linguagem que é indentada.
+[57:04 - 57:07] Sabe que é indantação, né?
+[57:07 - 57:12] É esse espacinho que a gente tem em relação à mágica, para definir os blocos de código.
+[57:12 - 57:16] Então aqui, sempre vai a minha condição.
+[57:20 - 57:25] A condição, ela sempre vai ser um boleano, sempre,
+[57:25 - 57:28] sempre, sempre, sempre.
+[57:28 - 57:31] Eu preciso colocar aqui alguma coisa que me dê,
+[57:31 - 57:34] ou verdadeiro ou falso.
+[57:34 - 57:37] Quando a gente está vendo, ah, o número maior que esse,
+[57:37 - 57:40] é o número menor que esse, é bem fácil de ver isso.
+[57:40 - 57:43] Gente, eu me vou porque eu não quero tirar para lá.
+[57:43 - 57:44] Que aí, certo?
+[57:44 - 57:45] Tá certo.
+[57:45 - 57:47] Rapaz, eu tenho terapia, você vai pagar?
+[57:48 - 57:49] Boa água, amigo.
+[57:51 - 57:52] É, dois mil, amigo.
+[57:52 - 57:53] Eu acho que não se reza no consulta.
+[57:54 - 57:55] Mas, provavelmente, tá.
+[57:56 - 57:59] C, C, autista tem uns problemas, né?
+[57:59 - 58:00] Mas tudo bem.
+[58:00 - 58:01] Eu não vejo até o fim.
+[58:01 - 58:03] Obrigado pela presença, viu?
+[58:03 - 58:04] Eu te agradeço.
+[58:09 - 58:13] As estruturas de decisão sempre vão se basear em uma condição.
+[58:13 - 58:15] E sempre vão se basear no boleano.
+[58:15 - 58:19] É como se eu chegasse numa bifurcação de uma estrada.
+[58:19 - 58:23] Eu estou lá, caminhando a minha estrada, opa, eu tenho dois caminhos.
+[58:23 - 58:26] A condição vai ser o bilhetinho que vai me dizer.
+[58:26 - 58:27] Verdadeiro.
+[58:27 - 58:29] Vai ter uma placa apontando verdadeiro e outra falsa.
+[58:29 - 58:31] Aí eu vou lá pelo verdadeiro.
+[58:31 - 58:34] E aí meu programa vai seguir o fluxo que está aqui.
+[58:35 - 58:36] Certo?
+[58:36 - 58:39] E ele só vai entrar ali se for verdadeiro.
+[58:41 - 58:46] E a gente tem o else também, que é quando a gente quer cobrir a outra condição.
+[58:46 - 58:50] Se isso aqui não é válido, automaticamente isso aqui é.
+[58:50 - 58:53] Então se isso aqui é válido, eu vou fazer o Massage 2.
+[58:53 - 59:00] Eu vou parar por aqui. Pode ser?
+[59:00 - 59:04] Bom, que eu misturei os nomes, eu falei Elf.
+[59:04 - 59:07] O IFF e o ELF.
+[59:07 - 59:10] Você não falou que eu ia para a pizza.
+[59:10 - 59:13] Eu escutei ELF, olha.
+[59:13 - 59:18] Eu acho que todo mundo está mentalizando o ELF.
+[59:18 - 59:20] O IFF é condição, né?
+[59:20 - 59:26] O IF é uma estrutura de decisão. A estrutura de decisão depende de uma condição.
+[59:26 - 59:32] Ela vai ser executada essa condição por verdadeira e não vai ser executada se a condição for falsa.
+[59:32 - 59:37] Ah, mas eu quero que a execute se a condição for falsa.
+[59:37 - 59:40] Então posso colocar uma negação falsa para dizer que aquilo é verdadeira.
+[59:40 - 59:42] Vocês lembram do avistor?
+[59:42 - 59:49] O que você fez é a coisa que era para emitir a mensagem se fosse maior que 18 anos
+[59:49 - 59:53] É exatamente o que ele está tentando falar aí
+[59:53 - 59:56] E aí nesse próprio, a gente mesmo pode ficar modificando para você entender
+[59:56 - 59:58] Eu fiquei modificando só para poder entender
+[59:58 - 60:02] Vou falar mais, mais de 18 anos, então 5 anos, porque só está fundo
+[60:02 - 60:06] Gente, na próxima eu vim mais separado aqui para mostrar exemplo de código mesmo
+[60:06 - 60:10] Só isso que você deu, genômico, cariôs
+[60:10 - 60:12] Salaio, amo isso, amig.
+[60:12 - 60:17] Porque é isso aí que tá faltando, entender o básico da estrutura do código.
+[60:17 - 60:19] E é necessário, brother, é necessário.
+[60:19 - 60:24] Assim, eu tava até começando com um rapaz que entrou agora no primeiro semestre da noite
+[60:24 - 60:28] e ele falando, cara, eu acho que, sei lá, a faculdade tá muito devagar, assim,
+[60:28 - 60:31] o técnico era mais dinâmico, mais rápido e tal.
+[60:31 - 60:34] A faculdade tem muita teoria. Eu falei, cara, assim,
+[60:34 - 60:36] ensino superior é diferente no ensino técnico, hein?
+[60:36 - 60:45] Sim, tá? Sim, tá. É mais prático, é mais mão na massa. Mas superior você tem que entender as coisas de uma outra forma, né?
+[60:45 - 60:52] Você tem que realmente ter a holística da coisa. Não é só você sentar e...
+[60:52 - 60:53] Qual é o problema?
+[60:53 - 61:01] Não, você pode ser um gerente de projeta, você pode ser um líder de equipe, você pode ser alguém que tem uma visão maior
+[61:01 - 61:05] não vai ter essa visão se seu foco é só operacional.
+[61:05 - 61:08] Tem que ter o foco operacional também.
+[61:08 - 61:12] Mas não dá para deixar a teoria, não dá, não dá, não dá.
+[61:12 - 61:14] A gente só se afunda.
+[61:14 - 61:17] É isso, galera. Obrigado.
+[61:17 - 61:21] Tamo junto, tamo junto.
