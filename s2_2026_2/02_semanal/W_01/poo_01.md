@@ -61,6 +61,19 @@ public class Aluno {
 }
 ```
 
+### 💻 Como Compilar e Executar no Terminal (Multiplataforma)
+
+```bash
+# 🐧 Linux (Terminal Bash / OpenJDK)
+javac Aluno.java && java Aluno
+
+# 🪟 Windows (PowerShell / CMD)
+javac Aluno.java; java Aluno
+
+# 🍏 macOS (Terminal Zsh / OpenJDK)
+javac Aluno.java && java Aluno
+```
+
 ---
 
 ## Glossario
