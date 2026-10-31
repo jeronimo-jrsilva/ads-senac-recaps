@@ -1,0 +1,1123 @@
+# =====================================================================
+# ARQUIVO DE ORIGEM : Voz 260908_081151.m4a
+# DATA DA GRAVAÇÃO  : 2026-09-08 (Ter)
+# HORÁRIO (INÍCIO-FIM): 08:11:51 -> 10:21:31 (2h09m)
+# CLASSIFICAÇÃO     : AULA_ADS_MANHA | POO (Prof. Tibério)
+# ENTRA NO PORTAL?  : SIM
+# =====================================================================
+
+[00:00:00] A gente estava quase um mês aí, de aula, já pegaram o C, já pegaram o Java,
+[00:00:09] e dentro das taxas, o Java é muito mais complexo do que o C.
+[00:00:15] Isso eu falo de fintaxi, não de loja, quando você é paralógico, os dois podem fazer só falar esse projito.
+[00:00:23] Mas o Java tem as taxas mais complicadas do que o do C.
+[00:00:31] Mas além da sintaxi, você se entende na pessoa diferente de o que você está vendo em C, para que você esteja vendo um P.O, não estou falando de Java, P.O.
+[00:00:43] Porque aí no caso, vamos dizer, ah, quero fazer um programazinho rápido aqui, que vai somar.
+[00:00:49] Você vai lá, em qualquer momento que pode ser C, P.O, Java, escreve lá o código e funciona.
+[00:00:55] funciona, um P.O. você sai daquela tipo simples e passa a pensar em escala-me-do.
+[00:01:02] Isso.
+[00:01:03] Você tem que pensar de estrutura, como uma empresa funciona, como a regra em negócio
+[00:01:08] de funcionar, tudo aquilo.
+[00:01:09] Não é simplesmente a coisa para ser só um rapidamente, não é só o script rápido.
+[00:01:17] É tanto que muita gente quer, a gente tem que fazer o que?
+[00:01:21] pensar no estrutural, fazer o escritivo, que é uma coisa simples, e quando vai realmente
+[00:01:28] programar e desenvolver, acaba indo para o tableau, o tableau está aqui para vocês.
+[00:01:37] Em P.O., a gente usa lá o termo de objeto, você já entendeu o que é um objeto?
+[00:01:45] Se você pergunta esse, você entendeu o que é um objeto?
+[00:01:53] Você tem que entender o que é um objeto?
+[00:01:55] Ah, tudo é um P.O., é um objeto.
+[00:01:59] Mas você tem que entender o que você é dando, não é?
+[00:02:03] Você não descreve o objeto, o que ninguém descreve?
+[00:02:06] A classe, a classe.
+[00:02:08] A classe é basicamente a estrutura do objeto.
+[00:02:12] Então você cria a estrutura, na hora que o programa for rodar,
+[00:02:16] na hora que você não é pior de for rodar,
+[00:02:19] aquilo vai ser instanciado
+[00:02:21] e o objeto vai ser criado para colocar num modo contadum.
+[00:02:24] Você já tem que ter um nível de abstração.
+[00:02:27] Então, você tem que pensar, ah, eu já quero ir desse jeito aqui e criar um classe para aquela coisa.
+[00:02:34] Aí, nas aulas passadas, alguém te viu que está tocando em classe, classe, classe, classe.
+[00:02:40] Quero o quê? Atributos. Podem ser as variáveis que se chamam de tomados.
+[00:02:46] Vocês, em Paito, viram lá as funções, dez.
+[00:02:50] E você, acho que não chegar a separar as funções e tudo.
+[00:02:53] Mas aí também é um dos métodos.
+[00:02:58] Se usa isso, pode apelir lá.
+[00:03:02] Vê no uso e falso de fronteamente.
+[00:03:05] O que?
+[00:03:06] Tem qualquer tipo de método de fronteamente?
+[00:03:09] Um janela?
+[00:03:12] Eu sei.
+[00:03:13] O que acontece é mais...
+[00:03:15] Sendo bem que serve.
+[00:03:19] Existe, para dar uma mal...
+[00:03:21] Ah, quero fazer isso...
+[00:03:23] Quero fazer isso grosseiramente.
+[00:03:26] Você vai lá escreve, linha por linha, do nenu e faz, correto, sei de que eu quei.
+[00:03:32] Você puxa essa formação do nenu.
+[00:03:39] Qual é o que é? Você tem um banco de dados com as informações do nenu lá,
+[00:03:43] e na hora que você pode clicar lá, vai escolher o que são.
+[00:03:46] Você vai lá, hidroforma, clica, e vai aparecer aquela lista.
+[00:03:50] Aquela lista, e ela que vem de um banco de dados.
+[00:03:54] Você faz uma pronúncia que puxa a pronúncia dos quantidades
+[00:04:00] Porque se a sensibilidade de sinalar aquela coisa, você a sinalar para o banco de dados
+[00:04:03] Você não tem que reprogramar em tudo, tem forma de atar
+[00:04:10] Todo mundo aqui já jogou uma coisa, né, jogou?
+[00:04:13] Então pega aqui um jogo de mundo aberto
+[00:04:16] Você tem todas aquelas partes dos animais
+[00:04:20] Ah, gato, cachorro, burro e joio
+[00:04:25] Se eu queria uma classe chamada animais
+[00:04:29] Teria o irmão cachorro, o irmão cato, o irmão pássaro, o irmão, né?
+[00:04:34] Tencem isso.
+[00:04:37] Cada um deles tem uma função...
+[00:04:39] Tudo, né?
+[00:04:40] Mas eu invito toda a classe animal.
+[00:04:44] Se na classe animal, um jogo lá no pássaro,
+[00:04:47] tem esse pássaro aqui embaixo,
+[00:04:49] eu tive a função mover,
+[00:04:54] eu queria lá um objeto relacionado à classe animal, tipo gato.
+[00:05:04] que tem um gato lá no jogo que fica passeando, vai ter a função do VD.
+[00:05:08] Vocês entendem que o gato vai ter uma relação com o animal, vai ter uma relação com um gato.
+[00:05:17] E que alguns métodos que estão lá no animal, vai ter uma relação com os métodos que estão na classe gato.
+[00:05:23] Exatamente isso.
+[00:05:27] Então a forma de criar personagens em um jogo é forma de classe?
+[00:05:33] O que eu vou pensar é o seguinte, se você fosse criá-lo estruturado,
+[00:05:37] você tivesse que pegar todo aquele código que você criasse no animal,
+[00:05:43] você saia copiando esses códigos para todos os peixes e tudo isso aí, entendeu?
+[00:05:49] Para quem interesse o código com suas suções de,
+[00:05:55] para o meu chocasso, para o meu chatão, o meu chocô, o meu personalidade.
+[00:06:00] É assim, exatamente.
+[00:06:03] Então, para você evitar ficar repetindo o texto, né, copiando o texto, copiando o código,
+[00:06:11] o salto é muito de herança.
+[00:06:14] Porque eu não sei que mais na mão, quantas linhas estiveram para fazer, para fazer o
+[00:06:18] saibem-pão aqui inteiro.
+[00:06:20] Aí é um aqui que você tem que aprender a trabalhar aqui também.
+[00:06:24] Que pretenção.
+[00:06:25] É, foi por isso que eu peguei um cadinho.
+[00:06:28] De outros, né?
+[00:06:30] Mas aí...
+[00:06:32] Mas aí o...
+[00:06:34] Agora o...
+[00:06:37] O que deve ser, né?
+[00:06:39] Achei que é alto, né?
+[00:06:42] Até que você sentei, né?
+[00:06:44] É que parece um pote...
+[00:06:46] Um pote estruturado.
+[00:06:48] Você tem que copiar várias vezes, né?
+[00:06:50] É um pote com o peor, com esse treze de ano.
+[00:06:52] Não é?
+[00:06:54] Aí, às vezes, você vai andando, né?
+[00:06:56] Aí, tem os peixes, até as águas, até o...
+[00:06:58] É mal de...
+[00:07:00] Utilizar um aligarcer mais e mais, né?
+[00:07:02] É o que mais domina a área do mundo.
+[00:07:04] O que é o peão?
+[00:07:06] O que é ser mais, mais?
+[00:07:08] Porque o cê não suporta.
+[00:07:10] A pretensão vigéria.
+[00:07:12] Mas ser mais, mais é mais...
+[00:07:14] É um pouco mais rápido.
+[00:07:16] Ah, vai ter algo de esperança aí.
+[00:07:19] Voltando.
+[00:07:21] Em loja de exploração,
+[00:07:23] tem a mesma...
+[00:07:25] Tem a gramar aqui diferente.
+[00:07:27] Assim tá que é diferente.
+[00:07:29] Mas a loja que é a mesma.
+[00:07:31] Agora, a gente aprende a mais a...
+[00:07:36] Eu não lembro mais como a gente te apaga, essas coisas.
+[00:07:40] Eu lembro que a gente se mantém a ver.
+[00:07:42] Quando você está ouvindo e não sei.
+[00:07:44] Quando você está ouvindo e o pai está com um otolho.
+[00:07:46] O otolho não diz assim, isso é uma boa prática.
+[00:07:50] Da onde você acha que é uma boa prática?
+[00:07:52] Ah, tem que fazer tipo assim, um if, a deixar com o seu que,
+[00:08:02] separa a inventação muito do pai.
+[00:08:04] É obrigatório, né?
+[00:08:06] Por exemplo, você não é alternatório, mas todo mundo faz habitação,
+[00:08:09] que é mais fácil de ver, é mais agradável.
+[00:08:13] Mas os boas práticas são o que acontece.
+[00:08:16] É um horrível problema, faz um lambança lá,
+[00:08:21] pra ser mais rápido, né, faz e vai-se embora.
+[00:08:25] Então, criar os boas práticas, talvez,
+[00:08:28] pelo menos, fica mais fácil do código, né?
+[00:08:30] Ao mesmo tempo, no código estrutural,
+[00:08:32] você pode ir embora,
+[00:08:34] aí eu chego a ser o superior e disse,
+[00:08:36] Há, houve um problema na função tal, você tem que sair procurando aquele pátio todo,
+[00:08:45] e em parte são as coisas que tem para a função, se for um P.O. você vai ter a função tal,
+[00:08:53] talvez seja no metlug mal, a função fazer o som, você vai lá e diga a altura sua com a função,
+[00:09:02] mas não tem que sair remedendo tudo, porque provavelmente você se perderia do texto no pátio todo,
+[00:09:08] Lembra que se você clicar, você vai procurando uma hora que você pula
+[00:09:13] Acho que todo mundo tem um jeito de educar isso, né?
+[00:09:25] Inscreva-se, claro
+[00:09:34] O que eu quero evitar é que é uma classe faz tinta
+[00:09:41] O que é uma classe faz tinta?
+[00:09:42] A classe faz tinta
+[00:09:45] Se você já... Alguém que já abriu código em Java
+[00:09:48] Só a classe principal, né?
+[00:09:52] public classmate, public classmate, aí embaixo eu estou lá, public, aesthetic, point, main, a string, ar, que se por aí vai.
+[00:10:08] Primeiro que você e eu, pode ser simples? Alguém já pensei que eu tinha que continuar fazendo o código?
+[00:10:14] Como se você fosse fazer no seco?
+[00:10:21] Sim, como se seria mais, não seria um organizado, né? Se eu faz tudo.
+[00:10:26] Exatamente, porque você vai, você quer fazer com que atividade, uma soma lá
+[00:10:33] Se você fizer isso lá com a classe meia, você vai em nó
+[00:10:37] Ent e A, Ent e B, vai do código do scanner, posso pegar as informações
+[00:10:44] Depois soma, subtraí e você pode fazer tudo do 100
+[00:10:48] As 12, você vai para a classe meia
+[00:10:50] Ah, não vou fazer a classe meia, vou fazer outra classe
+[00:10:53] mas também que perta tudo, né?
+[00:10:55] Mas muitas das passos fazem tudo
+[00:10:57] pra evitar o...
+[00:10:59] desde a orientação do pó.
+[00:11:01] Que tem a estrutura.
+[00:11:04] Porque se você for todo na paz
+[00:11:06] pode fazer isso com
+[00:11:08] uma produção de estrutura...
+[00:11:10] procedural?
+[00:11:13] Nenhum. O que acontece?
+[00:11:15] Você não tem cadeia de higiene de sócio, né?
+[00:11:19] O que acontece?
+[00:11:22] O pior é muito vontade da parte de higiene de sócio
+[00:11:24] para organizar o que a gente pensava em escalonamento de código, escalonamento de projeto.
+[00:11:31] Você sai e vai tendo que escalonar mesmo.
+[00:11:33] Ah, vai criar essas coisas aqui.
+[00:11:35] Por exemplo, acho que todo mundo aí conhece o Minecraft.
+[00:11:39] Você conhece?
+[00:11:40] O Minecraft é feito em Java.
+[00:11:43] Ou, às vezes, em um lugar de promoção ao projecto.
+[00:11:47] Vamos dizer que você tem lá os inimigos.
+[00:11:51] Aí tem o Passe Filho que era o Zumbi.
+[00:11:55] Aí vai alguém diz assim, ah, eu vou botar um... um... coisa de... de inossauro.
+[00:12:00] Aí vai querer... a classe lá de inossauro.
+[00:12:02] Aí eu quero... pontos em um milho.
+[00:12:05] Só que... retê e tal e tal, e vai criando.
+[00:12:07] Aí você não vai ter que abrir uma classe,
+[00:12:09] vai criando os espátios de quadrinhos da classe,
+[00:12:11] porque você pode só ir adicionando.
+[00:12:12] Ao mesmo tempo você precisa ir retindo,
+[00:12:14] você vai tirando.
+[00:12:15] Para evitar isso aqui,
+[00:12:20] evitar isso aqui,
+[00:12:21] evitar isso aqui com os tutos,
+[00:12:22] é que foi sequiado.
+[00:12:23] Nós temos a Eros,
+[00:12:25] que vai ter a classe mãe,
+[00:12:27] e as classes filhas,
+[00:12:29] ou a super-clássia, e a sub-clássia, é o mesmo nome, né?
+[00:12:37] Só precisa entender que tem uma classe em cima e tem uma classe em baixo.
+[00:12:42] O Clássio Zediros?
+[00:12:44] Exatamente, né?
+[00:12:46] País Zediros.
+[00:12:49] E o que é que ele vai lidar?
+[00:12:51] Quer saber isso?
+[00:12:52] Não, não.
+[00:12:55] Só o remédio do Zediros.
+[00:12:58] Ele vai dar tudo.
+[00:13:00] Ele é de tudo.
+[00:13:01] Tudo que tem na classe de mãe, vai de classe para filho.
+[00:13:05] Então, por que não fazer a mãe? Por que, por exemplo, eu tenho uma classe lá do NPCs,
+[00:13:16] a NPCs de animais, a animais tem um tipo de gato, eu tenho que dizer qual é a polugata,
+[00:13:22] a polugata vai ser igual o tipo desse tamanho do peixe, né, ou o tipo do tamanho, só que a renderização,
+[00:13:31] cada um delas tem métodos exclusivos, por exemplo, aqui.
+[00:13:35] Ah, eu tenho um atributo total e por exemplo, tenho um atributo em mixo de patas ou pegadas.
+[00:13:45] Aqui para ter um tipo de pegada e o peixe não vai ter pegado.
+[00:13:51] Você fala que o tipo de pó de gota está utilizado no Manitã,
+[00:13:55] que é para dois raio mais, se acaso a lei e tem um fiote desse alinhamento.
+[00:14:01] Eu nunca joguei no pão sistema.
+[00:14:10] A loja está falando, ah, eu vou ter aquele objeto, aquele animal, eu vou ter um objeto A e um objeto B.
+[00:14:17] Eu vou ter os dados dele lá, por exemplo, vou fazer assim, dados pode ser, pode ter um método de acasalamento.
+[00:14:26] Tem um, ele vai verificar se o copiário dele tem 21, pode acasalar com ele.
+[00:14:33] Ele vai pegar as informações dos atributos de um e do outro, de um e do outro.
+[00:14:38] Ah, é, vamos dizer que é um animal que cinza e bordo branco, aí vai ter uma tabelazinho assim, posso olhar nesse alco, nesse ego, está tributo cinza e branco, faço um almoço que vai ser pau dos dois,
+[00:14:53] e eu estava usando um dos dois para fazer o filho com a telefonação.
+[00:15:00] O objeto nasce em...
+[00:15:04] A nome de ser cumpilador, o que acontece?
+[00:15:09] Java é uma imagem de alto nível,
+[00:15:12] então ele não vai trabalhar com memória e essas coisas.
+[00:15:15] O cumpilador vai ser necessário por isso,
+[00:15:17] para me entregar essas coisas.
+[00:15:18] Porque é, quando você não fez o sonho,
+[00:15:20] que era alto nível,
+[00:15:22] aí ele vai cair de ser.
+[00:15:24] De ser?
+[00:15:25] De ser e é ser.
+[00:15:26] praticamente por causa do jogo de plataforma
+[00:15:29] então é mais fácil se você não tem essa documentação
+[00:15:32] pra ver se tem uma documentação
+[00:15:34] até você tem um arroz
+[00:15:37] ou...
+[00:15:39] se você não entende
+[00:15:41] já viu o pessoal zerando ele
+[00:15:44] com o tempo limite
+[00:15:46] com o espelho de onde ele
+[00:15:48] ah sério, quase daqui
+[00:15:50] e tem um segundo
+[00:15:52] com o dedo
+[00:15:54] já viu, se você passar tão perigoso
+[00:15:56] Você tem que ter tudo isso mexendo no fonte do jogo.
+[00:16:00] Ele não mexe no fonte, você não pode ir no fonte.
+[00:16:03] Só jogando que você é mexendo no fonte, o que é que ele vai mexer?
+[00:16:07] O que é o memória? Ele mexe e o que acontece?
+[00:16:12] Ele coloca tanto coisa na tela ao mesmo tempo, né?
+[00:16:16] Ele quer dar sabedoria de pegar o clássico, pegar o clássico a tentar o ponto,
+[00:16:22] pegar as plantinhas, fazer tudo aquilo,
+[00:16:25] É a quantidade de elementos que tem na tela
+[00:16:30] que vai enchendo o corpo de memória.
+[00:16:32] Aí ele estoura o corpo de memória
+[00:16:34] e acaba caindo no endereçamento que ela está no final do jogo.
+[00:16:38] Ele traz o jogo para o limite de memória.
+[00:16:43] Na frente de memória.
+[00:16:47] Ela não é possível ter alguém que supera isso.
+[00:16:52] Só se ela não forar alguém mais rápido.
+[00:16:55] Você tem um amigo que precisa um jogo de Tetris?
+[00:16:57] Ah, já, ah, é isso, vai ser isso.
+[00:17:00] Ele foi batendo aqui, e foi batendo um pouco grudo, que era mais rápido.
+[00:17:05] Antigamente era o nosso, e aí alguém me disse que era mais rápido.
+[00:17:09] É tudo lindo.
+[00:17:10] Você tem um amigo que sabe que índice é um lindo famoso,
+[00:17:13] que pode acreditar em toda vez sujo no capítulo,
+[00:17:17] os caras já amam de não expir de novo.
+[00:17:19] Já acham uns buggy.
+[00:17:22] Como é que eu sei que sua coisa para aplicar é lançando a uma classe ou se ela tem um
+[00:17:40] Vamos falar aqui, é um dos corajinhos que está fazendo aqui, até que lá, a gente tem um passo chamado.
+[00:17:53] Lá dentro eu chamei um outro passo, o ativo 3. Você pensei, ah, pode ser filho, não? Não, não tem sentido.
+[00:18:04] O chamado não é um ativo, mas o ativo, o chamado tem que ter um ativo, então tem um.
+[00:18:13] E é isso aqui, isso aqui em bantete. Aqui eu defino a coletiva que eu posso organizar as minhas classes.
+[00:18:22] É um ativo de TI. O servidor é um ativo de TI. O roxador é um ativo de TI.
+[00:18:33] A distação de trabalho é um ativo. Então isso aqui eu posso criar um outro classilar servidor.
+[00:18:41] Para fazer, todos os servidores da área do sistema da equipe, estarem registrados em uma construção ativiteira, os servidores vão ter que ter um endereço de P fixo.
+[00:18:52] Não vai ter um P, vai ficar só com a versão dele e tudo, está atualizado, tem que roda lá.
+[00:18:59] Todos os servidores vão ter que estar com o produtos dele.
+[00:19:02] O que eu preciso dar é um ativiteiro.
+[00:19:05] Não ativitei eu preciso do que? Cuidado dele, patrimônio dele, descrição do modelo.
+[00:19:11] Mas não sei, o vídeo tem que saber tudo isso aí.
+[00:19:14] Eu tenho que saber se o... se eu tenho que atualizar ele ou não.
+[00:19:24] Eu preciso de que todos os setores são atualizados.
+[00:19:28] Mais cedo possível, não imediatamente, mais cedo possível.
+[00:19:31] Você tem que fazer o teste para atualizar, não vai quebrar nada.
+[00:19:37] Essa é uma especulação que o objeto do caso pode ser tratado como objeto de um superclássio.
+[00:19:44] Ele tinha até um arranjo técnico de alto nível.
+[00:19:55] Não é um arranjo de larga, né? É um arranjo de larga.
+[00:19:59] A pessoa lá queria a classe e depois esquece de ver como é que se essa classe
+[00:20:06] se ela é um filho ou não.
+[00:20:09] Aí eu não sei o que poderia ter recebido.
+[00:20:14] é o size of, o size of aqui ele vai pegar aquele objeto e você pega um list de objetos e o size of aqui é um sudo, por exemplo, size of de servidor
+[00:20:34] do servidor, para o verificador, se é que os objetos são servidores.
+[00:20:39] Se passou algo disto, ele vai verificar.
+[00:20:41] Ele vai verificar se é o que.
+[00:20:43] É alguém que se esquece de ver, tem uma verificação.
+[00:20:46] E tem que arranjar um concerto agora.
+[00:20:48] Tipo, ele vai ter anos por todos os objetos daquela classe,
+[00:20:51] esse, entretamente.
+[00:20:53] Então, no nosso tag lab,
+[00:20:57] se a gente vê vários suportos chamados abertos,
+[00:21:00] a gente pode fazer um size up, chamados,
+[00:21:03] e descobri quantos chamados tem de apronfeitos?
+[00:21:07] É mais ou menos isso?
+[00:21:09] Não, eu já tinha chamados.
+[00:21:11] Eu já tinha ativo TI.
+[00:21:13] Eu teria uns 10 de ativo TI.
+[00:21:15] Ok.
+[00:21:16] Eu ia pegar esses 10 ativos.
+[00:21:18] Eu iria no foco.
+[00:21:20] Eu estava usando os graus da fuma,
+[00:21:23] com um fogo alto.
+[00:21:24] Depois eu mostro na tela.
+[00:21:26] E ele pega aqui.
+[00:21:27] Ele vai levar a verificação
+[00:21:29] com aqueles ativos,
+[00:21:32] que eles são um trevedor.
+[00:21:33] que é uma subclass, o que eu tenho, assim, mas é para me agoniar, é a agoniar de uma pessoa que não
+[00:21:45] você não escreveu e não projetou o projeto, e normalmente é ok, como isso vai me dar um projeto
+[00:21:51] eu ouro que você não saia escrevendo o projeto, você sempre pensa nas classes, organiza
+[00:21:58] as classes, pensa assim, ah, essa classe aqui pode os criar uma subclass, tem várias classes
+[00:22:05] que tem vários atributos e métodos iguais.
+[00:22:08] Só como outras especializações.
+[00:22:10] Ah, eles adicam a ser classes irmãs.
+[00:22:13] Então, eu queria um assúbio, um assúbio de classe,
+[00:22:16] um classe mãe que pega tudo que foi igual a elas e faz isso.
+[00:22:20] Aqui não, eu tenho um clássico que pode ser o referência para outros objetos.
+[00:22:27] Então, tem nada a ver com isso.
+[00:22:29] É bastante nenhum.
+[00:22:30] É uma relação entre os objetos.
+[00:22:35] Essa questão também, qual é a relação do outro objeto?
+[00:22:37] É um parte importante de gerenciar o insopso, né?
+[00:22:42] Então, assim, basicamente, você vai ter que definir como é que eles vão se relacionar.
+[00:22:46] O objeto pode ser simplesmente, ah, estou sozinho aqui, não, tem que se relacionar.
+[00:22:50] Por exemplo, há o financeiro, tem que se relacionar com um logístico, tem que se relacionar com cada um deles em um relacionamento.
+[00:22:58] Cuidado desse relacionamento, gente, que é uma parte importante do grupo dele e do insopso.
+[00:23:02] Por exemplo, até agora, eu já usei soma, subtração ou uma coisa das senações in, else, loop, no projeto que mostrei vocês,
+[00:23:11] o que é que eu fiz? Criei, creio, passo, creio, objeto, coloquei a soma na sua placa e depois zumbi na tela.
+[00:23:18] Então é só isso pra ver isso.
+[00:23:20] A uma dificuldade me deu o que? Ah, entender como é que você escreve o código,
+[00:23:24] depois também que você pode mostrar esse código na tela.
+[00:23:29] Eu não fiz nenhum ludo e não fiz nada, porque basicamente eu não trabalhei com osca.
+[00:23:33] A loja que eu estou trabalhando com vocês, é uma loja que foi voltada para a criação de objetos,
+[00:23:37] para relacionamento entre eles, o que vocês disseram com vocês.
+[00:23:43] Com projetos de vento, vento, o que acontece? Você vai ter um produto de dados,
+[00:23:47] você vai criar esses objetos,
+[00:23:49] vai alandar aquelas informações, salvando os oscos de dados,
+[00:23:54] e se for pegar alguma coisa que você vai estudar esse método.
+[00:23:57] Ah, vai ser um sócio que é renderização, essas coisas, etc.
+[00:24:01] Aí vai entrar a parte matemática, isso vai ter uma parte que vai lá, vai pegar o bichinho da peca,
+[00:24:07] ela só vai na primeira brilhante executar os métodos.
+[00:24:09] Um exemplo aqui seria o servidor real, ativitei, o chamado squash tem, ativitei.
+[00:24:22] Como falei, esse é um exemplo, né, mas com que a associação é o atributo, a propriedade, né,
+[00:24:30] E a relação entre eles, enquanto no implementação das palavras chatos no Java em Cechac,
+[00:24:38] é basicamente extente, enquanto no Cechac eu acho que era até o...
+[00:24:46] Tinha a palavra aqui, acho que era para você, mas é basicamente, você tem que por exemplo,
+[00:24:57] quando você quiser ir para o classe, entre um de outra, você pode falar de extente,
+[00:25:01] e ele vai dizer um exemplo aqui, eu tenho um, por exemplo, ativitei, eu irei,
+[00:25:21] Corte os patrimônios, podermos estar com isso.
+[00:25:23] Aí aqui no expireso, eu tenho aqui, servidor, uma estação de trabalho,
+[00:25:29] sujo tipo de rede.
+[00:25:31] Cada um deles vai ter suas funções, suas traplativas diferentes.
+[00:25:38] Não posso tratar um servidor como uma tração de troca, uma estação de trabalho.
+[00:25:42] Você vai ver que qualquer pessoa acessa o servidor,
+[00:25:47] chave de, na verdade, o ideal é que ele não esteja nem aqui na sala mesmo,
+[00:25:52] A gente não mora soparado.
+[00:25:54] Já tem acesso a todas as pedidas de segurança, com IP e FIM, isso tem que ter cuidado.
+[00:26:00] Já só em trabalho, ligar a CP, pode se trocar e você tem que, ah, se for um multibuque, isso pode mover a vontade.
+[00:26:07] Os positivos de redes.
+[00:26:10] Os costos que vai ter que ter pegado, os negue aqui.
+[00:26:14] Mas com o suíte, tudo isso tem que ter um... sabe o que dá de portas, né?
+[00:26:19] Ah, o suíte não pode empatar algo que tem em si limite de portas.
+[00:26:22] Esse aqui tem que fazer só o final da parte da emilhão e tudo, né?
+[00:26:27] Só as de emilhão, né?
+[00:26:33] E quanto a gente sabe, né?
+[00:26:36] As subclassas, elas vão arredar todas, né?
+[00:26:40] E adicionar o número de informações.
+[00:26:42] Então, o que eu preciso saber é o que?
+[00:26:44] Quando a gente pode desorrar um...
+[00:26:46] um...
+[00:26:48] Você pensa em todas as classes e vê com a relação entre elas.
+[00:26:51] Ela não pensa.
+[00:26:52] Ah!
+[00:26:53] Eu estou fazendo as danas nas mãos. Então por favor, bom dia.
+[00:26:57] Bom dia.
+[00:26:58] Queria ter esse nosso penclasse, um nosso passemãe.
+[00:27:02] Eu tenho todas as oportunidades para ele e jogar o passemãe.
+[00:27:06] Fiquei ali.
+[00:27:08] Tudo que for gerado, tudo que for, que ele pode repetir.
+[00:27:11] Tudo que for que ele pode ter que repetir.
+[00:27:16] Eu fico com tudo que eu preciso.
+[00:27:18] Então até não interessa o que for.
+[00:27:20] Eu vou lá e resolvo, né?
+[00:27:23] Ah, se é específico de um centro de um tal índio cúmulo,
+[00:27:27] isso é de classe.
+[00:27:28] Eu vou lá na raiva do centro de classe e vejo ele.
+[00:27:32] Mas se for em todos, estou tendo esse problema, né?
+[00:27:35] Não é fácil, não é? Você já sai do lado do lado.
+[00:27:38] Tá dando tensão de ficar com muito mais fácil.
+[00:27:40] E o mito é de última vez.
+[00:27:45] Todo mundo entendeu isso aqui?
+[00:27:50] Entendeu a relação entre eles?
+[00:27:53] Você passou atividades dentro de várias classes
+[00:27:56] para você estruturar.
+[00:27:57] Essa é a fase de mãe, essa é a fase de pai, o filho.
+[00:28:07] Então, público, vocês lembram o que é, não lembram?
+[00:28:14] Protect, eu falei dela, mas privado, vocês lembram o que é?
+[00:28:18] Até hoje, antes do privado público.
+[00:28:22] Protect é o meu teiro, né?
+[00:28:26] Ele serve para que...
+[00:28:28] para fazer as transformações das mães e que isso seria acesso.
+[00:28:32] Ah!
+[00:28:33] De onde eu tentei, tudo estava privado.
+[00:28:37] Aquela informação você não tem que ser acessado pelos filhos agora
+[00:28:41] Então o que você vai fazer aqui?
+[00:28:47] Porque você está protectando tudo, né?
+[00:28:50] Pelo amor, você passa as mães e pode ter alguma coisa que é privada, não?
+[00:28:53] Depende do auditivo, não?
+[00:28:58] Exatamente
+[00:28:59] Eu não vou dizer que nunca vou negar nada
+[00:29:01] Acho que vai que aparece um cliente que tem que ser assim e você vai ter que fazer assim
+[00:29:07] Mas geralmente eu volto um pouco para dentro
+[00:29:10] Eu sempre volto porque eu passo as mães e tudo que protege
+[00:29:13] E passa o segundo nível, se elas não tiverem um sub-pass, por exemplo, eu era sub-seguindo nível, por exemplo, eu tenho alvo parciálico, eu já passo pistola, aí, em baixo dentro, eu tenho pistola, eu quero ensinou deus.
+[00:29:29] de Deus, um mão de duas mãos. Aí eu tenho uma das... uma das seguras, né?
+[00:29:40] Se eu não tenho uma segura, eu coloco em nada, tudo que tive proteção.
+[00:29:52] Todo mundo tem isso, né? Eu quero falar com vocês.
+[00:29:55] E você quer aplicar onde? Na classe? Na classe?
+[00:29:58] É atributo, só atributo, ou tem outra coisa também?
+[00:30:04] Isso é meio desses índios, para o técnico, e se você quiser, só você pode comprar, né?
+[00:30:10] Exatamente, você pode ter um médico privado.
+[00:30:16] Até mesmo, ela não te deixa os médicos, tudo o poder tem que estar de fora, né?
+[00:30:22] Mas o atributo deixa o privado para a proteção.
+[00:30:25] Ah, vou trabalhar com uma dança agora, eu vou mudar de privado para o técnico.
+[00:30:31] Existe um terceiro.
+[00:30:33] Um quarto, quer dizer, que eu via apenas uma vez e me senti mais mais, onde o que acontecia, ele não só permitia, ele não permitia um pouco, mas funcionava dentro do package.
+[00:30:50] Quando ele encontrou alguma poste, você não teve mais nada no package, todo mundo já viu lá.
+[00:30:56] E eu disse pra vocês, o caso do cheio que eu vou fazer está dentro de uma pasta, todo o sistema está pulando lá, é um package.
+[00:31:04] Então, o que acontece é que, em problemas grandes, você vai ter mônibus, quem aqui já viu um CRM, sabe o que é um CRM?
+[00:31:19] CRM são projetos, são soltios, pagamentos de brilho, parte fiscal, parte logística, parte RH.
+[00:31:35] A cada série existem modos, como você já falou, um dos famosos é o Atolos.
+[00:31:45] Nós temos Atolos lá, tem vários, temos série e modelos, espero que vocês tenham conhecido.
+[00:31:54] Mas acontece, cada um tem que ter um modo.
+[00:31:57] Ah, eu tenho a parte financeira aqui, é um modo.
+[00:32:01] Esse só se eu soube ver o PEO, eu não sei se ele pode me gostar, mas a metodologia do PEO
+[00:32:07] que tem no seu jeito, separam em package
+[00:32:10] Temos o package aqui de transego, de logística, de RH
+[00:32:14] Eles interligam, não vão estar no centro dele tudo, mas vai ter partes separadas
+[00:32:21] Eu quero que só esse atípio daqui seja acessado apenas pelo phinchet e package
+[00:32:30] Então eu mudei um, mas eu só vi isso, não sei mais mais, e era um numizinho assim, muito semelhante.
+[00:32:38] Só uma coletividade pra vocês.
+[00:32:41] Ah, a coletividade... Ah, se não pode pular.
+[00:32:44] Que não, se esses três, pode ser isso.
+[00:32:47] Eu te apelo pra vocês.
+[00:33:09] Eu falei aqui dos animais, especialmente lá no jogo que vocês dizerem,
+[00:33:16] que tem mais animais.
+[00:33:18] e isso vai virar um estado, eu sei que se movei, eu vou ter o método move, mas o método
+[00:33:29] movei vai ser igual para o peixe com o gato, com a rádio, é porque teve um movimento
+[00:33:37] diferente, a ação de mover diferente, então eu vou ter que ter o método pro peixe,
+[00:33:49] mas é o tempo mudar o segundo
+[00:33:56] se eu quiser que todo mundo se mexe ao mesmo tempo
+[00:33:59] só chamar lá a mover a soma diferente
+[00:34:02] mas o carpistoso faça o mesmo tempo
+[00:34:09] teria que fazer o diferente
+[00:34:14] polimofismo
+[00:34:16] na aula passada eu falei um pouco polimofismo
+[00:34:18] agora vou falar novamente
+[00:34:20] mas antes de começar, o que é polimofismo?
+[00:34:23] falando aqui pra filosofia
+[00:34:25] Muitas formas. Exatamente. Muitas formas.
+[00:34:31] Meu exemplo do mover. Você chega lá no jogo, muda aberto, tem as coisas que se movem, não é?
+[00:34:40] O que acontece? Não lembra de ter alguém que tira assim.
+[00:34:45] Em pcs.mover, ele vai lá na classe mãe, executa e manda o outro dos movimentos.
+[00:34:53] Os peixes do teonomem da ação, os pássaros do teotras e os gatos do teotras.
+[00:34:59] Para a gente ir usando os dedos das paredes.
+[00:35:03] Mas o que pode acontecer?
+[00:35:05] Ele vai em cada um desses empresas e vai chamar o mover de cada um deles.
+[00:35:10] Todos os teonomes vão mover, mas cada um vai ter uma interação de paredes.
+[00:35:14] Vou desculpar um bote, não é?
+[00:35:17] Finalmente.
+[00:35:19] Na aula passada é o 6.
+[00:35:21] Arrubou o rewrite
+[00:35:23] Eu acho que eu tinha que ler esse slide
+[00:35:34] Eu vou explicar
+[00:35:36] Vou arrubar o rewrite
+[00:35:38] que é basicamente o meu
+[00:35:40] ço de inscritos
+[00:35:43] Eu perguntei o que é que a gente diz
+[00:35:45] Ele disse que pra cada execução da vida
+[00:35:49] daquela função
+[00:35:51] quase não a entenda, só o mover
+[00:35:53] mas o filho
+[00:35:55] vai executar essa forma diferente
+[00:35:57] Eu posso só chamar lá
+[00:36:00] NPCs, pode mover
+[00:36:02] e todos vão saber lá, todos que são a sua mãe, com a exibitação.
+[00:36:10] Antes de falar sobre isso, quero dizer para vocês que eu tenho uma classe que vou estanciar com classe gato.
+[00:36:16] Vou estanciar aqui a classe gato, vou iniciar ele aqui.
+[00:36:33] Eu tenho uma estrutura dele assim.
+[00:36:59] Quando eu estanciar, vou falar no código e escrever amarelo, igual a nil, gato.
+[00:37:38] Quando eu fizer isso aqui, eu vou criar algum passe de mal.
+[00:37:46] Porque?
+[00:37:49] Tinha uma mal.
+[00:37:57] Vamos pensar assim. Eu tenho um passe de mãe e um passe de filho.
+[00:38:02] Eu vou ter atributos que é treino de mal.
+[00:38:07] Minha criatividade vai dizer quais são os atributos que eu tenho na minha vida.
+[00:38:14] Mas eu tenho um pessoal de mal que vai ter os atributos que todos nós vamos ter.
+[00:38:19] que o adequado vai dar aqui quando passar os atletas, as informações
+[00:38:24] a índice, o que, eu perguntei, o comatação, o tamanho, que é padrãoado
+[00:38:31] do animal, todos os animais do tamanho
+[00:38:36] esses atributos, quando eu pirei o adequado, não vou colocar eles
+[00:38:42] porque eu já percebi que o gestre ele vai passar em algo
+[00:38:46] então eu não testo os atributos que eu passo aqui
+[00:38:51] Não são só relacionadas com a faculdade, mas também com a faculdade de mal.
+[00:38:57] O que é que vai acontecer?
+[00:38:59] Quando eu criar, eu automatically vou mandar o construtor, eu vou te usar o super,
+[00:39:12] aí vou chamar o construtor de mal.
+[00:39:15] O que é que se faz?
+[00:39:21] Ele vai informar, construir.
+[00:39:27] Então, o que acontece?
+[00:39:28] Quando eu criar um, eu automaticamente estou criando o animal.
+[00:39:31] Então eu vou tentar colocar esse comando e ver como tudo se pensa no meu objeto.
+[00:39:36] A gente diz, ah, isso só corre assim, não.
+[00:39:38] Se eu tiver um clássico sozinho, como ele é construído,
+[00:39:41] você se lembra que na hora que eu falei, eu usei PowerLive?
+[00:39:45] A classe superior ao objeto.
+[00:39:47] A classe superior ao objeto.
+[00:39:49] O que é essa classe superior ao objeto?
+[00:39:51] É a classe...
+[00:39:53] as coisas utilizadas no meu Java.
+[00:39:55] Basicamente a classe que estava com o computador, né?
+[00:39:59] Você vira a gente usando o Scanner, não vira?
+[00:40:04] Você vira o filar import Java, Útils, Scanner.
+[00:40:08] Aí eu boto o leitor, eu boto Scanner, leitor igual NIL Scanner.
+[00:40:14] System 1.
+[00:40:15] Aquilo comandado, o quê?
+[00:40:18] O que está acontecendo?
+[00:40:22] Então, o que acontece?
+[00:40:24] No Java, é usar o Scanner.
+[00:40:29] O Scanner é um objeto.
+[00:40:30] Então, se eu quiser usar eles, eu tenho que distanciar.
+[00:40:33] Eu tenho que visualizar em mim.
+[00:40:35] Até o que você chama.
+[00:40:40] É para poder chamar a instância do mundo.
+[00:40:44] Se o homem está encodado por um mundo que é simboco,
+[00:40:48] e não precisa por ir na instância,
+[00:40:50] tudo é para chamar algum,
+[00:40:52] que ele sabe o nome, que ele só chama essa instância.
+[00:40:54] O que você acha disso?
+[00:40:56] Porque ele não cabe na instância do mundo.
+[00:41:00] Exatamente.
+[00:41:02] Depende do que for...
+[00:41:04] Tem várias coisas, não é?
+[00:41:06] Ah, o que é isso?
+[00:41:07] O que é isso?
+[00:41:08] Aumentar melhor a conexão com o banco.
+[00:41:11] Para saber de marca e tudo isso, né?
+[00:41:13] Várias conexões, perigo de fato, e algumas das conexões.
+[00:41:17] A conexão ainda é que seja fotografado,
+[00:41:19] se alguém entrar no meio das conexões.
+[00:41:21] Pode pegar essas alções.
+[00:41:23] Ah, vamos fazer migração de banco.
+[00:41:28] É que é aquele banco que ligar com o outro banco.
+[00:41:30] Com o outro servidor, né?
+[00:41:34] Aí você vai tocar o endereço de marco, a migração da Petroca.
+[00:41:40] Se está tudo configurado em só uma arquivulação na quarta, você vai lá entrar e perder a estrutura.
+[00:41:45] Aí ele se não estrutura nada. Você chama de conexão aqui e você chama de conexão aqui.
+[00:41:50] Isso é procurando você, né?
+[00:41:53] Aí esquece um, aí foi alguém achar esse um.
+[00:41:57] Ah, você pode ficar aí e dizer ok.
+[00:41:59] Disparities.
+[00:42:08] É onde vai ter as caras, desde que o jogo está atrapalhado.
+[00:42:10] É, segundo, por exemplo, o tamanho dele, o color dele...
+[00:42:17] Depois disso, né, a quantidade de patas que ele não tem em animal, né, passegado.
+[00:42:23] Então, se eu fosse fazer o jogo da pobre, em jogo, vai ser igual?
+[00:42:26] É assim.
+[00:42:27] Se acontece na pobre, em jogo, a pobre é um jogo que eu não consigo fazer pelo homem.
+[00:42:34] Não sei se continua isso.
+[00:42:36] Não, né? Você tem que fazer uma coisa.
+[00:42:38] Existem códigos, você olha e diz assim, esse código pode ser o APKPL, esse código não precisa APKPL
+[00:42:46] Você vai fazer um script para rodar na sua máquina, para fazer, para rodar alguns comandos
+[00:42:53] Não faz sentido você aplicar um PLN aí, né?
+[00:42:59] Se for um código simples, você não vai ter que escalar mais
+[00:43:06] Aí, não precisa.
+[00:43:10] Ah, mesmo que você ganhasse, ah, quero fazer um jogo com dez tipos de cobrinhas,
+[00:43:14] coração diferente, o São Paulo, São Quero...
+[00:43:18] Aí, compensa, né?
+[00:43:20] Quando você escalou um tipo de cobrinha, você pensa que sempre cresceu,
+[00:43:24] você troca uma unidade estruturada, então é o homem.
+[00:43:30] Vamos dizer assim, ah, quero fazer só uma cobrinha mesmo, normal.
+[00:43:33] Um pai de homem.
+[00:43:35] Acho que eu até fiz uma vez, posto dos postos, né?
+[00:43:38] Aí quando você está fazendo uma hora é basicamente o quê?
+[00:43:42] Ele pega as comandas de teclado e em cada ação tem um dano de freio que vai se movimentar.
+[00:43:49] Ah, quero fazer um jogo da cobrinha, um teste de cobrinha, com tipo portais e coisas,
+[00:43:58] tipo esquina, tipo inimigos, moseigos, essas coisas, né, crujos, né, fazer tudo liso.
+[00:44:07] Aí você tem, tem que realmente... Aí eu vou fazer isso aqui, ó...
+[00:44:10] Porque você muda...
+[00:44:11] Mas você faz o... o peck...
+[00:44:13] O peck... Aí você...
+[00:44:15] Você só faz em javascript, vai...
+[00:44:17] Ah, eu passei o feijão na vida dela...
+[00:44:20] Eu ia tentar disputar um peck em nenhum...
+[00:44:23] Um simbozinho nele lá no Google...
+[00:44:24] Era o aniversário dele, eu disputava...
+[00:44:26] Amigo meu ia fazer o feijão de 10 minutos, passou 30 minutos agora...
+[00:44:30] Pronto...
+[00:44:31] É... Quando ele disser assim, o maior peck da história...
+[00:44:35] Meu Deus...
+[00:44:36] É sério, vota o MacPay no meu IP, a pessoa está fazendo outra coisa, mas para jogar.
+[00:44:43] Todo o vídeo desse aqui, todo o vídeo dele, quando eu tenho um objeto, é quase cilindro,
+[00:45:00] eu vou criar automaticamente um objeto da parte de pai.
+[00:45:03] E para isso eu uso suprim.
+[00:45:06] Isso não só funciona com chutou, viu?
+[00:45:15] O suprim também é aplicado, né?
+[00:45:18] De qualquer método que eu presente.
+[00:45:23] Aqui eu falei do overwrite.
+[00:45:26] Ah, vamos dizer que eu quero pegar uma ação, um método que a mãe faz 90%
+[00:45:39] Então pegá-la a sempre de um ponto de cocaíra
+[00:45:42] Você tem a conta normal e tem a conta propância
+[00:45:45] Quando você vai fazer um saco com a conta, você tem um vantagem que você deixa com a conta
+[00:45:49] Toda isso, tudo isso, a gente vai lançar
+[00:45:55] Faz tudo na classe que ele contou com o cara, vai ter um método de saco
+[00:45:59] igual a sal, menos sake, e vezes essa parte
+[00:46:05] é quando você tem no... não, na contrata por conta do celular, você faz de lá
+[00:46:09] sake, vai ter o sal, menos sake, menos...
+[00:46:14] depois você tem o outro, menos atacho
+[00:46:19] pra você não ter que repetir, você pode fazer simplesmente...
+[00:46:23] Eu vou estar lá, escreve o valor do array, um int, saque, super saque, basta o valor do salto e o valor do canteiro que essa está.
+[00:46:40] É o retorno dele que vai ser um valor menos a taxa.
+[00:46:52] Então, o cabo do fisiciano é lançado pelo cabo do vaso efeito, parte pela face mãe e parte pela face filho.
+[00:47:04] Ele é não capaz de vocês?
+[00:47:06] É, dois meses, é?
+[00:47:11] O que acontece?
+[00:47:13] Quando a gente olha aqui, você pensa assim, ah, só nesse código aqui vai ser simplesinho.
+[00:47:17] Não, nunca é simples.
+[00:47:18] Quando mais você vai fazer as coisas, mais você vai ter que fazer um código.
+[00:47:22] Porque algumas vezes as outras pessoas se repetem.
+[00:47:24] vai evitar você ficar copiando o colo do hipótico, se utiliza essas formas, as vezes a tábicas
+[00:47:32] Ah, pode que já está a pai, pode que já está lá na classe mãe
+[00:47:36] então usa o suco, pega as transformações e traz para baixo tanto e precisa ficar repetindo o hipótico
+[00:47:42] escrevendo o hipótico para mais
+[00:47:44] Se um método tiver um re-wrap, ele vai sequer precisar daquela ação que está na casa do que vê.
+[00:47:59] Por exemplo, além do mover aqui, todo mundo entendeu que cada um deles tem a sua mover,
+[00:48:07] mas cada um deles vai ter um método que está no seu objeto.
+[00:48:12] Você vai entrar no jogo, muda aberto, que tem gato, peixe e ave.
+[00:48:18] O comando vai dar em PC, ele mais pode mover, ele vai na classe mãe e as vezes todos executarem a sua mover
+[00:48:33] Você se entende e já acontece, costumando treina vários objetos, vários objetos
+[00:48:41] Como se fossem passando mal, vai já estar o modo mover, mas para de onde eles têm o seu próprio estilo mover
+[00:48:49] o gato faz roda-taula, a árvore faz roda-taula, a roda-taula o cilindração da árvore é 2
+[00:49:17] do gato com o peixe e do gato com o simpio, cada um vai ter suco com os delparamentos
+[00:49:25] e pra isso você tem que usar o over ice
+[00:49:28] se vocês forem pra se deixar, quando vocês vivem virtual
+[00:49:34] tem a parte básica do virtual, é subitar o over ice
+[00:49:40] é que a gente tem gato que também reclou o simpio mais ou menos
+[00:49:51] só que dois, só que dois simpios de mais junto
+[00:49:57] E quanto você puse mais?
+[00:49:59] Eu sei mais, mas eu sei
+[00:50:02] Você é chato
+[00:50:04] Você é chato para que você fosse 2
+[00:50:06] E ser mais, mas é só que fundido
+[00:50:08] No outro
+[00:50:10] O que acontece com você é chato
+[00:50:12] O que acontece?
+[00:50:14] Quando você sabe como eu sou atingido
+[00:50:16] A desorda é fácil
+[00:50:18] É entender
+[00:50:20] Para evitar som, objeto
+[00:50:22] Não existe linguagem para ser suportado
+[00:50:24] Você não é suportado
+[00:50:26] Eu estou mais, mais, mais bem de oritação, o objeto que é o produtor da plataforma.
+[00:50:32] Depois de eu já, e que pegou toda a metodologia do meu óbvio,
+[00:50:37] mas a gente foi ocupar o porto net.
+[00:50:40] A vitória das ramadas virtuais, a coisa que eu tive lá em rede, essas coisas.
+[00:50:45] E ele foi mais fácil de trabalhar com isso.
+[00:50:48] Você mais vai ressuscitar.
+[00:50:50] É por isso que eu quero ser charme, que eu quero trabalhar em rede também.
+[00:50:53] Porto net.
+[00:50:55] Essa é a loja do meu mudo, né, que é o que você chama?
+[00:51:01] Eu não sei, eu não sei.
+[00:51:10] Eu tenho um aspirante, um aspirante coro, né,
+[00:51:13] aí tenho um refocado para este copo,
+[00:51:15] para o repórter montado para a web, né.
+[00:51:18] Aí tenho um tremolato para este copo,
+[00:51:20] aí tenho diversos alunos até lá.
+[00:52:24] Aqui é crescendo, crescendo um idústio aqui.
+[00:52:27] Só que eu tenho que ter que ter um mundo que vai fazer um lugar assim.
+[00:52:30] É isso.
+[00:52:33] Eu já desvi, eu sou um criado.
+[00:52:35] Eu sou um criado.
+[00:52:37] Eu sou um objeto na tela.
+[00:52:40] Eu tenho que ter parte.
+[00:52:41] Eu só vou fazer melhor a interface do negócio.
+[00:52:43] Vou virar um linguagem.
+[00:52:45] Alguém lá no bom pé igual e tem que fazer o jeito.
+[00:52:48] É bem-credito do bicho, né?
+[00:52:50] Do lugar assim.
+[00:52:53] É muito fácil.
+[00:52:56] O problema é que o time não pega a frente.
+[00:52:58] Mas 10 dias não parece que você já conseguiu.
+[00:53:02] Porque o protocolo guiche, né? Porque tem 10 dias.
+[00:53:10] Meu Deus, é como se fosse o seu sábado pai.
+[00:53:14] O... o...
+[00:53:17] Você vê a história é engraçada.
+[00:53:19] Vem...
+[00:53:20] Não quer, por isso, um programador de sábado.
+[00:53:24] Menino, eu sei de 10 dias...
+[00:53:31] Vem, 10 dias porque... porque você deixou ela em correio.
+[00:53:34] E o que é isso?
+[00:53:36] Mas aí o bote foi engraçado porque era uma desa?
+[00:53:38] Ele estava usando a solução.
+[00:53:40] Aí alguém descobriu uma faria,
+[00:53:42] alguém que já trabalha e o bote descobriu uma faria,
+[00:53:44] e aí o pessoal, a cara foi com raiva,
+[00:53:46] o dezenove, e o bote, e o bote todo,
+[00:53:48] que era a relação na bala do Linux.
+[00:53:50] Aí ele derrige isso.
+[00:53:52] Aí, três dias ele mostrou o bote,
+[00:53:54] e o bote, e o bote, e o bote, e o bote, e o bote, e o bote.
+[00:53:56] que era as nadal do Linux. Aí, 10 dias. Aí, 10 dias, ele mostrou o Beat Hub. Primeira
+[00:54:05] sub-fiel foi do Linux mesmo, que era no Linux. Aí, 3 meses depois, ele passou por
+[00:54:11] a pessoa de volta, e eu só vou trabalhar com o Tenha do Linux.
+[00:54:16] Aí, depois veio, acho que eu, o pessoal, 2 universitários desenvolveram o Beat Hub,
+[00:54:26] A maioria dos palhaços, tudo é para de yato e tudo lá.
+[00:54:41] O importante, quando você vai criar uma super ideia,
+[00:54:45] uma construção dela, você tem que salvar ele,
+[00:54:50] você vai usar como um palhaço de super ideia.
+[00:54:52] A super ideia é para ter muito aquelas flexes que o time passado
+[00:54:56] Ah, esse é um bastonho para o passe pai. Você vai lá, coloca um super, ele vai em dentro e já construtor.
+[00:55:06] E ele vai passar essas informações para o construtor pai.
+[00:55:09] Ela construtor pai, ele vai estar fazendo as coisas.
+[00:55:12] Tenha um certo cuidado, por exemplo, à fundação da base.
+[00:55:17] Construção da base.
+[00:55:19] E o base também que usa.
+[00:55:23] Era para permitir você instalar as coisas mais.
+[00:55:27] Um Java, é o super, o que você achar é o base.
+[00:55:34] Eu sempre mostrou as imagens para se entender que assim está que ser diferente, a situação é a mesma.
+[00:55:42] Você achar com o servidor, base, aí vem o padrinho para as transformações.
+[00:55:47] No Java, o super-id, sempre foi nascida a isso, né?
+[00:55:55] Como eu falei, a classe filha é do outro bolo, mas não é da consultores.
+[00:56:02] ela vai fazer o que?
+[00:56:04] vai pegar um par de consultor
+[00:56:06] você vai ter que putar a loja
+[00:56:08] se tiver a tripulose de parede que você tem
+[00:56:10] que putar a loja em todos os ars
+[00:56:13] colocou esses atributos, você vai chegar
+[00:56:15] com o super
+[00:56:17] ou com as entradas
+[00:56:19] para passar os atributos que você passou
+[00:56:21] e depois
+[00:56:23] fazer o dis
+[00:56:25] para que os atributos que são dá pra
+[00:56:27] ser daquela praça filha
+[00:56:29] então não é só simplesmente
+[00:56:33] Você vai dizer assim, ah, eu tenho um servidor, esse é o classo servidor, e ele acredita que eu tenho muito mais, e depois eu aloco só o servidor, aquele objeto.
+[01:00:08] Primeiro, ele faz o consultor, mas eu tive que ter aí, e depois eu vou fazer o consultor, não.
+[01:00:35] Eu faço tudo de um jeito, e aí que você é construindo, aloco em tudo.
+[01:00:51] Não tem ninguém que vai fazendo o teclado, eu vou criar um subclass, servidor, vai ter que ter um subclass, está sem trabalho e descoescivo de redes, né?
+[01:01:06] Há uma alunificação do servidor, está sem trabalho, estou sem queira e precisar deixar para vocês, de vestílio da classe.
+[01:01:27] Ah, para isso, eu coloquei lá no GitHub a atividade, a atividade para vocês.
+[01:01:38] Ah, atividade é o quê?
+[01:01:40] Não tem nada de que lhe posicionar, claro, tem nada.
+[01:01:45] A ciutatriz da ciutatriz de Porto e Gato.
+[01:01:48] Então em bastante tempo.
+[01:01:51] Ah, faz de um acionado, faz de um acionado para o acionado.
+[01:01:54] Tem a custo mágico no pássaro, né?
+[01:01:56] É, taxa.
+[01:02:01] Quase que a gente é conseguindo ter uma taxa.
+[01:02:03] Eu vou a carteira, a longa de sessão, né?
+[01:02:06] Eu vou acertar mais sobre consultores, para que se vende.
+[01:02:11] Eu vou acertar para um consultor, era na sua...
+[01:02:14] Eu sou de sessão.
+[01:02:17] Nós vamos adicionar... Hoje eu vou criar um passe-filet preservador pra gente fazer as coisas, né?
+[01:02:24] E aqui vou deixar pra vocês, né? Eu vou, depois de implementar, né?
+[01:02:28] Não vou escrever mesmo, às vezes que verem pra ficar um pouco brincado,
+[01:02:32] pode até fazer a estação de trabalho, é isso, porque não é positivo.
+[01:02:35] Isso aqui é um ensinado profundo.
+[01:02:42] Basicamente, é como se...
+[01:02:48] Quem é que tem este TV aqui?
+[01:02:53] Tebo?
+[01:02:54] Tavela?
+[01:02:55] É como se fosse o...
+[01:02:57] Para que eles se fingam?
+[01:02:59] É para ficar tabela.
+[01:03:02] Para dar uma sensação de que é tabela.
+[01:03:04] Tabela tal, tal, tal, tal, tal.
+[01:03:06] Isso é que é o futuro para se trabalhar com todos os dados.
+[01:03:08] Como é que tem essas aulas de mando de dados?
+[01:03:10] É que se a Número Catálica nos separa com...
+[01:03:18] Com essa tabela que é com suprimente, sabe?
+[01:03:21] Para subir a ilumina da tabela.
+[01:03:23] Ai, é um pente cadê o meu?
+[01:03:25] Sim, é um pente cadê o meu.
+[01:04:00] Se você não fez, não é o meu bolo para descrever os códigos.
+[01:04:03] Vocês querem escrever códigos? Ou querem que eu faça aqui já?
+[01:04:11] Então, eu vou escrever aqui.
+[01:04:14] Certo?
+[01:04:21] Eu vou fazer um protocolo.
+[01:04:23] Vou escrever aqui, ela é para vocês.
+[01:04:36] Você aqui, você chutou.
+[01:04:39] Todo mundo sabe como chutou, sabe?
+[01:04:41] Todo mundo entende aqui do ativo TI, diz, ponta aqui e vai direto.
+[01:04:47] Todo mundo entende o que o Qtis faz.
+[01:04:51] Entende? Acribiu o valor.
+[01:04:55] Gater e Setters.
+[01:04:58] Basicamente, eu fiz aqui um ano só.
+[01:05:04] Mais rápido, para vocês entenderem.
+[01:05:06] Gater e D, retorificatrimônio, poder e status.
+[01:05:10] Eu geralmente passo os Gater de todos.
+[01:05:14] E o Set só daqui que eu vou alterar.
+[01:05:16] O IB, eu não vou achar outra IB, mesmo que tenha um problema, porque é uma história.
+[01:05:30] E a representação, que eu vou experimentar com vocês também.
+[01:05:35] Ah, como é que esses códigos estavam onde?
+[01:05:37] No vídeo de rádio lá.
+[01:05:39] Eles vão estar lá no ativo, ter aí contujado.
+[01:05:43] O que vai ser um passe-pai?
+[01:06:13] A passe-mãe-pai.
+[01:06:15] Então, eu tenho que pegar o ID, que é que vai ser.
+[01:06:25] Agora vou ter outra. Qual seria?
+[01:06:38] Ah, sei.
+[01:06:40] Todo mundo tem que ver o portarete, entende?
+[01:06:49] Há um espaço para você colocar todos os espólogos que você coloca lá.
+[01:10:44] Ligitação.
+[01:11:26] Falei nessa aula sobre o Override.
+[01:11:29] Falei.
+[01:11:31] Essa aqui é a classe mãe.
+[01:11:35] Quem está sobre escrevendo?
+[01:11:36] A classe mãe.
+[01:11:39] Exatamente.
+[01:11:40] A cima de todas as classes, a gente passa só o bichado.
+[01:11:45] que é basicamente aquela plástica que eu definho as coisas, que é uma bijeta.
+[01:11:50] Se você lá consulta o da tributa, toda aquela organização, é toda a tributa que eu faço bijeta.
+[01:11:58] Se eu mandar ele só fazer o public string, sempre tá override,
+[01:12:04] quer que vai aparecer lá na tela?
+[01:12:07] A esquerda é normal. Vai aparecer só o endereço.
+[01:12:14] Dereço
+[01:12:16] Certo?
+[01:19:47] Assim como a gente tem que lidar com o scanner, com o bocado de coisas
+[01:19:55] Assim eu tenho que lidar com isso porque mais que a gente comece a ser atói
+[01:20:39] A gente sabe que é atói?
+[01:20:41] Atói, hein?
+[01:20:42] Atói
+[01:20:46] É a morte do Dereço, vamos fazer a toi em cima
+[01:20:51] É, o que é isso?
+[01:20:52] É, vamos colocar aqui
+[01:20:54] Atói funciona atói em cima
+[01:20:58] Porque a toia é que a gente trata assim
+[01:21:39] E aí, link pra inteira, qual que é o ASC?
+[01:21:55] É isso, é a ASC, não é? Eu não sou tão claro que não.
+[01:22:04] Não, mas o nome da função vem do ASC,
+[01:22:12] quer dizer que é a ASC to integer, a ASC pra inteira.
+[01:22:18] Tá cara, você tem todo o preparativo pra ela,
+[01:22:24] mas a SEM é a função reta, a ONU é,
+[01:22:27] então você vai para o município assim,
+[01:22:29] é que você vai normalmente pra certeza,
+[01:22:36] Por que tem gente que faz normal e tem gente que faz a ponte?
+[01:22:39] Sim, vai.
+[01:22:43] Você não é possível, não é?
+[01:22:46] Não é possível, tem que ter uma cabeça diferente para o ar.
+[01:22:52] Tem muita mentalidade diferente.
+[01:22:53] Não é?
+[01:22:54] Eu entendi, eu sei não é possível entender o que.
+[01:22:56] Você tem um problema, não é?
+[01:22:58] Porque ele não é.
+[01:22:59] Ela tem que ter um limite final.
+[01:23:01] Se você tiver um limite final, não utiliza.
+[01:23:07] Qual o seu número?
+[01:23:08] Eu sei.
+[01:23:09] Vou dar bala.
+[01:23:10] Você tem um bala?
+[01:23:22] Vou dar bala.
+[01:23:27] Vou dar desse par de representação.
+[01:23:29] Traga representação?
+[01:23:32] A primeira vez que eu fiz a imatói antes, eu me desfiz, depois que eu fio, mas tudo se mediu, eu faço.
+[01:23:55] Aí eu pensava, aí eu pensava, ah, faça, faça. Agora investe.
+[01:24:02] Agora investe.
+[01:24:04] Agora faz dupe, entre, de pulo.
+[01:24:07] Então acho muito todo.
+[01:25:16] Você tem que apontar para ela.
+[01:25:22] Você tem que apontar.
+[01:25:24] O esteringue é uma estrutura de dados.
+[01:25:26] O esteringue é uma loja de cartezas.
+[01:25:28] Sim.
+[01:25:29] Sim.
+[01:25:30] O esteringue é uma loja de cartezas.
+[01:25:32] Cortando ele, você tem que apontar-se.
+[01:25:37] É, como você é assim, né?
+[01:25:40] Você não tem o esteringue, você tem um char, e aí será 50, 20.
+[01:25:44] Quando você amazena, você também prova o ponteiro indicando onde vai amazenar.
+[01:26:03] Tá nervoso, cara?
+[01:26:19] É a segunda chave.
+[01:26:23] O que você acha eu vou fazer?
+[01:26:28] A próxima.
+[01:26:30] A próxima.
+[01:26:32] Acabou?
+[01:26:34] Acabou.
+[01:26:36] Satos?
+[01:26:45] Satos.
+[01:26:48] Ah, mas que isso?
+[01:26:52] A maior.
+[01:27:29] A maior.
+[01:27:32] 18.
+[01:27:35] A próxima.
+[01:27:37] Acabou.
+[01:27:41] Acabou.
+[01:27:48] Acabou.
+[01:28:04] A curva que você acertou...
+[01:28:09] Até aí eu cheguei.
+[01:28:11] A curva que você acertou é extendo.
+[01:28:15] Com isso ela era o da tudo que ativa o tempo.
+[01:28:42] Com isso ela era o da tudo que ativa o tempo.
+[01:28:46] Agora a gente vai começar a particularizar.
+[01:28:50] Extende, ativa, esteja.
+[01:30:03] Estou me entendendo aqui.
+[01:30:05] O que é que isso significa?
+[01:30:17] Quando eu fiz o aconchutor,
+[01:30:19] Então, super lá.
+[01:30:21] Então, eu chamo o representação, para que me entenda ser mirou, mas super de string.
+[01:42:19] O que é isso aqui?
+[01:42:20] Vou perguntar isso.
+[01:42:24] A da classe antiga.
+[01:42:26] A classe não é a que você ganhou?
+[01:42:28] A classe já ganhou para essa.
+[01:42:30] Na classe não tem um de string também, porque é representação.
+[01:42:34] Então, eu vou perguntar isso aí.
+[01:42:36] Aqui, nesse super de string, eu vou chamar a representação da classe noito.
+[01:42:46] e depois dá pra gente fazer dois tantos
+[01:42:48] então eu estou aqui pra gente fazer esse tio-stregg aqui dessa parte que ele...
+[01:42:54] basicamente aí ele cringue, ela o servidor
+[01:42:57] depois eu eixo o meu tio-stregg da Passe... da Passe Mãe
+[01:43:01] que ele exibiu os dados da Passe Mãe
+[01:43:03] no caso o idêneo e o patrimônio no modo dele e os tantos
+[01:43:06] e depois ele imprimiu o IPA estático que eu eixo no professional
+[01:43:12] Então só o tomando o super tio-stregg que chama tudo da Passe Mãe?
+[01:43:27] Então, o mundo super chama os métodos da passamento, né?
+[01:43:32] Aí no caso do True State, é o método específico da passamento.
+[01:43:36] Se eu tivesse outro método lá, que era tipo se fosse entrar em luteção, desativar ativo,
+[01:43:43] o que eu tivesse que fazer.
+[01:43:46] Era assim pra vocês.
+[01:44:16] Como é que tá assim?
+[01:44:20] Era assim.
+[01:44:21] Tipo, emofismo e essas coisas.
+[01:44:23] A verdade é que a gente duvia todos os comentários que eu vejo.
+[01:44:33] É, então, para a gente se inscrever no nosso canal.
+[01:44:37] Alguém aqui decidiu fazer o parcer?
+[01:44:48] Ainda não, nem peguei para ler ainda.
+[01:44:55] O initial parece interessante.
+[01:44:58] O Arthur também ficou muito feliz.
+[01:45:02] Você tem 10 coisas para fazer na sua vida,
+[01:45:06] vai fazer elas.
+[01:45:09] E o Arthur vai fazer essas coisas,
+[01:45:16] E depois, quando se der de férias, você começa a ter.
+[01:45:20] Porque eu disser para vocês, quer aprender mexer no chefe? Fazer.
+[01:45:24] Ali você vai entender, você vai ter que estudar, vai perceber.
+[01:45:29] Fazer um teste, mostrar aquele comando que você não conhece eu, pai.
+[01:45:32] Aprende nele. Na verdade eu aprendi a fazer um bye-packs.
+[01:45:37] Eu fiz um bye-packs e depois vou fazer o que fica nele.
+[01:45:42] A pessoa que testa comigo, ela testava assim.
+[01:45:47] Era um comando com cinco pikes.
+[01:45:49] Eu olhava assim, era um comando com cinco pikes, mas ele fazia assim...
+[01:45:56] Comando o pikes, aí eu estava, você vê, ele mandava para a arquivo de onde estava o pikes, e ele fazia isso, e eu olhava assim.
+[01:46:05] Eu estava procurando o erro.
+[01:46:06] É, eu escrevi o script inteiro numa linha, cara.
+[01:46:09] Quase isso.
+[01:46:10] Ele dizia, tinha gente lá que abriu um arquivo, está aqui esse comando.
+[01:46:16] O nosso novo índio reto em vânsis do Michel, você tem que abrir o Michel dentro do Michel.
+[01:46:24] A gente fez isso oito vezes e será que a gente está aqui vendo isso.
+[01:46:27] Está funcionando.
+[01:46:56] E agora, sabe?
+[01:52:16] O casting é percurioso.
+[01:52:20] Está usando o casting.
+[01:52:22] A pessoa diz assim, não usa o casting.
+[01:52:24] Não usa o casting porque não é que você está funcionando basicamente.
+[01:52:28] É arranjar o casting que você tem que usar.
+[01:52:39] Você olha para aquele código, você não sabe o que fazer com isso aqui
+[01:52:43] Eu tenho que fazer o estudo desse código
+[01:52:45] E eu preciso de uma aranha de técnico para resolver
+[01:52:48] Para quem conhece o problema, você sabe o que é aranha do que é aranha de técnico
+[01:52:51] Gampe? Gampe é?
+[01:52:53] É o Gampe, mas basicamente o que é um donkash?
+[01:52:58] É uma lista de objetos, você não sabe se ele é filho ou pai
+[01:53:04] Você vai usar instantes, instantiópolis, que ele vai verificar, o projeto que ele vai verificar.
+[01:53:12] Isso aí é um range de técnico que o programador faz para descobrir alguma coisa.
+[01:53:22] Sinceramente falando, a própria Constitucionalista já disse, não usa.
+[01:53:28] Mas se você precisar usar o sábado que está aqui, tem que ver o que acontece.
+[01:53:36] É, eu vou contar, pra vocês falem isso, que eu trabalho com você, que eu estou estudando cedo,
+[01:53:43] vou contar uma biblioteca muito famosa, que é o ReadLine.
+[01:53:47] ReadLine é o quê?
+[01:53:49] Leia a linha.
+[01:53:50] Mas acontece, se você pegar a ReadLine, milhão de pessoas já mexeram.
+[01:53:57] A biblioteca fica famosa, até mesmo o pessoal que usa o Shell utilizam bastante ela.
+[01:54:02] Se você jogar no programa pra verificar a memória, ela vai acabar chorando.
+[01:54:07] Ela vai te fazer de memórias graficas, mas ela não consegue concertar ainda.
+[01:54:14] Não é uma pessoa, duas pessoas.
+[01:54:19] O pessoal todo trabalha com Shell, com Bash, que não consegue concertar ainda.
+[01:54:24] Há mais de 20 anos cantando no rossinho.
+[01:54:30] Não, o rossinho saiu a uma matéria do Tom Aulines,
+[01:54:34] estava tentando o pequeno Aulines, que estava usando árvores.
+[01:54:37] Aí ele dizia, não funciona, não funciona.
+[01:54:40] E ele pegava o estado, eu não quero saber se você não.
+[01:54:43] Quero saber se você analisa isso pra mim.
+[01:54:47] É não isso que eu estou fazendo.
+[01:54:49] Ela dá pra falar.
+[01:54:49] Eu estou com tanto isso pra você ouvir, eu não sei.
+[01:54:52] Pegar um corte, analisa.
+[01:54:53] Analisa, né? Até que ela descobriu,
+[01:54:56] foi do rodo.
+[01:54:57] É assim.
+[01:55:05] Esse corte tem um novo serviço,
+[01:55:07] mas por que senão ela não tem que cuidar até que ela dá?
+[01:55:10] A senada não tirou.
+[01:55:12] Temos isso pra não estar aflado, né?
+[01:55:17] Para quem pega um tolo.
+[01:55:27] Eu criei um opio chamado Make Fine.
+[01:55:29] que é um espiritizinho que permite o rote a classe.
+[01:55:33] Ah, o link pode ser só para o Java? Não, para a C também, 6C mais mais.
+[01:55:37] Mas aí, se você quiser compilar na mão do terminal, o link pode ser o link.
+[01:55:49] O professor ouviu um link que faz na internet o que é que parecia um carnaval.
+[01:55:53] É gosto de cada um.
+[01:55:55] Quando eu digo que é gosto de cada um, pode apostar.
+[01:56:01] É, a gente quase queria quase um... um jogo, não é um fight?
+[01:56:13] Bota uma tela de login, não sei o que era, rodando lá, carregando, desfilei o executor.
+[01:56:19] Então, a gente está falando isso para aqueles curiosos, não é?
+[01:56:40] Basicamente, eu não fiz isso.
+[01:56:43] Então, eu sou reuniante com o Mundo para rodar.
+[01:56:46] O Mundo, hein?
+[01:56:47] Para o Mundo, tá bem, por favor, porque ele é show.
+[01:56:54] Bem, já está com um...
+[01:56:59] Esse é um objeto que você usa, senão o Mundo tem.
+[01:57:02] Acessa em um estrangeiro.
+[01:57:04] Tem água.
+[01:57:15] Acessa em um estrangeiro.
+[01:57:26] Eu faço esse botão para aparecer.
+[01:57:30] O que é esse botão?
+[01:57:32] O Play do Vespoge.
+[01:57:53] O Play do Vespoge.
+[01:57:55] É esse botão aí?
+[01:57:57] O CodeRunner
+[01:57:59] É? Não é?
+[01:58:01] É, desculpa
+[01:58:03] Mas o botãozinho tem uma extensão que é o CodeRunner
+[01:58:12] O CodeRunner
+[01:58:14] Code C-O-D-E
+[01:58:16] R-U-N-N-E-R
+[01:58:18] Ah, o CodeRunner
+[01:58:21] O CodeRunner
+[01:58:23] Ah, isso é pra qualquer fósforo
+[01:58:39] É esse aqui?
+[01:58:46] É
+[01:58:48] Não tem um linguagem que se chama Cuda.
+[01:59:05] O que?
+[01:59:06] Um linguagem que se chama Cuda.
+[01:59:08] Cuda?
+[01:59:09] É, é claro que não.
+[01:59:12] Cuda é a pessoa que vê que te visto e que você não se percebe.
+[01:59:23] Agora tem um linguagem que tem um titular, Júlia.
+[01:59:28] Tem?
+[01:59:30] De um lugar.
+[01:59:31] Até os anos...
+[02:01:49] Isso é um método do país, ele já veio de Oasis
+[02:04:24] Eu estava olhando sobre isso, que geralmente se coloca uma pasta BIM com todos os conto class.
+[02:04:43] Quando você conheceu o INC, o executado, os corosal, tudo foi bem.
+[02:04:50] Mas eu não estava vendo isso, como é que foi? Eu estava vendo nos argumentos que você usa lá no Java.
+[02:04:56] Ali em menos deia, menos CPEs, aí tu botando a pasta cleste, né?
+[02:05:08] Outra vez todos os pontos, claro, vão pra lá.
+[02:05:15] Pai, pergunta.
+[02:05:21] Como é?
+[02:05:22] Erança?
+[02:05:23] Olhão Fismo?
+[02:05:24] Como é que tá?
+[02:05:25] É de boa.
+[02:05:28] É de boa, né?
+[02:05:29] Na prova, a gente já respondeu, né?
+[02:05:31] Então, sim.
+[02:05:32] Na prova eu passo em casa, em classe, quero que vocês se encontrem com essa mãe,
+[02:05:36] essa pai, esse filho.
+[02:05:38] você pode ficar assim mano, criei um passe-pain
+[02:05:43] pergunta
+[02:05:47] se eu for, eu não vesti na casa chamada
+[02:05:53] mas eu vou lá na casa chamada
+[02:05:57] com divisão, um método assim
+[02:06:04] público
+[02:06:15] pode
+[02:06:23] em manutenção
+[02:06:24] ele recebe
+[02:06:35] um ativo
+[02:06:38] tem
+[02:06:39] um lanche chamado que é essa classe
+[02:06:48] O que é um servidor para o acertor?
+[02:06:51] O acertor é um ativo 3.
+[02:06:57] A questão é que a subclass também estanciam a classe principal.
+[02:07:03] Aí tem 12 para acertar a classe, então ele pode?
+[02:07:06] Pode.
+[02:07:07] O servidor é um ativo 3.
+[02:07:10] É.
+[02:07:11] É.
+[02:07:12] Então é um acertor 3.
+[02:07:49] pai e filhoso, esse é um tipo de viada de polemantismo, e esse é um tipo de polemantismo
+[02:08:02] que eu já falei, adoro a hora passada, overwrite, a gente vê aqui, e esse aqui,
+[02:08:11] o luxo, o luxo é uma classe, casa, classe pai, em um médio, então aqui entre servidor,
+[02:08:21] para o sessão de trabalho, para a baile de enrede, sessão de enrede
+[02:08:30] e já fala de encapsulamento.
+[02:08:33] Não, porque é encapsulamento. Aqui em encapsulamento
+[02:08:51] pegamos um modelo de discote aqui hoje, o que eu tenho aqui.
+[02:08:54] Protect aqui. Eu não tenho um curto de baits, o protect.
+[02:09:07] É encapsulamento.
+[02:09:08] Especial para proteger os atributos.
+[02:09:14] E coposição.
+[02:09:18] Sim.
+[02:09:25] 5 prazo, 10 milhões de horas.
+[02:09:29] Bora.
+[02:09:31] É isso.

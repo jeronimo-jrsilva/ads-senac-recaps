@@ -1,0 +1,2143 @@
+# =====================================================================
+# ARQUIVO DE ORIGEM : Voz 260919_083810.m4a
+# DATA DA GRAVAÇÃO  : 2026-09-19 (Sáb)
+# HORÁRIO (INÍCIO-FIM): 08:38:10 -> 12:21:29 (3h43m)
+# CLASSIFICAÇÃO     : SABADO_LETIVO_EXTENSAO | Projeto de Extensão / Sábado Letivo
+# ENTRA NO PORTAL?  : SIM
+# =====================================================================
+
+[00:00:00] Cansados, muito bem, mas estamos aqui, é sábado de manhã, solta, já está brilhando fortemente lá fora e nós estamos aqui na sala de aula,
+[00:00:14] que é assim, eu sempre digo para os meus alunos na gestão que embora pareça na sala de aula, não é uma sala de aula,
+[00:00:22] Pelo menos a gente pretende fazer com que apenas pareça.
+[00:00:26] Na verdade, é uma extensão do recado.
+[00:00:31] Recado é uma extensão, não é uma sala de aula convencional.
+[00:00:38] Repito, pelo menos a gente tenta fazer com que seja assim.
+[00:00:43] Eu ia dizer que era a primeira vez que eu estava dando aula para o pessoal da tecnologia.
+[00:00:48] Aliás, eu sou fã de vocês, sério?
+[00:00:50] Sou fã da tecnologia.
+[00:00:52] Sou um usuário da tecnologia,
+[00:00:54] os conhecimentos são de operadores naquilo que me borta de tecnologia,
+[00:01:00] produção de conteúdo e tal,
+[00:01:03] e eu sou fã da tecnologia.
+[00:01:08] Então por extensão sou fã de vocês também,
+[00:01:10] vocês estão nessa formação de tecnologia,
+[00:01:12] então desde aqui eu sou fã de vocês.
+[00:01:17] Todo mundo é aquele segundo semestre de IA,
+[00:01:23] segurança e IA delas.
+[00:01:25] Então são três turnos aqui. Olha, os nossos encontros. O que está acontecendo em termos de
+[00:01:35] calendário? Nessa disciplina que deve ser muito estranha para a maioria de vocês,
+[00:01:40] competências pessoais e profissionais. Dois. Significa que tem A1, tem A3.
+[00:01:46] Tem atividade na plataforma A. Tem atividades que eu vou falar sobre ela agora aqui.
+[00:01:51] Então, pode parecer estranho para vocês, mas não é para ser, embora vocês são muito conectados com a realidade,
+[00:02:02] então vocês desconfiam porque a faculdade, no meio de tanta programação, precisa colocar algo ligado à questão mais de relacionamento humano e tal,
+[00:02:15] que é essa competência pessoal e profissional.
+[00:02:19] Porque a gente está no mundo da programação, mas hoje, eu sei que vocês sabem disso,
+[00:02:28] hoje, tem que ser ambidesto, tem que programar com a mão e com a outra mão fazer relacionamento.
+[00:02:37] Quanto programa, a outra mão faz relacionamento.
+[00:02:42] E é isso que se pretende de uma forma muito condensada.
+[00:02:48] Então, tem esse material que vocês vão receber, daqui a pouco eu vou passar o acesso ao Drive,
+[00:02:55] tem esse material, o PDF, tem o material da plataforma A, tem o material do estudo que eu também vou mostrar daqui a pouco.
+[00:03:04] E tem essas ações que a gente vai fazer em sala de aula, por isso que eu falei logo de início que é uma extensão do mercado,
+[00:03:11] que a gente vai praticar e não teorizar tanto.
+[00:03:17] Oficialmente, o que eu tenho para vocês é isso aqui.
+[00:03:21] Bom dia, no momento, dia 29 de agosto, eu postei os materiais que vocês, quem já entrou na plataforma A, viu?
+[00:03:29] Então, desde dia 29 de agosto, tem materiais na plataforma A para cada uma das turmas.
+[00:03:37] São os mesmos materiais, ok?
+[00:03:39] Se você escolher mesmo, então são os mesmos materiais para todo mundo.
+[00:03:42] No dia 19 de setembro, eu encontro o Esencial, mais conhecido como o Lúcio.
+[00:03:47] E dia 10 de outubro a gente vai ter uma breve avaliação, porque também tem que ter a V1 desse material,
+[00:03:55] a avaliação presencial. Dia 10 de outubro cai em um sábado, tá certo?
+[00:04:01] Então tentem se programar, a gente vem para fazer a avaliação.
+[00:04:06] Esse é o calendário inicialmente que eu tenho para vocês. O calendário vai até exemplo.
+[00:04:10] Mas eu quero confirmar outras datas para não ficar dando data, remarcando o grato que é em um lado.
+[00:04:18] Ok? Então esse material está no PDF que vocês vão receber. Todo mundo já acessou, acessou,
+[00:04:27] pelo não útil, né? E aí, bom dia. Goste essa aqui com vocês, vou acessar e vou apresentar
+[00:04:38] para quem ainda só entrou na plataforma, sabe que ela existe, sabe que tem login, sabe
+[00:04:45] senha mas não navegou como é para navegar lá dentro essa é a minha
+[00:04:53] plataforma que é a mesma cara de vocês eu vou aqui ó vou para as minhas
+[00:04:58] disciplinas ok acompanha aí o processo entra entra entra
+[00:05:06] minhas favoritas que são as de tecnologia eilas aí
+[00:05:16] Então, abaixo tem mais um, competências pessoais, curso superior de análise de desenvolvimento,
+[00:05:25] inteligência oficial, tá todo mundo aí.
+[00:05:28] Mas olha só, progresso, 1%, 3, 0, 1%, aqui tá indo bem, 14% e 1% então, galera.
+[00:05:41] Ah, esse progresso é pela quantidade de alunos, né?
+[00:05:45] Não, conforme você vai eliminando as etapas do estudo, vai marcando a porcentagem aqui pela turma, entendeu?
+[00:05:54] Só que no seu caso é professor, só que no seu caso é professor.
+[00:05:59] É, mas aqui é porque eu estou vendo que não teve acesso nenhum zero progresso, ninguém acessou, ninguém fez nada da trilha.
+[00:06:09] conforme você vai andando pela trilha de conhecimento, vai marcando o progresso pra mim aqui, eu vou bem
+[00:06:17] então pessoal, eu sei que a vida é corrida, dura, mas quem acessou, levanta a mão, quem acessou a trilha, a trilha, já fez a trilha
+[00:06:27] Como é que você acessou, foi tranquilo, rápido, o conteúdo tranquilo de assimilar, pronto, tá vendo?
+[00:06:38] É rápido, o conteúdo é tranquilo, não exige muito tempo de você.
+[00:06:45] Você sentou assim, longa e você consegue fazer, caso você ande de ônibus, como nós andamos.
+[00:06:53] Então acessa o material lá, está bacana, e aí eu vou mostrar um dos materiais que se repede em todos, tá bom?
+[00:07:06] Eu vou só entrar em um. Essa é a carinha, vocês vão comprar lá, vocês vão começar por aqui, como está dizendo.
+[00:07:16] É só uma mensagem, linha, e aí menta da disciplina de competências.
+[00:07:22] Eu só não entendi muito bem se for o lume, Jorge.
+[00:07:25] Se for o quê?
+[00:07:26] O fórum, que fica lá no lume.
+[00:07:27] Ah, o fórum, vou falar dele daqui a pouco.
+[00:07:32] E aqui é o material.
+[00:07:34] Liderança 1, Liderança 2, análise de tomada de decisão,
+[00:07:38] Liderança com vocação humano cultiva das virtudes,
+[00:07:40] E um bônus, Liderança de equipes escrumos.
+[00:07:46] E aí você vai entrar, ou entrar aqui só para mostrar.
+[00:07:50] Liderança 1, por exemplo, é a trilha que eu falei que você vai caminhando.
+[00:07:54] Mas é muito fácil, é intuitivo, os materiais conversam com a nossa emenda, e conforme você vai avançando, você vai marcando, concluído, e isso vai gerar aquela contagem que eu mostrei agora, que na maioria está em 1% a 100%.
+[00:08:18] Bom, é um material bem legal, esse é o material da plataforma A e tem outros materiais que eu fui colocando, por exemplo, o bug no sistema.
+[00:08:32] O bug no sistema é um podcast sobre a força feminina no mercado tech.
+[00:08:41] Você vai assistir, principalmente, os meninas no mercado tech.
+[00:08:49] Uma, duas, três, pouquinho mesmo.
+[00:08:56] Então, fala sobre isso meninas, você chegou a escutar o podcast, ainda não, mas você vai gostar.
+[00:09:03] E o fórum, como o nosso colega perguntou sobre o fórum.
+[00:09:06] O fórum também conta a participação de vocês, por exemplo, aqui nessa disciplina tem 35 integrantes.
+[00:09:14] E aqui você precisa comentar alguma coisa, que seja um ponto final.
+[00:09:18] para fechar a tua grade e você concluir...
+[00:09:24] Se você passar todas as trilhas, escutar todos os podcast, fazer tudo, ainda não vai dar 100%.
+[00:09:30] Por que você não participou de fórum?
+[00:09:32] Eu esqueci de contar você.
+[00:09:34] Então aqui no fórum você comenta, se você gostou, se você não gostou,
+[00:09:42] você pode comentar o comentário do colega,
+[00:09:45] e depois eu volto aqui e comento o comentário de vocês,
+[00:09:50] Eu posso deixar perguntas e eu vou respondendo, pelo menos uma vez por semana eu dou uma
+[00:09:58] olhada e vejo como está, por isso que eu sei que estava em 0% ou 1%, só uma em 14%.
+[00:10:06] Beleza então esse é o fórum para vocês participarem, e essa é a plataforma que vai
+[00:10:11] ajudar vocês.
+[00:10:12] Então tem a plataforma lá, tem a aula de hoje, pode falar.
+[00:10:16] Uma dúvida.
+[00:10:17] O professor já explicou sobre isso, mas não queria saber quem faz o opelor de os conteúdos da Bataforma A.
+[00:10:23] Os professores.
+[00:10:24] Os nossos professores mesmo?
+[00:10:25] Sim.
+[00:10:26] Porque a Bataforma A tem um banco gigantesco e com nosso papel, curadores.
+[00:10:36] Nós vamos buscar os conteúdos na Bataforma A, mas nós temos liberdade também de incluir conteúdos nossos.
+[00:10:43] como o podcast que eu mostrei, o book de sistema, é um conteúdo meu de pesquisa minha, não tem na
+[00:10:52] plataforma, mas assim a plataforma me aberta e deixa você colocar livros, PDFs, vídeos,
+[00:10:58] o que você quiser, é muito flexível lá. Beleza, então pronto, apresentei a
+[00:11:03] plataforma, peço para vocês que dediquem 10, 15 minutinhos, não precisa mais do que isso,
+[00:11:10] Essa é muito fácil, é muito simples, e vocês terão a missão concluída de vocês e ninguém vai ficar pegando-o no pé.
+[00:11:19] Beleza, trabalha já na área? Quem trabalha na área da planta mole? Meio-meio.
+[00:11:38] Segurança da informação. Trabalha numa empresa, para acertir isso ou é funcionário?
+[00:11:45] Funcionário mesmo? Os outros estão em busca? Estão buscando? Ou ainda não?
+[00:11:52] Estou buscando? Sim. Estou buscando?
+[00:11:54] Ainda não.
+[00:11:56] Estou buscando.
+[00:11:58] Estou buscando. Estou buscando.
+[00:12:00] Estou buscando.
+[00:12:02] Estou buscando.
+[00:12:04] Começando a buscar.
+[00:12:06] Ainda não.
+[00:12:08] Estou buscando.
+[00:12:10] Estar tá. Estar tá.
+[00:12:12] Estou buscando. Estou buscando.
+[00:12:14] É porque eu estou no ensino.
+[00:12:16] No ensino de tecnologia.
+[00:12:18] Então eu ando na tecnologia aplicada.
+[00:12:20] Mas estou buscando na aplicada também e na Star Taco também, não é, não?
+[00:12:25] É!
+[00:12:26] Eu lembro da Star Taco!
+[00:12:29] Olha!
+[00:12:30] Vai estar no meu time!
+[00:12:33] É!
+[00:12:34] O cara é bom!
+[00:12:35] Você não pode perder talentos, né?
+[00:12:37] Talento, claro!
+[00:12:38] E ainda mais, a gente vai falar só isso aqui!
+[00:12:41] É o start da nossa aula!
+[00:12:43] Só para você ver, né?
+[00:12:44] O mercado está em a falta!
+[00:12:46] Nós estamos criando um curso, um cenário
+[00:12:49] para habilitar a pessoa a entrar na área.
+[00:12:54] A liderar e tal.
+[00:12:56] A pessoa irá entrar até.
+[00:12:58] É o que fala?
+[00:12:59] Não, é um gap gigante.
+[00:13:02] Tá, tá, tá, tá terrível.
+[00:13:04] Tá terrível.
+[00:13:05] Olha só, a nossa disciplina,
+[00:13:08] se vocês olharem a imenta, a imenta está lá, né?
+[00:13:11] É formado, você acessar lá.
+[00:13:13] A imenta apresenta alguns livros,
+[00:13:17] tem a parte teórica de tudo a disciplina,
+[00:13:19] E essa aqui é a parte teórica da disciplina de vocês, peças de competências, liderança exponencial.
+[00:13:28] Outro material, fácil de ler, tranquilo, é um ebook que está na plataforma da Tocenac, que é a cachola.
+[00:13:38] Vocês conhecem a cachola?
+[00:13:40] Todo mundo conhece a cachola.
+[00:13:42] E a gente está estudando, nesse primeiro mestre, apenas o capítulo 3, que fala sobre liderança
+[00:13:54] do futuro, ou futuro na liderança, e a gente vai usar esse livro como uma parte teórica
+[00:14:01] da nossa disciplina.
+[00:14:02] que fala sobre liderança no futuro, ou o futuro na liderança.
+[00:14:08] E a gente vai usar esse livro como uma parte teórica da nossa segunda.
+[00:14:15] Repito, a leitura, cara, tem um meia-duze páginas nesse capítulo assim.
+[00:14:22] Fácil, fácil de ler, tá?
+[00:14:25] Tofica como dica de leitura.
+[00:14:30] Para a produção, inclusive, da nossa AV1, tá?
+[00:14:34] vai partir desse capítulo 3 aqui, que é dado o caminho pra você.
+[00:14:42] O que é falando de livro? É falar do meu livro, tá certo?
+[00:14:47] Eu sei que foge muito do contexto, mas comunicação não foge,
+[00:14:51] mas política foge um pouco, né?
+[00:14:54] Mas esse é o meu livro de...
+[00:14:57] O livro virtual, mas não é um livro mesmo, não é um livro.
+[00:15:02] Então quem se interessa, quem sabe,
+[00:15:05] é necessário, aí, por política, tem esse livro na Amazonia.
+[00:15:09] Ah, mas você quis, por vaga, eleitoral, um aspecto social.
+[00:15:13] E vocês da tecnologia, vocês estão lá.
+[00:15:16] Porque a tecnologia hoje não está somente nas empresas e tecnologia.
+[00:15:19] Tecnologia hoje ultrapassa todos os encões da economia do mercado,
+[00:15:24] inclusive para a política, né?
+[00:15:28] E essa é a minha contribuição, porque eu venho dessa área.
+[00:15:31] Eu sou jornalista de formação, aí trabalhei na imprensa
+[00:15:36] durante 10 anos, trabalhei depois com política durante 12 anos, e gerei esse livro aqui.
+[00:15:44] Próximo?
+[00:15:47] Próximo, qual vai ser o tipo de prova que vai passar?
+[00:15:52] Esse é uma prova padrão. Ah, é?
+[00:15:54] Vocês é na folha?
+[00:15:57] Esse é uma prova padrão com perguntas e respostas com alternativas.
+[00:16:03] Você tem provas meio diferentes, eu acho.
+[00:16:10] Eu sou professor de gestão, você já tiver um alto professor de gestão? Ou esse é a primeira?
+[00:16:19] Todos os professores de tecnologia que vocês têm, tem um de gestão.
+[00:16:26] Então, tem uns diferentes aí, um texto diferente. Se eu estiver muito acelerado, vocês me avisam,
+[00:16:34] porque eu estou, talvez, num ritmo que não seja de vocês, eu quero me adequar a vocês.
+[00:16:42] Olha, esse aqui é o processo de estudo preparado para a disciplina.
+[00:16:48] Então, tem o livro, tem a plataforma e tem os nossos encontros.
+[00:16:56] Tem esse encontro presencial e parece que tem um encontro online também.
+[00:17:02] Eu não coloquei no calendário porque eu ainda vou discutir com o Fred se é online, se é presencial ou quando pode ser.
+[00:17:10] Vocês preferem online ou presencial?
+[00:17:12] Eu ouvi vocês.
+[00:17:15] Quem prefere online?
+[00:17:18] Quem prefere presenciar?
+[00:17:21] Vou alternar aqui.
+[00:17:22] Alternando, né?
+[00:17:23] Meio abriu aí.
+[00:17:24] É, eu vou ver.
+[00:17:26] Mas eu vou avisar vocês.
+[00:17:28] Eu tenho aqui o Gerônimo que é líder de uma turma, você é líder de outra turma.
+[00:17:33] Cadê o terceiro líder?
+[00:17:35] Não, é um som do o só.
+[00:17:38] Aí você é líder das três turmas da noite.
+[00:17:40] E você é líder das três turmas de manhã.
+[00:17:46] É, porque é todo mundo junto.
+[00:17:48] de falar com todas as turmas, é muito gentil.
+[00:17:52] Não, mas quando eu falei naquele contexto, era para outras turmas mesmo, outras salas de aula.
+[00:17:57] Mas a tecnologia, a tecnologia nos dois ou três primeiros semestres,
+[00:18:02] está junto a DS, TI e Segurança e Informação.
+[00:18:06] A partir do quarto, não sei se terceiro ou quarto semestre, que vai se especializar.
+[00:18:14] Tanto que quem se formar em uma e quiser se formar na outra, faz só o último ano.
+[00:18:20] Daptação dos indígenas.
+[00:18:21] Isso.
+[00:18:22] Ah, tá, entendi agora, porque a gestão não é assim.
+[00:18:27] Então, tá dividido assim, nesse percurso que nós vamos trilhar.
+[00:18:32] Já começamos a trilhar desde o início.
+[00:18:35] Olha, eu sempre começo falando do mercado, que é a pauta, a pauta da instituição,
+[00:18:45] uma pauta da disciplina, a pauta do nosso outro dia a dia.
+[00:18:49] Não falo de outra coisa, mas eu falo inicialmente do mecânico.
+[00:18:53] E aqui tem essa matéria que eu vou abrir para a gente ver.
+[00:18:58] Eu vou ser RH.
+[00:19:02] Eu não vou ler a matéria, mas a matéria está aberta para vocês,
+[00:19:09] quando vocês pegarem o PDF, vocês podem clicar e acessar.
+[00:19:13] Peraí, eu estou dando liberdade para ela.
+[00:19:43] Calma aí galera, vamos ver se é que ele deixa.
+[00:20:16] Vagas de nível Júnior, quem é que está nesse perfil?
+[00:20:22] Todos vocês? Nível Júnior representam 31% do mercado de tecnologia.
+[00:20:29] Ou seja, mais de um terço do mercado de tecnologia, representado por vocês, Nível Jr. Pleno e o Senhor.
+[00:20:42] Então, a boa comunicação é a habilidade mais valorizada enquanto conhecimento de inteligência artificial em inglês gera impacto direto no salário.
+[00:20:54] Essa matéria de conduz é 12 de agosto de 26.
+[00:20:59] Então retratinho para a gente começar, retratinho do mercado, 31%, o que é que tem de interessante
+[00:21:07] nessa matéria, que eu posso só fazer abertura aqui, de acordo com o estudo de carreiras,
+[00:21:18] de acordo com o estudo de carreiras, de tecnologia de 2026, a principal porta de entrada profissionais
+[00:21:24] na área é o estágio para 39% e 31% dessas vagas analisadas são de nível Júnior,
+[00:21:35] Nível pleno, sendo corresponde a 59%, vou descer um pouquinho a matéria, depois vocês lêm com calma
+[00:21:42] Porque vale a pena, tá falando do mercado, pensar o óbvio, além do óbvio, é o diferencial
+[00:21:56] Soft skills, as habilidades comportamentais, porque assim, vocês estão a um ano com as habilidades
+[00:22:07] as técnicas, as artes, as técnicas, a todo o vapor, mas e as emocionares?
+[00:22:15] E as humanas? E as relacionamentos? E a comunicação?
+[00:22:21] E como é que vocês estão se preparando para assumirem cargos de gestão?
+[00:22:29] Existe um vácuo no mundo da gestão, existe um vácuo maior ainda no mundo da gestão
+[00:22:36] o mercado de tecnologia.
+[00:22:40] Agora vocês estejam no início,
+[00:22:43] muito provavelmente alguns de vocês estão pensando
+[00:22:46] em liderar equipos daqui a pouco.
+[00:22:49] Pelo menos tem que ter isso em vista,
+[00:22:53] porque não vá para ser operacional a vida toda.
+[00:22:56] E o mercado precisa, não é que ele quer,
+[00:23:01] não é que ele é bonzinho e quer você lá.
+[00:23:03] Ele precisa de você com habilidade suficiente
+[00:23:08] para liderar gente.
+[00:23:11] O profissional senior está sendo disputado à tapa.
+[00:23:14] Demais!
+[00:23:15] Tem um gap gigante, cara!
+[00:23:19] Isso no... em todo o mercado e é global, tá?
+[00:23:22] Eu venho com trabalhos da área de gestão
+[00:23:26] focados nisso também, então na área de gestão
+[00:23:29] existe um gap de liderança, um vácuo de liderança enorme
+[00:23:33] e 80% das empresas Brasil,
+[00:23:37] 72% das empresas globais não conseguem reposição principalmente de líderes.
+[00:23:43] Sai o líder, vai ficar um vácuo de meses lá sem conseguir encontrar um jeito de substituir.
+[00:23:50] E aí pressão sobre o equipe, pressão sobre os líderes que ficam para trás.
+[00:23:55] É um buraco gigante, porque durante anos e anos a formação foi operacional e não de liderança.
+[00:24:06] Aí a conta chegou, a fatura chegou porque não tem líder de mercado, e aí quem é que lidera os lideráveis?
+[00:24:13] É preciso, gente, para liderar, eu não tenho. Então, vai tendo oportunidades se você tem essa pretensão de se aperfeiçoar,
+[00:24:23] além das hard skills, além da parte técnica, de se aperfeiçoar também nas suas skills.
+[00:24:27] Essa disciplina é uma oportunidade para isso.
+[00:24:30] Então, na na na, liderança nas áreas de ERH, tecnologia e educação não tem um peso, tem uma partezinha aqui que tem a ver com a gente aqui.
+[00:24:43] Deixa eu ver na na, deixa eu ver se eu acho aqui. Engajo em menos, ah tá aqui.
+[00:24:52] Isso aparece na descrição das vagas, pensaram, fora do óbvio.
+[00:24:57] valorização das soft skills. Primeira soft skill apontada como o mais necessário,
+[00:25:04] comunitação. Criatividade vem de seguida, depois organização, trabalho e equipe,
+[00:25:11] liderança. Então são habilidades que precisam, precisam ser desenvolvidas nos profissionais
+[00:25:21] de tecnologia. Porque o operacional tá indo bem, o hard skill, tá indo bem obrigado.
+[00:25:28] Mas o lado humano, então a gente começa falando sobre o mercado e voltamos lá para a nossa apresentação.
+[00:25:40] Muito bom, esse é o nosso norte, esses 30% é o nosso norte.
+[00:26:03] Vamos falar sobre ela, que está na cabeça da lista da pesquisa, a comunicação.
+[00:26:10] Hoje a gente vai falar de duas coisas principais.
+[00:26:16] dentro do contexto da comunicação e da liderança e obviamente da nossa imediativa.
+[00:26:23] É o feedback.
+[00:26:24] A gente vai treinar feedback.
+[00:26:28] E vamos treinar algo que está dentro da comunicação e do feedback.
+[00:26:39] Dois conteúdos, só.
+[00:26:40] Para vocês saírem daqui aplicando isso, quem vai trabalhar hoje ainda?
+[00:26:46] Ninguém?
+[00:26:47] Para trabalhar?
+[00:26:48] Para aplicar assim que sai daqui, vamos trabalhar.
+[00:26:51] Para testar.
+[00:26:52] Para validar.
+[00:26:53] e vocês na segunda feita, depois me procura pra ver se deu certo, então quatro
+[00:27:00] verdades e um porquê sobre comunicação, vai pegando aí vai anotando aí, primeira
+[00:27:08] verdade é que a comunicação não se trata de você, se trata do, então eu tenho que
+[00:27:14] me preparar pra extensão dessa verdade, que ela é exigente pra você, pra mim
+[00:27:21] Eu tenho que preparar a minha comunicação em função dela.
+[00:27:26] Eu tenho que ser um ótimo comunicador em função dele.
+[00:27:33] Eu tenho que conhecer, por exemplo, o perfil dela, se eu sou líder dela,
+[00:27:39] para falar, comunicar, mudar uma mensagem para um grupo e uma mensagem,
+[00:27:48] a mesma mensagem e forma personalizada para ela.
+[00:27:52] Toda vez que você passar por um processo de formação e comunicação que não é nos
+[00:27:59] casas aqui por causa do tempo, você sempre pensa assim, quando eu estou a aprender
+[00:28:03] a comunicação, eu não estou a aprender para falar bonito, para falar em polado,
+[00:28:08] para falar a Brasil, pode ser também, mas é sempre pensando em quem vai receber a minha mensagem,
+[00:28:16] principalmente entre líder e liderado, principalmente entre desenvolvedor, de
+[00:28:23] produto e o cliente. Você tem que explicar as vezes, tem que desmistificar palavras,
+[00:28:29] conceitos de tecnologia que talvez o cliente não entenda. Então é você em função,
+[00:28:36] a sua comunicação é em função do outro. Outra verdade é um hábito, é igual à virtude.
+[00:28:41] De tanto fazer você fica bom. De tanto falar em público você fica bom. De tanto
+[00:28:51] pra você explicar, desmistificar, traduzir a linguagem de tecnologia com o leigo, você
+[00:28:58] fica bom.
+[00:28:59] Você já conhece os caminhos, conhece os termos, porque você já sabe o perfil do leigo,
+[00:29:05] não adianta ficar falando em faladinhas, em inglês, técnicas que ele não... você
+[00:29:11] já vai traduzir.
+[00:29:13] Por que?
+[00:29:14] De tanto você fazer, você ficou bom a comunicação, na necessidade de cada um de
+[00:29:21] da empresa de 2006. Então, pensa em comunicação sempre para o outro, pensa em comunicação
+[00:29:27] como um hábito, de tanto fazer, eu fico bom. Mas tem que fazer. Teoria da comunicação
+[00:29:33] é muito massa, mas massa mesmo é. Outra verdade, isso aqui é Peter Drucker, para
+[00:29:40] quem não conhece, um dos grandes nomes da administração, muitos chamam o fundador
+[00:29:46] da nova administração, onde já é falecido, e ele tem uma frase atribuída a ele
+[00:29:52] que circula por aí há anos, e ele diz isso aí, 60% de todos os problemas administrativos
+[00:29:59] ou a maioria, um grande parte, se não forem todos, administrativos resultam na ineficácia
+[00:30:05] da comunicação.
+[00:30:06] Ou seja, de qualquer forma muitos problemas poderiam ser evitados se a comunicação
+[00:30:15] acontecesse direitinho.
+[00:30:18] É só pensar na nossa família, quantas frases eu falei que a minha esposa entendeu errado
+[00:30:28] e gerou ruído, gerou uma confusão, ou o pai confia, o filho confia com o pai, o marido
+[00:30:37] com a esposa e a esposa com o marido, o contexto você explora, mas que a maior parte dos problemas
+[00:30:45] passa pela comunicação, isso é uma realidade, então, de um outro lado, se eu melhora a minha comunicação,
+[00:30:52] eu reduzo a taxa de problemas, se eu melhora a comunicação, na faculdade, eu reduzo a taxa de declarações dos alunos, perfeito?
+[00:31:03] É, rapidamente, tem uma frase que se tornou popular um tempo atrás, é uma frase que eu odeio,
+[00:31:08] e eu acho que saiu de popularidade, né, que é, eu sou responsável pelo que eu falo e não pelo que você entende, né, isso é horrível.
+[00:31:17] porque isso que gera esses conflitos e esses conflitos estão na administração, na
+[00:31:24] família, nos relacionamentos, nas relações internacionais, então em todo
+[00:31:29] lugar. Exato, então a gente se preocupar o mínimo com como fazer o outro entender
+[00:31:36] aquela visão, aquela ideia que eu tenho, fundamental.
+[00:31:40] É exatamente o oposto, eu tenho que me preocupar com ele.
+[00:31:45] Como você vai absorver, eu sou responsável.
+[00:31:51] Mas uma verdade é terceira.
+[00:31:53] A quarta é a comunicação se dá aonde?
+[00:31:56] Se dá no mundo.
+[00:31:57] Não no mundo perfeito, no mundo idealizado na nossa cabeça,
+[00:32:00] mas nesse mundo caótico que a gente vivei.
+[00:32:03] Esse mundo que tem no VUCA,
+[00:32:09] já ouviram a definição do VUCA,
+[00:32:12] Isso é uma definição que foi criada nos anos 80 pelos militares norte-americanos
+[00:32:16] a respeito do mundo que eles encontrariam no final do século
+[00:32:20] é um mundo para se preparar para batalha
+[00:32:25] mundo volátil, inseto, complexo, ambiguo
+[00:32:29] dentro do contexto de um mercado a gente usa essa mesma definição até hoje
+[00:32:34] porque se você olhar ao redor
+[00:32:37] e você fosse sincero com você mesmo, você vai ver o mundo
+[00:32:41] que muda completamente, um minuto, cem dias e cem minutos.
+[00:32:46] Se muda, é incerto,
+[00:32:48] como é que eu vou ter certeza das coisas, que as coisas estão em constante mudança?
+[00:32:52] Portanto, tudo isso deixa a minha condição de encarar um mundo complexo.
+[00:32:59] Tudo que muda muito rápido e muda constantemente
+[00:33:02] se torna complexo para eu entender, para eu agir.
+[00:33:06] E, portanto, é ambíguo também.
+[00:33:09] Então, esse é um mundo vulcano para a gente.
+[00:33:12] Essa é uma radiografia do mundo vulcano.
+[00:33:14] Depois da pandemia até antes, houve uma atualização do mundo vulcano.
+[00:33:20] Ele não deixou de ser vulcano, mas passou a ser bani também,
+[00:33:24] que é frágil, ansioso, mais focado nas pessoas.
+[00:33:28] Aqui está focado ver o mercado e a sociedade, e pessoas.
+[00:33:32] As pessoas estão cada vez mais frágeis, inclusive emocionalmente.
+[00:33:37] Frágeis, ansiosos, portanto.
+[00:33:40] A vida não é mais linear.
+[00:33:42] Antes, a família ensinava o filho com um caminho linear.
+[00:33:48] Era nascer, crescer, estudar, entrar em uma faculdade, casar, entrar em uma boa empresa, ficar até se aposentar.
+[00:33:57] Perfírios.
+[00:33:58] Perfírios, mas com certeza não.
+[00:34:00] Perfírios e horrível.
+[00:34:02] A vida era linear durante...
+[00:34:04] Foi linear durante séculos, milênios.
+[00:34:07] Era assim que todo mundo sabia o que ia acontecer.
+[00:34:10] Isso diminuía muito a nossa ansiedade, porque eu sabia tudo, era só olhar pro meu pai, olhar pro meu avô.
+[00:34:17] Então não é mais assim, né?
+[00:34:19] E, portanto, incompreensível.
+[00:34:21] Então nós estamos vivendo o mundo vulca e o mundo banho.
+[00:34:27] É uma forma de a gente entender em poucas palavras o que nos rodeia,
+[00:34:32] que é onde a gente vai aplicar a nossa vida profissional, nossa vida pessoal e a nossa comunicação.
+[00:34:38] Não é no mundo ideal, eu não vou falar e todo mundo vai entender, eu adoraria que esse fosse, mas nesse mundo louco que a gente vive, a gente precisa atuar, porque é nele que estão as pessoas, as empresas, as sociedades, o mercado, tudo, é nesse mundo, não é no mundo lindo, maravilhoso que funciona um desenho animado no cinema, é nesse mundo, cá ótimo, mesmo, que a gente não pode desistir,
+[00:35:10] Porque nós somos os agentes para a melhoria disso.
+[00:35:13] Por isso que a gente não pode desistir das virtudes.
+[00:35:17] Não posso desistir de ser virtuoso,
+[00:35:20] ou de virtude, ou de valores.
+[00:35:22] Por que?
+[00:35:24] Porque sou eu parte dessa mudança
+[00:35:28] que a gente tanto comeve.
+[00:35:30] Eu, você e todo mundo aqui.
+[00:35:34] Faltou um porquê?
+[00:35:35] Por que nós devemos aprender comunicação?
+[00:35:37] Porque é complexo.
+[00:35:39] até resvalor, falando sobre o flexibilidade da comunicação.
+[00:35:43] Esse é um caminho simples de se retratar a algo complexo que é a comunicação.
+[00:35:49] Eu tenho algo na minha que deve ser transformado em uma mensagem.
+[00:36:05] Aí tem você lá do outro lado, recebitor.
+[00:36:08] Não passe de mágica, que não é mágica.
+[00:36:12] Portanto, se aprende.
+[00:36:15] Não passe de mágica porque eu tenho aqui armazenado,
+[00:36:19] tem que aparecer aí na sua mente, na minha mente, para a tua mente, cara, é muito complexo
+[00:36:27] um negócio desse, porque daqui para chegar aí, agora é que o que aconteceu é meio coisa,
+[00:36:32] são os que não é somente barulho, qualquer efeito que cause uma disfunção na minha
+[00:36:43] Eu falo em termo diferente, falar de forma diferente, falar de uma forma ríspida, que
+[00:36:52] vai blindar você, a antipatia, por exemplo, se eu chego aqui na sala de lábiosco, tem
+[00:36:58] tudo que eu tenho que fazer.
+[00:37:03] Você em seis segundos traça um perfil, sem mesmo saber o meu nome, sem nunca ter me
+[00:37:10] visto, sem me conhecer.
+[00:37:12] O jeito que estou vestido, o jeito que vou dar bom dia, o meu rosto, o meu olhar, tudo é passivo de julgamento para você.
+[00:37:22] Automático, sabe?
+[00:37:25] É o pré-conceito, eu criei um conceito pré-conhecimento do Danilo.
+[00:37:32] Depois que o Danilo se sofre, começa a falar, o Danilo não era aquele cara que parecia quando ele tomava a sala.
+[00:37:39] Isso atrapalha, isso aí também é um ruído, esse pré-conceito é um ruído.
+[00:37:43] Porque quando você simpatiza com as pessoas, você tem uma facilidade de absorver o conteúdo.
+[00:37:50] Se vocês têm professores que você simpatiza com eles, pode ver que vocês aprendem melhor
+[00:37:56] a matéria dele.
+[00:37:58] Agora, se você antipatiza com algum professor, pode ver também que vai ser mais difícil
+[00:38:03] de você aprender a profedadeira.
+[00:38:06] Nesse contexto, nesse relacionamento de sala de aula, para arrogante, pronto.
+[00:38:16] criou um bonito, uma barriga.
+[00:38:21] Então a jornal da comunicação é complexa,
+[00:38:24] porém é totalmente passiva de ser ensinada e estudada
+[00:38:28] por cada um de vocês, porque não é uma arte
+[00:38:31] no sentido de que o cara nasceu para a comunicação do outro.
+[00:38:35] Ele pode ter nascido com predisposições,
+[00:38:37] que facilita a comunicação dele,
+[00:38:39] mas se ele não aperfeiçoar também isso aí, patrofia.
+[00:38:43] Ah, e não nasci com essas pretos coisas?
+[00:38:46] Não tem problema.
+[00:38:47] é igual a andar com bicicleta, você não nasceu andando com bicicleta, você aprendeu, levou uns tons,
+[00:38:54] ralou o joelho 500 vezes, mas aprendeu andar com bicicleta, hoje está andando de modo,
+[00:38:59] então é um processo, tá bom?
+[00:39:04] E esse processo a gente começa falando do feedback, como eu disse, comunicação entre os dois,
+[00:39:09] a gente não vai falar dela, mas a gente vai falar de dois pontos dentro da nossa disciplina,
+[00:39:15] que faz sentido com essa pesquisa de mercado
+[00:39:18] que é, inicialmente, feedback,
+[00:39:21] que é onde a comunicação vira liderança.
+[00:39:24] Eu não tenho pretensão de que você saiu daqui
+[00:39:29] já craques, aplicando, porque pouco tempo.
+[00:39:32] Mas eu tenho a pretensão de, pelo menos,
+[00:39:36] colocar uma sementinha de você ficar curioso
+[00:39:39] e ir buscar além de cursos e tal.
+[00:39:43] Você me falou que o Valbert, vocês pegaram o Valbert?
+[00:39:45] eu não vou pegar. Não, professor Valbert, não.
+[00:39:47] Ah.
+[00:39:48] A Valbert já tinha saído.
+[00:39:50] Era o coordenador de muito dano, da tecnologia.
+[00:39:52] É, eu só ouvi falar que era ele antes do Fred, né?
+[00:39:55] É, era o seu Fred.
+[00:39:57] Ah, não, tinha um Valbert, que era antes do Fred.
+[00:40:00] Era o coordenador de uma tecnologia.
+[00:40:02] Eu perguntava pra ele, cara, por que a tecnologia não tem, cara,
+[00:40:06] de ciprânsis de gestão e tal.
+[00:40:09] Se não é que ela está exigendo.
+[00:40:12] Eu perguntava pra ele, por que que eu tinha.
+[00:40:14] Então, vamos falar de feedback.
+[00:40:16] de uma forma bem simples, porém verdadeira para o mercado corporativo, ok?
+[00:40:25] Feedback ignorado e vai gerar isso aqui, que é o lance da comunicação do Peter Drucker.
+[00:40:31] Ao invés de você dar o feedback com sinceridade, com empatia, com técnica,
+[00:40:38] que eu vou aprender, eu vou ensinar aqui, técnica.
+[00:40:41] Para dar feedback tem técnica, só você seguir o roteiro, você precisa gostar,
+[00:40:47] só seguir passo a passo, tudo está certo.
+[00:40:50] Você pode eliminar a possibilidade de ter
+[00:40:52] níveis de problemas da tua equipe, da tua empresa,
+[00:40:55] do teu relacionamento com os stakeholders,
+[00:40:57] né, os clientes de vocês.
+[00:40:59] Feedback.
+[00:41:03] Por que as pessoas fogem muitas vezes no feedback?
+[00:41:06] Inclusive pessoas barra empresas.
+[00:41:08] Medo de conflito.
+[00:41:11] Eu estou me lembrando daquela pesquisa lá
+[00:41:14] com você no programa de liderança.
+[00:41:17] Vamos aqui fazer parte do programa de liderança.
+[00:41:19] A gente fez uma pesquisa e tem lá alguns, algumas menções sobre medo de conflito.
+[00:41:26] Tudo mundo tem medo de conflito.
+[00:41:29] Claro, tem aqueles sangue-lui que adoram conflito.
+[00:41:32] Mas de modo geral, conflito não é legal.
+[00:41:36] Se ele for bem administrado, ele pode produzir 11 sites, se for bem administrado.
+[00:41:43] Muitos for hoje também porque falta habilidade.
+[00:41:46] da feedback no caderno, no carrinho ceverno, quando vão dar e como se pensasse que era uma conversa
+[00:41:52] entre dois amigos e tal, não, não.
+[00:41:54] Cultura organizacional.
+[00:41:57] Não tem na empresa a cultura do feedback.
+[00:42:00] Tem um monte de coisa lá acontecendo, mas muito de três e três meses, mensalmente, semanalmente,
+[00:42:08] no momento em que acontece feedbacks que precisam ser dados,
+[00:42:14] momento em que, no momento seguinte que aconteceu a determinada situação, o feedback é necessário
+[00:42:22] para não esperar um mês, você lembra, no dia 19 de setembro que você chegou a atrasar
+[00:42:28] amo e não chega a atrasar, eu queria ser o confio.
+[00:42:33] Receio de repercussões negativas, ai não vou falar com o Fugano, esse não vai
+[00:42:37] Eu gosto dele, eu gosto de ninguém que ficava com isso aí, tá bom, mas se for dar o Feedback
+[00:42:46] ele vai ficar chateado com falta de tempo, que é real, que o mundo tem cada vez menos.
+[00:42:52] Os conhecimentos dos benefícios do Feedback, a gente vai ver alguns deles aqui.
+[00:42:57] E se alunou, eles não recebam, então vai de conta que tá tudo bem.
+[00:43:03] São algumas, algumas porquês, né?
+[00:43:09] O grande erro do mercado, o feedback virou o cenário de crítica e não é.
+[00:43:13] É também, tem bom mesmo que você precisa criticar, mas criticar como a educação,
+[00:43:18] criticar como líder, tipo liderado, que não quer que o liderado se desespera por causa
+[00:43:23] da crítica, mas que use a crítica como um trampolim para ele se desenvolver mais ainda.
+[00:43:30] Correção, sim, reconhecimento, feedback e reconhecimento, cara fechou um, vai
+[00:43:37] vai ter um trabalho e você não vai dar reconhecimento, não vai dar um feedback de reconhecimento.
+[00:43:41] E tem uma regra que eu já posso dividir com vocês que é muito simples de lembrar.
+[00:43:45] Correção no privado.
+[00:43:49] Reconhecimento no público.
+[00:43:52] Você dá correção, chama no privado.
+[00:43:56] Seu líder não dá correção na frente das outras pessoas.
+[00:43:59] Ou seja, isso aí é até passível de justiça depois, de processo judicial.
+[00:44:06] E o reconhecimento, o novo feedback de reconhecimento dá-se em público, na frente das pessoas, olha.
+[00:44:14] Por quê? Porque isso vai gerar, psicologicamente, algo das pessoas do tipo, poxa,
+[00:44:22] pelo seu próximo, a receber esse feedback. Então, eu vou dar o meu melhor ainda mais,
+[00:44:26] para ter direito a esse feedback sem reconhecimento. Então, correção no privado, reconhecimento no público.
+[00:44:35] elogia em público, elogia em público, critique no particular.
+[00:44:46] Alinhamento, desenvolvimento, tudo isso é passiva de ser por feedback, desenvolvimento,
+[00:44:53] prevenção de problemas, uma intenção de cultura.
+[00:44:55] Feedback não é um bicho de sede de cabeça.
+[00:44:57] Até o momento em que você descobre que existe um passo a passo.
+[00:45:01] Bem simples, aliás, que decide passar.
+[00:45:03] Porque eu não ofereço feedback, medo de conflito, é o que a gente vai usar nesse momento para exemplificar.
+[00:45:12] Medo de conflito. Primeira pergunta, quem vai receber o feedback?
+[00:45:17] Se eu sou líder, eu tenho que me preocupar com isso.
+[00:45:21] Que vai exatamente o de encontro a comentar a frase que o Rio não deteste.
+[00:45:28] Mas a gente encontra exatamente, eu preciso saber quem vai receber feedback.
+[00:45:32] Se é um professor com um aluno, se é um pai com um filho, tem de saber algum contexto da pessoa.
+[00:45:41] Uma coisa muito simples, visual, homem e mulher. Eu posso adaptar o meu feedback com o homem e com a mulher, diferente.
+[00:45:48] O contexto feminino é diferente do que o contexto masculino.
+[00:45:52] Se eu sou um líder bem preparado e eu conheço os meus liderados minimamente,
+[00:45:56] algumas das características dos meus liderados estão presentes na minha mente,
+[00:46:02] Isso torna o feedback muito mais fácil de ser dado.
+[00:46:07] Fortanto da outra pessoa assimilar o que eu tenho.
+[00:46:11] Olha o complexo que é a comunicação.
+[00:46:14] Todo de um lado você está do outro e eu preciso que a mensagem seja recebida.
+[00:46:19] O que motiva essas pessoas?
+[00:46:23] Ainda no meu exemplo de homem e mulher.
+[00:46:26] Mulheres têm motivações diferentes de homens.
+[00:46:29] Algumas são as mesmas mulheres.
+[00:46:32] Se eu tenho isso próximo de mim, eu consigo voltar no que tiver muito melhor, no homem para olhar.
+[00:46:39] Apenas respondo a duas pessoas, quem vai receber e o que é que motiva.
+[00:46:44] Eu usei o sexo aqui, como em mulher, mas pode ser geração, geração Y, Z, X, pode ser escolha.
+[00:46:54] Por exemplo, o SEM, qual é o tipo de comunicação de um modo geral para eles, objetivo, para
+[00:47:03] mimádio, voltar para resultados?
+[00:47:07] Um feedback nessas condições é mais fácil de ser assimilado com um cara assim.
+[00:47:14] Engajamento, como é que engaja um cara assim?
+[00:47:17] Técnicas e psicologia mesmo.
+[00:47:19] Autonomia dando autonomia para o cara.
+[00:47:22] Equilíbrio de vida e trabalho, reconhecimento de competências.
+[00:47:25] ele gosta de ser reconhecido pelas competências que ele tem,
+[00:47:28] usa até essa forma.
+[00:47:33] Já, no caso do Pleno,
+[00:47:35] comunicação digital, dinamismo,
+[00:47:39] feedback contínuo, se você usar isso aqui,
+[00:47:41] provavelmente você vai engajar melhor
+[00:47:44] o feedback com ele.
+[00:47:46] E desenvolvimento profissional,
+[00:47:48] falar de desenvolvimento profissional para ele,
+[00:47:50] é algo de engajador.
+[00:47:52] Se você tem na equipe
+[00:47:55] um senho, um Pleno e um Junho,
+[00:47:58] Júnior, dizer a verdade, você precisa ter capacidade de múltiplas escolhas na hora que o feedback.
+[00:48:10] Já que você é o líder deles, você precisa ter essa capacidade, ou pelo menos tentar desenvolver essa capacidade.
+[00:48:17] De não ser, de não passar uma mensagem no geral, igual para todo mundo.
+[00:48:24] Tem a mensagem para a equipe e tem a mensagem, que é o caso da feedback individual.
+[00:48:31] E no caso de um júnior, que é a comunicação visual, por exemplo, você pode utilizar recursos
+[00:48:37] visuais que vão fazer sucesso nesse feedback, você vai dar.
+[00:48:43] Questão de velocidade, autenticidade, inovação constantes, são características, inclusive,
+[00:48:47] das gerações.
+[00:48:48] Vocês reparam que são gerações aqui, gerações x e y, que engajam com o contexto de geração
+[00:48:56] também.
+[00:48:58] Isso é uma provocação para que vocês entendam que as pessoas se engajam de formas diferentes.
+[00:49:06] Tem gatilhos diferentes.
+[00:49:08] E o líder precisa desenvolver e descobrir quais são os gatilhos da sua experiência.
+[00:49:15] Essas abordagens que a gente já entra na técnica do feedback.
+[00:49:19] Feedback de reconhecimento, reforço o comportamento positivo, o reconheço para reforçar.
+[00:49:25] Então quando eu faço isso, estou objetivando isso aqui na pessoa.
+[00:49:31] Quando eu faço isso, eu estou objetivando correção de rota.
+[00:49:37] Não estou querendo que o cara se desespere porque recebeu uma correção, não?
+[00:49:43] O ajuste tem que ser para corrigir a rota para ele voltar para os trilhos,
+[00:49:50] para ele continuar sendo bom do jeito que ele é.
+[00:49:53] E um terceiro tipo de direção,
+[00:49:57] que muitas vezes você não está claro o que você precisa fazer
+[00:50:01] e eu preciso chamar você ali para uma conversa no café, para variar as expectativas que nós temos sobre você.
+[00:50:11] Então, são três abordagens bem simples que, muito provavelmente, você já possui por uma delas,
+[00:50:19] como líder ou como liderado, dependendo da sua condição atual ou anterior.
+[00:50:26] Reconhecimento, ajuste e virecia e as técnicas. Vou dar três modelos para vocês. Basta os três.
+[00:50:36] Ideal para liderar os juniors. Feedback Sandwish. Alguém já ouvi falar do Feedback Sandwish.
+[00:50:45] É bem simples porque ele é um Sandwish mesmo. Eu começo com o elogio e depois eu vejo um ponto de correção.
+[00:50:56] Lembra que o feedback é corretivo de ajustes de ropa e depois eu termino com um elogio de corajamento final.
+[00:51:03] Mas, olha, coisa muito importante.
+[00:51:07] Quando eu falo assim, o elogio, é para inventar o elogio para cá.
+[00:51:11] Você conhece bem a tua equipe e sabe que o genônimo tem coisas a serem elogiadas e forma sincera.
+[00:51:25] Então eu vou buscar a realidade do genônimo.
+[00:51:30] Eu não vou, eu passo para ser bonitinho e fofo na hora do feedback.
+[00:51:34] Ser um líder fofo.
+[00:51:36] Não, um líder muito abelho.
+[00:51:38] Porque todo mundo tem pontos positivos e pontos relativos.
+[00:51:41] Então eu vou buscar nos pontos positivos reais da pessoa.
+[00:51:45] Mas eu quero chegar aqui.
+[00:51:48] Eu não começo por aqui.
+[00:51:50] Principalmente se eu estiver adiante de um que precisa disso aqui,
+[00:52:01] mas precisa também disso aqui,
+[00:52:03] e termina com isso aqui.
+[00:52:05] Então o recheio é o ponto de correção, o pão de cima, o pão de baixo, por isso é um duiste.
+[00:52:11] O ilugio é o encorajamento final, porque eu não quero que o cara desista, porque ele foi corrigido.
+[00:52:17] Ao contrário, eu posso pegar aqui o ilugio inicial, jogar pra cá e desenvolver um encorajamento.
+[00:52:24] Ó, desenvolver um encorajamento, desenvolver, quer dizer que eu não peguei o Júnior, o Subtetão.
+[00:52:32] Eu preparei o meu feedback, tá certo?
+[00:52:34] Eu preparei, cara.
+[00:52:36] Eu sentei comigo uns 5 minutos ali e vou estruturar o feedback que eu vou dar para o Júnior.
+[00:52:45] Bom líder, se prepara para liderar.
+[00:52:51] Por isso que liderança se aprende.
+[00:52:53] Liderança ninguém nasce líder.
+[00:52:56] Você, de novo, nasce com algumas pré-exposições para isso.
+[00:53:00] Mas, se não, abre com isso a atrofia.
+[00:53:04] Quem não nasceu, quem acha que não nasceu para liderança,
+[00:53:08] todos tem potencial de líder, todos, 100%
+[00:53:12] basta querer ser a perfeição
+[00:53:15] tá claro que o feedback sanduíche, bem simples
+[00:53:18] dá pra aplicar, segunda-feira um feedback sanduíche
+[00:53:21] se fosse possível, dá tranquilo, não é?
+[00:53:24] e o feedback sanduíche, a gente tá falando aqui de líder liderado
+[00:53:28] mas ó, se aqui não tiver líder na carteira profissional
+[00:53:34] pode ser um líder sem crachar, tá?
+[00:53:41] Eu sou líder, mas sem crachado. Eu não preciso de crachado pra me posicionar como líder de jeito nenhum, cara.
+[00:53:47] Você pode ser um varredor da faculdade, da rua, da escola, e você vai como líder, cara.
+[00:53:58] Vai como... e pega na vassoura como líder. Tem postura, dá um bom dia olhando pras pessoas.
+[00:54:05] Precisa de crachado? Nem de registro lá na série T. Não precisa.
+[00:54:16] Primeiro feedback, San Luis.
+[00:54:18] Você é muito dedicado, precisa melhorar seus horários e se tem potencial, vai ajustar.
+[00:54:23] Pão, pão, recheio no meio.
+[00:54:28] Que é o que eu quero, o que acontece.
+[00:54:30] Precisa melhorar seus horários.
+[00:54:33] Pão, pão, recheio no meio.
+[00:54:35] Que é o que eu quero.
+[00:54:37] Sim, é um caso prático, mas também serviria prontos.
+[00:54:41] Porque você teria que identificar na pessoa.
+[00:54:44] Tem pessoas que não receberia bestia, que eu continuo.
+[00:54:48] Sim, e eu coloquei o Júlio aqui, porque ele é mais voltado para esse contato de iniciantes,
+[00:55:04] os experientes com os iniciantes, mas aqui serve para qualquer hierarquia, qualquer nível,
+[00:55:09] o certeza e depende da personalidade, por isso que o líder tem uma função dentro de muitas
+[00:55:17] que ele tem de conhecer bem os seus lugares, inclusive a personalidade dele, tem um contexto
+[00:55:22] que numa outra oportunidade, quem sabe a gente fala sobre isso, mas nós vamos falar lá
+[00:55:26] no problema de liderança, que é o temperamento das pessoas, identificar o temperamento,
+[00:55:33] também é possível você identificar, existem basicamente quatro temperamentos e se
+[00:55:37] você está em deles e o seu liderato também está.
+[00:55:42] Se você conhece os temperamentos, os seus liberados,
+[00:55:44] nossa, você ganha uma margem de influência sobre ele,
+[00:55:50] gira o texto, então sim, depende do arco.
+[00:55:53] Tem gente que vai receber ele de forma negativa,
+[00:55:55] tem um justo que vai receber de forma positiva,
+[00:55:57] mas o feedback é preciso ser dado para evitar problemas
+[00:56:01] maiores como a gente viu na matéria anterior ali.
+[00:56:03] Feedback sendo o lixo beleza, objetivo, reduzir resistência,
+[00:56:07] o acrítico. Próximo modelinho, ecofeedback, ecofeedback
+[00:56:15] do Sandwish e o eco. Bem simples ó, evidência, sequência, orientação.
+[00:56:23] Para um talversivo feedback eco, para outra situação Sandwish,
+[00:56:30] para outra situação terceira que eu ainda vou mostrar.
+[00:56:33] Então a estrutura é muito, muito fácil, técnico cara.
+[00:56:36] É só seguir o roteiro do Sandwish ou do eco dependendo da situação.
+[00:56:41] Qual é a evidência? O fato observável.
+[00:56:44] Esse eco é muito ligado àquele feedback de imediato.
+[00:56:50] Você fez alguma coisa, eu como o teu líder,
+[00:56:54] observei, via aquilo ali acontecer, te chamo do feedback,
+[00:56:58] porque você... a situação está fresca na tua memória.
+[00:57:02] Por exemplo, a chegada atrasada, alguma coisa assim que está fresca.
+[00:57:06] Então, todo mundo observou o fato, você e eu.
+[00:57:09] consequência, eu vou dizer, o teu atraso é muito causado, eu vou mostrar para o Númenos,
+[00:57:19] você está vendo ali Númenos dados, você mostra para o cara que o atraso dele está empatando
+[00:57:27] negativamente, não tem como ele, não, mas não tem opinião, achismo, tem fato observado.
+[00:57:36] E a orientação, a ação esperada, sempre nessa ideia de que você tenha a possibilidade de melhorar.
+[00:57:45] Todos nós temos. Então o ego é uma estrutura gerencial de feedback pelas três passos.
+[00:57:54] Geralmente usada, bastante usada para a geral. Clariza, responsabilização, mudança.
+[00:58:00] Aconteceu o fato, não espere uma semana, chama o pessoal para o feedback e usa a estrutura do Aéreo.
+[00:58:07] Evidência ou sequência?
+[00:58:15] Houve três atraso essa semana, isso pressionou toda a equipe, a partir de amanhã precisa estar chegada 10 minutos a esse.
+[00:58:25] Três atraso, estou quantificando, estou dando dados, dá para ficar assim, ah eu não tenho o acho, tem dados, tem um Aéreo, bem simples.
+[00:58:40] Sanduíche, a mortécia e a emoção, o ego conduz para a performance.
+[00:58:44] Terceiro e último, 360.
+[00:58:50] Feedback, qual é a característica dele?
+[00:58:53] Ele leva tempo, é mais voltado para uma cultura organizacional,
+[00:58:58] mas, independente disso, se a empresa não tem essa cultura organizacional,
+[00:59:03] você pode utilizar o feedback 360.
+[00:59:06] Você vai avaliar o desenvolvimento a partir de múltiplas perspectivas, por isso que Leva tem feedback 360, eu recebo feedback, eu como líder, recebo feedback de vocês, eu como líder, envio feedback a vocês 360.
+[00:59:31] Circula. Meus superiores me dão feedback, meus pares me dão feedback, a equipe direta me dá feedback, então você não está errado.
+[00:59:42] Para a auto avaliação maravilhoso, eu posso permitir, cara, como é que está a minha aula aí?
+[00:59:52] Se você não quiser responder, eu posso pedir um feedback através de uma pesquisa.
+[00:59:58] Feedback, para mim, clientes internos e externos.
+[01:00:03] Então feedback 360 é aquele que circula, as pessoas podem pedir feedback e eu posso dar feedback.
+[01:00:12] que tiveram que todo mundo se ajudando nesse caminho grandioso que é a melhoria constante
+[01:00:20] de cada um, através de todos, é um unicolhário ver com limites, eu vejo, eu me vejo de uma
+[01:00:29] forma só com limita, tem coisas que eu não consegui enxergar, tem um conceito de psicologia
+[01:00:36] chamado de janela, de jorrari, que é muito legal, que é assim, eu tenho uma visão sobre
+[01:00:44] mim, vocês têm uma visão sobre mim, tem coisas que eu consigo ver e vocês não conseguem
+[01:00:50] ver, tem coisas sobre mim, tem coisas sobre mim que eu não consigo ver, só vocês conseguem
+[01:00:56] ver, é muito legal, e é mais ou menos isso, um unicolhário ver com limites,
+[01:01:03] você como líder, pode se ver muito justo, mas os teus liderados podem não te ver assim
+[01:01:10] não. Quem está acima de você pode te ver como duro, quem está abaixo de você pode
+[01:01:18] te ver de forma diferente. Então, a gente sempre tem que pedir opinião como se fosse
+[01:01:24] isso, não é isso, mas no popular, né? O que você acha sobre mim? Sobre minha condução,
+[01:01:31] o meu trabalho sobre a minha liderança saber a opinião das outras pessoas que no
+[01:01:36] caso aqui não seria opinião, seria uma coleta de dados, de informação, uma coisa mais
+[01:01:42] estruturada por isso que leva tempo, gestores, pares, equipe, escritos todo
+[01:01:50] mundo dando feedback. Um gestor pode ser visto pela diretoria como um cara
+[01:01:55] eficiente, mas pela equipe como cara duro demais. Quem está lá de cima não
+[01:02:03] percebe a dureza de quem está aqui embaixo.
+[01:02:06] O livro pode ser duro, que é a coisa linda para a diretoria, mas não é linda nem um pouco para a equipe,
+[01:02:15] porque está fugindo.
+[01:02:17] Aliás, vocês sabem que a grande maioria das demissões não é pela empresa ou pelo trabalho.
+[01:02:25] Tóxico.
+[01:02:26] As pessoas fogem, perdem demissão por causa da liderança tóxico.
+[01:02:34] Tem por aí.
+[01:02:35] pelos pares, cooperativo, edifício,
+[01:02:39] mesmo cara, com várias visões.
+[01:02:42] Sobre ele. E ele tem a dele, né? Sobre ele.
+[01:02:45] Por si mesmo, ele pode se achar justo.
+[01:02:47] Só que ele é isso ali.
+[01:02:53] Sem múltiplas fontes, pontos cegos permanecem.
+[01:02:56] Então a gente carrega pontos cegos sobre nós mesmos.
+[01:02:59] Embora a gente se ache muitas vezes, muito bom.
+[01:03:04] E a gente pode ser muito bom mesmo.
+[01:03:09] mas tem pontos sérios que a gente não consegue enxergar.
+[01:03:12] Só o outro que está lá, de forma verdadeira e sincera,
+[01:03:17] porque também não tem gente que não busca verdade,
+[01:03:22] busca a destruição do outro.
+[01:03:25] A gente sempre leva a consideração que as pessoas estão sendo sinceras,
+[01:03:29] verdadeiras e querendo o nosso lado.
+[01:03:31] E o pulo do gato.
+[01:03:34] Essa aqui é a Milady, a minha gato.
+[01:03:37] O pulo do gato é quem tem feedback múltiplo,
+[01:03:42] Aquele algoritmo que ele descobriu, os seus pontos saem aqui.
+[01:03:45] Foge do feedback porque não quer ouvir as verdades sobre si.
+[01:03:51] Eu fujo, vou conscientizar sobre isso.
+[01:03:55] Tá claro, gente, feedback, sanduíche, o eco e 360.
+[01:04:00] Beleza, né?
+[01:04:01] Então só não dá feedback quem não quer.
+[01:04:03] Não tem mais desculpa.
+[01:04:05] Feedback não é conversa de amigos,
+[01:04:08] embora o líder possa ser amigo do liderado,
+[01:04:10] mas no contexto corporativo,
+[01:04:13] É que é uma ferramenta de gestão fundamental, importantíssimo, no contexto da liderança da
+[01:04:20] comunicação e a gente viu na notícia que trouxe para vocês de agosto, agora, no
+[01:04:27] ponto que isso é necessário para a formação dos novos profissionais em tecnologia.
+[01:04:36] A gente agora vai praticar a beleza, a gente vai colaborar com o imóvel, praticando
+[01:04:42] a realidade.
+[01:04:43] Acesse aí, por favor.
+[01:04:50] Não tem as equipes que vocês quiserem.
+[01:04:52] Acesse aí que eu vou acessar aqui também.
+[01:05:02] Vocês vão acessar uma pasta no drive.
+[01:05:08] Essa pasta aqui, ó.
+[01:05:11] A pastinha tem um nome para estudar.
+[01:05:17] Aí dentro da pasta tem lista de presença que daqui a pouco a gente vai responder.
+[01:05:22] E tem outra pasta chamada aula presencial 19 do nome.
+[01:05:26] Que é essa aí que vocês vão entrar.
+[01:05:28] Eu estou entrando aqui também. E vocês vão acessar isso aqui, laboratório TÁTICO, laboratório TÁTICO.
+[01:05:56] Não escaneou? Não vai, escanei ele.
+[01:06:04] Cara, uma coisa que eu ia perguntar também para vocês, vocês querem intervalo ou vai seguindo?
+[01:06:11] E sai vai cedo.
+[01:06:16] Seguir, quem vai seguir? Quem levanta, levanta a mão, quem quer seguir aí?
+[01:06:22] Se terminar mais cedo, vai seguir que horas?
+[01:06:24] Onze.
+[01:06:27] Até a cedo não vai terminar onze e meia, né?
+[01:06:29] É.
+[01:06:31] Sabe reto.
+[01:06:32] Sabe reto, bora.
+[01:06:33] Não, nas onze horas. Vai seguindo então?
+[01:06:35] Bora nós.
+[01:06:37] Beleza, então acessaram, tá.
+[01:06:39] Eu volto aqui.
+[01:06:42] Tá bem explicado o desafio de vocês.
+[01:06:49] Vocês forem equipes, dupla, tribo,
+[01:06:52] que vocês exercem, tem aqui uma pequena abertura e a instrução que vocês vão ter que seguir
+[01:07:01] para praticar o laboratório do feedback, ok?
+[01:07:06] O que vocês vão fazer?
+[01:07:11] Preciso que vocês vacuem a memória de vocês recente de uma situação real,
+[01:07:17] tem que ser uma situação real com vocês, pelo menos um da equipe, do trio, da dupla,
+[01:07:23] nos um que veram recentemente na empresa, de um monte de trabalho, vivenciada por alguém
+[01:07:34] do grupo na empresa em que a falta de feedback imediato gerou um grande problema.
+[01:07:39] Você percebeu que a falta de feedback deu uma confusão enorme, se tivesse dito antes
+[01:07:47] alguma coisa para alguém, essa confusão não ia acontecer nisso.
+[01:07:52] Então, eu preciso de uma memória fresca em de vocês para trazer para o lugar do atório aqui do feedback.
+[01:07:58] Então, ok? Alguma coisa que escalou em um problema maior só porque alguém se recusou ou não tinha prática
+[01:08:06] ou não tinha a cultura ou simplesmente não quis estar no feedback.
+[01:08:12] Se tivesse dado, tinha reduzido o cenário de problema.
+[01:08:16] O que vocês vão diagnosticar?
+[01:08:20] Quem eram as partes envolvidas? Você e alguém?
+[01:08:23] Você só foi um observador?
+[01:08:26] Foi um líder e um liderado?
+[01:08:28] Um gerente e um cliente?
+[01:08:31] Qual era a maturidade de quem falhou?
+[01:08:35] Júlio Pleno Senior?
+[01:08:37] Qual era o impacto real do negócio com o produto?
+[01:08:41] Então, ah mas, se não tiver todas as informações
+[01:08:46] informações vai nas informações que vocês conseguem ter, certo? Por último aqui, vocês vão
+[01:08:52] refazer a cena usando feedback, ok? Vocês vão refazer a mesma cena, voltando no tempo, só que
+[01:09:03] usando feedback. Qual deles? Vocês vão ver. Eu entreguei três modelos de feedback para vocês, nem
+[01:09:12] E todo serve para tudo.
+[01:09:14] Então você vai ver qual é o feedback que serve para esse caso,
+[01:09:18] que você se lembrou hoje?
+[01:09:20] Se eu era com o seu santo Míscio, eu apresentei sempre.
+[01:09:23] Um deles com certeza ajudaria na situação.
+[01:09:29] E depois eu quero que vocês entregue um script exato do que seria dito nessa conversa.
+[01:09:33] A lista para hoje.
+[01:09:36] Agora.
+[01:09:38] Pode começar.
+[01:09:40] Pode começar.
+[01:09:43] É... situações...
+[01:09:46] Fórdia nas equipe? Não faço sozinho, não.
+[01:09:48] Ou o trabalho.
+[01:09:50] Corre lá e jame.
+[01:09:52] Pode ser feio, se inscreveu em uma empresa pequena.
+[01:09:57] Qualquer situação.
+[01:09:59] Mas tem que ser real.
+[01:10:01] Uma situação real.
+[01:10:03] Por exemplo, você quer ter um baita de um bolo
+[01:10:07] porque você se esqueceu e não quis dar um feedback para alguém
+[01:10:10] O que está acontecendo com você, pode ser qualquer empresa, situação, situação de mercado.
+[01:10:18] A minha dificuldade é encontrar uma situação que tenha explodido por causa de um feedback ou falta de feedback.
+[01:10:27] Por que?
+[01:10:28] Porque fica difícil de relacionar.
+[01:10:31] Diversas situações onde coisas que não deveriam acontecer aconteceram, tem várias.
+[01:10:36] Mas relacionar isso com um feedback, uma falta de feedback, já é uma dificuldade para mim.
+[01:10:41] Tenta aí, vê, faça o exercício, porque sempre tem alguma coisa por trás, sabe?
+[01:10:46] Alguma que a gente não consideraria como feedback, não teria esse título feedback, teria, sei lá,
+[01:10:54] uma dica, uma orientação que não foi dada.
+[01:10:57] Tá, ok.
+[01:10:58] Beleza?
+[01:10:59] Aí clareia.
+[01:11:00] Ó, uma coisa interessante.
+[01:11:02] Às vezes, em situações que a gente não acalheu rótulo feedback,
+[01:11:07] seria apenas uma dica que eu deixei de dar e deu bom donar.
+[01:11:11] Ok, aí deu um futebol de dente, deu um dente.
+[01:11:13] Não é necessário dar dente.
+[01:11:15] Pode ser, mas eu acho que o desastro deu.
+[01:11:17] Não, não é necessário.
+[01:11:19] É, assim, eu acho que o negócio ali...
+[01:11:22] O problema é que tem que ser muito grande.
+[01:11:26] Não, pode ser.
+[01:11:27] Não, não.
+[01:11:59] É, a minha casa.
+[01:12:01] É, é pra ver.
+[01:12:02] E esse é um tarantar aqui.
+[01:12:04] Tá, tá todo mundo aqui.
+[01:12:06] Tá construção, e um...
+[01:12:08] Pessoal, tá perdido.
+[01:12:10] É um sistema.
+[01:12:12] Cara, é...
+[01:12:13] É, é...
+[01:12:14] É um só...
+[01:12:15] É, é...
+[01:12:16] 10 minutos, ele.
+[01:12:17] Eu acho que não é bem isso que ele tá querendo.
+[01:12:21] É, eu tô...
+[01:12:23] É, olha só.
+[01:12:25] Eu vou...
+[01:12:26] Não, eu entendo a ideia que você quer fazer, quer fazer falar, mas eu acho que não vai
+[01:12:38] muito de encontro com o que ele quer, porque você quer mostrar, a gente tem uma entremorração
+[01:12:44] que deve ver de várias partes do negócio que funciona.
+[01:12:48] Eu acho que o que ele quer é um pouco diferente, é assim, situações onde a coisa não
+[01:12:53] porque faltou um feedback, faltou uma comunicação, faltou uma ideia.
+[01:13:00] Eu tenho algumas situações para trazer, para a gente discutir,
+[01:13:03] mas eu vou esperar o Vinicius voltar.
+[01:13:07] Alguém tem alguma situação que queira compartilhar?
+[01:13:12] Eu não tenho nada a lembrar de, porque é que a gente tem que discutir.
+[01:13:15] Beleza.
+[01:13:16] É verdade, eu preciso entender o que está acontecendo aqui, velho.
+[01:13:30] Está complicado o trânsito, menina. Isso vai dar certo.
+[01:13:37] O trânsito é complicado na faria lima nesse momento.
+[01:13:41] Então, galera, só essa semana aconteceu uma coisa na minha turma que eu acho que pode se encaixar bem aí, certo?
+[01:13:51] É, eu acho que tem uma colégia que ela tem energia disto, tem um cubão muito complicado e deslógico,
+[01:13:59] e ela precisa de uma cadeira especial ou de uma cadeira mais confortável para assistir as aulas.
+[01:14:05] Se você assistia as aulas nesta cadeira ou nas outras, ela fica três dias sem ver a aula, só deitada com donas botas.
+[01:14:13] Então, por recuperação médica, ela não pode assistir, ficar três horas sentado com uma cadeira normal, precisa de alta de específico, certo?
+[01:14:24] Mas a nossa sala de aula não tem muito de específico, né?
+[01:14:27] Então, o que acontece geralmente é a gente pegar a cadeira da sala vizinha e trazer para a nossa sala.
+[01:14:33] às vezes a cadeira fica lá dias, sei lá, e isso quer daquelas cadeiras gamer mais confortáveis,
+[01:14:40] é a única que fica lá só pra ela, por causa das coisas que estão a ter.
+[01:14:46] O que acontece? Existe o patrimônio, né gente?
+[01:14:50] Aliás, tudo aqui tem o serrinho, né, de patrimônio.
+[01:14:55] Existe uma pessoa responsável para esse público de patrimônio.
+[01:14:59] Então, essa pessoa passou normalmente da sala, viu que a cadeira estava errada, né?
+[01:15:06] E começou a dar bronca no professor da sala, cuja cadeira foi indicada.
+[01:15:11] Então, tem a sala aqui e a sala aqui.
+[01:15:13] A cadeira da sala, o corredível aparece aqui, e a pessoa responsável do patrimônio
+[01:15:18] começou a dar bronca no professor da sala, o que não pode fazer isso, é patrimônio.
+[01:15:23] Quem vai se ferrar?
+[01:15:24] Eu vendo a exaltação sair de sala, como se metia nesse negócio,
+[01:15:37] que ela tem essa dificuldade, ela não pode assistir se não for nessa cadeira.
+[01:15:45] Não, mas tem que ser patrimônio, se não eu vou tomar bronco, não sei o que, tá, e o que ela vai precisar fazer?
+[01:15:53] É oficializar essa mobilização de pacuônia, de um pra outro.
+[01:15:59] Ela tem que mandar um e-mail, tem que avisar, tem que ser aqui, ela começa a arreter e rolar da coisa ali.
+[01:16:05] O responsável aqui foi chamar ela de me deixar mal aí, no veio, então, com essa situação e tal, e tal.
+[01:16:19] Apenas disse que ia me mandar um mensagem e eu não sei onde.
+[01:16:23] Eu já mandei esse mensagem, eu já mandei as coisas.
+[01:16:28] Mas eu não percebi disso.
+[01:16:31] mas a coisa não é linda, a ele resolveram as coisas e na hora não ficava com as pessoas
+[01:16:38] e só que eu não posso falar nada, até me agradecer, eu to até chamado todo mundo pra conversar,
+[01:16:43] porque esclareceu as coisas e não acabou, acabou por a dia, tudo bem, ficou combinado
+[01:16:50] do patrimônio sair e voltar no mesmo dia, no mesmo curso, não guardar mais três
+[01:16:55] o negócio de deixar aquela cadeira lá na sala 2, 3, 4 dias, vai sair e voltar uns dias no dia, mas a noite eu vou conversar com a coordenação de direção.
+[01:17:09] Aí falaram que não é o documento que a Luna mandou.
+[01:17:14] Como é que está a ver o inserir um laudo?
+[01:17:17] Um laudo especificando que ela tem que usar aquele tipo de cadeira que tem aqui para o propósito.
+[01:17:23] Me passaram a ser por uma sola noite e na manhã seguinte eu mandei para a outra.
+[01:17:27] E ela me falou, cara, assim é muito complicado.
+[01:17:30] Eu já mandei um documento com o único dinheiro, não disseram as especificações.
+[01:17:35] Eu vou ser fazendo outra consulta, gastar mais dinheiro para fazer esse laudo
+[01:17:40] Para ter o mínimo que eu preciso sobre a sessão, é foco para a coruja, para voltar a gente.
+[01:17:47] Para procurar uma constituição, se não continuar a gente, e a gente volta tudo para a questão de constituição da sessão.
+[01:17:56] Então, isso eu não tenho, vocês têm alguma outra situação?
+[01:18:01] Não, não tenho.
+[01:18:03] No trabalho, fora da minha faculdade...
+[01:18:07] Não, porque eu...
+[01:18:10] Foi antes de ontem, foi antes de ontem.
+[01:18:14] Foi antes de ontem, porque eu estou na nossa mais baixa da MDA.
+[01:18:19] Ainda não tive nada pra tentar tirar tudo bem.
+[01:18:22] Mas fica alguém recebendo feedback?
+[01:18:24] Ou deixando ver o terceiro feedback do maior que talvez precisasse?
+[01:18:29] Um momento bem prejudiciado.
+[01:18:31] que eu tenho rodado, por exemplo, no trabalho, tento a edita de juízes, essas coisas, só que eles falam que
+[01:18:38] não, faz isso agora, faz outra coisa, faz essa coisa no momento. Tipo, por exemplo, lá no trabalho,
+[01:18:45] tem hora que quando a gente começa lá não tem nada, não tem pouca gente, tem três garçons,
+[01:18:52] o carroção foi para me dar, me dar para o salão, só tem duas mesas praticamente.
+[01:18:57] Aí meio que eu vejo um parado lá, aí eu tento fazer alguma outra coisa a esse.
+[01:19:02] Aí toda hora eu estou me chamando pra outra sala, porque tem coisa pra pegar, é quando eu chego não tem nada.
+[01:19:07] Aí eu sou obrigado a ficar no sala, sem fazer outra coisa pra poder agilizar o processo.
+[01:19:16] Parece haver uma ineficiência no uso do tempo, e nunca te disseram por que tem que ser assim.
+[01:19:23] Porque eu tenho que ficar no salão, só que se não tem nada com você no salão, tipo que você ainda me ajuda, eu aproveito e faço outra coisa.
+[01:19:31] Os pratos, os planos, porque ninguém dobra ou que dobra.
+[01:19:36] Porque às vezes é política da empresa, né? Não tem que ter uma pessoa no salão interpretosa.
+[01:19:40] Ah, tá, então, não tem que fazer isso. Mas já chegou a ver se existe algum motivo, você é só mal organizado.
+[01:19:49] É, a mente aceita que ele foi.
+[01:19:53] Sou só um filho, mas eu vou ficar mais baixo da ele aqui.
+[01:19:59] Mas olha aí, né?
+[01:20:01] É uma sensação, né?
+[01:20:03] É, se você tem um cadeiro, é um bocadinho.
+[01:20:05] É, se você tem um bocadinho, é um bocadinho.
+[01:20:07] Vou acabar o serviço da minha vida.
+[01:20:09] Ó, a gente tem que ser um escanequinho,
+[01:20:11] e se alimentar, você vai ser um escanequinho.
+[01:20:13] Isso é um código.
+[01:20:15] É um código.
+[01:20:18] E quandoiconter holds na própria
+[01:20:22] Mineira que opportunity
+[01:20:30] mais ou menos é só ter muito
+[01:20:32] Xin
+[01:20:34] Falante sobre a situação
+[01:20:37] D mechanisms
+[01:20:39] é isso aí vai relatar o que deveria
+[01:20:41] ter sido
+[01:20:42] information
+[01:20:45] o professor
+[01:21:17] Tivemos o culpado, foi de energia, deu?
+[01:21:27] Estou chovendo, estava.
+[01:21:29] E a gente tem que recertar coisa bem.
+[01:21:33] Mas os condominos já viu a reclamação que eu não vou estar parado.
+[01:21:41] E era uma situação corriqueira.
+[01:21:43] E era uma situação simples.
+[01:21:45] E não houve nenhum feedback para o sindigo, que nós sempre...
+[01:21:54] A gente faz um pequeno relacor e manda para o atrizável.
+[01:21:59] O sindigo é passar os condomínios que todos eles terão atrizados.
+[01:22:04] Naquele tempo, para aquela restritação.
+[01:22:11] e não foi dada a gente de um projeto e houve reclamação dizendo que o equipamento
+[01:22:17] se separava muito tempo.
+[01:22:18] Ah, sim.
+[01:22:20] Então a gente depois teve que se explicar para os vídeos, o sítio, o WhatsApp,
+[01:22:31] todos os polomínios para poder fazer um relatório e enviar para eles dizer um pouco
+[01:22:38] que parou aqui, que não foi culpa nossa e que hoje está depois de 40 minutos resolvido.
+[01:22:50] E toda vez que acontece alguma coisa lá, a gente faz a mesma coisa, prevendo e vai
+[01:23:00] e reclamação. Entendeu? Sim, sim, é, vocês acabaram querendo
+[01:23:09] não, tendo a reputação manchada como empresa porque o síndico não avisou que o
+[01:23:14] problema já estava sendo tratado. É.
+[01:23:17] Inícias.
+[01:23:19] Teu Thiago é com TH?
+[01:23:23] Reclames muito confiúto lá.
+[01:23:27] O que o cara é.
+[01:23:29] É aposentado da Petrovae.
+[01:23:31] Não faz nada.
+[01:23:35] Já tá lá seis anos com o Fih.
+[01:23:37] Sob o nome do Fih.
+[01:23:39] Sob o nome de Salis.
+[01:23:41] Salis.
+[01:23:43] Sob o nome de Geronimo Silvia.
+[01:23:47] Do segundo nome. Lembrei de um...
+[01:23:49] Tranquilo.
+[01:23:50] Sobre o nome, Leandro.
+[01:23:52] Leandro, é bom que vai ser aplicado em rodo.
+[01:23:54] Rosa?
+[01:23:55] Rodo, R-O, D-H-O.
+[01:23:58] Primeiro.
+[01:23:59] Esse é o primeiro sobre o nome.
+[01:24:00] Perfeito.
+[01:24:01] Sérgio Miranda.
+[01:24:03] Vai precisar o nome?
+[01:24:05] Oi?
+[01:24:06] Vai precisar o nome, né?
+[01:24:08] Para colocar lá aqui.
+[01:24:09] Pelo menos não. Sobre o nome.
+[01:24:11] É... Vinícius Isidro.
+[01:24:14] Isidro?
+[01:24:15] Isidro e Isidoro.
+[01:24:16] Isidro e Isidoro.
+[01:24:18] Já me chamaram muito de Isidoro.
+[01:24:23] Sobrenome Tiagão.
+[01:24:24] Sobrenome Tiagão.
+[01:24:25] Vinícius.
+[01:24:26] Vinícius?
+[01:24:29] E tu é Vinícius Tiago?
+[01:24:31] Não.
+[01:24:41] Não, Vinícius.
+[01:24:42] Vinícius.
+[01:24:43] Vinícius.
+[01:24:44] Femíceis. É o Femíceis.
+[01:24:47] É Femíceis.
+[01:24:49] Femíceis.
+[01:24:51] Femíceis.
+[01:24:53] Femíceis.
+[01:24:59] Certo. Tu lembrou de mais uma, Leandro?
+[01:25:02] É. Em Megane tem um sistema de comanda,
+[01:25:05] em que cada comanda é uma mesa.
+[01:25:08] O problema é que quando tem, tipo,
+[01:25:10] as pessoas querem pagar separadamente,
+[01:25:13] ele tem que fazer uma conta na hora de partir.
+[01:25:16] Por que esse negócio de comando foi um fio?
+[01:25:18] Aí, eu sugiro a gente fazer o que ele tinha sugerido uma vez,
+[01:25:23] que podíamos fazer um sistema igual do floresta.
+[01:25:28] O floresta é através de cartãozinho, que cada um recebe individual.
+[01:25:32] Dizemos que mesmo que fosse, os gastões não querem prender.
+[01:25:38] Ele já se acostumou com esse sistema e ele já aprendeu um pouco.
+[01:25:44] Qualquer coisa contrata uns novos, então a fim de aprender.
+[01:25:49] Tá, então teve a situação do Leandro, da mudança do sistema, a situação do Sérgio, mas alguém tem alguma situação?
+[01:25:56] Eu não estou cuidando do tempo.
+[01:26:04] São dois sistemas, um sistema que é só 5 minutos, beleza?
+[01:26:11] Um tipo de sessão e outro sistema que é um problema geral.
+[01:26:17] A pessoa que dá suporte ao sistema, você tem essa direta diretoria.
+[01:26:23] É.
+[01:26:54] Não tem o que está acontecendo, vai trocar o sistema, ninguém falou na série,
+[01:26:58] o Teixe vai fazer agora, vai ter que fazer, vai ter que fazer com isso.
+[01:27:02] Vai ter que ver pra agora um desses sistemas agora.
+[01:27:04] Vem fazer treinamento.
+[01:27:06] Calças, calças.
+[01:27:08] Calças.
+[01:27:10] Aí você tem, né?
+[01:27:12] Foi martelo.
+[01:27:14] O que está acontecendo? O que foi isso?
+[01:27:16] Não, uma apresentação.
+[01:27:18] Uma apresentação.
+[01:27:20] Como assim uma apresentação?
+[01:27:52] A gente tem que ter um direto.
+[01:27:56] É, por isso.
+[01:27:57] É, está aqui.
+[01:27:58] É, passa.
+[01:27:59] Passa.
+[01:28:00] Passa de fã.
+[01:28:02] Mas não, mas é isso.
+[01:28:04] Isso é isso.
+[01:28:05] É isso.
+[01:28:06] É isso.
+[01:28:07] Uma coisa.
+[01:28:08] É isso.
+[01:28:09] É isso.
+[01:28:10] É isso.
+[01:28:11] É isso.
+[01:28:12] É isso.
+[01:28:13] É isso.
+[01:28:14] É isso.
+[01:28:15] É isso.
+[01:28:16] É isso.
+[01:28:17] É isso.
+[01:28:18] É isso.
+[01:28:19] É isso.
+[01:28:20] É isso.
+[01:28:21] todo custo operacional.
+[01:28:51] que era um problema de desvidos necessário.
+[01:28:56] E a gente...
+[01:29:01] Quinta apresentação de vocês, beleza?
+[01:29:03] Última.
+[01:29:04] Último.
+[01:29:09] A gente juntou para uma sala,
+[01:29:11] começaram a botar os pontos,
+[01:29:13] aí o dito chegou,
+[01:29:15] e o dito começou o ano,
+[01:29:16] só o seguinte, cara,
+[01:29:17] me explica o que é que não deve ser feito.
+[01:29:20] Não, cara, não. Não é que não dá para ser um leite, é que o pessoal não gagueja lá na frente, não é?
+[01:29:27] Acabou com o menino do povo e não sei o que fazer, porque ele só tem de uma coisa assim.
+[01:29:31] Acaba de me mostrar o que que não funciona, porque ele vai ter um pouco de...
+[01:29:34] Aham.
+[01:29:35] ...os muitos produtivos.
+[01:29:36] Esse negativo tem que...
+[01:29:37] Com o motivo da...
+[01:29:38] ...esse problema que eles programam é intersexual.
+[01:29:40] ...da transição, né?
+[01:29:41] ...desenhar, vai ser pra lá.
+[01:29:42] Ah, e vou...
+[01:29:43] ...e vai vir a mão, né?
+[01:29:44] Aí, de novo, a gente teve que ir lá.
+[01:29:47] Não, cara.
+[01:29:48] Não é para entregar para o inscrito?
+[01:29:53] Só o oral.
+[01:29:55] Só o oral.
+[01:29:56] Tá.
+[01:29:58] O inscrito é para você, o pedido.
+[01:30:00] É.
+[01:30:01] É exatamente para você.
+[01:30:03] Tá.
+[01:30:04] Tá.
+[01:30:05] Tá.
+[01:30:06] Tá.
+[01:30:07] Tá.
+[01:30:08] Tá.
+[01:30:09] Tá.
+[01:30:10] Tá.
+[01:30:11] Tá.
+[01:30:12] Tá.
+[01:30:13] Tá.
+[01:30:14] Tá.
+[01:30:15] Tá.
+[01:30:16] O que é isso?
+[01:30:18] É isso?
+[01:30:20] Não, mas a gente começa a ararumar.
+[01:30:24] O que é isso?
+[01:30:26] Tá bem, tá bem, tá bem.
+[01:30:28] Tá, tá bem, tá, pá.
+[01:30:32] Cara, só pra ter ouvido tudo isso.
+[01:30:34] Isso eu compro.
+[01:30:36] Isso, eu diria, cara, a gente entende do próprio negócio.
+[01:30:40] Cara, diretorinha na escola de veja,
+[01:30:44] Isso aqui não resolveu saber um número.
+[01:30:48] É um ciclo, tem mais que o que nós vamos fazer.
+[01:30:51] Mas, problema de sala de aula, cartação.
+[01:30:54] Resolver para o cliente, resolver para o cliente.
+[01:30:57] O cliente não tem mais um, dois, três, quatro situações.
+[01:31:02] Tem mais.
+[01:31:03] É só adicionar, mas ele também vai ficar muito bagunçado.
+[01:31:06] É, porque ele não volta na sua.
+[01:31:08] É, por um dia, eu pego, não é?
+[01:31:10] O que deu pra ver, que cada vez, sinceramente, nada disso não vai ser diferente.
+[01:31:14] Não é só que a gente vai ter uma cidade de uma base com muita pessoa,
+[01:31:18] que tem um intermediário e tem uma ponta maior.
+[01:31:21] Essa ponta maior não está repassando direito pra intermediário
+[01:31:24] e o intermediário não repassa a sua ponta maior.
+[01:31:27] Que é, que é, de comum, de situações todas.
+[01:31:32] Todos os quatro, com a plama diferente, estão na pênis.
+[01:31:37] Então, qual que a gente pode usar? Qual que vocês acham mais interação que a gente fez pra apresentar?
+[01:31:44] Caso do governo não drogar o ECO, você se vê eu seri um justificador do ECO.
+[01:31:49] E aí, cara, acessa a Agriã, quem tu acha? Qual a situação?
+[01:32:04] Dessa situação que a gente citou aqui, qual que a gente apresenta?
+[01:32:09] Então, vamos pensar no início.
+[01:32:15] Eu acho que estou pensando aqui, no caso de vocês dois, aqui são um caso eco, tipo assim,
+[01:32:19] são um problema, e a gente está entrando.
+[01:32:21] No caso desses dois, aqui é um problema do 360.
+[01:32:25] Acho que se você for explicar, a gente explicar um erro a uma nova.
+[01:32:29] É, o que que seria o eco?
+[01:32:31] É, a evidência.
+[01:32:35] E já esqueci.
+[01:32:37] E orientação, evidência, correção? Não, não é isso.
+[01:33:07] Não fica para os prédios, não é para a gente autorizar?
+[01:33:09] Aqui, é com a gente que...
+[01:33:11] É com a gente que é com a rendência, consequência, orientação.
+[01:33:15] Isso, evidência.
+[01:33:17] Vamos nos preparando, Dôlio, uma...
+[01:33:19] Beleza.
+[01:33:21] Qual a situação que a gente vai apresentar?
+[01:33:23] Votação.
+[01:33:25] Sério.
+[01:33:26] Adria?
+[01:33:27] Adria.
+[01:33:29] É aqui, eu estou entendendo um andro.
+[01:33:33] O que é a situação mais interessante que a gente apresentou?
+[01:33:37] Eu acho que é melhor...
+[01:33:39] ...tar ficar entre nós ou o que eu já fiz?
+[01:33:43] É aquele que a gente vai apresentar na frente.
+[01:33:45] A gente tem que escolher uma das situações que foram apresentadas.
+[01:33:47] Eu estou vendo cada um, o que é que você acha?
+[01:33:50] É individual, é individual.
+[01:33:52] Eu acho que é mais interessante para o vídeo.
+[01:33:58] Vamos lá passar o vídeo.
+[01:34:00] Então, independente do teu voto ali, foi vencido.
+[01:34:07] É porque eu tomei o pedido aqui.
+[01:34:09] Tá.
+[01:34:10] O que tu não entendeu?
+[01:34:14] É o objetivo dessa atividade aqui, né?
+[01:34:17] É a gente identificar uma situação,
+[01:34:20] poderia, poderia, menor o fígico, né?
+[01:34:24] E, como na luz, o problema ficou maior do que ele deveria ser.
+[01:34:30] Se a gente só ver esse tipo de percumidade certo, o problema não precisa ser tão grande, ou nem teria existido.
+[01:34:37] A ideia é que a gente crie a sua adinante, que é que cada um traz uma situação que ocorre uma vida real, tanto em acadêmica e profissional,
+[01:34:48] ou a vez de ter mesmo um problema particular, e se você talvez tivesse feito diferente, teria...
+[01:34:55] Dois e dois e meio.
+[01:34:57] É...
+[01:34:59] Você não tem nada?
+[01:35:01] Você não tem nada?
+[01:35:03] Você não tem nada?
+[01:35:05] Mas estou vendo isso por aí agora.
+[01:35:07] Estou vendo as sensações que você falou nas faladas.
+[01:35:09] Eu estou vendo todos.
+[01:35:11] É muito barulho.
+[01:35:13] A gente vai ver as situações que você ouviu.
+[01:35:15] Eu acho que...
+[01:35:17] Faltam as folias para apresentar.
+[01:35:21] Eu acho que o que mais aconteceu foi aqui.
+[01:35:23] Se eu for aqui, se torça a trocadoria ele diz isso, porque eu sou um homem bem branco.
+[01:35:33] Professora, a apresentação precisa ser todo mundo fazendo parte da encenação, a gente vem com figurino.
+[01:35:40] Escolha o morador, pra quem tem um script, eles podem colaborar.
+[01:35:46] O script pode ser lido da memória, não é?
+[01:35:49] Cara, se for uma memória muito boa, tu vai ganchar...
+[01:35:52] Memória recente, pode ser?
+[01:35:54] Se você não for ganchar, o inscrito já tá lendo, né?
+[01:35:57] Sim.
+[01:35:58] Então você perdeu, né?
+[01:35:59] Hum.
+[01:36:00] A gente desmontou a inscrição.
+[01:36:02] Vente, Nilce?
+[01:36:03] Não, tá bom.
+[01:36:04] Tá bom.
+[01:36:05] Acho que o teclado não tá funcionando bem, né?
+[01:36:07] Tá bom.
+[01:36:08] Tá bom.
+[01:36:09] Tá bom.
+[01:36:10] Sim.
+[01:36:11] O que é seu orador?
+[01:36:12] O que é seu orador?
+[01:36:13] O que é seu orador?
+[01:36:14] O que é seu orador?
+[01:36:15] O que é seu orador?
+[01:36:16] O que é seu orador?
+[01:36:17] O que é seu orador?
+[01:36:18] Não dupla, mas a depoição dele é maravilhosa, é.
+[01:36:21] É, igual a inserida, Maria, vocês são dos primos.
+[01:36:25] Olha, vamos lá, vamos organizar a apresentação,
+[01:36:27] vai começar, certo?
+[01:36:33] Não, é...
+[01:36:36] Vocês podem escolher o morador,
+[01:36:40] representar a gente,
+[01:36:42] mas a equipe pode, deve ajudar, certo?
+[01:36:45] Traga o roteiro, estrangeir o contexto e muda a veja.
+[01:36:50] Vocês começaram aqui a gerar um consultor de mitagem.
+[01:36:53] A consultor, por que levou uma idade?
+[01:36:55] A consultação, vamos para a nossa...
+[01:36:58] Ah, isso é só de dizer que vocês têm 3 minutos só, tá?
+[01:37:02] Não estou entendendo, deixa eu mirar para vocês.
+[01:37:05] Barulho!
+[01:37:06] O consultor tem 3 minutos só.
+[01:37:09] O rosto que tem que ter, o rosto que tem que ter um inscrito pra não se perder, cara, a vergonha do local.
+[01:37:19] Vamos lá, atenção. Se apresenta, hein.
+[01:37:25] Tá valendo, João? O rosto vai com a Tade buscando a gente se apresentar.
+[01:37:29] Primeiramente, bom dia a todo mundo.
+[01:37:33] Bom dia.
+[01:37:34] eu sou da turma da noite e a gente é ads a gente vai pegar uma situação
+[01:37:42] que aconteceu comigo no meu trabalho atualmente que só aprendi e eu vou
+[01:37:50] ver do jeito que está aqui tá aprendi e encontro produtos com material de
+[01:37:54] limpeza que acabava removendo as validais dos produtos e pouco padrão da ordem
+[01:37:58] os produtos não podem ficar assim as validais catálicos do português de
+[01:38:01] Porém, daria para ser evitado caso na manhã ser na reunião, tivesse explicado que alguns produtos estavam alterados, por exemplo lá, é um veja que estava com um álcool 70% dentro.
+[01:38:14] A gente não sabia, então...
+[01:38:18] Aí, quase eram as partas envolvidas.
+[01:38:21] É um funcionário novado, que eu aprendi isso.
+[01:38:24] E a gerente, caramba, no caso de junho e o põe.
+[01:38:27] O chefe estava pagando o põe, não sei nem o que.
+[01:38:30] E o armador, né, de junho e de gerente.
+[01:38:32] Ele faz o põe.
+[01:38:34] Qual o pacto real no negócio e no produto?
+[01:38:37] Acabou apagando alguns votos e produtos,
+[01:38:40] mas poderia ter escalonado para algo muito pior.
+[01:38:43] Não pensei avisado antes que tinha limpado mais produtos, tinha apagado mais, mais valores e mais validades.
+[01:38:50] A melhor opção para entender isso seria o feedback de ajustes, porque se você vai observar no museu de tutorial hoje,
+[01:38:54] prensação, e o eq, para gerar mais caras visualização e mudanças positivas com o conhecimento,
+[01:39:01] que o primeiro seria o fato de observar, ver o custo de imposto, o custo de material de empresa errado,
+[01:39:06] apagou algumas validades para os produtos de produtos, e não terminar a limpeza pelo produto termado.
+[01:39:12] A gente deveria ter passado os produtos disponíveis e dita exatamente a melhor forma de equipar.
+[01:39:19] Para evitar os possíveis...
+[01:39:22] Eu não poderia ter tentado existir esse meio de instruções adequadas.
+[01:39:26] Acho que faltou uma violência de comunicação.
+[01:39:28] Demais!
+[01:39:30] E assim, a comunicação é vestido com a roupa do feedback.
+[01:39:37] Porque tem estrutura no feedback.
+[01:39:39] É que todo mundo tem uma estrutura na mão agora, não é a comunicação pela comunicação
+[01:39:44] simplesmente, é uma comunicação dentro de um roteirozinho simples que você pode aprender
+[01:39:51] e ensinar.
+[01:39:52] Detade, pessoal.
+[01:39:53] Tudo que vocês estão aprendendo, ensina.
+[01:39:54] Mesmo que você vai dizer assim, eu não vou ensinar com o meu gerente, porque ele
+[01:39:55] vai me demitir.
+[01:39:56] Mas assim, compartilhem com as pessoas ao seu redor, as pessoas que estão no
+[01:40:07] mesmo nível de água. E você, ou dependendo da situação, dependendo da situação você
+[01:40:12] pode ter um gestor humido, super aberto, sabe o que você está fazendo faculdade, você
+[01:40:18] está aprendendo conteúdos que talvez nem ele saiba e muito provavelmente não sabe
+[01:40:22] mesmo. Então, se você tiver essa liberdade, compartilhe com ele, compartilhe com as
+[01:40:28] outras pessoas, porque compartilhando que você aprende, que você mais aprofunda
+[01:40:33] aquilo que você está desenvolvendo agora, nisso que parece uma sala de aula, mas não
+[01:40:38] é isso, tem uma extensão do metade. E aí, ficou uma lição então para vocês?
+[01:40:43] Cara, ficou, porque agora toda vez que eu vou fazer algum serviço, fazer alguma coisa
+[01:40:49] de mim, eu pergunto se tem algum projital no ferrado, né?
+[01:40:52] Qualquer no dia dá pra ver que ele fala que eu não consegui assistir o cheiro do
+[01:40:56] Então eu sou perigoso de assistir isso, né?
+[01:40:58] Tudo é a comunicação, é o truque que ele falou nesse, 60%.
+[01:41:03] Então, obrigado, pessoal, a salva de Fábio do Príncipe.
+[01:41:09] Muito bom, muito bom.
+[01:41:11] É isso eu que não foi tão difícil de identificar porque os problemas são assim,
+[01:41:17] os problemas de comunicação são bons.
+[01:41:20] Bom, os artistas conseguem?
+[01:41:22] Vamos lá.
+[01:41:24] Eu acho que tem um componente também.
+[01:41:27] Olá, bom dia.
+[01:41:30] Bom dia.
+[01:41:31] Quer me dar um bom dia, gente?
+[01:41:33] Bom dia.
+[01:41:34] Eu vou falar de uma parte, mas não vou dar um bom dia.
+[01:41:35] Foi mesmo?
+[01:41:36] Foi, foi.
+[01:41:37] Não?
+[01:41:38] Sim, vamos lá.
+[01:41:39] Por favor, não foi.
+[01:41:40] Eu trabalhava no hotel.
+[01:41:41] Espera aí, o pai representando a galera, né?
+[01:41:43] Ah, eu estou representando a minha equipe, eu me chamo Dama, eles ali é a Beatriz.
+[01:41:48] Enfim.
+[01:41:49] Enfim.
+[01:41:50] Júlio.
+[01:41:51] Os cursos são de?
+[01:41:52] A, B, C.
+[01:41:53] E na noite?
+[01:41:55] Na noite, na noite.
+[01:41:56] Pronto.
+[01:41:57] Então, o problema foi, eu trabalhava no hotel,
+[01:42:00] era um equipe grande, 30 pessoas,
+[01:42:02] e as equipes não estavam se comunicando bem com as outras,
+[01:42:06] e a gerência pegava passada a ordem por equipe,
+[01:42:10] e não havia a fusão dessas informações.
+[01:42:14] Ou seja, um problemão,
+[01:42:17] e a patágua, a renda do local,
+[01:42:19] e todos nós frustrados,
+[01:42:21] porque não conseguimos trabalhar, né?
+[01:42:24] Então, baseado nisso, o nosso script foi, voltamos um tempo,
+[01:42:30] somamos os leaders e vamos resolver.
+[01:42:32] Então, ele faz reunião individual com cada equipe
+[01:42:37] e aí a gente trabalha e o feedback traz antes a sempre, ok?
+[01:42:43] Deixa eu ver aqui como a gente vai ver.
+[01:42:45] E aí, é, vamos lá, melhorar a comunicação,
+[01:42:49] Tem mais acertividade essa comunicação, vai ser passado novos processos e caso,
+[01:42:56] tenha dúvida depois, tudo vai no justi, né?
+[01:42:59] Caso tenha dúvida depois, vai haver um recalibre desses processos, né?
+[01:43:04] E aí qual que a fauna já vem?
+[01:43:06] Se a fauna já vem, se a necessidade se augura, né?
+[01:43:09] E por que que essa defesa não é porra?
+[01:43:13] Por que a gente está passando segurança e essa facilidade
+[01:43:16] para todos os membros de todos os atletas, e é isso.
+[01:43:20] E o que vocês acham dessa possibilidade de usar na prática,
+[01:43:26] o que vocês viram aqui do feedback 360SK, o que vocês escolheram aqui?
+[01:43:30] Vamos usar isso na prática, é possível, tem barreiras, como é o dia-a-dia?
+[01:43:35] Eu acho que ela é muito possível, porque está trabalhando com fatas, né?
+[01:43:41] Eu não vou dizer, eu acho, e do passar atrasa, não, não é um fato,
+[01:43:45] A pessoa atrasou e houve um dano pra ouvir.
+[01:43:50] Então não falta.
+[01:43:52] Então eu não estou dizendo, ah eu acho que vocês não.
+[01:43:55] Chama só na porta.
+[01:43:57] Então é possível usar o roteirozinho dos feedbacks.
+[01:44:01] Por exemplo, você entra o récord, o sandwich de uma forma tranquila.
+[01:44:06] Tranquilo, passando de segurança.
+[01:44:09] você se tivesse que falar em um tom sarcastico, ou em essas cachorras.
+[01:44:15] Usando uma boa linguagem, não é?
+[01:44:17] Pergunta.
+[01:44:18] Alguma pergunta? Vocês podem fazer perguntas, aliás, não diz que podiam, mas podem fazer perguntas.
+[01:44:24] Tranquilo então, exercícios, meninos, meninos, tranquilo.
+[01:44:27] Muito obrigado. Vocês estão bem pontuais.
+[01:44:34] Crio.
+[01:44:37] Obrigado.
+[01:44:40] Vamos lá, se apresenta o Valendo, o primeiro vez de bom dia, né?
+[01:45:01] Bom dia.
+[01:45:02] Bom dia.
+[01:45:03] Bom dia.
+[01:45:04] O exemplo que eu resolvi dar é de uma história que aconteceu comigo, que eu servi o exército na prima de 23
+[01:45:15] e durante o período de serviço, junto, tipo, tava eu e outro rapaz, o Martins, num posto lá que era o posto das câmeras
+[01:45:24] que tava próximo ao portão. E aí eu lembro de um diálogo que a gente teve, porque, assim, é meio móvel
+[01:45:31] mas ele se comopeu as drogas dentro do exército.
+[01:45:34] Aí ele fala a seguinte coisa pra mim, ela é do Sainte.
+[01:45:38] Sair no serviço eu vou te levar para tomar um baseado ali na Beira Mar.
+[01:45:41] Aí eu falei pra ele que isso eu não queria, eu não gostava dessas coisas e enfim.
+[01:45:47] Quando foi... Tipo, isso era um puló das duas.
+[01:45:50] Quando foi umas seis horas da noite, a sargento chamou todo mundo que tava no alojamento pra fora.
+[01:45:55] Era uma mulher. Era uma mulher, a sargento de dia.
+[01:45:57] A ela chamou todo mundo pra fora e falou assim de coisa, com o Martins foi pego, recebeu uma conha no portão da guarda.
+[01:46:04] Ninguém dormiu do serviço, quando foi meia noite, veio o Major, veio o Capitão, veio o General, um cara de puta assim,
+[01:46:14] e o Martins pegou uns 30 dias de cadeira.
+[01:46:18] de cadeia. Aí eu, como era duplo aí amigo dele na época, que você vai encher de tudo
+[01:46:23] hoje juntos, no fundamental, eu poderia ter dado aquele conceito, mas que não fosse o
+[01:46:27] líder, eu era o par dele, mas eu poderia ter dado uma de líder naquele momento.
+[01:46:31] O líder sem trachar. O líder sem trachar, como você disse. E a gente usou o eco.
+[01:46:37] Aqui é o script, né? Martins, eu vivo você recebendo, eu vivo você recebendo
+[01:46:42] macon de soldado em outro serviço. Isso está acontecendo em conto nós dois
+[01:46:45] e eu estou diretamente envolvido nisso, que ninguém dorme aquela noite.
+[01:46:49] Como exemplo, a consequência seria, isso pode trazer consequências disciplinares
+[01:46:53] que também comprometer nós dois durante o serviço.
+[01:46:55] Além disso, se você continuar com isso, o que está a esconder, o que aconteceu,
+[01:46:58] a situação pode ficar ainda mais grave.
+[01:47:00] E a minha orientação que poderia ter dado é,
+[01:47:02] minha orientação é, não aceite, não guarde, não passa o uso disso durante o serviço.
+[01:47:07] E o pior era docinho, foi por exemplo, como docinho.
+[01:47:10] Não guarde isso durante o serviço.
+[01:47:12] Como isso já aconteceu, o correto é não que dá a esconder a situação e comunicar o coelho ao superior responsável.
+[01:47:18] Significa não ler a situação, isso que foi indado.
+[01:47:20] Com o sua dúvida, eu também vou agir para uma outra história, se eu precisar.
+[01:47:26] Aí, como a lição de Moraes tem duas, não os hidrópagas e num caixa que você não está sendo observado.
+[01:47:33] Sempre alguém está olhando para o seu corpo.
+[01:47:35] Sempre, sempre. Perfeito, perfeito.
+[01:47:37] E você vê que a questão do feedback, eu já havia dito isso no exercício, muitas vezes nem tem um rótulo feedback, mas sim um conselho, uma orientação, uma dica, sei lá, um bisu popular, mas que não necessariamente tem um rótulo de feedback, mas que você pode utilizar a estrutura do feedback para fazer a coisa acontecer.
+[01:48:04] Eu acho que você seguir o passo a passo. 1, 2, 3, dá muito certo.
+[01:48:08] Tudo bom, cara.
+[01:48:09] Parabéns pra você não ter acerto.
+[01:48:12] E não ter pensado em que é justificado.
+[01:48:17] Legal. Vamos lá, aqui e aqui.
+[01:48:20] Existe tudo.
+[01:48:22] É isso, história.
+[01:48:30] Histórias novos de bag, é isso aí.
+[01:48:34] Pausalzinho.
+[01:49:07] A gente já existia mais felizes, saíram e a gente estava lá implantando para os funcionários que já eram da outra empresa e migraram para Flamengo.
+[01:49:17] Aí o gestor, ele tinha um problema de, ele tinha vários problemas, mas ele não dava esses feedbacks, não prestava muita atenção nessa questão.
+[01:49:29] E aí o que acontecia é, a gente tinha aqui, a gente já era chamado.
+[01:49:34] Então a gente escalou na pré-equipe, resolveu o problema e o que estava acontecendo era que a equipe não estava pegando os chamados mais complexos.
+[01:49:45] Então ficava lá um chamado de instalação e configuração de certificado digital.
+[01:49:50] 30 minutos na fila, enquanto o chamado de escalonamento e resolução de M2 era pego muito instante.
+[01:49:57] E estava trabalhando muito a SLA que a gente tem que cumprir.
+[01:50:02] Aí, o magistrado chamado, né, vai fazer o desidente, os envolvidos lideram-se e liderados
+[01:50:13] e o impacto demora no atendimento dos chamados mais complexos.
+[01:50:18] Agora, a...
+[01:50:22] Para a resolução, a gente escolheu o ECO para poder trazer a evidência, né,
+[01:50:28] um deno em média, a gente colocou evidências, colocou um deno estimado.
+[01:50:31] 30 de manhã estimado de 20 chamados em média com atendimento, com tempo aberto de atendimento sendo explorado.
+[01:50:37] E a gente colocou as consequências disso, demorando atendimento, clientes e satisfeitos, alta taxa de reclamação, o acumo de atendimento sobre essa demanda.
+[01:50:48] E a gente pensou na solução para poder trazer para ele, dividir e gerar melhor os chamados, distribuir de forma mais igualitária para não falar se qualquer um pega o chamado que quiser.
+[01:51:00] Não vamos estabelecer uma quantidade mínima que cada um vai conseguir pegar.
+[01:51:04] Ah, olha, a gente tem aqui média de trantos chamados.
+[01:51:07] Eu quero que cada um tenha média de cinco chamados dos mais fáceis, dos médios e dos mais difíceis.
+[01:51:13] E não simplesmente cada um pega o que quer.
+[01:51:16] Trazer mais isso de incentivar também para que eles peguem esses chamados um pouco mais difíceis
+[01:51:24] que, quanto mais habitual, fica mais fácil.
+[01:51:28] Igual como você deu o exemplo de essa parte de comunicação,
+[01:51:31] o quanto mais você se comunica mais fácil é para você se comunicar com os outros pessoas.
+[01:51:35] Então, se abre, vai estar mais fácil e vai evitar que tenha essa quantidade de chamados,
+[01:51:42] tendo seu tempo, abre de atendimento, estourados, porque as pessoas acabam rotulando,
+[01:51:47] que é um pouco mais difícil.
+[01:51:50] E a gente escolheu esse eco, não é porque esse tipo de abordagem,
+[01:51:55] por ser um líder, ele está gerando um gym, ele precisa ter esses cuidados, essas observações.
+[01:52:03] Ele já tem essas metas, ele já tem essas observações, todas essas partes que ele precisa analisar,
+[01:52:10] que ele precisa ter em mente. Então, a gente escolheu para ser mais direto,
+[01:52:14] evidenciando mais um problema, trazendo até essas possíveis resoluções para que ele possa aplicar o seu gym
+[01:52:21] e conseguem resolver essa situação, que impacta no atendimento da empresa e em toda a língua assim,
+[01:52:28] que impacta muito na visão da empresa, tem sobre o mercado, o mercado é uma empresa que assim,
+[01:52:35] para coisas fáceis, consegue resolver, mas as coisas difíciles sempre vai ter um problema,
+[01:52:39] vai ser um problema para se resolver.
+[01:52:41] O erro é muito possível, serve pra praticamente tudo e dá resultado.
+[01:52:48] E por ser tratado de um polêmico, por ser tratado de um polêmico, eu acho que é mais direto
+[01:52:54] A gente já sabe que você é bom, você é polêmico
+[01:52:57] Então vamos aqui entre vocês
+[01:52:59] Isso, é muito objetivo
+[01:53:00] E olha, a orientação que eu fiz, reclida
+[01:53:05] Tentem aplicar na prática, na segunda-feira
+[01:53:08] Tentem aplicar entre vocês, entre os pares
+[01:53:11] E se for possível, com o bautinho, com o seu gestorado
+[01:53:15] Eu me pergunto pra você que conhece o Guai.
+[01:53:17] Que... ecologia?
+[01:53:19] Muito obrigado, meninos e meninas de roteiro.
+[01:53:26] Vamos lá? Muito bom, vocês estão muito bem.
+[01:53:34] 3, 2, 1, gravando.
+[01:53:37] Bom dia, gente.
+[01:53:38] A gente tá com um ano que vai dividir, então, entre a manhã,
+[01:53:42] as ADS da manhã, e de noite aqui, de noite.
+[01:53:45] Sérgio, Tiagua Noite, Adrián, Leandro.
+[01:53:48] Menicius.
+[01:53:49] E Jorônimo pela manhã.
+[01:53:51] A gente vai começar com um problema bem perto da gente que da nossa própria sala de aula.
+[01:53:56] A colega não consegue ficar nas cadeiras, tanto essas cadeiras que quanto essas ou aquelas cinzas,
+[01:54:02] por dor na coluna realmente, um andalho que não tem como ficar 3 dias sem assistir a aula,
+[01:54:08] só porque você ficou um dia assistindo a aula e por questão do patrimônio que tem nessas cadeiras,
+[01:54:15] Essa é a que está sendo, essa é a que se quer recorre.
+[01:54:19] O Senak tem todo o sistema de todos os trecos,
+[01:54:23] estamos tudo com patrimônio, inclusive as homens, acho que isso é o que está tudo.
+[01:54:27] Só que ela queria uma cadeira, antes no primeiro semestre a gente estava nas cadeiras gamer,
+[01:54:33] então aquelas cadeiras eram confortáveis para a coluna dela e o que aliviava a situação.
+[01:54:39] O fato de ela ter pegado a cadeira da sala ao lado
+[01:54:42] e ela devolvia a cadeira da sala ao lado subseqüente
+[01:54:46] gerou que quando a pessoa que cuida dos patrimônios foi lá
+[01:54:51] reclamou com o professor que deixou ela pegar a cadeira
+[01:54:54] e num sistema de patrimônio não indicaram
+[01:54:59] o que ela podia fazer para aquela cadeira do patrimônio da sala 1 e para a sala dela
+[01:55:05] E aí ela tinha falado com um, mandou em meio pra outro, foi pra um canto, falou com outro, mandou tudo e nada se resolvia.
+[01:55:14] Tanto que essa semana de novo a cadeira não estava na sala e, subsequente, voltou pra sala do mesmo jeito que ela pegou pra poder assistir a aula.
+[01:55:23] Você não tinha morrindo, desculpa.
+[01:55:24] Amanhã.
+[01:55:27] E todo dia acontecer isso, frequentemente, teve uns semanas que essa cadeira ficou tranquila,
+[01:55:33] teve semanas que essa cadeira sumia e a gente tá no trâneo da sala.
+[01:55:36] É, basicamente eu presenciei essa situação, a gente tem uma colega com o hélio de disco,
+[01:55:41] com o diagnóstico e a cadeira ficava na nossa sala, mas voltou para a sala original
+[01:55:48] e quando nós alunos formularem e pregamos uma cadeira, o responsável pelo patrimônio
+[01:55:53] eu estava dando uma bronca no professor da sala de cadeira falando
+[01:55:56] cara, não pode deixar isso acontecer
+[01:55:58] eu vou tomar uma bronca, eu vou tomar um feedback que não vai ser legal pra mim
+[01:56:03] aí eu vi aquela situação, sai de sala, comecei a conversar com ele
+[01:56:07] tá aqui que tá acontecendo, não, a gente tem uma aluna que tem o diagnóstico de
+[01:56:11] era de disco, se ela assistir um dia de aula nas cadeiras ela fica 3 de cama
+[01:56:16] então ela não pode assistir em outra cadeira, não, mas eu não sei quem
+[01:56:20] Não, vamos chamar a Luna.
+[01:56:21] Chamea Luna pra conversar, porra, não faz isso, cara.
+[01:56:23] Vai em explora aí, não.
+[01:56:25] Vamos resolver isso aqui agora.
+[01:56:26] Chamea Luna conversaram, cara, isso precisa de uma autorização.
+[01:56:30] Precisa de um documento enviado por e-mail
+[01:56:32] para a coordenação e direção.
+[01:56:34] A Luna, eu já enviei esses documentos.
+[01:56:37] Já foi enviado, poxa, o responsável, poxa.
+[01:56:40] O Fred não me passou.
+[01:56:41] Enquanto isso, o professor da outra sala já mantinha mais nada.
+[01:56:44] Viu quase junto, voltou pra sua sala e continuou a sua aula.
+[01:56:48] Então, o atestado já havia sido enviado, mas o responsável não tinha sido comunicado.
+[01:56:54] E provavelmente estava recebendo feedbacks muito duros sobre a sua ingerência sobre o patrimônio
+[01:57:02] e algo que poderia ser resolvido com uma comunicação mais eficiente.
+[01:57:06] Na mesma noite eu falei com a membro da coordenação da direção que falaram que a Rona mandou um atestado,
+[01:57:13] e o que a faculdade exige para questões de acessibilidade,
+[01:57:17] e que isso é muito valorizado, é um laudo.
+[01:57:21] Então, na manhã seguinte, eu entrei em contato com o aluno e me falei,
+[01:57:25] cara, a faculdade precisa de um laudo, que é um atestado e tal,
+[01:57:29] o aluno ficou pé da vida,
+[01:57:31] já paguei uma consulta para fazer esse atestado.
+[01:57:35] Agora, vou ter que fazer outra para pegar o laudo.
+[01:57:39] Até falei para ela, é bem com a Secretaria,
+[01:57:41] ver o que eles precisam de conste nesse laudo,
+[01:57:43] Então você não precisa gastar dinheiro duas vezes, mas ela ficou bastante desmotivada.
+[01:57:48] Poxa, eu não sei nem se vai dar pena quando estiver atentando, se eu vou para uma outra graduação,
+[01:57:54] onde eu posso ficar em casa fazendo ir à dedo com uma cadeira que me dê a condição necessária.
+[01:58:00] Então, nesse caso, voltando à questão do feedback, eu acho que teve talvez um medo da pessoa que cuida do patrimônio
+[01:58:10] de receber um feedback negativo, talvez já exista uma cultura aí que até intimide esse funcionário
+[01:58:21] e faça um que ele propague para outro, porque nessa hierarquia princípio o professor estaria
+[01:58:26] acima e estava recebendo uma bronca, a gente não tem nada a ver com ele, todas as cadeiras
+[01:58:31] não estavam sendo utilizadas, enfim, houve uma falha de comunicação também quando
+[01:58:36] A luna mandou o documento que para ela era suficiente, mas para a instituição não era.
+[01:58:41] Então não houve uma confirmação, não, esse documento é válido.
+[01:58:45] Não, precisa de mais coisa.
+[01:58:48] Então eu acho que foi um embolamento na questão de comunicação que a gente pode
+[01:58:54] ligar com esses feedbacks também.
+[01:58:56] E eu acho que também a pessoa do patrimônio xamal, a pessoa que é fora de aula e
+[01:59:02] tentar constrangê-lo, não é legal nesse momento, talvez um sanduíche.
+[01:59:08] O sanduíche.
+[01:59:09] Tá tudo bem, tá tudo maneiro.
+[01:59:11] Bom, gostei da camisa seguinte, tenta não deixar ninguém tirar as coisas da sala,
+[01:59:15] só for de fúio orientado, isso não vai sobrar pra mim, valeu?
+[01:59:18] Valeu, é isso aí, valeu.
+[01:59:20] O sanduíche.
+[01:59:21] Boa coisa mais direta.
+[01:59:23] Pra aluna, talvez um eco.
+[01:59:25] Não, ó, existem essas políticas da faculdade que tem de ser seguidas, essas normas,
+[01:59:30] Então o documento que você enviado é dessa forma,
+[01:59:34] essa conferência parâmetro.
+[01:59:36] Por ser um canto que tem muitas regras, realmente não tem como ninguém saber de todo,
+[01:59:41] mas ao mesmo tempo, ninguém saber nem para a pessoa que ela puder se direcionar diretamente,
+[01:59:45] como fez o assunto virar uma bola de neve muito maior,
+[01:59:48] poderia ter sido convidido bem mais rápido.
+[01:59:50] Bem mais rápido, né? É a história do feedback.
+[01:59:52] Quando ele não acontece, a tendência é que a bola de neve cresça, cresça, cresça.
+[01:59:58] E vá parar ele em alguém.
+[02:00:01] Ok, então muito obrigado pessoal, então é o ECO e o Soundwish, muito bom, muito bom ECO.
+[02:00:09] Então está provado a pedir que vocês conseguem tranquilamente aplicar tanto um conteúdo dependendo da situação
+[02:00:18] e a ideia é essa, vamos iniciar vocês com ferramentas possíveis de serem aplicadas no dia seguinte.
+[02:00:28] Se você for certo de descopter um bobe-ster, um bobe-ster...
+[02:00:40] Tudo comunique, inclusive, a forma com que você escuta.
+[02:00:43] O que você também faz parte da comunicação?
+[02:00:45] O silêncio faz parte da comunicação.
+[02:00:48] Alguém toca a música aqui?
+[02:00:52] Toca?
+[02:00:53] A qualquer?
+[02:00:54] É o aranha, né?
+[02:00:56] O aranha, né?
+[02:00:57] Não.
+[02:00:58] Se ele é patitura, ele é pauta...
+[02:01:01] Mas você sabe que tem os momentos de...
+[02:01:04] Se não tem os momentos em que você não toca, esses momentos fazem parte da comunicação
+[02:01:12] Então muitas vezes se eu fizer enfatizar alguma coisa, eu não vou gritar, eu vou
+[02:01:18] Quando pare, presta atenção, para a gente falar
+[02:01:26] Se você quiser chamar atenção, o método mais eficaz não é gritar mais alto
+[02:01:33] Os alunos estão tocando fogo na sala, você vai perder, porque tem 30, 40, tem 20 gritando, lá falando
+[02:01:42] E você é um só, então o que você faz?
+[02:01:45] Para, silêncio
+[02:01:47] Eu confirmo a situação do senhor, porque eu já vi alguns professores no meu ensino, vai te fazendo exatamente isso
+[02:01:53] Matava todo mundo que estava conversando instantâneo na aula
+[02:01:56] Ninguém aguenta mesmo, provisor parado, calado, silêncio olhando
+[02:02:00] todo mundo para, demora faz para, funciona. Então a comunicação também é escutar e muitas
+[02:02:12] vezes na escuta você precisa controlar o seu silêncio, para e escuta. Mas não é qualquer escuta
+[02:02:21] que aliás tem diferença entre escutar e ouvir, ouvir é uma questão mecânica, a escuta é uma
+[02:02:27] questão de doação da sua inteligência para ter fato que está sendo errado para alguém.
+[02:02:33] Você realmente quer entender, você não quer só ouvir.
+[02:02:40] Por isso, o poder da escuta é também uma ferramenta silenciosa da liderança, que pode
+[02:02:47] ser um pouco divulgada, mas é muito eficiente, inclusive no feedback.
+[02:02:53] Para você muitas vezes receber o seu feedback, você tem que escutar, parar e escutar.
+[02:02:59] Comunicarem alto ou negro também exige saber escutar com qualidade.
+[02:03:03] Então tem alguns níveis de escuta que eu vou dividir com vocês e depois vocês vão praticar.
+[02:03:09] Nem todo problema chega anunciado.
+[02:03:14] Nem todo problema vem falo.
+[02:03:16] O silêncio de um colaborador pode estar escondendo grande problema.
+[02:03:22] colaborador, super animado todo santo dia, em determinado dia ele chega, o silêncio dele tá
+[02:03:31] comunicando, ele não falou nada, mas o silêncio dele tá comunicando, o silêncio de um olhar,
+[02:03:35] isso tudo, gente, é passivo esse treinado, treinável esses questões, tudo treino.
+[02:03:45] Muito chega, então informa, silêncio de resistência, de não cumprir aquilo, por que ele não tá cumprindo?
+[02:03:51] Será que é porque ele não quer ou ele não está conseguindo?
+[02:03:56] Isso é uma testão da liderança sentida, que, repito, é treinável.
+[02:04:03] Queda de energia, reclamação indireta, ruído entre setores, respostas curtas demais,
+[02:04:11] desmotivação que você está percebendo ali.
+[02:04:14] Por trás disso, essa desmotivação, por exemplo, ou a resposta curta demais, é só
+[02:04:21] só se toma, só fere. Por trás tem alguma coisa, e o líder tem que ter essa capacidade
+[02:04:27] de ir além do que a maioria iria. Você é um líder. E tem a escuta digital. Faltou
+[02:04:36] o régua? Dígita. Tem a escuta digital, escuta digital, que está muito vinculada ao dia a
+[02:04:54] dia da tecnologia. A escuta digital que é o desenvolvedor que parou de ligar a
+[02:04:59] Câmara nas minhas diárias, é um silêncio e não está dizendo nada, mas é um ato que você pode, como líder, interpretar como alguma coisa pode estar acontecendo.
+[02:05:10] Queda de qualidade nos comentários de um trabalho, comentavam bastante, era cedo nos comentários, diminuiu ou parou.
+[02:05:20] É o silêncio, silêncio, silêncio, dizem alguma coisa.
+[02:05:25] Atrasos, silêncios, ou atrasos, não pode dizer desinteresse,
+[02:05:31] mas pode estar revelando algum outro problema que cabe ao líder chamar para uma conversa,
+[02:05:39] um sanduíche, por exemplo, um feedback sanduíche.
+[02:05:41] Crítica dos escrutivos, tons agressivos demais, não era, mas passou a ser agressivo.
+[02:05:48] essas observações, e ó, abrindo paredes aqui, muito importante. Nós, nós não estamos no mundo ideal.
+[02:05:57] A gente viu há muito vulcano, volátil, complexo e certo, os veloz.
+[02:06:03] Mas o líder tem essa missão de ir ao mesmo tempo, de tentar encontrar um tempo para observar,
+[02:06:10] porque senão ele é apenas mais uma operacional graduada.
+[02:06:15] tenta forar a bolha da falta de tempo, escutar é prestar atenção com intenção, por isso que
+[02:06:25] é diferente de ouvir, ouvir é o ouço barulho, escutar é o escuto que ela vai me dizer agora
+[02:06:30] como é assim? grupos de autos, grupos de autos, ah, o que tal? assim, dependendo da mensagem que você vai mandar
+[02:06:53] Um áudio é melhor do que uma escrita, porque no áudio eu consigo captar, por exemplo, o tom da pessoa, que no meu escrita não consigo.
+[02:07:03] Um tom de voz me diz muita coisa, você pode estar dizendo, você pode fazer um elogio pra mim,
+[02:07:11] mas eu percebo que isso acaso não tem um elogio e não uma verdade de forma a querer me elogiar.
+[02:07:21] Mas assim, de modo geral, você tem que saber qual o impacto que você quer gerar com a mensagem.
+[02:07:29] E aí você escolhe áudio ou texto.
+[02:07:32] Se for uma coisa muito direta, já não fez isso.
+[02:07:35] Agora se for um áudio que você quer e assim muito personalizado, tentar personalizar.
+[02:07:40] Não dar áudio novo.
+[02:07:43] Mandar algo para alguém de forma pessoal
+[02:07:48] em tempo, não particular, é um pessoal de amizade.
+[02:07:53] Se você quer só uma pessoa entendendo o que você quer dizer,
+[02:07:57] é melhor você mandar um áudio para aquela pessoa.
+[02:08:00] Em grupo você coloca o risco de diversas interpretações.
+[02:08:05] Porque tem várias formas, várias pessoas
+[02:08:10] com níveis diferentes, capacidades diferentes de interpretar.
+[02:08:13] Quando você manda um áudio no grupo, eu posso interpretar de um jeito, eu posso interpretar de outro
+[02:08:19] Então assim, a mensagem, se ela cai melhor no áudio, pode usar
+[02:08:25] Mas geralmente esse áudio é direcionado e não em grupo
+[02:08:30] Em grupo você corre o risco de ter várias interpretações
+[02:08:34] Quando você direciona só para uma pessoa, aquela pessoa se ela não entender, ela vai te perguntar
+[02:08:40] E no grupo nem sempre as pessoas têm coragem de acordar e dizer, eu não entendi, repete aí o áudio.
+[02:08:46] Geralmente a pessoa pega o áudio e tenta interpretar.
+[02:08:51] Mais ou menos por aí.
+[02:08:54] Se você tem uma mensagem direcionada para alguém, mande, pode mandar o áudio.
+[02:08:59] O texto é alguma coisa mais de genérico.
+[02:09:02] Porque no áudio eu consigo fazer uma interpretação da tonalidade que a pessoa trazendo ali.
+[02:09:07] É que eu sinto que isso é igual a quase como um paciente, que eu mando só para uma família, amigo, mas não se complica por algo, nem para a liberação.
+[02:09:25] Ah, essa geração mais, geração Z, né?
+[02:09:27] É, então, às vezes eu não me uso muito nada, porque eu acho que certas coisas, em áudio, elas ficam melhor explicadas.
+[02:09:35] Muito explicadas.
+[02:09:36] Mas tem essa dúvida, assim, meu Deus, sério, quando a gente morbe, vai ficar mais mal.
+[02:09:41] Então, a mensagem você procura adaptar, se é para uma geração que o áudio causa mais
+[02:09:48] ruídos do que uma boa compensação, opte por não usar o áudio, vai adaptando, vai
+[02:09:55] tentando descobrir qual é a forma de mensagem que se encaixa com cada um dos grupos com
+[02:10:01] quem você se relaciona.
+[02:10:03] Se o áudio é para geração nítica, muito bem, é funcionar, o que funciona é isso.
+[02:10:09] Se não, para geração Z, tente o texto, ou tente alguma outra forma de comunicação essencial.
+[02:10:16] Tem aquele ponto também de que o texto ele é mais fácil de ser consultado na gente do áudio.
+[02:10:21] A gente tem que mandar alguma coisa importante, eu preciso rever aquele...
+[02:10:25] Aqui, para que você faça as coisas atualizadas, você consegue pesquisar mensagens.
+[02:10:28] Isso, é também, tem isso também.
+[02:10:31] E outra coisa, quando você vai mandar áudio?
+[02:10:33] Menos de um minuto, até um minuto.
+[02:10:36] mais do que isso de vida, se você tem uma mensagem grande de vida em pequenos áudios de 30, 40 segundos,
+[02:10:44] é muito mais fácil de você compreender, e repito, a questão da fala, ela entrega muito mais do que o texto,
+[02:10:53] o texto está ali, está dito, está frio, eu não sei se você está feliz, se você está contente,
+[02:10:58] se você está dando um bom dia com o sorriso, ou está dando um bom dia porque é obrigado a dar um bom dia,
+[02:11:03] e no áudio eu já consigo captar.
+[02:11:05] Teu bom dia seco, teu bom dia alegre, realmente desejando bom dia.
+[02:11:10] Então se você quer passar esse tipo de mensagem para além do que você está dizendo,
+[02:11:15] com a tua emoção, usa o áudio.
+[02:11:18] Mas também tenta adequar ao público que você está direcionando aquela mensagem, tá bom?
+[02:11:25] Também eu conheço com frequência que pessoas da geração milênia ou X
+[02:11:31] utilizam mais áudio norte-áudio do que mensagem.
+[02:11:34] É grama.
+[02:11:35] Então você vê isso com frequência.
+[02:11:36] Agora tem uns que...
+[02:11:37] Agora tem dois que passam até cinco minutos.
+[02:11:40] Não, é horrível.
+[02:11:42] É falta de educação e comunicação, entendeu?
+[02:11:46] É só educar.
+[02:11:47] Pronto, a partir de agora é proibido mandar áudio de mais de um minuto.
+[02:11:51] Se a mensagem é longa, tem que ser por áudio, de filha.
+[02:11:54] menos de 1 minuto, até 1 minuto, 40 segundos,
+[02:12:00] faça 2, 3 audios de 40 segundos de 30 segundos.
+[02:12:04] O colega ele falou uma coisa interessantíssima,
+[02:12:07] que é, na hora da busca você não consegue identificar os audios, somente os textos.
+[02:12:11] Então, dependendo da mensagem que você quer,
+[02:12:13] se você quer uma mensagem que possa ser consultada depois,
+[02:12:16] é melhor entender isso.
+[02:12:17] Mas é o pessoal mais velho,
+[02:12:20] gosta dos audios, né?
+[02:12:22] Mas áudio de 5 minutos, não, por favor.
+[02:12:26] Por que você é formador? Por seu valor indícito, a gente acredita assim, é...
+[02:12:30] Varia educação da crítica no particular e no público.
+[02:12:34] Mas como você tem que dar uma crítica ao grupo de pessoas?
+[02:12:38] Você não tem como mandar em qual raio estou?
+[02:12:42] E assim, não faça isso em áudio ou em texto, faça sempre presencial.
+[02:12:46] Sempre. Se é uma crítica ou um elogio ao grupo, a equipe...
+[02:12:51] Não, com certeza. Bota todo mundo na sala e solta o verbo. Mas quando é particular eu com você, eu vou te elogiar, vou elogiar a tua performance aqui na apresentação.
+[02:13:07] Eu quero que todo mundo queira performar como você. Queira o elogio. Todo mundo queira o elogio. Então eu quero que você seja o meu modelo.
+[02:13:19] Agora eu vou te criticar, eu vou te criticar na frente, e repito, isso aí é passeio de ações jurídicas, de levantar questões,
+[02:13:29] o tipo, é humilhado na frente das outras pessoas, é uma denosação da empresa.
+[02:13:33] Mas eu sei que eu já vi casos de pessoas que me usaram de me acordar criticado em grupo,
+[02:13:39] não colocando a pessoa na X, mas direcionando para essa pessoa.
+[02:13:44] Escuta todo mundo, mas todo mundo sabe quem é a pessoa que está sendo atingida.
+[02:13:49] É uma situação grotesca para dizer um mínimo.
+[02:13:54] Mas um líder que se preocupa com o clima organizacional da sua equipe,
+[02:14:00] ele jamais vai fazer um negócio desse.
+[02:14:03] Tem líderes, barra líderes.
+[02:14:05] Tem líderes que é só líder de crachado.
+[02:14:09] E, repito, você não precisa ter uma chancella de gestor, de diretor, de gerente, de coordenador, de supervisor...
+[02:14:20] Para, recebeu ideia, não?
+[02:14:22] A ideança é um posicionamento humano.
+[02:14:27] Posicionamento humano.
+[02:14:28] Percebeu que o que não foi dito também se percebe no escuto.
+[02:14:33] O tom usado, como eu falei para a colégia, dependendo do tom, eu vou saber se a pessoa está feliz ou não.
+[02:14:39] Por exemplo, o contexto e a emoção por trás da frase.
+[02:14:43] Então tem frases do tipo, escutar antes que o problema grite, que depois, muitas vezes,
+[02:14:49] a pessoa literalmente vai gritar o problema na sua cara, na sua frente.
+[02:14:55] É, tem a ver com os equívocos e falsos acusações.
+[02:14:59] Também, tenho certeza, escutar muito antes a palavra de frata e silêncio de ouro,
+[02:15:08] porque o silêncio é mais importante do que a fala
+[02:15:13] tem outros ditados, a gente tem duas orelhas, dois ombios
+[02:15:16] porque a gente precisa escutar mais do que falar
+[02:15:19] os políticos, a minha praia também, precisam escutar mais do que falar
+[02:15:25] quando alguém responde isso, está tudo certo
+[02:15:28] pare, é uma coisa boa
+[02:15:30] e aí galera, está tudo certo aí você vê
+[02:15:32] ah, tudo certo
+[02:15:35] O entusiasmo, quer dizer, está certo mas não está mesmo, não é?
+[02:15:40] Vocês estão respondendo porque está tudo certo, está mesmo?
+[02:15:44] Eu posso me perguntar dependendo do tom da minha escuta para vocês.
+[02:15:49] Se vocês estão dizendo que um entusiasmo ou um estado tudo certo, é uma coisa.
+[02:15:54] Se você está dizendo, protocolarmente, só para dizer para responder,
+[02:15:58] eu posso perceber isso e conversar com vocês depois, conversar individualmente,
+[02:16:04] com pequenos grupos. Aqui pode estar sendo dito nas entrelinhas e isso aqui. Eu posso interpretar assim.
+[02:16:19] Num texto eu não consigo, mas num áudio enviado pra mim eu posso conseguir interpretar.
+[02:16:25] Ó, treino, hábito, ok? De tanto fazer eu fico bom em escutar. De tanto segurar a
+[02:16:32] minha fala pra não querer atropelar os outros, eu fico bom em escutar. Eu sou bom pra escutar.
+[02:16:40] Não há o que fazer mesmo, então está tudo certo, mas eu posso fazer essa leitura, embora a frase seja a mesmíssima na boca de todos vocês, mas vocês podem estar mandando uma mensagem silenciosa, que se eu for treinado eu vou perceber.
+[02:17:00] linguagem corporal de vocês, tá? Vamos terminar logo, vamos achar que o certo, de lisa aí, a via
+[02:17:10] linguagem corporal visual, eu consigo ver, você pode dizer assim, oi Danilo, era um sabe
+[02:17:22] eu posso perceber isso, não tem o olhar, não tem o aperto de mão frouxa, na tua linguagem corporal de distância
+[02:17:29] que tudo é treinável para o mundo.
+[02:17:34] Três níveis de escuta para vocês nunca mais esquecerem a raiva, ok?
+[02:17:39] Três modelos de feedback, três níveis de escuta que a partir de agora vocês vão
+[02:17:45] começar a prestar atenção nos gestores de vocês e em vocês.
+[02:17:51] Escuta superficial, protocolar, enquanto o outro fala eu espero a minha mente,
+[02:17:57] doido para falar, espero de sol, não sei nem o que ele está dizendo a mim,
+[02:18:01] mas eu quero ter a minha vez de falar, estou me segurando aqui, está difícil.
+[02:18:07] Então eu fico cortando a pessoa, todo mundo. É, é, é, é, é um outro produto.
+[02:18:12] É um, é um nível de escuta, é um nível mais rastreiro, mais baixo perto.
+[02:18:17] Tenho um do meio, escuta funcional, quero entender o problema da pessoa.
+[02:18:22] A pessoa está trazendo para mim, ok?
+[02:18:25] Então aqui, eu só preço atenção para responder,
+[02:18:30] Aqui eu estou prestando atenção, eu estou escutando mais no nível de me conectar com um novo problema.
+[02:18:41] E existe uma mais profunda, ou mais elevada, dependendo do ponto de vista, escuta estratégica.
+[02:18:47] Entender o conteúdo e o nosso contexto, me preocupar com a pessoa.
+[02:18:51] Aqui eu estou preocupado comigo, com a resposta que eu vou dar.
+[02:18:56] aqui já melhorei porque eu estou preocupado por um problema para ajudar a resolver e
+[02:19:03] aqui eu melhorei mais ainda porque eu estou preocupado com tudo isso mais a
+[02:19:08] pessoa que aquilo que ela está me retratando está causando normalmente
+[02:19:14] com ela gente não é ser fofo não é ser líder bacana fofo
+[02:19:21] legalzinho isso aqui mexe com a estrutura da empresa mexe com a
+[02:19:26] estrutura da entrega de trabalho que vocês precisam entregar para seus
+[02:19:29] clientes, entre vocês. Enquanto a gente tá discutindo aqui, o mercado lá fobe,
+[02:19:35] isso é real, só dá uma bugada aí, um mercado real lá, tá pedindo socorro porque
+[02:19:43] não tem como suprir a necessidade de liderança aqui, o mercado hoje, a gente
+[02:19:49] acabou de ver uma reportagem no início, não tem gente para liderar,
+[02:19:55] Repito, você não é só líder de cachaça, é a lidança com o posicionamento, você pode ser operacional e posicionador de vida, ok?
+[02:20:06] Então ó, como desenvolverem escultas estratégicas que é a mais elevada dentro de uma equipe, você que ainda não registrou e mais quer ser, ou que vai ser, que o mundo é velóis, é vulcano, é complexo, é um bico
+[02:20:29] você está pedindo que eu tenha tempo. Tudo que eu tenho, não é tempo. Eu não tenho
+[02:20:37] tantos rituais de calibração podem acontecer constantemente para nivelar a tua escuta.
+[02:20:51] E com o tempo que você nem vai perceber, você vai se tornando bom. Não, o hábito, o hábito da
+[02:20:57] comunicação, o hábito de dar e receber feedbacks, o hábito de juntar.
+[02:21:02] Isso, com um tempo, vai melhorando você.
+[02:21:05] Quais são os elementos que constroem a escuta estratégica?
+[02:21:08] Então, ser transparente, de tanto você ser transparente,
+[02:21:12] as pessoas passam a acreditar naquilo que você está fazendo.
+[02:21:15] Recorrência, ó, que o Danilo fala e tem transparência na fala dele.
+[02:21:24] Não é de hoje que eu conheço o cara.
+[02:21:28] Outro elemento que você pode desenvolver,
+[02:21:30] transparência, constância, hábito,
+[02:21:33] Coerência diária. Ser quem você é todos os dias. Claro que temos pontos altos e baixos no seu conteúdo, mas a tua essência continua sendo sempre.
+[02:21:45] Ser transparente, coerência diária. Ser autêntico, querer ser quem você é.
+[02:21:56] E quando você for melhorando, você vai continuar sendo quem você é,
+[02:22:00] Só que melhore a sua versão melhore de você mesmo, não tem falsa humildade, sabe o que é o conceito da humildade?
+[02:22:13] É andado na verdade, isso não é o conceito meu, é de uma monja do século XVI, chamada Teresa da Flora.
+[02:22:21] O caminho da verdade, qual é o caminho da verdade? O meu dado, quando é que eu sou humilde, quando eu sou, quem eu sou.
+[02:22:30] Hoje eu tô no nível, hoje eu tô no outro, e aí eu vou me tornando pessoa melhor, e isso tem que ser dito, mostrado, vivenciado na transparência e da coerência de o maré.
+[02:22:43] Qual a pensidade? Esses três elementos é o fim.
+[02:22:46] E por último, uma constância de tanto fazer, você vai se tornar bom nisso, nisso.
+[02:22:52] E nisso é só repensão, galera.
+[02:22:55] Repensão.
+[02:22:58] Qual é o resultado final da obra?
+[02:23:00] As pessoas vão ter confiança em você.
+[02:23:02] Vão ter confiança na sua entrega,
+[02:23:04] no produto que você entrega.
+[02:23:06] Quando há confiança, as pessoas
+[02:23:08] avisam antes de entrar em crise,
+[02:23:10] porque elas confiam em você.
+[02:23:12] Erros aparecem cedo
+[02:23:14] e as pessoas confiam em você
+[02:23:16] e mostram o caminho
+[02:23:18] que estão tomando que podem estar errados.
+[02:23:20] Ideias surgem,
+[02:23:22] conflitos podem ser tratados,
+[02:23:24] a verdade circula.
+[02:23:26] Então, a palavra gira em torno da confiança que se constrói a longo dia a dia, repensão,
+[02:23:35] intenção, repensão, gira a confiança e as pessoas confiam nos seus livres, as pessoas
+[02:23:41] confiam nos seus livros, mesmo que sejam livres sem caixar.
+[02:23:48] Para exemplificar, para fechar esse nosso tema, escuta superficial, escuta funcional,
+[02:23:54] escuta estratégico.
+[02:23:56] O liderado de vocês diz o seguinte, a área de negócios mudou os requisitos da funcionalidade
+[02:24:02] de novo.
+[02:24:03] Hoje de manhã, vamos ter que refazer o banco de dados.
+[02:24:09] Você escutando essa frase, escuta superficial, escuta funcional, escuta estratégico, escuta
+[02:24:17] estragão.
+[02:24:18] O que o liderado está querendo dizer aqui é ativo.
+[02:24:24] Escuta superficial, o líder só espera a vez dele de falar, você estava só esperando
+[02:24:28] a sua vez de falar.
+[02:24:29] Pois é, o cliente é assim mesmo.
+[02:24:32] Tente afocar e terminar o que é necessário.
+[02:24:35] Ou seja, eu quero só que você resolve o problema.
+[02:24:38] É o escuto, é um nível mais baixo do escuto, mas é um escuto.
+[02:24:44] Será que o teu livro é assim?
+[02:24:46] O livro usa uma escuta superficial,
+[02:24:48] ou ele escuta funcional.
+[02:24:51] Porque a escuta é funcional.
+[02:24:53] Entendi o problema, quantas horas mais você precisa para refazer essa estrutura.
+[02:24:59] Eu estou preocupado com o objeto da questão, o problema é ser resolvido.
+[02:25:06] Para eu posso ir além, como o líder, veja que a resposta é maior do que essas aqui.
+[02:25:18] Por que? Porque dá trabalho ser líder, dá trabalho.
+[02:25:24] É muito mais fácil mandar, muito mais fácil ser chefe, porque ser líder, líder dá trabalho.
+[02:25:32] Estou percebendo a frustração de vocês com esse retrabado, percebendo o lado emocional
+[02:25:38] para que estão...
+[02:25:39] Todo mundo que vai fazer o retrabado tem esse lado emocional atingido, e isso quebra
+[02:25:46] o ritmo da nossa sprint.
+[02:25:48] Vou bloquear a agenda do Product Manager, para blindar o nosso escopo, o que vocês
+[02:25:53] conseguem aproveitar do que já foi feito, então eu estou me colocando no papel não
+[02:26:00] não só de agente de cobrança, mas também de agente que vai colaborar com você.
+[02:26:07] Eu estou preocupado com vocês, além de estar preocupado com o produto, com a entrega
+[02:26:11] com o cliente que é, que todo mundo também espera, claro, mas para o líder, ele tem
+[02:26:16] que se preocupar também com os seus liderados.
+[02:26:21] Três níveis de escuta, superficial, funcional, estratégico.
+[02:26:26] Você pode estar sendo vítima de uma delas ou das três, dependendo do lugar da tua situação.
+[02:26:36] Então, para a gente fechar o nosso encontro, sentadinhos aí onde vocês estão, resgate
+[02:26:42] na memória um incêndio ou um desafio real que você ou a sua equipe levou a um gestor
+[02:26:48] no passado.
+[02:26:49] Coisa recente, que você falou para ele, estava falando para ele, o input, o problema
+[02:26:57] O que foi relatado?
+[02:26:58] Outputs.
+[02:27:00] A resposta dele?
+[02:27:02] Qual foi a frase exata?
+[02:27:03] O atitude que o líder devolveu?
+[02:27:05] E o diagnóstico?
+[02:27:06] O base nessa resposta foi superficial, funcional ou estrategia?
+[02:27:12] Pense aí.
+[02:27:13] Com esse nível de escuta, afetou a sua motivação e resolução do problema.
+[02:27:19] Em cinco minutos, pode ser?
+[02:27:23] Aí de forma individual.
+[02:27:25] Pensa, levanta a mão.
+[02:27:27] Tive um caso, sim, e eu falei isso, e ele estava só esperando falar, falou, não resolveu e ainda me deixou embustiado, penso, mais o que eu estava.
+[02:27:38] Pensa aí, cinco minutinhos.
+[02:27:40] Beleza?
+[02:27:42] Para ver a torna da escuta.
+[02:27:44] Se vocês estão sendo vítimas de qual modelo de escuta?
+[02:27:49] Vaca!
+[02:27:51] Fonte!
+[02:27:52] Obrigado!
+[02:27:54] Nunca tive gente de todo lugar.
+[02:27:56] Em que nível está o seu gesto?
+[02:28:00] Talvez não for professora, professora ou em alguma outra situação.
+[02:28:08] Quem lembrar já pode levar a sua mãe.
+[02:28:11] Você pode procurar algum...
+[02:28:13] Não precisa de cem notícias.
+[02:28:15] É, é, é isso.
+[02:28:17] É só pra queimar memória.
+[02:28:19] O objetivo, né?
+[02:28:24] Foi um caso recente.
+[02:28:26] Eu acredito que eu tenho, não.
+[02:28:28] A gente sabe o que é mesmo.
+[02:28:33] Embora, gente.
+[02:28:35] Tem, cara.
+[02:28:37] Ah, mas é uma ficha de péssimo.
+[02:28:43] Ah, eu pego uma ficha de péssimo.
+[02:28:45] Enquanto vocês pensam que já vão preenchendo o primeiro estímulo do presente.
+[02:28:49] Que custo de você de novo?
+[02:29:43] Obrigado!
+[02:29:45] E, você vai ter outro alo de outro sábado?
+[02:29:55] Vai ter outro sábado, Marius. Você vai valer assim.
+[02:29:59] Agora a gente vai fazer.
+[02:30:01] Alguém pode?
+[02:30:05] Bom, ótimo, manda aí.
+[02:30:06] Foi, a situação foi um orçamento errado, a gente passou um agrado que foi muito, assim,
+[02:30:12] até que besta, que dava pra gente ir pro PCD, era um orçamento que passava um pouco de milhares,
+[02:30:18] só que aí acabou que, lá na aula, a gente passou os cursos sem reais.
+[02:30:23] Então, tipo, era aqui, voltou um zero, voltou muito, é, aí, aí a gente começou a fazer depressões.
+[02:30:30] Aí, no outro dia, foi muito depressões, foi mais de três mil coisas.
+[02:30:34] Aí outro dia a gente ficou, pô, tá errado isso aqui.
+[02:30:38] A gente foi confiante para passar pelo nosso Anxés, né?
+[02:30:41] E ela tipo, não, para a produção, a gente vai entrar em contato com o cliente e vamos tentar aqui.
+[02:30:47] E aí a gente ficou, acho que a gente foi na parte certa, é que ela leu o cenário, viu?
+[02:30:53] E pode, o que aconteceu, entendeu?
+[02:30:56] Aí chamou a gente para conversar, aí ele leu, ela conseguiu entender o lado do nosso, com o erro.
+[02:31:03] e falou com ele também e acabou de, tipo, fizeram uma coisa lá
+[02:31:08] um valor disponibilizou, o que faltava, o que tinha já em prestes
+[02:31:14] Então, estratégico, leio o cenário, as entrelinhas, tem vista a questão de se preocupar com vocês também
+[02:31:21] que bom, é que sorte, então tá com a líder com a boa escuta
+[02:31:27] quem mais? Mais um
+[02:31:29] Opa, você só pode só colocar a perra para o dia a dia da próxima, por favor
+[02:31:33] Por favor, João.
+[02:32:06] que, quando a gente voltava da pauta, tinha muito chamado
+[02:32:11] e que seria interessante fazer uma gestão de escala de pauta.
+[02:32:15] Aí, ele me embatia em escuta, né?
+[02:32:19] Não eu estou com o problema do que cada escuta funcionava, mas...
+[02:32:25] Assim, pronto, foi superficial porque na realidade ele leu o cenário,
+[02:32:34] Ele ouviu a oposição, ele falou que consertava a questão, mas até agora eu não sei o que tem que falar.
+[02:32:43] Tá ainda em desenvolvimento essa escuta.
+[02:32:48] Tem uma escuta superficial, focou no próprio prazo, não ignorou o contexto.
+[02:32:54] Ou então o máximo ele ficou aqui, na funcional.
+[02:32:57] Ou extremamente no problema, está trabalhando mentalmente,
+[02:33:00] mas não te deu um retorno também dessa questão.
+[02:33:04] Mas do humano, porque a gente está falando de intervalo, pausa, não é?
+[02:33:12] Não tem esse contexto também das necessidades das pessoas que estão envolvidas.
+[02:33:17] Não só na solução do problema em si.
+[02:33:20] É, mas é porque eu vejo que eu confere.
+[02:33:23] É aquela história de assim, ah, vou tirar pausa, vamos comigo, vamos tomar um café aqui, e aí pronto.
+[02:33:29] Fico quente lá, amigo.
+[02:33:31] É, vai sentir.
+[02:33:34] Bom, no meu caso, hoje em dia eu trabalho no setor de sobremesa do Coco Bangu, né?
+[02:33:41] E não é empresa pequena, é um sistema de gestão melhor, né?
+[02:33:46] E no dia, pela manhã, eu fui nos avisado que teria um evento, sei lá, tarde,
+[02:33:53] que a gente precisaria fazer com cinco pudins grandes.
+[02:33:56] E esse tipo de evento, ele precisa ser avisado com pelo menos dois a um dia de antecedência
+[02:34:01] para a gente conseguir organizar toda a produção no dia.
+[02:34:03] o que não foi feito, entregado para a gente o produto de manhã
+[02:34:06] e aí a gente foi, deixou o chefe, tal e ele mandou só um famoso Sevira
+[02:34:11] em manhã, manhã, macadão com seus problemas
+[02:34:14] e é o tipo de coisa que se a gente desce realmente o gás, a gente conseguiu entregar
+[02:34:18] mas é, acabou de motivar a pessoa a fazer a produção, né?
+[02:34:23] Falta isso aqui, né?
+[02:34:24] Foi um dos casos, sabe?
+[02:34:26] Superficial, tipo esse tipo dele mesmo
+[02:34:28] E isso é um algo muito comum que acontece
+[02:34:31] Ele te escutou, mas focou no prazo que ele tem, um tão prazo é como você.
+[02:34:37] Eu quero só que no oral, a história pronta como que vai fazer, não vai fazer, não importa.
+[02:34:43] Você sente, você percebe, as pessoas percebem, o clima organizacional vai lá, trabalha.
+[02:34:50] Mas alguém fica com um exercício...
+[02:34:56] Posso, professor, só o último antes.
+[02:34:58] Opa, tá certo.
+[02:35:00] Aula de programador de sistemas.
+[02:35:02] Geralmente as pessoas entram no curso e elas têm alguma dificuldade até entender o básico de lógica de programação.
+[02:35:10] Às vezes as pessoas têm mais dificuldade, outras têm menos.
+[02:35:13] Mas todo mundo que está ali está com o objetivo, com o sonho de transição de carreira ou entrar na área.
+[02:35:18] Na última turma que eu tive, os alunos entraram com certa dificuldade, mas eles vão nivelando ao longo das aulas.
+[02:35:27] das aulas, mas um aluno em particular tinha muita, muita, muita dificuldade, mas era um
+[02:35:32] cara muito esforçado.
+[02:35:33] Ele chegava toda noite com a mão suja de graxa, trabalhando na oficina de moto, você
+[02:35:38] via as pálpebras dele pesada, mas mesmo assim ele tentava participar, perguntar a toma
+[02:35:44] parte da aula e depois da segunda UC, depois da segunda de curricular, quando eu vi que
+[02:35:51] realmente ele estava ficando para trás em relação aos colegas, eu fui a minha
+[02:35:56] supervisora falar para ela, olha, tem um aluno que tem uma dificuldade muito grande,
+[02:36:00] eu estou tentando ver meios em sala para ver se ele consegue acompanhar, mas ele
+[02:36:05] está ficando cada vez mais para trás. A minha supervisora ouviu, falou,
+[02:36:11] seguinte, tu vai chamar ele para conversar com a nossa parte pedagógica
+[02:36:16] aqui, tal dia. E aí naquele dia a pessoa responsável não estava, aí no outro dia
+[02:36:23] dia que a supervisora pediu para ele ir na sala, ele não tinha ido à aula, no final
+[02:36:31] ele ficou com um score, ele não conseguiu adquirir as competências necessárias para
+[02:36:39] terminar o curso, até porque ele foi ficando cada vez mais desmotivado, tomando e andando
+[02:36:44] e ele não recebeu o auxílio no momento apropriado, então eu acho que a escuta
+[02:36:50] A minha supervisora, nesse caso, foi muito funcional.
+[02:36:53] Vamos resolver que a minha pra cá, esse procedimento, faz assim.
+[02:36:58] Seguiu o script.
+[02:37:00] Exato.
+[02:37:01] E nesse caso, a estratégia seria muito mais eficiente, porque é uma pessoa, nas condições
+[02:37:08] dele, especificamente para o vídeo.
+[02:37:11] Então, são níveis de escuto que envolvem vidas.
+[02:37:15] Não só funções, cartos.
+[02:37:19] A gente está falando de pessoa, eu sempre tenho um pensamento assim, a tecnologia da qual vocês fazem parte, são construtores dela, são pensadas, construídas, desenvolvidas para quem?
+[02:37:33] Pessoas, não é? São as pessoas que vão usar a tecnologia? São pessoas.
+[02:37:38] O último recadinho, na verdade é um reforço daquilo que eu já havia dito, é aqui ó.
+[02:37:47] Vocês tiveram acesso a pasta, estudar, aula presencial, tiveram acesso, já tem acesso, já podem acessar a aula de hoje, esse material que vocês viram aqui pra vocês não esquecerem mais sobre feedback e escuta, o desafio prático e o material de estudo, o material de estudo.
+[02:38:11] Esse material de estudo está na pastinha que você estiver acessando naquele primeiro
+[02:38:15] ganho.
+[02:38:16] Quem pode colocar no grupo, pode colocar no grupo, coloca no grupo porque fica mais fácil,
+[02:38:23] né?
+[02:38:24] Então é essa pasta aqui, ó.
+[02:38:26] Essa pastinha que vocês tiveram acesso no início da aula, eu não sei de presença
+[02:38:32] aqui, mas a pastinha, você vai clicar nessa pastinha, tem todo o material que vocês
+[02:38:37] viram hoje lá nessa pastinha, aqui nessa pastinha.
+[02:38:42] e tem esse material de estudo que é o último que eu quero apresentar para vocês.
+[02:38:47] Lembra do livro que eu falei, da liderança exponencial lá da Cachola,
+[02:38:53] capítulo 3, que a gente vai utilizar a parte teórica dele
+[02:38:57] para formular as nossas questões de aulas e tal,
+[02:39:00] que eu falei que é super tranquilo de ler, pronto.
+[02:39:03] Aqui é um resumo do capítulo 3.
+[02:39:08] Se você não tiver tempo para ler da Cachola,
+[02:39:11] isso aqui já ajuda bastante então você ficar por dentro do assunto e é o leitura
+[02:39:18] tranquilheirma e eu ainda faço o seguinte
+[02:39:23] tem um contexto tecnológico dentro da liderança
+[02:39:27] vocês vão falar, a gente vai falar sobre liderança aqui
+[02:39:30] muito o que vocês ouviram da minha fala está aqui
+[02:39:35] e tem um contexto de vocês
+[02:39:37] um contexto da liderança
+[02:39:39] ok?
+[02:39:40] Então, muito obrigado por vocês terem vindo no Pleno Sabadão de Moeana
+[02:39:44] e a gente se vê no próximo conto.
+[02:39:46] Nós se vê por aí.
+[02:39:48] Aumenta.
+[02:39:50] Perdeu.
+[02:39:51] Vou mostrar aqui.
+[02:39:52] Vou mostrar aqui.
+[02:39:54] Acho que é...
+[02:39:56] Vai estar o treino, mas em cada sala.
+[02:39:59] Você sabe que todo gestor...
+[02:40:02] Ele quer que eu falar da artesaneta, né?
+[02:40:04] Não pode ser.
+[02:40:06] Tá bom, né?
+[02:40:07] Todo gestor...
+[02:40:09] A segunda educação industrial é da Superficial.
+[02:40:18] Primeiro todo é...
+[02:40:20] Muita gente.
+[02:40:22] Você encontra níveis diferentes.
+[02:40:24] Pouco, né?
+[02:40:25] Pouco, cara. Você fez fuma maconha na praia, chama, né?
+[02:40:28] É pra...
+[02:40:29] Ou alguém pode ver lhe, sabe?
+[02:40:33] É coisa assim.
+[02:40:34] Possibilidade, né?
+[02:40:35] É, né?
+[02:40:36] O que é a atleta?
+[02:40:41] Valeu, gente.
+[02:40:42] Valeu, pessoal.
+[02:40:45] Esse ninguém aqui, ó.
+[02:40:47] É, é uma evolução.
+[02:40:48] Então...
+[02:40:49] É, é uma evolução.
+[02:40:51] Que há uma evolução.
+[02:40:52] Há uma maioria.
+[02:40:53] Não tinha isso.
+[02:40:54] Claro que não.
+[02:40:56] Tá bem.
+[02:40:57] O 719, o 718.
+[02:40:59] O 718.
+[02:41:00] O 718.
+[02:41:01] O 718.
+[02:41:02] É muito diferente.
+[02:41:03] O 718.
+[02:41:04] É muito diferente.
+[02:41:05] O 718.
+[02:41:06] Mas vai ter que se neguiar, vai fazer um blague histórico.
+[02:41:12] E como é que se ameco é isso?
+[02:41:17] O Iá, agora.
+[02:41:19] O Iá agora está sendo praticamente um ador estratégico agora.
+[02:41:26] Tiago?
+[02:41:27] Tiago.
+[02:41:28] Não é?
+[02:41:29] Não tem resposta.
+[02:41:31] Não tem resposta.
+[02:41:33] É mais um funcional. O usta-trespa-lhe está com a resposta do tesouro, bota no IACRIO!
+[02:41:39] O usta-trespa-lhe está de volta. Ele é imediatamente.
+[02:41:43] Mas isso não significa que é o ideal.
+[02:41:46] É o mais rápido, mais fácil.
+[02:41:49] É o IACRIO.
+[02:41:51] É o ideal.
+[02:42:05] para você arreglar, para você testar, repase o que deu certo, o que não deu certo,
+[02:42:11] potencializar o que deu certo, encerrando, encerrando.
+[02:42:16] A gente tem que dar uma pausa no tamanho nível, no nível.
+[02:42:19] Planos de 10% de cento.
+[02:42:29] 900% de chá.
+[02:42:31] 3,200% de chá.
+[02:42:33] Eu não sou governador, eu sou diretor, eu sou o gerente. Eu sou um líder senhor, vocês podem ser eleitos, eu acho que eu posso sair.
+[02:42:41] Então assim, quando a justa falou de 90% desses livros aí, em Paca Naiais, mais gente sabe que tem uma elite, uma elite nunca é meu verde, uma elite é 10% de 100% de 100% de 100%.
+[02:42:57] E se a gente quiser, a gente pode fazer parte dessa elite.
+[02:43:01] Não, eu vou fazer uma parte.
+[02:43:02] Preciso.
+[02:43:03] Porque é, na verdade, um mercado que também precisa de gente assim, que pensa.
+[02:43:08] Não só exigir.
+[02:43:10] Aí a gente viu a reportar nada.
+[02:43:12] 30% não tem reposição.
+[02:43:17] E é de intolerância enorme.
+[02:43:19] Exatamente por causa disso.
+[02:43:20] A gente precisa de uma comunidade.
+[02:43:21] Já é no início com um pessoal que evita conversas.
+[02:43:25] que são pessoas mais isoladas.
+[02:43:27] Eu pudesse ficar na minha casa e trabalhar.
+[02:43:30] Ah, isso é entregar e me conversar.
+[02:43:32] Com ninguém pra mim seria o que eu...
+[02:43:34] É o que eu quero.
+[02:43:35] É o que eu quero.
+[02:43:37] A gente se força pra ser o que eu...
+[02:43:40] É o que eu quero.
+[02:43:45] Fazer energia.
+[02:43:47] Exatamente.
+[02:43:48] Gastar tripo da energia pra ter esse dia...
+[02:43:51] Eu não posso te falar mais.
+[02:43:54] Mas é verdadeira ser transparente, como eu mostrei que tem que ser transparente.
+[02:43:59] Mas eu estou em mesmo lugar.
+[02:44:02] Mas eu tenho que me lentar para sair disso porque é necessário sair disso.
+[02:44:13] Doi, é incomodado.
+[02:44:18] Ele foi, sim, mas também porque eu acredito nisso pra peça, tem que ser.
+[02:44:28] Beleza?
+[02:44:29] Valeu.
+[02:44:30] Valeu, sim, sim, para que ela tenha estado de estrada.
+[02:44:34] Aproveita o material.
+[02:44:36] Foi.
+[02:44:44] Valeu, irmão.
+[02:44:58] E as bordas da luna e o gestão.
+[02:45:03] Em píginhas de novo, a porcaria e sua imprensa, eu quero um alunço.
+[02:45:14] Eu vou ter um píginho.
+[02:45:16] Eu vou numir a faculdade.
+[02:45:19] Muito bem.
+[02:45:20] 430.
+[02:45:47] Eu sou pela dinâmica.
+[02:45:51] Para os elevadores.
+[02:45:52] Sairão de píginhas de bala.
+[02:45:58] Eu tenho peste.
+[02:46:01] Eu tenho peste.
+[02:46:04] Ali depois de torno, eu tenho peste.
+[02:46:06] Eu tenho peste.
+[02:46:07] Eu tenho peste.
+[02:46:09] Eu tenho peste.
+[02:46:16] Quando, ok?
+[02:46:18] Vou finalizar o que eu queria ser.
+[02:46:21] O meu juro tem...
+[02:46:23] O meu, cara.
+[02:46:24] Tem...

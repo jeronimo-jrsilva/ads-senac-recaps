@@ -1,0 +1,108 @@
+# =====================================================================
+# ARQUIVO DE ORIGEM : Voz 261020_081409.m4a
+# DATA DA GRAVAÇÃO  : 2026-10-20 (Ter)
+# HORÁRIO (INÍCIO-FIM): 08:14:09 -> 10:15:49 (2h01m)
+# CLASSIFICAÇÃO     : AULA_ADS_MANHA | POO (Prof. Tibério)
+# ENTRA NO PORTAL?  : SIM
+# =====================================================================
+
+[00:00:00] Não tem muito tempo de corrigir, né?
+[00:00:02] Aí em cima da minha mesa eu chego...
+[00:00:04] O meu caso é que eu vejo que são leves, certo?
+[00:00:07] Eu acho que até seja possível corrigir.
+[00:00:10] Seja, eu acho que tem um tempo limpo.
+[00:00:12] Tranquilo. Mais ou menos que está esperando por aqui.
+[00:00:15] É, ou não sei o que foi.
+[00:00:17] Ah, então... ah, é aí que se preparou.
+[00:00:20] Mas ele fez uma carta, não tem isso todo mundo, hein?
+[00:00:22] Ah, então é um prêmio muito bom.
+[00:00:28] Bom, a ver o que é que passou?
+[00:00:30] A gente agora vai falar de tantos tirados.
+[00:00:33] Alas de noite e de noite.
+[00:00:36] Vem um pai de manhã e um pai de noite.
+[00:00:41] Alas de noite e um que?
+[00:00:44] O que é isso aí?
+[00:00:46] O que é isso aí?
+[00:00:48] Alas de noite e de noite.
+[00:00:52] O que é isso aí?
+[00:01:01] Alas de noite e de noite.
+[00:01:02] Como é que está com vocês com as tiradas?
+[00:01:04] Estou tranquilo?
+[00:01:05] Estou tranquilo?
+[00:01:06] Estou tranquilo?
+[00:01:07] Estou tranquilo?
+[00:01:08] Eu acho que a gente não viu uma pedidação ainda, você já sabe. Ficou na teoria.
+[00:01:12] É, por enquanto é a teoria.
+[00:01:14] Eu acho que sim, sabe.
+[00:01:15] Mas é melhor o jeito que pessoa.
+[00:01:20] Mas aí no caso...
+[00:01:26] Vou tirar isso.
+[00:01:28] Quem eu posso dizer?
+[00:01:31] Você, por exemplo, quer saber como você vai trabalhar com ele na aplicação?
+[00:01:35] Ah, vai ser igual pra toda a aplicação, não.
+[00:01:38] A aplicação vai ter um indouto diferente, né?
+[00:01:41] E vocês têm que se acostumar também para ver o que acontece.
+[00:01:44] Eu sei bem certo de vocês.
+[00:01:46] Se você vai trabalhar com um sistema estruturado,
+[00:01:51] com um bando de tassafina, é bem fácil.
+[00:01:54] Você vai ter atividade, jogar na tabela e pronto.
+[00:01:57] O problema é que você vai trabalhar com um PL.
+[00:01:59] Com um PL, você vai trabalhar com isso, você não vai colocar um tabelo.
+[00:02:04] Você vai ter um objeto.
+[00:02:06] Então você vai ter que desmontar um objeto.
+[00:02:09] para entrar no banco de dados.
+[00:02:11] Vocês sabem que o banco de dados nada mais é que um
+[00:02:15] vários tapelas relacionados
+[00:02:17] o chafo de maio, o chafo secundário,
+[00:02:20] o chafo sangueiro,
+[00:02:22] a comunicação entre eles,
+[00:02:24] o modelagem do banco de dados
+[00:02:26] Pega para vocês
+[00:02:31] Qual a maior vantagem do Java?
+[00:02:33] A maior vantagem?
+[00:02:39] O que é que vocês estão fazendo?
+[00:02:41] Está além da mágica de pão
+[00:02:43] Essa seria o nome, não é?
+[00:02:45] mas ele basicamente é só rodar em qualquer lugar
+[00:02:49] só quer me perguntar
+[00:02:52] vou dar uma pergunta
+[00:02:54] o que vocês acham que é ser mais mais no rótulo do que é lugar?
+[00:03:08] beleza, mas o que é que é a compilação que é propótico?
+[00:03:12] já pensaram nisso?
+[00:03:23] ler cada tipo
+[00:03:26] o que acontece?
+[00:03:28] o ser mais mais quando ele vai ser compilado
+[00:03:30] é...
+[00:03:34] vai ter um valor, o int vai ter um valor para ele, vai ter um valor para a fonte, e o que
+[00:03:44] vai definir isso? vai ser o próximo da máquina, então quando você vai copilar não sei mais
+[00:03:54] mais, essa máquina não tem muito memória, não suporta essas coisas todas, quer refaz?
+[00:04:02] Eu pego o int e em vez de voltar como se fosse 32-bits, pode ser 6-bits.
+[00:04:06] Mas aí o que acontece?
+[00:04:09] O cara que programou o código, pegou o...
+[00:04:11] Tava com a máquina mais potente, né?
+[00:04:13] E voltou lá como se o int fosse 32-bits.
+[00:04:17] É quando chega na máquina dele que é menor,
+[00:04:21] mas aí...
+[00:04:23] Essa conversão que você mais faz,
+[00:04:29] essa ultimização para aquela máquina,
+[00:04:32] dá problema.
+[00:04:35] Então, o que acontece?
+[00:04:37] ele basicamente vai ser, vai dizer assim, entre 32 bits, ah mas a máquina não suporta, não estou perguntando
+[00:04:47] vai ser 32 bits e acabou a história, é forte, é 64, bom, mas isso é uma máquina a suportar
+[00:04:56] em mãe e mãe, não é?
+[00:05:02] Ah, eu só olhava assim, não, você achava que tava vendo o que?
+[00:05:05] Você já viu que tava vendo o que?
+[00:05:07] Ah, eles são basicamente...
+[00:05:09] Você achava que tava vendo o que?
+[00:05:16] Basicamente que acontecem.
+[00:05:18] Eles configuraram, isso era assim.
+[00:05:22] Tipo inteiros, não tem ponto fruto antes, essas coisas?
+[00:05:25] Tem dois bits, um ponto fruto antes, você vai ter...
+[00:05:29] Você vai ter bits, né?
+[00:05:31] Você vai, por exemplo...
+[00:05:34] Você vai, por exemplo, configurar uma raiz quadrada. Você bota lá a raiz quadrada, o que é isso aqui?
+[00:05:45] E manda ele configurar a raiz quadrada de 2, de 4, que é 2.
+[00:05:50] Quando você se aputar a int e o R4, na hora de você aputar para fazer a raiz quadrada,
+[00:05:57] você já vai entender que pode quebrar e vai transformar no fosto.
+[00:06:02] Então, vai transformar a int para 0.4, 0.0.
+[00:06:08] O que está acontecendo é que eles não têm o período de quebrar.
