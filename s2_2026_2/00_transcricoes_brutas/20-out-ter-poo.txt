@@ -6,103 +6,1567 @@
 # ENTRA NO PORTAL?  : SIM
 # =====================================================================
 
-[00:00:00] Não tem muito tempo de corrigir, né?
-[00:00:02] Aí em cima da minha mesa eu chego...
-[00:00:04] O meu caso é que eu vejo que são leves, certo?
-[00:00:07] Eu acho que até seja possível corrigir.
-[00:00:10] Seja, eu acho que tem um tempo limpo.
-[00:00:12] Tranquilo. Mais ou menos que está esperando por aqui.
-[00:00:15] É, ou não sei o que foi.
-[00:00:17] Ah, então... ah, é aí que se preparou.
-[00:00:20] Mas ele fez uma carta, não tem isso todo mundo, hein?
-[00:00:22] Ah, então é um prêmio muito bom.
-[00:00:28] Bom, a ver o que é que passou?
-[00:00:30] A gente agora vai falar de tantos tirados.
-[00:00:33] Alas de noite e de noite.
-[00:00:36] Vem um pai de manhã e um pai de noite.
-[00:00:41] Alas de noite e um que?
-[00:00:44] O que é isso aí?
-[00:00:46] O que é isso aí?
-[00:00:48] Alas de noite e de noite.
-[00:00:52] O que é isso aí?
-[00:01:01] Alas de noite e de noite.
-[00:01:02] Como é que está com vocês com as tiradas?
-[00:01:04] Estou tranquilo?
-[00:01:05] Estou tranquilo?
-[00:01:06] Estou tranquilo?
-[00:01:07] Estou tranquilo?
-[00:01:08] Eu acho que a gente não viu uma pedidação ainda, você já sabe. Ficou na teoria.
-[00:01:12] É, por enquanto é a teoria.
-[00:01:14] Eu acho que sim, sabe.
-[00:01:15] Mas é melhor o jeito que pessoa.
-[00:01:20] Mas aí no caso...
-[00:01:26] Vou tirar isso.
-[00:01:28] Quem eu posso dizer?
-[00:01:31] Você, por exemplo, quer saber como você vai trabalhar com ele na aplicação?
-[00:01:35] Ah, vai ser igual pra toda a aplicação, não.
-[00:01:38] A aplicação vai ter um indouto diferente, né?
+[00:00:00] Não tem muito tempo para corrigir, né?
+[00:00:02] Aí em cima da minha mesa, eu chego com a minha coisa de competição lá, eu acho que até seja possível corrigir.
+[00:00:10] Seja, eu acho que eu tenho um tempo livre.
+[00:00:13] Tranquilo, mas o Anso que está aqui se espalhou por lá.
+[00:00:16] Ah, o Anso que foi?
+[00:00:17] Ah, então é aí que ele se preparou?
+[00:00:20] Mas ele fez um alfato, não tem isso todo mundo?
+[00:00:23] Ah, ele tem um treino de bolo.
+[00:00:29] Então, a gente já passou? Então, podia.
+[00:00:32] A gente agora vai falar de tanto de dados.
+[00:00:34] Hala de noite e de noite.
+[00:00:39] Eu venho para de manhã e para de noite.
+[00:00:43] Hala de noite e um quê?
+[00:00:45] Um receito.
+[00:01:00] Escuta, você deu uma severa hoje a noite.
+[00:01:03] Como é que está com vocês com uma tirada?
+[00:01:06] Ah, assim, né?
+[00:01:08] Você falou que a gente não viu uma acudidação ainda, assim.
+[00:01:11] A gente só ficou na teoria.
+[00:01:13] É, por enquanto é a teoria.
+[00:01:15] Eu acho que sim, sabe.
+[00:01:16] Mas o...
+[00:01:18] É mais da urgência do que pessoa.
+[00:01:21] Mas aí no caso...
+[00:01:26] Uma tirada.
+[00:01:28] O que eu posso dizer?
+[00:01:31] Você, por exemplo, quer saber como você vai trabalhar com ele na aplicação.
+[00:01:35] Ah, vai ser igual para toda a aplicação, não.
+[00:01:38] A aplicação vai ter um resultado diferente, né?
 [00:01:41] E vocês têm que se acostumar também para ver o que acontece.
 [00:01:44] Eu sei bem certo de vocês.
-[00:01:46] Se você vai trabalhar com um sistema estruturado,
-[00:01:51] com um bando de tassafina, é bem fácil.
-[00:01:54] Você vai ter atividade, jogar na tabela e pronto.
-[00:01:57] O problema é que você vai trabalhar com um PL.
-[00:01:59] Com um PL, você vai trabalhar com isso, você não vai colocar um tabelo.
+[00:01:47] Se você vai trabalhar com um destranho estruturado...
+[00:01:51] Bando de dar as fila, é bem fácil.
+[00:01:54] Você pega aquele dado, joga na tabela e pronto.
+[00:01:56] Isso aí, né?
+[00:01:58] O problema é que você vai trabalhar com um PL.
+[00:02:00] Com um PL você vai trabalhar com isso.
+[00:02:02] Você não vai colocar o dado também.
 [00:02:04] Você vai ter um objeto.
-[00:02:06] Então você vai ter que desmontar um objeto.
-[00:02:09] para entrar no banco de dados.
-[00:02:11] Vocês sabem que o banco de dados nada mais é que um
-[00:02:15] vários tapelas relacionados
-[00:02:17] o chafo de maio, o chafo secundário,
-[00:02:20] o chafo sangueiro,
-[00:02:22] a comunicação entre eles,
-[00:02:24] o modelagem do banco de dados
-[00:02:26] Pega para vocês
-[00:02:31] Qual a maior vantagem do Java?
-[00:02:33] A maior vantagem?
-[00:02:39] O que é que vocês estão fazendo?
-[00:02:41] Está além da mágica de pão
-[00:02:43] Essa seria o nome, não é?
-[00:02:45] mas ele basicamente é só rodar em qualquer lugar
-[00:02:49] só quer me perguntar
-[00:02:52] vou dar uma pergunta
-[00:02:54] o que vocês acham que é ser mais mais no rótulo do que é lugar?
-[00:03:08] beleza, mas o que é que é a compilação que é propótico?
-[00:03:12] já pensaram nisso?
-[00:03:23] ler cada tipo
-[00:03:26] o que acontece?
-[00:03:28] o ser mais mais quando ele vai ser compilado
-[00:03:30] é...
-[00:03:34] vai ter um valor, o int vai ter um valor para ele, vai ter um valor para a fonte, e o que
-[00:03:44] vai definir isso? vai ser o próximo da máquina, então quando você vai copilar não sei mais
-[00:03:54] mais, essa máquina não tem muito memória, não suporta essas coisas todas, quer refaz?
-[00:04:02] Eu pego o int e em vez de voltar como se fosse 32-bits, pode ser 6-bits.
-[00:04:06] Mas aí o que acontece?
-[00:04:09] O cara que programou o código, pegou o...
-[00:04:11] Tava com a máquina mais potente, né?
-[00:04:13] E voltou lá como se o int fosse 32-bits.
-[00:04:17] É quando chega na máquina dele que é menor,
-[00:04:21] mas aí...
-[00:04:23] Essa conversão que você mais faz,
-[00:04:29] essa ultimização para aquela máquina,
-[00:04:32] dá problema.
+[00:02:06] Então você vai ter que, tipo, desmontar um objeto.
+[00:02:09] É só um objeto para colocar em um quantidade.
+[00:02:12] Vocês sabem que uma quantidade nada mais é que um...
+[00:02:15] Um estado com várias tabelas relacionadas, né?
+[00:02:18] O cháfo de maio, o cháfo secundário, né?
+[00:02:21] O cháfo do serangeiro.
+[00:02:23] Comunicação entre eles, né?
+[00:02:25] Modelagem do banco de dados.
+[00:02:31] Pega para vocês.
+[00:02:33] Qual é a maior vantagem do java?
+[00:02:39] Uma vantagem?
+[00:02:41] Além da mágica do clão.
+[00:02:43] Essa seria uma segurança, né?
+[00:02:45] Não, é segurança, né?
+[00:02:47] Mas ele basicamente é só rodar em qualquer lugar.
+[00:02:49] Isso aqui é me perguntar.
+[00:02:53] Qual que é que vocês acham que é...
+[00:02:55] ser mais normal em qualquer lugar?
+[00:03:07] Ok.
+[00:03:09] Beleza, mas...
+[00:03:11] Qual que é que é a compilação que é propótico?
+[00:03:13] Já pensaram isso?
+[00:03:17] Tem a ver com o sistema operacional de cada binário, né?
+[00:03:23] Em cada tipo, né?
+[00:03:25] O que acontece?
+[00:03:27] O ser mais mais, quando ele vai ser compilado...
+[00:03:33] Cada tipo vai ter um valor 1.
+[00:03:35] O int, né?
+[00:03:37] Ele vai ter um...
+[00:03:39] Vai ter um valor para ele, né?
+[00:03:41] Vai ter um valor para a fonte, né?
+[00:03:43] E o que é que vai definir isso?
+[00:03:47] Vai ser o próximo da máquina.
+[00:03:51] Então, o próximo...
+[00:03:53] Quando você vai compilar lá, não sei mais mais.
+[00:03:55] Você vai olhar e dizer...
+[00:03:57] Essa máquina não tem muito memória.
+[00:03:59] Não suporta suscrito todo, né?
+[00:04:01] O que é que eu faço?
+[00:04:03] Pego o int e vei de voltar como se fosse 32-bits
+[00:04:05] para ter 6-bits.
+[00:04:07] Mas aí, o que é que acontece?
+[00:04:09] O cara que programou o código,
+[00:04:11] pegou o...
+[00:04:13] Tava com uma máquina flotente, né?
+[00:04:15] E voltou lá como se o int fosse 32-bits.
+[00:04:19] É que quando chega na máquina dele que vem novo,
+[00:04:21] vai dar erro.
+[00:04:27] Essa conversão, que você mais faz,
+[00:04:29] essa ultimização para aquela máquina
+[00:04:31] dá problema.
 [00:04:35] Então, o que acontece?
-[00:04:37] ele basicamente vai ser, vai dizer assim, entre 32 bits, ah mas a máquina não suporta, não estou perguntando
-[00:04:47] vai ser 32 bits e acabou a história, é forte, é 64, bom, mas isso é uma máquina a suportar
-[00:04:56] em mãe e mãe, não é?
-[00:05:02] Ah, eu só olhava assim, não, você achava que tava vendo o que?
-[00:05:05] Você já viu que tava vendo o que?
-[00:05:07] Ah, eles são basicamente...
-[00:05:09] Você achava que tava vendo o que?
-[00:05:16] Basicamente que acontecem.
-[00:05:18] Eles configuraram, isso era assim.
-[00:05:22] Tipo inteiros, não tem ponto fruto antes, essas coisas?
-[00:05:25] Tem dois bits, um ponto fruto antes, você vai ter...
-[00:05:29] Você vai ter bits, né?
+[00:04:37] O Java, ele basicamente...
+[00:04:41] Vai dizer assim...
+[00:04:43] É int 32-bits.
+[00:04:45] Ah, mas a máquina não suporta, não estou perguntando.
+[00:04:47] Vai ser 32-bits e acabou a história.
+[00:04:49] É flotente, 64-bits.
+[00:04:51] Bom...
+[00:04:53] Mas isso é uma trans suportar.
+[00:04:55] Em mãe e mãe, não é?
+[00:04:57] Pode.
+[00:04:59] O Java...
+[00:05:01] Aí você diz...
+[00:05:03] Ah, só o Java assim, não.
+[00:05:05] Você acha que está vendo um trigo?
+[00:05:07] É, ele basicamente...
+[00:05:09] Você acha que está vendo um trigo?
+[00:05:15] O que acontece?
+[00:05:17] Eles configuraram...
+[00:05:19] Isso era assim.
+[00:05:21] Tipo, inteiros.
+[00:05:23] Não tem ponto frutuante, essas coisas?
+[00:05:25] Aquilo é 2-bits.
+[00:05:27] Quando frutuante, 64-bits.
 [00:05:31] Você vai, por exemplo...
-[00:05:34] Você vai, por exemplo, configurar uma raiz quadrada. Você bota lá a raiz quadrada, o que é isso aqui?
-[00:05:45] E manda ele configurar a raiz quadrada de 2, de 4, que é 2.
-[00:05:50] Quando você se aputar a int e o R4, na hora de você aputar para fazer a raiz quadrada,
-[00:05:57] você já vai entender que pode quebrar e vai transformar no fosto.
-[00:06:02] Então, vai transformar a int para 0.4, 0.0.
-[00:06:08] O que está acontecendo é que eles não têm o período de quebrar.
+[00:05:33] Aqui é...
+[00:05:35] Você vai, por exemplo,
+[00:05:37] configurar um...
+[00:05:41] uma raiz patada.
+[00:05:43] Você bota lá a raiz patada, isso é o quê?
+[00:05:45] E manda ele configurar a raiz patada de 2-bits.
+[00:05:47] De 4-bits.
+[00:05:49] É 2-bits.
+[00:05:51] Quando você suportar a int, o R4,
+[00:05:53] na hora que você suportar
+[00:05:55] para fazer a raiz patada,
+[00:05:57] o Java vai entender que pode quebrar
+[00:05:59] e vai transformar em frutuante.
+[00:06:01] Então, vai transformar a int
+[00:06:03] para 0.4.
+[00:06:05] 0.0.
+[00:06:09] É um período de quebrar.
+[00:06:11] São poucasções automáticas
+[00:06:13] que o Java pode noisar o erro.
+[00:06:17] Isso era um propósito que o Java
+[00:06:19] era mais moderno?
+[00:06:21] Vendo bem que o Java não é moderno.
+[00:06:23] O Java é mais tecnológico.
+[00:06:27] Existe atuações dele, mas...
+[00:06:29] O que acontece?
+[00:06:31] Onde é o meu coração?
+[00:06:33] Pergunta-se mesmo.
+[00:06:35] Se eu não tivesse regras,
+[00:06:37] como é que eu programaria?
+[00:06:41] (...)
+[00:06:43] (risos)
+[00:06:45] Mas como é que você fazia as coisas
+[00:06:47] se não tivesse essas regras?
+[00:06:49] Você...
+[00:06:51] Eu tenho que dizer lá,
+[00:06:53] escreva aí,
+[00:06:55] passa isso.
+[00:06:57] É, para mim, suprimente
+[00:06:59] essa coisa desse
+[00:07:01] casting automático, porque
+[00:07:03] o Java escreve uma reclamação
+[00:07:05] constantemente é essa.
+[00:07:07] Ele fica tentando te ajudar
+[00:07:09] colocando o tipo da variável
+[00:07:11] para
+[00:07:13] você não declarar o tipo da variável.
+[00:07:15] Você pode até declarar,
+[00:07:17] mas ele muda.
+[00:07:19] E o Java, ele é bem conhecido
+[00:07:21] porque é estrutura bastante rígida.
+[00:07:23] E aí ele faz essa conversa.
+[00:07:25] É só para ele fazer, mas só porque a função
+[00:07:27] que você está usando,
+[00:07:29] vai parando com o fluxo.
+[00:07:31] O fluxo do fluxo não enche.
+[00:07:33] É só para evitar dor de cabeça.
+[00:07:37] Isso é uma desculpação.
+[00:07:39] Mas o
+[00:07:41] santo-verde certo
+[00:07:43] existe uma cadeira
+[00:07:45] que você tem que assistir mais
+[00:07:47] para a xararata que se chama
+[00:07:49] "conciladores".
+[00:07:51] A condição para você fazer essa cadeira
+[00:07:53] é você passar por as pessoas de cantadores.
+[00:07:55] E a condição pra você usar
+[00:07:57] não ter que fazer cantadores
+[00:07:59] é você fazer
+[00:08:01] eletrônico penal, lógico e digital.
+[00:08:03] Tem que fazer esse percoço por lá.
+[00:08:05] Tem que fazer percoço todo dia
+[00:08:07] para chegar no conclador.
+[00:08:09] Está dentro de concladores.
+[00:08:11] Eu não tinha que fazer
+[00:08:13] para ter as comunicações.
+[00:08:15] Mas eu quero ação
+[00:08:17] para fazer.
+[00:08:19] Eu disse que
+[00:08:21] a cultura era fechinha.
+[00:08:23] Eu pensei aqui na coragem.
+[00:08:29] Os concladores
+[00:08:31] são basicamente todas essas regras
+[00:08:33] de programação
+[00:08:35] que tem que passar
+[00:08:37] elas vêm do conclador.
+[00:08:39] Então, geralmente,
+[00:08:41] são complicadas.
+[00:08:49] Você já viu de perto
+[00:08:51] um ônibus puxando um fio de energia
+[00:08:53] ou a tampa da ventilação?
+[00:08:55] E energia?
+[00:08:57] Sim.
+[00:08:59] Eu posso ver que a energia é mais alta.
+[00:09:01] O que ele está puxando é que ele escuta
+[00:09:03] e deve ser
+[00:09:09] O que eu vi hoje, mas eu desespero um pouco.
+[00:09:11] Eu não sei o que eu consegui
+[00:09:13] subir e levantar a tampa.
+[00:09:15] Mas eu acho que é o maior choque
+[00:09:17] eu vi.
+[00:09:19] Eu não sei se o que eu estou segurando
+[00:09:21] um ônibus para os eletrocesitários.
+[00:09:23] O ônibus é o mais seguro
+[00:09:25] para tentar entrepastar de raio
+[00:09:27] e colocar um fio de energia.
+[00:09:29] Eu não sou um fio, um ônibus.
+[00:09:31] É uma coisa.
+[00:09:33] É um ônibus faro.
+[00:09:35] Qualquer energia fica ao externo.
+[00:09:37] Se você ver, você está vendo um ônibus
+[00:09:39] que nunca chega.
+[00:09:41] Eu vi todo aquele bala que eu ouvi.
+[00:09:43] Realmente, era um fio arrastando
+[00:09:45] o teto do resto.
+[00:09:51] O que ele está fazendo hoje o dia?
+[00:09:53] Ele está trabalhando com memória.
+[00:09:55] Está rindo e lá.
+[00:09:57] O que a gente vai fazer agora?
+[00:09:59] A gente vai fazer uma informação entre os dados
+[00:10:01] para o disco.
+[00:10:03] É basicamente um banco de dados que a gente vai trabalhar.
+[00:10:05] O que é o banco de dados que a gente vai usar?
+[00:10:07] O java permite que você adivinhe vários.
+[00:10:11] Uma indicação minha.
+[00:10:13] É skelite.
+[00:10:15] Por que é skelite?
+[00:10:17] Porque é mais leve.
+[00:10:19] E pode ser usado dentro do próprio java.
+[00:10:21] Precisa criar essas coisas.
+[00:10:23] Ah, como é que ele funciona dentro do próprio java?
+[00:10:25] É basicamente um banco de dados
+[00:10:27] embarcado
+[00:10:29] em bebê.
+[00:10:31] É basicamente
+[00:10:33] roda lá dentro.
+[00:10:35] Não vai precisar tudo.
+[00:10:37] A gente já estava tanto
+[00:10:39] preocupado em criar.
+[00:10:41] Se fosse um MariaDB
+[00:10:43] ou um iSKL.
+[00:10:49] Não, e você tem que fazer.
+[00:10:51] Você vai ter que procurar alguns passos.
+[00:10:53] Por isso, você vai ter que roda lá
+[00:10:55] para ativar lá.
+[00:11:09] O que é que você acha de gente muito bom de dados?
+[00:11:11] Acho que não precisa nem dizer.
+[00:11:13] Acho que não precisa de persistência.
+[00:11:15] Quando eu falo de persistência,
+[00:11:17] que é a coisa inteira?
+[00:11:19] Pessistência.
+[00:11:21] É no sentido de que?
+[00:11:23] Tira uma ação.
+[00:11:25] Os dados persistem mesmo.
+[00:11:27] Estão dando uma transligada, energia
+[00:11:29] portada.
+[00:11:31] Se você recuperar aqueles dados.
+[00:11:33] Só existe
+[00:11:35] persistência em bom status?
+[00:11:37] Não.
+[00:11:43] Você anota o telefone na sua agenda.
+[00:11:45] Pode ser arquivo,
+[00:11:47] essas coisas, né?
+[00:11:49] A gente está de lado do IXR.
+[00:11:51] Você escreve na bola persistência, né?
+[00:11:53] Anota aqui no banheiro e apague.
+[00:12:01] Agora existência eu não sei se existe.
+[00:12:03] Existe?
+[00:12:07] Existe.
+[00:12:09] Existe?
+[00:12:11] A distância eu só ia aprender.
+[00:12:13] Existe status?
+[00:12:15] Não sei se você existe.
+[00:12:17] Talvez não.
+[00:12:21] ABI que chama conto SQL.
+[00:12:23] Quem é que já viu falar dela?
+[00:12:27] SQL.
+[00:12:29] Eu vou começar por antes aqui.
+[00:12:31] ABI.
+[00:12:33] O que é ABI?
+[00:12:35] Você sabe o que é ABI?
+[00:12:37] ABI.
+[00:12:39] Eu vou despedir pela aula do Aéreo.
+[00:12:41] É um código.
+[00:12:43] Tem que desculpar as coisas assim.
+[00:12:45] É o passemão de comunicação de sistemas.
+[00:12:49] É.
+[00:12:51] Só existe uma ABI?
+[00:12:53] Existe várias, né?
+[00:12:55] Quando você quer um sistema,
+[00:12:57] um sistema ideal, então é ABI.
+[00:12:59] Mais detalhe, ABI é o que os racas mais procudam?
+[00:13:01] O que acontece?
+[00:13:03] O...
+[00:13:05] Os racas mais procuros são fálidos, né?
+[00:13:07] Você é ativar a ABI.
+[00:13:09] A vontade de uma ABI é o quê?
+[00:13:11] É basicamente a educação.
+[00:13:15] Quem aqui já ouviu falar de WebScript?
+[00:13:19] É isso.
+[00:13:21] WebScript é você que coletar os dados
+[00:13:23] na internet, né?
+[00:13:25] Existem duas formas de você fazer isso.
+[00:13:27] A educada,
+[00:13:29] aqui é a maior educada.
+[00:13:31] Desculpa.
+[00:13:33] A educada é como se utilizam API.
+[00:13:35] É como se eu estivesse te dando
+[00:13:37] as chaves
+[00:13:39] para as portas corretas.
+[00:13:41] Então eu te dou a chave.
+[00:13:43] Ah, quero o dado do usuário.
+[00:13:45] Eu uso API, vou lá e pego essa formação.
+[00:13:47] Ah, eu quero o...
+[00:13:49] O que ele escreveu no comentário.
+[00:13:51] Na API você chama lá a função,
+[00:13:53] mas ele vai lá e pega esses comentários
+[00:13:55] que o usuário fez, né?
+[00:13:57] Então, a API é como se fosse
+[00:13:59] as chaves que a empresa
+[00:14:01] tinha disponibilismo para você pegar lá.
+[00:14:03] Exemplos, a API do YouTube.
+[00:14:05] Para você pegar os comentários,
+[00:14:07] que são no vídeo.
+[00:14:09] É ficar visualizações.
+[00:14:11] Não.
+[00:14:13] A do YouTube, acho que
+[00:14:15] dependendo do grau,
+[00:14:17] tem gratuito.
+[00:14:19] Mas a maior é a parte.
+[00:14:21] Aí, depende, vamos dizer o...
+[00:14:23] Tem gratuito também.
+[00:14:25] Tem um site...
+[00:14:27] Onde é a parte?
+[00:14:31] Abrei aqui a moço.
+[00:14:33] Tem um site.
+[00:14:35] Tem a parte de atividade.
+[00:14:37] Não, não.
+[00:14:39] O que acontece?
+[00:14:41] As pagas
+[00:14:43] provavelmente são
+[00:14:45] do Google
+[00:14:47] ou do
+[00:14:49] da Meta.
+[00:14:51] Por que são pagas?
+[00:14:53] Você tem Facebook?
+[00:14:55] Tem Instagram?
+[00:14:57] Tem WhatsApp?
+[00:14:59] Você parou alguma coisa por eles?
+[00:15:01] Da onde é que eles tiram dinheiro
+[00:15:03] para não ter aquela estrutura toda?
+[00:15:05] Não. Não é do ar.
+[00:15:09] Você acha que...
+[00:15:11] Não é do ar.
+[00:15:13] Exatamente.
+[00:15:15] O que você gera lá dentro
+[00:15:17] o que você gera lá dentro
+[00:15:19] é basicamente as informações que eles querem.
+[00:15:21] E ele não vai disponibilizar este graça.
+[00:15:23] Então, você tenta o...
+[00:15:25] Por exemplo,
+[00:15:27] "Ah, quero, tenho uma marca lá
+[00:15:29] que faço venda para o Facebook."
+[00:15:31] Então, você tenta o...
+[00:15:33] "Falso venda para o Facebook Instagram
+[00:15:35] e quero acompanhar a minha situação."
+[00:15:37] Então,
+[00:15:39] o ideal é o quê?
+[00:15:41] Ter a API da Meta
+[00:15:43] pegar os dados
+[00:15:45] para ver se vai ficar a situação
+[00:15:47] da minha marca.
+[00:15:49] Eles não vão dar este graça.
+[00:15:51] Ou você assina um plano
+[00:15:53] ou assina uma propaganda
+[00:15:55] e essas coisas.
+[00:15:57] Para a empresa já é mais pago.
+[00:15:59] É mais voltada para isso.
+[00:16:03] A API é basicamente
+[00:16:05] os bons modos.
+[00:16:07] O problema é o outro mau modo.
+[00:16:09] Que é o WebScript.
+[00:16:13] Aqui...
+[00:16:15] Simplesmente,
+[00:16:17] você configurou uma máquina
+[00:16:19] para abrir o navegador
+[00:16:21] e sai raspando
+[00:16:23] tudo do computador.
+[00:16:25] E isso sim é mais modo.
+[00:16:27] É como você invadi-se
+[00:16:29] a casa da pessoa e sai se arrastando todas as informações.
+[00:16:33] Dependendo do valor da cidade
+[00:16:35] que você vai sair isso,
+[00:16:37] que é uma máquina que você vai fazer isso.
+[00:16:39] Só para considerar um ataque.
+[00:16:45] Sim?
+[00:16:47] Sim.
+[00:16:49] Você está aqui.
+[00:17:35] No caso, eu vou vir geralmente...
+[00:17:37] Eu achei muito hipocrisê.
+[00:17:39] E eu estava com um peito de paga.
+[00:17:43] Eu peguei um pouco.
+[00:17:45] O que aconteceu? Você já acordei umas coisas?
+[00:17:47] Não.
+[00:17:49] Eu não consegui.
+[00:17:51] Eu cheguei ontem.
+[00:17:53] Eu cheguei em casa para fazer as coisas que o pai não piga.
+[00:17:55] Eu não prego.
+[00:17:57] Eu achei em casa em 9 horas.
+[00:17:59] Então, eu jantei para aqui.
+[00:18:05] Não pode.
+[00:18:07] Não pode fazer o web.
+[00:18:15] Se e não.
+[00:18:17] Você pode.
+[00:18:19] Desde que seja do cabo.
+[00:18:21] Quando o dinheiro é do cabo, o que?
+[00:18:23] Existe lá, por exemplo.
+[00:18:25] Existe tipo...
+[00:18:27] Um reclamo aqui, vai observar.
+[00:18:29] Não está o robot.
+[00:18:31] Descontre o testempo.
+[00:18:33] Ele vai mostrar o que permite, o que não permite.
+[00:18:35] E você também pode fazer tipo...
+[00:18:37] Comfiguração por tempo.
+[00:18:39] O problema é o quê? Quando você configura uma máquina.
+[00:18:41] Quando você faz um...
+[00:18:43] Quando você em C.
+[00:18:45] Quando você está testando o loop.
+[00:18:47] Você fizer o contacto de 100.
+[00:18:51] Né?
+[00:18:53] Quanto tempo demorou para a máquina fazer o contacto de 100?
+[00:18:55] 100 de segundo.
+[00:18:57] Aí tem uma imagem.
+[00:18:59] Você mudou uma máquina para fazer as páginas de dados em um site.
+[00:19:01] Como é que vai ser também?
+[00:19:03] Ele sai e vai um time.
+[00:19:09] A forma correta seria o quê?
+[00:19:11] Você dá um time.
+[00:19:13] Pega informação tanto.
+[00:19:15] Ainda dá um time de 5 segundos.
+[00:19:17] Depois pega um time.
+[00:19:19] O professor disse que tem aquele site de estágios.
+[00:19:21] Na realidade não toca.
+[00:19:23] Ele usa o app scraping para...
+[00:19:25] Vasculhar as vagas.
+[00:19:27] É um problema rotando e vasculhando.
+[00:19:33] Qual?
+[00:19:39] Você não conhece.
+[00:19:53] O que acontece?
+[00:19:55] O professor pega informações para o navegador.
+[00:20:07] Mas realmente não cabe um web script.
+[00:20:09] O web script é permitido e não é permitido.
+[00:20:11] Se você fizer...
+[00:20:13] Quando você deixa a máquina rodar lá.
+[00:20:15] É como se você está aqui.
+[00:20:17] Você sobrecarrega aquela máquina.
+[00:20:19] Você faz toda a solicitação que a máquina sobrecarrega.
+[00:20:21] E acaba dando pau.
+[00:20:23] É por isso que o professor não gosta.
+[00:20:25] Mas se você fizer uma edição.
+[00:20:27] Espera um pouquinho.
+[00:20:29] Depois faz outra edição.
+[00:20:31] Faz isso com um tempo.
+[00:20:33] Dando um tempo.
+[00:20:35] O professor acha menos ruim.
+[00:20:37] O ideal é o mesmo é o que é.
+[00:20:39] O API.
+[00:20:41] Mas voltando aqui para cá.
+[00:20:51] O app lá é o que acontece.
+[00:20:53] Essas informações devem vir pelo navegador.
+[00:20:55] Então não tensão.
+[00:20:57] O app script mesmo é o que é.
+[00:20:59] Basicamente você acessar o site lá.
+[00:21:01] E lá no site você pode ter informações.
+[00:21:03] Por exemplo,
+[00:21:05] em vez de você abrir o reclame aqui.
+[00:21:07] Aí vai lá na página do Dumbbake.
+[00:21:09] Vai ter por exemplo
+[00:21:11] 5 mil páginas do Dumbbake.
+[00:21:13] Em vez de você ficando
+[00:21:15] página 1.
+[00:21:17] Por exemplo,
+[00:21:19] em vez de você ficando
+[00:21:21] página 1.
+[00:21:23] Comentários.
+[00:21:25] Sal.
+[00:21:27] Em vez de fazer isso manualmente.
+[00:21:29] Você faz uma tomação.
+[00:21:31] Ele vai só alterando
+[00:21:33] as páginas.
+[00:21:35] E qual é a transformação?
+[00:21:37] Só que você não pode fazer isso.
+[00:21:39] De uma forma
+[00:21:41] direta.
+[00:21:43] Mas que eu faça isso.
+[00:21:45] Ela vai lá e quer nem saber.
+[00:21:47] É doce.
+[00:21:49] Mas a gente tem um caso de
+[00:21:51] fazer isso, né.
+[00:21:53] Que o chão está saindo.
+[00:21:55] E que vai ser muito rápido.
+[00:21:57] Então você expõe o dedo.
+[00:21:59] É.
+[00:22:01] Mas ainda vai explicar
+[00:22:03] uma base do Dumbbake.
+[00:22:05] Da pessoa estar um
+[00:22:07] time slip.
+[00:22:09] Quando você dar um time slip.
+[00:22:11] Você faz a requisição.
+[00:22:13] Em vez de você fazer a seguinte.
+[00:22:15] Você espera um pouquinho.
+[00:22:17] Pra não sobrecarregar a máquina.
+[00:22:19] Ó.
+[00:22:21] O Vinícius, quando ele faz
+[00:22:23] uma se pega serviço.
+[00:22:25] Pra poder dar informações
+[00:22:27] dos municípios, né.
+[00:22:29] Ele vai na página do Ministério da Saúde
+[00:22:31] do município.
+[00:22:33] E pega as informações.
+[00:22:35] Esses sites pequenos, eles não têm.
+[00:22:37] Não vão...
+[00:22:39] A API, que é demorado, né.
+[00:22:41] Uma API complexa, tipo do Youtube.
+[00:22:43] Né.
+[00:22:45] Mesmo que não seja paga.
+[00:22:47] Ela é limitada, né. Mas o que acontece.
+[00:22:49] É...
+[00:22:51] A empresa...
+[00:22:55] Deu um tempo pra desenvolver ela.
+[00:22:57] Não foi simplesmente
+[00:22:59] "Ah, vamos fazer aqui não".
+[00:23:01] É um tempo, teste, esses coisas, né.
+[00:23:03] Então, criar uma API é uma coisa demorada.
+[00:23:05] Né.
+[00:23:07] Então, é...
+[00:23:09] Paz no município, lá de informações
+[00:23:11] do caso de Deng, esses coisas.
+[00:23:13] Né.
+[00:23:15] Que o pessoal pode mostrar.
+[00:23:19] Basicamente, o que acontece é o...
+[00:23:21] Ele vai lá, abre a página,
+[00:23:23] colar todas as informações.
+[00:23:25] E passa. Só que...
+[00:23:27] Dependendo do ritmo que ele faz aí,
+[00:23:29] você pode considerar dar um ataque, né.
+[00:23:31] Ele, por exemplo, roda cinco inscritos
+[00:23:33] de uma vez, né.
+[00:23:35] Três dele dá...
+[00:23:37] 423.
+[00:23:39] O teste, é o I, o que aparece.
+[00:23:41] Né.
+[00:23:43] Aí ele altera a configuração do time-slip
+[00:23:45] e roda de novo.
+[00:23:55] No caso...
+[00:23:57] Você pode copiar só aquela parte.
+[00:23:59] Se você quiser fazer outra aquilição, né.
+[00:24:01] Como ele solta isso, cada parte, né.
+[00:24:03] O que acontece, ele vai cortar o site.
+[00:24:05] Aí ele vai pegar aquela página, né.
+[00:24:09] Aí ele vai pegar aquela página.
+[00:24:13] E ele vai sair recortando ela.
+[00:24:17] Ele vai pegar as informações.
+[00:24:19] Cada um delas...
+[00:24:23] O que acontece, como é que...
+[00:24:25] Como é que é criar um site hoje em dia?
+[00:24:29] Né.
+[00:24:31] Quando você criar um site, você vai...
+[00:24:33] Criar aquela...
+[00:24:35] Parte de livre, né.
+[00:24:37] É, dívio lá, subcontexto,
+[00:24:39] container, essas coisas fudindo, né.
+[00:24:43] É, exatamente isso. Dívio, não sei o quê.
+[00:24:45] Ele vai, sai criando isso aí, né.
+[00:24:47] Você tem que fazer uma coisa, né.
+[00:24:49] A interface não importa pra máquina.
+[00:24:53] Pra máquina. É mais um negócio, ela vê isso aí.
+[00:24:55] Do que ver a interface bonitinha.
+[00:24:57] Né.
+[00:24:59] O que acontece.
+[00:25:01] Quando você faz a aquilição, ele vai pegando dívio por dívio.
+[00:25:05] Então ele faz a aquilição pra se assinar naquela dívia.
+[00:25:07] E pegar aquela dívia, né.
+[00:25:09] E é por isso que é muita questão.
+[00:25:11] Só não parte, né.
+[00:25:15] É até uma coisa que eu...
+[00:25:19] Que vocês têm que observar, né.
+[00:25:21] Que que o Muro quando...
+[00:25:23] Aí ele vai ter...
+[00:25:25] Ele processar informação...
+[00:25:27] Vem pra dívio, tem que ver, né.
+[00:25:29] Que é o cabeçalho.
+[00:25:31] Ele sabe que foi, já, o cabeçalho, essas coisas.
+[00:25:33] Não é?
+[00:25:37] Ele vai organizar...
+[00:25:41] Do cabeçalho, né.
+[00:25:43] A parte da dívia.
+[00:25:45] Por exemplo, ele tá procurando comentário da pessoa.
+[00:25:47] Ele vai ver o trailer lá pra ele fazer.
+[00:25:49] E vai lá.
+[00:25:51] Não é o que eu quero.
+[00:25:53] Eu quero o comentário.
+[00:25:55] Aí quando ele deixa lá a gente comentar essas coisas, ele vai pegar.
+[00:25:59] Você tá tomando aula, né, mas antes disso.
+[00:26:05] Semana passada,
+[00:26:07] vocês viram as notícias sobre softwares
+[00:26:09] e a...
+[00:26:11] O...
+[00:26:13] Eu tava sem replicar os softwares, que é de...
+[00:26:15] Não é uma fechada, né.
+[00:26:17] Pode fechar.
+[00:26:21] A playstation?
+[00:26:23] A playstation é ali.
+[00:26:25] Mas teve uma...
+[00:26:27] O melhor ainda.
+[00:26:29] A dobe.
+[00:26:33] Vocês viram a dobe?
+[00:26:35] Ali merecia, ali merecia muito tempo.
+[00:26:37] Na sonha, a dobe merecia.
+[00:26:39] Na sonha merecia, mas a dobe...
+[00:26:41] A dobe merecia muito mais.
+[00:26:43] A dobe merecia mais por causa do tempo, a sonha solta sensibilidade.
+[00:26:53] Eu tô falando do art creditor.
+[00:26:57] O que lhe dá pra fazer a...
+[00:26:59] Que lhe derrerevesse, né?
+[00:27:03] Mas eu...
+[00:27:05] Pessoal...
+[00:27:09] Sobre essa da dobe, né?
+[00:27:11] Vocês viram?
+[00:27:13] Quantas pessoas estão fazendo aquilo ali?
+[00:27:15] Uma pessoa.
+[00:27:17] E três meses fez tudo aquilo ali.
+[00:27:23] Eu estava usando o GD Reversa, mas tava usando pra codificar o quê?
+[00:27:27] Ele tava usando os agentes lá pra codificar.
+[00:27:31] Aí eram vários agentes.
+[00:27:33] Provavelmente três agentes no mínimo por aplicação.
+[00:27:37] Mas aí, você tinha uma pessoa
+[00:27:39] configurando, é, gerenciando
+[00:27:41] vários agentes de águas, né?
+[00:27:45] Lógico, obviamente, a pessoa tem 15 anos
+[00:27:47] de experiência e programação.
+[00:27:49] Então, ele sabia como gerir isso.
+[00:27:55] Mas o...
+[00:27:57] Eu acho que...
+[00:27:59] O que vai acontecer no futuro é muito isso, né?
+[00:28:01] Você vai ter, tipo, uma pessoa
+[00:28:03] gerenciando vários agentes de águas
+[00:28:05] pra fazer programação, né?
+[00:28:09] Qual vai ser as coisas, quais são os problemas disso?
+[00:28:11] A curva e aprendizagem pra ser muito alta, né?
+[00:28:15] Porque, por exemplo, um júnior,
+[00:28:17] tem que chegar lá no nível, porque
+[00:28:19] pode gerenciar isso tudo, né?
+[00:28:23] O que acontece?
+[00:28:27] É o que é isso, pra você ter 15 anos de experiência,
+[00:28:29] você tem que começar a ter experiência.
+[00:28:31] Onde é que vai encontrar alguém
+[00:28:33] que vai conseguir ter 15 anos de experiência?
+[00:28:35] Tipo, não vai abrir oportunidades
+[00:28:37] pra quem tá começando, né?
+[00:28:41] É o que acontece, a pessoa verde de junho
+[00:28:43] vai até curva e aprende a aprender
+[00:28:45] a gerenciar o projeto, né?
+[00:28:47] Aí vai entrar como
+[00:28:49] gerenciador de software.
+[00:28:53] O que acontece? Na maioria dos
+[00:28:55] as cadeiras hoje, as faculdades,
+[00:28:57] ok, você tem lojas de programação,
+[00:28:59] estrutura de dados,
+[00:29:01] e depois lá mais pra frente
+[00:29:03] quando você pega a experiência que você vem de gerenciador de software.
+[00:29:07] Você até mistra pouco de IPO e tudo
+[00:29:09] pra ter noção do que é um gerenciador de software,
+[00:29:11] que é requisito, tudo isso aí, né?
+[00:29:13] Hoje em dia, no futuro,
+[00:29:15] a gente tem gerenciador de software
+[00:29:17] que vai ser mais pra frente pra você tentar
+[00:29:19] gerenciar a quantidade de agentes.
+[00:29:21] Tem noção.
+[00:29:23] Ah, como é que a gente pega no ral?
+[00:29:25] Querias projetos.
+[00:29:27] Vocês vão ter que fazer projetos,
+[00:29:29] vão ter que aprender a gerenciar máquinas
+[00:29:31] de forma pra criar os
+[00:29:33] pra criar
+[00:29:35] projetos mesmo, né?
+[00:29:37] Projetos seus.
+[00:29:39] Ao mesmo tempo,
+[00:29:41] acho que tá bem claro pra todo mundo
+[00:29:43] que não compensar mais
+[00:29:45] vender software.
+[00:29:47] O negócio é vender serviço.
+[00:29:49] Ao mesmo tempo estudar,
+[00:29:51] trabalhar, comer, dormir.
+[00:29:53] No life.
+[00:29:57] Foi claro.
+[00:30:11] [Risos]
+[00:30:13] [MÚSICA]
+[00:30:15] [SOM DE FUNDO]
+[00:32:35] Vão tarde!
+[00:32:37] Vocês acham que a máquina de produção
+[00:32:39] também roda os bantilhados?
+[00:32:41] [SOM DE FUNDO]
+[00:32:45] É realmente que são máquinas separadas
+[00:32:47] porque se der algo na própria onda
+[00:32:49] você não pede sinaloso da outra máquina.
+[00:32:51] São máquinas vituais, mas por um momento
+[00:32:53] se garantir uma segurança.
+[00:32:55] Ou você aloca uma máquina específica mesmo, né?
+[00:32:57] Máquinas de bantilhados
+[00:32:59] elas não precisam de um processamento muito alto.
+[00:33:01] Elas precisam de um
+[00:33:03] armazenamento muito alto.
+[00:33:05] Então, tipo,
+[00:33:07] o bantilhado e o bantilhado
+[00:33:09] quando você pega aquelas máquinas
+[00:33:11] que tem 200 pés,
+[00:33:13] 300 pés,
+[00:33:15] é o pessoal que utiliza, né?
+[00:33:17] Você vai ter uma máquina reservada para os bantilhados
+[00:33:19] e vai ter um endereço dela
+[00:33:21] e você vai só não querer picar ela na aplicação.
+[00:33:23] Ah, é?
+[00:33:25] Ah, é! Eu não corujava.
+[00:33:27] Quando você fechar
+[00:33:29] me pega a pé
+[00:33:31] e vai, você falta só o endereço
+[00:33:33] e vai ter que picar e revelar a luz também.
+[00:33:41] Quando segura
+[00:33:43] basicamente a API,
+[00:33:45] elas fossem que você tenha regras para acessar.
+[00:33:47] Então, você vai ter lá
+[00:33:49] basicamente um tipo
+[00:33:51] o roteiro de acesso.
+[00:33:57] [música]
+[00:34:09] Basicamente com a acessão
+[00:34:11] da cultura de JVC,
+[00:34:13] você tem um drive, um endereço
+[00:34:15] basicamente para fazer a conexão
+[00:34:17] com o bantilhado, né?
+[00:34:19] E aí, a conexão
+[00:34:21] vai ser o que você vai fazer lá.
+[00:34:23] Pergunta.
+[00:34:27] Vocês acham que é seguro
+[00:34:29] que eu deixei essa conexão, né?
+[00:34:31] [música]
+[00:34:35] Aqui ele é o que?
+[00:34:37] Fazer tudo que tem que fazer.
+[00:34:39] Abra a conexão
+[00:34:41] e via.
+[00:34:43] Quero fazer uma pesquisa, né?
+[00:34:45] Ah, que terminou de gravar
+[00:34:47] fecha a conexão.
+[00:34:49] Abra a conexão
+[00:34:51] custa os dados ficar
+[00:34:53] fecha a conexão, né?
+[00:34:55] Aqui ficou processamente dados.
+[00:34:57] Aqui fiquei de salvos, né?
+[00:34:59] Se a conexão era longo,
+[00:35:01] o ideal é que você sempre
+[00:35:03] abre e feche.
+[00:35:05] Qualquer?
+[00:35:07] [música]
+[00:35:09] O ideal é que você,
+[00:35:11] antes de deixar aberto lá,
+[00:35:13] o problema é deixar aberto qual é?
+[00:35:15] [música]
+[00:35:17] Você esqueceu.
+[00:35:19] [música]
+[00:35:21] Ah, deixar aberto ali
+[00:35:23] para que a conexão seja aberta?
+[00:35:25] [música]
+[00:35:27] Mas também, por exemplo,
+[00:35:29] você tem o costume
+[00:35:31] deixar aberto?
+[00:35:33] [música]
+[00:35:37] Quando você deixa aberto, o que?
+[00:35:41] Você esqueceu?
+[00:35:43] É o problema aqui.
+[00:35:45] Eu tenho uma vez que deixo a porta aberta
+[00:35:47] o dia inteiro.
+[00:35:49] Quer concluir que quando você deixa a porta aberta
+[00:35:51] vamos dizer que eu abri a conexão.
+[00:35:53] Fui lá.
+[00:35:55] Esqueci de fechar.
+[00:35:57] Quando é que você está aberto?
+[00:35:59] Você é um suave.
+[00:36:01] O início do seu lado é o outro.
+[00:36:03] Ele vai lá e abre a conexão.
+[00:36:05] Quer esquecer de fechar?
+[00:36:07] Não é você.
+[00:36:09] O problema do lado.
+[00:36:11] Ele não tem nada a ver com a conexão.
+[00:36:13] Com vocês dois,
+[00:36:15] a conexão está aberta lá.
+[00:36:17] Tem um terceiro pessoa.
+[00:36:19] A conexão está aberta lá.
+[00:36:21] Tem 100 mil pessoas.
+[00:36:23] 100 mil coleções.
+[00:36:25] O que acontece com a máquina?
+[00:36:27] [música]
+[00:36:31] Inmediatamente.
+[00:36:33] A máquina está aberta lá.
+[00:36:35] Acaba do treino.
+[00:36:37] O que é o que?
+[00:36:39] Abre, executar e fechar.
+[00:36:41] Faz essa rotina.
+[00:36:43] Não tem perigo de não ter conexão aberta.
+[00:36:45] Tem que fazer a conexão para salvar.
+[00:36:47] Para fazer as coisas.
+[00:36:49] Você pode criar as suas peças.
+[00:36:51] [música]
+[00:37:11] Entende a coisa?
+[00:37:13] O computador é muito bom em uma ação.
+[00:37:15] É muito bom em uma ação.
+[00:37:17] Em essas repetitivas.
+[00:37:19] Então, se você tem que fazer uma ação
+[00:37:21] com repetitiva e já que fechar,
+[00:37:23] criar uma rotina e não deixar só,
+[00:37:25] e quer executar, se chama e faz.
+[00:37:27] Até para a mudanteção é melhor.
+[00:37:29] Se você tiver que...
+[00:37:31] Vai ter que só inventar.
+[00:37:33] Encher o plano de dados aqui e ter que trocar o servidor.
+[00:37:35] Para o servidor não ter mais espaço.
+[00:37:37] Estou vivendo esse exemplo porque já sofri isso.
+[00:37:39] [risos]
+[00:37:41] Ela tem que trocar o servidor aqui porque o servidor não tem mais espaço.
+[00:37:43] Não poder trocar...
+[00:37:45] O endereço pode ser o mesmo.
+[00:37:47] Tem que trocar o endereço.
+[00:37:49] Aí você vai lá na climação.
+[00:37:51] Você é procurador de tal endereço.
+[00:37:53] [música]
+[00:38:01] O quarto é o quê?
+[00:38:03] É você ter um arquivo com o endereço lá.
+[00:38:05] E você trocar ali e serve para todos.
+[00:38:07] [música]
+[00:38:29] Você queria um arquivo lá.
+[00:38:31] Se falta o endereço você segue.
+[00:38:33] [música]
+[00:39:41] Vamos começar com...
+[00:39:43] O que acontece?
+[00:39:45] Está se passando, está se passando.
+[00:40:05] O que acontece?
+[00:40:11] Freio. É uma coisa boa ou ruim?
+[00:40:13] Freio.
+[00:40:15] Então, é bom.
+[00:40:17] É bom.
+[00:40:19] O outro deixa ver o outro.
+[00:40:21] Tem um amigo que diz assim.
+[00:40:23] O piloto de formula 1.
+[00:40:27] Só acelera 300 km/h porque ele sabe que vai frear.
+[00:40:31] O que acontece?
+[00:40:35] O pai pingava o escritinho.
+[00:40:37] Você não pode perguntar se é que vocês são ruins, eu vou dizer que não.
+[00:40:41] O JavaScript permite várias coisas.
+[00:40:43] Para configurar um interface de lá, fantástico.
+[00:40:47] Para fazer testes, tem um API do JavaScript.
+[00:40:53] Você vai configurar e fazer os testes de lá.
+[00:40:55] Porque tudo automatizado é lindo.
+[00:40:57] Fazer automação com o pai, é fantástico.
+[00:41:01] Fazer o web-script com o pai.
+[00:41:03] Você quer pegar os dados?
+[00:41:05] Tranquilo.
+[00:41:07] Mas você quer fazer uma aplicação?
+[00:41:11] Uma aplicação robusta.
+[00:41:13] Qual das duas linguagens vai rodar?
+[00:41:17] O JavaScript não foi projetado para o back-end.
+[00:41:21] O pessoal vai dar alguns arranjos técnicos.
+[00:41:25] E bota ele para rodar no back-end.
+[00:41:27] É tanto que o pessoal...
+[00:41:29] Tenta arranjo técnico que foi criado o TypeScript para isso.
+[00:41:31] O TypeScript nada mais é do que o...
+[00:41:33] Ele vai se...
+[00:41:35] Você vai botar destruções.
+[00:41:37] Mas na hora de comparar, ele vai se transformar em JavaScript e rodar.
+[00:41:43] O que é que o pessoal está imprimindo tanto o...
+[00:41:47] O Python?
+[00:41:49] Porque todas as configurações...
+[00:41:51] Todas as configurações geralmente do back-end.
+[00:41:53] São feitas em Python.
+[00:41:55] Você quer acessar gente, as coisas.
+[00:41:57] Tudo roda em Python, JavaScript.
+[00:41:59] Por isso é tão indicado.
+[00:42:01] Por exemplo, que eu dei da Adobe.
+[00:42:03] O cara foi lá e criou ele em request.
+[00:42:07] É mais leve e mais rápido.
+[00:42:11] Mas o que acontece?
+[00:42:13] O cara tem experiência de programação.
+[00:42:15] Minha visão é só programação o quê?
+[00:42:17] As regras gramaticais são iguais...
+[00:42:21] Para todas as linguagens de programação.
+[00:42:23] Só muda lá o...
+[00:42:25] Como você escreve.
+[00:42:27] Mas é diferente.
+[00:42:29] Você conseguiria aprender C.
+[00:42:31] Aprenderem C.
+[00:42:33] Entenderem como funciona.
+[00:42:35] Um if.
+[00:42:37] Um switch case.
+[00:42:39] E primear a tela do...
+[00:42:41] Você vai ver...
+[00:42:45] Entendi C aqui.
+[00:42:47] Você pega um...
+[00:42:49] Um código em Python e você entende.
+[00:42:51] Você pega um código em JavaScript e vai...
+[00:42:53] A destruição que você vai...
+[00:42:55] Você entende.
+[00:42:57] O que acontece?
+[00:42:59] Eu vou perguntar aqui para vocês de uma empresa.
+[00:43:01] Você já deve ter escutado.
+[00:43:03] IBM.
+[00:43:05] Ou seja, escutado.
+[00:43:07] Na sala de...
+[00:43:09] Jaston.
+[00:43:11] Pergunto sobre IBM.
+[00:43:13] Qual a pessoa vai dizer?
+[00:43:15] Ah, eu confio.
+[00:43:17] Mas o grande máximo não escuta.
+[00:43:19] Vocês acham que ela está fraca ou forte?
+[00:43:21] Forte.
+[00:43:23] O que acontece?
+[00:43:25] A faca dela não é o...
+[00:43:27] O sumo do final.
+[00:43:29] A área dela é enterprise.
+[00:43:31] Empresas.
+[00:43:33] Eles tem planos lá.
+[00:43:35] Tem planos lá que cumpliu...
+[00:43:37] 300 milhões.
+[00:43:43] Isso é um serviço lá deles.
+[00:43:45] Ela tem que assinar.
+[00:43:47] Passei dois, três anos pagando.
+[00:43:49] Quando terminar tem que assinar de novo.
+[00:43:53] A IBM tem esse serviço e tudo.
+[00:43:55] Não está aí.
+[00:43:57] Só porque o foco dele mudou.
+[00:43:59] O que acontece no Java?
+[00:44:01] O Java...
+[00:44:03] O foco dele...
+[00:44:05] São aplicações.
+[00:44:07] Há empresas e essas coisas.
+[00:44:09] Ah, o pessoal não vê muito.
+[00:44:11] Porque ele não demonstra.
+[00:44:13] Você não precisa com vocês.
+[00:44:15] A interface do Java para mim é horrível.
+[00:44:17] Acho feio.
+[00:44:19] Se vocês forem ver o swing...
+[00:44:21] É doido.
+[00:44:23] É doido com o paixão.
+[00:44:25] Você compre...
+[00:44:27] Qualquer alteração dele...
+[00:44:29] É quase que você se renderizou no vídeo.
+[00:44:31] Tem acessões mais novas.
+[00:44:33] Do Java FX.
+[00:44:35] Mas também não são bonitas.
+[00:44:39] O meu conselho é o que?
+[00:44:41] Usa Java para a parte de trás.
+[00:44:43] Cria...
+[00:44:45] Toda parte de segurança.
+[00:44:47] Logo de programação, estrutura de dados.
+[00:44:49] Deixar...
+[00:44:51] E criar uma interface...
+[00:44:53] Criar uma conexão com a interface.
+[00:44:55] Aí você da interface...
+[00:44:57] Você usa React...
+[00:44:59] Usa JavaScript...
+[00:45:01] Para deixar mais visual.
+[00:45:03] Aí...
+[00:45:05] Aí vai entrar como um módulo...
+[00:45:07] Da...
+[00:45:09] Do Java.
+[00:45:11] Para executar ações, para automatizar...
+[00:45:13] As coisas.
+[00:45:15] Você não precisa com vocês.
+[00:45:17] Aí não tem sentimentos.
+[00:45:19] Não vai se estressar.
+[00:45:21] E não vai se cansar.
+[00:45:23] Então, se você quiser automatizar as coisas...
+[00:45:25] Não existe coisa melhor.
+[00:45:27] Se você quiser executar as ações repetitivas...
+[00:45:29] Por aí vai.
+[00:45:31] Ideal é ir.
+[00:45:33] Até mesmo você pega um texto...
+[00:45:35] Para formatar.
+[00:45:37] Que é um...
+[00:45:39] Um estresse lá que eu passava um hora...
+[00:45:41] Para formatar o texto.
+[00:45:45] Eu tinha que aprender a usar o latex.
+[00:45:47] Porque o ontem me estressou.
+[00:45:53] O latex é tipo...
+[00:45:55] O ontem todo o texto...
+[00:45:57] Para ser mais forte de programação.
+[00:46:01] Aí é...
+[00:46:03] Se eu hoje me agotar...
+[00:46:05] Escrevi o poder no bloco de notas...
+[00:46:07] E jogava o formato nas regras tais...
+[00:46:09] É um trabalho chato de executa.
+[00:46:11] É...
+[00:46:13] Que é essa empresa IBM?
+[00:46:15] E qual foi o sondel?
+[00:46:17] IBM é uma das empresas mais antigas de computação do mundo.
+[00:46:21] Ela foi a primeira empresa americana a criar...
+[00:46:23] Com todos os mainframes.
+[00:46:27] A maioria dos mainframes hoje em dia é sondela.
+[00:46:31] Por exemplo, o Banco de Mordech...
+[00:46:33] Que é parte de servidores.
+[00:46:35] Boa parte deles é IBM.
+[00:46:39] Aí tem servidor de...
+[00:46:41] E servidor de segurança.
+[00:46:43] Tudo isso.
+[00:46:45] Aí... Aconteci...
+[00:46:47] Aí eu antigamente tinha a linha dela de...
+[00:46:49] Para o subidor final.
+[00:46:51] Só que não dava retorno.
+[00:46:53] Eu e o enterprise dava retorno.
+[00:46:55] Aí eles abandonaram o subidor final...
+[00:46:57] E voltaram com o enterprise.
+[00:46:59] Ah, o sondel é IBM.
+[00:47:01] Ele é dono de outras empresas.
+[00:47:03] É dono de outras empresas.
+[00:47:05] A FinkPad.
+[00:47:07] Ela é nova. Vocês podem ver.
+[00:47:09] É um computador preto com uma bolinha vermelha.
+[00:47:15] É uma bolinha vermelha no meio da cafeca.
+[00:47:17] Se você procurar aí, FinkPad se aparecer.
+[00:47:25] Ela hoje é da Lenovo.
+[00:47:27] Antigamente era da IBM.
+[00:47:29] Quando era da IBM...
+[00:47:31] Ela tinha tecnologo... Foi ela.
+[00:47:33] Foi a IBM que construiu a bolinha vermelha.
+[00:47:35] E acessam.
+[00:47:37] Então a bolinha dos braços...
+[00:47:39] Se você tal o cano dele para lá...
+[00:47:41] Ele não fosse mouse.
+[00:47:43] Foi a primeira máquina, por exemplo.
+[00:47:45] Até a celularômetro.
+[00:47:47] Para que é a celularômetro?
+[00:47:49] Se o computador fosse cair...
+[00:47:51] Ele parava o disco.
+[00:47:53] Na época, o disco ainda era...
+[00:47:55] Magnético.
+[00:47:57] Tinha a bolha para evitar...
+[00:47:59] Arranhar essas coisas...
+[00:48:01] A bolha parava durante a queda.
+[00:48:03] E aí o computador está com um gírus.
+[00:48:07] Onde está o gírus?
+[00:48:09] DHI.
+[00:48:11] Más Fink.
+[00:48:13] É, é de Fink.
+[00:48:19] É bom que ele vem aqui.
+[00:48:21] O que é isso?
+[00:48:23] É uma bolinha vermelha.
+[00:48:27] Olha como isso é um mouse.
+[00:48:31] Não funciona isso.
+[00:48:37] Você quer dizer que...
+[00:48:39] É um botão do mouse, não é?
+[00:48:41] Não é um mouse.
+[00:48:43] Se você pegar e fazer assim...
+[00:48:45] Ele pode fazer assim.
+[00:48:47] É uma esfera então.
+[00:48:49] Não é esfera.
+[00:48:51] Ele é baixo com isso.
+[00:48:53] O movimento que você faz assim...
+[00:48:55] Ele reconhece.
+[00:48:57] É como se fosse esse espaço do trackpad.
+[00:48:59] Tadinho aí...
+[00:49:01] Então você desliza assim.
+[00:49:03] Não precisa.
+[00:49:05] Se você está só com o dedo para cima e para baixo...
+[00:49:09] Mas assim...
+[00:49:11] É da Ficente.
+[00:49:13] Para a gente...
+[00:49:15] Não.
+[00:49:17] Para pessoas que não têm um braço.
+[00:49:19] Tem que usar o canto.
+[00:49:21] Vamos mexer?
+[00:49:29] Vamos mexer.
+[00:49:39] O que a gente vai ter aqui?
+[00:49:41] São os componentes.
+[00:49:43] Ele vai fazer a comunicação entre o...
+[00:49:45] A nossa comunicação.
+[00:49:47] E os quantidades.
+[00:49:51] Basicamente a gente vai ter o estrangement.
+[00:49:53] É o mensagem que tem rascunho.
+[00:49:55] Ele entrega...
+[00:49:57] A regra de SKL.
+[00:49:59] Tem um checaje para a regra.
+[00:50:01] Altamente nega os perigosos.
+[00:50:05] Prefere a estrangement.
+[00:50:07] Com um local modernizado para copilado.
+[00:50:09] O SKL do SKL.
+[00:50:11] Aceita apenas os valores restritos.
+[00:50:13] Para os seguros.
+[00:50:15] A obrigatória para o sistema informativo.
+[00:50:17] Resulta sete.
+[00:50:19] No resultado impresso.
+[00:50:21] Qual é a diferença desse pra isso?
+[00:50:27] A gente tem os dados organizados.
+[00:50:39] Você envia os dados.
+[00:50:51] Eu resolvo os dados.
+[00:50:53] Ele será seu um de dados para cá.
+[00:50:55] Eu acho que ela começou a fazer o jogo.
+[00:50:57] Foi um jogo de cálculo.
+[00:50:59] Nossa, foi um jogo de...
+[00:51:04] Nossa, foi um jogo de cálculo, que o Jocô é muito melhor.
+[00:51:07] É, meu Deus.
+[00:51:11] Foi um jogo de lá no século XIX.
+[00:51:19] Eu acho que eu falei muito que vocês precisam de isso aqui.
+[00:51:26] "Scan Injections"?
+[00:51:35] O que é muito para vocês? O que é o "Scan Injection"?
+[00:51:39] É, tipo, você...
+[00:51:43] Eu perdi a sensação, tipo...
+[00:51:46] eu não sei se isso é do ponto de vista.
+[00:51:48] É, os comandos.
+[00:51:52] Volta-me para cá.
+[00:51:56] Eu tenho esses três aqui.
+[00:51:59] Esse aqui está quadrilzado.
+[00:52:03] Mas esse aqui não está quadrilzado.
+[00:52:07] Se eu colocar um comandante SKL,
+[00:52:09] ou, por exemplo, drope, drope toda vez,
+[00:52:13] por um maneira apaga multidados,
+[00:52:16] ele não vai ser...
+[00:52:18] ele vai ser sólido por multidados.
+[00:52:20] Esse aqui, o enjávano não vai passar.
+[00:52:22] Se eu colocar um comando lá, te pera,
+[00:52:24] aí as comandas drope toda vez, veja, soais.
+[00:52:28] Folando, folando lá.
+[00:52:31] Segue para lá.
+[00:52:33] Quando chegar no...
+[00:52:35] quando chegar lá dos multidados SKL,
+[00:52:37] chegar à inflamação.
+[00:52:38] Ele vai lá e te pera.
+[00:52:39] Aí vai abrir as apps.
+[00:52:41] As apps lá.
+[00:52:42] E vai dizer que aqui é um comando.
+[00:52:44] Tem lá drope toda vez.
+[00:52:45] É, ele vai dizer que é um comando drope toda vez.
+[00:52:47] E aí, porque é o comandante apagado.
+[00:52:51] SKL injection.
+[00:52:55] Como evitar transatíricos de...
+[00:53:00] fazer o...
+[00:53:03] basicamente...
+[00:53:04] indica para esses coisas.
+[00:53:07] Você tem que, tipo, tratar as apps.
+[00:53:10] Existe framework que já faz isso.
+[00:53:12] É a parte do celular, né?
+[00:53:14] Minha indicação é,
+[00:53:16] se vocês forem usar linguagem cura para aprender,
+[00:53:18] só dê uma olhadinha, né?
+[00:53:20] Mas, hoje, a maioria dos framework
+[00:53:21] já tem os tratos de segurança.
+[00:53:23] Principalmente, eu peço de aspas duas para essas coisas.
+[00:53:26] Você tem que ter cuidado, certo?
+[00:53:33] Acho que isso aqui, né?
+[00:53:35] Aqui é a regra de ouvir no confio da entrada do usuário.
+[00:53:37] Poderia ter trocado no confio do usuário.
+[00:53:45] Você tem que mais ajudar.
+[00:53:46] Quando você for um usuário, você faria.
+[00:53:59] Tem vários ambientes de testes.
+[00:54:01] Tem vários ambientes para você fazer o...
+[00:54:05] atividade com...
+[00:54:07] o wire chart também. Conhece o wire chart?
+[00:54:10] Sim, sim.
+[00:54:13] O desenvolvedor não pode ser o usuário também.
+[00:54:17] Mas, o que...
+[00:54:20] o que evita uma pessoa chegar com o wire chart
+[00:54:22] e botar um...
+[00:54:24] na rede de show?
+[00:54:26] Hum...
+[00:54:27] Ela foi melhor fazer a coisa de qualquer pessoa estar lá dentro.
+[00:54:30] Aí, sim.
+[00:54:32] É como se você ficou com aquele photographado e pega.
+[00:54:37] Mas, em como não fazer esse vídeo?
+[00:54:39] Se colocar em...
+[00:54:41] É isso.
+[00:54:42] Porque quando eu fiz, até com um rei.
+[00:54:44] O meu professor deu...
+[00:54:46] deu o wire chart.
+[00:54:48] E ele fala sempre que para a gente não usar...
+[00:54:51] é...
+[00:54:52] reis publica porque a gente podia se libertar mais disso.
+[00:54:55] Hum, hum.
+[00:54:56] É...
+[00:54:57] é tão...
+[00:54:58] é tão aberto, assim.
+[00:54:59] O que acontece, né?
+[00:55:01] O...
+[00:55:02] é como se você tivesse...
+[00:55:04] é...
+[00:55:06] o wire chart é um facto.
+[00:55:08] Você pode ligar para matar uma pessoa
+[00:55:11] mas a coisa é para consumir o meio.
+[00:55:14] Então, o que acontece?
+[00:55:16] Ah, o wire chart permite que você pegue os dados.
+[00:55:18] Sim.
+[00:55:19] Vamos desabilitar ele.
+[00:55:22] Não, você não.
+[00:55:23] Porque o wire chart é um programa, né?
+[00:55:25] O nome do programa, que a gente chama, é SNIFER.
+[00:55:29] É bastante um buscador, né?
+[00:55:31] O...
+[00:55:32] mesmo que você diz "ah, não vai ter mais o wire chart",
+[00:55:35] vai aparecer outros, né?
+[00:55:37] E vamos dizer, ah...
+[00:55:39] eu disse a atividade do wire chart ali para ele.
+[00:55:42] A atividade que eu vi do wire chart era basicamente o que?
+[00:55:45] Ele usava para fazer a verificação da rede da empresa,
+[00:55:49] né?
+[00:55:50] E procurar dentro, lá, um...
+[00:55:54] um computador que estivesse acessando
+[00:55:57] um...
+[00:55:59] um aspectado com o spyware.
+[00:56:01] Então, você tinha que procurar isso, né?
+[00:56:04] O que acontece?
+[00:56:05] É muito fácil você colocar a criptografia nas comunicações
+[00:56:09] de ponto a ponto, né?
+[00:56:11] Do que você...
+[00:56:13] é...
+[00:56:14] você é tipo o wire chart, né?
+[00:56:17] E com muitas empresas usam o wire chart
+[00:56:20] para fazer verificação, proteção, essas coisas.
+[00:56:23] O pessoal não quer tipo...
+[00:56:25] a desabilitar ele, né?
+[00:56:27] É melhor você ter que colocar essa criptografia,
+[00:56:29] porque ele não só protege com o wire chart
+[00:56:31] contra outras coisas, né?
+[00:56:33] Porque você tinha que pedir...
+[00:56:35] é...
+[00:56:36] pedir essa...
+[00:56:37] a existência dele.
+[00:56:38] A técnica vai pedir, né?
+[00:56:40] Deu exemplo da Dove...
+[00:56:42] Foi, né?
+[00:56:43] O que aconteceu com...
+[00:56:44] Qual é o mais grave lá?
+[00:56:45] Não é a cópia.
+[00:56:46] É aquele pop-up e disponibilizou o código.
+[00:56:51] Essa parte de disponibilizar o código, o que acontece?
+[00:56:53] Você pode baixar, fazer as alterações que você quiser
+[00:56:56] e disponibilizar.
+[00:56:58] Ah, a Dove lá apaga o...
+[00:57:01] a boa história.
+[00:57:03] Muita gente já fez a cópia.
+[00:57:05] Muita gente já pegou as transformações, né?
+[00:57:07] Ele só não ia poder...
+[00:57:11] receber o dinheiro para a sua câmera, não?
+[00:57:14] Porque a gente pode felpear,
+[00:57:16] pode disponibilizar,
+[00:57:18] mas pode carregar a renda.
+[00:57:20] O que acontece?
+[00:57:21] O problema da Dove é que no...
+[00:57:23] no contrato dela lá,
+[00:57:25] é que ela não permite...
+[00:57:27] e ele reversa de nenhum celular micro,
+[00:57:29] porque o caso ele usou lá.
+[00:57:33] Mas o...
+[00:57:36] A interface está muito...
+[00:57:38] está cópia da Dove.
+[00:57:40] E por causa disso, o pessoal acha que não é da problema.
+[00:57:43] Não pode trocar a interface, essas coisas.
+[00:57:45] Mas o...
+[00:57:46] a Dove vai...
+[00:57:48] recorrer...
+[00:57:49] para que ela derrubar.
+[00:57:50] Mas...
+[00:57:51] Essa aí eu reparei de novo.
+[00:57:53] Já foi...
+[00:57:54] A gente pegou...
+[00:57:55] ah...
+[00:57:56] a gente jogou no ventilador, hein?
+[00:57:58] Né?
+[00:57:59] Certa sal.
+[00:58:00] Já está na internet.
+[00:58:01] O mesmo que a Pai vai ter...
+[00:58:02] vai ver aqui e vai ter essas coisas,
+[00:58:04] a gente já baixou.
+[00:58:05] O problema não é...
+[00:58:06] perfeito.
+[00:58:07] Esse problema tem que ser compartilhado.
+[00:58:09] Mas não compartilhou,
+[00:58:10] mesmo que caia da rua,
+[00:58:12] que o pessoal vai achar...
+[00:58:13] por exemplo,
+[00:58:14] o emulador da Nintendo.
+[00:58:16] Depois tem um...
+[00:58:17] levado no dirigido da Nintendo maravilhoso.
+[00:58:19] Né?
+[00:58:20] Saiu o emulador, o pessoal vai lá e dá a rua.
+[00:58:22] Mas não é que Pai apareceu outros.
+[00:58:25] Né?
+[00:58:26] É, o que...
+[00:58:28] O outro pessoa vem em pé, o Pote não refaz.
+[00:58:38] O que seria...
+[00:58:39] um catenar, hein?
+[00:58:43] Um catenar é juntar.
+[00:58:45] E o leite pra ele não tem a ver...
+[00:58:47] com a gente.
+[00:58:48] É.
+[00:58:49] Um dia eu comecei.
+[00:58:50] Um dia sim.
+[00:58:51] Um dia a gente.
+[00:58:52] O que é aqui, justamente?
+[00:58:53] Né?
+[00:58:54] Os três minutos.
+[00:58:56] Pervite você...
+[00:58:57] convite ele, né?
+[00:58:58] Volte lá na descrição.
+[00:58:59] Faça a gente no comando.
+[00:59:01] Permite essa...
+[00:59:02] essa sua...
+[00:59:03] Asir a rejection.
+[00:59:04] Né?
+[00:59:05] E legitimidade.
+[00:59:10] Ser...
+[00:59:12] Ser legitimidade.
+[00:59:13] Ser...
+[00:59:14] Ser legitimidade.
+[00:59:18] Legível.
+[00:59:21] Ser legitimidade.
+[00:59:22] E basicamente a previsão, né?
+[00:59:24] Tem as...
+[00:59:25] As pessoas e mais.
+[00:59:31] Essa aqui provavelmente vem com o começo dos anos...
+[00:59:33] dos anos 90.
+[00:59:35] Né?
+[00:59:36] Quais são as vantagens de anos 90?
+[00:59:37] Porque todos não confiam na internet.
+[00:59:38] Então antes não se festavam com isso.
+[00:59:40] Aí começaram a aparecer,
+[00:59:42] o pessoal não estava bem interessonado.
+[00:59:44] E os testes estavam fazendo para a segurança.
+[00:59:46] Né?
+[00:59:47] Então ele teve que usar o...
+[00:59:49] Ele teve um estúdio de microfone.
+[00:59:52] Mais seguro.
+[01:00:11] O problema segue, o que acontece?
+[01:00:13] Né?
+[01:00:15] E somente aqui do gravo de coleção.
+[01:00:17] Né?
+[01:00:18] Então é importante saber o...
+[01:00:20] o gravo de coleção.
+[01:00:22] Ele é muito bom...
+[01:00:24] no Java.
+[01:00:26] O banco de dados está no Java.
+[01:00:28] Ele deve ficar no Java.
+[01:00:30] Então...
+[01:00:32] fora do Java não tem...
+[01:00:34] nenhum poder.
+[01:00:35] Ele não vai ficar.
+[01:00:36] É parte de conexão.
+[01:00:37] Por exemplo, a conexão lá...
+[01:00:38] o início é o "ai, abre a conexão"
+[01:00:40] e a conexão fica perto por dois dias.
+[01:00:42] Sem ninguém mexer.
+[01:00:44] Né?
+[01:00:45] Sem ninguém usar.
+[01:00:47] E o...
+[01:00:48] O gravo de coleção está de fazer nada porque
+[01:00:50] ele não faz parte do serviço dele.
+[01:00:51] Ele não consegue acessar.
+[01:00:53] Né?
+[01:00:54] Mas como que a gente chama de conexões óbvias?
+[01:00:56] Né?
+[01:00:57] Quando você fala do "conjure"
+[01:00:58] em relação a conexão adicional,
+[01:01:00] você tem essas conexões óbvias
+[01:01:02] que não são...
+[01:01:03] as conexões fechadas.
+[01:01:05] Né?
+[01:01:06] Os "take" meio esquecidos...
+[01:01:08] as informações sobre os números no passado,
+[01:01:10] resulta ser desaberto.
+[01:01:12] Basicamente você vai ter a informação lá e deixa aberto.
+[01:01:16] Né?
+[01:01:20] Lembre-se da gente para vocês.
+[01:01:23] Todos os candidatos têm index.
+[01:01:25] Se eles perguntem que todo mundo
+[01:01:28] está só ao mesmo tempo,
+[01:01:30] pirar para casa não enjoando.
+[01:01:33] Não é paralisa, né?
+[01:01:35] Só que só queres ter a ver
+[01:01:37] com o espaço da rede?
+[01:01:40] Só queres ser primeiros?
+[01:01:42] Primeiros.
+[01:01:43] Ah, funcionar.
+[01:01:45] Só queres ter rede.
+[01:01:49] Por isso que já...
+[01:01:50] essa cadeira tinha que ser semeste.
+[01:01:53] Né?
+[01:01:54] Para quem fez reto aqui,
+[01:01:56] quer só queres ter rede.
+[01:01:59] Só pediu a rede?
+[01:02:01] É, só pedi a rede.
+[01:02:02] Só que é o...
+[01:02:04] É o "impe" de uma porra, né?
+[01:02:06] Não, "impe" de uma porra é coisa.
+[01:02:08] Só peço o...
+[01:02:09] Eu estou tornando para ela.
+[01:02:11] Por que a cadeira não é por lá, né?
+[01:02:14] É o...
+[01:02:16] porta tal.
+[01:02:20] Eu não estou conseguindo lembrar.
+[01:02:22] É quando você vai acusar umaificação.
+[01:02:24] Se você faz mal, o endereço tal.
+[01:02:27] Você vai...
+[01:02:28] com medo.
+[01:02:29] Você vai ver.
+[01:02:30] A gente está no meio da noite.
+[01:02:35] Nossa, não tem que ser mais com 912.
+[01:02:37] Não tem que ser mais com 1212.
+[01:02:40] Eu não tenho que ser só um...
+[01:02:41] uma esquerda na sua mágica.
+[01:02:44] Então, você chama uma esquerda na sua mágica.
+[01:02:46] Então, o...
+[01:02:47] A interface já está sob ele.
+[01:02:49] É uma pegadona.
+[01:02:51] Então, o que acontece?
+[01:02:53] Você vai lá e eu vou colocar o endereço na sua mágica
+[01:02:55] para dois pontos.
+[01:02:56] Isso aqui.
+[01:02:57] Que é a porta.
+[01:02:58] Você entra lá.
+[01:02:59] Por que?
+[01:03:00] Por que é essa porta?
+[01:03:02] Você vai ter um...
+[01:03:04] um servidor...
+[01:03:06] ou é...
+[01:03:08] Alguém que se trouxe para fazer o servidor habitava?
+[01:03:12] Isso aqui.
+[01:03:15] É?
+[01:03:16] Quando você vai criar um servidor web,
+[01:03:19] você tem que configurar esses...
+[01:03:21] esses cortes, né?
+[01:03:22] Esses cortes que você...
+[01:03:23] vão dar...
+[01:03:24] quando é que vão fazer a conexão com o socate?
+[01:03:26] Isso aqui.
+[01:03:28] Isso aqui está um elemento que você pode ver.
+[01:03:31] Às vezes, pode ver o que você tem por internet,
+[01:03:33] por exemplo, do liquid união,
+[01:03:35] que tem da sessão que sai de específico
+[01:03:37] para multiplicar o móvel.
+[01:03:40] O seu horcheado vai ter um endereço também.
+[01:03:44] O dois pontos aqui e ali...
+[01:03:46] é a porta, porque vai se conectar com o socate.
+[01:03:49] Nossa, não deve ser uma audição do professor Aérea.
+[01:03:53] Eu estou acessado.
+[01:03:54] Uma coisa com esse boy doce.
+[01:03:58] O limite da VM, basicamente,
+[01:04:00] é a distância de memória, né?
+[01:04:02] Se você não fechar as...
+[01:04:04] elas vão ficar abertas.
+[01:04:05] Sobre carregar a VM.
+[01:04:08] Por geral, eu não estou tal.
+[01:04:10] Eu esqueci de votar o comando Closes.
+[01:04:13] Eu vou dar uma pergunta para vocês.
+[01:04:14] Eu já falei várias vezes do Closes.
+[01:04:16] Por que você acha que é comando várias vezes?
+[01:04:19] Você já aconteceu várias vezes.
+[01:04:24] Eu acho que muita gente esqueceu.
+[01:04:26] Muita gente já estressou com isso, né?
+[01:04:29] Ah, não fechou a conexão?
+[01:04:30] Não sei o que.
+[01:04:31] Por aí vai.
+[01:04:36] Então...
+[01:04:39] Eu vou falar dez vezes.
+[01:04:40] Ainda acha que a gente vai esquecer?
+[01:04:46] Bem, o que se diz "cum"?
+[01:04:50] Cum, né?
+[01:04:53] É basicamente o...
+[01:04:56] O que é "cum"?
+[01:04:59] A piscina.
+[01:05:01] É igual comando Closes e escoca o "cum".
+[01:05:03] O sistema trava os nomes usuários.
+[01:05:06] Basicamente, o "cum" é quase assim...
+[01:05:12] É acedado.
+[01:05:14] Isso é o que acontece, né?
+[01:05:16] Isso é mais uma gira americano.
+[01:05:19] Você é quase da eco.
+[01:05:21] É de piscina.
+[01:05:23] Se você assistir o primeiro acima dele lá,
+[01:05:25] é o colígio, né?
+[01:05:27] Você vai ver que tem lá uma ideia.
+[01:05:29] O tabelo de apostas dele lá.
+[01:05:32] É mais de "cum".
+[01:05:33] É basicamente os tickets das pessoas.
+[01:05:35] O artigo vai morrer.
+[01:05:38] Então o que acontece?
+[01:05:39] O que é "cum"?
+[01:05:40] O que aconteceu com a piscina de apostas?
+[01:05:42] Isso é de tickets.
+[01:05:44] Então, a pessoa vai lá e adquere seu acesso.
+[01:05:46] Repere o ticket mesmo.
+[01:05:48] Só que se é muito simples pegar esse ticket
+[01:05:50] e não fechar a conexão...
+[01:05:53] Você não vai ter acesso à quantidade.
+[01:05:55] Aí você continua assistendo.
+[01:05:57] Ah, não faz tanto que eu não vejo esse filme.
+[01:06:01] Desculpe, desculpe o filme que eu já falei.
+[01:06:10] Aí, quem lembra da última aula antes da prova?
+[01:06:19] Try with the sauce, né?
+[01:06:22] Basicamente nós queremos try-catch.
+[01:06:24] Quando eu faço a conexão,
+[01:06:26] tentar executar a conexão,
+[01:06:28] fazer o try, basicamente ele verifica
+[01:06:31] se a conexão está instável.
+[01:06:33] Se está instável, executa só isso.
+[01:06:36] Caso não tem problema,
+[01:06:38] "catch", executa lá para fechar.
+[01:06:41] Ao final,
+[01:06:44] qual é o comando do try-catch
+[01:06:46] que ele vai executar sempre?
+[01:06:50] Tem o try-catch para o último?
+[01:06:52] Finaly.
+[01:06:53] Finaly, né?
+[01:06:54] O mundo pode estar pegando fogo.
+[01:06:56] Finaly é a minha coca,
+[01:06:58] ele vai lá para beber a coca
+[01:07:00] e o resto explode.
+[01:07:02] Mas o comando vai ser só final, não importa.
+[01:07:05] Então é que a gente gera um instáculo de final.
+[01:07:11] Exatamente, perfeito.
+[01:07:15] Se você não tinha usado o scanner,
+[01:07:17] você volta lá para fechar a conexão com o scanner.
+[01:07:22] Ah, porque se eu uso o scanner,
+[01:07:24] é o close-up.
+[01:07:26] Aí a parte da cabalera é a maiorora do orno.
+[01:07:29] Vou dar uma dúvida para vocês.
+[01:07:32] O é o orno?
+[01:07:34] É problemático?
+[01:07:37] O que é o que significa o orno?
+[01:07:39] Avisam.
+[01:07:43] É tipo a mãe de vocês dizendo,
+[01:07:46] leve o guarda-chuva porque vai chover.
+[01:07:48] O site está aqui no sol.
+[01:07:49] Não vai chover todo 10 passos porque é a chuva.
+[01:07:53] O orno é a mesma coisa.
+[01:07:55] Isso é o que vai dar defeito.
+[01:07:57] Você não esqueça de fechar a sua conexão.
+[01:07:59] Alguém pode usar.
+[01:08:01] Alguém vai usar.
+[01:08:03] O ideal é ser...
+[01:08:05] O orno é só aconselho.
+[01:08:07] Mas é o que você deve seguir para fechar a segurança.
+[01:08:10] Isso é uma boa conexão.
+[01:08:12] Eu falo que você é um dos dois passos.
+[01:08:14] Você é um dos dois passos.
+[01:08:16] Você é um dos dois.
+[01:08:18] Você não esqueça de fechar a sua conexão.

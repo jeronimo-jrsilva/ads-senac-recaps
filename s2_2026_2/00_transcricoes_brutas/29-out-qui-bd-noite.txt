@@ -1,0 +1,1224 @@
+# =====================================================================
+# ARQUIVO DE ORIGEM : Voz 261029_185426.m4a
+# DATA DA GRAVAÇÃO  : 2026-10-29 (Qui)
+# HORÁRIO (INÍCIO-FIM): 18:54:26 -> 20:02:14 (1h07m)
+# CLASSIFICAÇÃO     : AULA_ADS_NOITE | Banco de Dados (Prof. Alexandre - Quinta Noite)
+# ENTRA NO PORTAL?  : SIM
+# =====================================================================
+
+[00:00:00] Vamos tentar aqui para a gente dar uma revisada rápido.
+[00:00:15] Então a gente viu o creme comandante da Bella, formado mais básico possível, formando de incessão.
+[00:00:24] Então, tentamos aqui sobre as clausas, antes de novo e novo.
+[00:00:31] A tabela foi criada sem chave para o Mário.
+[00:00:37] Depois fizemos algumas outras incessões e umas sintaxas mais básicas possível da Culege.
+[00:00:46] É que eu acho que ele representa a listagem de campos em todas as tabelas removidas.
+[00:00:52] Nós estamos trabalhando só com uma tabela.
+[00:00:55] A gente viu que o Select pode ter um filtro.
+[00:00:59] Esse filtro tem uma expressão lógica que pode usar qualquer conectivo lógico.
+[00:01:11] Vai selecionar todas as linhas da tabela ou da tabela alecadas que apelem ao filtro.
+[00:01:18] E retorna os campos que uma sede é terminada.
+[00:01:21] Aqui é um outro exemplo, que a gente viu também, em que, no lugar do Asterisco, você bota os campos.
+[00:01:29] Você pode inclusive botar Asterisco e repor os campos também, para ver se você faz isso.
+[00:01:33] Ele aparecerá todos os campos e depois, no final, ele repete o idea e a descrição.
+[00:01:43] Você faz isso?
+[00:01:45] A gente viu uma outra cláusula também opcional, que é ordenar por qualquer campo.
+[00:01:51] Na verdade, ele ordena por qualquer listagem de campos.
+[00:01:56] Você tem mais de um campo, que o primeiro ordena pelo primeiro campo.
+[00:02:01] E, dentro do primeiro campo, ele ordena pelo segundo, e assim vai limitadamente.
+[00:02:07] Por exemplo, o que aconteceu aqui.
+[00:02:10] A gente viu também que pode misturar, só tem essa questão de ter essa ordem.
+[00:02:15] Você vai usar a moeda, e o ordem é baio.
+[00:02:18] Primeiro tem a moeda, depois a moeda é baio.
+[00:02:21] Depois a gente tentou alterar a estrutura da tabela,
+[00:02:27] ou a Albertable pode alterar vários aspectos de uma tabela qualquer.
+[00:02:32] Incluir campos alternativos, alterar o tamanho de campo,
+[00:02:36] adicionar a chave de maria e outros recursos.
+[00:02:39] Aqui, quando a gente tentou alterar essa chave de maria, deu chave complicada,
+[00:02:43] aqui para cima existiam registros com a indígena por cá.
+[00:02:50] Para resolver isso, a gente trabalhou um pouco de LED,
+[00:02:56] tem essa taxa básica obrigatória só até aqui.
+[00:03:00] Mas, se você fizer isso, ele apaga todos os registros da tabela que você especificou.
+[00:03:05] Quando você filtra, somente os que atenderam esses dois critérios,
+[00:03:10] cuidado com o O, porque se você lutar o O, ele atenderia esse, o O atenderia esse.
+[00:03:15] As linhas que ele atenderia esse critério,
+[00:03:18] ou as linhas que ele atenderia esse critério, seriam apagadas.
+[00:03:21] E, definitivamente, ele já não estava em transação.
+[00:03:26] Mas, aqui a gente apagou os registros que tinham a ID 12,
+[00:03:30] mas tinha também o nome GUS, então ficou um dos registros lá na base,
+[00:03:36] e aí a gente conseguiu liberar a chave primária.
+[00:03:38] Esse tipo de situação materializa aquilo que a gente comentou.
+[00:03:42] O erro, uma faria lá na definição dos requisitos,
+[00:03:48] isso se propaga para o modelo, a modelagem que se propaga para materialização da criação das tabelas,
+[00:03:57] que se propaga em erro de integridade.
+[00:04:01] E aí já era um problema porque esse tipo de situação você teria que apagar todas
+[00:04:07] onde apagou, você não viu o update aí,
+[00:04:10] quantificar todas as suas locais que esse código aparece,
+[00:04:14] e as suas são muitas tabelas.
+[00:04:17] E eu acho que acabou aqui.
+[00:04:19] Depois a gente incluiu um outro registro,
+[00:04:25] já tinha um registro 10, quando tentou incluir, ele deu chave no local.
+[00:04:30] E foi aonde a gente parou, tá?
+[00:04:34] Para a gente continuar, pessoal, vou pegar aqui do meu cabareto,
+[00:04:38] na aula da manhã do dia seguinte a gente trabalhou com o "Atausou a like"
+[00:04:43] para começar por ela, tá?
+[00:04:45] Depois a gente segue com alguns nos outros comandos.
+[00:04:50] É, a gente tá no momento de...
+[00:05:05] Bom, não tem mais aqueles comandos que vão se tornar repetitivos,
+[00:05:17] então a gente já passa por uma fase de que não se convivem em cola,
+[00:05:21] porque aí a gente ganha mais tempo.
+[00:05:23] E deixa para você digitar aqueles que você tá vendo pela primeira vez.
+[00:05:27] O simples fato é que digitando tem a tendência a você estar mais atentando
+[00:05:32] a ajudar um pouco na memorização, um pouco no entendimento, né?
+[00:05:36] Mas fazer...
+[00:05:41] digitar de novo os cretis termos, eu não bebo muito o sentido.
+[00:05:45] Então, para a gente fazer um pequeno trailer
+[00:05:51] de explicar o "select like",
+[00:05:54] eu vou colocar aqui na área, se alguém acredita em colônia,
+[00:05:59] eu vou colocar...
+[00:06:18] Vou partilhar esse...
+[00:06:22] esse um dos dos...
+[00:06:25] E aí a gente fica trabalhando nele naquilo que...
+[00:06:29] é possível a gente já...
+[00:06:32] copiar e colar sem prejuízo aqui para fazer estruturas que nós estamos treinando.
+[00:06:38] Então, eu vou colocar aqui a ação da tabela,
+[00:06:41] vou colocar esse "set",
+[00:06:44] e aí já vou compartilhar aqui para você,
+[00:06:47] esse "set" aqui do...
+[00:06:49] 10, esse outro "set" no 11,
+[00:06:55] e o "set" no 11, e o "set" no 12.
+[00:07:00] O "set" no 9.
+[00:07:06] Ok.
+[00:07:09] Eu vou partilhar...
+[00:07:12] o "9" para esse documento.
+[00:07:15] Prática,
+[00:07:17] SQL,
+[00:07:19] 2066,
+[00:07:21] 0,2,
+[00:07:23] noite,
+[00:07:25] cenário.
+[00:07:30] Vou ver a link,
+[00:07:34] onde é que eu posso colocar esse link, pessoal, vocês podem ver.
+[00:07:44] Não é consultado no classroom, não é?
+[00:07:51] É, mas é...
+[00:07:53] Senhor, o que é que você precisa?
+[00:07:55] Eu sei.
+[00:08:14] Assado, como é que você é um "wifi"?
+[00:08:16] Um "wifi", eu preciso estar conectado com um "wifi" para fazer isso.
+[00:08:25] Ah, problema, né?
+[00:08:27] Vai aí.
+[00:08:28] Obrigado, sim.
+[00:08:33] Eu vi um problema, mas aí eu não enfrentei o problema.
+[00:08:42] Vou botar em dois canos, vou colocar aqui no "mantos das noites".
+[00:08:56] Vou botar aqui para o nosso amigo Geronho.
+[00:09:01] Está de novo.
+[00:09:14] Uau, uau, uau, uau.
+[00:09:18] Pronto, aí, o que é que vocês fazem?
+[00:09:19] Vocês fofiam.
+[00:09:20] Eu vou botar aqui para solicitar o acesso, né?
+[00:09:21] Oi.
+[00:09:22] Solicitar o acesso.
+[00:09:24] Será que precisa?
+[00:09:25] É, porque ele está dando aqui.
+[00:09:30] Qualquer pessoa com o link.
+[00:09:34] Veja agora.
+[00:09:37] Então, a ideia é você copiar aqui, né?
+[00:09:39] Se você já entende, se tiver alguma dúvida sobre o comando, inserte o cliente.
+[00:09:44] A gente pode tirar, mas, na princípio, vou entender o que você está...
+[00:09:48] Já conhecendo para a gente agilizar com a noite.
+[00:09:52] Copie cola, por favor, para a gente começar a dar sua brincadeira de hoje.
+[00:09:58] Deixa eu também fazê-lo aqui.
+[00:10:01] Está usando por enquanto uma compra.
+[00:10:04] Lembre de fazer o SQL Server, tá?
+[00:10:14] E aí, depois, você faz uma consulta.
+[00:10:22] Só para confirmar.
+[00:10:35] Aqui estamos com registros.
+[00:10:38] Quando todos estiverem nesse cenário aqui, a gente continua, tá?
+[00:10:52] Isso aí.
+[00:11:16] Todos estamos, que dessa forma, protocolo, adivado.
+[00:11:20] E eu?
+[00:11:21] Isso aí, fica OK.
+[00:11:24] E é isso aí?
+[00:11:46] Só um susto mesmo, né?
+[00:11:48] Não é?
+[00:11:49] É, só um susto.
+[00:11:50] Existe uma coisa que eu costumo dizer, que é a visita.
+[00:11:55] Na humanidade tem a visita da saúde, né?
+[00:12:00] Na TI tem a visita da doença.
+[00:12:04] O que é a visita da doença?
+[00:12:06] Eu sei se vocês já passaram por isso.
+[00:12:08] Eu sei que eu passei muitas vezes na minha jornada por isso.
+[00:12:11] Você faz qualquer coisa, um programa select, qualquer coisa que você tem.
+[00:12:18] Coisas que você vai executar, né?
+[00:12:20] Que é uma delagem difícil de validar.
+[00:12:22] Você cria, aí dá erro, aí você ajeita, aí dá erro, aí você ajeita umas três vezes.
+[00:12:32] E aí, nessa terceira vez, por exemplo, você tem certeza que vai dar certo.
+[00:12:37] Aí o que é a visita da doença?
+[00:12:39] Ainda dá mais uma vez no eixo.
+[00:12:42] Mas você tinha certeza que agora estava treinando?
+[00:12:45] Aí é só pra não te dar o gostinho.
+[00:12:49] Aí é uma besta que ainda falo, mas aconteceu muito comigo.
+[00:12:53] E assim é isso aí, a visita da doença.
+[00:12:55] É uma coisa assim, "Poxa, mas aqui não tem mais o que dar a ele".
+[00:12:59] Eu já passei uma vez também.
+[00:13:01] Era até no Delft, só.
+[00:13:06] Não tinha explicação pra isso.
+[00:13:10] Era um bug mesmo do compilador.
+[00:13:13] Mas é tipo de coisa que pode acontecer, hoje em dia talvez seja mais difícil, né?
+[00:13:16] Mas não bota minha mão no fogo, não, só.
+[00:13:19] Eu sei que eu tive que fazer o seguinte.
+[00:13:21] Depois de ter lugar, muito tempo, tinha uma variável que eu tive que fazer isso aqui, ó.
+[00:13:35] Não mudava nada.
+[00:13:37] Por algum motivo, o diástico dessa variável "A", se eu não fizesse isso, ela perdia o valor, fica igualar errado.
+[00:13:46] Não tem nada a ver.
+[00:13:47] Agora, pra você descobrir isso, é uma camisa.
+[00:13:50] Olha, você tá ficando chate e ele ajuda, né?
+[00:13:53] Parece honestamente como ele ajuda.
+[00:13:55] E outra coisa, assim, só pra gente esquentar a curiosa daquilo de algo de mim da vida,
+[00:14:00] eu cheguei numa empresa, passei a trabalhar numa empresa, né?
+[00:14:04] Então, eu preciso chamar no software house, mais uma faca de software, na verdade, pra chamar de qualquer jeito.
+[00:14:11] Desenvolver aquele sistema pra vender pra clientes.
+[00:14:14] Próximo.
+[00:14:15] A coisa aqui, de porte aqui.
+[00:14:17] E aí eu fui trabalhar, um dos sistemas que eu fui trabalhar foi fora de pagamento.
+[00:14:21] Você pensa que é fora de pagamento?
+[00:14:23] Uma fora de pagamento é complexo, porque estão muitas regras, né?
+[00:14:29] E uma fora de pagamento desenvolvido numa empresa, pra atender.
+[00:14:34] Quem de glades, ela é altamente configurável e parametrizável.
+[00:14:39] Porque tem regras específicas, então complica mais da vida quando é uma folha pra que segmento.
+[00:14:44] É uma folha pra qualquer cliente, que é o caso da Santona.
+[00:14:48] E aí você chega, e eu não tinha nada pra começar, né?
+[00:14:52] Esse é o desafio da gente de TI, porque além de TI, a gente tem que entender o negócio.
+[00:14:56] Na verdade, entender o negócio é mais desafiante do que entender TI.
+[00:15:02] TI fica fácil, né?
+[00:15:05] Já sempre foi, agora está mais ainda, né?
+[00:15:08] Por causa do chat e tal.
+[00:15:09] Mas toda aquela questão do cuidado faz, também, um...
+[00:15:14] Usar além do que pode, né?
+[00:15:17] E perder o controle.
+[00:15:19] Mas bem, aí...
+[00:15:21] Complicar disso, meu, o cálculo da folha, o código.
+[00:15:26] E aí eu, lá pra frente, e o meu amigo, tinha um amigo meu que trabalhava nesse sistema de folha.
+[00:15:33] E umas organizações que sempre acontecem, ele foi pra outro sistema.
+[00:15:37] E aí eu tentando encontrar o código, entendeu o código, você tem que olhar, fazer teste e tal.
+[00:15:45] Lá pras tantas, eu olhando o código dele, tinha amém, é sério.
+[00:15:54] Amém, mesmo se suprirmos pra si.
+[00:15:58] Amareava amém.
+[00:16:02] Tá?
+[00:16:04] Tô mentindo, não, só...
+[00:16:06] Aí, os caras que já tem amareava amém, esse coisa, né?
+[00:16:11] Cara, eu fiquei tão agradecido por ter achado ele, que eu botei amareava amém.
+[00:16:20] Eu botei amareava amém, em agradecimento, porque eu achei que tinha que fazer um cálculo lá que tava faltando.
+[00:16:29] E em agradecimento, eu botei amareava enchevada.
+[00:16:32] O que não é a boa prática, né? Porque ninguém sabe.
+[00:16:37] Amareava tem que ter um nome que remeta ao seu uso, né?
+[00:16:45] Já acaba aqui, tá devagar assim, não tem essa aqui, né?
+[00:16:50] Tem que ir pra mente.
+[00:16:52] Ah, aí, né?
+[00:16:54] Tem outro aí do lado também, né?
+[00:16:56] Ah, sei lá. Acabe, vocês vão ver, né?
+[00:16:59] É, né?
+[00:17:01] Uma fila forte.
+[00:17:03] Ah...
+[00:17:05] Mas assim, é que você não acha que isso aí não está apenas aqui, né?
+[00:17:08] Pois é, se você se sinto de coisa, a gente às vezes se depara, tá?
+[00:17:13] E se cascaviar tem um bocado de marmota de sangue.
+[00:17:17] Estamos todos aqui, então eu lembrei dessa história porque aqui não tinha pan da Eva, era só um...
+[00:17:23] Era a visita da doença, tá?
+[00:17:25] Sim, sim.
+[00:17:27] Se não é possível, o que aqui ainda tem errado aqui, aí tem uma besteirinha que tá faltando.
+[00:17:32] E aí você...
+[00:17:34] Bom, pessoal, então assim, a gente viu o Select que você pode fazer um filtro, né?
+[00:17:41] Mas existe uma cláusula, um tipo de uso do Select, uma forma de filtrar que é muito útil,
+[00:17:51] que é usando um operador like.
+[00:17:54] É...
+[00:17:56] Quando você coloca o igual pra filtrar, ele pega exatamente aquilo que tá colocado.
+[00:18:02] Então vamos aqui fazer alguns pequenos testes.
+[00:18:05] E aí agora você vai fazendo aí, a medida que depois que eu explicar,
+[00:18:10] você vai fazer aí os treinos.
+[00:18:13] Como eu disse, a gente vai copiando aquilo que você já se acostumou.
+[00:18:19] Então vamos lá.
+[00:18:20] Ah, sempre lembrando o seguinte, pessoal, toda aula vai ter um material desse, eu coloco no classical, tá?
+[00:18:26] Para você estudar, refazer, etc., etc., etc.
+[00:18:31] Então se a gente fizer o "R" nome é igual a cinto, obviamente, né?
+[00:18:42] Que vai sair só o cinto, tá?
+[00:18:52] E aí tudo que a gente viu em termos de...
+[00:18:59] Como é que funciona a cláusula like?
+[00:19:03] A cláusula like, ela permite você usar curingas, curingas na filtragem.
+[00:19:15] Então, você pode, um primeiro exemplo, tudo que começa com...
+[00:19:25] O que não tem, só tem tudo que começa com sim.
+[00:19:30] Deixa eu fazer primeiro aqui, ó.
+[00:19:32] Vamos ver a diferença aqui, ó.
+[00:19:33] Se eu colocar sim, obviamente, que não vai aparecer ninguém, o melhor.
+[00:19:37] Meu Deus, deixa eu tirar esse cara aqui, né?
+[00:19:40] Aqui é só para ficar vendo o conteúdo.
+[00:19:46] Ah, parece ninguém.
+[00:19:48] Por quê?
+[00:19:49] Não tem ninguém com sim, né?
+[00:19:52] Sim.
+[00:19:53] Mas se você usar a cláusula like e ver do igual com curingas sim, ele vai aparecer o sim, certo?
+[00:20:09] Então, o "perceite" é qualquer cabelha de caracpés.
+[00:20:16] Pera aí, só para você ver que funciona.
+[00:20:29] Vamos dar um comentário aqui.
+[00:20:41] "Serve" porque é tudo primeiro.
+[00:20:46] Seleite para baixo.
+[00:20:49] Não é adonado nenhum mexeste.
+[00:20:57] Já tem que ver a sequência para utilizar a cláusula.
+[00:21:10] "Like" é tal, né?
+[00:21:20] "Extra" com o nome.
+[00:21:29] "Inicia" com o nome sim.
+[00:21:36] Só para a gente deixar aqui documentado.
+[00:21:39] Vamos fazer aqui o outro exemplo.
+[00:21:43] Acho que não funciona só assim, né?
+[00:21:49] Vou tirar isso aqui, só para a gente...
+[00:21:56] A gente pode também usar o "underline" como substituto de qualquer carácter.
+[00:22:06] Então, vamos tentar aqui achar um padrão.
+[00:22:16] Veja que tem um "o" na última posição desses dois.
+[00:22:24] E tem um "o" que não é a última posição nesse primeiro.
+[00:22:32] Então, se eu quiser todos os registros que tem um "o" em qualquer posição,
+[00:22:42] basta você fazer desse jeito aqui.
+[00:22:49] Vou deixar isso aqui para você depois rever.
+[00:22:54] "Select", "Esterisco", "Front produtos", "Wary", "Nome", "Like", "Pascente", "O", "Pascente".
+[00:23:16] Então, essa aqui de baixo, tá?
+[00:23:25] Qualquer sequência de carácteres, um "o", um único "o", qualquer sequência de carácteres.
+[00:23:34] Então, aparecem os dois.
+[00:23:39] Tá claro?
+[00:23:49] Executar e entender, tá?
+[00:23:52] Quando você executa, você entende, né?
+[00:23:54] Não é só executar e ver.
+[00:23:57] O trabalho que você digitar executar é exatamente para forçar você entender o que está acontecendo.
+[00:24:03] Depois você vai ficar olhando e essa imigração vai ser menor, tá?
+[00:24:34] Beleza?
+[00:24:40] Você tem também?
+[00:24:45] Você pode usar também "o".
+[00:24:53] "Underline".
+[00:25:00] O "Underline", ele substitui um caractere específico, tá?
+[00:25:08] No lugar do "Underline", pode ter qualquer caractere, é um polígão naquele ponto.
+[00:25:14] Então, por exemplo, se a gente colocar, eu quero que tenha exatamente três letas com a esquerda
+[00:25:26] e a quarta letra seja "o A".
+[00:25:32] Então, você pode colocar "Underline", "Underline", "Underline", "O A".
+[00:25:45] Eu vou provocar aqui um erro para a gente.
+[00:25:53] Veja que esse select e esse aqui de baixo.
+[00:25:58] Não teve o resultado que eu quis.
+[00:26:03] Eu queria trazer esse caractere, três caracteres, qual esse quer?
+[00:26:11] E o "A". O que é que não deu?
+[00:26:17] Eu acho que todos os caracteres têm povos.
+[00:26:23] Tá claro? Tudo bem?
+[00:26:27] Eu só ourei do "Underline", acho que tá uma outra cadeira aí, né?
+[00:26:33] Você fala o que é que pode usar lá, e ela funciona como uma espécie de coringa, né?
+[00:26:40] Você pode usar por coringa?
+[00:26:44] Não. Qualquer "String".
+[00:26:47] Então, no caso do "Underline", ele é do "A" aqui, né?
+[00:26:52] Então, no caso do "Underline", ele é do "A".
+[00:26:56] O "Underline" é um paciente, tá?
+[00:26:58] Qualquer "String", pode filtrar qualquer "String", entendeu?
+[00:27:02] E é muito útil isso aqui, porque as tabelas grandes, você quer saber, por exemplo,
+[00:27:08] tem um campo que tem o nome da pessoa, Alexandre Silva Cavalcante.
+[00:27:12] Eu quero saber todo mundo que tem Silva no nome.
+[00:27:15] Você bota paciente, Silva é paciente.
+[00:27:18] Pode ter Silva em qualquer canto, vai aparecer.
+[00:27:21] Claro que, dependendo do tamanho da base, é demorado, né?
+[00:27:27] Porque, lembra que eu falei que o base muito grande,
+[00:27:35] quando você filtra, você faz um filtro desse,
+[00:27:39] ele vai atrás de um índice que agiliza com sota.
+[00:27:43] Um índice é uma estrutura interna que agiliza com sota naquela ordem
+[00:27:48] que você está pedindo naquele filtro que você está pedindo.
+[00:27:50] Um índice nativo é quando você cria algum achado primário.
+[00:27:54] É um índice. Ele serve como índice também.
+[00:27:57] Então, você ordenar por nome, filtrar parte do nome,
+[00:28:01] que a clienta também da base demora muito, mas às vezes você precisa.
+[00:28:05] Se executar isso uma vez, não vai ser toda a vida.
+[00:28:09] E aí, eventualmente, você vai precisar de sair.
+[00:28:12] Você precisa de um índice, não é possível?
+[00:28:14] Se precisar repetidamente, faz um índice.
+[00:28:16] É, o critério para você criar um índice,
+[00:28:19] vai sempre estar precisando usar isso.
+[00:28:22] É por isso que lá na modelagem, esse tipo de pergunta tem que ser feito.
+[00:28:28] Porque é o momento em que você identifica esse requisito do usuário,
+[00:28:34] de que vai ser muito frequente certo tipo de ordenação, de filtragem e tal.
+[00:28:40] Qual é o erro que acontece muito?
+[00:28:44] Esse tipo de análise não é feito lá e paga para ver.
+[00:28:49] Paga para ver o seguinte, espera começar a dar problema.
+[00:28:51] Só que quando começa a dar problema, o nome já está dizendo, já é problema.
+[00:28:55] E aí, começa a ficar lento.
+[00:28:58] Aí começa a ter questões de satisfação do cliente.
+[00:29:07] Não é para você trocar a boa modelagem por conta de,
+[00:29:14] "Ah, eu tenho muita marca, tenho muita memória,
+[00:29:17] hoje em dia eu consigo escalar fácil, então vou me preocupar por isso."
+[00:29:20] Não, é um pensamento.
+[00:29:22] Assim, na teoria da computação, na pureza da história.
+[00:29:27] Pelo menos até que se mude a computação.
+[00:29:31] Pode ser que um dia mude e muito do que a gente está falando deixe de ser necessário.
+[00:29:37] Existe análise de complexidade dos algoritmos,
+[00:29:41] ou seja, você vai fazer um algoritmo para ordenar um vetor.
+[00:29:45] Você tem, sei lá, dez formas de fazer isso.
+[00:29:48] Tem umas que são piores do que a outra.
+[00:29:52] E você não precisa executar para você saber disso, você tem uma análise do algoritmo,
+[00:29:58] da complexidade, aquela anotação do Big O ou o outro, o quê?
+[00:30:02] E já diz isso.
+[00:30:04] No momento em que você tiver a computação quântica,
+[00:30:06] e dependentemente da complexidade, tudo vai ser imediato,
+[00:30:12] "Poxa, vale a pena ainda estudar isso?"
+[00:30:15] Não precisa dizer.
+[00:30:17] Pode ser que não vale mais a pena.
+[00:30:20] Mas o mundo dá esse aqui.
+[00:30:24] Os cursos ainda.
+[00:30:26] Então dá nesse fundamento.
+[00:30:29] Isso é curioso, porque o seguinte é,
+[00:30:31] quando você começa a estudar algoritmo para programação,
+[00:30:34] você começa ali de variável para cima, de vetor para cima.
+[00:30:40] É o que eu estou querendo dizer.
+[00:30:42] Daquilo que você curre desses estudos para baixo, para dentro da máquina,
+[00:30:47] é uma série de outros tipos de comando.
+[00:30:51] E em algum momento lá para trás, se estudava esse tipo de comando.
+[00:30:56] São comandos mais próximos do processador.
+[00:31:00] Não se estuda, mas é sublível.
+[00:31:02] Quando você trabalha com Python, uma atribuição de um vetor para o outro,
+[00:31:07] é um comando.
+[00:31:09] Mas isso é uma coisa recente,
+[00:31:11] essa atividade é que quando o Python surgiu,
+[00:31:13] porque uma atribuição de um vetor para o outro precisava de um outro.
+[00:31:16] Para carregar a posição, a posição evolui.
+[00:31:19] É assim, faz sentido ainda trabalhar o apenizado,
+[00:31:24] com a atribuição do vetor com o vetor de um loop,
+[00:31:26] já que é menos o Python.
+[00:31:28] Eu não sei se outra linguagem já tem isso, mas deve ter.
+[00:31:31] Faz atribuição com o comando só.
+[00:31:33] Talvez, em algum momento, não faça mais sentido.
+[00:31:36] Mais as coisas...
+[00:31:37] Acho que isso dura com o seu corpo.
+[00:31:39] Você lembra que a maioria dessas linguagens,
+[00:31:41] principalmente das novas regiões antigas,
+[00:31:43] fica subi elas, porque o próprio Python é inseto.
+[00:31:47] Exatamente.
+[00:31:48] Existe uma diferença, pessoal,
+[00:31:50] e aí você já pensou que isso é muito importante,
+[00:31:53] porque eu não queria lembrar muito isso nesse cenário,
+[00:31:55] mas é muito importante.
+[00:31:57] O assembro, que é uma linguagem ainda mais baixo nível do que eu sei,
+[00:32:02] o que é o baixo nível.
+[00:32:03] É mais próximo das carregas digitais do rádio.
+[00:32:06] Mas como assim?
+[00:32:07] Existem comandos que executam direto rotinas do processador.
+[00:32:12] E programas.
+[00:32:13] Nesse período, quando eu estava no primeiro semestre,
+[00:32:15] eu comecei a estudar por curiosidade.
+[00:32:17] Era até um livro...
+[00:32:19] É muito bacana, porque você mexe nos registradores da máquina.
+[00:32:23] É difícil programar naquilo ali,
+[00:32:25] mas tem algumas rotinas.
+[00:32:27] Isso tem um operacional de jogos modernos,
+[00:32:30] que são feitos aquele que é velado demais.
+[00:32:32] Mas tá bom, né?
+[00:32:33] Então, vamos subir um pouquinho o livro.
+[00:32:35] Sei, poderoso, porque também é muito...
+[00:32:40] A performance dele é muito boa.
+[00:32:44] Então, você pode...
+[00:32:46] Eu vou dizer que em função do que o Tiago falou,
+[00:32:49] você pode ser um profissional que cria tecnologia,
+[00:32:53] mas se você for um profissional que cria tecnologia,
+[00:32:55] você vai criar algoritmos,
+[00:32:58] você vai criar rotinas do seu operacional,
+[00:33:00] você vai criar software de base.
+[00:33:04] Você pode ser esse profissional.
+[00:33:06] E aí, para ser esse profissional, você vai precisar disso.
+[00:33:09] Ou você pode ser um profissional,
+[00:33:12] que é grande parte,
+[00:33:13] e vai ser que usa o que os outros fizeram.
+[00:33:16] E aí, você vai usar aquilo que está encapsulado,
+[00:33:19] que já está prefeito,
+[00:33:21] você vai só juntar aqueles legos
+[00:33:23] e vai gerar soluções.
+[00:33:25] Que é o que grande parte das pessoas vão usar.
+[00:33:28] Mas eu ainda tenho um entendimento
+[00:33:32] que por mais que você vá usar e deve usar
+[00:33:36] aquilo que já está impactado,
+[00:33:38] não tem sentido você reinventar,
+[00:33:40] mas você saber o que está por trás
+[00:33:44] e ter essa capacidade de,
+[00:33:47] se for necessário fazer algo que não atende,
+[00:33:52] e entendendo o que está por trás,
+[00:33:54] vai permitir você usar melhor aquilo que está impactado,
+[00:33:57] e aí serve isso para IA.
+[00:33:59] Por isso que a minha cadeira de IA era raiz,
+[00:34:02] eu mostrei a lógica das cursas.
+[00:34:04] O que é que eu digo era?
+[00:34:05] É porque o entendimento do curso não dá para ser desse jeito.
+[00:34:08] Então aqui a gente tem que mandar um pouco a bordagem.
+[00:34:11] Mas bem,
+[00:34:12] é igual a você andar num carro,
+[00:34:15] eu não entendo nada de motor de carro.
+[00:34:17] Eu sei andar no carro.
+[00:34:19] Sou usuário do carro, é mesmo lógico.
+[00:34:21] Mas se eu entender no carro,
+[00:34:23] eu consigo usar melhor o carro,
+[00:34:27] porque eu sei que eu estou possando mais motor,
+[00:34:29] um barulho que significa,
+[00:34:31] apesar da não ser especifica do carro.
+[00:34:33] Então é assim mesmo lógico.
+[00:34:35] O amigo ali é "crack" elevador.
+[00:34:37] Nós somos usuários elevadores,
+[00:34:40] ele consegue identificar e está assim.
+[00:34:42] Você sabia que,
+[00:34:43] desculpa de cortar,
+[00:34:45] se programar via sempre em elevador,
+[00:34:47] antes da modernização,
+[00:34:49] era poderoso disso, não é?
+[00:34:51] Então é uma linguagem leve,
+[00:34:53] é uma linguagem que não tem tradutor,
+[00:34:55] ele tem tradução,
+[00:34:57] porque assim ainda é uma linguagem codificada,
+[00:34:59] que a máquina mesmo é,
+[00:35:01] é uma generalidade.
+[00:35:03] É uma generalidade.
+[00:35:05] Então ele é sentido mesmo, sabe?
+[00:35:07] É muito arriscado,
+[00:35:09] eu acho,
+[00:35:11] e aqui no cenário que a gente tenta balancear,
+[00:35:13] corretamente, principalmente depois que o seu prato chegou,
+[00:35:19] balanciar.
+[00:35:21] Um tendimento
+[00:35:23] da base com a aplicação prática.
+[00:35:25] Balanciar.
+[00:35:27] O que é o seguinte, pessoal?
+[00:35:29] Entender a parte prática
+[00:35:31] é parte fácil.
+[00:35:33] Então, não precisa simplesmente
+[00:35:35] fazer um custo de graduação.
+[00:35:37] Mas entender a base,
+[00:35:39] o fundamento
+[00:35:41] é mais difícil.
+[00:35:43] E você entendendo o fundamento,
+[00:35:45] você sobrevive em qualquer
+[00:35:47] mudança tecnológica.
+[00:35:49] É,
+[00:35:51] se você me mostrar
+[00:35:53] qualquer linguagem,
+[00:35:55] provavelmente não vai saber.
+[00:35:57] O fundamento é lógico,
+[00:35:59] que não mudou ainda.
+[00:36:01] Agora,
+[00:36:03] um aplicativo mobile,
+[00:36:05] o ambiente, as ferramentas,
+[00:36:07] não, eu não conheço mais.
+[00:36:09] Mas o dia que eu precisar,
+[00:36:11] como eu tenho a base,
+[00:36:13] eu sinto estudo imóvel também.
+[00:36:15] Se você não preparar essa base,
+[00:36:17] você vai ficar
+[00:36:19] associado àquela tecnologia.
+[00:36:21] Ela evolui, ela muda,
+[00:36:23] você não tem condições de acompanhar.
+[00:36:25] Pelo menos isso
+[00:36:27] na teoria.
+[00:36:29] O que muita gente diz, o que eu entendo,
+[00:36:31] também é correto.
+[00:36:33] Mas a coisa vai mudar,
+[00:36:35] mudou e não é mais assim.
+[00:36:37] Mas é o que se entende hoje.
+[00:36:39] Então, é equilíbrio entre
+[00:36:41] aquilo que é básico e aquilo que é
+[00:36:43] produto.
+[00:36:45] É nesse sentido,
+[00:36:47] com o qual eu contigo,
+[00:36:49] que senão você vai ser
+[00:36:51] uma pessoa
+[00:36:53] que está limitada.
+[00:36:55] A tecnologia
+[00:36:57] vai ter
+[00:36:59] o aniversário do HUB,
+[00:37:01] dia 4, semana que vem,
+[00:37:03] uma quarta-feira,
+[00:37:05] às 14 horas.
+[00:37:07] Tem um link
+[00:37:09] de inscrição.
+[00:37:13] A gente
+[00:37:15] tem vários painéis,
+[00:37:17] tem um que eu vou participar,
+[00:37:19] tem um pessoal do Banco do Brasil,
+[00:37:21] super tenente TI,
+[00:37:23] depois tem um hotel que parece
+[00:37:25] bacana.
+[00:37:27] Então, se convidado,
+[00:37:29] depois eu passo para o melhorando
+[00:37:31] o seu inscrição.
+[00:37:33] A gente está passando para muita gente,
+[00:37:35] porque é legal que
+[00:37:37] o auditorio é grande,
+[00:37:39] é legal que tenha muita gente.
+[00:37:41] No Passaré?
+[00:37:43] No Passaré, lá no auditorio principal.
+[00:37:47] Mas eu não lembro o que eu falei isso.
+[00:37:49] O que eu falei...
+[00:37:51] Mas é isso, pessoal.
+[00:37:53] É ter esse zero mais
+[00:37:55] observando aí o movimento.
+[00:37:57] Vai voltando para cá, então,
+[00:37:59] está claro, né?
+[00:38:01] É três caracteres, um A,
+[00:38:03] e ele não deu o resultado.
+[00:38:05] Eu queria que ele mostrasse
+[00:38:07] qualquer
+[00:38:11] registro
+[00:38:13] que tivesse
+[00:38:15] na quarta posição, um A,
+[00:38:17] na minha expectativa,
+[00:38:19] errada,
+[00:38:21] é que trouxesse
+[00:38:23] esse sapato. E o erro, né?
+[00:38:25] A gente ficar é porque
+[00:38:27] não tem um curinho
+[00:38:29] depois.
+[00:38:31] Então, se você botar aqui
+[00:38:33] o pecente,
+[00:38:35] ele vai sair o sapato 1,
+[00:38:37] vai sair o sapato 1.
+[00:38:47] Então,
+[00:38:49] não retorna
+[00:38:53] nenhum registro.
+[00:38:59] Pois, tem um detalhe.
+[00:39:01] Blusa
+[00:39:03] Blusa tem um último A,
+[00:39:05] mas não tem
+[00:39:11] quatro caracteres antes do A.
+[00:39:17] E não retorna
+[00:39:21] sapato 1
+[00:39:25] pois
+[00:39:29] o último caracter
+[00:39:33] não é o A.
+[00:39:39] Então, para você resolver isso,
+[00:39:41] eu vou descer aqui para você for estudar.
+[00:39:47] Aí
+[00:39:51] você tem que colocar o pecente, né?
+[00:39:57] E aqui embaixo
+[00:39:59] é o sapato 1.
+[00:40:01] E aí, pode ser que
+[00:40:03] qualquer
+[00:40:05] qualquer campo
+[00:40:07] texto. Estão usando o nome porque
+[00:40:09] a única taxa da inscrição também tem aqui.
+[00:40:11] A inscrição também tem.
+[00:40:13] Quando você
+[00:40:15] sabe o que é isso aí?
+[00:40:19] E aí, a brincadeira é essa.
+[00:40:21] Você fica usando esses corinhos
+[00:40:23] para filtrar.
+[00:40:25] Novamente, você não usa isso
+[00:40:27] em uma frequência muito alta,
+[00:40:29] mas eventualmente
+[00:40:31] é nessa sessão.
+[00:40:33] Você vai fazer uma análise com os dados.
+[00:40:35] Outra coisa também que
+[00:40:37] queria colocar logo, porque me chamou
+[00:40:39] me lembrou aqui, é o
+[00:40:41] quando você
+[00:40:43] pegar aqueles registros
+[00:40:45] que tem um certo
+[00:40:47] campo nudo, tá?
+[00:40:49] Deixa eu ver aqui, se eu lembro
+[00:40:51] porque se não está no meu script,
+[00:40:53] não tem problema, nós estamos em casa.
+[00:40:55] A coisa que a gente olha aqui, o cabareto.
+[00:40:57] Foram produtos.
+[00:40:59] Também é muito usado isso aqui.
+[00:41:01] Produtos 2,
+[00:41:03] o ERI,
+[00:41:05] eu quero todos os registros
+[00:41:07] que é a descrição.
+[00:41:09] Assim
+[00:41:11] eu confesso você que na minha
+[00:41:13] lembrança, que eu não estava aqui,
+[00:41:15] não relebrei,
+[00:41:19] assim não dá certo.
+[00:41:23] Igual a mim.
+[00:41:25] Veja que tem
+[00:41:27] três descrição,
+[00:41:29] e aqui é o select de baixo.
+[00:41:31] Esse primeiro select está lá em cima.
+[00:41:33] Então pra você, isso também
+[00:41:35] é muito
+[00:41:37] muito só.
+[00:41:39] Pra você
+[00:41:41] identificar as linhas
+[00:41:43] que tem um certo campo nudo,
+[00:41:45] você usa o "isnul".
+[00:41:47] Vou escutar aqui o comentário.
+[00:41:57] Do exemplo abaixo.
+[00:42:01] Nenhum registro.
+[00:42:03] É retornado.
+[00:42:09] Porque
+[00:42:11] estou
+[00:42:13] apesar
+[00:42:17] de existir
+[00:42:21] três registros
+[00:42:25] com descrição.
+[00:42:33] Então
+[00:42:39] aqui
+[00:42:55] teste aí.
+[00:42:57] Tanto com igual como com "isnul".
+[00:42:59] Veja como com "isnul".
+[00:43:01] "Isnul"
+[00:43:03] é os três registros de baixo.
+[00:43:05] Teste aí.
+[00:43:09] "Isnul"
+[00:43:23] ou "isnul".
+[00:43:39] "Isnul"
+[00:43:59] Tudo bem?
+[00:44:01] Pedidos?
+[00:44:03] Que significa "meu certo"
+[00:44:05] em P.I., na verdade, em qualquer coisa que você for estudar.
+[00:44:07] É, funcionou e eu entendi, certo?
+[00:44:09] Só funcionar não significa
+[00:44:11] que não deu certo.
+[00:44:13] É, só funcionar.
+[00:44:15] Funcionar sem dar certo
+[00:44:17] e dar errado é a mesma coisa, tá?
+[00:44:19] Funcionar sem entender
+[00:44:21] e dar errado é a mesma coisa.
+[00:44:23] Funcionar sem ter funcionou
+[00:44:25] dá certo e ter funcionou
+[00:44:27] e eu entendi porque.
+[00:44:29] E aí o nosso amigo Verônimo
+[00:44:31] ele também
+[00:44:33] lembrou aqui
+[00:44:35] que ele também usa o "isnul".
+[00:44:45] Mostre todos os registros
+[00:44:49] e a descrição
+[00:44:51] "isnul".
+[00:44:55] E aí,
+[00:44:57] esse aqui de baixo, né?
+[00:44:59] Só aparece o texto "nul".
+[00:45:01] Também é muito, isso é muito usado, porque
+[00:45:03] é,
+[00:45:05] em muitas situações de sistemas
+[00:45:07] você tem uma tabela
+[00:45:09] de produtos
+[00:45:11] que por algum motivo
+[00:45:13] uma certa informação
+[00:45:15] no fluxo de uso do sistema
+[00:45:17] ainda não tem como
+[00:45:19] o usuário imputar valor, né?
+[00:45:21] Ainda nem do caso da descrição
+[00:45:23] mas talvez disponível.
+[00:45:25] Mas disponível pode ser um disponível
+[00:45:27] de sentido disponível em estoque.
+[00:45:29] Esse campo
+[00:45:31] tem o que
+[00:45:33] pode fazer sentido que eu vou explicar.
+[00:45:35] Imagina um sistema
+[00:45:37] que você primeiro cadastra os produtos
+[00:45:39] e depois refazer o inventário
+[00:45:41] para colocar quanto está em stop.
+[00:45:43] Quando você cadastra o produto
+[00:45:45] você não tem
+[00:45:47] a quantidade de disponibilidade
+[00:45:49] disponível, porque você está cadastrando
+[00:45:51] o produto, né?
+[00:45:53] E depois, num certo momento, você vai fazer
+[00:45:55] o inventário.
+[00:45:57] E aí, só quando você faz
+[00:45:59] o inventário. Então,
+[00:46:01] aí tem uma certa frequência
+[00:46:03] de você precisar saber
+[00:46:05] quais aqueles registros que ainda não
+[00:46:07] tem valor, né?
+[00:46:09] Aí, eu vou usar os notos, não vou usar
+[00:46:11] e confesso a você
+[00:46:13] eu faço muito tempo sem usar
+[00:46:15] quando eu vou usar, eu vou por aqui
+[00:46:17] e, opa, não é igual a amor.
+[00:46:19] Que acho cruel, né?
+[00:46:21] Por que?
+[00:46:23] Um problema, né?
+[00:46:25] Deve ter alguma explicação que na verdade
+[00:46:27] eu vou falar atrás. Mas, pô,
+[00:46:29] eu quero saber quem é Nuro. Aí tem que
+[00:46:31] mudar Isnu.
+[00:46:33] Por que não é igual a Nuro? Tem uma explicação
+[00:46:35] tendo. Eu só não vou conseguir dizer
+[00:46:37] para vocês, eu posso até pesquisar mesmo
+[00:46:39] porque eu nunca fui curioso com isso
+[00:46:41] especificamente nesse aspecto, sabe?
+[00:46:43] O que eu quero falar também,
+[00:46:45] Isnatnu, Isnu...
+[00:46:47] Claro que isso aqui você pode compor, né?
+[00:46:49] Com rende, ó...
+[00:46:51] O que aí? Não tem limite
+[00:46:53] em expressão lógica como outra porra.
+[00:46:55] Leve esse carro.
+[00:46:59] Lembra também o seguinte, tá?
+[00:47:01] Eu acho que eu já falei isso, já falei
+[00:47:03] na outra aula.
+[00:47:05] Que o...
+[00:47:07] Ah, isso também é legal
+[00:47:09] para eu lembrar.
+[00:47:11] É...
+[00:47:13] Você pode comparar, mas isso aí
+[00:47:15] que eu vou falar, vocês já sabem, provavelmente
+[00:47:17] vai sofrer no molhado.
+[00:47:19] Você pode comparar
+[00:47:21] em números inteiros quem é maior do que quem.
+[00:47:23] Mesmo lógico, serve para
+[00:47:25] os números
+[00:47:27] os valores que são extremos, né?
+[00:47:29] Mesmo lógico.
+[00:47:31] Ele segue a ordem alfabética.
+[00:47:33] Por exemplo, avião é menor do que usa.
+[00:47:37] Então se tiver avião, e a avião
+[00:47:39] o a avião vai ser menor do que o avião.
+[00:47:41] Então ele...
+[00:47:43] E como é que ele...
+[00:47:45] Como é que ele...
+[00:47:47] O que é que ele faz? Ele vai entrar no caráter
+[00:47:49] na S, né? Pela S que vocês viram.
+[00:47:51] Então ele sabe ali
+[00:47:53] pela numeração, tá?
+[00:47:55] Então você pode até fazer aqui
+[00:47:57] um teste.
+[00:48:07] É, aqui não vai dar jeito de fazer um teste.
+[00:48:09] Legal? Muito bem.
+[00:48:11] Vamos enfreio, tudo certo aí?
+[00:48:13] Tudo tranquilo?
+[00:48:15] Beleza, né?
+[00:48:17] Ó, ok.
+[00:48:19] É, o plano também é muito usado, né?
+[00:48:21] Você quer saber quem, quem ele não tem uma certa data.
+[00:48:23] Então é bem...
+[00:48:25] É bem comum você usar isso aí, né?
+[00:48:29] Vou só pegar aqui mais o próximo.
+[00:48:31] Então a gente avançou aqui.
+[00:48:33] Vê só mais um por causa do horário.
+[00:48:35] Como é que é 15 para 8?
+[00:48:37] Pessoal, vamos liberar aí para a merenda?
+[00:48:39] Aí pode falar a merenda não, que a data não tá aqui, né?
+[00:48:41] Vê esse exemplo aqui, ó.
+[00:48:43] Qualquer sequência de caracteres, um P,
+[00:48:45] qualquer canto, qualquer série de caracteres
+[00:48:47] que não é esse.
+[00:48:49] A única restrição
+[00:48:51] é que tem um P nas do S.
+[00:48:53] O resto pode ter qualquer coisa, né?
+[00:48:55] Então isso aí acaba sendo muito útil
+[00:48:57] na prática, tá?
+[00:48:59] Vou liberar vocês daqui a 15 minutos
+[00:49:01] se a gente retoma.
+[00:49:03] Mas eu acredito que se por causa desse jeito,
+[00:49:05] se tiver um P e um S juntos,
+[00:49:07] ele não vai apresentar.
+[00:49:09] É para, é para.
+[00:49:11] Vamos fazer esse teste.
+[00:49:13] Porque a sequência de caracteres
+[00:49:15] não se enula, tá?
+[00:49:17] Vê, vamos fazer esse aqui, ó.
+[00:49:19] Esse cara aqui.
+[00:49:23] Vamos pegar esse aqui.
+[00:49:41] Desculpe.
+[00:49:43] Truca aí o cara do truque aí mesmo.
+[00:49:47] Truque aí.
+[00:49:49] Tá certo.
+[00:49:51] Ó, o A
+[00:49:53] em qualquer sequência.
+[00:49:55] Ele trouxe esse, mas realmente não trouxe o bruza.
+[00:49:57] Não trouxe o bruza, tem razão.
+[00:49:59] Tem razão, né?
+[00:50:01] Porque ele espera algum caractere.
+[00:50:03] Ele se pega pelo menos um, né?
+[00:50:05] Mas eu tentei com o IN do cinto.
+[00:50:07] Opa, desculpa aqui, desculpa aqui.
+[00:50:09] Desculpa aqui, pera aí.
+[00:50:11] Deixa eu fazer de novo.
+[00:50:13] O teste não foi feliz.
+[00:50:15] Eu continuo, vou voltar a minha...
+[00:50:17] de nulo.
+[00:50:19] É, porque aqui não foi feliz.
+[00:50:21] Eu continuo achando que o nulo
+[00:50:23] é qualquer sequência de caracteres, tá?
+[00:50:25] Aqui, ó.
+[00:50:27] Então, esse cara vem
+[00:50:29] porque, mesmo não tendo nada
+[00:50:31] depois,
+[00:50:33] uma sequência de caracteres nula
+[00:50:35] é uma sequência de caracteres.
+[00:50:37] Sim, essa parte do IN nesse caso
+[00:50:39] é sim, mas o que eu estou questionando
+[00:50:41] justamente é porque você tá inputando
+[00:50:43] que eu quero que tenha um S
+[00:50:45] depois de algum outro caractere.
+[00:50:47] Se você quiser
+[00:50:49] algum outro caractere.
+[00:50:51] Pode ser que tenha qualquer coisa e S.
+[00:50:53] Eu tentei com o IN do cinto.
+[00:50:55] Beija bem. Deu certo.
+[00:50:57] Não é assim, Tiago.
+[00:50:59] Se você quer...
+[00:51:01] Tendi.
+[00:51:03] Vou dar só aí.
+[00:51:05] Aí funciona aí o nulo assim, né?
+[00:51:07] Vou dizer aí de novo, teu caso.
+[00:51:09] Não, é porque
+[00:51:11] como eu pensava aqui, como você bota
+[00:51:13] e acha que isso é isso? Aí diz assim, eu quero
+[00:51:15] qualquer canto.
+[00:51:17] Só que depois você coloca um porcento.
+[00:51:19] É?
+[00:51:21] Depois um S, eu quero que
+[00:51:23] eu encontre
+[00:51:25] qualquer coisa que tenha um A
+[00:51:27] e logo depois
+[00:51:29] qualquer informação e depois um S.
+[00:51:31] Isso. E não subsecuente, porque
+[00:51:33] senão seria um A S.
+[00:51:35] Pode ser um A S
+[00:51:37] ou pode ser A, qualquer coisa A S.
+[00:51:39] Os dois, ele vai retornar independentemente
+[00:51:41] de tal junto ou separado? Exatamente.
+[00:51:43] O coringa considera inclusive vazio.
+[00:51:45] É porque a estringue...
+[00:51:47] É, o coringa...
+[00:51:49] A estringue vazia é uma estringue.
+[00:51:51] Vazia. Mas é uma estringue, né?
+[00:51:53] Então aqui, se você disputar
+[00:51:55] é...
+[00:51:57] I, pecente,
+[00:51:59] T.
+[00:52:01] Não, assim é... N, pecente,
+[00:52:03] T.
+[00:52:05] Que vai parecer o S.
+[00:52:07] A minha expectativa é o S.
+[00:52:17] Então, qualquer coisa
+[00:52:19] N,
+[00:52:21] pecente,
+[00:52:23] T. E qualquer coisa, né?
+[00:52:25] Porque senão ele não...
+[00:52:27] Ele não vai também.
+[00:52:33] Sim, tudo tá?
+[00:52:37] Porque a estringue vazia
+[00:52:39] é...
+[00:52:41] É bem uma estringue.
+[00:52:43] Agora aí, pessoal, vai discussar?
+[00:52:45] Ok?
+[00:52:47] Sim.
+[00:52:51] Tá aí no...
+[00:52:53] Você está entendendo, você está entendendo, sério?
+[00:52:55] Muito bem, então...
+[00:52:57] Me lembro.
+[00:52:59] Então, tipo assim, se o pessoal quiser procurar
+[00:53:01] eu não sei como é que ele está criado
+[00:53:03] ou organizado dentro do público.
+[00:53:05] Se eu botar um porcento...
+[00:53:07] Entre todas as entras
+[00:53:09] até o final
+[00:53:11] de alguma forma que ele retorna esse aí.
+[00:53:13] É, ele vai...
+[00:53:15] Qualquer linha
+[00:53:17] que tenha essas duas letras
+[00:53:19] em qualquer canto, vai.
+[00:53:21] Se você está pecente
+[00:53:23] eu quero saber que todos os registros
+[00:53:25] que no campo descrição
+[00:53:27] tem um A e um B
+[00:53:29] em qualquer canto.
+[00:53:31] Pacente, A, pacente, B, pacente.
+[00:53:33] Ok.
+[00:53:35] Então, por exemplo, se você fosse procurar
+[00:53:37] um homem de uma pessoa
+[00:53:39] só que eu sei como é que normalmente
+[00:53:41] ele existe, só que eu não sei como é que está escrito
+[00:53:43] no formato dela.
+[00:53:45] Então eu pego principalmente as básicas
+[00:53:47] que todo mundo tem.
+[00:53:49] E algumas letras básicas, tipo...
+[00:53:51] Então, vamos dizer...
+[00:53:53] Veja, assim, tem um sutil na lana
+[00:53:55] mas aí tem uma fulaminha que botou um magado
+[00:53:57] do seu problema.
+[00:53:59] O um W, no final, para a gente não significa
+[00:54:01] prenda nenhum, mas para ela tem um magado
+[00:54:03] do que ela tem.
+[00:54:05] Fora as situações que eu quero escrever errada, né?
+[00:54:07] É isso.
+[00:54:09] Existe um monte de certo.
+[00:54:11] Você usa as letras, você usa as chaves
+[00:54:13] e é muito complicado, tá?
+[00:54:15] Então acontece muito isso aí.
+[00:54:17] Você usar isso
+[00:54:19] para identificar essas anomadesas.
+[00:54:21] Então, uma dúvida...
+[00:54:23] O...
+[00:54:25] O que ela não encontrou agora?
+[00:54:27] E essa é uma posição profissional.
+[00:54:29] Inclusive, ele é
+[00:54:31] excessivo, né?
+[00:54:33] Ele trabalha muito, também.
+[00:54:55] Isso aí?
+[00:54:59] Não, entra e vale, já viu?
+[00:55:01] Nós estamos aqui só, é...
+[00:55:03] Pode...
+[00:55:05] Pode sair.
+[00:55:07] É...
+[00:55:09] Aí eu sinto, né?
+[00:55:11] Ele...
+[00:55:13] Ele trouxe o sinto.
+[00:55:15] A minha memória era aquele sensitivo,
+[00:55:17] mas não é.
+[00:55:19] Deixa eu ver aqui o nariz.
+[00:55:25] Aí...
+[00:55:31] Aí não...
+[00:55:33] Aí não.
+[00:55:35] É ali atrás, ó.
+[00:55:37] Ah...
+[00:55:39] Talvez não é aquele sensitivo, não.
+[00:55:41] Talvez...
+[00:55:43] Vou confirmar isso aqui, mais...
+[00:55:45] 230.
+[00:55:49] Ok, isso é insensível.
+[00:55:55] É...
+[00:56:05] É meio do que nada.
+[00:56:07] É.
+[00:56:09] Bom, padrão, a maioria
+[00:56:11] é que esse sensitivo, né?
+[00:56:13] Mas realmente depende da...
+[00:56:15] Case insensitive.
+[00:56:17] Insensitiva.
+[00:56:19] Não diferencia maiúsculas e minúsculas.
+[00:56:21] Isso.
+[00:56:23] No esquerda que é.
+[00:56:31] É.
+[00:56:41] É, o default
+[00:56:43] é que a recebe não considera
+[00:56:45] maiúsculas e minúsculas desistindo.
+[00:56:47] Desistindo.
+[00:56:53] Aí ele tem aqui
+[00:56:55] alguns opções,
+[00:56:57] uma configuração aqui que você faz.
+[00:56:59] Mas realmente
+[00:57:01] ele não é aquele sensitivo, tá certo?
+[00:57:09] Sim, acentuação.
+[00:57:23] É.
+[00:57:25] Ó, a situação
+[00:57:27] ele pega, claro.
+[00:57:29] É porque é um outro caráctere, né?
+[00:57:31] Apesar de que
+[00:57:33] o SQ2
+[00:57:35] do amaiúsculo,
+[00:57:37] ele é
+[00:57:39] também SQ2 diferente.
+[00:57:41] Por que você tá dizendo que ele pegou o acento?
+[00:57:43] Ah, não, tá que o acento tá aqui no ar, né?
+[00:57:45] Porque tem um ar que não é
+[00:57:47] acentuado no avião.
+[00:57:49] É isso.
+[00:57:51] Aquele outro.
+[00:57:53] E não é ele, né?
+[00:57:55] Então...
+[00:57:59] É porque é com o único paciente
+[00:58:01] que a gente tem aí, do ar.
+[00:58:03] É, e tem o outro ar, né?
+[00:58:05] É, e tem o outro ar.
+[00:58:07] Tem que mudar pra o avião.
+[00:58:09] Não, mas é o que?
+[00:58:11] Mas aqui é o seguinte, ó.
+[00:58:13] É, aqui vai trazer só...
+[00:58:15] Aqui com o próprio, tá certo?
+[00:58:17] Porque se eu botar o ar
+[00:58:19] o tio, ele só traz o avião.
+[00:58:21] Ele não traz, por exemplo,
+[00:58:23] o sapato e a blusa.
+[00:58:25] Sim.
+[00:58:27] Se fosse diferente, ele teria...
+[00:58:29] Qual que é, galera?
+[00:58:31] Entendeu aqui, né?
+[00:58:33] Vamos dar parada aí.
+[00:58:35] E você pode pegar um legal...
+[00:58:37] Qual é que ele tem também?
+[00:58:41] É, não. Aqui é complicado.
+[00:58:43] Tá dito.
+[00:58:45] Olha o Dias Pro. Vou entregar, pessoal.
+[00:58:47] E aí?
+[00:58:55] Olha que deu trabalho com esses prógenes.
+[00:58:57] Ah, mas...
+[00:59:01] É o Zabzer, menino.
+[00:59:03] Seja Henrique.
+[00:59:05] Eu vou.
+[00:59:09] Antônio Francisco Moreira.
+[00:59:13] Beatriz Lima.
+[00:59:15] O Zabzer, tudo uma nova.
+[00:59:19] Tiago.
+[00:59:21] Felicioso.
+[00:59:23] Joliana da Silva.
+[00:59:25] Vou botar lá.
+[00:59:27] Já sei.
+[00:59:29] Já vou lá.
+[00:59:31] Não.
+[00:59:33] Grave ela.
+[00:59:37] Ademar, Rodrigues.
+[00:59:39] Venícius.
+[00:59:41] Tá bem, tá bem.
+[00:59:43] Kelvin.
+[00:59:45] Samuel.
+[00:59:47] De baixo.
+[00:59:49] Daniel Vito.
+[00:59:51] Zaberto tava aí.
+[00:59:53] Foi achado na mesa dela.
+[00:59:55] Tá revoltado.
+[00:59:57] Tá revoltado?
+[00:59:59] Joel.
+[01:00:01] A irmã dele tá ali, ó.
+[01:00:03] A irmã dele pega pra mim que eu tô pra ele.
+[01:00:09] André Félix.
+[01:00:11] Vem ver essa minha luz.
+[01:00:15] Tem uma teoria.
+[01:00:17] Gabriel Moraes.
+[01:00:19] Gabriel.
+[01:00:21] Paulo Vito.
+[01:00:27] Venícius Diaraújo.
+[01:00:29] Eu dou pra ele terminar.
+[01:00:31] Aqui é nosso entregador.
+[01:00:33] João Pedro.
+[01:00:35] Qual é o João Pedro?
+[01:00:37] Pensei.
+[01:00:41] Mateus.
+[01:00:43] Valeu, cara.
+[01:00:45] Mateus, alguma coisa?
+[01:00:47] Não vem, não vem.
+[01:00:49] É Manuel Martins.
+[01:00:53] É o Manuel Martins, é o Manuel.
+[01:00:55] Venícius.
+[01:00:57] Tá pra terminar naquele dia.
+[01:00:59] Diago.
+[01:01:01] Soma, Martins.
+[01:01:03] Paulo Lopes.
+[01:01:05] Não.
+[01:01:07] O José Ricardo.
+[01:01:09] Jefferson Silva.
+[01:01:11] Daí, depois de terminar.
+[01:01:13] João Pedro Alves.
+[01:01:15] Lívia.
+[01:01:17] Será que tem só pra onde?
+[01:01:19] Tá pronta.
+[01:01:21] Vila, pronta, dá.
+[01:01:27] Então, Gabriel.
+[01:01:29] Launedícia.
+[01:01:37] Daniela Ferreira.
+[01:01:41] Damaris.
+[01:01:43] Rafael Morão.
+[01:01:47] João Daniela Emperrocha.
+[01:01:51] Guilherme Mauvera.
+[01:01:59] Daniela.
+[01:02:01] Guilherme Mauvera.
+[01:02:03] Vamos lá.
+[01:02:09] Que são 5 ou 6?
+[01:02:15] A.
+[01:02:17] Soma, José.
+[01:02:21] Ana Beatriz.
+[01:02:23] Guilherme Mauvera.
+[01:02:27] Luiz.
+[01:02:29] Luiz Alves.
+[01:02:35] Guilherme Mauvera.
+[01:02:37] Ana, Ana, Ana, Lima.
+[01:02:41] Alguém não sabe o que está aqui.
+[01:02:43] Geronimo.
+[01:02:45] Calma aí.
+[01:02:47] Vai pegar a sua aí. Você tirou 10, genónimo.
+[01:02:51] Alimão, como é que estão aí
+[01:02:53] os empregos ali no lugar?
+[01:02:55] Eu não deu certo na loja.
+[01:02:57] Eu não vou receber salário
+[01:02:59] desse mês de cenário.
+[01:03:01] Por que?
+[01:03:03] Rebu aí.
+[01:03:05] Você não rebu junto com o carro?
+[01:03:07] Não.
+[01:03:09] Você pode me dar um pra você.
+[01:03:11] Posso?
+[01:03:13] Você está Juliana?
+[01:03:15] Juliana da Silva?
+[01:03:17] Ele pode me dar um pra os meus amigos,
+[01:03:19] mas ela tem amigos.
+[01:03:21] Fala pra Daniel.
+[01:03:27] E o talvez.
+[01:03:31] Eu não sei quanto eu vou contar a ela.
+[01:03:37] A próxima prova de atrever lá
+[01:03:39] é a nossa vitória.
+[01:03:47] Mas foi o que?
+[01:03:49] Foi ela que aí?
+[01:03:53] Eu trabalho com uma terceirizada.
+[01:03:55] Até o dia 27.
+[01:03:57] Eu não vou dar relatórias das aulas
+[01:03:59] que eu dei.
+[01:04:01] Aí que eu não fui mandar.
+[01:04:03] Eu falei com a minha supervisória
+[01:04:05] que ela queria ajeitar algumas.
+[01:04:09] Com algumas pontas ali,
+[01:04:11] olha que estava pra um e pra outra.
+[01:04:13] Não sei o que.
+[01:04:15] Não deu resposta tempo.
+[01:04:17] E eu não mandei.
+[01:04:23] Você faz esse tipo de coisa
+[01:04:25] a primeira vez, né?
+[01:04:27] Pois é, da outra vez que tinha acontecido
+[01:04:29] eu pedi um prazo pra ver como ia ser feito.
+[01:04:31] E eu fiz isso.
+[01:04:33] É que as vezes a gente tem que
+[01:04:35] ajustar alguma coisa ou outra.
+[01:04:45] Mas é foda.
+[01:04:47] Eu estou bem desestimulado,
+[01:04:49] bem chateado com o cenário do centro.
+[01:04:51] Eu estou feliz porque eu tenho um nível de oportunidade aqui.
+[01:04:53] Na semana que vem eu vou começar
+[01:04:55] a da aula aqui a noite.
+[01:04:57] É?
+[01:04:59] De Excel.
+[01:05:05] Inclusive, queria muito
+[01:05:07] ir nesse
+[01:05:09] aniversário do
+[01:05:11] Robini, mas minha aula
+[01:05:13] começou a dia 3.
+[01:05:15] Ah, é tá.
+[01:05:17] A aula é a noite.
+[01:05:19] É, a tarde.
+[01:05:21] É a tarde.
+[01:05:27] É, pra falar também, né?
+[01:05:29] Porque estou afastado ali, né?
+[01:05:41] Não, eu leio, leio.
+[01:05:43] Mas eu não sou muito rigoroso, não?
+[01:05:45] Porque tá assim
+[01:05:47] todo mundo rumo, tá assim.
+[01:05:49] Aí, eu não sei que esse bar
+[01:05:51] não canta assim muito.
+[01:05:53] Não sei que viagem é bonito.
+[01:05:55] Muito, é.
+[01:05:57] Existe viagens bem interessantes.
+[01:06:01] Amanhã, que é amanhã.
+[01:06:07] Você viu a sua cedinha?
+[01:06:17] Não, tinha um vídeo de Paraturnal.
+[01:06:21] Tá marcomulando aí com o professor
+[01:06:23] pra receber um problema.
+[01:06:25] Tá tendo um maior nome daquele.
+[01:06:27] Estou notando lá embaixo.
+[01:06:33] Que cedinho, né?
+[01:06:37] Tá mais baixo?
+[01:06:39] Tá mais simples, né?
+[01:06:41] Bem, não tem mais mais.
+[01:06:45] Sim, nós vamos usar ele, né?
+[01:06:47] Tá bem.
+[01:06:49] Aí, pra cedas, tá pra precisar aqui, cara.
+[01:06:51] Pra cedas.
+[01:06:53] Alumina profissional.
+[01:06:55] E é assim que a gente não tem tempo.
+[01:06:57] É, assim.
+[01:06:59] Tirou 10, você?
+[01:07:01] Tirei.
+[01:07:03] Prendi um burrinho.
+[01:07:07] Estou esperando amanhã do Outback.
+[01:07:11] Ah, do projeto Teclador foi 10.
+[01:07:17] A projeção de edição também.
+[01:07:21] Eu repito o mesmo projeto
+[01:07:23] só que diferenciou da comunidade, né?
+[01:07:27] A minha comunidade que é o INP, né?
+[01:07:29] Não me desce isso.
+[01:07:35] É um problema, tá?
+[01:07:37] Eu sei que todo mundo faz isso.
+[01:07:39] É que isso é isso.
+[01:07:41] Só da fecomércio é injeçado.
+[01:07:45] Injeçado?
+[01:07:47] Hum?

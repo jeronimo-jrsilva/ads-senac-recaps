@@ -2,6 +2,7 @@
 tipo: portal
 titulo: "Projeto de Extensão - Oficina de Feedback e Liderança"
 disciplina: "Projeto de Extensão"
+rotulo: "Oficina 02"
 semestre: "2026.2"
 data: 2026-09-19
 professor: "Haélio Márcio"

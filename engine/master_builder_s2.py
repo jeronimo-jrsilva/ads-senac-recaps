@@ -19,7 +19,10 @@ DISC_STYLES = {
     "Linguagem C": {"short": "C", "color": "#06b6d4", "bg": "rgba(6, 182, 212, 0.12)", "border": "rgba(6, 182, 212, 0.4)", "tag": "tag-c", "order": 3},
     "Banco de Dados Relacional": {"short": "BD", "color": "#10b981", "bg": "rgba(16, 185, 129, 0.12)", "border": "rgba(16, 185, 129, 0.4)", "tag": "tag-bd", "order": 4},
     "Projeto de Extensão": {"short": "Ext", "color": "#ec4899", "bg": "rgba(236, 72, 153, 0.12)", "border": "rgba(236, 72, 153, 0.4)", "tag": "tag-ext", "order": 5},
-    "Outros": {"short": "Outros", "color": "#94a3b8", "bg": "rgba(148, 163, 184, 0.12)", "border": "rgba(148, 163, 184, 0.4)", "tag": "tag-outros", "order": 99},
+    "Coordenação Institucional": {"short": "Coord", "color": "#38bdf8", "bg": "rgba(56, 189, 248, 0.12)", "border": "rgba(56, 189, 248, 0.4)", "tag": "tag-coord", "order": 6},
+    "Ciclo Avaliativo (AV1)": {"short": "AV1", "color": "#ef4444", "bg": "rgba(239, 68, 68, 0.12)", "border": "rgba(239, 68, 68, 0.4)", "tag": "tag-av1", "order": 7},
+    "Registro Acadêmico": {"short": "Aviso", "color": "#94a3b8", "bg": "rgba(148, 163, 184, 0.12)", "border": "rgba(148, 163, 184, 0.4)", "tag": "tag-aviso", "order": 8},
+    "Outros": {"short": "Geral", "color": "#94a3b8", "bg": "rgba(148, 163, 184, 0.12)", "border": "rgba(148, 163, 184, 0.4)", "tag": "tag-outros", "order": 99},
 }
 
 def get_disc_meta(disc_name):
@@ -105,9 +108,11 @@ def linkify(html_content, glossary_terms):
     return "".join(soup_tokens)
 
 def get_label(num_str):
-    if num_str.isdigit():
+    if not num_str:
+        return ""
+    if str(num_str).isdigit():
         return f"Aula {int(num_str):02d}"
-    return num_str
+    return str(num_str)
 
 def clean_glossary_definition(raw_def):
     wiki_url = ""
@@ -1018,11 +1023,17 @@ def build():
             main_content = parts[0]
             glossary_content = parts[1] if len(parts) > 1 else ""
 
+            rotulo = meta.get("rotulo", "")
             lesson_num = ""
             num_match = re.search(r'Aula\s*(\d+)', meta.get("titulo", ""), re.IGNORECASE)
-            if num_match: lesson_num = num_match.group(1)
+            if num_match: 
+                lesson_num = num_match.group(1)
+            elif rotulo:
+                lesson_num = rotulo
 
             disc_name = meta.get("disciplina", "Geral")
+            if "banco de dados" in disc_name.lower():
+                disc_name = "Banco de Dados Relacional"
             disc_meta = get_disc_meta(disc_name)
             short_disc = disc_meta["short"]
 
@@ -1095,17 +1106,32 @@ def build():
         for l in week['lessons']:
             html_linked = linkify(l['html_raw'], glossary_list)
             label = get_label(l["num"])
+            date_and_label = f'{l["date"]} • {label}' if label else l["date"]
             
             badge_html = f"<span class='disc-badge' style='background:{l['bg']}; color:{l['color']}; border:1px solid {l['border']};'>{l['disc']} • {l['prof']}</span>"
-            lessons_html += f'<section id="{l["id"]}" class="spa-section"><div class="lesson-card"><div class="lesson-metadata">{badge_html} <span style="color:#71717a;">{l["date"]} • {label}</span></div><h1 style="font-size: 1.6rem; margin: 15px 0 25px 0; color: #fff;">{l["title"]}</h1>{html_linked}</div></section>'
+            
+            # Status de Revisão discreto
+            is_revisao = w_id in ["W11", "W12"]
+            if is_revisao:
+                status_html = "<span class='lesson-status em-revisao' style='color: #d29922; font-size: 0.72rem; opacity: 0.85; margin-left: auto; display: inline-flex; align-items: center; gap: 5px; letter-spacing: 0.3px;' title='Transcrição automática em processo de validação'><span style='font-size: 8px;'>◐</span> Em revisão</span>"
+            else:
+                status_html = "<span class='lesson-status revisado' style='color: #3fb950; font-size: 0.72rem; opacity: 0.85; margin-left: auto; display: inline-flex; align-items: center; gap: 5px; letter-spacing: 0.3px;' title='Conteúdo revisado e aprovado'><span style='font-size: 8px;'>●</span> Revisado</span>"
+
+            lessons_html += f'<section id="{l["id"]}" class="spa-section"><div class="lesson-card"><div class="lesson-metadata">{badge_html} <span style="color:#71717a;">{date_and_label}</span>{status_html}</div><h1 style="font-size: 1.6rem; margin: 15px 0 25px 0; color: #fff;">{l["title"]}</h1>{html_linked}</div></section>'
             
             d_name = l["disc"]
-            if d_name not in disciplines: disciplines[d_name] = {"prof": l["prof"], "short": l["short"], "meta": get_disc_meta(d_name), "lessons": []}
+            if "banco de dados" in d_name.lower():
+                d_name = "Banco de Dados Relacional"
+            if d_name not in disciplines:
+                prof_display = l["prof"]
+                if "linguagem c" in d_name.lower():
+                    prof_display = "Vinicius-Matheus"
+                disciplines[d_name] = {"prof": prof_display, "short": l["short"], "meta": get_disc_meta(d_name), "lessons": []}
             disciplines[d_name]["lessons"].append(l)
 
         # Montar mini-pills da semana para a Linha do Tempo
         mini_pills_html = "".join([
-            f"<span class='timeline-mini-pill' style='background:{l['bg']}; color:{l['color']}; border:1px solid {l['border']};' onclick=\"event.stopPropagation(); showSection('{l['id']}');\">{l['short']} {get_label(l['num'])}</span>"
+            f"<span class='timeline-mini-pill' style='background:{l['bg']}; color:{l['color']}; border:1px solid {l['border']};' onclick=\"event.stopPropagation(); showSection('{l['id']}');\">{(l['short'] + ' ' + get_label(l['num'])).strip()}</span>"
             for l in week['lessons']
         ])
         
@@ -1133,7 +1159,8 @@ def build():
         discipline_view_html += f"<div class='discipline-row'><span class='disc-badge' style='{badge_style}'>{d_name}</span> <span style='font-size:0.8rem; margin-right:15px;'>{prof_label}</span><div class='lesson-pills'>"
         for l in sorted(disciplines[d_name]["lessons"], key=lambda x: x["date"]):
             pill_style = f"background:{d_meta['bg']}; color:{d_meta['color']}; border:1px solid {d_meta['border']};"
-            discipline_view_html += f"<button class='lesson-pill' style='{pill_style}' onclick=\"showSection('{l['id']}')\">{l['short']} {get_label(l['num'])}</button>"
+            pill_text = f"{l['short']} {get_label(l['num'])}".strip()
+            discipline_view_html += f"<button class='lesson-pill' style='{pill_style}' onclick=\"showSection('{l['id']}')\">{pill_text}</button>"
         discipline_view_html += "</div></div>"
     discipline_view_html += "</div></div></details>"
 

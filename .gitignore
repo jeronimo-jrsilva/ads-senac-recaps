@@ -1,0 +1,15 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+cockpit/.venv/
+
+# Local SQLite Database (Privado)
+data/recap_senac.db

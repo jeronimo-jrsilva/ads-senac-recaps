@@ -1,0 +1,1746 @@
+# =====================================================================
+# ARQUIVO DE ORIGEM : Voz 261029_082039.m4a
+# DATA DA GRAVAÇÃO  : 2026-10-29 (Qui)
+# HORÁRIO (INÍCIO-FIM): 08:20:39 -> 09:59:20 (1h38m)
+# CLASSIFICAÇÃO     : AULA_ADS_MANHA | Linguagem C / Extensão
+# ENTRA NO PORTAL?  : SIM
+# =====================================================================
+
+[00:00:00] Os pontos de resolução são importantes porque eles são a base para as estruturas de nãs.
+[00:00:09] Hoje tem que ficar aqui.
+[00:00:11] É, hoje todo mundo só tem que celular.
+[00:00:13] Era daqui, sim.
+[00:00:19] Tá, o conceito de tarde, né?
+[00:00:21] O que é o tarde? É o tipo avistrato de dados.
+[00:00:24] Então o tarde, ele vai deixar um comportamento, quando a gente está falando em comportamento, a gente está falando em operações.
+[00:00:33] De uma estrutura ocultando a sua implementação. A gente sabe que existe, mas o que tem?
+[00:00:40] O dentro da parte de implementação, o que ela faz a gente não sabe.
+[00:00:44] É tipo as...
+[00:00:46] Como ela faz, né? A gente sabe o que faz, mas não sabe como é que ela faz.
+[00:00:49] Tipo aquelas, tipo que interfacem o nome do Java, que você define um contrato, que você define, que existe, mas você não implementa na hora que você define.
+[00:00:59] Exato.
+[00:01:00] Você sabe o que tem e sabe o que faz, mas não como é que ele faz, é uma caixa preta.
+[00:01:05] Exato.
+[00:01:08] Então exemplo de operações de uma lista, geralmente as destras que a gente vai ver, ela tem essas operações aqui.
+[00:01:14] Criar, inserir, remover, buscar, imprimir e destruir.
+[00:01:22] Destruir, perdão.
+[00:01:23] A gente vai remover e destruir.
+[00:01:25] É. Qualquer um você vai remover um elemento da estrutura.
+[00:01:29] Destruir é pra pouca estrutura todo dia.
+[00:01:32] Não, o drop está também.
+[00:01:34] É.
+[00:01:36] Então o usuário, a vontade, não precisa saber como é que funciona, é só o que faz.
+[00:01:42] É.
+[00:01:44] Basicamente um crude ali.
+[00:01:46] Isso. Vamos começar do começo. A primeira estrutura que a gente vai ver hoje é a lista.
+[00:01:51] Está mais lindo.
+[00:01:52] Quando a gente fala a lista, a gente está falando de sequência linear de elementos.
+[00:01:56] Cada elemento ele aponta para o próximo.
+[00:02:00] É o que a gente chama de lista encadeada.
+[00:02:03] Qual é a vantagem que você tem tamanho dinâmico?
+[00:02:06] Então você pode armazenar a quantidade de informação que você quiser.
+[00:02:09] Ou você tiver memória, obviamente.
+[00:02:11] Qual é a vantagem? Acesse sequencial.
+[00:02:14] Não aleatório como vetor.
+[00:02:17] Dá pra você fazer a implementação de vista de duas fotos.
+[00:02:20] Ou utilizando um vetor.
+[00:02:22] Ou utilizando um nó.
+[00:02:24] O que a gente vai ver.
+[00:02:25] A tarefa é indicada para o que vocês dierem.
+[00:02:27] Como é que eu faço a implementação da lista?
+[00:02:29] Ou utilizando um vetor.
+[00:02:31] Estudar com essa lista depois.
+[00:02:33] É bem simples, não tem desterro.
+[00:02:35] O que a gente vai trabalhar aqui já com a parte de...
+[00:02:40] Estrutura.
+[00:02:42] Como assim?
+[00:02:44] Olha.
+[00:02:46] Aqui nós temos uma lista simples.
+[00:02:49] Na lista simples a gente vai ter um nó.
+[00:02:52] Um componente que vai ser armazenado dentro da lista.
+[00:02:55] E o que tem dentro do nó?
+[00:02:57] Eu voltei uma informação número, né?
+[00:03:01] E aí eu voltei um conteiro que vai apontar para o próximo elemento.
+[00:03:06] Lembra do track death, né?
+[00:03:10] Para que eu não fique toda vida extractional.
+[00:03:12] O botão type death extractional.
+[00:03:15] Aí eu só chamo um nó uma vez.
+[00:03:18] Então eu vou sempre ter dentro do meu nó um inteiro.
+[00:03:22] E um conteiro que aponta para o próximo elemento.
+[00:03:25] O extractional faz o bebê?
+[00:03:28] Qual?
+[00:03:30] O extract.
+[00:03:32] A estrutura.
+[00:03:34] Dentro da minha estrutura tem o que?
+[00:03:36] O inteiro e o conteiro.
+[00:03:38] A estrutura é análoga ao objeto, né?
+[00:03:42] É.
+[00:03:44] Não é, mas é análoga.
+[00:03:46] Isso, isso.
+[00:03:48] Beleza.
+[00:03:50] Vamos ver as operações básicas que tem na lista.
+[00:03:54] A primeira operação básica que a Bruninho fez foi o quê?
+[00:03:56] Criar.
+[00:03:58] Criar um nó.
+[00:04:00] Está vendo que dentro do parâmetro eu estou passando um valor.
+[00:04:04] É aquele valor que eu inserio dentro do meu nó.
+[00:04:06] E eu estou dando coca no conteiro, né?
+[00:04:08] Porque lá no final ele retoma.
+[00:04:10] O conteiro desse nó.
+[00:04:12] Criar aqui um nó, né?
+[00:04:14] Uê, no caso.
+[00:04:16] Aqui é um nó.
+[00:04:18] Pelo maloque.
+[00:04:20] Depois, peguei a informação que eu estou recebendo.
+[00:04:26] A informação do nó.
+[00:04:30] E o nó aproxa a ponta pra nuvo.
+[00:04:34] É importantíssimo, porque em toda a vida você pega...
+[00:04:38] Quando você vai criar o primeiro nó...
+[00:04:40] Primeiro vez o nó, você pega e bota o próximo ponta pra nuvo.
+[00:04:44] Está aqui, eu já criava o primeiro nó.
+[00:04:48] Ok? Até aqui?
+[00:04:50] Sim.
+[00:04:52] O primeiro nó fica na ponta pra nuvo?
+[00:04:54] O próximo elemento, quando você cria um nó, ele tem que putar pra nuvo.
+[00:04:58] Tá?
+[00:05:00] Bem-vindos.
+[00:05:02] O próximo operação, inserir.
+[00:05:04] Dá pra você fazer inserção na lista, né?
+[00:05:06] Ou no início, ou no meio, ou no fim.
+[00:05:10] Quem vai determinar isso aí vai ser o problemador.
+[00:05:14] Nesse caso aqui, eu estou colocando pra inserir no início.
+[00:05:18] Aí eu estou passando o conteiro lá da primeira lista.
+[00:05:22] E aí o que eu fiz?
+[00:05:26] Ele tem um nó, hein?
+[00:05:28] Que eu vou criar a partir da força...
+[00:05:32] Mostre o que eu fiz lá que eu peguei.
+[00:05:34] Passando esse valor.
+[00:05:36] Aí eu vou botar aqui o nó próximo.
+[00:05:38] Ele vai contar pras terbeses com isto.
+[00:05:44] O "N" você tinha que dizer nó?
+[00:05:52] Então você tem um nó.
+[00:05:56] Aí o nó vai ter uma informação que é algum elemento, né?
+[00:06:00] E aqui eu vou ter um conteiro...
+[00:06:06] E aqui eu vou ter um conteiro que vai contar pra próxima elemento.
+[00:06:10] No caso que eu estou colocando o nó.
+[00:06:12] Eu estou criando agora.
+[00:06:14] Nesse caso aqui, que a gente está começando a criar a lista.
+[00:06:18] A lista não tem nenhum elemento.
+[00:06:20] Vamos dizer que a lista é nuvo.
+[00:06:22] Então o que é isso aí que eu estou aqui?
+[00:06:24] Diga o valor aí pra mim.
+[00:06:26] Três.
+[00:06:30] Então eu criei o nó, que tem o valor três.
+[00:06:34] Peguei o próprio e vou ter que contar pra nuvo.
+[00:06:38] E aí depois o que ele fez?
+[00:06:40] Acho que é isso com o listo, mas você é bem.
+[00:06:44] Ou seja, a minha lista agora...
+[00:06:48] Vai ser esse elemento aqui.
+[00:06:52] Vou criar um outro...
+[00:06:54] Um outro, um ensino e outro elemento.
+[00:06:56] Tá?
+[00:06:58] Aí vou criar...
+[00:07:00] Qual o valor?
+[00:07:02] Vens.
+[00:07:06] Aí esse cara aqui, que é o próximo e é ponto pra nuvo, né?
+[00:07:12] Tá criado.
+[00:07:14] Só que aqui quando chega aqui, "n" e "pro" que está ponto pra lista.
+[00:07:18] Quem é a lista?
+[00:07:22] Então a gente tira esse nuvo aqui e volta pra plantar pra esse cara aqui.
+[00:07:30] E a lista agora recebe "n".
+[00:07:34] Ou seja...
+[00:07:44] Dá um coração inserindo um elemento?
+[00:07:48] Eu estou sempre inserindo um elemento no início da minha lista.
+[00:07:52] Dá pra você inserir no início, dá pra você inserir no fim, dá pra inserir no meu.
+[00:07:56] Quem vai determinar isso aí é o problemador.
+[00:08:00] Até aqui tá trepindo.
+[00:08:04] Aqui eu estou sempre fazendo a inscrição dos elementos lá no início da lista.
+[00:08:10] Imprimi.
+[00:08:12] O que é que ele faz pra imprimir?
+[00:08:14] Não vou precisar retornar nada.
+[00:08:18] Estou passando.
+[00:08:20] Vou ter lá pra minha lista.
+[00:08:22] Aí eu tenho.
+[00:08:24] Para!
+[00:08:26] Nós teremos que o P recebe a lista, P recebe de novo, P recebe P próximo.
+[00:08:32] Então ele vai começar lá, dar o primeiro elemento da lista.
+[00:08:38] E a casa de interação ele vai o próximo.
+[00:08:42] Até que ele chegue em novo.
+[00:08:46] Aí printf o quê?
+[00:08:48] Postar de poder.
+[00:08:50] Aí tem a setinha.
+[00:08:52] No caso é o pin 1.
+[00:08:54] Então ele vai pegar essa formação e vai prender pra gente.
+[00:08:58] Então nesse caso aqui, 10 e depois 3.
+[00:09:02] Aí lá no final da coisa ele só mostra o número.
+[00:09:06] Mas é que ele terminou de permitir os elementos da lista.
+[00:09:10] Duvidas.
+[00:09:20] Repetir.
+[00:09:22] Dentro com o mês.
+[00:09:24] Então vamos lá.
+[00:09:26] Aqui é a estrutura da minha lista, que é o nó.
+[00:09:30] É o componente que eu vou inserir dentro da minha lista.
+[00:09:32] O que é que eu tenho dentro do meu nó?
+[00:09:34] Eu tenho um íntegro que vai armazenar o valor.
+[00:09:38] O que é que você diz?
+[00:09:40] Aqui embaixo?
+[00:09:42] Bem, por que?
+[00:09:44] O que seria?
+[00:09:48] Esse cara aqui, ele vai armazenar o endereço da próxima estrutura.
+[00:09:56] O próximo nó.
+[00:10:00] No endereço seria o nó, né?
+[00:10:02] Até a estrutura que eu estou definindo, chamada nó.
+[00:10:06] Eu estou colocando o type F aqui, pra que eu não estou devendo ter que ficar colocando struct não.
+[00:10:10] Struct não.
+[00:10:12] Você não volta o type F na frente?
+[00:10:14] Ele está chamando nó.
+[00:10:16] Não precisa colocar struct antes.
+[00:10:18] Tem colocado nós, chamamos esse no final?
+[00:10:20] Nesse caso sim.
+[00:10:22] Por que?
+[00:10:24] Porque nesse caso.
+[00:10:26] Porque nesse caso?
+[00:10:28] É porque o type 10, eu estou definindo aqui a estrutura nó.
+[00:10:30] Aí lá no final estou lutando no nó, que vai ser o nome da administratura.
+[00:10:34] Ah, o type 10.
+[00:10:36] Como você está colocando o type 10?
+[00:10:38] É o nome que você precisa colocar na estrutura de struct não.
+[00:10:40] Eu só coloco no nó.
+[00:10:42] Que aqui já defini, que isso aqui, tu diz?
+[00:10:44] Vai responder isso aqui.
+[00:10:46] Não funciona.
+[00:10:48] O que é que você diz?
+[00:10:50] No caso, você só precisa definir.
+[00:10:52] Struct não.
+[00:10:54] Se eu não colocar o type 10, aí toda a vida que eu for chamar, tenho que colocar struct não.
+[00:10:58] Struct não.
+[00:11:12] Até aqui está tranquilo?
+[00:11:14] Não tiver sentido.
+[00:11:16] Eu acho que eu tenho que repetir.
+[00:11:18] Ei, vamos repetir.
+[00:11:20] Olha isso.
+[00:11:22] Vamos repetir.
+[00:11:24] Vai dar certo.
+[00:11:28] Você tem que fazer isso aqui?
+[00:11:30] É isso aí.
+[00:11:32] Você tem que fazer isso aqui.
+[00:11:34] Ok.
+[00:11:36] O que é que você diz?
+[00:11:38] Não sou eu.
+[00:11:40] Eu tenho que dizer isso.
+[00:11:42] Ok.
+[00:11:44] Você tem que fazer isso aqui.
+[00:11:46] Ok.
+[00:11:48] Você tem que fazer isso aqui?
+[00:11:50] Sim.
+[00:11:52] Você tem que fazer isso aqui?
+[00:11:54] Sim.
+[00:11:56] Você tem que fazer isso aqui?
+[00:11:58] Sim.
+[00:12:16] Pronto, vamos nós.
+[00:12:18] Aqui eu te defini a minha estrutura não.
+[00:12:20] Que são os elementos que eu vou inserir dentro da minha lista.
+[00:12:22] Dentro da minha estrutura não,
+[00:12:24] eu vou ter um inteiro
+[00:12:26] e um ponteiro
+[00:12:28] que vai contar para o próximo nó.
+[00:12:32] Eu preciso dessa informação aqui.
+[00:12:38] Primeira coisa que eu vou fazer.
+[00:12:40] Primeira operação.
+[00:12:42] Vou criar um nó.
+[00:12:44] Como é que eu vou criar esse nó? Primeira coisa.
+[00:12:46] Vou colocar a memória para ele.
+[00:12:50] Depois,
+[00:12:52] uma formação que eu passo no parâmetro.
+[00:12:54] Coloco dentro
+[00:12:56] desse componentezinho
+[00:12:58] que está no nó.
+[00:13:00] Então inteiro.
+[00:13:02] Depois,
+[00:13:04] eu faço esse ponteiro que ele tem dentro do nó
+[00:13:06] apontar para o mulo.
+[00:13:08] Tá?
+[00:13:10] E lá no final eu retorno
+[00:13:12] esse nó.
+[00:13:14] Eu criei.
+[00:13:16] Eu pego a memória, um valor que eu estou passando para o parâmetro.
+[00:13:18] Coloco dentro do nó.
+[00:13:20] E depois eu pego esse ponteiro
+[00:13:22] que eu coloco para ele apontar para o mulo.
+[00:13:28] Depois,
+[00:13:30] vou inserir.
+[00:13:32] Nesse caso, a inserção
+[00:13:34] está sendo feita no início da estrutura.
+[00:13:36] Posso inserir no início,
+[00:13:38] posso inserir no meio, posso inserir no fim.
+[00:13:40] Quem vai determinar o que vai acontecer é o programador.
+[00:13:42] Nesse exemplo aqui,
+[00:13:44] ele está inserindo no início.
+[00:13:46] Quais são os parâmetros?
+[00:13:48] A lista e estou passando um valor.
+[00:13:50] Tá?
+[00:13:52] Primeira coisa que ele faz,
+[00:13:54] ele chama aquela função para ir no nó
+[00:13:56] que a gente mostrou no slide anterior.
+[00:13:58] Passando como parâmetro o valor.
+[00:14:00] Tá?
+[00:14:04] Dentro desse ponteiro no nó que eu estou criando no m.
+[00:14:06] Depois,
+[00:14:08] eu pego o nprox
+[00:14:10] e boto para ele apontar para a lista.
+[00:14:18] Ele é um nó.
+[00:14:24] Coloque o valor três.
+[00:14:26] E quando ele trilha o ponteiro,
+[00:14:28] para a próxima,
+[00:14:30] lá na função que a gente mostrou aqui,
+[00:14:32] o nprox
+[00:14:34] vai apontar para o mulo.
+[00:14:38] Quando chega aqui,
+[00:14:40] o nprox da estrutura nófica do topiano
+[00:14:42] ele está apontando para a lista.
+[00:14:44] Tá?
+[00:14:46] Conta como é que está a minha lista.
+[00:14:48] Esse vai ser o primeiro nó que está a lista.
+[00:14:50] Então a minha lista não tem nada.
+[00:14:52] Até chegar esse cara.
+[00:14:54] Então ele pega aí
+[00:14:56] a conta para a lista.
+[00:14:58] Depois,
+[00:15:00] a lista,
+[00:15:02] o conteúdo da lista vai receber o n.
+[00:15:04] No caso,
+[00:15:06] a minha lista foi criada agora.
+[00:15:08] E esse é o meu primeiro nó.
+[00:15:16] Eu vou botar outro n.
+[00:15:18] É esse.
+[00:15:28] Esse cara aqui está apontando para quem?
+[00:15:30] Para o n.
+[00:15:32] Me lê esse.
+[00:15:34] Depois eu coloco ele para apontar para quem?
+[00:15:36] Para a lista.
+[00:15:38] Quem é a lista?
+[00:15:40] Então ele apaga esse tarno aqui,
+[00:15:42] e bota ele para apontar para cá.
+[00:15:46] E a lista agora vai ser o n.
+[00:15:48] Esse cara que eu criei agora.
+[00:15:50] Então tira esse cara aqui.
+[00:16:04] Criei outro nó.
+[00:16:06] Na logo.
+[00:16:08] Zeno.
+[00:16:12] Aqui está apontando para o n.
+[00:16:14] Quando eu criei.
+[00:16:16] n e proxa aponta para a lista.
+[00:16:18] Quem é a lista?
+[00:16:20] Se não desce.
+[00:16:22] Então bota ele para apontar para esse cara que eu criei.
+[00:16:28] E a lista agora vai ser o n.
+[00:16:30] Então tira.
+[00:16:32] O próximo sempre vai ser o...
+[00:16:40] O que eu estou fazendo em sessão 1 e lista também é lista.
+[00:16:44] Poderia ter colocado no final, por exemplo.
+[00:16:46] Poderia.
+[00:16:48] Quem vai definir ser é o programador.
+[00:16:52] Em sessão está ok?
+[00:16:54] Tá ok.
+[00:16:56] Mas esse valor, tipo, vai contar só o último,
+[00:16:58] por exemplo, o zero?
+[00:17:00] Ou vai contar o zero com os outros?
+[00:17:02] Se eu fosse imprimir esse negócio aqui.
+[00:17:06] Aí eu criei o aponteiro p e ele recebe a lista.
+[00:17:08] Então p é esse cara aqui, não é?
+[00:17:14] Enquanto o p for diferente de nulo.
+[00:17:16] E p recebe p própria.
+[00:17:18] Beleza.
+[00:17:20] Aí dá um printf por cento dele.
+[00:17:22] E bota a setinha.
+[00:17:24] P inf.
+[00:17:26] Quem é p inf aqui?
+[00:17:28] Zero.
+[00:17:32] Então ele pega e...
+[00:17:34] Zero e setinha.
+[00:17:36] Agora vou atualizar o aponteiro.
+[00:17:38] P recebe p própria.
+[00:17:40] Quem é p própria?
+[00:17:42] Esse aqui é o pessoal.
+[00:17:44] Isso.
+[00:17:46] Então o p vai deixar esse cara aqui.
+[00:17:48] E é esse agora.
+[00:17:54] Beleza.
+[00:17:56] P é de nulo.
+[00:17:58] É.
+[00:18:00] Aí eu volto para cá.
+[00:18:02] Por cento dele, p inf.
+[00:18:04] Quem é p inf?
+[00:18:06] Dez, né?
+[00:18:08] Dez e a setinha.
+[00:18:10] Vou atualizar o aponteiro.
+[00:18:12] P agora recebe p própria.
+[00:18:14] Quem é p própria?
+[00:18:16] Lá em cima.
+[00:18:24] Beleza.
+[00:18:26] P é diferente de nulo?
+[00:18:28] É.
+[00:18:30] Printf.
+[00:18:32] Quem é um por cento dele aqui?
+[00:18:34] Três.
+[00:18:36] Três e setinha.
+[00:18:38] Atualiza o meu ponteiro.
+[00:18:40] Quem é o p agora?
+[00:18:42] Nul, né?
+[00:18:46] Aí ele faz a verificação.
+[00:18:48] P é diferente de nulo?
+[00:18:50] Não.
+[00:18:52] Aí sai do nulo.
+[00:18:54] Printf nulo.
+[00:18:58] Então eu criei um ponteiro aqui.
+[00:19:00] E está recebendo lá.
+[00:19:02] Primeiro ela metalista.
+[00:19:04] É só para percorrer a minha lista.
+[00:19:08] E pintar os elements que foram inseridos nela.
+[00:19:12] Ok?
+[00:19:14] Certo.
+[00:19:16] Eu ainda tenho uma dúvida anterior.
+[00:19:18] Vou voltar lá na definição do struct.
+[00:19:24] Não, uma depois.
+[00:19:28] Na verdade é tanto s quanto anterior.
+[00:19:30] A gente está criando
+[00:19:32] um nó
+[00:19:34] e a gente está alocando
+[00:19:36] um espaço
+[00:19:38] que é o size of nó.
+[00:19:40] É.
+[00:19:42] Mas esse nó não tem só o valor.
+[00:19:44] Ele tem o ponteiro também.
+[00:19:46] Como é que, numa coisa que a gente está dizendo
+[00:19:48] que vai caber
+[00:19:50] o valor?
+[00:19:52] Ele tem o valor e o ponteiro.
+[00:19:54] Ou eu estou pensando errado?
+[00:19:56] Mais ou menos.
+[00:19:58] Que se voltar para cá?
+[00:20:00] Você vai ter aqui.
+[00:20:04] Esse cara aqui.
+[00:20:06] Que é o int.
+[00:20:08] E esse cara aqui.
+[00:20:10] Aí você define o tamanho
+[00:20:12] que vai ser o int e o ponteiro.
+[00:20:14] Isso.
+[00:20:16] Quando você multiplica no próximo
+[00:20:18] próximo slide, por favor
+[00:20:20] no próximo
+[00:20:22] quando você usa o size of nó
+[00:20:24] você já está levando em consideração
+[00:20:26] o int e o ponteiro.
+[00:20:28] Isso.
+[00:20:30] Tá, beleza. Eu estava vendo nós ter isso
+[00:20:34] que estava me dando um...
+[00:20:36] Espera aí, não. Você é ponteiro.
+[00:20:38] Mas como é que cabe mais coisa que isso?
+[00:20:40] É.
+[00:20:42] Show?
+[00:20:44] Beleza.
+[00:20:46] Criar o nó
+[00:20:48] e inserir o alamento no início da lista.
+[00:20:50] Tá.
+[00:20:52] Aí agora vai ser...
+[00:20:56] Isso.
+[00:21:00] Ele chama essa função aqui, ó.
+[00:21:12] Criar o nó, então.
+[00:21:14] Arrasse.
+[00:21:16] Pega um pedaço de memória.
+[00:21:18] O que é isso?
+[00:21:20] Isso aqui.
+[00:21:22] É para criar um nó.
+[00:21:24] É criar um componente da lista.
+[00:21:26] Não, não. O primeiro você está dizendo.
+[00:21:30] Ó, um nó vai ter isso aqui,
+[00:21:32] mas eu não estou vendo nenhum aqui.
+[00:21:34] É, se eu for criar, vai ser assim.
+[00:21:36] É o molde, né?
+[00:21:38] Isso.
+[00:21:40] É a nossa classe.
+[00:21:42] Isso.
+[00:21:44] A classe.
+[00:21:46] Eu preciso definir o que é que vai ter dentro da equipe.
+[00:21:48] A equipe nada.
+[00:21:50] Aí eu crio aqui, ó.
+[00:21:54] Criar o nó.
+[00:21:56] Acho que o que eu acho engraçado
+[00:21:58] é que no Python é só fazer...
+[00:22:04] Você tem que fazer um parto
+[00:22:06] para começar a fazer.
+[00:22:08] Tem um problema da técnica
+[00:22:10] que simplesmente é que eu gosto do Python.
+[00:22:12] A gente sabe colocar, tipo,
+[00:22:14] porque no Python era...
+[00:22:16] Mas é das fotos, né?
+[00:22:18] A gente pode variar agora.
+[00:22:20] Não sei o que é que chega.
+[00:22:26] Ou é só...
+[00:22:28] É só criando, realmente, tudo.
+[00:22:30] A gente tem que criar para...
+[00:22:32] Não.
+[00:22:34] Todas as linguas de programação
+[00:22:36] que é até esse estruturo tudo implementado.
+[00:22:38] É só ser multado e não ter que chegar.
+[00:22:40] A gente só está aprendendo o meio para fim de dar.
+[00:22:42] O meio para saber como é que ela funciona,
+[00:22:44] mais ou menos.
+[00:22:46] (...)
+[00:22:52] É.
+[00:22:54] Isso.
+[00:22:56] Pronto, mostrei impressão.
+[00:22:58] Beleza.
+[00:23:00] Remoção.
+[00:23:02] Eu quero retirar um elemento
+[00:23:04] que está dentro da lista.
+[00:23:06] Tá?
+[00:23:08] Vamos lá.
+[00:23:10] Eu criei esse ante aí, né?
+[00:23:12] Sinal.
+[00:23:14] Vou ter para receber nulo.
+[00:23:16] Peguei aquele atual ali
+[00:23:18] e vou ter para receber lista.
+[00:23:20] Tá? Os dois são maus, tá?
+[00:23:22] (...)
+[00:23:24] Depois, enquanto
+[00:23:26] atual
+[00:23:28] e atual
+[00:23:30] foi diferente de valor
+[00:23:32] ante recebe atual,
+[00:23:34] atual recebe atual
+[00:23:36] qual é isso?
+[00:23:38] (...)
+[00:23:40] Ele vem aqui, se diferente de atual,
+[00:23:42] ou seja, não foi encontrado.
+[00:23:44] (...)
+[00:23:46] Encerra aqui.
+[00:23:48] Se diferente de anterior
+[00:23:50] lista recebe atual
+[00:23:54] o próximo.
+[00:23:56] Então, eu me removo no primeiro.
+[00:23:58] Se não,
+[00:24:00] anterior o próximo recebe atual o próximo.
+[00:24:02] Aí dá o 3.
+[00:24:04] Eu quero remover o elemento 10.
+[00:24:06] Tá?
+[00:24:08] Aí eu tenho
+[00:24:10] o ante
+[00:24:14] que está apontando para nulo
+[00:24:16] e tem o atual
+[00:24:20] que está apontando para a lista.
+[00:24:22] Então, atual recebe atual.
+[00:24:28] Beleza.
+[00:24:32] Enquanto atual
+[00:24:34] e atual
+[00:24:36] é info
+[00:24:38] diferente de valor.
+[00:24:40] Aí entra nesse lá a repetição,
+[00:24:42] porque o valor que a gente está procurando é o 10.
+[00:24:44] E o valor que a gente tem aqui é o 0.
+[00:24:46] (...)
+[00:24:48] Lante recebe atual.
+[00:24:50] Então, ante
+[00:24:52] (...)
+[00:24:54] Ele vai receber atual.
+[00:24:56] (...)
+[00:24:58] Esse cara aqui.
+[00:25:00] E o atual
+[00:25:02] vai ser atual o próximo.
+[00:25:04] Então, eu saio
+[00:25:06] aqui
+[00:25:08] e vai para cá.
+[00:25:12] O que é o próximo?
+[00:25:14] Aí, volta.
+[00:25:16] Enquanto atual
+[00:25:18] e atual
+[00:25:20] info diferente de valor.
+[00:25:22] Opa!
+[00:25:24] O atual info
+[00:25:26] é igual ao valor que estou procurando.
+[00:25:28] Então, não entra aqui, né?
+[00:25:30] Vem para cá.
+[00:25:34] Se diferente de atual
+[00:25:36] retorno. Não encontrei.
+[00:25:38] É 10.
+[00:25:40] Se diferente de antes
+[00:25:44] lista recebe atual próximo.
+[00:25:46] Então, a lista
+[00:25:48] que eu estava colocando para esse primeiro aqui
+[00:25:50] agora vai contar para onde?
+[00:25:52] Para o 10.
+[00:25:54] Para cá, né?
+[00:26:02] Aí, faz o que?
+[00:26:18] Papo o que?
+[00:26:20] É só dar o free, né?
+[00:26:22] Não, mas esse é o seu caso.
+[00:26:24] Esse é o caso.
+[00:26:26] Não teve o proxy.
+[00:26:28] Recebe atual proxy.
+[00:26:30] A atualização de ponteiro.
+[00:26:34] Ele não está
+[00:26:36] ao invés de
+[00:26:38] liberando a
+[00:26:40] primeira, aquela de baixo,
+[00:26:42] ele não está apagando o 10
+[00:26:44] e fazendo
+[00:26:46] o primeiro apontar para o terceiro
+[00:26:48] fazendo um bypass
+[00:26:50] e aí, limpando aquela
+[00:26:52] memória de segundo.
+[00:26:54] É, o que tem dinheiro que tipo
+[00:26:56] ele apagava o 10 e atualizava
+[00:26:58] e isso apontava para lá, né?
+[00:27:00] Tá, chega a voltar aqui.
+[00:27:06] Mista.
+[00:27:14] Isso.
+[00:27:16] O antes era o anterior, né?
+[00:27:18] Aí, ele vai desbotar aqui.
+[00:27:28] O antes estava
+[00:27:30] no anterior, exatamente.
+[00:27:32] Isso.
+[00:27:34] Se não anterior,
+[00:27:36] não, tem anterior.
+[00:27:38] Então, aquele segundo if, ele não vai.
+[00:27:40] Se não...
+[00:27:44] Se não, anterior proxy.
+[00:27:50] Recebe atual proxy.
+[00:27:54] Isso.
+[00:27:58] O próximo do anterior
+[00:28:00] vai receber o próximo do atual.
+[00:28:02] Ou seja, ele vai pular o atual
+[00:28:04] e o atual do meio.
+[00:28:06] Então, ele vai
+[00:28:08] remover o 10 da lista.
+[00:28:10] Ele vai fazer um bypass.
+[00:28:12] Como que ele está fazendo?
+[00:28:14] Vamos lá.
+[00:28:16] Aí, pegou.
+[00:28:18] Como esse cara que está apontando
+[00:28:20] para cá?
+[00:28:22] O que que eu estou fazendo?
+[00:28:24] Eu tenho que pegar esse? Vamos ver.
+[00:28:26] Para cá.
+[00:28:28] Antes, eu apaguei esse cara aqui.
+[00:28:30] Se eu apaguei esse cara aqui, antes,
+[00:28:32] eu perguntei nesse cara.
+[00:28:34] O que que ele está fazendo?
+[00:28:36] Ele está pegando esse
+[00:28:38] ponteiro aqui
+[00:28:40] e apontando para
+[00:28:42] esse mesmo aqui, ó.
+[00:28:48] Que esse, realmente, eu quero remover.
+[00:28:52] Até que depois eu pegue e fui atual.
+[00:28:54] Aí você não perde o próximo.
+[00:28:56] Elimina o 10.
+[00:28:58] Eu não pego mais referência.
+[00:29:02] Então, aí o atual vai ser
+[00:29:04] zero.
+[00:29:06] Não, vai ser novo.
+[00:29:10] Vou liberar.
+[00:29:12] Aí transformar o anterior
+[00:29:14] do atual.
+[00:29:16] Ele vai fazendo isso
+[00:29:18] enquanto não acha o número que você quer
+[00:29:20] derretar.
+[00:29:22] Faz o ponte-circuito
+[00:29:24] ali.
+[00:29:26] E o atual não deixa mais.
+[00:29:28] É jogo de ponteiro.
+[00:29:30] Então, aí pega.
+[00:29:32] Antes, esse cara estava apontando para cá.
+[00:29:34] Eu falava que esse cara estava apontando para mim
+[00:29:36] e apontava para o próximo que eu estava apontando.
+[00:29:38] Aí, agora, depois, apaguei.
+[00:29:42] Show?
+[00:29:44] Alguém tem alguma dúvida para que ela saia?
+[00:29:46] A remoção?
+[00:29:48] Acho que sim.
+[00:29:50] Sim.
+[00:29:52] A remoção
+[00:29:54] tem que ter o dobro cuidado
+[00:29:56] para não perder essas referências aqui.
+[00:29:58] Sem perder referência,
+[00:30:00] não tem mais como preparar depois.
+[00:30:10] Show? Aqui é a vista
+[00:30:12] simples.
+[00:30:14] Então, vocês viram que ela saiu só um caminho.
+[00:30:16] Como é que você quer o último elemento?
+[00:30:18] O próximo ele vai apontar para mim.
+[00:30:20] Tá?
+[00:30:22] Mas eu posso fazer também outro tipo de lista.
+[00:30:24] É o que a gente chama de lista circular.
+[00:30:28] Como é que eu faço a lista circular?
+[00:30:30] O último elemento aponta para o primeiro.
+[00:30:32] Isso.
+[00:30:34] Aí, viram-se.
+[00:30:38] E, além disso,
+[00:30:40] da lista circular,
+[00:30:42] dá para fazer a lista duplamente encadeada.
+[00:30:44] Como?
+[00:30:48] A estrutura do nó agora vai ter
+[00:30:50] dois ponteiros.
+[00:30:52] Um que vai apontar para o anterior
+[00:30:54] e um que vai apontar para o próximo.
+[00:30:58] Tá?
+[00:31:00] E aí, nesse caso aqui,
+[00:31:02] eu tenho dois tipos de navegação.
+[00:31:04] Posso editar para frente ou para trás.
+[00:31:06] Tá? É duplo, isso cara. Duplamente encadeada.
+[00:31:16] E, no caso do nosso custo,
+[00:31:18] vai aumentar porque a gente vai ter
+[00:31:20] que compreender mais.
+[00:31:22] Tá?
+[00:31:28] Como é que eu farei a inserção,
+[00:31:30] por exemplo, ao visto duplamente encadeada?
+[00:31:46] Queria um nó.
+[00:31:52] Fala o três.
+[00:31:54] Tem que ver isso aqui também, né?
+[00:31:56] Queria o meu nó.
+[00:31:58] O próximo está no, né?
+[00:32:00] No caso é o dianteito, tá direito.
+[00:32:02] E o da esquerda.
+[00:32:04] Também fica apontando para no.
+[00:32:06] Esse caso vai ter dois carros, né?
+[00:32:08] Isso.
+[00:32:16] Num, num.
+[00:32:20] Depois.
+[00:32:34] Vai ter que fazer circular.
+[00:32:36] Você vai definir.
+[00:32:38] Você quer apontar para o próximo?
+[00:32:40] Para o da direita? Você quer apontar para o da esquerda?
+[00:32:42] Ou quer fazer circular?
+[00:32:46] Diz.
+[00:32:50] Como é que eu faço para pedir um nó de louco?
+[00:32:52] Aqui é o peço.
+[00:32:54] Fala a sensação.
+[00:32:56] Eu vou ver se eu encontro ele.
+[00:32:58] Você encontra lá para mim, por favor.
+[00:33:04] O outro ali é o mar.
+[00:33:08] Toda hora ele pediu.
+[00:33:16] A câmera é nessa época?
+[00:33:20] Eu não sei por isso, mano.
+[00:33:22] Nessa época que ninguém faltava, eu ficava sem cadeira, mano.
+[00:33:26] Nunca mais teve um dia desse.
+[00:33:28] Eu soube das cadeiras da senhora, mano.
+[00:33:42] Para de fazer o bicho.
+[00:33:44] Olha, cara, uma coisa de domar aqui.
+[00:34:04] Eu conheço.
+[00:34:06] Graças a você de você dar isso.
+[00:34:08] Você vai saber por que eu tenho o que estar.
+[00:34:12] Você não é isso aí.
+[00:34:18] Aí no dia que eu acabei a cenar, o seu cara botou a padrinha.
+[00:34:22] Botou a padrinha para a minha irmã dizer que passava.
+[00:34:24] Pronto?
+[00:34:26] Pronto.
+[00:34:28] O que está acontecendo aqui?
+[00:34:32] Comprou o louco?
+[00:34:34] Hoje você.
+[00:34:36] Você não é o que está fazendo?
+[00:34:38] Não, mas para a senhora...
+[00:34:40] Você não é o que está fazendo?
+[00:34:42] Não, mas para a senhora você está fazendo.
+[00:34:44] Você não é o que está fazendo?
+[00:34:46] Não, não.
+[00:34:48] Você não é o que está fazendo?
+[00:34:50] Não, mas para a senhora você está fazendo.
+[00:34:52] Você não é o que está fazendo?
+[00:34:54] Não, mas para a senhora você está fazendo.
+[00:34:56] Você não é o que está fazendo?
+[00:34:58] Não, mas para a senhora você está fazendo.
+[00:35:00] Você não é o que está fazendo?
+[00:35:02] Não, mas para a senhora você está fazendo.
+[00:35:04] Você não é o que está fazendo?
+[00:35:06] Não, mas para a senhora você está fazendo.
+[00:35:08] Você não é o que está fazendo?
+[00:35:10] Não, mas para a senhora você está fazendo.
+[00:35:12] Você não é o que está fazendo?
+[00:35:14] Não, mas para a senhora você está fazendo.
+[00:35:16] Você não é o que está fazendo?
+[00:35:18] Não, mas para a senhora você está fazendo.
+[00:35:20] Você não é o que está fazendo?
+[00:35:22] Não, mas para a senhora você está fazendo.
+[00:35:24] Você não é o que está fazendo?
+[00:35:26] Não, mas para a senhora você está fazendo.
+[00:35:28] Você não é o que está fazendo?
+[00:35:30] Não, mas para a senhora você está fazendo.
+[00:35:32] Você não é o que está fazendo?
+[00:35:34] Não, mas para a senhora você está fazendo.
+[00:35:36] Você não é o que está fazendo?
+[00:35:38] Não, mas para a senhora você está fazendo.
+[00:35:40] Você não é o que está fazendo?
+[00:35:42] Não, mas para a senhora você está fazendo.
+[00:35:44] Você não é o que está fazendo?
+[00:35:46] Não, mas para a senhora você está fazendo.
+[00:35:48] Você não é o que está fazendo?
+[00:35:50] Não, mas para a senhora você está fazendo.
+[00:35:52] Você não é o que está fazendo?
+[00:35:54] Não, mas para a senhora você está fazendo.
+[00:35:56] Você não é o que está fazendo?
+[00:35:58] Não, mas para a senhora você está fazendo.
+[00:36:00] Você não é o que está fazendo?
+[00:36:02] Não, mas para a senhora você está fazendo.
+[00:36:04] Você não é o que está fazendo?
+[00:36:06] Não, mas para a senhora você está fazendo.
+[00:36:08] Você não é o que está fazendo?
+[00:36:10] Não, mas para a senhora você está fazendo.
+[00:36:12] Você não é o que está fazendo?
+[00:36:14] Não, mas para a senhora você está fazendo.
+[00:36:16] Você não é o que está fazendo?
+[00:36:18] Não, mas para a senhora você está fazendo.
+[00:36:20] Você não é o que está fazendo?
+[00:36:22] Não, mas para a senhora você está fazendo.
+[00:36:24] Você não é o que está fazendo?
+[00:36:26] Não, mas para a senhora você está fazendo.
+[00:36:28] Você não é o que está fazendo?
+[00:36:30] Não, mas para a senhora você está fazendo.
+[00:36:32] Você não é o que está fazendo?
+[00:36:34] Não, mas para a senhora você está fazendo.
+[00:36:36] Você não é o que está fazendo?
+[00:36:38] Não, mas para a senhora você está fazendo.
+[00:36:40] Você não é o que está fazendo?
+[00:36:42] Não, mas para a senhora você está fazendo.
+[00:36:44] Você não é o que está fazendo?
+[00:36:46] Não, mas para a senhora você está fazendo.
+[00:36:48] Você não é o que está fazendo?
+[00:36:50] Não, mas para a senhora você está fazendo.
+[00:36:52] Você não é o que está fazendo?
+[00:36:54] Não, mas para a senhora você está fazendo.
+[00:36:56] Você não é o que está fazendo?
+[00:36:58] Não, mas para a senhora você está fazendo.
+[00:37:02] Você não é o que está fazendo?
+[00:37:04] Não, mas para a senhora você está fazendo.
+[00:37:06] Você não é o que está fazendo?
+[00:37:08] Não, mas para a senhora você está fazendo.
+[00:37:10] Você não é o que está fazendo?
+[00:37:12] Não, mas para a senhora você está fazendo.
+[00:37:14] Você não é o que está fazendo?
+[00:37:16] Não, mas para a senhora você está fazendo.
+[00:37:18] Você não é o que está fazendo?
+[00:37:20] Não, mas para a senhora você está fazendo.
+[00:37:22] Você não é o que está fazendo?
+[00:37:24] Não, mas para a senhora você está fazendo.
+[00:37:26] Você não é o que está fazendo?
+[00:37:28] Não, mas para a senhora você está fazendo.
+[00:37:30] Você não é o que está fazendo?
+[00:37:32] Não, mas para a senhora você está fazendo.
+[00:37:34] Você não é o que está fazendo?
+[00:37:36] Não, mas para a senhora você está fazendo.
+[00:37:38] Você não é o que está fazendo?
+[00:37:40] Não, mas para a senhora você está fazendo.
+[00:37:42] Você não é o que está fazendo?
+[00:37:44] Não, mas para a senhora você está fazendo.
+[00:37:46] Você não é o que está fazendo?
+[00:37:48] Não, mas para a senhora você está fazendo.
+[00:37:50] Você não é o que está fazendo?
+[00:37:52] Não, mas para a senhora você está fazendo.
+[00:37:54] Você não é o que está fazendo?
+[00:37:56] Não, mas para a senhora você está fazendo.
+[00:37:58] Você não é o que está fazendo?
+[00:38:00] Não, mas para a senhora você está fazendo.
+[00:38:02] Você não é o que está fazendo?
+[00:38:04] Não, mas para a senhora você está fazendo.
+[00:38:06] Você não é o que está fazendo?
+[00:38:08] Não, mas para a senhora você está fazendo.
+[00:38:10] Você não é o que está fazendo?
+[00:38:12] Não, mas para a senhora você está fazendo.
+[00:38:14] Você não é o que está fazendo?
+[00:38:16] Não, mas para a senhora você está fazendo.
+[00:38:18] Você não é o que está fazendo?
+[00:38:20] Não, mas para a senhora você está fazendo.
+[00:38:22] Você não é o que está fazendo?
+[00:38:24] Não, mas para a senhora você está fazendo.
+[00:38:26] Você não é o que está fazendo?
+[00:38:28] Não, mas para a senhora você está fazendo.
+[00:38:30] Você não é o que está fazendo?
+[00:38:32] Não, mas para a senhora você está fazendo.
+[00:38:34] Você não é o que está fazendo?
+[00:38:36] Não, mas para a senhora você está fazendo.
+[00:38:38] Você não é o que está fazendo?
+[00:38:40] Não, mas para a senhora você está fazendo.
+[00:38:42] Você não é o que está fazendo?
+[00:38:44] Não, mas para a senhora você está fazendo.
+[00:38:46] Você não é o que está fazendo?
+[00:38:48] Não, mas para a senhora você está fazendo.
+[00:38:50] Você não é o que está fazendo?
+[00:38:52] Não, mas para a senhora você está fazendo.
+[00:38:54] Você não é o que está fazendo?
+[00:38:56] Não, mas para a senhora você está fazendo.
+[00:38:58] Você não é o que está fazendo?
+[00:39:00] Não, mas para a senhora você está fazendo.
+[00:39:02] Você não é o que está fazendo?
+[00:39:04] Não, mas para a senhora você está fazendo.
+[00:39:06] Você não é o que está fazendo?
+[00:39:08] Não, mas para a senhora você está fazendo.
+[00:39:10] Você não é o que está fazendo?
+[00:39:12] Não, mas para a senhora você está fazendo.
+[00:39:14] Você não é o que está fazendo?
+[00:39:16] Não, mas para a senhora você está fazendo.
+[00:39:18] Você não é o que está fazendo?
+[00:39:20] Não, mas para a senhora você está fazendo.
+[00:39:22] Você não é o que está fazendo?
+[00:39:24] Não, mas para a senhora você está fazendo.
+[00:39:26] Você não é o que está fazendo?
+[00:39:28] Não, mas para a senhora você está fazendo.
+[00:39:30] Você não é o que está fazendo?
+[00:39:32] Não, mas para a senhora você está fazendo.
+[00:39:34] Você não é o que está fazendo?
+[00:39:36] Não, mas para a senhora você está fazendo.
+[00:39:38] Você não é o que está fazendo?
+[00:39:40] Não, mas para a senhora você está fazendo.
+[00:39:42] Você não é o que está fazendo?
+[00:39:44] Não, mas para a senhora você está fazendo.
+[00:39:46] Você não é o que está fazendo?
+[00:39:48] Não, mas para a senhora você está fazendo.
+[00:39:50] Você não é o que está fazendo?
+[00:39:52] Não, mas para a senhora você está fazendo.
+[00:39:54] Você não é o que está fazendo?
+[00:39:56] Não, mas para a senhora você está fazendo.
+[00:39:58] Você não é o que está fazendo?
+[00:40:00] Não, mas para a senhora você está fazendo.
+[00:40:02] Você não é o que está fazendo?
+[00:40:04] Não, mas para a senhora você está fazendo.
+[00:40:06] Você não é o que está fazendo?
+[00:40:08] Não, mas para a senhora você está fazendo.
+[00:40:10] Você não é o que está fazendo?
+[00:40:12] Não, mas para a senhora você está fazendo.
+[00:40:14] Você não é o que está fazendo?
+[00:40:16] A remoção vai ser audiênico,
+[00:40:18] mas depende de ponto de seramento você tem dentro da sua lista.
+[00:40:20] Na alta vai ser audiônico.
+[00:40:22] Porque se você pega aquele cara e tira,
+[00:40:24] os ponteiros que estavam ligando a ele,
+[00:40:26] vão só?
+[00:40:28] Se amarrar.
+[00:40:30] Usa o tipo das listas.
+[00:40:32] Você pode fazer implementação
+[00:40:34] de fila e pilha usando listas.
+[00:40:36] Tá?
+[00:40:38] E a dupla você pode utilizar
+[00:40:40] na parte de editorias
+[00:40:42] e navegadores.
+[00:40:44] Browsups.
+[00:40:48] Pilha.
+[00:40:52] Pilha também é chamada de
+[00:40:54] Less In First Out.
+[00:40:56] Ou seja, o último a entrar
+[00:40:58] é o primeiro a sair.
+[00:41:00] Tá?
+[00:41:02] Quais são as operações básicas que a gente tem na pilha?
+[00:41:04] Você tem o push,
+[00:41:06] que é o empilhar,
+[00:41:08] o pop,
+[00:41:10] que é o desempilhar
+[00:41:12] ou o top,
+[00:41:14] que é para consultar o topo,
+[00:41:16] o último alâmetro que vai ser lindo
+[00:41:18] e o exente é para verificar se a pilha
+[00:41:20] está vazia.
+[00:41:22] Analogia, pilha, qual é o tipo de pilha?
+[00:41:24] Você tem 10 livros.
+[00:41:26] Você coloca os 10 livros em cima do outro.
+[00:41:28] Você tem uma pilha de livros.
+[00:41:30] Você quer remover o último
+[00:41:32] que você inseriu lá?
+[00:41:34] Como é que você faz?
+[00:41:36] Você não puxa não.
+[00:41:38] E você puxar a pilha,
+[00:41:40] o que é que você faz?
+[00:41:42] Você vai desempilhando
+[00:41:44] até chegar ao alâmetro que você quer.
+[00:41:46] Peguei e pronto.
+[00:41:48] Aí vou empilhar de novo.
+[00:41:50] Se você quiser
+[00:41:52] retirar o alâmetro que tiver da sua pilha
+[00:41:54] você tem que fazer um desempilamento.
+[00:41:56] Tirou
+[00:41:58] a pilha de novo.
+[00:42:06] Como é que eu faço a pilha com um listo encadeado?
+[00:42:08] Primeiro a minha estrutura.
+[00:42:12] Estou definindo lá a estrutura pilha
+[00:42:14] com o
+[00:42:16] noto.
+[00:42:18] Eu me preocuparei
+[00:42:20] se é esse topo.
+[00:42:22] Então tenho um nozinho
+[00:42:24] que eu chamo de topo.
+[00:42:26] Bom dia.
+[00:42:30] Quer inserir um novo alâmetro?
+[00:42:32] Como é que eu faço?
+[00:42:34] Crio
+[00:42:36] Esse novo nó
+[00:42:38] com esse valor que estou passando aqui.
+[00:42:40] Aí eu coloco.
+[00:42:42] Ele prox recebe
+[00:42:44] peton.
+[00:42:46] E o peton recebe
+[00:42:48] o "n".
+[00:42:50] Então vamos lá.
+[00:42:52] Vou inserir o alâmetro e
+[00:42:54] que valor?
+[00:42:56] 6.
+[00:43:00] Aqui está contando pra nu.
+[00:43:06] Filei o menor.
+[00:43:08] Beleza.
+[00:43:10] O "n" prox vai ser "p topo".
+[00:43:12] Quem é "p topo"?
+[00:43:28] É ele mesmo?
+[00:43:30] Quando você cria o "n" ao "v"
+[00:43:32] você tem um
+[00:43:34] um ponteiro topo.
+[00:43:38] O "p topo" é ele mesmo?
+[00:43:42] Então esse é o primeiro alâmetro da pilha.
+[00:43:48] E o "p topo" recebe
+[00:43:50] o "n".
+[00:43:56] Esse aqui não é ele?
+[00:43:58] O primeiro alâmetro da pilha.
+[00:44:00] Então coloco pro
+[00:44:04] o "n".
+[00:44:06] Ele está fazendo um resumo
+[00:44:08] que o "p topo" agora vai ser
+[00:44:10] o alâmetro que acabei de criar.
+[00:44:16] Vou inserir outro alâmetro.
+[00:44:18] Falou.
+[00:44:22] Um.
+[00:44:26] Inicialmente ele aponta pra onde?
+[00:44:32] O "n" prox vai apontar pra "p topo"?
+[00:44:34] Quem é "p topo"?
+[00:44:46] O "n" que acabei de criar
+[00:44:48] o próximo alâmetro que estava
+[00:44:50] pronto pra nu, vai apontar pra onde?
+[00:44:52] Pra anterior.
+[00:44:54] Quem é quem?
+[00:44:56] Eu sei.
+[00:45:02] "p topo" recebe "n".
+[00:45:08] Então no topo agora.
+[00:45:18] Inserir outro alâmetro.
+[00:45:20] Falou.
+[00:45:22] Sente.
+[00:45:28] "n prox"
+[00:45:30] vai receber "p topo".
+[00:45:32] Quem é o "p topo"?
+[00:45:42] E o "p topo" recebe "n"?
+[00:45:46] O site vira "topo".
+[00:45:48] É depois que mora.
+[00:45:58] Tem que usar um alívio pra experimentar
+[00:46:00] uma pilha.
+[00:46:02] E a incessão vai ser sempre no topo.
+[00:46:06] Então usa-se pilha pra...
+[00:46:10] Contra o "z".
+[00:46:12] Desfazer.
+[00:46:14] Desfazer uma lista?
+[00:46:16] Não. Desfazer alguma coisa.
+[00:46:18] Tá no editor, por exemplo.
+[00:46:20] Quero voltar a algum dato que eu perdi.
+[00:46:22] Contra o "z".
+[00:46:24] Quem fica fazendo armazenar os statuses
+[00:46:26] de pilha.
+[00:46:28] Se quiser voltar em qualquer momento.
+[00:46:30] Volta ao estado anterior.
+[00:46:32] Dao contra o "z".
+[00:46:44] Mais ou menos.
+[00:46:46] A pilha é quando é
+[00:46:48] conveniente que a gente acesse
+[00:46:50] os últimos elementos que a gente colocou.
+[00:46:52] Por primeiro.
+[00:46:54] Ou seja.
+[00:46:56] Eu vou empilhando as coisas.
+[00:46:58] A primeira coisa que vou acessar
+[00:47:00] vai ser a última que eu coloquei ali.
+[00:47:02] Histórico do navegador, por exemplo.
+[00:47:04] Você visa sua página 1, página 2, página 3,
+[00:47:06] página 4, página 5.
+[00:47:08] Você voltou. Voltou pra página 4,
+[00:47:10] página 3, página 2, página 1.
+[00:47:12] Esse tipo de estrutura
+[00:47:14] é uma pilha.
+[00:47:18] Mais importante pra mim é o que.
+[00:47:20] É a última.
+[00:47:22] Você só tenta entender
+[00:47:24] quando utilizar a lista.
+[00:47:26] O que a gente já tá fazendo na lista.
+[00:47:28] Sim, mas na lista você acessaria
+[00:47:30] do primeiro pro último.
+[00:47:32] O histórico não faz sentido
+[00:47:34] você acessar logo a
+[00:47:36] qual que é a primeira parte
+[00:47:38] que eu visitei hoje pra chegar na anterior.
+[00:47:40] Quer voltar pra parte de antes.
+[00:47:42] Mas eu não vou lá pra primeira
+[00:47:44] e vou até
+[00:47:46] chegar a parte na que eu tava agora pouco.
+[00:47:48] Não é?
+[00:47:50] Esse tipo de organização, tipo, também é uma lista.
+[00:47:52] Também é uma
+[00:47:54] estrutura de coisas encadeadas
+[00:47:56] onde uma conta pra outra.
+[00:47:58] Mas a forma que elas apontam uma pra outra
+[00:48:00] é a forma que a gente acessa,
+[00:48:02] que é o diferencial, que é isso que dá um nome diferente de pilha.
+[00:48:04] Vou começar da última
+[00:48:06] que eu inserir.
+[00:48:08] Mais importante é isso.
+[00:48:12] Talvez demore um pouquinho pra gente
+[00:48:14] trofessar num
+[00:48:16] uso prático, mas...
+[00:48:18] O histórico é
+[00:48:20] tradicionalmente pilha.
+[00:48:26] Esse é o meu pâncio, que com incessão.
+[00:48:28] Sempre serem no topo.
+[00:48:30] E o pop?
+[00:48:34] Sim, diferente de petouco,
+[00:48:36] retorne menos um.
+[00:48:40] Ao se mirar, aponta pro petouco.
+[00:48:44] A gente vê, recebe,
+[00:48:46] a informação
+[00:48:48] que eu estava guardando ali dentro.
+[00:48:52] O petouco agora vai ser auxiliar pra os.
+[00:48:56] Depois ele dá um frio.
+[00:48:58] Vamos tentar fazer isso aqui na carta.
+[00:49:00] Então, criei o meu alce.
+[00:49:02] O meu alce tá apontando pro topo, né?
+[00:49:08] Aí, o V, ele recebe
+[00:49:10] o que vai guardar dentro lá do topo.
+[00:49:12] Esse aqui é o 7, né?
+[00:49:14] Ok.
+[00:49:16] Ele é torno lá no final.
+[00:49:18] O petouco agora
+[00:49:20] vai ser auxiliar próximo.
+[00:49:22] Que é auxiliar próximo?
+[00:49:26] Esse aqui é auxiliar,
+[00:49:28] auxiliar próximo. É o próximo alimento, né?
+[00:49:30] Então, o meu topo agora
+[00:49:32] vai ser esse cara aqui.
+[00:49:42] Depois, dá só um frio.
+[00:49:44] Do aux, né?
+[00:49:46] Esse cara aqui.
+[00:49:52] A remoção na pilha é sempre assim.
+[00:49:54] É só pegar o último alimento que foi e ser ele retirado.
+[00:49:56] Não tem mistério.
+[00:49:58] Fala final e retorne esse valor aqui.
+[00:50:00] Ele moviu, né?
+[00:50:02] Ou o 7.
+[00:50:06] Show? Não?
+[00:50:08] Vai romer?
+[00:50:10] Tá tranquilo?
+[00:50:12] Diz.
+[00:50:14] Tranquilo?
+[00:50:16] Sim.
+[00:50:18] Beleza.
+[00:50:22] Aplicações de pilha.
+[00:50:24] O desfazer, o refazer, né?
+[00:50:26] Que é o nosso control z e control y.
+[00:50:28] Avaliação de expressões.
+[00:50:30] No caso, por exemplo, na pação polonês.
+[00:50:34] Verificação de parentes desbalanceados.
+[00:50:38] Se você colocou um parente,
+[00:50:40] ele espera que você...
+[00:50:42] É o início, né?
+[00:50:44] Ele espera que tenha o fim, né?
+[00:50:46] Na verdade, você vai empilhando
+[00:50:48] os úficos, né?
+[00:50:50] Se você tem um parente assim,
+[00:50:52] ele espera que depois se encontram assim.
+[00:50:54] Se não tiver,
+[00:50:56] faz balanciado. Tá faltando.
+[00:50:58] Tá? Vou pular pela ponta logo.
+[00:51:00] Chamada de função
+[00:51:02] call stack.
+[00:51:04] Então, todo vez que você vai pegar uma função,
+[00:51:06] ele vai ir colocando
+[00:51:08] aquela chamada dentro
+[00:51:10] da pilha de execução.
+[00:51:12] Tá?
+[00:51:14] Quem acha que agora eu estudo o cu?
+[00:51:16] Saúde.
+[00:51:18] O labirinto.
+[00:51:20] Só um jogo em que eles utilizam
+[00:51:22] o pilha, né?
+[00:51:24] O backtracking. Tá?
+[00:51:26] Não tem mistério com pilha.
+[00:51:28] É bem simples.
+[00:51:30] Fila, né?
+[00:51:32] Ou fifa.
+[00:51:34] Como é a fila?
+[00:51:36] Fourth Infas Out.
+[00:51:38] Quer dizer, o primeiro elemento que eu inserir
+[00:51:40] vai ser o primeiro elemento que vai ser
+[00:51:42] removido.
+[00:51:44] Operações.
+[00:51:46] Aí você vai ter...
+[00:51:48] O enq,
+[00:51:50] que é o enfilarar.
+[00:51:52] Deq, que é pra desenfilarar.
+[00:51:56] E o front, pra consultar
+[00:51:58] o início, né?
+[00:52:00] O primeiro elemento.
+[00:52:02] É a fila do banco.
+[00:52:04] Porque eu não passo mais por isso.
+[00:52:06] É bem.
+[00:52:08] Felizmente.
+[00:52:10] Como é a implementação da fila?
+[00:52:12] Com lista.
+[00:52:14] Na fila, você vai ter dois ponteiros.
+[00:52:16] Um ponteiro que vai apontar pro início
+[00:52:18] da minha fila.
+[00:52:20] E um ponteiro que vai apontar pro fim
+[00:52:22] da fila.
+[00:52:24] Vou enfilar a hora.
+[00:52:26] Vou colocar o elemento na minha fila.
+[00:52:32] Eu vou criar o meu nó.
+[00:52:36] Criar o meu nó.
+[00:52:38] Valou.
+[00:52:40] Sim.
+[00:52:48] Mas você tem dois, né?
+[00:52:50] Sim.
+[00:52:52] Se diferir.
+[00:52:54] Fim.
+[00:52:56] F inicio.
+[00:52:58] Fim.
+[00:53:00] Ou seja,
+[00:53:02] tô ensinando o primeiro elemento
+[00:53:04] tanto o início
+[00:53:06] como o fim.
+[00:53:08] Vai ser esse elemento aqui.
+[00:53:10] Acabei de inserir.
+[00:53:14] Tá?
+[00:53:16] Aí depois você vê o que ele faz.
+[00:53:18] Ah, não, ele já dá vento aqui, né?
+[00:53:20] Aí sai.
+[00:53:22] Beleza.
+[00:53:24] Vou inserir o novo elemento.
+[00:53:28] Do novo elemento.
+[00:53:30] Valou?
+[00:53:32] Valou.
+[00:53:40] Beleza. Filei.
+[00:53:42] É diferente. Fim.
+[00:53:44] Não, né?
+[00:53:46] Vem pra cá.
+[00:53:50] Fim.
+[00:53:52] Prox, recebi em.
+[00:53:54] Ou seja, Fim.
+[00:53:58] Fim, Prox.
+[00:54:00] Quem é o próximo elemento?
+[00:54:02] Tá com um nulo, né?
+[00:54:04] Eu coloco ele pra ser quem?
+[00:54:16] Fim, recebi em.
+[00:54:20] Então o fim que você tava lá no início,
+[00:54:22] ele veio pra cá.
+[00:54:28] Fim.
+[00:54:32] Acabou.
+[00:54:36] Vou inserir o toalho, né?
+[00:54:40] Valou.
+[00:54:42] Beleza.
+[00:54:50] Vula, se condicionar aqui e vem pra cá.
+[00:54:52] Fim, Prox.
+[00:54:56] O Fim tá aqui.
+[00:54:58] É o fim, né?
+[00:55:00] Quem é o próximo?
+[00:55:02] Tá sendo um novo.
+[00:55:04] Ele vai saber quem.
+[00:55:06] Não dá isso.
+[00:55:14] Fim, recebi em.
+[00:55:26] Tá uma exerção, vai ser sempre nulo.
+[00:55:28] O final, na fila, né?
+[00:55:32] Se eu quiser fazer uma remoção.
+[00:55:34] Thank you.
+[00:55:36] A remoção vai ser sempre lá no começo.
+[00:55:42] Primeiro eu verifique isso aqui, né?
+[00:55:44] Pra saber o que.
+[00:55:46] Se tem agoramento, tenta a minha fila.
+[00:55:48] Pera, menina, fila, tenta.
+[00:55:50] Aí o crão variável a auxiliar.
+[00:55:52] Essa variável a auxiliar, vai apontar lá pro início.
+[00:55:54] Pra me ficar aqui, ó.
+[00:55:58] Queria uma variável ver que vai receber esse valor aqui.
+[00:56:02] Sim.
+[00:56:06] Aí eu botei pro F início.
+[00:56:08] Recebi a auxiprox.
+[00:56:10] Quem é a auxiprox?
+[00:56:14] Aqui é o álbum, quem é o próximo?
+[00:56:16] O novo.
+[00:56:18] Então no início agora vai ser
+[00:56:20] pra apontar pro próximo elemento.
+[00:56:24] Tá bom.
+[00:56:30] Aí verifica, sim.
+[00:56:32] Diferente de F, e isso,
+[00:56:34] F, F recebe nulo.
+[00:56:40] Isso é no caso da última elemento, né?
+[00:56:42] É, não é.
+[00:56:44] Então ele só pega aí.
+[00:56:52] Tá mais remoção aí sempre,
+[00:56:54] tirando o primeiro elemento, né?
+[00:56:56] Primeiro é chegar,
+[00:56:58] primeiro é sair.
+[00:57:02] Retorno o valor F que tinha colocado lá no final.
+[00:57:10] Dá pra você fazer a implementação de uma fila
+[00:57:12] circular com vetor.
+[00:57:14] Olha como é que tá aqui, ó.
+[00:57:16] Você tem aqui
+[00:57:18] o N, que é tamanho 10.
+[00:57:20] Definimento estrutura,
+[00:57:22] tá vendo que eu tenho um vetor de dados
+[00:57:24] do tamanho N, né?
+[00:57:26] Aí eu tenho
+[00:57:28] início, fim e
+[00:57:30] quantidade.
+[00:57:32] E é a fila circular.
+[00:57:34] Se eu quiser infilarar,
+[00:57:36] se eu quiser colocar, ele é a minha fila circular.
+[00:57:38] Primeiro ele verifica
+[00:57:40] essa quantidade, né?
+[00:57:42] Vai ser igual a N.
+[00:57:44] Quer dizer, se ela estiver cheia,
+[00:57:46] se estiver cheia eu não posso inserir mais nenhum elemento.
+[00:57:48] Aí a gente se erra ali.
+[00:57:50] Mas se ela não estiver cheia,
+[00:57:52] aí eu vou botar
+[00:57:54] F dados,
+[00:57:56] F fim,
+[00:57:58] né? O último elemento é que foi inserido,
+[00:58:00] recebe ver.
+[00:58:02] O valor que eu tô passando não parando.
+[00:58:04] O fim agora
+[00:58:06] vai ser igual
+[00:58:08] ao fim mais um
+[00:58:10] do certo N.
+[00:58:12] Ele pega a quantidade
+[00:58:14] do último elemento mais um
+[00:58:16] do resto de divisão por N.
+[00:58:18] U10.
+[00:58:20] Depois, ele só aumenta a quantidade
+[00:58:22] de arameis para não inserir isso.
+[00:58:28] Ok?
+[00:58:38] Dá um nó na cabeça.
+[00:58:40] Dá um nó na cabeça de todo jeito.
+[00:58:42] Essa anotação dá certo aí, até eu entender se vai demorar.
+[00:58:46] É, mas aí quando você estiver na parte
+[00:58:48] de N,
+[00:58:50] praticamente já vai parer
+[00:58:52] um pouquinho mais.
+[00:58:54] Mas é a parte mais importante, né?
+[00:58:56] Isso quer dizer também que
+[00:58:58] esse ponteiro
+[00:59:00] não precisa que todos os dados que você tem
+[00:59:02] nos nossos, eles sejam todos em sequência
+[00:59:04] como no vetor.
+[00:59:06] Então você pode ter um
+[00:59:08] um nó no início da memória
+[00:59:10] ou no fim depois voltar
+[00:59:12] para o início de novo.
+[00:59:14] Isso aí não tem problema
+[00:59:16] quando a partir de armazenamento, porque você tem um ponteiro
+[00:59:18] que vai apontar para o próximo armamento.
+[00:59:20] Só que você perder esse ponteiro
+[00:59:22] acabou a estrutura.
+[00:59:24] É importantíssimo que você sempre
+[00:59:26] fique atento para relação
+[00:59:28] a esse ponteirozinho aí.
+[00:59:30] Para não se perder e não perder
+[00:59:32] a informação que você tem na sua estrutura.
+[00:59:34] Seja lista, seja fila, seja pilha.
+[00:59:38] É importantíssimo que você tenha
+[00:59:40] atenção com relação ao uso desse ponteiro.
+[00:59:46] Aplicação de fila.
+[00:59:48] Escalamento de processo em siô.
+[00:59:50] Você bota um negócio para processar
+[00:59:52] no seu computador e ele vai lá para
+[00:59:54] um escalador de processo.
+[00:59:56] Que são algoritmos diferentes.
+[00:59:58] Ele vai delimitar dentro da fila dele
+[01:00:00] quem entra e quem sai, em que momento.
+[01:00:02] Quem vai executar também, em que momento.
+[01:00:04] Bóforos de entrada e saída
+[01:00:06] de redes.
+[01:00:08] Filas de impressora.
+[01:00:10] Você tem a BFS, que é a busca
+[01:00:12] que largura, que é utilizada
+[01:00:14] em grafos.
+[01:00:16] Filas de atendimento.
+[01:00:20] Quando a gente passar para a próxima
+[01:00:22] árvore.
+[01:00:24] Faz pela gente que já está
+[01:00:26] quase muita hora de tervalo.
+[01:00:28] Quem quiser merendar, vá.
+[01:00:30] É importante encerrar
+[01:00:32] com a árvore e o passarista
+[01:00:34] que tem.
+[01:00:36] Beleza.
+[01:00:44] No vetor
+[01:00:46] a gente reservava
+[01:00:48] espaços de memória
+[01:00:50] de acentes.
+[01:00:52] Era isso.
+[01:00:54] Em sequência.
+[01:00:56] Agora com
+[01:00:58] filas,
+[01:01:00] filhas e outras estruturas que a gente
+[01:01:02] utiliza com
+[01:01:04] mais
+[01:01:06] frequênciasonteiras.
+[01:01:08] A gente não tem aquela velocidade
+[01:01:10] que a gente tinha, que está tudo juntinho
+[01:01:12] na memória.
+[01:01:14] Mas a gente tem a vantagem de se o espaço
+[01:01:16] que a gente tem está todo fragmentado.
+[01:01:18] A gente não consegue juntar
+[01:01:20] um vetorzão aqui na memória.
+[01:01:22] Mas a gente conseguiria encontrar vários pequenos.
+[01:01:24] A gente
+[01:01:26] consegue fazer estrutura
+[01:01:28] e não perde tanta velocidade.
+[01:01:30] Sabe os endereços exatos do próximo.
+[01:01:32] Pense
+[01:01:34] para que o vetor
+[01:01:36] tiver um estruturo muito alumente.
+[01:01:38] Sim.
+[01:01:42] Diferente do vetor que você só acessar o índice.
+[01:01:44] Mas se você tem essa limitação
+[01:01:46] de ter uma memória que é muito pequena
+[01:01:48] ou já está muito fragmentada
+[01:01:50] e que você não consegue fazer caber
+[01:01:52] aquele vetor inteiro,
+[01:01:54] você ainda conseguiria armazenar ele
+[01:01:56] com uma perda
+[01:01:58] no desempenho na hora da sua memória.
+[01:02:00] Mas ainda assim
+[01:02:02] possibilitaria fazer.
+[01:02:04] Não é isso.
+[01:02:10] É muito doido.
+[01:02:12] Não, essa não está só na setinha.
+[01:02:14] Eu vou ter que cair em cima.
+[01:02:16] O meu cérebro não está. Não está processando.
+[01:02:22] É, tipo, quando estava
+[01:02:24] uma setinha só, estava indo.
+[01:02:26] Tinha em 7.
+[01:02:28] Eu me perdi.
+[01:02:34] Ei, não, o Digimon vai ser complexo de mais.
+[01:02:36] Qual que é mais melhor?
+[01:02:40] Não, não.
+[01:02:42] Mas eu vou.
+[01:02:52] Você sabe que as pernas
+[01:02:54] eu realmente achava as pernas.
+[01:02:56] Você sabe que as pernas
+[01:02:58] eu realmente achava que as pernas
+[01:04:46] eu defino aqui minha árvore
+[01:04:48] minha árvore ele vai ter
+[01:04:50] uma informaçãozinha
+[01:04:52] e vai ter um ponteiro
+[01:04:54] que vai apontar para a esquerda
+[01:04:56] e um ponteiro que vai apontar para a direita
+[01:04:58] somente dois
+[01:05:00] porque é uma árvore binária
+[01:05:02] como é que eu vou inserir nessa árvore binária
+[01:05:04] vamos lá
+[01:05:06] se diferente raiz
+[01:05:08] ou seja
+[01:05:10] se
+[01:05:12] se eu tenho somente alamento
+[01:05:16] se eu não tenho um alimento
+[01:05:20] eu quero que você crie
+[01:05:22] um "n"
+[01:05:24] e aí você vai pegar essa
+[01:05:26] informação que eu passei aqui
+[01:05:28] colocar dentro dele
+[01:05:30] tanto o ponteiro da esquerda como
+[01:05:32] da direita aponta para logo
+[01:05:34] então eu vou criar aqui
+[01:05:36] valor
+[01:05:38] tanto o ponteiro da esquerda como da direita aponta para logo
+[01:05:48] valor
+[01:05:52] pode dizer
+[01:05:54] oito
+[01:05:58] tá? oito
+[01:06:00] aí eu tenho
+[01:06:02] ele esquerda e ele direita aponta para logo
+[01:06:04] então para cá
+[01:06:08] e para cá
+[01:06:10] é novo
+[01:06:12] inserir outro alimento
+[01:06:14] criar um alimento
+[01:06:16] beleza
+[01:06:18] já pulo daqui
+[01:06:20] porque eu já tenho uma raiz
+[01:06:22] aí vai fazer a verificação
+[01:06:24] se
+[01:06:26] ver, é menor que raiz info
+[01:06:32] vamos ver qual é a meta agora
+[01:06:36] o 7
+[01:06:38] então ele vem para cá
+[01:06:40] se ver menor que raiz info
+[01:06:42] quanto é raiz info é outro
+[01:06:44] então ele vem para cá
+[01:06:46] aí a raiz esquerda
+[01:06:48] vai receber e inserir
+[01:06:50] raiz esquerda ver
+[01:06:52] ele está fazendo um queimado recursivo
+[01:06:54] tá?
+[01:06:56] então ele vem a raiz esquerda
+[01:06:58] esse cara aqui
+[01:07:00] vai receber e aí ele chama
+[01:07:02] inserir raiz esquerda
+[01:07:04] e o ver
+[01:07:10] se não
+[01:07:12] se ver foi maior que raiz info
+[01:07:14] raiz direita recebe inserir
+[01:07:16] raiz direita ver
+[01:07:18] nesse caso aqui ele vem
+[01:07:20] vem para cá
+[01:07:22] aí daqui
+[01:07:24] ele insere o valor
+[01:07:26] já que é novo, é extremidade
+[01:07:28] e coloca o valor 7
+[01:07:32] eu morrei
+[01:07:46] vai inserir outro raiz
+[01:07:48] qual é o raiz?
+[01:07:50] 9
+[01:07:52] tá, então 9
+[01:07:54] diferente de raiz
+[01:07:56] não é menor
+[01:07:58] é maior
+[01:08:00] raiz direita recebe inserir
+[01:08:02] raiz direita ver
+[01:08:04] então ele vem para cá
+[01:08:16] não é menor
+[01:08:26] inserir até lá é meio
+[01:08:28] 6
+[01:08:32] insere fora de sequência
+[01:08:34] é 45
+[01:08:36] 45, vamos lá
+[01:08:38] ele começa daqui
+[01:08:40] é maior
+[01:08:42] maior, então ele vem para cá
+[01:08:44] maior
+[01:08:46] direita, não é?
+[01:08:48] isso
+[01:08:56] não
+[01:09:06] o 7 e o 4 que sim
+[01:09:08] foi isso
+[01:09:10] o meu 8 é a minha raiz
+[01:09:12] isso aqui é uma sub-árvore
+[01:09:14] é a sub-árvore da esquerda
+[01:09:16] isso aqui é outra sub-árvore
+[01:09:18] tá
+[01:09:20] pode chamar de galho
+[01:09:22] também né
+[01:09:24] próximo alamento
+[01:09:26] 15
+[01:09:30] começa na raiz
+[01:09:32] maior ou menor que 8?
+[01:09:34] maior
+[01:09:36] 15 é maior ou menor que 9?
+[01:09:38] maior
+[01:09:40] maior, então vem para cá
+[01:09:42] 15 é maior ou menor que 5?
+[01:09:44] menor
+[01:09:46] mais
+[01:09:50] mas o 7 é maior
+[01:09:56] eu to colocando o brinco
+[01:09:58] vou colocar só assim
+[01:10:06] próximo alamento
+[01:10:12] 21
+[01:10:14] mas isso aqui não é raiz
+[01:10:16] mas para a esquerda ou para a direita?
+[01:10:18] direita
+[01:10:34] 21
+[01:10:36] e assim vai
+[01:10:38] tem mistério
+[01:10:40] tá
+[01:10:42] ela vai para a esquerda e vai para a direita
+[01:10:52] você tem 3 tipos de percurso
+[01:10:54] em árvore
+[01:10:56] você tem um percurso
+[01:10:58] chamado pré-ordem
+[01:11:00] que ele vai
+[01:11:02] sempre assim, raiz
+[01:11:04] esquerda e direita
+[01:11:06] em ordem
+[01:11:08] você vai ter esquerda
+[01:11:10] primeira esquerda
+[01:11:12] depois raiz e por fim direita
+[01:11:14] e o pois ordem
+[01:11:16] primeira esquerda
+[01:11:18] depois direita
+[01:11:20] e por último raiz
+[01:11:22] tá
+[01:11:24] aqui tem um fuzonzinho para poder imprimir
+[01:11:26] os alamentos da minha árvore
+[01:11:28] que estão em ordem
+[01:11:30] vamos tentar voltar esse negócio a executar
+[01:11:32] eu tenho o reponteiro R
+[01:11:34] a minha raiz
+[01:11:36] aí ele vai chamar primeiro o R em ordem
+[01:11:38] vou em ordem
+[01:11:40] para cá
+[01:11:42] vai chamar o R em ordem
+[01:11:44] o R esquerda
+[01:11:46] ele começa aqui
+[01:11:52] é
+[01:11:54] aí ele vai chamar o R à esquerda
+[01:11:56] aí vem para cá
+[01:12:00] aí depois
+[01:12:08] tem muita info
+[01:12:10] prenda essa informação
+[01:12:12] é o primeiro alamento que ele vai imprimir
+[01:12:14] aqui é o 7
+[01:12:16] ele dá um espaço
+[01:12:18] depois
+[01:12:20] agora ele vai para a direita
+[01:12:30] é né
+[01:12:32] então ele vem para cá
+[01:12:34] depois
+[01:12:36] aí ele tenta a esquerda
+[01:12:40] se não tem ele vai para a direita
+[01:12:42] mas ele sempre tenta a esquerda de novo
+[01:12:44] primeiro
+[01:12:46] aí
+[01:12:48] depois
+[01:12:50] ele tá aqui né
+[01:12:52] depois
+[01:12:58] depois o 15 e depois o 21
+[01:13:02] aí ele vem para cá
+[01:13:04] eu vim para cá
+[01:13:06] ele printa o 15
+[01:13:08] printa né
+[01:13:10] depois
+[01:13:22] foi todos na esquerda
+[01:13:28] a direita
+[01:13:30] vai ser o 9
+[01:13:34] em ordem
+[01:13:36] não
+[01:13:38] a ordem que ele tá colocando
+[01:13:40] vai ser a direita
+[01:13:42] a esquerda e a direita
+[01:13:46] tá fazendo em ordem
+[01:13:48] né
+[01:13:52] tá fazendo primeiro a esquerda
+[01:13:54] depois a raiz e depois a direita
+[01:13:56] ah tá então vai ser o 8
+[01:13:58] que é a raiz
+[01:14:00] a raiz é o 9
+[01:14:04] ele soga né
+[01:14:06] beleza depois é o próximo
+[01:14:08] aí é o direito
+[01:14:10] porque é o 9, é o 8, 5, 21
+[01:14:12] então ele vai para o 9 primeiro
+[01:14:14] é né
+[01:14:16] depois
+[01:14:24] para a direita primeiro
+[01:14:26] todo mundo da esquerda
+[01:14:28] imprimir todo mundo da esquerda
+[01:14:30] o próximo vai ser a raiz
+[01:14:32] depois todo mundo da direita
+[01:14:40] busca
+[01:14:44] aproveitar nessa árvore aqui
+[01:14:48] eu quero procurar
+[01:14:54] o 45
+[01:15:04] ele começa de onde? da raiz né
+[01:15:06] se encontrar que foi
+[01:15:08] o próprio raiz
+[01:15:10] ele já retorna no começo né
+[01:15:12] mas não é
+[01:15:16] o que é que ele faz agora
+[01:15:18] ele vai verificar
+[01:15:20] se for menor
+[01:15:22] então vai para a esquerda
+[01:15:24] mas se for maior
+[01:15:26] direito
+[01:15:28] então ele começa daqui
+[01:15:30] 45 é maior ou menor que o 8
+[01:15:32] então ele vai para
+[01:15:34] direito
+[01:15:36] 9
+[01:15:38] 45 é maior que 9
+[01:15:40] não vem para? direito
+[01:15:42] achei
+[01:15:44] então tá aqui o valor que você tá procurando
+[01:15:46] vai se localizando
+[01:15:48] com relação aos valores
+[01:15:50] mais ou menos
+[01:15:52] para esquerda se for maior
+[01:15:54] para a direita
+[01:16:00] qual tipo de estrutura
+[01:16:02] que eu vou escolher
+[01:16:04] se você precisa
+[01:16:06] de uma ordem de chegada
+[01:16:10] fila
+[01:16:12] se eu preciso que o último
+[01:16:14] chegue a primeiro pilha
+[01:16:16] mas não se preocupado com
+[01:16:18] você não colocar na pilha
+[01:16:20] se eu preciso
+[01:16:22] seria eu remover no meio com frequência
+[01:16:24] lista
+[01:16:26] tá
+[01:16:28] eu preciso de uma busca ordenada eficiente
+[01:16:32] a árvore
+[01:16:34] a árvore binária de busca
+[01:16:36] tem essa outra árvore chamada IAVL
+[01:16:38] árvore AVL
+[01:16:40] é um pouquinho mais complicado porque
+[01:16:42] à medida que eu vou inserir um elemento da minha árvore
+[01:16:44] eu vou reestruturando ela
+[01:16:46] de forma que ela sempre fique balanceada
+[01:16:48] tá
+[01:16:50] que ela fique de forma
+[01:16:52] adequada
+[01:16:54] aquela árvore que tava aqui, ela tá toda desbalanceada
+[01:16:56] a gente foi sempre a meta AVL
+[01:16:58] aí a gente tinha que fazer trocas
+[01:17:00] para poder deixar ela toda
+[01:17:02] organizadinha né
+[01:17:04] toda ela estruturada
+[01:17:06] regra de olho
+[01:17:08] escolha pelo padrão de acesso do C1
+[01:17:10] problema tá
+[01:17:12] show
+[01:17:14] quanto a parte de estruturas
+[01:17:16] que a gente vai ver é isso
+[01:17:18] a UFA deu o seguinte
+[01:17:20] eu vou colocar esses slides lá na plataforma
+[01:17:24] e o outro com a lista de exercícios também
+[01:17:26] só com relação a partir
+[01:17:28] os outros candidatos
+[01:17:30] aí essa lista de exercícios
+[01:17:32] vocês podem me tragar até a semana que vem
+[01:17:34] show
+[01:17:36] e o que nós ainda não dá a alteração
+[01:17:38] de exercícios
+[01:17:40] esses catos na maioridade
+[01:17:42] seus amigos pô
+[01:17:44] os melhores que tu tem
+[01:17:46] melhor
+[01:17:48] que você vai encontrar com saudadinha
+[01:17:50] os caras
+[01:17:56] não, vou colocar aí nos anteriores
+[01:17:58] vou colocar lá
+[01:18:12] se eu tá botando em conta
+[01:18:14] que não até aí de ser
+[01:18:16] pra mim só aparecia um aqui
+[01:18:18] qual é?
+[01:18:20] que é a estrutura de dados
+[01:18:38] um espelho
+[01:18:42] que legal
+[01:18:46] melhor que você já pede a vida cara
+[01:19:10] vai subir toda a plataforma
+[01:19:16] todo dia isso que essa senha
+[01:19:18] e você me anota
+[01:19:28] você acha?
+[01:19:30] mais rápido de subindo aí
+[01:19:40] centraliza
+[01:20:10] aí essa câmera
+[01:20:18] eu vi lá que você quer no bisodo
+[01:20:20] eu tava tentando lembrar de qual bisodo era
+[01:20:22] é isso mano
+[01:20:24] eu pensei
+[01:20:38] isso é rádio
+[01:20:42] é isso
+[01:20:50] é um alvo assim né
+[01:20:58] eu queria ser nesse joguinho
+[01:21:00] na noite
+[01:21:02] ela joga um rádio
+[01:21:10] você não joga um rádio
+[01:21:18] ela joga um rádio
+[01:21:20] você não joga um rádio
+[01:21:34] você joga um rádio
+[01:21:36] você não joga um rádio

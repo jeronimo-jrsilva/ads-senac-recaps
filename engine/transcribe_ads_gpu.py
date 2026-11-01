@@ -1,17 +1,12 @@
 #!/usr/bin/env python3
 """
-Motor de Transcrição e Triagem ADS 2026.2 (GPU RX 7600 ROCm / Faster-Whisper)
+Motor de Transcrição e Triagem ADS 2026.2 (GPU AMD Radeon RX 7600 ROCm / whisper.cpp)
 =============================================================================
-Melhorias v2.0:
-1. Triagem automática por data, dia da semana e janela de horário:
-   - Quinta 17h00..18h35 ou nome 'Lideranca' -> extra_lideres/ (FORA DA GRADE)
-   - Segunda a Sexta 08h00..13h30 -> AULA_ADS_MANHA
-   - Quinta 18h40..22h00 -> AULA_ADS_NOITE (Banco de Dados / Reposição)
-   - Sábado -> SABADO_LETIVO_OU_EXTENSAO
-2. Modo --sample: extrai amostras rápidas (minuto 2 e minuto 15) em <5s na GPU
-   para identificar professor, disciplina e tema antes da transcrição completa.
-3. Transcrição completa com marcação de tempo [HH:MM:SS] e anti-loop
-   (condition_on_previous_text=False + vad_filter=True).
+Aceleração nativa por hardware:
+- ROCm / HIP (HSA_OVERRIDE_GFX_VERSION=11.0.0)
+- whisper-cli compilado com suporte a GPU
+- Modelo padrão: ggml-small.bin (~23x mais rápido que tempo real)
+- Timestamps padronizados [HH:MM:SS]
 """
 
 import argparse
@@ -23,11 +18,11 @@ import sys
 import tempfile
 import time
 
-os.environ.setdefault("HSA_OVERRIDE_GFX_VERSION", "11.0.0")
-from faster_whisper import WhisperModel
-
+WHISPER_BIN = "/home/jeronimo/whisper.cpp/build/bin/whisper-cli"
+MODEL_DEFAULT = "/home/jeronimo/whisper.cpp/models/ggml-small.bin"
 INBOX_DEFAULT = "/home/jeronimo/G-Sync/Audios_Faculdade/00_Inbox_Tablet"
 OUT_DIR_DEFAULT = "/home/jeronimo/G-Sync/ads-senac-recaps/s2_2026_2/00_transcricoes_brutas"
+
 DIAS_PT = ["Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom"]
 MESES_PT = ["", "jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"]
 
@@ -60,7 +55,7 @@ def parse_recording_metadata(filepath: str) -> dict:
         start_dt = datetime.datetime(2000 + yy, mm, dd, hh, mi, ss)
         end_dt = start_dt + datetime.timedelta(seconds=dur_s)
     else:
-        # Padrão 2: Lideranca DD-MM-YY.m4a ou outro nome -> usa mtime - duração
+        # Padrão 2: Lideranca DD-MM-YY.m4a ou outro
         m2 = re.search(r"(\d{2})-(\d{2})-(\d{2})", bname)
         end_dt = mtime
         start_dt = end_dt - datetime.timedelta(seconds=dur_s)
@@ -73,7 +68,7 @@ def parse_recording_metadata(filepath: str) -> dict:
     dia_str = DIAS_PT[wd]
     hh_float = start_dt.hour + start_dt.minute / 60.0
 
-    # Regras de Triagem por Horário e Dia da Semana
+    # Classificação
     if "lideranca" in bname.lower() or (wd == 3 and 16.8 <= hh_float <= 18.5):
         categoria = "PROGRAMA_DE_LIDERES"
         entra_portal = False
@@ -116,115 +111,90 @@ def parse_recording_metadata(filepath: str) -> dict:
     }
 
 
-def load_gpu_model(model_name: str = "small"):
-    try:
-        print(f"🚀 Carregando modelo '{model_name}' na GPU (ROCm/CUDA float16)...")
-        return WhisperModel(model_name, device="cuda", compute_type="float16")
-    except Exception as e:
-        print(f"⚠️ Fallback para CPU int8 ({e})...")
-        return WhisperModel(model_name, device="cpu", compute_type="int8", cpu_threads=8)
+def transcribe_file_whisper_cpp(audio_path: str, output_path: str, model_path: str = MODEL_DEFAULT):
+    meta = parse_recording_metadata(audio_path)
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-
-def sample_audio_triage(model: WhisperModel, filepath: str, sample_duration: int = 90) -> str:
-    """Extrai dois trechos curtos (início + meio) para identificar tema e professor rapidamente."""
-    meta = parse_recording_metadata(filepath)
-    dur = meta["duration_s"]
-    offsets = [120] if dur < 1200 else [180, int(dur * 0.45)]
-    snippets = []
+    print(f"\n🎙️ Transcrevendo via ROCm GPU: {meta['filename']} ({meta['duration_str']})")
+    print(f"   -> Destino: {os.path.basename(output_path)}")
+    t0 = time.time()
 
     with tempfile.TemporaryDirectory() as tmpdir:
-        for idx, offset in enumerate(offsets):
-            if offset >= dur:
-                offset = max(0, int(dur / 4))
-            wav_path = os.path.join(tmpdir, f"sample_{idx}.wav")
-            subprocess.run(
-                [
-                    "ffmpeg", "-y", "-v", "error",
-                    "-ss", str(offset), "-t", str(sample_duration),
-                    "-i", filepath, "-ar", "16000", "-ac", "1", wav_path,
-                ],
-                check=False,
-            )
-            if os.path.exists(wav_path):
-                segs, _ = model.transcribe(
-                    wav_path,
-                    language="pt",
-                    beam_size=2,
-                    vad_filter=True,
-                    condition_on_previous_text=False,
-                )
-                txt = " ".join(s.text.strip() for s in segs)
-                mm, ss = divmod(offset, 60)
-                hh, mm = divmod(mm, 60)
-                snippets.append(f"[{hh:02d}:{mm:02d}:{ss:02d}] {txt}")
+        wav_path = os.path.join(tmpdir, "input.wav")
+        # Conversão rápida para 16kHz Mono 16-bit
+        conv_cmd = [
+            "ffmpeg", "-y", "-i", audio_path,
+            "-ar", "16000", "-ac", "1", "-sample_fmt", "s16",
+            wav_path
+        ]
+        subprocess.run(conv_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
 
-    return "\n".join(snippets)
+        env = os.environ.copy()
+        env["HSA_OVERRIDE_GFX_VERSION"] = "11.0.0"
 
+        whisper_cmd = [
+            WHISPER_BIN,
+            "-m", model_path,
+            "-f", wav_path,
+            "-l", "pt",
+            "-t", "8",
+            "-np"
+        ]
 
-def format_ts(seconds: float) -> str:
-    s = int(seconds)
-    hh, rem = divmod(s, 3600)
-    mm, ss = divmod(rem, 60)
-    return f"{hh:02d}:{mm:02d}:{ss:02d}"
+        proc = subprocess.Popen(
+            whisper_cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+            env=env
+        )
 
+        lines = []
+        raw_output, stderr_output = proc.communicate()
 
-def transcribe_full(model: WhisperModel, filepath: str, out_path: str, tag_suffix: str = ""):
-    meta = parse_recording_metadata(filepath)
-    t0 = time.time()
-    print(f"\n🎙️ Transcrevendo: {meta['filename']} ({meta['duration_str']}) -> {os.path.basename(out_path)}")
+        # Converte formato [00:00:00.000 --> 00:00:06.000] em [00:00:00]
+        pattern = re.compile(r"\[(\d{2}:\d{2}:\d{2})\.\d+ --> \d{2}:\d{2}:\d{2}\.\d+\]\s*(.*)")
+        for line in raw_output.splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            m = pattern.match(line)
+            if m:
+                ts = m.group(1)
+                txt = m.group(2).strip()
+                if txt:
+                    # Deduplicação simples de stuttering consecutivo
+                    if lines and lines[-1].endswith(txt):
+                        continue
+                    lines.append(f"[{ts}] {txt}")
+            else:
+                lines.append(line)
 
-    segments, info = model.transcribe(
-        filepath,
-        language="pt",
-        beam_size=3,
-        vad_filter=True,
-        vad_parameters=dict(min_silence_duration_ms=600),
-        condition_on_previous_text=False,
-    )
+    header = f"""# =====================================================================
+# ARQUIVO DE ORIGEM : {meta['filename']}
+# DATA DA GRAVAÇÃO  : {meta['start_dt'].strftime('%Y-%m-%d')} ({meta['weekday_pt']})
+# HORÁRIO (INÍCIO-FIM): {meta['start_dt'].strftime('%H:%M:%S')} -> {meta['end_dt'].strftime('%H:%M:%S')} ({meta['duration_str']})
+# CLASSIFICAÇÃO     : {meta['categoria']} | {meta['disciplina_sugerida']}
+# ENTRA NO PORTAL?  : {'SIM' if meta['entra_portal'] else 'NÃO (Extra-grade)'}
+# =====================================================================
 
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    with open(out_path, "w", encoding="utf-8") as f:
-        f.write("# =====================================================================\n")
-        f.write(f"# ARQUIVO DE ORIGEM : {meta['filename']}\n")
-        f.write(f"# DATA DA GRAVAÇÃO  : {meta['start_dt'].strftime('%Y-%m-%d')} ({meta['weekday_pt']})\n")
-        f.write(f"# HORÁRIO (INÍCIO-FIM): {meta['start_dt'].strftime('%H:%M:%S')} -> {meta['end_dt'].strftime('%H:%M:%S')} ({meta['duration_str']})\n")
-        f.write(f"# CLASSIFICAÇÃO     : {meta['categoria']} | {meta['disciplina_sugerida']}\n")
-        f.write(f"# ENTRA NO PORTAL?  : {'SIM' if meta['entra_portal'] else 'NÃO (Extra-Grade)'}\n")
-        f.write("# =====================================================================\n\n")
+"""
 
-        count = 0
-        for seg in segments:
-            ts = format_ts(seg.start)
-            text = seg.text.strip()
-            if text:
-                f.write(f"[{ts}] {text}\n")
-                count += 1
-                if count % 50 == 0:
-                    f.flush()
-                    print(f"  ... [{ts}] ({count} segmentos processados)", flush=True)
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(header + "\n".join(lines) + "\n")
 
     elapsed = time.time() - t0
-    print(f"✅ Concluído em {elapsed:.1f}s ({count} segmentos) -> {out_path}")
-
-
-def main():
-    parser = argparse.ArgumentParser(description="Motor GPU de Triagem e Transcrição ADS")
-    parser.add_argument("--sample", nargs="+", help="Arquivos .m4a para amostragem rápida (90s)")
-    parser.add_argument("--transcribe", nargs="+", help="Pares ou arquivos .m4a para transcrição completa")
-    parser.add_argument("--model", default="small", help="Modelo Whisper (small, medium, large-v3-turbo)")
-    args = parser.parse_args()
-
-    model = load_gpu_model(args.model)
-
-    if args.sample:
-        for path in args.sample:
-            meta = parse_recording_metadata(path)
-            print("=" * 80)
-            print(f"📄 ARQUIVO: {meta['filename']} | {meta['start_dt'].strftime('%d/%m/%Y (%a) %H:%M')} -> {meta['end_dt'].strftime('%H:%M')} ({meta['duration_str']})")
-            print(f"🏷️ SUGESTÃO POR HORÁRIO: {meta['categoria']} -> {meta['disciplina_sugerida']} (Portal: {meta['entra_portal']})")
-            sample_txt = sample_audio_triage(model, path)
-            print(f"🗣️ AMOSTRA DO ÁUDIO:\n{sample_txt}\n")
+    size_kb = os.path.getsize(output_path) / 1024
+    print(f"✅ Concluído em {elapsed:.1f}s ({len(lines)} segmentos, {size_kb:.1f} KB)")
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Motor de Transcrição ADS ROCm")
+    parser.add_argument("input", nargs="?", help="Arquivo de áudio de entrada")
+    parser.add_argument("output", nargs="?", help="Arquivo de texto de saída")
+    args = parser.parse_args()
+
+    if args.input and args.output:
+        transcribe_file_whisper_cpp(args.input, args.output)
+    else:
+        print("Uso: transcribe_ads_gpu.py <audio_in> <text_out>")

@@ -1,0 +1,424 @@
+# =====================================================================
+# ARQUIVO DE ORIGEM : Voz 261021_082417.m4a
+# DATA DA GRAVAÇÃO  : 2026-10-21 (Qua)
+# HORÁRIO (INÍCIO-FIM): 08:24:17 -> 10:16:32 (1h52m)
+# CLASSIFICAÇÃO     : AULA_ADS_MANHA | Linguagem C (Prof. Vinícius)
+# ENTRA NO PORTAL?  : SIM
+# =====================================================================
+
+[00:00:00] Fica perto de mim, de nossa avó, de cabreiro, rio, morada, uma loja.
+[00:00:06] E aí, a gente teve a vida toda por lá.
+[00:00:11] Naquela época, a gente não tinha tanto acesso,
+[00:00:14] tanta oportunidade como a gente hoje em dia, por exemplo.
+[00:00:18] Porque tem um instituto...
+[00:00:20] Então, EFC é, agora, expandido.
+[00:00:23] Aí, apelente, é um expulso.
+[00:00:25] E tem a Universidade Federal de Ferraro, que é lá em Bolsas.
+[00:00:29] Pelo lar, o expulso, tá precisando de panos.
+[00:00:32] Aí, eu tentei, na época...
+[00:00:34] Primeiro, eu gasticulava a transformação da EFC, né?
+[00:00:36] Eu fiz o "N" novo, foi o primeiro "N" novo.
+[00:00:39] Aí, era de seguido, né? Sábado do mil, agora.
+[00:00:42] E aí, eu fiz, mas eu não ouvi, eu tinha usado em um lugar.
+[00:00:46] Eu fiz só por faça mesmo.
+[00:00:48] Eu já fiz o gasticulava a transformação da EFC, fiz o gasticulava da EFC.
+[00:00:52] E eu botei computação, porque tinha computador no meio,
+[00:00:54] era parte do que era o computador.
+[00:00:55] E aí, criança, quem resolveu os B.O., quem instalava os vírus,
+[00:00:59] vai traduzir, quando dizia o meu avô, era tudo era ele.
+[00:01:03] - Instala os vírus, pô. - É!
+[00:01:06] É porque eu tinha a mania em 2000 e...
+[00:01:09] Está de técnico.
+[00:01:10] Em 2003, pra mim, começou a era do Zé Mílió.
+[00:01:14] - Não, é... - E aí, amigo,
+[00:01:16] eu baixava cada coisa no computador do meu avô,
+[00:01:19] e aí, do nada, ele começou a ter uns comportamentos semelistrais,
+[00:01:22] e aí, ele dizia que era...
+[00:01:24] A gente chamava um técnico de confiança dele,
+[00:01:26] ele dizia que o técnico dizia que era o meu vírus.
+[00:01:28] Ele escolheu dar um técnico pelas cofres.
+[00:01:30] Você já achou que era tio-jogo já?
+[00:01:32] Não sei nem o que é isso.
+[00:01:35] - Jamais... - Nunca!
+[00:01:36] - Não faça isso. - Na época do CES, fazia muito isso.
+[00:01:40] Aí, eu fiz, sem esta computação lá na UEC,
+[00:01:42] entrei por lá.
+[00:01:45] Quando eu fiz o primeiro programa aqui, daquele...
+[00:01:48] inicia-se que, ah, mas eu tinha que entender como era a partir da animação.
+[00:01:51] Gostei.
+[00:01:53] Mas eu vi que também tinha outro curso que estava sendo oferecido na época.
+[00:01:56] Eu não me liguei disso.
+[00:01:58] Que era Sistema de Digitas, na UEC, na Federal.
+[00:02:00] E talvez também tinha sido o outro mundo.
+[00:02:02] Mas, qual é isso?
+[00:02:03] Isso é uma outra história, um outro paralelo.
+[00:02:06] Na parte sexta computação, a gente vê muita partir de programação,
+[00:02:10] e também tem um embalamento matemático muito maior.
+[00:02:13] A gente viu bastante disciplino de matemática.
+[00:02:15] E a gente descobre também o que é a relevância
+[00:02:18] de estudar matemática na parte de programação.
+[00:02:20] Porque está com interesse, porque é fome.
+[00:02:23] O computador é uma máquina de computação lá.
+[00:02:25] Absurdo ametirado.
+[00:02:27] Só que, porra!
+[00:02:28] Porra, no sentido de que?
+[00:02:30] Ela precisa ter alguém que instrua, é o que ela precisa fazer ou não.
+[00:02:33] E a gente faz isso a partir dos programas.
+[00:02:36] É por isso que o computador, o Sistema de Computação da UEC,
+[00:02:39] - é computador. - Exato.
+[00:02:41] - É uma computadora. - É uma computadora.
+[00:02:43] É um computador, isso não é?
+[00:02:45] Aí, no finalzinho dos segundos que mexe,
+[00:02:48] já comecei a procurar os laboratórios que tinha na UEC.
+[00:02:51] Um dos laboratórios era o Laboratório de Rejo de Computadores de Segurança.
+[00:02:55] Então, a gente recebeu como voluntário
+[00:02:58] e comecei a estudar o puloso já nas famílias.
+[00:03:01] Então, se vocês conhecem o puloso na UEC de computadores,
+[00:03:04] é um abívio, né?
+[00:03:06] Gigantesca, né?
+[00:03:08] É cheio de conceito, mas o que eu acabei de dizer foi que eu gostei muito.
+[00:03:12] Então, seguindo o Laboratório de Rejo de Computadores,
+[00:03:14] eu gostei muito de saber se febreram a gente como voluntários, posteriormente como vocês também.
+[00:03:18] Foi a minha área de pésquisa, tanto não ter se se como na dissertação, tá?
+[00:03:22] Com foco na parte de computação e nuvo.
+[00:03:25] Vocês já sabem que é computação e nuvo, né?
+[00:03:28] Muito bem.
+[00:03:30] Vocês já usam computação e nuvo e já falam muito tempo, nem sabem o que é.
+[00:03:33] - O computação e nuvo é usar para rodar a porta da missão? - É, se calhar melhor.
+[00:03:38] É tipo isso aí, né?
+[00:03:40] Será que eu preciso executar nada e não assumar?
+[00:03:43] Só preciso ter um dispositivo conectado a internet e um serviço oferecido por outro lugar, tá?
+[00:03:49] Só preciso estar conectado a internet, é só isso que eu preciso.
+[00:03:53] Tá.
+[00:03:55] - Foi bolsista do programa Ceci Fronteira, você já me falava? - É, sim.
+[00:03:59] Ceci Fronteira era uma porta unida que dava uma chance, né?
+[00:04:04] Pra quem quisesse estudar, me estudou outro.
+[00:04:07] Qual a minha nota que eu consegui na época?
+[00:04:10] Eu fiz seis meses de cursos de inglês lá
+[00:04:13] e posteriormente eu fiz dois semestros para o pessoal do meu curso, né?
+[00:04:18] Computação, lá em Chicago.
+[00:04:20] Eu passei um ano e dois meses lá em Chicago e me fui uma experiência maravilhosa.
+[00:04:25] Na minha vida que eu tinha, ia bater, bater perna lá, né?
+[00:04:29] E fui, tá?
+[00:04:31] Voltando, né?
+[00:04:34] Eu conclui a graduação e já engratei logo direto com a estrada.
+[00:04:39] Eu estava a cadê quando passava.
+[00:04:42] Durante o período no mestrado, a gente tem um desempenho que é chamado de estrada de docência.
+[00:04:47] Na estrada de docência, a gente tem a oportunidade de acompanhar uma professora em sala de aula.
+[00:04:52] No meu caso, ele já foi como um professor mesmo.
+[00:04:55] Que tinha feito a seleção para a professora do Instituto, aí foi selecionado, né?
+[00:05:01] Aí era o civilinho.
+[00:05:03] Aí, matando, nós estamos precisando de professora em contação gráfica.
+[00:05:06] Aí, matando, nós estamos precisando de professora em ética.
+[00:05:09] Aí, eu dei uma ética, né?
+[00:05:11] Tô mentira.
+[00:05:13] Eu, matando, nós estamos precisando de professora em contação.
+[00:05:16] Então, todo tipo de disciplina, a gente teve um pouquinho de experiência.
+[00:05:18] É que precisamos de computação, programação de atado-digérito, chutou-me de dados,
+[00:05:22] computação gráfica, ética, né?
+[00:05:25] Do que vinha eu tava sentando.
+[00:05:27] Arrambutando buraco, sabe?
+[00:05:29] Já fui professora de alguns colegas-pilos.
+[00:05:32] Eles estavam esperando a ingressa a um professor.
+[00:05:35] E o que, infelizmente, é o dinheiro do pessoal de estudos mais públicos.
+[00:05:39] Então, antes que eles ficam sem professora, fica dependente de eles contratarem um professor para a sua ética.
+[00:05:44] Mas, se dois anos como professora na UESC, durante o período mestrado,
+[00:05:49] passado mais um tempo depois, eu fui selecionado para ser professor lá na linguista,
+[00:05:54] foi aí que eu tive contato com outros cursos que tinham,
+[00:05:57] que era assim, de alguma forma, relacionado com a computação.
+[00:06:00] Eu fui descobrir o que era assim, a informação, a nada, o vento de sistema, o feio de computadores.
+[00:06:06] Porque, pra mim, só tinha uma sexta computação com outro.
+[00:06:10] Ação de epico lá depois, eu fui professor lá da UFESA,
+[00:06:15] na Estada Federal Rural de Semiárduo, aí em Bolsonaro.
+[00:06:18] Eu esperei isso muito bacana também.
+[00:06:20] Eu peguei várias disciplinas, mas todas as disciplinas eram só, mas era um troço de sua computação.
+[00:06:25] Porque lá eles têm muitos cursos de engenharia.
+[00:06:27] O Pessoal da Engenharia, lá no começo do curso, eles vêm
+[00:06:32] a parte, pelo menos, a parte básica de programação.
+[00:06:35] Para a gente ver a partir do que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é!
+[00:06:42] E aí, passado o período lá da UFESA, fui selecionado para ser professor lá no curso de UESC,
+[00:06:50] a mais um dos sistemas lá da Faculdade CDE.
+[00:06:53] O que é que ficou em UESC? E o total é o explore, tá?
+[00:06:57] Vamos ver já se for bom, vamos pegar várias e vamos ver se for bom.
+[00:07:01] E é basicamente não corrido, né?
+[00:07:03] Atualmente eu já estou por aqui com vocês.
+[00:07:06] Dica-me o sucesso.
+[00:07:09] Todo mundo é aqui estudando inglês?
+[00:07:11] Sim.
+[00:07:12] Sim?
+[00:07:13] E se não estivesse estudando, já sabe que vai atrás, né?
+[00:07:16] Porque em inglês há muito tempo deixou de ser alcoçomal.
+[00:07:19] Alcoçomal?
+[00:07:21] Para estudar fora, 60% deles.
+[00:07:25] E também tem uma prova que é lá na exaterra que eles fazem aqui, né?
+[00:07:30] Isso aqui é pago.
+[00:07:32] Tem um teste de profissência, né?
+[00:07:34] Tem um teste de profissência.
+[00:07:35] Tem um tóforo, mas tem outros com...
+[00:07:39] IELTS.
+[00:07:40] IELTS, isso?
+[00:07:41] Sim, sim.
+[00:07:43] É confuso.
+[00:07:45] Ah sim, na época.
+[00:07:47] Na época, a gente fazia um tóforo.
+[00:07:50] A gente fazia um tóforo, eles ofereciam um tóforo de graça,
+[00:07:53] então com o tóforo você paga.
+[00:07:55] A desculpa que tinham dois modalidades.
+[00:07:56] O tóforo IELTS e o tóforo IELTS.
+[00:08:00] O IELTS são as quatro modalidades.
+[00:08:03] Que é a speaking, writing, listening e reading.
+[00:08:06] Você paga para poder fazer a prova e eles sentem o certificado de que você tem profissência no idioma.
+[00:08:11] Isso, isso é para profissiência.
+[00:08:13] Não é para você ter uma chance de ir lá para fora, né?
+[00:08:17] Não é específico.
+[00:08:18] É, é um requisito.
+[00:08:19] Não é que isso vai te dar, tipo, um caminho para você fazer um estágio, fazer um sanduíche ou alguma coisa assim.
+[00:08:26] É assim, aí depois você é engraçado com o meu programa,
+[00:08:31] aí dá pra ter uma faculdade de bolsa e se culpar, você fica composto.
+[00:08:34] Hoje em dia...
+[00:08:35] Não mexe a bolsa sanduíche, sabe?
+[00:08:37] Hoje, um dia, o tóforo, o tóforo...
+[00:08:41] Não sei se vocês não tem, mas ele faz uma organização.
+[00:08:45] Mas aí depois eu descobri que esse lugar da universidade,
+[00:08:48] os problemas do governo se oferecem bolsas,
+[00:08:51] aí não é só o sessifonteiro, não é?
+[00:08:53] Então você é meio em procurar, a pesquisar.
+[00:08:55] Quem oferece bolso, o que você faz para conseguir interessar nela?
+[00:08:59] Mas tem muita oportunidade, aí...
+[00:09:02] Quem quiser.
+[00:09:03] Provavelmente já usou todo mundo, já.
+[00:09:05] Já, mas não tem muita coisa.
+[00:09:09] E eu parei, tem que ficar com a notificação no pé do vídeo e ficar aborrindo.
+[00:09:12] E é ofensiva, né?
+[00:09:14] É ofensiva, a profissionalidade do sessifonteiro.
+[00:09:17] E chamar ele?
+[00:09:21] Aí, assim, quem não está de inglês,
+[00:09:24] para o fulho, né?
+[00:09:25] O quanto antes?
+[00:09:26] A prova é que vocês estão a conhecer do curso.
+[00:09:28] Que vai ser muito bom para vocês.
+[00:09:30] Principalmente se vocês quiserem trabalhar para fora.
+[00:09:33] Para o momento, conseguir alguma oportunidade para trabalhar fora.
+[00:09:36] Você pode conseguir, inicialmente,
+[00:09:38] alguma oportunidade para trabalhar de forma remota.
+[00:09:41] Como já conheci, vários anos na faculdade,
+[00:09:43] começaram a formar remota e depois eles foram chamadas para demorar no país.
+[00:09:47] A pessoa começa a trabalhar que é meu,
+[00:09:50] ou em dólar, né?
+[00:09:52] Mas é preciso no caso do idioma.
+[00:09:56] Agora isso.
+[00:09:57] Você tem que tirar aquele bloqueio que a gente geralmente tem,
+[00:10:00] no idioma estrangeiro.
+[00:10:02] Você forma a frase em português, traduz,
+[00:10:06] para depois falar.
+[00:10:08] Quando você está a estudar um outro idioma,
+[00:10:10] você tira esse bloqueio de pensar no outro.
+[00:10:12] Pensar com a depostada dos ensinheiros.
+[00:10:14] Já pensa no outro idioma.
+[00:10:16] Isso é algo automático.
+[00:10:18] Inclusive, isso é o que fez para que algum brasileiro
+[00:10:22] conseguiu se tornar um CEO da Coca-Cola.
+[00:10:25] Já não.
+[00:10:26] O que você pensa?
+[00:10:28] Eu nunca me neguei.
+[00:10:30] Então a gente quantifica ele,
+[00:10:32] aí que vai de cada um.
+[00:10:34] Se a gente consegue sonhar em inglês ou em francês,
+[00:10:41] ou em qualquer idioma que a gente está estudando, né?
+[00:10:43] Quando você toma uma opantada,
+[00:10:46] ou quando você está com fome,
+[00:10:48] você não formula a frase "Ai, que fome".
+[00:10:50] Você sente a fome e depois formula, né?
+[00:10:53] Então essa agilidade que ele fala da gente transformar
+[00:10:56] a nossa abstração em frase,
+[00:10:59] só vai codificar de jeito diferente.
+[00:11:01] Mas isso exige treino?
+[00:11:03] Essa parte.
+[00:11:05] No dia a dia, eu não sei nem se percebei,
+[00:11:07] eu nunca estava falando no outro idioma.
+[00:11:09] Quando eu fui falar, vamos falar, vamos lá.
+[00:11:11] É isso que eu vou falar.
+[00:11:13] O top art.p não tem o speaking,
+[00:11:15] que era uma principal eficiência.
+[00:11:17] Vamos falar.
+[00:11:19] Aí com a nota que eu consegui,
+[00:11:21] eu consegui estudar em inglês lá.
+[00:11:23] E é assim.
+[00:11:25] A gente era meio que obligada,
+[00:11:27] porque como é que você é sobrevivei lá,
+[00:11:29] vivendo um país que só fala inglês,
+[00:11:31] tentando falar português.
+[00:11:33] Não tinha como.
+[00:11:35] Até em sala de aula mesmo.
+[00:11:37] O meu vocabulário sempre foi um distenso.
+[00:11:39] Por quê? Porque dentro de criança,
+[00:11:41] eu jogo muito jogo.
+[00:11:43] E naquela época,
+[00:11:45] não tinha tradução como a gente tem hoje.
+[00:11:47] E era tudo isso.
+[00:11:49] Quando eu pegava os cartos, eu cheguei a comer.
+[00:11:51] É bom.
+[00:11:53] Vai entender nada.
+[00:11:55] Tinha um jogo que antes de essas coisas,
+[00:11:57] de ter acesso à internet,
+[00:11:59] quase que tinha tradução.
+[00:12:01] Aí eu ficava jogando,
+[00:12:03] e depois eu saí no jogo para entrar...
+[00:12:05] Você nem percebe,
+[00:12:07] mas você isso já está estudando.
+[00:12:09] É por isso que eu só não desvojei o jogo.
+[00:12:11] É prático.
+[00:12:15] E aí,
+[00:12:17] depois que você aprende o idioma,
+[00:12:19] para aprender qualquer idioma,
+[00:12:21] você tira esse intrasco que tem na cabeça.
+[00:12:23] Então, lá nos Estados Unidos,
+[00:12:25] vai começar a estudar japonês.
+[00:12:27] Era pra cima e pra baixo com japonês, né?
+[00:12:29] Aí começa a estudar.
+[00:12:31] A ciência da minha parte.
+[00:12:33] Aqui, em Fortaleza,
+[00:12:35] a ciência da minha parte.
+[00:12:37] A ciência da minha parte.
+[00:12:43] E a ciência da minha parte.
+[00:12:45] A ciência da minha parte.
+[00:13:01] Essa é a minha parte.
+[00:13:03] O primeiro semestre é o básico do básico.
+[00:13:05] E também é o mais concorrido, né?
+[00:13:07] Muita gente está tentando fazer a prova.
+[00:13:09] Se eu não me engano,
+[00:13:11] você tinha que estudar.
+[00:13:13] Em Português,
+[00:13:15] a história já vai ser a prova.
+[00:13:17] No teste nível,
+[00:13:19] você já pode ingressar no outro semestre.
+[00:13:21] Não precisa ingressar no primeiro semestre.
+[00:13:23] E aí, se você não é estudado no conteúdo,
+[00:13:25] vai pra prova e...
+[00:13:27] Algumas dicas.
+[00:13:29] Tem muito material bom, disponível,
+[00:13:31] de forma gratuita na internet.
+[00:13:33] É...
+[00:13:35] O próprio Duolingo, ele fornece o certificado.
+[00:13:37] Tanto que o professor Vinícius
+[00:13:39] falou que ele usou pra
+[00:13:41] conseguir os empregos fora,
+[00:13:43] que ele conseguiu
+[00:13:45] certificado de proficiência.
+[00:13:47] Ele tirou pelo Duolingo.
+[00:13:49] Em terceiro lugar,
+[00:13:51] acho que a melhor maneira de se aprender inglês,
+[00:13:53] principalmente pra quem está começando,
+[00:13:55] é a professora particular. Então, tamo aí.
+[00:13:57] [risos]
+[00:13:59] Ah, tem que ter, tem que ter.
+[00:14:01] Tem que ter, cara.
+[00:14:03] O que eu ia dizer,
+[00:14:05] você só aprende inglês,
+[00:14:07] se você falar inglês,
+[00:14:09] e pensar inglês.
+[00:14:11] Exatamente.
+[00:14:13] Mas você vai vindo com a sua plática.
+[00:14:15] Você só aprende, desde que você aprendeu
+[00:14:17] o ponto gay, desde que você nasceu,
+[00:14:19] a gente só aprende falando.
+[00:14:21] Você sabe Português.
+[00:14:23] Português é um dos mais difíceis que tem em Português.
+[00:14:25] E eu?
+[00:14:27] A gente tem muito som,
+[00:14:29] tem muito vocabulário,
+[00:14:31] tem muita conjugação,
+[00:14:33] tem muita moral.
+[00:14:35] As outras também são muito melhores.
+[00:14:37] As conjugações que a gente nem usa
+[00:14:39] hoje em dia, no dia a dia,
+[00:14:41] só que existe.
+[00:14:43] Fora cá de cultura.
+[00:14:45] Ai, tem um grupo de línguas,
+[00:14:47] S.B.S. com o Itapherim.
+[00:14:49] Tem o IMPORTAMENTE,
+[00:14:51] que é um curso muito bom.
+[00:14:53] Ah, Matheus, nós estamos todos zarados.
+[00:14:55] Muitos dispositivos conectados a internet.
+[00:14:57] Então, não todo mundo só sabe o hábito.
+[00:14:59] O mais difícil
+[00:15:01] é a questão de você conseguir
+[00:15:03] ter o adespreno.
+[00:15:05] Você pegar,
+[00:15:07] continuar todo dia,
+[00:15:09] meia hora, para poder estudar
+[00:15:11] outra coisa de inglês.
+[00:15:13] Quando você começa a cutuar o hábito,
+[00:15:15] é tranquilo.
+[00:15:17] O começo sempre é difícil.
+[00:15:19] Estudar não é só teoria,
+[00:15:21] é consumir material.
+[00:15:23] Então, uma coisa assim
+[00:15:25] que eu recomendo para quem quer
+[00:15:27] para quem não gosta de
+[00:15:29] estudar inglês,
+[00:15:31] procura um vídeo no Youtube sobre
+[00:15:33] alguma coisa que você sabe fazer,
+[00:15:35] ou algum assunto que você já domina,
+[00:15:37] mas aquilo lá em inglês.
+[00:15:39] Ah, eu gosto de, sei lá,
+[00:15:41] falar sobre
+[00:15:43] musculação.
+[00:15:45] Pega o básico da musculação em inglês,
+[00:15:47] alguém explicando.
+[00:15:49] Vai ter vários termos ali
+[00:15:51] associados.
+[00:15:53] A sítica é animada.
+[00:15:55] A música é agista.
+[00:15:57] A sítica é animada.
+[00:15:59] Assim já vai estar.
+[00:16:01] Escuta música.
+[00:16:03] Joga com joguinho.
+[00:16:05] Consomem conteúdo.
+[00:16:07] Exatamente.
+[00:16:09] Quanto mais você necessita,
+[00:16:11] mais prazer você vai ter,
+[00:16:13] mais que você vai conseguir.
+[00:16:15] Pega o básico do pai, então.
+[00:16:17] Não é?
+[00:16:19] É, você só pede o básico do inglês,
+[00:16:21] você pode dar uma melhor opção.
+[00:16:25] O que enfiar é se
+[00:16:27] ou se não.
+[00:16:29] Outro dia que eu busco sério,
+[00:16:31] você já está entragendo,
+[00:16:33] ou?
+[00:16:35] É uma ótima oportunidade
+[00:16:37] você também fosse fim.
+[00:16:39] Colocar a experiência.
+[00:16:41] Não deixa
+[00:16:43] para o final do curso.
+[00:16:45] Não é isso.
+[00:16:47] É isso.
+[00:16:49] Porque quando você já teve
+[00:16:51] uma experiência de aula,
+[00:16:53] sabe que você já teve
+[00:16:55] uma experiência do que foi.
+[00:16:57] Mas você já teve um trabalho.
+[00:16:59] Você sabe mais ou menos
+[00:17:01] como é que funciona o esquema.
+[00:17:03] O que tem curso de políquio?
+[00:17:05] Tem um de Parades.
+[00:17:07] Tem um de francês,
+[00:17:09] tem um de mandarin.
+[00:17:11] Não sei se está formando o turno ainda.
+[00:17:13] De inglês, obviamente,
+[00:17:15] a gente tem
+[00:17:17] para todos esses ao mesmo tempo
+[00:17:19] para ouvir um pouco o idioma.
+[00:17:21] Então, roda atrás.
+[00:17:23] A presa é oportunidade.
+[00:17:25] É só o que tem.
+[00:17:27] Beleza?
+[00:17:29] Tá, seguinte.
+[00:17:33] Deixa eu ver se eu consigo
+[00:17:37] acessar aqui.
+[00:17:45] [MÚSICA]
+[00:18:15] [MÚSICA DE FUNDO]
+[00:37:43] Memoro, aí deu um negócio na minha cabeça.
+[00:37:45] [MÚSICA DE FUNDO]

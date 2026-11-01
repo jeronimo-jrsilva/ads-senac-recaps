@@ -2,6 +2,7 @@
 tipo: portal
 titulo: "Projeto de Extensão - Oficina 01 (Aprender a Aprender na Prática)"
 disciplina: "Projeto de Extensão"
+rotulo: "Oficina 01"
 semestre: "2026.2"
 data: 2026-09-03
 professor: "Haélio Márcio"

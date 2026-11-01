@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
-import os, sys
+"""
+Execução do Lote de Outubro via GPU Nativa (ROCm / whisper.cpp)
+"""
+import os
+import sys
+
 sys.path.insert(0, "/home/jeronimo/G-Sync/ads-senac-recaps/engine")
-from transcribe_ads_gpu import load_gpu_model, transcribe_full
+from transcribe_ads_gpu import transcribe_file_whisper_cpp
 
 tasks = [
     # Aulas ADS Outubro
@@ -29,7 +34,7 @@ tasks = [
         "/home/jeronimo/G-Sync/Audios_Faculdade/00_Inbox_Tablet/Voz 261029_185426.m4a",
         "/home/jeronimo/G-Sync/ads-senac-recaps/s2_2026_2/00_transcricoes_brutas/29-out-qui-bd-noite.txt"
     ),
-    # Programa de Líderes (vai direto para extra_lideres/)
+    # Programa de Líderes (armazenado em extra_lideres/)
     (
         "/home/jeronimo/G-Sync/Audios_Faculdade/00_Inbox_Tablet/Lideranca 15-10-26.m4a",
         "/home/jeronimo/G-Sync/ads-senac-recaps/s2_2026_2/00_transcricoes_brutas/extra_lideres/15-out-qui-lideranca.txt"
@@ -40,13 +45,15 @@ tasks = [
     )
 ]
 
-print("🚀 Iniciando Motor de Transcrição ADS - Lote de Outubro...")
-model = load_gpu_model("small")
+print("=" * 60)
+print("🚀 MOTOR ADS 2026.2 - TRANSCRIÇÃO GPU ROCm (RADEON RX 7600)")
+print("=" * 60)
 
 for audio_path, out_path in tasks:
-    if os.path.exists(out_path) and os.path.getsize(out_path) > 1000:
-        print(f"⏩ Já existe: {out_path} ({os.path.getsize(out_path)} bytes)")
+    # Se já existir e tiver tamanho expressivo (>25KB), pula
+    if os.path.exists(out_path) and os.path.getsize(out_path) > 25000:
+        print(f"⏩ Já concluído: {os.path.basename(out_path)} ({os.path.getsize(out_path)/1024:.1f} KB)")
         continue
-    transcribe_full(model, audio_path, out_path)
+    transcribe_file_whisper_cpp(audio_path, out_path)
 
-print("🎉 Lote de Outubro concluído!")
+print("\n🎉 Todas as transcrições do lote foram finalizadas com sucesso!")

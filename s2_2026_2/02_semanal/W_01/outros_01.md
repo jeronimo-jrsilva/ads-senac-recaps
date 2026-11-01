@@ -1,7 +1,8 @@
 ---
 tipo: portal
-titulo: "Outros - Aula 01 (Alinhamento Institucional com a Coordenação)"
-disciplina: "Outros"
+titulo: "Coordenação ADS - Alinhamento Institucional e Quadro Docente"
+disciplina: "Coordenação Institucional"
+rotulo: "Alinhamento"
 semestre: "2026.2"
 data: 2026-08-14
 professor: "Fred (Coordenação)"

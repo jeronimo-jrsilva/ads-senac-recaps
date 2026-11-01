@@ -1,0 +1,20 @@
+# =====================================================================
+# ARQUIVO DE ORIGEM : Voz 261022_081548.m4a
+# DATA DA GRAVAÇÃO  : 2026-10-22 (Qui)
+# HORÁRIO (INÍCIO-FIM): 08:15:48 -> 13:22:53 (5h07m)
+# CLASSIFICAÇÃO     : AULA_ADS_MANHA | Linguagem C / Extensão
+# ENTRA NO PORTAL?  : SIM
+# =====================================================================
+
+[00:00:00] O que você tem um código em C, que é um código que a gente consegue entender, mas a máquina só consegue entender o que é 0 e 1.
+[00:00:18] Então tem um passo a passo para você gerar um código que a máquina já conseguir executar, para você entender.
+[00:00:25] Você começa com o seu código do fonte, no caso da gente estar em .c.
+[00:00:33] Aí depois, você tem a fase do pré-concessador, depois do pré-concessador, você vai para a fase do computador.
+[00:00:41] Aqui é onde ele faz, por exemplo, a linkage das bibliotecas.
+[00:00:44] Você tem aquele "include stdlib.ha", "include stdlib.ha", "include +.ha". Então o pré-concessador ele faz essa ligação do seu corte com as bibliotecas que já estão pré-programadas.
+[00:00:58] Depois, por exemplo, o compilador, a gente tem uma disciplina que é "complicadores", que é a gente tem que tentar fazer mais ou menos como funciona um compilador na prática.
+[00:01:12] Não pergunto mais nada do que mais de nada, é "complicadores".
+[00:01:16] Depois, você tem uma assemble, depois do assemble você tem um linker e depois do linker você tem um executado.
+[00:01:25] Não pergunto mais nada. Deixa que você consiga seguir o linker para mostrar os arquivos.
+[00:01:31] Olha aí, Thiago, se tu esqueceu logo.
+[00:01:55] [MÚSICA]

@@ -282,7 +282,7 @@ body {
 
 /* Content Typography */
 .spa-section { display: none; }
-.spa-section.active { display: block; animation: fadeIn 0.3s ease; }
+.spa-section.active { display: block; }
 
 @keyframes fadeIn {
     from { opacity: 0; transform: translateY(6px); }
